@@ -1880,6 +1880,7 @@
 * [jardimin/hls-packager](https://github.com/jardimin/hls-packager): Simple shell script to create a multi bitrate hls variant playlist, based on ffmpeg
 * [kuu/hls-parser](https://github.com/kuu/hls-parser): A simple library to read/write HLS playlists
 * [Eyevinn/hls-playlist-parser](https://github.com/Eyevinn/hls-playlist-parser): A Javascript library to parse Hls playlists
+* [Eyevinn/hls-proxy](https://github.com/Eyevinn/hls-proxy): NPM library for proxying HLS requests
 * [evoactivity/hls-proxy-docker](https://github.com/evoactivity/hls-proxy-docker): Docker to setup HLS Proxy
 * [Eyevinn/hls-relay](https://github.com/Eyevinn/hls-relay): Script to pull HLS stream from one origin and push to another origin
 * [kanongil/hls-segment-reader](https://github.com/kanongil/hls-segment-reader): Node.js Readable for retrieving HLS segments.
