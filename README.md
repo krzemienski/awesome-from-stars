@@ -3209,7 +3209,6 @@
 * [veeta-tv/roku-gamp](https://github.com/veeta-tv/roku-gamp): Google Analytics Measurement Protocol for Roku
 * [computmaxer/roku-hdhomerun](https://github.com/computmaxer/roku-hdhomerun): Watch TV on your Roku using your HDHomerun PRIME and Wallop!
 * [pkulak/roku-http](https://github.com/pkulak/roku-http): A very simple Roku HTTP client in BrightScript.
-* [dailyburn/roku-iap](https://github.com/dailyburn/roku-iap): None
 * [belltown/Roku-JSONDecoder](https://github.com/belltown/Roku-JSONDecoder): Roku JSON Decoder
 * [dphang/roku-lib](https://github.com/dphang/roku-lib): Some useful Roku utilities
 * [juliomalves/roku-libs](https://github.com/juliomalves/roku-libs): Compilation of utilities for Roku development
