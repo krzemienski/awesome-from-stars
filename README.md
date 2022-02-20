@@ -880,7 +880,7 @@
 * [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom): A macOS app to control the Xcode Simulator.
 * [kreait/convertappicon](https://github.com/kreait/convertappicon): converts a pdf into multiple app icons for iOS and watchOS
 * [rancher/convoy](https://github.com/rancher/convoy): A Docker volume plugin, managing persistent container volumes.
-* [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter): A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+* [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter): A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * [condemane/cookiecutter-airflow-ha](https://github.com/condemane/cookiecutter-airflow-ha): This cookiecutter generates a high availability airflow(webserver, scheduler, workers) application.  The generated application uses celery, redis, postgres sql and runs on a highly scalable docker/kubernetes environment.  It also uses slack for realtime notifications.
 * [pawamoy/cookiecutter-awesome](https://github.com/pawamoy/cookiecutter-awesome): Cookiecutter to create an awesome list.
 * [avelino/cookiecutter-bottle](https://github.com/avelino/cookiecutter-bottle): A cookiecutter template for creating reusable Bottle projects quickly.
