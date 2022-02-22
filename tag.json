@@ -3917,6 +3917,9 @@
     "canonical-web-and-design/snapcraft.io": [
         "Other"
     ],
+    "canonical/microk8s": [
+        "Other"
+    ],
     "canonical/multipass": [
         "Other"
     ],
@@ -11601,9 +11604,6 @@
         "Other"
     ],
     "ubports/unity8": [
-        "Other"
-    ],
-    "ubuntu/microk8s": [
         "Other"
     ],
     "ubuntu/ubuntu-make": [
