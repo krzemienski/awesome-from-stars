@@ -4264,7 +4264,7 @@
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 * [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
 * [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
-* [google/zx](https://github.com/google/zx): A tool for writing better scripts
+* [google/zx](https://github.com/google/zx): Replace Bash with JavaScript
 * [zype/zype-roku-scenegraph](https://github.com/zype/zype-roku-scenegraph): None
 
 # Python
