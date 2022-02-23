@@ -815,7 +815,7 @@
 * [louisdh/cmd-almanac](https://github.com/louisdh/cmd-almanac): A list of commands I frequently use
 * [fabian1811/cmdline-musicdetection](https://github.com/fabian1811/cmdline-musicdetection): Generates a fingerprint and queries it against the Gracenote API
 * [intel/cmrt](https://github.com/intel/cmrt): C for Media Runtime
-* [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): There's code a goin' on
+* [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers.
 * [mmattozzi/cocoa-rest-client](https://github.com/mmattozzi/cocoa-rest-client): A free, native Apple macOS app for testing HTTP/REST endpoints
 * [CocoaDebug/CocoaDebug](https://github.com/CocoaDebug/CocoaDebug): iOS Debugging Tool 🚀
 * [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods): The Cocoa Dependency Manager.
