@@ -8228,6 +8228,9 @@
     "mermaid-js/mermaid": [
         "Other"
     ],
+    "mermaid-js/mermaid-live-editor": [
+        "Other"
+    ],
     "mesos/chronos": [
         "Other"
     ],
