@@ -1785,6 +1785,7 @@
 * [jibsaramnim/gpd-pocket2-hackintosh](https://github.com/jibsaramnim/gpd-pocket2-hackintosh): Clover configuration and required/related Kexts to run macOS on your GPD Pocket 2.
 * [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu): Dissecting the M1's GPU for 3D acceleration
 * [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools): Tools for monitoring NVIDIA GPUs on Linux 
+* [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial): None
 * [BradLarson/GPUImage3](https://github.com/BradLarson/GPUImage3): GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 * [kevguy/GracenoteSDKSample](https://github.com/kevguy/GracenoteSDKSample): Sample app of GNSDK built with Android Studio
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
