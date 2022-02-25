@@ -3147,6 +3147,7 @@
 * [redisson/redisson](https://github.com/redisson/redisson): Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 * [Redocly/redoc](https://github.com/Redocly/redoc): 📘  OpenAPI/Swagger-generated API Reference Documentation
 * [briandunnington/Redoku](https://github.com/briandunnington/Redoku): Redux for Roku
+* [J0hnbX/RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources): None
 * [johnno1962/Refactorator](https://github.com/johnno1962/Refactorator): Xcode Plugin that Refactors Swift & Objective-C
 * [lexrus/RegExPlus](https://github.com/lexrus/RegExPlus): A nifty RegEx test tool built with SwiftUI
 * [upmc-enterprises/registry-creds](https://github.com/upmc-enterprises/registry-creds): Allow for AWS ECR, Google Registry, & Azure Container Registry credentials to be refreshed inside your Kubernetes cluster via ImagePullSecrets
