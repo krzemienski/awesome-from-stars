@@ -243,6 +243,7 @@
 * [stoplightio/api-spec-converter](https://github.com/stoplightio/api-spec-converter): This package helps to convert between different API specifications (Postman, Swagger, RAML, StopLight).
 * [apifox/apifox](https://github.com/apifox/apifox): Apifox = Postman + Swagger + Mock + JMeter。Apifox 官网：https://www.apifox.cn/
 * [Tencent/APIJSON](https://github.com/Tencent/APIJSON): 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+* [apimatic/apimatic-cli](https://github.com/apimatic/apimatic-cli): A CLI for APIMatic to validate and transform API specs and to create client libraries. 
 * [CodeEagle/APlay](https://github.com/CodeEagle/APlay): A Better(Maybe) iOS Audio Stream、Cache、Play Framework
 * [apolloconfig/apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -984,6 +985,7 @@
 * [tchakabam/dash-proxy](https://github.com/tchakabam/dash-proxy): Experimental MPEG-DASH media gateway - proxy on-the-fly modified MP4 segment metadata
 * [theolampert/dash-server](https://github.com/theolampert/dash-server): Small, command-line HTTP/2 file server for serving MPEG-DASH content.
 * [clappr/dash-shaka-playback](https://github.com/clappr/dash-shaka-playback): A dash playback (based on shaka-player) for :clapper: Clappr
+* [xhlove/dash-subtitle-extractor](https://github.com/xhlove/dash-subtitle-extractor): Dash Embeded Stream Subtitle Extractor
 * [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock): A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 * [Eyevinn/dash-validator-js](https://github.com/Eyevinn/dash-validator-js): MPEG DASH validator JS library
@@ -1237,6 +1239,7 @@
 * [thiagolioy/dribbleswift](https://github.com/thiagolioy/dribbleswift): dribbleIos
 * [SquaredTiki/Dringend-Issues](https://github.com/SquaredTiki/Dringend-Issues): Public issue tracker for the Dringend app, an iPad dev environment
 * [Axinom/drm-quick-start](https://github.com/Axinom/drm-quick-start): Quick start for Axinom DRM
+* [feedsbrain/drm-tools](https://github.com/feedsbrain/drm-tools): Tools for Widevine and Playready
 * [samrath/DRMKeyFetcher-Android](https://github.com/samrath/DRMKeyFetcher-Android): DRMKeyFetcher can be used to fetch the license keys for both DASH and HLS media files in android using Exoplayer library.
 * [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader): Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
 * [alibaba/druid](https://github.com/alibaba/druid): 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
@@ -1389,6 +1392,7 @@
 * [syedhali/EZAudio](https://github.com/syedhali/EZAudio): An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
 * [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 * [strongself/fabricio](https://github.com/strongself/fabricio): Fetch Fabric.io statistics like never before
+* [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk): Used to integrate the Facebook Platform with your iOS & tvOS apps.
 * [facebookarchive/facebook-swift-sdk](https://github.com/facebookarchive/facebook-swift-sdk): Integrate your iOS apps in Swift with Facebook Platform.
 * [deepfakes/faceswap](https://github.com/deepfakes/faceswap): Deepfakes Software For All
@@ -1527,6 +1531,7 @@
 * [jasontbradshaw/flac2mp3](https://github.com/jasontbradshaw/flac2mp3): A multithreaded Python script for converting flac files to mp3 files on Linux and OS X.
 * [Netflix/flamescope](https://github.com/Netflix/flamescope): FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 * [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+* [pallets/flask](https://github.com/pallets/flask): The Python micro framework for building web applications.
 * [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin): Simple and extensible administrative interface framework for Flask
 * [jonalxh/Flask-Admin-Dashboard](https://github.com/jonalxh/Flask-Admin-Dashboard): Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX
 * [dellintosh/flask-adminlte](https://github.com/dellintosh/flask-adminlte): Flask extension for AdminLTE dashboard and control panel template
@@ -2370,6 +2375,7 @@
 * [ltebean/Live](https://github.com/ltebean/Live): Demonstrates how to build a live broadcast app(Swift 3)
 * [unifiedstreaming/live-demo-cmaf](https://github.com/unifiedstreaming/live-demo-cmaf): Live Demo using Live Media Ingest (Interface1) 
 * [AwakeningSV/live-infrastructure](https://github.com/AwakeningSV/live-infrastructure): Live video transcoding infrastructure
+* [aws-solutions/live-stream-on-aws](https://github.com/aws-solutions/live-stream-on-aws): The live stream solution is a reference deployment that demonstrates how to deliver highly available live streaming video through an integrated workflow between Elemental Cloud and AWS.
 * [scribd/LiveCollections](https://github.com/scribd/LiveCollections): Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.
 * [kubernetes-csi/livenessprobe](https://github.com/kubernetes-csi/livenessprobe): A sidecar container that can be included in a CSI plugin pod to enable integration with Kubernetes Liveness Probe.
 * [cupcakearmy/livestream](https://github.com/cupcakearmy/livestream): Dockerized nginx real time streaming with hsl and dash
@@ -2795,6 +2801,7 @@
 * [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB): Web tool for database management
 * [balopez83/One-Mix-3-Hackintosh](https://github.com/balopez83/One-Mix-3-Hackintosh): This project attempts to bring MacOS to the One-Mix 3 & 2s with Full Support
+* [theonedev/onedev](https://github.com/theonedev/onedev): Self-hosted Git Server with Kanban and CI/CD
 * [tjf801/oneliners](https://github.com/tjf801/oneliners): one line of python code to impliment algorithms
 * [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 * [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
@@ -3247,6 +3254,7 @@
 * [rook/rook](https://github.com/rook/rook): Storage Orchestration for Kubernetes
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
+* [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
 * [code-vicar/rpm](https://github.com/code-vicar/rpm): Roku package manager
 * [rq/rq](https://github.com/rq/rq): Simple job queues for Python
 * [Parallels/rq-dashboard](https://github.com/Parallels/rq-dashboard): Flask-based web front-end for monitoring RQ queues
@@ -3533,6 +3541,7 @@
 * [deezer/spleeter](https://github.com/deezer/spleeter): Deezer source separation library including pretrained models.
 * [scottbez1/splitflap](https://github.com/scottbez1/splitflap): DIY split-flap display
 * [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl): Downloads songs from your Spotify Playlist
+* [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader): Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 * [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [zenangst/Spots](https://github.com/zenangst/Spots): :bamboo: Spots is a cross-platform view controller framework for building component-based UIs
 * [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions): Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
@@ -4145,6 +4154,7 @@
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
 * [standardnotes/web](https://github.com/standardnotes/web): A free, open-source, and completely encrypted notes app. https://standardnotes.com
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
+* [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web
 * [neosapience/web-skeleton](https://github.com/neosapience/web-skeleton): kubernetes + docker-compose + flask + celery + redis + mongo + frontend(any) + nginx
 * [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent): A WebDriver server for iOS that runs inside the Simulator.
 * [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): A WebDriver server for iOS that runs inside the Simulator.
@@ -4225,6 +4235,7 @@
 * [rovo89/XposedBridge](https://github.com/rovo89/XposedBridge): The Java part of the Xposed framework.
 * [SeungheonOh/xrdm](https://github.com/SeungheonOh/xrdm): X Resouce Database Manager 
 * [ios-utils/XRouter](https://github.com/ios-utils/XRouter): Navigate anywhere in just one line.
+* [xhlove/XstreamDL-CLI](https://github.com/xhlove/XstreamDL-CLI): 命令行版本的HLS/DASH流下载器，支持标准AES-128-CBC解密
 * [moshfeu/y2mp3](https://github.com/moshfeu/y2mp3): An Electron app to download youtube playlist
 * [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv): YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 * [lukasbach/yana](https://github.com/lukasbach/yana): Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
