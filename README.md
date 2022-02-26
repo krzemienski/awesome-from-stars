@@ -617,6 +617,7 @@
 * [lets-blade/blade](https://github.com/lets-blade/blade): :rocket: Lightning fast and elegant mvc framework for Java8
 * [blinksh/blink](https://github.com/blinksh/blink): Blink Mobile Shell for iOS (Mosh based)
 * [objective-see/BlockBlock](https://github.com/objective-see/BlockBlock): BlockBlock provides continual protection by monitoring persistence locations.
+* [phil-opp/blog_os](https://github.com/phil-opp/blog_os): Writing an OS in Rust
 * [madeden/blogposts](https://github.com/madeden/blogposts): Repository for all posts by Mad Eden S.L
 * [ParallaxWave/blood_i3](https://github.com/ParallaxWave/blood_i3): None
 * [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin): Blue Ocean is a reboot of the Jenkins CI/CD User Experience
