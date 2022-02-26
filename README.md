@@ -472,6 +472,7 @@
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators): A resource tracking a number of Operators out in the wild.
+* [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives): Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 * [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
 * [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning): A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates): A collection of awesome readme templates to display on your profile
@@ -3253,7 +3254,6 @@
 * [georgejecook/rooibos](https://github.com/georgejecook/rooibos): simple, flexible, fun brightscript test framework for roku scenegraph apps
 * [rook/rook](https://github.com/rook/rook): Storage Orchestration for Kubernetes
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
-* [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
 * [code-vicar/rpm](https://github.com/code-vicar/rpm): Roku package manager
 * [rq/rq](https://github.com/rq/rq): Simple job queues for Python
