@@ -1148,7 +1148,6 @@
 * [dragoncube/docker-google-domains-ddns](https://github.com/dragoncube/docker-google-domains-ddns): Docker container for No-IP DNS updater
 * [restreamio/docker-gstreamer](https://github.com/restreamio/docker-gstreamer): Ubuntu-based container images with upstream GStreamer pre-installed
 * [Eyevinn/docker-hevc](https://github.com/Eyevinn/docker-hevc): Docker container to create HEVC streaming packages
-* [garicchi/docker-hls-server](https://github.com/garicchi/docker-hls-server): A server of http live streaming on Docker
 * [oznu/docker-homebridge](https://github.com/oznu/docker-homebridge): Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac. 
 * [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab): Docker Compose Dateien für Homelabs
 * [Eyevinn/docker-html5player](https://github.com/Eyevinn/docker-html5player): A Docker containerized HTML5 player based on Shaka Player
