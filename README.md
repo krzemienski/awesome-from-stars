@@ -351,6 +351,7 @@
 * [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer): AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
 * [beetbox/audioread](https://github.com/beetbox/audioread): cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python
 * [syedhali/AudioStreamer](https://github.com/syedhali/AudioStreamer): A Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine
+* [dimitris-c/AudioStreaming](https://github.com/dimitris-c/AudioStreaming): An AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
 * [facebookarchive/augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control): Augmented Traffic Control: A tool to simulate network conditions
 * [erikdubois/Aureola](https://github.com/erikdubois/Aureola): A conky collection of great conky's following the lua syntax
 * [antonpup/Aurora](https://github.com/antonpup/Aurora): Unified lighting effects across multiple brands and various games.
@@ -1223,6 +1224,7 @@
 * [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles): My dotfiles.
 * [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
 * [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro): My personal dotfiles (how do these have so many stars?)
+* [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template): A template for structuring dotfiles (using Dotbot as an installer) 📜
 * [iAmrSalman/Dots](https://github.com/iAmrSalman/Dots): Lightweight Concurrent Networking Framework
 * [safinsingh/dots](https://github.com/safinsingh/dots): My dotfiles for Arch Linux and bspwm
 * [clayrisser/dotstow](https://github.com/clayrisser/dotstow): Manage dotfiles with stow
@@ -1451,6 +1453,7 @@
 * [intel-media-ci/ffmpeg](https://github.com/intel-media-ci/ffmpeg): Intel developer pre-check staging area for ffmpeg.org contributions.
 * [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg): Docker build for FFmpeg on Ubuntu / Alpine / Centos 7 / Scratch
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
+* [jlw4049/FFMPEG-Audio-Encoder](https://github.com/jlw4049/FFMPEG-Audio-Encoder): A powerful FFMPEG audio encoder GUI
 * [imoreapps/ffmpeg-avplayer-for-ios-tvos](https://github.com/imoreapps/ffmpeg-avplayer-for-ios-tvos): A tiny but powerful iOS and Apple TV OS av player framework that's based on the FFmpeg library.
 * [NikNakk/ffmpeg-aws-bento4](https://github.com/NikNakk/ffmpeg-aws-bento4): None
 * [serverlesspub/ffmpeg-aws-lambda-layer](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer): FFmpeg/FFprobe AWS Lambda layer
@@ -2592,6 +2595,7 @@
 * [mozilla/mp4parse-rust](https://github.com/mozilla/mp4parse-rust): Parser for ISO Base Media Format aka video/mp4 written in Rust.
 * [sannies/mp4parser](https://github.com/sannies/mp4parser): A Java API to read, write and create MP4 files
 * [realeyes-media/mp4pssh](https://github.com/realeyes-media/mp4pssh): None
+* [TechSmith/mp4v2](https://github.com/TechSmith/mp4v2): Fork of mp4v2: https://code.google.com/archive/p/mp4v2/
 * [mParticle/mparticle-roku-sdk](https://github.com/mParticle/mparticle-roku-sdk): mParticle SDK for Roku Streaming devices
 * [videojs/mpd-parser](https://github.com/videojs/mpd-parser): None
 * [squidpickles/mpd-to-m3u8](https://github.com/squidpickles/mpd-to-m3u8): Converts an MPEG-DASH MPD file to an HLS master playlist.
@@ -4019,6 +4023,7 @@
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
 * [yigiterinc/video-streaming-over-http](https://github.com/yigiterinc/video-streaming-over-http): Video streaming from Webcam with HLS, FFMPEG, NGINX and RTMP
 * [tabvn/video-streaming-service](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
+* [soumanpaul/Video-streaming-web-app](https://github.com/soumanpaul/Video-streaming-web-app): Media streaming application,  Inspired by features from Netflix and YouTube, this application will implement content uploading and viewing capabilities with a media content upload feature for content providers, and real-time content streaming for viewers
 * [flavioribeiro/video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator): :camera: Generate thumbnail sprites from videos.
 * [HenryLulu/video-to-text-ocr-demo](https://github.com/HenryLulu/video-to-text-ocr-demo): 视频硬字幕提取
 * [GeoHaber/Video-Transcode](https://github.com/GeoHaber/Video-Transcode): ffmpeg H264 H265 HEVC MPEG Video Trans-code Image-Matrix Collage
