@@ -2103,7 +2103,7 @@
 * [pbs/its](https://github.com/pbs/its): image transformation service
 * [svhawks/itunes-sales-client](https://github.com/svhawks/itunes-sales-client): Fastlane sales and analytics client
 * [trulyronak/itunesconnect](https://github.com/trulyronak/itunesconnect): A Mac OS X App That Lets You Access iTunes Connect
-* [kokorin/Jaffree](https://github.com/kokorin/Jaffree): Java ffmpeg and ffprobe command-line wrapper
+* [kokorin/Jaffree](https://github.com/kokorin/Jaffree): ______ Stop the War in Ukraine!  _______ Java ffmpeg and ffprobe command-line wrapper
 * [mpolden/jarvis2](https://github.com/mpolden/jarvis2): Awesome dashboard built with Flask and Mithril
 * [veeta-tv/jasmine-roku](https://github.com/veeta-tv/jasmine-roku): Example jasmine tests using node-roku-test for verifying Roku channel behavior
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
