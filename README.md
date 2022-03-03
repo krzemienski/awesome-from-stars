@@ -3436,7 +3436,7 @@
 * [simplejson/simplejson](https://github.com/simplejson/simplejson): simplejson is a simple, fast, extensible JSON encoder/decoder for Python 
 * [leixiaohua1020/simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile): ffmpeg examples in Android / IOS / WinPhone
 * [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM): Sample code for Virtualization framework
-* [apptainer/singularity](https://github.com/apptainer/singularity): Singularity: Application containers for Linux
+* [apptainer/singularity](https://github.com/apptainer/singularity): Singularity has been EOL'ed, see Apptainer
 * [sessionboy/sinn](https://github.com/sessionboy/sinn): a blog based on of react,webpack3,dva,redux,material-ui,fetch,generator,markdown,nodejs,koa2,mongoose,docker,shell,and async/await  基于react+koa2技术栈的个人开源博客系统 
 * [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren): Notify users when a new version of your app is available and prompt them to upgrade.
 * [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes 
