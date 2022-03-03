@@ -2529,7 +2529,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): API first cloud platform
+* [micro/micro](https://github.com/micro/micro): API first development platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
@@ -3495,7 +3495,7 @@
 * [subhra74/snowflake](https://github.com/subhra74/snowflake): Graphical SFTP client and terminal emulator with helpful utilities
 * [priore/SOAPEngine](https://github.com/priore/SOAPEngine): This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app.
 * [XiaoMi/soar](https://github.com/XiaoMi/soar): SQL Optimizer And Rewriter
-* [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
+* [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
 * [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
 * [socketio/socket.io](https://github.com/socketio/socket.io): Realtime application framework (Node.JS server)
 * [socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift): None
