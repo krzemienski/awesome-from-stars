@@ -2529,7 +2529,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): API first development platform
+* [micro/micro](https://github.com/micro/micro): API first cloud platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
@@ -3401,10 +3401,10 @@
 * [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5): A cross-platform shadowsocks GUI client
 * [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install): Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 * [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG): Next Generation of ShadowsocksX
-* [google/shaka-packager](https://github.com/google/shaka-packager): A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
-* [google/shaka-player](https://github.com/google/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
-* [google/shaka-player-embedded](https://github.com/google/shaka-player-embedded): Shaka Player in a C++ Framework
-* [google/shaka-streamer](https://github.com/google/shaka-streamer): A simple config-file based approach to preparing streaming media, based on FFmpeg and Shaka Packager.
+* [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager): A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
+* [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
+* [shaka-project/shaka-player-embedded](https://github.com/shaka-project/shaka-player-embedded): Shaka Player in a C++ Framework
+* [shaka-project/shaka-streamer](https://github.com/shaka-project/shaka-streamer): A simple config-file based approach to preparing streaming media, based on FFmpeg and Shaka Packager.
 * [dreymonde/Shallows](https://github.com/dreymonde/Shallows): 🛶 Your lightweight persistence toolbox
 * [JohnSundell/Shapeshift](https://github.com/JohnSundell/Shapeshift): Quickly convert a folder containing Swift files into an iPad-compatible Playground
 * [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob): Distributed scheduled job framework

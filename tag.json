@@ -5945,18 +5945,6 @@
     "google/promises": [
         "Other"
     ],
-    "google/shaka-packager": [
-        "Other"
-    ],
-    "google/shaka-player": [
-        "Other"
-    ],
-    "google/shaka-player-embedded": [
-        "Other"
-    ],
-    "google/shaka-streamer": [
-        "Other"
-    ],
     "google/swift-integration-tests": [
         "Other"
     ],
@@ -10458,6 +10446,18 @@
         "Other"
     ],
     "shahraizali/awesome-django": [
+        "Other"
+    ],
+    "shaka-project/shaka-packager": [
+        "Other"
+    ],
+    "shaka-project/shaka-player": [
+        "Other"
+    ],
+    "shaka-project/shaka-player-embedded": [
+        "Other"
+    ],
+    "shaka-project/shaka-streamer": [
         "Other"
     ],
     "shawnsky/extract-subtitles": [
