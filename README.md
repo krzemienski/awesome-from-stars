@@ -2330,7 +2330,7 @@
 * [bitmovin/libdash](https://github.com/bitmovin/libdash): MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
 * [strukturag/libde265.js](https://github.com/strukturag/libde265.js): JavaScript-only version of libde265 HEVC/H.265 decoder.
 * [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs): golang library to read and write various subtitle formats
-* [ithewei/libhv](https://github.com/ithewei/libhv): 🔥 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
+* [ithewei/libhv](https://github.com/ithewei/libhv): 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
 * [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice): A cross-platform protocol library to communicate with iOS devices
 * [posixninja/libimobiledevice](https://github.com/posixninja/libimobiledevice): A protocol library to access an iPhone or iPod Touch in Linux
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
