@@ -4129,7 +4129,7 @@
 * [code-vicar/vscode-rpm](https://github.com/code-vicar/vscode-rpm): None
 * [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools): Database management for VSCode
 * [RLovelett/vscode-swift](https://github.com/RLovelett/vscode-swift): An extension for VS Code which provides support for the Swift language. 
-* [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform): A Visual Studio Code extension for Hashicorp Terraform
+* [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform): HashiCorp Terraform VSCode extension
 * [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code. 
 * [sterin/vscode-xcodebuild-tools](https://github.com/sterin/vscode-xcodebuild-tools): Work with Xcode projects from inside Visual Studio Code
 * [vmware-archive/vsphere-storage-for-kubernetes](https://github.com/vmware-archive/vsphere-storage-for-kubernetes): vSphere Storage for Kubernetes
