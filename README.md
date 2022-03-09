@@ -3384,6 +3384,7 @@
 * [adghayes/serverless-ffmpeg](https://github.com/adghayes/serverless-ffmpeg): serverless function for transcoding audio and video with ffmpeg
 * [awslabs/serverless-subtitles](https://github.com/awslabs/serverless-subtitles): Serverless Subtitles can handle a video input, extract the sound, transcript it and generate different subtitle files for your video.
 * [sahin/serverless-youtube-dl](https://github.com/sahin/serverless-youtube-dl): Amazon Lambda - Serverless youtube-dl
+* [Jinxiansen/ServerSideSwift](https://github.com/Jinxiansen/ServerSideSwift): 🦄 Swift server open source projects based on the Swift 4.1 and Vapor 3 frameworks. (Swift 服务端开源项目) 
 * [martinlasek/serversideswift.racing](https://github.com/martinlasek/serversideswift.racing): statistics on growth trend of all major server-side swift frameworks
 * [SmartJSONEditor/ServerSideSwift_VaporConfigurations](https://github.com/SmartJSONEditor/ServerSideSwift_VaporConfigurations): Server Side Swift with Vapor, how to configure local testing environments and deploying to AWS EC2
 * [91yun/serverspeeder](https://github.com/91yun/serverspeeder): 锐速破解版
@@ -3733,7 +3734,6 @@
 * [JohnSundell/SwiftPlate](https://github.com/JohnSundell/SwiftPlate): Easily generate cross platform Swift framework projects from the command line
 * [inamiy/SwiftRewriter](https://github.com/inamiy/SwiftRewriter): 📝 Swift code formatter using SwiftSyntax.
 * [malcommac/SwiftRichString](https://github.com/malcommac/SwiftRichString): 👩‍🎨 Elegant Attributed String composition in Swift sauce
-* [Jinxiansen/SwiftServerSide-Vapor](https://github.com/Jinxiansen/SwiftServerSide-Vapor): 🦄 Swift server open source projects based on the Swift 4.1 and Vapor 3 frameworks. (Swift 服务端开源项目) 
 * [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup): SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 * [NSHipster/SwiftSyntaxHighlighter](https://github.com/NSHipster/SwiftSyntaxHighlighter): A syntax highlighter for Swift code that uses SwiftSyntax to generate Pygments-compatible HTML.
 * [JohnSundell/SwiftTips](https://github.com/JohnSundell/SwiftTips): A collection of Swift tips & tricks that I've shared on Twitter
