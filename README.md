@@ -2747,7 +2747,7 @@
 * [jaredallard/notion-app](https://github.com/jaredallard/notion-app): Notion for Linux
 * [sysdrum/notion-app](https://github.com/sysdrum/notion-app): Notion.so desktop application for Linux 
 * [konstantinmuenster/notion-clone](https://github.com/konstantinmuenster/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
-* [yassenshopov/Notion-GCal-Sync](https://github.com/yassenshopov/Notion-GCal-Sync): A Python script to automate the syncing of tasks between Google Calendar and the all-in-one productivity workspace, Notion. It utilizes API and is customizable for your own needs. Free to use.
+* [yassenshopov/notion-gcal-sync](https://github.com/yassenshopov/notion-gcal-sync): A Python script to automate the syncing of tasks between Google Calendar and the all-in-one productivity workspace, Notion. It utilizes API and is customizable for your own needs. Free to use.
 * [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux): Native Notion packages for Linux
 * [jamalex/notion-py](https://github.com/jamalex/notion-py): Unofficial Python API client for Notion.so
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
