@@ -3182,6 +3182,7 @@
 * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest): An easy and powerful Rust HTTP Client
 * [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor): Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
 * [AMD-OSX/Resources](https://github.com/AMD-OSX/Resources): AMD OS X Resources.
+* [GSA/resources.data.gov](https://github.com/GSA/resources.data.gov): Resources for open data and enterprise data inventory management
 * [netguru/ResponseDetective](https://github.com/netguru/ResponseDetective): Sherlock Holmes of the networking layer. :male_detective:
 * [resque/resque](https://github.com/resque/resque): Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 * [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured): Java DSL for easy testing of REST services
