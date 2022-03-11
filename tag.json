@@ -1100,6 +1100,9 @@
     "Huachao/vscode-restclient": [
         "Other"
     ],
+    "IAmBlackHacker/Video-Downloader": [
+        "Other"
+    ],
     "IBDecodable/IBLinter": [
         "Other"
     ],
@@ -2498,6 +2501,9 @@
     "abdullahselek/Merhaba": [
         "Other"
     ],
+    "abdullahselek/Swifty360Player": [
+        "Other"
+    ],
     "abema/go-mp4": [
         "Other"
     ],
@@ -3602,6 +3608,9 @@
     "be5invis/Iosevka": [
         "Font"
     ],
+    "beardypig/pymp4": [
+        "Other"
+    ],
     "bedrockio/bedrock-core": [
         "Other"
     ],
@@ -4424,6 +4433,9 @@
     "cta-wave/R4WG20-QoE-Metrics": [
         "Other"
     ],
+    "cta-wave/Test-Content": [
+        "Other"
+    ],
     "cuongdcdev/ffmpegGui2": [
         "Other"
     ],
@@ -5064,6 +5076,9 @@
         "Other"
     ],
     "easonlin404/ksm": [
+        "Other"
+    ],
+    "ebaauw/homebridge-ws": [
         "Other"
     ],
     "ebu/awesome-broadcasting": [
@@ -6983,6 +6998,9 @@
     "jtblin/kube2iam": [
         "Other"
     ],
+    "jtvberg/StreamDock": [
+        "Other"
+    ],
     "juggernaut/nginx-flask-postgres-docker-compose-example": [
         "Other"
     ],
@@ -7029,6 +7047,9 @@
         "Other"
     ],
     "jzbor/dotfiles": [
+        "Other"
+    ],
+    "jzillmann/pdf-to-markdown": [
         "Other"
     ],
     "k-vernooy/dotfiles": [
@@ -7683,6 +7704,9 @@
         "Other"
     ],
     "librosa/librosa": [
+        "Other"
+    ],
+    "lieff/minimp4": [
         "Other"
     ],
     "lightspark/lightspark": [
@@ -9332,6 +9356,9 @@
     "pengchujin/v2rayDocker": [
         "Other"
     ],
+    "penpot/penpot": [
+        "Other"
+    ],
     "pepicrft/SoundCloudSwift": [
         "Other"
     ],
@@ -10451,6 +10478,9 @@
     "shahraizali/awesome-django": [
         "Other"
     ],
+    "shaka-project/eme_logger": [
+        "Other"
+    ],
     "shaka-project/shaka-packager": [
         "Other"
     ],
@@ -11202,6 +11232,9 @@
         "Other"
     ],
     "tauri-apps/tauri": [
+        "Other"
+    ],
+    "tbaranes/AudioPlayerSwift": [
         "Other"
     ],
     "tbaranes/SwiftyUtils": [
@@ -12018,6 +12051,9 @@
         "Other"
     ],
     "wabzqem/swift-api-k8s": [
+        "Other"
+    ],
+    "wader/static-ffmpeg": [
         "Other"
     ],
     "wader/ydls": [

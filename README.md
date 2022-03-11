@@ -349,6 +349,7 @@
 * [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit): Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 * [AudioKit/AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): AudioKit Synth One: Open-Source iOS Synthesizer App
 * [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer): AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
+* [tbaranes/AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift): AudioPlayer is a simple class for playing audio in iOS, macOS and tvOS apps.
 * [beetbox/audioread](https://github.com/beetbox/audioread): cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python
 * [syedhali/AudioStreamer](https://github.com/syedhali/AudioStreamer): A Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine
 * [dimitris-c/AudioStreaming](https://github.com/dimitris-c/AudioStreaming): An AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
@@ -1320,6 +1321,7 @@
 * [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth): Darktooth : From the darkness... it watches.
 * [envoy/Embassy](https://github.com/envoy/Embassy): Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
 * [MediaBrowser/Emby.Roku](https://github.com/MediaBrowser/Emby.Roku): Emby for Roku
+* [shaka-project/eme_logger](https://github.com/shaka-project/eme_logger): Logs Encrypted Media Extension (EME) events and calls to help investigate issues in premium media sites.
 * [artsy/Emergence](https://github.com/artsy/Emergence): TV. Shows.
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt): Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
@@ -1934,6 +1936,7 @@
 * [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk): AdoptOpenJDK HomeBrew Tap
 * [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient.
 * [bschlenk/homebridge-roku](https://github.com/bschlenk/homebridge-roku): Control your Roku media player from your iOS devices using Apple's HomeKit.
+* [ebaauw/homebridge-ws](https://github.com/ebaauw/homebridge-ws): Homebridege plugin for virtual weather station
 * [lwitzani/homebridgeStatusWidget](https://github.com/lwitzani/homebridgeStatusWidget): None
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
@@ -2539,6 +2542,7 @@
 * [dongyg/mildred](https://github.com/dongyg/mildred): None
 * [Kademi/milton-aws](https://github.com/Kademi/milton-aws): This is an open source project of using Amazon S3 (Simple Storage Service) in milton
 * [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally
+* [lieff/minimp4](https://github.com/lieff/minimp4): Minimalistic MP4 mux/demux single header library 
 * [minio/minio](https://github.com/minio/minio): High Performance, Kubernetes Native Object Storage
 * [minio/minio-py](https://github.com/minio/minio-py): MinIO Client SDK for Python
 * [PatrickKalkman/MiniVideoEncoder](https://github.com/PatrickKalkman/MiniVideoEncoder): A modern video encoding platform for encoding videos optimized for streaming supporting modern encodings such as x264, x265, VP9 and AV1
@@ -2893,9 +2897,11 @@
 * [mxcl/Path.swift](https://github.com/mxcl/Path.swift): Delightful, robust, cross-platform and chainable file-pathing functions.
 * [piemonte/PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer): ▶️ video player, simple way to play and stream media on iOS/tvOS
 * [johnlinp/pdf-to-markdown](https://github.com/johnlinp/pdf-to-markdown): Convert PDF files into markdown files
+* [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown): A PDF to Markdown converter
 * [metachris/pdfx](https://github.com/metachris/pdfx): Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 * [HirokiUmatani/PEAR-ZoomingView-iOS](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS): None
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
+* [penpot/penpot](https://github.com/penpot/penpot): Penpot - The Open-Source design & prototyping platform
 * [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): Custom pentesting tools
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 * [antoinehng/per-title-analysis](https://github.com/antoinehng/per-title-analysis): Analysis provider for adapting your OTT bitrate ladder
@@ -3038,6 +3044,7 @@
 * [microsoft/pylance-release](https://github.com/microsoft/pylance-release): Documentation and issues for Pylance
 * [scivision/PyLivestream](https://github.com/scivision/PyLivestream): Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more
 * [sbraz/pymediainfo](https://github.com/sbraz/pymediainfo): A Python wrapper around the MediaInfo library
+* [beardypig/pymp4](https://github.com/beardypig/pymp4): A Python MP4 Parser and toolkit
 * [owncloud/pyocclient](https://github.com/owncloud/pyocclient): ownCloud client library for Python
 * [Pylons/pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter): A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static type checker for Python
@@ -3602,6 +3609,7 @@
 * [ywangd/stash](https://github.com/ywangd/stash): StaSh - Shell for Pythonista
 * [jsbain/stash_git_tutorial](https://github.com/jsbain/stash_git_tutorial): stash git tools tutorial
 * [davidask/StateViewController](https://github.com/davidask/StateViewController): Stateful view controller containment for iOS and tvOS
+* [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg): Docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 * [statping/statping](https://github.com/statping/statping): Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 * [slackapi/steno](https://github.com/slackapi/steno): :vhs: Slack app testing companion - Record and Replay your HTTP requests, both incoming and outgoing
 * [bitrise-io/stepman](https://github.com/bitrise-io/stepman): Step collection manager
@@ -3623,6 +3631,7 @@
 * [airbnb/streamalert](https://github.com/airbnb/streamalert): StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 * [olivierboucher/StreamCenter](https://github.com/olivierboucher/StreamCenter): tvOS project that aims at providing various video feeds to the AppleTV.
 * [dougsillars/StreamClarity](https://github.com/dougsillars/StreamClarity): Measure video quality (SSIM, PSNR and VMAF) remotely
+* [jtvberg/StreamDock](https://github.com/jtvberg/StreamDock): Streaming service viewer.
 * [riltech/streamer](https://github.com/riltech/streamer): Go Package built around spinning up streaming processes
 * [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5): Testbed examples for Red5 Pro HTML SDK usage
 * [red5pro/streaming-ios](https://github.com/red5pro/streaming-ios): This repository contains a simple project with a number of iOS examples that can be used for testing and reference.
@@ -3741,6 +3750,7 @@
 * [williamFalcon/SwiftTryCatch](https://github.com/williamFalcon/SwiftTryCatch): Adds try-catch support for Swift
 * [ahmetws/swifttube](https://github.com/ahmetws/swifttube): iOS conference videos in one place
 * [unpause-live/SwiftVideo](https://github.com/unpause-live/SwiftVideo): Swift Video Framework for Linux, macOS, and iOS/iPadOS
+* [abdullahselek/Swifty360Player](https://github.com/abdullahselek/Swifty360Player): iOS 360-degree video player streaming from an AVPlayer.
 * [vapor-community/swiftybeaver-provider](https://github.com/vapor-community/swiftybeaver-provider): SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework https://swiftybeaver.com
 * [SwiftyBeaver/SwiftyBeaver-Vapor](https://github.com/SwiftyBeaver/SwiftyBeaver-Vapor): SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework
 * [Kitura/SwiftyRequest](https://github.com/Kitura/SwiftyRequest): SwiftyRequest is an HTTP networking library built for Swift.
@@ -3797,6 +3807,7 @@
 * [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk): Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 * [simonknittel/terraform-google-video-transcoding](https://github.com/simonknittel/terraform-google-video-transcoding): Terraform Module to transcode and serve videos via Google Cloud services.
 * [mumoshu/terraform-provider-eksctl](https://github.com/mumoshu/terraform-provider-eksctl): Manage AWS EKS clusters using Terraform and eksctl
+* [cta-wave/Test-Content](https://github.com/cta-wave/Test-Content): Collects information CTA Test Content
 * [ebu/test-engine-live-tools](https://github.com/ebu/test-engine-live-tools): Small tools and scripts for the EBU test engine platform.
 * [gpac/test-engine-live-tools](https://github.com/gpac/test-engine-live-tools): Small tools and scripts for the EBU test engine platform.
 * [ebu/test-engine-ondemand](https://github.com/ebu/test-engine-ondemand): EBU on-demand test engine
@@ -4017,6 +4028,7 @@
 * [AK1194/Video-Compression-motion-estimation-block-video-encoder](https://github.com/AK1194/Video-Compression-motion-estimation-block-video-encoder): This repository is about video compression, and more specifically about the motion estimation block (ME block) of a video encoder. It is a research project for developing an efficient motion estimation algorithm, so that the video compression technology can keep pace with the high frame rate videos and high resolution videos.
 * [leandromoreira/video-containers-debugging-tools](https://github.com/leandromoreira/video-containers-debugging-tools): A set of command lines to debug video streaming files like mp4 (MPEG-4 Part 14), ts (MPEG-2 Part 1), fmp4 in Dash, HLS, or MSS, with or without DRM.
 * [caacuk/video-conversion-app](https://github.com/caacuk/video-conversion-app): Flask Web Application - Video Conversion
+* [IAmBlackHacker/Video-Downloader](https://github.com/IAmBlackHacker/Video-Downloader): This script for download videos from anywhere and live streaming on vlc player
 * [Unrud/video-downloader](https://github.com/Unrud/video-downloader): Download videos from websites like YouTube and many others (based on yt-dlp)
 * [shrimpgo/video-downloader](https://github.com/shrimpgo/video-downloader): Helper to download HLS videos
 * [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples): Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
