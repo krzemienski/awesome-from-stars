@@ -3117,7 +3117,7 @@
 * [rakam-io/rakam-api](https://github.com/rakam-io/rakam-api): 📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)
 * [rakam-io/rakam-ios](https://github.com/rakam-io/rakam-ios): None
 * [rancher/rancher](https://github.com/rancher/rancher): Complete container management platform
-* [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop): Kubernetes and container management on the desktop
+* [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop): Container Management and Kubernetes on the Desktop
 * [ranger/ranger](https://github.com/ranger/ranger): A VIM-inspired filemanager for the console
 * [djselbeck/rapl-read-ryzen](https://github.com/djselbeck/rapl-read-ryzen): Quick & dirty hack to read AMD Ryzen rapl counters
 * [ljunkie/rarflix](https://github.com/ljunkie/rarflix): Plex Roku Channel - original source from https://github.com/plexinc/roku-client-public
