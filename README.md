@@ -260,6 +260,7 @@
 * [dreymonde/AppFolder](https://github.com/dreymonde/AppFolder): 🗂 Never use NSSearchPathForDirectoriesInDomains again
 * [maoschanz/appfolders-manager-gnome-extension](https://github.com/maoschanz/appfolders-manager-gnome-extension): A GNOME extension allowing easy management of "appfolders" directly from the applications grid.
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
+* [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher): Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * [AppImage/AppImageUpdate](https://github.com/AppImage/AppImageUpdate): AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
 * [appium/appium](https://github.com/appium/appium): :iphone: Automation for iOS, Android, and Windows Apps.
 * [appium-boneyard/appium-ci](https://github.com/appium-boneyard/appium-ci): Standalone gulp wrapper for appium ci.
@@ -2901,6 +2902,7 @@
 * [pillarjs/parseurl](https://github.com/pillarjs/parseurl): parse a url with memoization
 * [hjmangalam/parsyncfp](https://github.com/hjmangalam/parsyncfp): follow-on to parsync (parallel rsync) with better startup perf
 * [joelcarranza/particular-pinboard](https://github.com/joelcarranza/particular-pinboard): An enhanced pinboard bookmarklet for the persnickety
+* [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [bmizerany/pat](https://github.com/bmizerany/pat): None
 * [mxcl/Path.swift](https://github.com/mxcl/Path.swift): Delightful, robust, cross-platform and chainable file-pathing functions.
 * [piemonte/PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer): ▶️ video player, simple way to play and stream media on iOS/tvOS
