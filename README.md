@@ -142,6 +142,7 @@
 * [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial): Apple TV Aerial Screensaver for Mac
 * [videojs/aes-decrypter](https://github.com/videojs/aes-decrypter): None
 * [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking): A delightful networking framework for iOS, macOS, watchOS, and tvOS.
+* [marco-gallegos/after-install](https://github.com/marco-gallegos/after-install): shell scripts para operaciones comunes despues de instalar distros linux
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
 * [terrycain/aioboto3](https://github.com/terrycain/aioboto3): Wrapper to use boto3 resources with the aiobotocore async backend
@@ -289,6 +290,7 @@
 * [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron): Advanced REST Client - Desktop application
 * [majamee/arch-ffmpeg-gpac](https://github.com/majamee/arch-ffmpeg-gpac): A ready-prepared video transcoding pipeline to create DASH/ HLS compatible video files & playlists
 * [hhyo/Archery](https://github.com/hhyo/Archery): SQL 审核查询平台
+* [SofianeHamlaoui/ArchI0](https://github.com/SofianeHamlaoui/ArchI0): ArchI0 : Arch-Based Distros Applications Automatic Installation Script
 * [archlinux/archinstall](https://github.com/archlinux/archinstall): Arch Linux installer - guided, templates etc.
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 * [github/archive-program](https://github.com/github/archive-program): The GitHub Archive Program & Arctic Code Vault
@@ -575,6 +577,7 @@
 * [scality/backbeat](https://github.com/scality/backbeat): Zenko Backbeat is the core engine for asynchronous replication, optimized for queuing metadata updates and dispatching work to long-running tasks in the background.
 * [BellAppLab/Backgroundable](https://github.com/BellAppLab/Backgroundable): A collection of handy classes, extensions and global functions to handle being in the background using Swift.
 * [bit-team/backintime](https://github.com/bit-team/backintime): Back In Time - A simple backup tool for Linux
+* [fuzzy08/backpack-python](https://github.com/fuzzy08/backpack-python): a program that quickly installs programs to a newly loaded arch OS
 * [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open platform for building developer portals
 * [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 * [yagiz/Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
@@ -2461,8 +2464,10 @@
 * [woutervu/manjaro-dev-setup](https://github.com/woutervu/manjaro-dev-setup): None
 * [orestispanago/Manjaro-dev-tools](https://github.com/orestispanago/Manjaro-dev-tools): Notes on setting up my dev tools on Manjaro
 * [giswqs/manjaro-linux](https://github.com/giswqs/manjaro-linux): Shell scripts for setting up Manjaro Linux for Python programming and deep learning
+* [vhdsih/manjaro-linux-config](https://github.com/vhdsih/manjaro-linux-config): configuration for manjaro  linux
 * [karpfen/manjaro-setup](https://github.com/karpfen/manjaro-setup): Setup scripts for Manjaro Linux
 * [manzurahmed/manjaro-software-installation-guide](https://github.com/manzurahmed/manjaro-software-installation-guide): My own guide to install softwares on Manjaro Linux
+* [paperTurkey/manjaroSetup](https://github.com/paperTurkey/manjaroSetup): setup manjaro apps post install, modeled after ArchI0
 * [Netflix/mantis](https://github.com/Netflix/mantis): A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
 * [DmitryBespalov/ManualDependencyExample](https://github.com/DmitryBespalov/ManualDependencyExample): Example Xcode project with sub-projects and manual dependency management.
 * [joshlk/many_requests](https://github.com/joshlk/many_requests): Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
@@ -2877,7 +2882,10 @@
 * [hooram/ownphotos](https://github.com/hooram/ownphotos): Self hosted alternative to Google Photos 
 * [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide): A desktop environment for the reMarkable tablet
 * [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader): An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
+* [bensuperpc/Package_installer](https://github.com/bensuperpc/Package_installer): Automatic package installer for ArchLinux and Manjaro
 * [muxinc/packaging_examples](https://github.com/muxinc/packaging_examples): Samples files packaged by mux
+* [evertiro/packup](https://github.com/evertiro/packup): A simple backup & restore script for pacman.
+* [RubenKelevra/pacman.store](https://github.com/RubenKelevra/pacman.store): Pacman Mirror via IPFS for ArchLinux, Endeavouros and Manjaro
 * [microsoft/pai](https://github.com/microsoft/pai): Resource scheduling and cluster management for AI
 * [kitsunyan/pakku](https://github.com/kitsunyan/pakku): Pacman wrapper with AUR support
 * [manjaro/pamac](https://github.com/manjaro/pamac): This repo has been archived. Our code is now hosted at
@@ -2930,9 +2938,11 @@
 * [libratbag/piper](https://github.com/libratbag/piper): GTK application to configure gaming devices
 * [okayrunner/piper](https://github.com/okayrunner/piper): piper - a distributed workflow engine
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
+* [keithieopia/piu](https://github.com/keithieopia/piu): Cross platform package manager wrapper
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
 * [antoinehng/pixelwalker](https://github.com/antoinehng/pixelwalker): Video encoding quality assessment platform
 * [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability
+* [moparisthebest/pkgsync](https://github.com/moparisthebest/pkgsync): Sync installed packages across Arch installs
 * [piotrmski/plaid](https://github.com/piotrmski/plaid): Personal Jira worklog editor
 * [pinterest/plank](https://github.com/pinterest/plank): A tool for generating immutable model objects
 * [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages): Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers
