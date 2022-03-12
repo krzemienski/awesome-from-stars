@@ -3813,7 +3813,7 @@
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
 * [termux/termux-packages](https://github.com/termux/termux-packages): A build system and primary set of packages for Termux.
-* [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks): Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
+* [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks): Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦
 * [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk): Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 * [simonknittel/terraform-google-video-transcoding](https://github.com/simonknittel/terraform-google-video-transcoding): Terraform Module to transcode and serve videos via Google Cloud services.
 * [mumoshu/terraform-provider-eksctl](https://github.com/mumoshu/terraform-provider-eksctl): Manage AWS EKS clusters using Terraform and eksctl
