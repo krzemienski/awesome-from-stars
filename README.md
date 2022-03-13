@@ -3783,7 +3783,7 @@
 * [joshuaavalon/SynologyCloudflareDDNS](https://github.com/joshuaavalon/SynologyCloudflareDDNS): 📜 Cloudflare DDNS script for Synology
 * [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux): None
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-* [design-first/system-designer](https://github.com/design-first/system-designer): A low-code development platform for creating systems
+* [design-first/system-designer](https://github.com/design-first/system-designer): A low-code development platform for creating systems 🇺🇦#standwithUkraine
 * [design-first/system-designer-electron](https://github.com/design-first/system-designer-electron): System Designer for macOS, Windows & Linux
 * [pop-os/system76-driver](https://github.com/pop-os/system76-driver): System76 Driver for Pop!_OS
 * [pop-os/system76-power](https://github.com/pop-os/system76-power): System76 Power Management
