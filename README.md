@@ -360,7 +360,7 @@
 * [erikdubois/Aureola](https://github.com/erikdubois/Aureola): A conky collection of great conky's following the lua syntax
 * [antonpup/Aurora](https://github.com/antonpup/Aurora): Unified lighting effects across multiple brands and various games.
 * [AladW/aurutils](https://github.com/AladW/aurutils): Helper tools for the AUR.
-* [Superjo149/auryo](https://github.com/Superjo149/auryo): Auryo - Unofficial Soundcloud Desktop App
+* [sneljo1/auryo](https://github.com/sneljo1/auryo): [Discontinued] Auryo - Unofficial Soundcloud Desktop App
 * [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps
 * [google/auto](https://github.com/google/auto): A collection of source code generators for Java.
 * [majamee/auto-dash-hls](https://github.com/majamee/auto-dash-hls): Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder
