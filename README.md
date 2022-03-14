@@ -613,7 +613,7 @@
 * [bbc/bigscreen-player](https://github.com/bbc/bigscreen-player): Simplified media playback for bigscreen devices
 * [Gerzer/Binary-Shark](https://github.com/Gerzer/Binary-Shark): Manage your DigitalOcean account from iPhone and Apple Watch.
 * [bisq-network/bisq](https://github.com/bisq-network/bisq): A decentralized bitcoin exchange network
-* [teambit/bit](https://github.com/teambit/bit): A tool for component-driven application development. 
+* [teambit/bit](https://github.com/teambit/bit): A tool for composable application development.
 * [bitmovin/bitmovin-api-sdk-java](https://github.com/bitmovin/bitmovin-api-sdk-java): Java API SDK which enables you to seamlessly integrate the Bitmovin API into your projects
 * [bitmovin/bitmovin-java](https://github.com/bitmovin/bitmovin-java): DEPRECATED: Java client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-api-sdk-java
 * [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine -
@@ -3467,7 +3467,7 @@
 * [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView): ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 * [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk): None
 * [chika-kasymov/SKFormTextField](https://github.com/chika-kasymov/SKFormTextField): Custom UITextField/UITextView container with form validation, description texts and more
-* [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Cross-compiled in-RAM OS with containerized environments for reproducible cross-platform systems.
+* [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Reliably run any Linux distribution on any hardware with an in-RAM host OS for containerized environments.
 * [scrapinghub/skinfer](https://github.com/scrapinghub/skinfer): Skinfer is a tool for inferring and merging JSON schemas
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
 * [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
