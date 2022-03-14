@@ -3467,7 +3467,7 @@
 * [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView): ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 * [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk): None
 * [chika-kasymov/SKFormTextField](https://github.com/chika-kasymov/SKFormTextField): Custom UITextField/UITextView container with form validation, description texts and more
-* [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): SkiffOS: Lightweight cross-compiled Linux distribution optimized for hosting containers on embedded devices.
+* [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Cross-compiled in-RAM OS with containerized environments for reproducible cross-platform systems.
 * [scrapinghub/skinfer](https://github.com/scrapinghub/skinfer): Skinfer is a tool for inferring and merging JSON schemas
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
 * [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
