@@ -3192,7 +3192,7 @@
 * [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter): Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
 * [dineshabe/RemoteMedia](https://github.com/dineshabe/RemoteMedia): tvOS App that allows people to stream videos from phone to tv
 * [dineshabe/RemoteMedia-iOS](https://github.com/dineshabe/RemoteMedia-iOS): iOS App client that works with the tvOS or Android TV apps to play videos remotely
-* [bordaigorl/remy](https://github.com/bordaigorl/remy): The reMy app for the reMarkable tablet
+* [bordaigorl/remy](https://github.com/bordaigorl/remy): Remy, an online&offline manager for the reMarkable tablet
 * [malcommac/Repeat](https://github.com/malcommac/Repeat): 🕦 Modern Timer in Swift, Debouncer and Throttler (alternative to NSTimer) made with GCD
 * [vimond/replay](https://github.com/vimond/replay): A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 * [pop-os/repo-proprietary](https://github.com/pop-os/repo-proprietary): Configuration for building the proprietary repo with debrep
