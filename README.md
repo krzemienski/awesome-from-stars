@@ -1191,7 +1191,7 @@
 * [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav): Docker image for running an Apache WebDAV server
 * [mattpaletta/docker-xcbuild](https://github.com/mattpaletta/docker-xcbuild): Using Facebook xcbuild inside docker
 * [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode): Build, ship and run iOS apps like docker containers
-* [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
+* [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet): 🐋 Docker Cheat Sheet 🐋
 * [CircleCI-Public/dockerfile-wizard](https://github.com/CircleCI-Public/dockerfile-wizard): Use CircleCI to build custom Docker images with combinations of common languages/dependencies
 * [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles): Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
