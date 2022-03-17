@@ -1583,7 +1583,7 @@
 * [apache/flink](https://github.com/apache/flink): Apache Flink
 * [facebook/flipper](https://github.com/facebook/flipper): A desktop debugging platform for mobile developers.
 * [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel): A clean and easy-to-use floating panel UI component for iOS
-* [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers
+* [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [jakeheis/Flock](https://github.com/jakeheis/Flock): Automated deployment of Swift projects to servers
 * [iZettle/Flow](https://github.com/iZettle/Flow): Flow is a Swift library for working with asynchronous flows and life cycles
 * [malcommac/Flow](https://github.com/malcommac/Flow): Declarative approach to populate and manage UITableViews (see https://github.com/malcommac/FlowKit)
