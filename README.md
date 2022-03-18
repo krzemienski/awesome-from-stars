@@ -1372,7 +1372,7 @@
 * [fastlane/examples](https://github.com/fastlane/examples): 📝 A collection of example fastlane setups
 * [kubeflow/examples](https://github.com/kubeflow/examples): A repository to host extended examples and tutorials
 * [kubernetes/examples](https://github.com/kubernetes/examples): Kubernetes application example tutorials
-* [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers): 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+* [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers): 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 * [weinbergerlab/excess_pi_covid](https://github.com/weinbergerlab/excess_pi_covid): Estimating excess mortality due to P&I in the US related to COVID-19
 * [intoli/exodus](https://github.com/intoli/exodus): Painless relocation of Linux binaries–and all of their dependencies–without containers.
 * [google/ExoPlayer](https://github.com/google/ExoPlayer): An extensible media player for Android
