@@ -2163,7 +2163,7 @@
 * [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox): HTTP-based JSON storage.
 * [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport): JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [json-path/JsonPath](https://github.com/json-path/JsonPath): Java JsonPath implementation
-* [Julian/jsonschema](https://github.com/Julian/jsonschema): An implementation of the JSON Schema specification for Python
+* [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python
 * [better/jsonschema2db](https://github.com/better/jsonschema2db): Generate tables dynamically from a JSON Schema and insert data
 * [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo): Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc
 * [dashevo/JSONSchemaValidation](https://github.com/dashevo/JSONSchemaValidation): JSON Schema draft 4, 6 and 7 parsing and validation library written in Objective-C.

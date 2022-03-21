@@ -1286,9 +1286,6 @@
     "Juanpe/SkeletonView": [
         "Other"
     ],
-    "Julian/jsonschema": [
-        "Other"
-    ],
     "JumpFm/jumpfm": [
         "Other"
     ],
@@ -9720,6 +9717,9 @@
         "Other"
     ],
     "pypa/warehouse": [
+        "Other"
+    ],
+    "python-jsonschema/jsonschema": [
         "Other"
     ],
     "python-poetry/poetry": [
