@@ -279,7 +279,7 @@
 * [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 * [pop-os/apt-fetcher](https://github.com/pop-os/apt-fetcher): Rust crate for asynchronous and parallel fetching of apt repo files from apt repos. This can be used for updating apt lists and fetching packages from a pool.
 * [dvershinin/apt-to-dnf](https://github.com/dvershinin/apt-to-dnf): Aliases for creating "apt" CLI interface for RPM based distros
 * [teejee2008/aptik](https://github.com/teejee2008/aptik): Command-line tool for migrating system settings and data for distributions based on Debian, Arch and Fedora. Can backup and restore software repositories, packages, icons, themes, fonts, users, groups, home data, dconf settings, fstab/crypttab entries, and cron tasks.
