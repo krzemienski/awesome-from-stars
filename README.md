@@ -3508,7 +3508,7 @@
 * [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io): The official website's repository for the Snap store
 * [snapcore/snapd](https://github.com/snapcore/snapd): The snapd and snap tools enable systems to work with .snap files.
 * [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit): A Swift Autolayout DSL for iOS & OS X
-* [reportmill/SnapKit](https://github.com/reportmill/SnapKit): A Java UI kit
+* [reportmill/SnapKit](https://github.com/reportmill/SnapKit): A Java UI toolkit
 * [parski/SnapshotTest](https://github.com/parski/SnapshotTest): Snapshot testing tool for iOS and tvOS
 * [snickers/snickers](https://github.com/snickers/snickers): :chocolate_bar: An open source alternative to the video cloud encoding services.
 * [gurayyarar/SnipCommand](https://github.com/gurayyarar/SnipCommand): A free and open source command snippets manager for organize and copy fast.
