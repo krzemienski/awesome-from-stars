@@ -493,7 +493,7 @@
 * [Suishenyun/awesome-scripts](https://github.com/Suishenyun/awesome-scripts): useful scripts for Linux op
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [Jinxiansen/Awesome-Server-Side-Swift](https://github.com/Jinxiansen/Awesome-Server-Side-Swift):  Swift 服务端开发 Perfect、Vapor资料。
-* [optionalvalue/awesome-server-side-swift](https://github.com/optionalvalue/awesome-server-side-swift): A community curated list of resources about Server Side Swift
+* [cak/awesome-server-side-swift](https://github.com/cak/awesome-server-side-swift): A community curated list of resources about Server Side Swift
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv): :zap:A curated list of awesome resources for building Smart TV apps
 * [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.

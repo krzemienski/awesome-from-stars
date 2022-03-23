@@ -3950,6 +3950,9 @@
     "caffeine-ng/caffeine-ng": [
         "Other"
     ],
+    "cak/awesome-server-side-swift": [
+        "Other"
+    ],
     "callumlocke/json-formatter": [
         "Other"
     ],
@@ -9198,9 +9201,6 @@
         "Other"
     ],
     "operator-framework/operator-lifecycle-manager": [
-        "Other"
-    ],
-    "optionalvalue/awesome-server-side-swift": [
         "Other"
     ],
     "optonaut/ActiveLabel.swift": [
