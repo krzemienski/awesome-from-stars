@@ -1964,7 +1964,7 @@
 * [MuShare/Httper-iOS](https://github.com/MuShare/Httper-iOS): App for developers to test REST API.
 * [creeveliu/HTTPLiveStreamingTools](https://github.com/creeveliu/HTTPLiveStreamingTools): Latest Apple HLS tools copy from Apple Developer Center
 * [hnlq715/httpmq](https://github.com/hnlq715/httpmq): A simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.
-* [httprunner/httprunner](https://github.com/httprunner/httprunner): One-stop solution for HTTP(S) testing, written in Python.
+* [httprunner/httprunner](https://github.com/httprunner/httprunner): One-stop solution for HTTP(S) testing, covering API testing, load testing and digital experience monitoring (DEM).
 * [lipizr/HTTPServer](https://github.com/lipizr/HTTPServer): Simple local HTTP Web Server for AppleTV with TVJS
 * [encode/httpx](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
 * [xroche/httrack](https://github.com/xroche/httrack): HTTrack Website Copier, copy websites to your computer (Official repository)
