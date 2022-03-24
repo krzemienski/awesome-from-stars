@@ -711,7 +711,7 @@
 * [TheAlgorithms/C](https://github.com/TheAlgorithms/C): Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus): Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 * [VideoFlint/Cabbage](https://github.com/VideoFlint/Cabbage): A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.
-* [bitnami-labs/cabin](https://github.com/bitnami-labs/cabin): The Mobile Dashboard for Kubernetes
+* [vmware-archive/cabin](https://github.com/vmware-archive/cabin): The Mobile Dashboard for Kubernetes
 * [amiaopensource/cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech
 * [hyperoslo/Cache](https://github.com/hyperoslo/Cache): :package: Nothing but Cache.
 * [CacherApp/cacher-cli](https://github.com/CacherApp/cacher-cli): The command line interface to Cacher.
@@ -3920,8 +3920,8 @@
 * [Tubitv/TubiPlayer](https://github.com/Tubitv/TubiPlayer): A media streaming video player based on ExoPlayer from google, with convenience methods for ad supported content
 * [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi): An Xcode Project Generator For Bazel 
 * [klaussinani/tusk](https://github.com/klaussinani/tusk): Refined Evernote desktop app
-* [bitnami/tutorials](https://github.com/bitnami/tutorials): None
 * [eugenp/tutorials](https://github.com/eugenp/tutorials): Just Announced - "Learn Spring Security OAuth": 
+* [vmware-archive/tutorials](https://github.com/vmware-archive/tutorials): None
 * [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center): A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
 * [tuxedocomputers/tuxedo-tomte](https://github.com/tuxedocomputers/tuxedo-tomte): Magic housekeeping package for TUXEDO books
 * [tuxedocomputers/tuxedo.sh](https://github.com/tuxedocomputers/tuxedo.sh): Anpassungen nach der Installation / Adjustments after installation

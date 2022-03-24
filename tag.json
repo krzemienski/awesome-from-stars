@@ -3725,12 +3725,6 @@
     "bitmovin/libdash": [
         "Other"
     ],
-    "bitnami-labs/cabin": [
-        "Other"
-    ],
-    "bitnami/tutorials": [
-        "Other"
-    ],
     "bitrise-io/bitrise": [
         "Other"
     ],
@@ -12027,6 +12021,12 @@
         "Other"
     ],
     "vmf/transcode2resolve": [
+        "Other"
+    ],
+    "vmware-archive/cabin": [
+        "Other"
+    ],
+    "vmware-archive/tutorials": [
         "Other"
     ],
     "vmware-archive/vsphere-storage-for-kubernetes": [
