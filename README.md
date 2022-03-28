@@ -3516,7 +3516,7 @@
 * [subhra74/snowflake](https://github.com/subhra74/snowflake): Graphical SFTP client and terminal emulator with helpful utilities
 * [priore/SOAPEngine](https://github.com/priore/SOAPEngine): This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app.
 * [XiaoMi/soar](https://github.com/XiaoMi/soar): SQL Optimizer And Rewriter
-* [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
+* [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites (OSINT)
 * [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
 * [socketio/socket.io](https://github.com/socketio/socket.io): Realtime application framework (Node.JS server)
 * [socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift): None
