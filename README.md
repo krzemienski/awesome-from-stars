@@ -537,7 +537,7 @@
 * [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates): A collection of useful CloudFormation templates 
 * [awslabs/aws-clustered-video-streams](https://github.com/awslabs/aws-clustered-video-streams): A clustered video stream is an AWS architecture that increases the quality and reliability of live events by providing seamless regional failover capabilities for live video steams.  Operators can monitor the status of the clustered stream from a single pane of glass and dynamically control from which region the stream consumed by a player originates.
 * [michihiro/aws-console-app](https://github.com/michihiro/aws-console-app): Simple AWS Console for Chrome App
-* [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler): Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+* [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler): Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 * [aws-samples/aws-device-farm-sample-app-for-ios](https://github.com/aws-samples/aws-device-farm-sample-app-for-ios): None
 * [aws-samples/aws-device-farm-xctest-ui-tests-for-ios-sample-app](https://github.com/aws-samples/aws-device-farm-xctest-ui-tests-for-ios-sample-app): None
 * [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples): Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
@@ -3025,6 +3025,7 @@
 * [giampaolo/psutil](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [JohnSundell/Publish](https://github.com/JohnSundell/Publish): A static site generator for Swift developers
+* [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired database library for Python
 * [sturob/pullstar](https://github.com/sturob/pullstar): Pull all the repos you've starred from GitHub
 * [apache/pulsar](https://github.com/apache/pulsar): Apache Pulsar - distributed pub-sub messaging system
 * [krad/pupil](https://github.com/krad/pupil): 👁️Video Ingest Server that creates & syncs HLS assets to the cloud
