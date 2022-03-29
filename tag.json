@@ -932,9 +932,6 @@
     "FLEXTool/FLEX": [
         "Other"
     ],
-    "Fabio286/antares": [
-        "Other"
-    ],
     "FabriceSalvaire/CodeReview": [
         "Other"
     ],
@@ -2973,6 +2970,9 @@
         "Other"
     ],
     "ant-media/Ant-Media-Server": [
+        "Other"
+    ],
+    "antares-sql/antares": [
         "Other"
     ],
     "antiboredom/videogrep": [
