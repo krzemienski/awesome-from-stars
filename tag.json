@@ -6371,6 +6371,9 @@
     "iOSTestApps/tvOSSample": [
         "Other"
     ],
+    "iRobotEducation/root-robot-ble-protocol": [
+        "Other"
+    ],
     "iZettle/Flow": [
         "Other"
     ],
@@ -10518,6 +10521,9 @@
         "Other"
     ],
     "shaka-project/shaka-streamer": [
+        "Other"
+    ],
+    "shamlian/root-robot-sdk": [
         "Other"
     ],
     "shawnsky/extract-subtitles": [

@@ -3277,6 +3277,8 @@
 * [tmspzz/Rome](https://github.com/tmspzz/Rome): Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
 * [georgejecook/rooibos](https://github.com/georgejecook/rooibos): simple, flexible, fun brightscript test framework for roku scenegraph apps
 * [rook/rook](https://github.com/rook/rook): Storage Orchestration for Kubernetes
+* [iRobotEducation/root-robot-ble-protocol](https://github.com/iRobotEducation/root-robot-ble-protocol): Root Robot Bluetooth Low Energy Protocol Documentation
+* [shamlian/root-robot-sdk](https://github.com/shamlian/root-robot-sdk): Python control of Root Robot via BLE
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
 * [code-vicar/rpm](https://github.com/code-vicar/rpm): Roku package manager
