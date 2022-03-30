@@ -2266,7 +2266,7 @@
 * [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell): Kubernetes shell: An integrated shell for working with the Kubernetes
 * [jtblin/kube2iam](https://github.com/jtblin/kube2iam): kube2iam  provides different AWS IAM roles for pods running on Kubernetes
 * [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm): Aggregator for issues filed against kubeadm
-* [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps): A web-based UI for deploying and managing applications in Kubernetes clusters
+* [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps): A web-based UI for deploying and managing applications in Kubernetes clusters
 * [KubeOperator/kubeapps-plus](https://github.com/KubeOperator/kubeapps-plus): KubeApps 应用商店的定制版本，通过 Web UI 方式在 Kubernetes 集群中部署和管理基于 Helm Chart 的应用程序。
 * [astefanutti/kubebox](https://github.com/astefanutti/kubebox): ⎈❏ Terminal and Web console for Kubernetes
 * [prsh9/kubectl-dashboard](https://github.com/prsh9/kubectl-dashboard): Dev Desktop Dashboard for Kubernetes

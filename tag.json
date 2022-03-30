@@ -7427,9 +7427,6 @@
     "kubatruhlar/SFDraggableDialogView": [
         "Other"
     ],
-    "kubeapps/kubeapps": [
-        "Other"
-    ],
     "kubeflow/examples": [
         "Other"
     ],
@@ -12042,6 +12039,9 @@
         "Other"
     ],
     "vmware-tanzu/carvel-kapp": [
+        "Other"
+    ],
+    "vmware-tanzu/kubeapps": [
         "Other"
     ],
     "vmware-tanzu/octant": [
