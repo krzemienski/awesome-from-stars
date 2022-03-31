@@ -1238,6 +1238,7 @@
 * [chrislongo/download-hls](https://github.com/chrislongo/download-hls): Downloads, decrypts, and optionally joins HTTP Live Streaming (HLS) transport streams.
 * [krzemienski/Download_soundcloud](https://github.com/krzemienski/Download_soundcloud): Soundcloud - A tool for download track Soundcloud.
 * [DP-3T/dp3t-sdk-ios](https://github.com/DP-3T/dp3t-sdk-ios): The DP3T-SDK for iOS
+* [cta-wave/dpctf-deploy](https://github.com/cta-wave/dpctf-deploy): Repo for Docker deployment. This is basically the repository you need to deploy the Test Runner (and later the Test Execution Framework) locally. It will make the deployment and configuration of all components much easier
 * [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): :lollipop: Wow, such a lovely HTML5 danmaku video player
 * [dracula/dracula-theme](https://github.com/dracula/dracula-theme): 🧛🏻‍♂️ One theme. All platforms.
 * [Alexis-benoist/draw-compose](https://github.com/Alexis-benoist/draw-compose): Render Docker compose files.
