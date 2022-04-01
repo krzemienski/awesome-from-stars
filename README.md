@@ -1887,6 +1887,7 @@
 * [Eyevinn/hls-cutsegment](https://github.com/Eyevinn/hls-cutsegment): A web app that lets you insert a cut into a segment, which is then cut into two new segments.
 * [Eyevinn/hls-download](https://github.com/Eyevinn/hls-download): Download HLS and convert to MP4
 * [VinhPham26/HLS-Downloader](https://github.com/VinhPham26/HLS-Downloader): GUI tool for ffmpeg hls download
+* [denex/hls-downloader](https://github.com/denex/hls-downloader): Download all video files from HLS (HTTP Live Streaming) VoD (Video on Demand) m3u8 playlist for local playback
 * [puemos/hls-downloader](https://github.com/puemos/hls-downloader): Web Extension for sniffing and downloading HTTP Live streams (HLS)
 * [osklil/hls-fetch](https://github.com/osklil/hls-fetch): Download and decrypt videos served by the HTTP Live Streaming (HLS) protocol.
 * [videojs/hls-fetcher](https://github.com/videojs/hls-fetcher): None
