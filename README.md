@@ -1313,6 +1313,7 @@
 * [taglia3/ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC): A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao 
 * [electerm/electerm](https://github.com/electerm/electerm): 📻Terminal/ssh/sftp client(linux, mac, win)
 * [electron/electron](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+* [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store): A Cross-Platform App Store for Electron.js Apps
 * [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate): Boilerplate to kickstart creating an app with Electron
 * [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music):  网易云音乐 Electron  客户端
 * [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge): A complete tool for creating, publishing, and installing modern Electron applications
