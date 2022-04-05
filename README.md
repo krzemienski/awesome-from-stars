@@ -2783,7 +2783,7 @@
 * [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime): NVIDIA container runtime
 * [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 * [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer): NVIDIA driver installer
-* [Syllo/nvtop](https://github.com/Syllo/nvtop): NVIDIA GPUs htop like monitoring tool
+* [Syllo/nvtop](https://github.com/Syllo/nvtop): AMD and NVIDIA GPUs htop like monitoring tool
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
 * [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21): NYU Deep Learning Spring 2021
