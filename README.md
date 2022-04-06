@@ -296,7 +296,7 @@
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 * [github/archive-program](https://github.com/github/archive-program): The GitHub Archive Program & Arctic Code Vault
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-* [archivy/archivy](https://github.com/archivy/archivy): Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
+* [archivy/archivy](https://github.com/archivy/archivy): Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 * [archivy/archivy-docker](https://github.com/archivy/archivy-docker): None
 * [archivy/archivy-static-site-gen](https://github.com/archivy/archivy-static-site-gen): None
 * [uber/aresdb](https://github.com/uber/aresdb): A GPU-powered real-time analytics storage and query engine. 
