@@ -3574,7 +3574,7 @@
 * [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader): Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 * [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [zenangst/Spots](https://github.com/zenangst/Spots): :bamboo: Spots is a cross-platform view controller framework for building component-based UIs
-* [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions): Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
+* [sparrowcode/SPPermissions](https://github.com/sparrowcode/SPPermissions): Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
 * [MengTo/Spring](https://github.com/MengTo/Spring): A library to simplify iOS animations in Swift.
 * [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot): Spring Boot
 * [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin): Admin UI for administration of spring boot applications
