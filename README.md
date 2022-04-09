@@ -2148,7 +2148,7 @@
 * [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone): A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 * [hackerdude/jiratotaskmanagers](https://github.com/hackerdude/jiratotaskmanagers): Syncs JIRA queries to apps like Omnifocus, Things and Reminders
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
-* [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+* [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
 * [silencecorner/jre-ffmpeg-apline](https://github.com/silencecorner/jre-ffmpeg-apline): Dockerfile [jre8](https://github.com/fabric8io-images/java) and [ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg) 
 * [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
