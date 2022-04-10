@@ -2162,6 +2162,9 @@
     "Soundnode/soundnode-app": [
         "Other"
     ],
+    "SourceDocs/SourceDocs": [
+        "Other"
+    ],
     "SoySauceLab/CollectionKit": [
         "Other"
     ],
@@ -5250,9 +5253,6 @@
         "Other"
     ],
     "encode/uvicorn": [
-        "Other"
-    ],
-    "eneko/SourceDocs": [
         "Other"
     ],
     "enochtangg/quick-SQL-cheatsheet": [
