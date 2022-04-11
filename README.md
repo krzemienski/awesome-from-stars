@@ -962,7 +962,6 @@
 * [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): generate code from cURL commands
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
 * [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver): Framework for implementing custom metrics support for Kubernetes
-* [SamStone92/CustomTransitions](https://github.com/SamStone92/CustomTransitions): None
 * [rizinorg/cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin
 * [x1wins/CW-OVP](https://github.com/x1wins/CW-OVP): video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (ruby on rails)
 * [corona-warn-app/cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios): Native iOS app using the exposure notification framework from Apple.
