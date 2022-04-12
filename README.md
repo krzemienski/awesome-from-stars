@@ -1886,6 +1886,7 @@
 * [lebougui/hls-creator](https://github.com/lebougui/hls-creator): Tools to create hls playlists using ffmpeg.  Originally forked from https://github.com/bentasker/HLS-Stream-Creator
 * [Eyevinn/hls-cutsegment](https://github.com/Eyevinn/hls-cutsegment): A web app that lets you insert a cut into a segment, which is then cut into two new segments.
 * [Eyevinn/hls-download](https://github.com/Eyevinn/hls-download): Download HLS and convert to MP4
+* [Spark-NF/hls-downloader](https://github.com/Spark-NF/hls-downloader): Download HLS streams in NodeJS
 * [VinhPham26/HLS-Downloader](https://github.com/VinhPham26/HLS-Downloader): GUI tool for ffmpeg hls download
 * [denex/hls-downloader](https://github.com/denex/hls-downloader): Download all video files from HLS (HTTP Live Streaming) VoD (Video on Demand) m3u8 playlist for local playback
 * [puemos/hls-downloader](https://github.com/puemos/hls-downloader): Web Extension for sniffing and downloading HTTP Live streams (HLS)
@@ -1924,6 +1925,7 @@
 * [StyleShare/HLSCachingReverseProxyServer](https://github.com/StyleShare/HLSCachingReverseProxyServer): A simple local reverse proxy server for HLS segment cache
 * [globocom/hlsclient](https://github.com/globocom/hlsclient): Python HLS Client
 * [fcanas/HLSCore](https://github.com/fcanas/HLSCore): A collection of Swift packages for working with HLS
+* [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl): A golang library to help you download a m3u8 file and save it as a single TS file
 * [e2iplayer/hlsdl](https://github.com/e2iplayer/hlsdl): Project has been closed - please start to use different branch / C program to download VOD and LIVE HLS (.m3u8) streams
 * [selsta/hlsdl](https://github.com/selsta/hlsdl): C program to download VoD HLS (.m3u8) files
 * [nmrony/hlsdownloader](https://github.com/nmrony/hlsdownloader): Downloads HLS Playlist file and TS chunks
@@ -1933,6 +1935,7 @@
 * [r-plus/HLSion](https://github.com/r-plus/HLSion): HTTP Live Streaming (HLS) download manager to offline playback.
 * [cdnbye/hlsjs-p2p-engine](https://github.com/cdnbye/hlsjs-p2p-engine): Let your viewers become your unlimitedly scalable CDN.
 * [Comcast/hlsparserj](https://github.com/Comcast/hlsparserj): None
+* [brookemckim/hlspider](https://github.com/brookemckim/hlspider): Downloads .m3u8 playlist files and confirms their segments are properly aligned.
 * [soldiermoth/hlsq](https://github.com/soldiermoth/hlsq): A small CLI for adding some color to your HLS manifests along with some basic filtering
 * [moore0n/hlstail](https://github.com/moore0n/hlstail): hlstail is a simple CLI tool for tailing a specific variant of an HLS playlist
 * [muxinc/hlstools](https://github.com/muxinc/hlstools): Tools for analyzing and processing hls streams
@@ -2433,11 +2436,13 @@
 * [grafov/m3u8](https://github.com/grafov/m3u8): Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 * [leandromoreira/m3u8](https://github.com/leandromoreira/m3u8): Python m3u8 parser
 * [excalibur-kvrv/m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl): A CLI program to download a video played using a m3u8 playlist
+* [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader):  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 * [lcy0321/m3u8-downloader](https://github.com/lcy0321/m3u8-downloader): Download the ts files according to the given m3u8 file.
 * [carlanton/m3u8-parser](https://github.com/carlanton/m3u8-parser): A simple HLS playlist parser for Java
 * [videojs/m3u8-parser](https://github.com/videojs/m3u8-parser): An m3u8 parser.
 * [huzhenjie/m3u8_downloader](https://github.com/huzhenjie/m3u8_downloader): 基于Python的m3u8下载器
 * [wwwtete/M3u8CacheProxy](https://github.com/wwwtete/M3u8CacheProxy): 一套缓存m3u8视频的lib，第一次播放时将视频切片缓存到本地，第二次播放时直接读取缓存过的切片不需要再次下载！
+* [kedpter/M3u8Downloader](https://github.com/kedpter/M3u8Downloader): Python downloader for HTTP Live Streaming (HLS)
 * [M3U8Kit/M3U8Parser](https://github.com/M3U8Kit/M3U8Parser): A light weight M3U8 parser. Support X-Key & X-Session-Key.
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
