@@ -1458,7 +1458,7 @@
 * [Fmstrat/ffmkv](https://github.com/Fmstrat/ffmkv): A bash wrapper for FFMPEG with an Inquirer menu interface and progress monitoring.
 * [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg): Mirror of https://git.ffmpeg.org/ffmpeg.git
 * [intel-media-ci/ffmpeg](https://github.com/intel-media-ci/ffmpeg): Intel developer pre-check staging area for ffmpeg.org contributions.
-* [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg): Docker build for FFmpeg on Ubuntu / Alpine / Centos 7 / Scratch
+* [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg): Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
 * [jlw4049/FFMPEG-Audio-Encoder](https://github.com/jlw4049/FFMPEG-Audio-Encoder): A powerful FFMPEG audio encoder GUI
 * [imoreapps/ffmpeg-avplayer-for-ios-tvos](https://github.com/imoreapps/ffmpeg-avplayer-for-ios-tvos): A tiny but powerful iOS and Apple TV OS av player framework that's based on the FFmpeg library.
