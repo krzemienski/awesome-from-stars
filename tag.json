@@ -9581,6 +9581,9 @@
     "pop-os/system76-power": [
         "Other"
     ],
+    "pop-os/system76-scheduler": [
+        "Other"
+    ],
     "portainer/agent": [
         "Other"
     ],

@@ -3797,6 +3797,7 @@
 * [design-first/system-designer-electron](https://github.com/design-first/system-designer-electron): System Designer for macOS, Windows & Linux
 * [pop-os/system76-driver](https://github.com/pop-os/system76-driver): System76 Driver for Pop!_OS
 * [pop-os/system76-power](https://github.com/pop-os/system76-power): System76 Power Management
+* [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler): Auto-configure CFS and process priorities for improved desktop responsiveness
 * [eroscai/SZAVPlayer](https://github.com/eroscai/SZAVPlayer): SZAVPlayer is a lightweight audio/video player library, based on AVPlayer and AVAssetResourceLoaderDelegate, pure-Swift. Support cache and video image output.
 * [desjare/tabarnak](https://github.com/desjare/tabarnak): tabarnak is a python3 ffmpeg wrapper that aims at easily transcode a batch of media files from a directory to another without fuss. It will use default parameters for each supported codecs. You can also specify a lot of parameters yourself to control stream mapping, codec encoding parameters, and metadata.
 * [Eugeny/tabby](https://github.com/Eugeny/tabby): A terminal for a more modern age
