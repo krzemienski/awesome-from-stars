@@ -10217,10 +10217,10 @@
     "rupakg/ffmpeg-video-thumb": [
         "Other"
     ],
-    "rust-analyzer/rust-analyzer": [
+    "rust-lang/rust": [
         "Other"
     ],
-    "rust-lang/rust": [
+    "rust-lang/rust-analyzer": [
         "Other"
     ],
     "rust-lang/rustup": [
