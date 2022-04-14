@@ -580,6 +580,7 @@
 * [bit-team/backintime](https://github.com/bit-team/backintime): Back In Time - A simple backup tool for Linux
 * [fuzzy08/backpack-python](https://github.com/fuzzy08/backpack-python): a program that quickly installs programs to a newly loaded arch OS
 * [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open platform for building developer portals
+* [backuppc/backuppc](https://github.com/backuppc/backuppc): BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 * [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 * [yagiz/Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
 * [cbsinteractive/bakery](https://github.com/cbsinteractive/bakery): HLS and DASH Manifest Service
@@ -692,6 +693,7 @@
 * [georgejecook/brsxmlc](https://github.com/georgejecook/brsxmlc): Brightscript and xml preprocessor, which adds additional language featuers to scenegraph. Currently WIP and under active development
 * [ustwo/brunel](https://github.com/ustwo/brunel): A demonstration of organisation for an app that runs on both iOS and tvOS platforms using a unified code base. ⚠️ No longer maintained ⚠️
 * [sky-uk/bslint](https://github.com/sky-uk/bslint): A linter for the BrightScript language.
+* [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance): Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 * [facebook/buck](https://github.com/facebook/buck): A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 * [airbnb/BuckSample](https://github.com/airbnb/BuckSample): An example app showing how Buck can be used to build a simple iOS app.
@@ -1261,6 +1263,7 @@
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
 * [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy): A new generation cloud backup tool 
 * [christophetd/duplicacy-autobackup](https://github.com/christophetd/duplicacy-autobackup): :floppy_disk: Painless automated backups to multiple storage providers with Docker and duplicacy.
+* [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 * [philhansen/dvbsubrip](https://github.com/philhansen/dvbsubrip): A python script for extracting DVB image based subtitles from TS recordings.
 * [iterative/dvc](https://github.com/iterative/dvc): 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 * [LA1TV/DVR-Bridge-Service](https://github.com/LA1TV/DVR-Bridge-Service): A service which records one or more hls streams simultaneously and re-serves them as a different hls streams.
@@ -3154,6 +3157,7 @@
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
 * [vncloudsco/rclonebackup](https://github.com/vncloudsco/rclonebackup): Script Auto Backup To Cloud Using Rclone
+* [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser): Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 * [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser): Simple cross platform GUI for rclone
 * [romancin/rclonebrowser-docker](https://github.com/romancin/rclonebrowser-docker): A repository for creating a docker container including RClone Browser with GUI interface.
 * [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2): A Bidirectional Cloud Sync Utility using rclone

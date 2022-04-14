@@ -3536,6 +3536,9 @@
     "backstage/backstage": [
         "Other"
     ],
+    "backuppc/backuppc": [
+        "Other"
+    ],
     "badoo/Chatto": [
         "Other"
     ],
@@ -4829,6 +4832,9 @@
     "digimezzo/vitomu": [
         "Other"
     ],
+    "digint/btrbk": [
+        "Other"
+    ],
     "digitalocean/nginxconfig.io": [
         "Other"
     ],
@@ -5052,6 +5058,9 @@
         "Other"
     ],
     "dungahk/awesome-cdk8s": [
+        "Other"
+    ],
+    "duplicati/duplicati": [
         "Other"
     ],
     "durfu/DFURTSPPlayer": [
@@ -7143,6 +7152,9 @@
         "Other"
     ],
     "kanongil/node-hls-tools": [
+        "Other"
+    ],
+    "kapitainsky/RcloneBrowser": [
         "Other"
     ],
     "karan/Projects": [
