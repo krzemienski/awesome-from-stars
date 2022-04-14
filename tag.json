@@ -5582,9 +5582,6 @@
     "firecracker-microvm/firecracker": [
         "Other"
     ],
-    "firedm/FireDM": [
-        "Other"
-    ],
     "five82/batchtranscode": [
         "Other"
     ],
@@ -6835,6 +6832,9 @@
     ],
     "jgraph/drawio": [
         "Utility"
+    ],
+    "jhao104/proxy_pool": [
+        "Other"
     ],
     "jhipster/generator-jhipster": [
         "Other"
