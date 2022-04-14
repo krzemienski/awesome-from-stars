@@ -41,6 +41,9 @@
     "521xueweihan/HelloGitHub": [
         "Other"
     ],
+    "777777miSSU7777777/hls-audio-player": [
+        "Other"
+    ],
     "87kangsw/GitTime": [
         "Other"
     ],
@@ -110,6 +113,9 @@
     "Alamofire/Alamofire": [
         "Other"
     ],
+    "AlexKordic/HLSProxy": [
+        "Other"
+    ],
     "AlexanderKaraberov/iOS-Network-Architecture-Demo": [
         "Other"
     ],
@@ -162,6 +168,9 @@
         "Other"
     ],
     "AnjaneyuluBatta505/kubernetes_django": [
+        "Other"
+    ],
+    "Anuradha2018/VideoContentPlatformwithAngular": [
         "Other"
     ],
     "AppImage/AppImageKit": [
@@ -225,6 +234,9 @@
         "Operating System/HarmonyOS"
     ],
     "Awesome-Server-Side-Swift/TheList": [
+        "Other"
+    ],
+    "Axel-Erfurt/m3uBrowserPlayer": [
         "Other"
     ],
     "Axinom/cpix": [
@@ -300,6 +312,9 @@
         "Other"
     ],
     "Brainiarc7/ffmpeg_libnvenc": [
+        "Other"
+    ],
+    "BrianDMG/conv2mp4": [
         "Other"
     ],
     "BrightcoveOS/Roku-Sample-App": [
@@ -563,6 +578,9 @@
     "DaMingShen/SUCacheLoader": [
         "Other"
     ],
+    "Dash-Industry-Forum/CMAF-Conformance": [
+        "Other"
+    ],
     "Dash-Industry-Forum/CPIX": [
         "Other"
     ],
@@ -570,6 +588,9 @@
         "Other"
     ],
     "Dash-Industry-Forum/Conformance-Frontend": [
+        "Other"
+    ],
+    "Dash-Industry-Forum/Conformance-Frontend-HLS": [
         "Other"
     ],
     "Dash-Industry-Forum/DASH": [
@@ -581,6 +602,15 @@
     "Dash-Industry-Forum/DASH-IF-IOP": [
         "Other"
     ],
+    "Dash-Industry-Forum/Dash-Industry-Forum.github.io": [
+        "Other"
+    ],
+    "Dash-Industry-Forum/DynamicServiceValidator": [
+        "Other"
+    ],
+    "Dash-Industry-Forum/FeatureTest": [
+        "Other"
+    ],
     "Dash-Industry-Forum/ISOSegmentValidator": [
         "Other"
     ],
@@ -590,7 +620,19 @@
     "Dash-Industry-Forum/MPEG-Conformance-and-reference-source": [
         "Other"
     ],
+    "Dash-Industry-Forum/Resources": [
+        "Other"
+    ],
+    "Dash-Industry-Forum/Test-Content": [
+        "Other"
+    ],
+    "Dash-Industry-Forum/Test-Vectors": [
+        "Other"
+    ],
     "Dash-Industry-Forum/cea608.js": [
+        "Other"
+    ],
+    "Dash-Industry-Forum/codem-isoboxer": [
         "Other"
     ],
     "Dash-Industry-Forum/cpix-test-vectors": [
@@ -698,6 +740,9 @@
     "DopplerHQ/awesome-interview-questions": [
         "Other"
     ],
+    "Dungyichao/http_server": [
+        "Other"
+    ],
     "EG-BRS/cookiecutter-java-service": [
         "Other"
     ],
@@ -756,6 +801,9 @@
         "Other"
     ],
     "Eugeny/tabby": [
+        "Other"
+    ],
+    "Eugeny/tabby-theme-hype": [
         "Other"
     ],
     "ExistentialAudio/SwiftOSC": [
@@ -843,6 +891,9 @@
         "Other"
     ],
     "Eyevinn/hls-download": [
+        "Other"
+    ],
+    "Eyevinn/hls-monitor": [
         "Other"
     ],
     "Eyevinn/hls-origin-scripts": [
@@ -1016,6 +1067,9 @@
     "GitHawkApp/StyledTextKit": [
         "Other"
     ],
+    "GitHubDaily/GitHubDaily": [
+        "Other"
+    ],
     "GitNK/HLS-Audio-Player": [
         "Other"
     ],
@@ -1056,6 +1110,9 @@
         "Other"
     ],
     "Haivision/srtgo": [
+        "Other"
+    ],
+    "HamidNE/hls-video-api": [
         "Other"
     ],
     "HamzaGhazouani/HGPlaceholders": [
@@ -2048,6 +2105,9 @@
     "SK-Hardwired/nv_hevc_hdr_patcher": [
         "Other"
     ],
+    "SLIB53/srt-broadcaster": [
+        "Other"
+    ],
     "SRGSSR/srgmediaplayer-apple": [
         "Other"
     ],
@@ -2483,6 +2543,9 @@
     "Z4nzu/hackingtool": [
         "Other"
     ],
+    "ZackAkil/transcoder-api-cloud-function": [
+        "Other"
+    ],
     "ZaifSenpai/Batch-Py-Remux": [
         "Other"
     ],
@@ -2774,6 +2837,9 @@
     "alexmojaki/instant_api": [
         "Other"
     ],
+    "alextall/plexify": [
+        "Other"
+    ],
     "alexvassini/tvOSMultipeer": [
         "Other"
     ],
@@ -2901,6 +2967,9 @@
         "Other"
     ],
     "amilajack/erb-video-example": [
+        "Other"
+    ],
+    "aminyazdanpanah/PHP-FFmpeg-video-streaming": [
         "Other"
     ],
     "aminyazdanpanah/python-ffmpeg-video-streaming": [
@@ -3087,6 +3156,9 @@
         "Other"
     ],
     "apioo/fusio": [
+        "Other"
+    ],
+    "apivideo/ingest.new": [
         "Other"
     ],
     "apm1467/videocr": [
@@ -3794,6 +3866,9 @@
     "bloc97/Anime4K": [
         "Other"
     ],
+    "bman46/M3U-List-Checker": [
+        "Other"
+    ],
     "bmhayward/Transcode": [
         "Other"
     ],
@@ -3927,6 +4002,9 @@
         "Other"
     ],
     "bup/bup": [
+        "Other"
+    ],
+    "burak-kara/RealTimeVideoServer": [
         "Other"
     ],
     "burtonator/polar-bookshelf": [
@@ -4331,6 +4409,9 @@
     "commandeer/open": [
         "Other"
     ],
+    "compuccino/osk-encoder-validator": [
+        "Other"
+    ],
     "computmaxer/roku-hdhomerun": [
         "Other"
     ],
@@ -4595,6 +4676,9 @@
     "daskeyboard/daskeyboard.io": [
         "Other"
     ],
+    "dasri7842/tiktok-clone": [
+        "Other"
+    ],
     "dastergon/awesome-sre": [
         "Other"
     ],
@@ -4641,6 +4725,9 @@
         "Other"
     ],
     "davidjamesherzog/videojs-shaka": [
+        "Other"
+    ],
+    "davidkern13/Video-Http-Live-Stream-Nodejs-React": [
         "Other"
     ],
     "davidlondono/PlayerView": [
@@ -5036,6 +5123,9 @@
     "dreymonde/Shallows": [
         "Other"
     ],
+    "drichardson/transcode": [
+        "Other"
+    ],
     "drivelous/soundcloud-likes": [
         "Other"
     ],
@@ -5361,6 +5451,9 @@
         "Other"
     ],
     "etsy/logster": [
+        "Other"
+    ],
+    "eugene87222/NCTU-Video-Streaming-and-Tracking": [
         "Other"
     ],
     "eugenp/tutorials": [
@@ -6237,6 +6330,9 @@
         "Other"
     ],
     "heff/chg": [
+        "Other"
+    ],
+    "heineiuo/hlsdl": [
         "Other"
     ],
     "helloSystem/hello": [
@@ -7151,6 +7247,9 @@
     "kanishka-linux/reminiscence": [
         "Other"
     ],
+    "kanongil/hls-playlist-reader": [
+        "Other"
+    ],
     "kanongil/hls-segment-reader": [
         "Other"
     ],
@@ -7374,6 +7473,9 @@
         "Other"
     ],
     "konkor/obmin": [
+        "Other"
+    ],
+    "konojunya/hls-live-streaming-server-sample": [
         "Other"
     ],
     "konsoletyper/teavm": [
@@ -7602,6 +7704,9 @@
         "Other"
     ],
     "kuu/hls-parser": [
+        "Other"
+    ],
+    "kvasukib/CloudTranscode": [
         "Other"
     ],
     "kwodzicki/video_utils": [
@@ -7991,6 +8096,9 @@
     "m1k1o/go-transcode": [
         "Other"
     ],
+    "m1k1o/hls-restream": [
+        "Other"
+    ],
     "m42e/github-coup": [
         "Other"
     ],
@@ -8124,6 +8232,9 @@
         "Other"
     ],
     "marcelbirkner/docker-ci-tool-stack": [
+        "Other"
+    ],
+    "marceloboeira/m3u8.cr": [
         "Other"
     ],
     "marcgibbons/django-rest-swagger": [
@@ -9461,6 +9572,9 @@
     "philpax/borealis": [
         "Other"
     ],
+    "phily245/streamer": [
+        "Other"
+    ],
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -9845,6 +9959,9 @@
     "rabahs/tvos-oauth-server": [
         "Other"
     ],
+    "rachit2501/Livepeer-Video-Streaming": [
+        "Other"
+    ],
     "radek-senfeld/ffvideo": [
         "Other"
     ],
@@ -9954,6 +10071,9 @@
         "Other"
     ],
     "rclone/rclone-webui-react": [
+        "Other"
+    ],
+    "rdavid/transcode": [
         "Other"
     ],
     "rdiff-backup/rdiff-backup": [
@@ -10382,6 +10502,9 @@
     "sauce-archives/setups": [
         "Other"
     ],
+    "saurabh0719/automate-mediaconvert": [
+        "Other"
+    ],
     "savokiss/vue-videojs-demo": [
         "Other"
     ],
@@ -10566,6 +10689,9 @@
         "Other"
     ],
     "shamlian/root-robot-sdk": [
+        "Other"
+    ],
+    "shaunschembri/restreamer": [
         "Other"
     ],
     "shawnsky/extract-subtitles": [
@@ -11408,6 +11534,9 @@
     "testdrivenio/simple-task-queue": [
         "Other"
     ],
+    "testpress/lumberjack": [
+        "Other"
+    ],
     "tfoldi/clj-slack-sql": [
         "Other"
     ],
@@ -11966,6 +12095,9 @@
     "viatsko/awesome-vscode": [
         "Other"
     ],
+    "video-dev/community-knowledge-base": [
+        "Other"
+    ],
     "video-dev/hls.js": [
         "Other"
     ],
@@ -12114,6 +12246,9 @@
         "Other"
     ],
     "voila-dashboards/voila": [
+        "Other"
+    ],
+    "voltan/nginx-stream": [
         "Other"
     ],
     "vsouza/awesome-ios": [
@@ -12423,6 +12558,9 @@
         "Other"
     ],
     "xdarklight/gigabyte_ambientled_ctrl": [
+        "Other"
+    ],
+    "xelaok/acey": [
         "Other"
     ],
     "xfrr/goffmpeg": [
