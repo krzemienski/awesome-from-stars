@@ -5669,10 +5669,10 @@
     "ffplayout/ffplayout-docker": [
         "Other"
     ],
-    "ffplayout/ffplayout-frontend": [
+    "ffplayout/ffplayout-engine": [
         "Other"
     ],
-    "ffplayout/ffplayout_engine": [
+    "ffplayout/ffplayout-frontend": [
         "Other"
     ],
     "filebrowser/filebrowser": [

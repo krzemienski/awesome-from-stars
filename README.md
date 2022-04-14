@@ -1528,8 +1528,8 @@
 * [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy): Pythonic interface for FFmpeg/FFprobe command line
 * [wchill/ffmpy3](https://github.com/wchill/ffmpy3): Pythonic interface for FFmpeg/FFprobe command line
 * [ffplayout/ffplayout-docker](https://github.com/ffplayout/ffplayout-docker): Dockerized playout solution
+* [ffplayout/ffplayout-engine](https://github.com/ffplayout/ffplayout-engine): Rust and ffmpeg based playout 
 * [ffplayout/ffplayout-frontend](https://github.com/ffplayout/ffplayout-frontend): Web based frontend for ffplayout-engine
-* [ffplayout/ffplayout_engine](https://github.com/ffplayout/ffplayout_engine): python and ffmpeg based playout
 * [joeflateau/ffpreset](https://github.com/joeflateau/ffpreset): None
 * [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python): A wrapper of ffprobe command to extract metadata from media files.
 * [matham/ffpyplayer](https://github.com/matham/ffpyplayer): A cython implementation of an ffmpeg based player.
@@ -1915,7 +1915,7 @@
 * [tjenkinson/hls-live-thumbnails](https://github.com/tjenkinson/hls-live-thumbnails): A service which will generate thumbnails from a live HLS stream.
 * [ScottAtBlankCanvas/hls-live2vod](https://github.com/ScottAtBlankCanvas/hls-live2vod): Download specified length of a live HLS playlist as an HLS VOD playlist
 * [Karthick-Somasundaresan/hls-manifest-viewer](https://github.com/Karthick-Somasundaresan/hls-manifest-viewer): View HLS manifest
-* [Eyevinn/hls-monitor](https://github.com/Eyevinn/hls-monitor): Service to monitor one or more HLS streams for manifest errors and inconsistencies.
+* [Eyevinn/hls-monitor](https://github.com/Eyevinn/hls-monitor): Service to monitor one or more HLS streams for errors and inconsistencies.
 * [Eyevinn/hls-origin-scripts](https://github.com/Eyevinn/hls-origin-scripts): Scripts to manipulate HLS manifests at origin or edge server
 * [jardimin/hls-packager](https://github.com/jardimin/hls-packager): Simple shell script to create a multi bitrate hls variant playlist, based on ffmpeg
 * [kuu/hls-parser](https://github.com/kuu/hls-parser): A simple library to read/write HLS playlists
