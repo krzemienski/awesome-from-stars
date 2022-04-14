@@ -3920,6 +3920,9 @@
     "bugsnag/bugsnag-cocoa": [
         "Other"
     ],
+    "bup/bup": [
+        "Other"
+    ],
     "burtonator/polar-bookshelf": [
         "Other"
     ],
@@ -9938,6 +9941,9 @@
     "rclone/rclone-webui-react": [
         "Other"
     ],
+    "rdiff-backup/rdiff-backup": [
+        "Other"
+    ],
     "rdp/ffmpeg-windows-build-helpers": [
         "Other"
     ],
@@ -10029,6 +10035,9 @@
         "Other"
     ],
     "restreamio/docker-gstreamer": [
+        "Other"
+    ],
+    "rfrail3/keepconf": [
         "Other"
     ],
     "rianhunter/dbxfs": [
@@ -11855,6 +11864,9 @@
     "valeriomazzeo/fastlane-plugin-jira_transition": [
         "Other"
     ],
+    "vansante/go-ffprobe": [
+        "Other"
+    ],
     "vantage-sh/ec2instances.info": [
         "Other"
     ],
@@ -12039,6 +12051,9 @@
         "Other"
     ],
     "vitoziv/VIMediaCache": [
+        "Other"
+    ],
+    "vivekweb2013/gitnoter": [
         "Other"
     ],
     "vk496/linset": [

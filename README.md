@@ -708,6 +708,7 @@
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [alexisakers/BulletinBoard](https://github.com/alexisakers/BulletinBoard): General-purpose contextual cards for iOS
 * [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
+* [bup/bup](https://github.com/bup/bup): Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 * [TheAlgorithms/C](https://github.com/TheAlgorithms/C): Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus): Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 * [VideoFlint/Cabbage](https://github.com/VideoFlint/Cabbage): A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.
@@ -1722,6 +1723,7 @@
 * [Roche/gitlab-configuration-as-code](https://github.com/Roche/gitlab-configuration-as-code): Manage GitLab configuration as code to make GitLab easily managable, traceable and reproducible.
 * [leandromoreira/GitlHEVCAnalyzer](https://github.com/leandromoreira/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
 * [lheric/GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
+* [vivekweb2013/gitnoter](https://github.com/vivekweb2013/gitnoter): Create and store notes to your git repository with gitnoter!
 * [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch): Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): Gitpod automates the provisioning of ready-to-code development environments. 
 * [CCristi/GitPR](https://github.com/CCristi/GitPR): None
@@ -1763,6 +1765,7 @@
 * [asticode/go-astisub](https://github.com/asticode/go-astisub): Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 * [asticode/go-astits](https://github.com/asticode/go-astits): Demux and mux MPEG Transport Streams (.ts) natively in GO
 * [zencoder/go-dash](https://github.com/zencoder/go-dash): A Go library for generating MPEG-DASH manifests.
+* [vansante/go-ffprobe](https://github.com/vansante/go-ffprobe): Library to easily get the ffprobe output of a given file
 * [sanathb/go-HLS](https://github.com/sanathb/go-HLS): HLS (HTTP Live Streaming) video transcoding package written in golang for AWS Elastic Transcoder.
 * [Allezxandre/go-hls-encoder](https://github.com/Allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
 * [imkira/go-libav](https://github.com/imkira/go-libav): Go language bindings for ffmpeg libraries
@@ -2218,6 +2221,7 @@
 * [xtaci/kcptun](https://github.com/xtaci/kcptun): A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
 * [keel-hq/keel](https://github.com/keel-hq/keel): Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 * [andrepolischuk/keep](https://github.com/andrepolischuk/keep): Desktop app for Google Keep packaged with Electron
+* [rfrail3/keepconf](https://github.com/rfrail3/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
 * [kubernetes-for-developers/kfd-celery](https://github.com/kubernetes-for-developers/kfd-celery): example celery worker and deployment specs for Kubernetes for Developers
@@ -3153,6 +3157,7 @@
 * [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser): Simple cross platform GUI for rclone
 * [romancin/rclonebrowser-docker](https://github.com/romancin/rclonebrowser-docker): A repository for creating a docker container including RClone Browser with GUI interface.
 * [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2): A Bidirectional Cloud Sync Utility using rclone
+* [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup): Reverse differential backup tool, over a network or locally.
 * [asynchrony/Re-Lax](https://github.com/asynchrony/Re-Lax): Recreating Parallax on tvOS
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [kkarimi/react-docker-kit](https://github.com/kkarimi/react-docker-kit): Example of using React and SocketIO with Flask and Celery workers in Docker containers
