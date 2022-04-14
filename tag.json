@@ -1034,6 +1034,9 @@
     "GoogleContainerTools/kaniko": [
         "Other"
     ],
+    "GothenburgBitFactory/taskserver": [
+        "Other"
+    ],
     "GregaVrbancic/fastapi-celery": [
         "Other"
     ],
