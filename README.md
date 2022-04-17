@@ -2979,6 +2979,7 @@
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 * [antoinehng/per-title-analysis](https://github.com/antoinehng/per-title-analysis): Analysis provider for adapting your OTT bitrate ladder
 * [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect): Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+* [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit): Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
 * [Yalantis/Persei](https://github.com/Yalantis/Persei): Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
 * [pfsense/pfsense](https://github.com/pfsense/pfsense): Main repository for pfSense
 * [acoustid/pg_acoustid](https://github.com/acoustid/pg_acoustid): PostgreSQL extension for working with AcoustID fingerprints
@@ -3642,7 +3643,6 @@
 * [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader): Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 * [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [zenangst/Spots](https://github.com/zenangst/Spots): :bamboo: Spots is a cross-platform view controller framework for building component-based UIs
-* [sparrowcode/SPPermissions](https://github.com/sparrowcode/SPPermissions): Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
 * [MengTo/Spring](https://github.com/MengTo/Spring): A library to simplify iOS animations in Swift.
 * [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot): Spring Boot
 * [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin): Admin UI for administration of spring boot applications
