@@ -1928,9 +1928,6 @@
     "PureMVC/puremvc-swift-util-asyncproxy": [
         "Other"
     ],
-    "Py-Contributors/awesomeScripts": [
-        "Other"
-    ],
     "PyAV-Org/PyAV": [
         "Other"
     ],
@@ -4362,6 +4359,9 @@
         "Other"
     ],
     "code-vicar/vscode-rpm": [
+        "Other"
+    ],
+    "codePerfectPlus/awesomeScripts": [
         "Other"
     ],
     "codebushi/gatsby-starter-dimension": [
