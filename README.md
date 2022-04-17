@@ -463,7 +463,7 @@
 * [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response): A curated list of tools for incident response
 * [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration): A curated list of awesome system integration software and resources.
 * [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions): :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
-* [sparrowcode/awesome-ios](https://github.com/sparrowcode/awesome-ios): A collaborative list of awesome for iOS developers. Include quick preview.
+* [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios): A collaborative list of awesome for iOS developers. Include quick preview.
 * [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios): A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 * [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture): :japanese_castle: Better ways to structure iOS apps
 * [damozhang/awesome-ios-star](https://github.com/damozhang/awesome-ios-star): All data is from https://github.com/vsouza/awesome-ios. I only add the GitHub star count to this list.  Update every day.
