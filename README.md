@@ -1934,7 +1934,7 @@
 * [tjenkinson/hls-live-thumbnails](https://github.com/tjenkinson/hls-live-thumbnails): A service which will generate thumbnails from a live HLS stream.
 * [ScottAtBlankCanvas/hls-live2vod](https://github.com/ScottAtBlankCanvas/hls-live2vod): Download specified length of a live HLS playlist as an HLS VOD playlist
 * [Karthick-Somasundaresan/hls-manifest-viewer](https://github.com/Karthick-Somasundaresan/hls-manifest-viewer): View HLS manifest
-* [Eyevinn/hls-monitor](https://github.com/Eyevinn/hls-monitor): Service to monitor one or more HLS streams for errors and inconsistencies.
+* [Eyevinn/hls-monitor](https://github.com/Eyevinn/hls-monitor): Service to monitor one or more HLS stream(s) for errors and inconsistencies.
 * [Eyevinn/hls-origin-scripts](https://github.com/Eyevinn/hls-origin-scripts): Scripts to manipulate HLS manifests at origin or edge server
 * [jardimin/hls-packager](https://github.com/jardimin/hls-packager): Simple shell script to create a multi bitrate hls variant playlist, based on ffmpeg
 * [kuu/hls-parser](https://github.com/kuu/hls-parser): A simple library to read/write HLS playlists
