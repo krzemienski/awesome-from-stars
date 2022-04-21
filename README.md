@@ -1128,7 +1128,7 @@
 * [patademahesh/Distributed-Video-Transcoding](https://github.com/patademahesh/Distributed-Video-Transcoding): Distributed Video Transcoding
 * [chn-lee-yumi/distributed_ffmpeg_transcoding_cluster](https://github.com/chn-lee-yumi/distributed_ffmpeg_transcoding_cluster): 分布式FFMpeg转码集群。A FFMpeg transcoding cluster runs in variable CPUs, including ARM, x86, and others which can run linux. You can use it to run a RaspberryPi cluster.
 * [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
-* [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface): django's default admin interface made customizable. popup windows replaced by modals. :mage: :zap:
+* [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface): :mage::zap: django's default admin interface made customizable. popup windows replaced by modals.
 * [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools): Extends the Django Admin to include a extensible dashboard and navigation menu
 * [zostera/django-bootstrap4](https://github.com/zostera/django-bootstrap4): Bootstrap 4 integration with Django.
 * [just-work/django-celery-rpc](https://github.com/just-work/django-celery-rpc): Remote access from one system to models of another one using Celery machinery.
