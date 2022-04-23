@@ -4327,7 +4327,7 @@
 * [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh): READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh 
 * [videolan/x265](https://github.com/videolan/x265): https://bitbucket.org/multicoreware/x265/ git mirror
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
-* [xbmc/xbmc](https://github.com/xbmc/xbmc): Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+* [xbmc/xbmc](https://github.com/xbmc/xbmc): Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 * [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild): Xcode-compatible build tool.
 * [XCTEQ/XCFit](https://github.com/XCTEQ/XCFit): Full Stack Protocol Oriented BDD in Xcode for iOS app with Swift using XCUITest, Cucumberish and FitNesse
 * [DaveWoodCom/XCGLogger](https://github.com/DaveWoodCom/XCGLogger): A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.
