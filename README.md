@@ -1121,7 +1121,7 @@
 * [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 * [anaganisk/digitalocean-dynamic-dns-ip](https://github.com/anaganisk/digitalocean-dynamic-dns-ip): A simple script to automatically update Digital ocean DNS records with dynamic IP
 * [phillbaker/digitalocean-node](https://github.com/phillbaker/digitalocean-node): Unofficial node client for the v2 DigitalOcean API
-* [directus/directus](https://github.com/directus/directus): Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+* [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 * [saoudrizwan/Disk](https://github.com/saoudrizwan/Disk): Delightful framework for iOS to easily persist structs, images, and data
 * [Netflix/dispatch](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 * [AdnanHodzic/displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian): DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
