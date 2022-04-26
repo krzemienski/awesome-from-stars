@@ -3206,6 +3206,7 @@
 * [toshi0383/RateTV](https://github.com/toshi0383/RateTV): An awesome Rating view for tvOS.
 * [Eyevinn/ratings-api](https://github.com/Eyevinn/ratings-api): Example of a simple implementation to build a ratings api on top of Redis
 * [xiph/rav1e](https://github.com/xiph/rav1e): The fastest and safest AV1 encoder.
+* [Lakr233/Rayon](https://github.com/Lakr233/Rayon): yet another SSH machine manager
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
 * [vncloudsco/rclonebackup](https://github.com/vncloudsco/rclonebackup): Script Auto Backup To Cloud Using Rclone
