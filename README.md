@@ -3711,7 +3711,7 @@
 * [storybookjs/storybook](https://github.com/storybookjs/storybook): 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 * [Marcos-A/STRCleaner](https://github.com/Marcos-A/STRCleaner): Script that extracts all the text from a subtitles file ignoring time indications, HTML tags and other alien info.
 * [mdellavo/stream](https://github.com/mdellavo/stream): HLS server implementation in python
-* [rowrawer/stream-detector](https://github.com/rowrawer/stream-detector): A Firefox addon written in JavaScript which provides an easy way to keep track of URLs to playlists and subtitles used by Apple HLS, Adobe HDS, MPEG-DASH, and Microsoft Smooth Streaming streams.
+* [rowrawer/stream-detector](https://github.com/rowrawer/stream-detector): A Firefox addon written in JavaScript which provides an easy way to keep track of URLs to playlists and subtitles used by Apple HLS, Adobe HDS, MPEG-DASH, and Microsoft Smooth Streaming streams as well as download video/audio files directly and monitor any other file extensions and Content-Type headers.
 * [Eyevinn/stream-limit-api](https://github.com/Eyevinn/stream-limit-api): Example of a simple implementation to build a stream limit api on top of Redis
 * [vbence/stream-m](https://github.com/vbence/stream-m): An HTML5-compatible live streaming server supporting the WebM and H.264 formats.
 * [muxinc/stream.new](https://github.com/muxinc/stream.new): The repo for https://stream.new
