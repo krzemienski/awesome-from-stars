@@ -2987,7 +2987,7 @@
 * [philcluff/phils-players](https://github.com/philcluff/phils-players): A collection of video players with vaguely simple GUIs for video engineers.
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [Netflix/photon](https://github.com/Netflix/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
-* [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App. Tags and finds pictures without getting in your way! We promise to never sell your data and to protect your right to privacy 🌈💎✨
+* [photoprism/photoprism](https://github.com/photoprism/photoprism): PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 * [aminyazdanpanah/PHP-FFmpeg-video-streaming](https://github.com/aminyazdanpanah/PHP-FFmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 * [Aufree/PHPHub-iOS](https://github.com/Aufree/PHPHub-iOS): PHPHub for iOS is the universal iPhone and iPad application for PHPHub
 * [studioimaginaire/phue](https://github.com/studioimaginaire/phue): A Python library for the Philips Hue system
