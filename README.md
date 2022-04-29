@@ -2345,7 +2345,7 @@
 * [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere): The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 * [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
 * [soluble-ai/kubetap](https://github.com/soluble-ai/kubetap): Kubectl plugin to interactively proxy Kubernetes Services with ease
-* [oam-dev/kubevela](https://github.com/oam-dev/kubevela): The Modern Application Platform.
+* [kubevela/kubevela](https://github.com/kubevela/kubevela): The Modern Application Platform.
 * [kubevious/kubevious](https://github.com/kubevious/kubevious): Kubevious - application centric Kubernetes UI and continuous assurance provider
 * [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt): Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 * [krad/kubrick](https://github.com/krad/kubrick): 🎥 Swift library for creating media processing pipelines using AVFoundation

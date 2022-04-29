@@ -7718,6 +7718,9 @@
     "kubesphere/kubesphere": [
         "Other"
     ],
+    "kubevela/kubevela": [
+        "Other"
+    ],
     "kubevious/kubevious": [
         "Other"
     ],
@@ -9198,9 +9201,6 @@
         "Other"
     ],
     "oae/gnome-shell-extensions-sync": [
-        "Other"
-    ],
-    "oam-dev/kubevela": [
         "Other"
     ],
     "oatpp/example-hls-media-stream": [
