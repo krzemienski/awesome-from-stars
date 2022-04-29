@@ -1746,7 +1746,7 @@
 * [ameygat/githuballrepo](https://github.com/ameygat/githuballrepo): Python Scripts to download all repository or user or organization
 * [ReSwift/GitHubBrowserExample](https://github.com/ReSwift/GitHubBrowserExample): [WIP] Real World Example for ReSwift
 * [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner): A script that clones Github repositories of users and organizations.
-* [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
+* [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 * [jsbain/GitHubGet](https://github.com/jsbain/GitHubGet): Quick script to zip and download a repo from github, for those afraid of shellista
 * [ad/GithubListener](https://github.com/ad/GithubListener): Notifying about new commits from watched repos on github
 * [jindulys/GithubPilot](https://github.com/jindulys/GithubPilot): Github API V3 Swifty Wrapper
