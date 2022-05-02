@@ -1374,6 +1374,7 @@
 * [PacktPublishing/End-to-End-GUI-development-with-Qt5](https://github.com/PacktPublishing/End-to-End-GUI-development-with-Qt5): End to End GUI development with Qt5, published by Packt
 * [artsy/energy-legacy](https://github.com/artsy/energy-legacy): LEGACY - Artsy Folio, The Partner iPhone / iPad app.
 * [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
+* [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders): A framework for Engineering Managers
 * [kubernetes/enhancements](https://github.com/kubernetes/enhancements): Enhancements tracking repo for Kubernetes
 * [entropic-dev/entropic](https://github.com/entropic-dev/entropic): 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 * [Entware/Entware](https://github.com/Entware/Entware): Ultimate repo for embedded devices
