@@ -3613,7 +3613,6 @@
 * [grobie/soundcloud2000](https://github.com/grobie/soundcloud2000): A terminal client for https://soundcloud.com
 * [abdes-zakari/SoundCloudDownloader](https://github.com/abdes-zakari/SoundCloudDownloader): Download songs directly from SoundCloud(Windows)
 * [shreysamdani/soundcloudPlaylist](https://github.com/shreysamdani/soundcloudPlaylist): downloads Soundcloud playlists as mp3
-* [pepicrft/SoundCloudSwift](https://github.com/pepicrft/SoundCloudSwift): SoundCloud client written on Swift
 * [kassoulet/soundconverter](https://github.com/kassoulet/soundconverter): GNOME powered sound conversion
 * [MGF15/SoundGrab](https://github.com/MGF15/SoundGrab): Download MP3 tracks from SoundCloud
 * [scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2): A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.
