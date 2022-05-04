@@ -703,7 +703,7 @@
 * [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life): Bringing Old Photo Back to Life (CVPR 2020 oral)
 * [britecharts/britecharts](https://github.com/britecharts/britecharts): Composable Charting Library based on reusable D3.js components.
 * [22bulbs/brom](https://github.com/22bulbs/brom): Highly configurable, local auditing of HTTP transactions
-* [txthinking/brook](https://github.com/txthinking/brook): Brook is a cross-platform, strong encryption, undetectable protocol, not just proxy. Keep it simple, stupid. Zero-Configuration. Brook 是一个跨平台, 强加密, 无特征协议, 不仅仅是代理. 零配置.
+* [txthinking/brook](https://github.com/txthinking/brook): A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 * [sjbarag/brs](https://github.com/sjbarag/brs): An interpreter for the BrightScript language that runs on non-Roku platforms.
 * [sjbarag/brs-testbed](https://github.com/sjbarag/brs-testbed): A simple, buildable Roku channel that executes arbitrary BrightScript files.
 * [ravager/brs-utils](https://github.com/ravager/brs-utils): Utilities for Roku development
