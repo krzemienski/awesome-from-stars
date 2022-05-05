@@ -845,6 +845,7 @@
 * [clearlinux/clr-installer](https://github.com/clearlinux/clr-installer): Clear Linux* OS Installer
 * [ccremer/clustercode](https://github.com/ccremer/clustercode): Distribute your video encoding tasks across a cluster of nodes!
 * [Dash-Industry-Forum/CMAF-Conformance](https://github.com/Dash-Industry-Forum/CMAF-Conformance): CMAF sub repository of DASH-IF-Conformance. This repo contains CTAWAVE conformance functionalities as a submodule. CTA WAVE Github project is located at https://github.com/orgs/Dash-Industry-Forum/projects/6 but it is not visible to the public. To see this page & contribute, please get in contact with repository admin to be added as a collaborator.
+* [eshepelyuk/cmak-docker](https://github.com/eshepelyuk/cmak-docker): CMAK (previous known as Kafka Manager) as docker image
 * [louisdh/cmd-almanac](https://github.com/louisdh/cmd-almanac): A list of commands I frequently use
 * [fabian1811/cmdline-musicdetection](https://github.com/fabian1811/cmdline-musicdetection): Generates a fingerprint and queries it against the Gracenote API
 * [intel/cmrt](https://github.com/intel/cmrt): C for Media Runtime
@@ -2255,7 +2256,6 @@
 * [onfido/k8s-rabbit-pod-autoscaler](https://github.com/onfido/k8s-rabbit-pod-autoscaler): Kubernetes autoscaler for pods that consume RabbitMQ
 * [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for): A simple script that allows to wait for a k8s service, job or pods to enter a desired state
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-* [hleb-albau/kafka-manager-docker](https://github.com/hleb-albau/kafka-manager-docker): CMAK (previous known as Kafka Manager) As Docker Image
 * [devlucky/Kakapo](https://github.com/devlucky/Kakapo): 🐤Dynamically Mock server behaviors and responses in Swift
 * [kaltura/KalturaGeneratedAPIClientsPython](https://github.com/kaltura/KalturaGeneratedAPIClientsPython): Python auto generated clients libs which will then be built and test by Travis CI
 * [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes

@@ -5462,6 +5462,9 @@
     "escaped/django-video-encoding": [
         "Other"
     ],
+    "eshepelyuk/cmak-docker": [
+        "Other"
+    ],
     "espnet/espnet": [
         "Other"
     ],
@@ -6402,9 +6405,6 @@
         "Other"
     ],
     "hjmangalam/parsyncfp": [
-        "Other"
-    ],
-    "hleb-albau/kafka-manager-docker": [
         "Other"
     ],
     "hnlq715/httpmq": [
