@@ -6806,6 +6806,9 @@
     "jVirus/uicollectionview-layouts-kit": [
         "Other"
     ],
+    "jackie1in/jre-ffmpeg-apline": [
+        "Other"
+    ],
     "jackrobertscott/forge": [
         "Other"
     ],
@@ -10815,9 +10818,6 @@
         "Other"
     ],
     "sile/hls_wasm": [
-        "Other"
-    ],
-    "silencecorner/jre-ffmpeg-apline": [
         "Other"
     ],
     "simdjson/simdjson": [
