@@ -2177,7 +2177,7 @@
 * [tjrantal/JavaFrameByFrameVideo](https://github.com/tjrantal/JavaFrameByFrameVideo): None
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 * [zmalrobot/JavaLinuxUndervolt](https://github.com/zmalrobot/JavaLinuxUndervolt): Small GUI for undervolt.py script
-* [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript): Algorithms implemented in JavaScript for beginners, following best practices.
+* [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms implemented in JavaScript for beginners, following best practices.
 * [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 * [a-schild/jave2](https://github.com/a-schild/jave2): The JAVE (Java Audio Video Encoder) library is Java wrapper on the ffmpeg project
 * [realm/jazzy](https://github.com/realm/jazzy): Soulful docs for Swift & Objective-C
