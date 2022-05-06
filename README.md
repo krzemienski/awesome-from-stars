@@ -312,7 +312,7 @@
 * [LearnDataSci/articles](https://github.com/LearnDataSci/articles): A repository for the source code, notebooks, data, files, and other assets used in the data science and machine learning articles on LearnDataSci
 * [objcio/articles](https://github.com/objcio/articles): All current objc.io articles
 * [pedrohperalta/Articles-iOS-VIPER](https://github.com/pedrohperalta/Articles-iOS-VIPER): Demo app for VIPER design pattern implementation
-* [artilleryio/artillery](https://github.com/artilleryio/artillery): ↯ Cloud-scale performance testing for DevOps & SRE
+* [artilleryio/artillery](https://github.com/artilleryio/artillery): Modern testing for DevOps & SRE
 * [artilleryio/artillery-plugin-datadog](https://github.com/artilleryio/artillery-plugin-datadog): Artillery plugin for sending metrics to Datadog
 * [artilleryio/artillery-plugin-hls](https://github.com/artilleryio/artillery-plugin-hls): 🎥 Load test HTTP Live Streaming (HLS) servers with Artillery 
 * [AFathi/ARVideoKit](https://github.com/AFathi/ARVideoKit): Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
