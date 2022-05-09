@@ -2611,7 +2611,7 @@
 * [Kademi/milton-aws](https://github.com/Kademi/milton-aws): This is an open source project of using Amazon S3 (Simple Storage Service) in milton
 * [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally
 * [lieff/minimp4](https://github.com/lieff/minimp4): Minimalistic MP4 mux/demux single header library 
-* [minio/minio](https://github.com/minio/minio): High Performance, Kubernetes Native Object Storage
+* [minio/minio](https://github.com/minio/minio): Multi-Cloud Object Storage
 * [minio/minio-py](https://github.com/minio/minio-py): MinIO Client SDK for Python
 * [PatrickKalkman/MiniVideoEncoder](https://github.com/PatrickKalkman/MiniVideoEncoder): A modern video encoding platform for encoding videos optimized for streaming supporting modern encodings such as x264, x265, VP9 and AV1
 * [yonaskolb/Mint](https://github.com/yonaskolb/Mint): A package manager that installs and runs executable Swift packages
