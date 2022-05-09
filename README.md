@@ -2265,6 +2265,7 @@
 * [gree-gorey/karavel](https://github.com/gree-gorey/karavel): Yet another Kubernetes tempalting tool, Python-based
 * [gnebbia/kb](https://github.com/gnebbia/kb): A minimalist command line knowledge base manager
 * [xtaci/kcptun](https://github.com/xtaci/kcptun): A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
+* [kedacore/keda](https://github.com/kedacore/keda):  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 * [keel-hq/keel](https://github.com/keel-hq/keel): Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 * [andrepolischuk/keep](https://github.com/andrepolischuk/keep): Desktop app for Google Keep packaged with Electron
 * [rfrail3/keepconf](https://github.com/rfrail3/keepconf): Keepconf - Tool for backup and track files from remote hosts.
