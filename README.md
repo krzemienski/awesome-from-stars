@@ -2952,7 +2952,7 @@
 * [bensuperpc/Package_installer](https://github.com/bensuperpc/Package_installer): Automatic package installer for ArchLinux and Manjaro
 * [muxinc/packaging_examples](https://github.com/muxinc/packaging_examples): Samples files packaged by mux
 * [evertiro/packup](https://github.com/evertiro/packup): A simple backup & restore script for pacman.
-* [RubenKelevra/pacman.store](https://github.com/RubenKelevra/pacman.store): Pacman Mirror via IPFS for ArchLinux, Endeavouros and Manjaro
+* [RubenKelevra/pacman.store](https://github.com/RubenKelevra/pacman.store): Pacman Mirror via IPFS for ArchLinux, Endeavouros, Manjaro plus custom repos ALHP and Chaotic-AUR.
 * [microsoft/pai](https://github.com/microsoft/pai): Resource scheduling and cluster management for AI
 * [kitsunyan/pakku](https://github.com/kitsunyan/pakku): Pacman wrapper with AUR support
 * [manjaro/pamac](https://github.com/manjaro/pamac): This repo has been archived. Our code is now hosted at
