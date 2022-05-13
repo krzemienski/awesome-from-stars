@@ -845,7 +845,7 @@
 * [clearlinux/clr-installer](https://github.com/clearlinux/clr-installer): Clear Linux* OS Installer
 * [ccremer/clustercode](https://github.com/ccremer/clustercode): Distribute your video encoding tasks across a cluster of nodes!
 * [Dash-Industry-Forum/CMAF-Conformance](https://github.com/Dash-Industry-Forum/CMAF-Conformance): CMAF sub repository of DASH-IF-Conformance. This repo contains CTAWAVE conformance functionalities as a submodule. CTA WAVE Github project is located at https://github.com/orgs/Dash-Industry-Forum/projects/6 but it is not visible to the public. To see this page & contribute, please get in contact with repository admin to be added as a collaborator.
-* [eshepelyuk/cmak-docker](https://github.com/eshepelyuk/cmak-docker): CMAK (previous known as Kafka Manager) as docker image
+* [eshepelyuk/cmak-docker](https://github.com/eshepelyuk/cmak-docker): CMAK (prev. Kafka Manager) and cmak2zk docker images
 * [louisdh/cmd-almanac](https://github.com/louisdh/cmd-almanac): A list of commands I frequently use
 * [fabian1811/cmdline-musicdetection](https://github.com/fabian1811/cmdline-musicdetection): Generates a fingerprint and queries it against the Gracenote API
 * [intel/cmrt](https://github.com/intel/cmrt): C for Media Runtime
