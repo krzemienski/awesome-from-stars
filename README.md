@@ -3566,7 +3566,7 @@
 * [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta embedded databases
 * [Haptic-Apps/Slide-iOS](https://github.com/Haptic-Apps/Slide-iOS): A powerful new way to Reddit on iOS.
 * [maaslalani/slides](https://github.com/maaslalani/slides): Terminal based presentation tool
-* [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
+* [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
 * [slidevjs/slidev-vscode](https://github.com/slidevjs/slidev-vscode): VS Code extension for Slidev
 * [mergesort/Slope](https://github.com/mergesort/Slope): A simpler way to implement gradients on iOS.
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
