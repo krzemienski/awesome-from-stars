@@ -2134,7 +2134,7 @@
 * [kstenerud/iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework): An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.
 * [realeyes-media/ios-vast-client](https://github.com/realeyes-media/ios-vast-client): None
 * [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy): A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
-* [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly): 🇨🇳 老司机 iOS 周报
+* [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly): 🇨🇳 老司机技术 iOS 周报
 * [holzschu/ios_system](https://github.com/holzschu/ios_system): Drop-in replacement for system() in iOS programs
 * [iamdaiyuan/ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000): A curated list of awesome iOS top 1000 libraries. 
 * [iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering): The world’s 1st book of very detailed iOS App reverse engineering skills :)
