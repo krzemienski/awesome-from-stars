@@ -1761,7 +1761,7 @@
 * [Roche/gitlab-configuration-as-code](https://github.com/Roche/gitlab-configuration-as-code): Manage GitLab configuration as code to make GitLab easily managable, traceable and reproducible.
 * [leandromoreira/GitlHEVCAnalyzer](https://github.com/leandromoreira/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
 * [lheric/GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
-* [vivekweb2013/gitnoter](https://github.com/vivekweb2013/gitnoter): Create and store notes to your git repository with gitnoter!
+* [vivekweb2013/gitnoter](https://github.com/vivekweb2013/gitnoter): An open source, markdown-based, self-hosted note taking webapp.
 * [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch): Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): Gitpod automates the provisioning of ready-to-code development environments. 
 * [CCristi/GitPR](https://github.com/CCristi/GitPR): None
