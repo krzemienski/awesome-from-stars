@@ -723,7 +723,7 @@
 * [slhck/bufferer](https://github.com/slhck/bufferer): Inserts fake rebuffering events into video
 * [bugsnag/bugsnag-cocoa](https://github.com/bugsnag/bugsnag-cocoa): Bugsnag crash reporting for iOS, macOS and tvOS apps
 * [nickjj/build-a-saas-app-with-flask](https://github.com/nickjj/build-a-saas-app-with-flask): Learn how to build a production ready web app with Flask and Docker.
-* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): 🤓 Build your own (insert technology here)
+* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 * [agiliq/building-api-django](https://github.com/agiliq/building-api-django): None
 * [moby/buildkit](https://github.com/moby/buildkit): concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 * [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka): Buka is a modern software that helps you manage your ebook at ease. 
