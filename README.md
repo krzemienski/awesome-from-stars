@@ -4154,7 +4154,7 @@
 * [qencode-dev/video-transcoder.online](https://github.com/qencode-dev/video-transcoder.online): Full featured video transcoding using the Qencode API that can be easily modified for your website or application.
 * [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api): Agnostic API to transcode media assets across different cloud services.
 * [donmelton/video-transcoding-scripts](https://github.com/donmelton/video-transcoding-scripts): Utilities to transcode, inspect and convert videos.
-* [videojs/video.js](https://github.com/videojs/video.js): Video.js - open source HTML5 & Flash video player
+* [videojs/video.js](https://github.com/videojs/video.js): Video.js - open source HTML5 video player
 * [vfdev-5/Video2Frames](https://github.com/vfdev-5/Video2Frames): Simple video to frames converter using Opencv
 * [vincentbernat/video2hls](https://github.com/vincentbernat/video2hls): Prepare a video to be streamed with HLS
 * [f11894/video_benchmark](https://github.com/f11894/video_benchmark): None
