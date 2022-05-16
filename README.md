@@ -2191,7 +2191,7 @@
 * [luizmb/Jenkins-Monitor-tvOS](https://github.com/luizmb/Jenkins-Monitor-tvOS): Apple TV Monitor for Jenkins, depends on plugin https://wiki.jenkins-ci.org/display/JENKINS/Build+Monitor+Plugin
 * [jesse-ai/jesse](https://github.com/jesse-ai/jesse): An advanced crypto trading bot written in Python
 * [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge): Jet Bridge – Admin Panel Framework for your application
-* [hiberbee/jetbrains-ide-theme](https://github.com/hiberbee/jetbrains-ide-theme): Dark color schemes for Jetbrains IDEs, XCode, iTerm2, macOS terminal 
+* [hiberbee/jetbrains-ide-theme](https://github.com/hiberbee/jetbrains-ide-theme): Dark color schemes for Jetbrains IDEs
 * [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme): One Dark theme for JetBrains.
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib): 🏗 Build container images for your Java applications.
