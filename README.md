@@ -1816,7 +1816,7 @@
 * [cwinging/go-segment](https://github.com/cwinging/go-segment): golang video segment tool, convert mp4 to hls format
 * [m1k1o/go-transcode](https://github.com/m1k1o/go-transcode): Live on-demand transcoding in go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
 * [jordicenzano/go-ts-segmenter](https://github.com/jordicenzano/go-ts-segmenter): Live TS segmenter and HLS manifest creation in Go
-* [giorgisio/goav](https://github.com/giorgisio/goav): Golang bindings for FFmpeg
+* [giorgisio/goav](https://github.com/giorgisio/goav): Golang bindings for FFmpeg (This repository is no longer maintained)
 * [gogolith/GoCoEdit](https://github.com/gogolith/GoCoEdit): GoCoEdit - Code & Text Editor for iOS / Issue tracker
 * [zixun/GodEye](https://github.com/zixun/GodEye): Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 * [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg): FFMPEG wrapper written in GO
