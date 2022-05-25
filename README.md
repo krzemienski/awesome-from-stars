@@ -174,7 +174,7 @@
 * [reneargento/algorithms-sedgewick-wayne](https://github.com/reneargento/algorithms-sedgewick-wayne): Solutions to all the exercises of the Algorithms book by Robert Sedgewick and Kevin Wayne 
 * [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4): Algorithms, 4th edition textbook code and libraries
 * [Mindera/Alicerce](https://github.com/Mindera/Alicerce): A base for iOS Applications made with ❤️ by Mindera 🤠
-* [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things): AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/master Please go to  https://www.aliyun.com/product/aliosthings to get your minimal code.
+* [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things): 面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings
 * [vknabel/All-in-One-Swift-for-vscode](https://github.com/vknabel/All-in-One-Swift-for-vscode): Provides VSCode extensions fo Swiftlint, Debugger and Autocompletion for Swift.
 * [wuz/all_google_fonts](https://github.com/wuz/all_google_fonts): Download and install all the Google web fonts for local use.
 * [AllToMP3/alltomp3](https://github.com/AllToMP3/alltomp3): Node module to download and convert in MP3 with tags an online video
