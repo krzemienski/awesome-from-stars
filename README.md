@@ -3702,7 +3702,7 @@
 * [ywangd/stash](https://github.com/ywangd/stash): StaSh - Shell for Pythonista
 * [jsbain/stash_git_tutorial](https://github.com/jsbain/stash_git_tutorial): stash git tools tutorial
 * [davidask/StateViewController](https://github.com/davidask/StateViewController): Stateful view controller containment for iOS and tvOS
-* [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg): Docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+* [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg): Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 * [statping/statping](https://github.com/statping/statping): Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 * [slackapi/steno](https://github.com/slackapi/steno): :vhs: Slack app testing companion - Record and Replay your HTTP requests, both incoming and outgoing
 * [bitrise-io/stepman](https://github.com/bitrise-io/stepman): Step collection manager
