@@ -910,7 +910,7 @@
 * [micahhausler/container-transform](https://github.com/micahhausler/container-transform): Transforms docker-compose, ECS, and Marathon configurations
 * [containerd/containerd](https://github.com/containerd/containerd): An open and reliable container runtime
 * [aws/containers-roadmap](https://github.com/aws/containers-roadmap): This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
-* [nuxt/content](https://github.com/nuxt/content): Write pages in markdown, use Vue components and enjoy the power of Nuxt Content. The file-based Headless CMS for modern websites.
+* [nuxt/content](https://github.com/nuxt/content): The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 * [ebu/content-manager](https://github.com/ebu/content-manager): The Content Manager is a visual production tool which is able to generate on the fly visualisation for DAB slideshow and RadioVIS. .NET framework based, it is developed in C# and is distributed under LGPL licence.
 * [webtor-io/content-transcoder](https://github.com/webtor-io/content-transcoder): Transcodes HTTP-stream to HLS
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
