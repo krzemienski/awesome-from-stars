@@ -979,7 +979,7 @@
 * [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch): Insane(ly slow but wicked good) PNG image optimization
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 * [christopher-beckham/cs109-dl-videos](https://github.com/christopher-beckham/cs109-dl-videos): Shell script to scrape Harvard CS109 (Intro to Data Science) lecture videos
-* [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates): csBooks - A Smart Book Manager Updates & Releases
+* [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates): csBooks is the best epub reader, pdf reader, mobi book reader and djvu reader for windows, linux and mac os. It solves your problems if you need ebook manager, library manager on linux, best comic book reader, cbz file reader, cbr file reader etc. 
 * [CharlesJS/CSProgress](https://github.com/CharlesJS/CSProgress): A higher-performing, easier-to-use replacement class for Apple's NSProgress, written in Swift.
 * [CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout): UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.
 * [creativetimofficial/ct-black-dashboard-pro-django](https://github.com/creativetimofficial/ct-black-dashboard-pro-django): Black Dashboard PRO - Premium Django Template | Creative-Tim
