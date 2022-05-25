@@ -3048,6 +3048,7 @@
 * [square/PonyDebugger](https://github.com/square/PonyDebugger): Remote network and data debugging for your native iOS app using Chrome Developer Tools
 * [facebookarchive/pop](https://github.com/facebookarchive/pop): An extensible iOS and OS X animation library, useful for physics-based interactions.
 * [pop-os/pop](https://github.com/pop-os/pop): A project for managing all Pop!_OS sources
+* [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [portainer/portainer-compose](https://github.com/portainer/portainer-compose): Compose setup for Portainer 
 * [Paxa/postbird](https://github.com/Paxa/postbird): Open source PostgreSQL GUI client for macOS, Linux and Windows
 * [vapor/postgres-kit](https://github.com/vapor/postgres-kit): 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
