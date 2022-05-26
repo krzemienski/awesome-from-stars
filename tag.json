@@ -8,9 +8,6 @@
     "0xdevalias/poc-kubernetes-batch": [
         "Other"
     ],
-    "0xnr/awesome-analytics": [
-        "Other"
-    ],
     "11ty/eleventy": [
         "Other"
     ],
@@ -9003,6 +9000,9 @@
         "Other"
     ],
     "networknt/light-4j": [
+        "Other"
+    ],
+    "newTendermint/awesome-analytics": [
         "Other"
     ],
     "nextapps-de/flexsearch": [
