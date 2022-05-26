@@ -256,7 +256,7 @@
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
 * [pietropizzi/app-talk](https://github.com/pietropizzi/app-talk): Let iOS apps talk - A user contributable directory of iOS apps with x-callback-urls.
-* [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation): AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Download latest version -
+* [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation): AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account.
 * [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit): AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 * [dreymonde/AppFolder](https://github.com/dreymonde/AppFolder): 🗂 Never use NSSearchPathForDirectoriesInDomains again
 * [maoschanz/appfolders-manager-gnome-extension](https://github.com/maoschanz/appfolders-manager-gnome-extension): A GNOME extension allowing easy management of "appfolders" directly from the applications grid.
@@ -1239,6 +1239,7 @@
 * [DP-3T/documents](https://github.com/DP-3T/documents): Decentralized Privacy-Preserving Proximity Tracing -- Documents
 * [docuowl/docuowl](https://github.com/docuowl/docuowl): 🦉 A documentation generator
 * [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin): very currency
+* [didi/DoKit](https://github.com/didi/DoKit): 一款面向泛前端产品研发全生命周期的效率平台。
 * [dokku/dokku](https://github.com/dokku/dokku): A docker-powered PaaS that helps you build and manage the lifecycle of applications
 * [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki): The DokuWiki Open Source Wiki Engine
 * [rokudev/dolby-audio-sample](https://github.com/rokudev/dolby-audio-sample): A collection of Dolby test content available in different streaming protocols.
@@ -1246,7 +1247,6 @@
 * [DolbyLaboratories/dolby_vision_professional_decoder_plugin](https://github.com/DolbyLaboratories/dolby_vision_professional_decoder_plugin): None
 * [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler): Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
 * [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io): 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
-* [didi/DoraemonKit](https://github.com/didi/DoraemonKit): 一款面向泛前端产品研发全生命周期的效率平台。
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
 * [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles): My personal dotfiles for bspwm, i3-gaps and kde plasma
@@ -3384,7 +3384,7 @@
 * [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg): Safe FFmpeg wrapper.
 * [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys): FFmpeg bindings for Rust.
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
 * [pubkey/rxdb](https://github.com/pubkey/rxdb): 🔄 A client side, offline-first, reactive database for JavaScript Applications
