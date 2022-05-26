@@ -2489,7 +2489,7 @@
 * [globocom/m3u8](https://github.com/globocom/m3u8): Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 * [grafov/m3u8](https://github.com/grafov/m3u8): Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 * [leandromoreira/m3u8](https://github.com/leandromoreira/m3u8): Python m3u8 parser
-* [excalibur-kvrv/m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl): A CLI program to download a video played using a m3u8 playlist
+* [excalibur-kvrv/m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl): A CLI program to download a video played using a m3u8 playlist. Download it here - https://pypi.org/project/m3u8dl/0.5.2/
 * [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader):  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 * [lcy0321/m3u8-downloader](https://github.com/lcy0321/m3u8-downloader): Download the ts files according to the given m3u8 file.
 * [carlanton/m3u8-parser](https://github.com/carlanton/m3u8-parser): A simple HLS playlist parser for Java
