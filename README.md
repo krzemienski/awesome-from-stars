@@ -2299,7 +2299,7 @@
 * [Kong/kong](https://github.com/Kong/kong): 🦍 The Cloud-Native API Gateway 
 * [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
 * [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf): A Python framework to write Kubernetes operators in just few lines of code.
-* [kubernetes/kops](https://github.com/kubernetes/kops): Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+* [kubernetes/kops](https://github.com/kubernetes/kops): Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 * [willhains/Kotoba](https://github.com/willhains/Kotoba): Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
 * [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew): 📦 Find and install kubectl plugins
 * [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index): Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
