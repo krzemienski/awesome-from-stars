@@ -861,6 +861,7 @@
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad
+* [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [vektah/CodeGlance](https://github.com/vektah/CodeGlance): Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime
 * [zhengjunbase/codehelper.generator](https://github.com/zhengjunbase/codehelper.generator): source code of codehelper.generator
 * [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub): CodeHub is an iOS application written using Xamarin
