@@ -2603,7 +2603,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): API first development platform
+* [micro/micro](https://github.com/micro/micro): An API first development platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
@@ -4321,7 +4321,7 @@
 * [mxcl/Workbench](https://github.com/mxcl/Workbench): Seamless, automatic, “dotfile” sync to iCloud.
 * [TenPennyTV/worker-ffmpeg](https://github.com/TenPennyTV/worker-ffmpeg): Worker that is used to transcode video to supported formats and resolutions
 * [bkeepers/workflow](https://github.com/bkeepers/workflow): GitHub workflow automation via .probot.js file in your repository.
-* [G-dH/workspace-switcher-manager](https://github.com/G-dH/workspace-switcher-manager): GNOME Shell extension
+* [G-dH/workspace-switcher-manager](https://github.com/G-dH/workspace-switcher-manager): GNOME Shell extension that adds workspace switcher options and allows you to customize workspace switcher popup and make it useful.
 * [RensAlthuis/workspaces-to-dock](https://github.com/RensAlthuis/workspaces-to-dock): A gnome shell extension that transforms the workspaces into an intellihide dock
 * [passingthru67/workspaces-to-dock](https://github.com/passingthru67/workspaces-to-dock): A gnome shell extension that transforms the workspaces into an intellihide dock
 * [theychx/WorkspaceSwitcherWrapAround](https://github.com/theychx/WorkspaceSwitcherWrapAround): Gnome Shell Workspace Switch Wraparound Extension
