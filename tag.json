@@ -3239,6 +3239,9 @@
     "apple/HomeKitADK": [
         "Other"
     ],
+    "apple/foundationdb": [
+        "Other"
+    ],
     "apple/sourcekit-lsp": [
         "Other"
     ],
@@ -5250,6 +5253,9 @@
         "Other"
     ],
     "easonlin404/ksm": [
+        "Other"
+    ],
+    "ebaauw/homebridge-lib": [
         "Other"
     ],
     "ebaauw/homebridge-ws": [
@@ -9128,6 +9134,9 @@
     "noirbizarre/flask-restplus": [
         "Other"
     ],
+    "noisetorch/NoiseTorch": [
+        "Other"
+    ],
     "nolar/kopf": [
         "Other"
     ],
@@ -9369,6 +9378,9 @@
         "Other"
     ],
     "openbridge/ob_bulkstash": [
+        "Other"
+    ],
+    "openbroadcaster/obplayer": [
         "Other"
     ],
     "opencoconut/webvtt-ruby": [

@@ -1651,6 +1651,7 @@
 * [forem/forem](https://github.com/forem/forem): For empowering community 🌱
 * [jackrobertscott/forge](https://github.com/jackrobertscott/forge): 🏹 Free and open source developer tool.
 * [jonan/ForkHub](https://github.com/jonan/ForkHub): GitHub client for Android based on the abandoned official app
+* [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
 * [attaswift/FrameworkTemplate](https://github.com/attaswift/FrameworkTemplate): My template for new cross-platform Swift frameworks
 * [ruanyf/free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1993,6 +1994,7 @@
 * [go-gitea/homebrew-gitea](https://github.com/go-gitea/homebrew-gitea): Gitea: Homebrew, moved to https://gitea.com/gitea/homebrew-gitea
 * [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk): AdoptOpenJDK HomeBrew Tap
 * [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient.
+* [ebaauw/homebridge-lib](https://github.com/ebaauw/homebridge-lib): Utility Library for Homebridge Plugins
 * [bschlenk/homebridge-roku](https://github.com/bschlenk/homebridge-roku): Control your Roku media player from your iOS devices using Apple's HomeKit.
 * [ebaauw/homebridge-ws](https://github.com/ebaauw/homebridge-ws): Homebridege plugin for virtual weather station
 * [lwitzani/homebridgeStatusWidget](https://github.com/lwitzani/homebridgeStatusWidget): None
@@ -2813,6 +2815,7 @@
 * [sgnl/nodeku](https://github.com/sgnl/nodeku): discover and control Roku devices with NodeJS
 * [mayeaux/nodetube](https://github.com/mayeaux/nodetube): Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
 * [mapio/nofussbm](https://github.com/mapio/nofussbm): No Fuss Bookmarks
+* [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch): Real-time microphone noise suppression on Linux.
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 * [hashicorp/nomad-dispatch-ffmpeg](https://github.com/hashicorp/nomad-dispatch-ffmpeg): Demo using Nomad Dispatch to transcode videos with ffmpeg
 * [cpitkin/nomad-openfaas-transcode-video](https://github.com/cpitkin/nomad-openfaas-transcode-video): None
@@ -2864,6 +2867,7 @@
 * [crunchyroll/objective_perceptual_analysis](https://github.com/crunchyroll/objective_perceptual_analysis): Objective Perceptual Analysis - Compression Karma Predictor
 * [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron): Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object’s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes
 * [konkor/obmin](https://github.com/konkor/obmin): File Sharing Server
+* [openbroadcaster/obplayer](https://github.com/openbroadcaster/obplayer):  :radio: OBPlayer Playout Automation RTP AoIP Streaming, Live Assist with CAP EAS Alerting 
 * [obsproject/obs-amd-encoder](https://github.com/obsproject/obs-amd-encoder): AMD Advanced Media Framework Encoder Plugin for Open Broadcaster Studio
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio): OBS Studio - Free and open source software for live streaming and screen recording
 * [obuseme/OCMockSample](https://github.com/obuseme/OCMockSample): None
