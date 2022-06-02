@@ -648,6 +648,7 @@
 * [phil-opp/blog_os](https://github.com/phil-opp/blog_os): Writing an OS in Rust
 * [madeden/blogposts](https://github.com/madeden/blogposts): Repository for all posts by Mad Eden S.L
 * [ParallaxWave/blood_i3](https://github.com/ParallaxWave/blood_i3): None
+* [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder): Simple Screen Recorder written in Rust based on Green Recorder
 * [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin): Blue Ocean is a reboot of the Jenkins CI/CD User Experience
 * [IBM/BluePic](https://github.com/IBM/BluePic): WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode.
 * [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill): Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
