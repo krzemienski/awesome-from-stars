@@ -3256,6 +3256,7 @@
 * [OptimalBits/redbird](https://github.com/OptimalBits/redbird): A modern reverse proxy for node
 * [AlkTheOrg/reddit-saved-to-csv](https://github.com/AlkTheOrg/reddit-saved-to-csv): Exports saved posts and comments on Reddit to a csv file.
 * [carson-katri/reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): A cross-platform Reddit client built in SwiftUI
+* [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): Create Reddit Videos with just✨ one command ✨
 * [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 * [vapor/redis](https://github.com/vapor/redis): Vapor provider for RediStack
 * [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator): A golang based redis operator that will make/oversee Redis standalone/cluster mode setup on top of the Kubernetes.
