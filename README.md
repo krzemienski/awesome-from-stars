@@ -3907,6 +3907,7 @@
 * [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster
 * [slackapi/template-slash-command-and-dialogs](https://github.com/slackapi/template-slash-command-and-dialogs): Sample Slack app that uses a Slash Command and interactive message to create helpdesk tickets
 * [ContainerSolutions/template-spring-boot](https://github.com/ContainerSolutions/template-spring-boot): Template for a Spring boot project
+* [DavidBrightSparc/Tenets-of-IT](https://github.com/DavidBrightSparc/Tenets-of-IT): The Tenets of IT: an accumulation of IT advice, wisdom, and humour.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
