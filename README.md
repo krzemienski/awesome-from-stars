@@ -3194,6 +3194,7 @@
 * [soygul/QuanticDev](https://github.com/soygul/QuanticDev): QuanticDev's Engineering and Software Development Resources
 * [quarkusio/quarkus](https://github.com/quarkusio/quarkus): Quarkus: Supersonic Subatomic Java. 
 * [gmr/queries](https://github.com/gmr/queries): PostgreSQL database access simplified
+* [TanStack/query](https://github.com/TanStack/query): 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 * [FabrizioBrancati/Queuer](https://github.com/FabrizioBrancati/Queuer): Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 * [Quick/Quick](https://github.com/Quick/Quick): The Swift (and Objective-C) testing framework.
 * [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them. 
@@ -3239,7 +3240,6 @@
 * [Radweb/react-native-audio-transcoder](https://github.com/Radweb/react-native-audio-transcoder): Transcode audio format in react-native. Supports mp3 🎉
 * [selsamman/react-native-transcode](https://github.com/selsamman/react-native-transcode): Video Transcoder for React Native
 * [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui): Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
-* [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query): ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 * [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa): Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 * [ReactiveCocoa/ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): Streams of values over time

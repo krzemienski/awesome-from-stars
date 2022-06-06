@@ -2327,6 +2327,9 @@
     "Taiko2k/TauonMusicBox": [
         "Other"
     ],
+    "TanStack/query": [
+        "Other"
+    ],
     "TareqAlqutami/rtmp-hls-server": [
         "Other"
     ],
@@ -11529,9 +11532,6 @@
         "Other"
     ],
     "tannercollin/standardnotes-fs": [
-        "Other"
-    ],
-    "tannerlinsley/react-query": [
         "Other"
     ],
     "tanyuan/rokuwiki": [
