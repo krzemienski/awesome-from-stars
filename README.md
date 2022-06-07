@@ -252,6 +252,7 @@
 * [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios): 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling): ✏️ Tooling for development and production Apollo workflows
 * [raindropio/app](https://github.com/raindropio/app): None
+* [standardnotes/app](https://github.com/standardnotes/app): An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
@@ -4289,7 +4290,6 @@
 * [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip): This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. 
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
-* [standardnotes/web](https://github.com/standardnotes/web): An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
 * [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web
 * [neosapience/web-skeleton](https://github.com/neosapience/web-skeleton): kubernetes + docker-compose + flask + celery + redis + mongo + frontend(any) + nginx
