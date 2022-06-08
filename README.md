@@ -723,7 +723,7 @@
 * [Budibase/budibase](https://github.com/Budibase/budibase): Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 
 * [alexdrone/Buffer](https://github.com/alexdrone/Buffer): Swift μ-framework for efficient array diffs and datasource adapters.
 * [slhck/bufferer](https://github.com/slhck/bufferer): Inserts fake rebuffering events into video
-* [bugsnag/bugsnag-cocoa](https://github.com/bugsnag/bugsnag-cocoa): Bugsnag crash reporting for iOS, macOS and tvOS apps
+* [bugsnag/bugsnag-cocoa](https://github.com/bugsnag/bugsnag-cocoa): Bugsnag error monitoring & exception reporter for iOS, macOS, tvOS and watchOS
 * [nickjj/build-a-saas-app-with-flask](https://github.com/nickjj/build-a-saas-app-with-flask): Learn how to build a production ready web app with Flask and Docker.
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 * [agiliq/building-api-django](https://github.com/agiliq/building-api-django): None
