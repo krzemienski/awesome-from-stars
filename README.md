@@ -870,7 +870,7 @@
 * [Eyevinn/codem-client](https://github.com/Eyevinn/codem-client): Simple clients to codem-transcoder
 * [Dash-Industry-Forum/codem-isoboxer](https://github.com/Dash-Industry-Forum/codem-isoboxer): A lightweight browser-based MPEG-4 (ISOBMFF) file/box parser.
 * [madebyhiro/codem-transcode](https://github.com/madebyhiro/codem-transcode): Offline video transcoder written in node.js
-* [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror): In-browser code editor
+* [codemirror/codemirror5](https://github.com/codemirror/codemirror5): In-browser code editor
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
