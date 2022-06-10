@@ -3254,6 +3254,9 @@
     "apple/foundationdb": [
         "Other"
     ],
+    "apple/sample-food-truck": [
+        "Other"
+    ],
     "apple/sourcekit-lsp": [
         "Other"
     ],
@@ -5139,6 +5142,9 @@
         "Other"
     ],
     "doocs/leetcode": [
+        "Other"
+    ],
+    "doocs/source-code-hunter": [
         "Other"
     ],
     "dooman87/imagemagick-docker": [

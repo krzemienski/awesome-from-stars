@@ -3428,6 +3428,7 @@
 * [digitalocean/sample-django](https://github.com/digitalocean/sample-django): Django sample app for DigitalOcean App Platform
 * [digitalocean/sample-dockerfile](https://github.com/digitalocean/sample-dockerfile): ⛵ App Platform sample Docker application.
 * [digitalocean/sample-flask](https://github.com/digitalocean/sample-flask): Sample Flask Application to be deployed on DigitalOcean's App Platform
+* [apple/sample-food-truck](https://github.com/apple/sample-food-truck): SwiftUI sample code from WWDC22
 * [digitalocean/sample-python](https://github.com/digitalocean/sample-python): ⛵ App Platform sample Python application.
 * [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [flutter/samples](https://github.com/flutter/samples): A collection of Flutter examples and demos
@@ -3635,6 +3636,7 @@
 * [creativeprogramming/soundmanager2-livem3u](https://github.com/creativeprogramming/soundmanager2-livem3u): Soundmanager2 lightweight live audio streaming with .M3U (inspired by Cupertino Streaming - HLS / .M3U8)
 * [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app): Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 * [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape): SoundCloud (and Bandcamp and Mixcloud) downloader in Python. 
+* [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 * [louisdh/source-editor](https://github.com/louisdh/source-editor): A native source editor for iOS and macOS, written in Swift
 * [SourceDocs/SourceDocs](https://github.com/SourceDocs/SourceDocs): Generate Markdown documentation from source code
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
