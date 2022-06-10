@@ -3398,7 +3398,7 @@
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
-* [pubkey/rxdb](https://github.com/pubkey/rxdb): 🔄 A client side, offline-first, reactive database for JavaScript Applications
+* [pubkey/rxdb](https://github.com/pubkey/rxdb): 🔄 A fast, offline-first, reactive database for JavaScript Applications
 * [microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg): 🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片，抖音首页，视频播放器及支持 OpenSSL https 等主流特色功能
 * [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp):  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
