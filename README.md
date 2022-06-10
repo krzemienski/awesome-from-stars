@@ -3935,6 +3935,7 @@
 * [yadox666/The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit): The best hacker's gadgets for Red Team pentesters and security researchers.
 * [nvbn/thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command.
 * [eclipse-theia/theia](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+* [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps): Theia applications examples - docker images, desktop apps, packagings
 * [system76/thelio](https://github.com/system76/thelio): Thelio Desktop by System76
 * [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList): A list of Awesome Server Side Swift 3 projects
 * [theos/theos](https://github.com/theos/theos): A cross-platform suite of tools for building and deploying software for iOS and other platforms.
