@@ -117,6 +117,7 @@
 * [krzemienski/abr-manifest-viewer-chrome](https://github.com/krzemienski/abr-manifest-viewer-chrome): Extension to view HLS (m3u8) or MPEG-DASH (mpd) manifest files with syntax highlighting in your Chrome browser.
 * [alfg/abr-player](https://github.com/alfg/abr-player): 📼 Adaptive Streaming Test Player
 * [Eyevinn/abr-player-chrome](https://github.com/Eyevinn/abr-player-chrome): Chrome extension that uses Eyevinn HTML player to be able to play HLS and MPEG-DASH natively
+* [Xilinx/ABR-video-transcode](https://github.com/Xilinx/ABR-video-transcode): None
 * [jronallo/abrizer](https://github.com/jronallo/abrizer): Creates MPEG-DASH and HLS streams from a video file.
 * [xelaok/acey](https://github.com/xelaok/acey): AceY - Ace Stream proxy
 * [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr): A configuration manager for Arch Linux
