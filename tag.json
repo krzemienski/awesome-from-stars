@@ -3686,6 +3686,9 @@
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
+    "batnoter/batnoter": [
+        "Other"
+    ],
     "baumgarr/nixnote2": [
         "Other"
     ],
@@ -6033,9 +6036,6 @@
         "Other"
     ],
     "git-ftp/git-ftp": [
-        "Other"
-    ],
-    "git-noter/gitnoter": [
         "Other"
     ],
     "git-touch/git-touch": [

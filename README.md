@@ -617,6 +617,7 @@
 * [ZaifSenpai/Batch-Py-Remux](https://github.com/ZaifSenpai/Batch-Py-Remux): Convert mkv video to hevc (h.265)
 * [Azure-Samples/batch-python-ffmpeg-tutorial](https://github.com/Azure-Samples/batch-python-ffmpeg-tutorial): A Python application that uses Batch to process media files in parallel with the ffmpeg open-source tool.
 * [five82/batchtranscode](https://github.com/five82/batchtranscode): None
+* [batnoter/batnoter](https://github.com/batnoter/batnoter): An open source, markdown-based, self-hosted note taking webapp.
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
 * [OSC/bc_k8s_jupyter](https://github.com/OSC/bc_k8s_jupyter): Run a batch connect Jupyter in a kuberentes cluster
 * [mjuhasz/BDSup2Sub](https://github.com/mjuhasz/BDSup2Sub): Blu-Ray/DVD subtitle editor
@@ -1767,7 +1768,6 @@
 * [Roche/gitlab-configuration-as-code](https://github.com/Roche/gitlab-configuration-as-code): Manage GitLab configuration as code to make GitLab easily managable, traceable and reproducible.
 * [leandromoreira/GitlHEVCAnalyzer](https://github.com/leandromoreira/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
 * [lheric/GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
-* [git-noter/gitnoter](https://github.com/git-noter/gitnoter): An open source, markdown-based, self-hosted note taking webapp.
 * [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch): Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): Gitpod automates the provisioning of ready-to-code development environments. 
 * [CCristi/GitPR](https://github.com/CCristi/GitPR): None
