@@ -2052,6 +2052,7 @@
 * [waylybaye/HyperAppScripts](https://github.com/waylybaye/HyperAppScripts): None
 * [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS): In-app design review tool to inspect measurements, attributes, and animations.
 * [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): A hyperminimal zsh prompt
+* [vaxerski/Hypr](https://github.com/vaxerski/Hypr): Hypr is a tiling window manager written in modern C++.
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix): Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 * [afex/hystrix-go](https://github.com/afex/hystrix-go): Netflix's Hystrix latency and fault tolerance library, for Go 
 * [gohypergiant/IAPKit](https://github.com/gohypergiant/IAPKit): A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials.
