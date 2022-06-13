@@ -1261,6 +1261,7 @@
 * [holman/dotfiles](https://github.com/holman/dotfiles): @holman does dotfiles
 * [jzbor/dotfiles](https://github.com/jzbor/dotfiles): None
 * [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles): An organizational repository for my dotfiles and scripts
+* [lewagon/dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 * [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles): My dotfiles.
 * [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
@@ -1539,6 +1540,8 @@
 * [kevinGodell/ffmpeg-streamer](https://github.com/kevinGodell/ffmpeg-streamer): ffmpeg-streamer is a packaged nodejs express server that wraps ffmpeg to allow easy streaming of video feeds directly to modern browsers for testing purposes. It currently includes 6 different types of output streaming which are mjpeg, jpeg via socket.io, progressive mp4, native hls, hls.js, and mse via socket.io. Video input types supported are rtsp, mp4, mjpeg, and hls.
 * [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc): Stream video from ffmpeg to web(rtc)
 * [mpenkov/ffmpeg-tutorial](https://github.com/mpenkov/ffmpeg-tutorial): A set of tutorials that demonstrates how to write a video player based on FFmpeg
+* [tottokotkd/ffmpeg-tutorial-with-swift](https://github.com/tottokotkd/ffmpeg-tutorial-with-swift): None
+* [zhangpengyf/ffmpeg-tutorial-with-swift](https://github.com/zhangpengyf/ffmpeg-tutorial-with-swift): Translate "An ffmpeg and SDL Tutorial" to swift language
 * [rupakg/ffmpeg-video-thumb](https://github.com/rupakg/ffmpeg-video-thumb): An end-to-end serverless application that extracts thumbnails from video files using AWS Fargate, AWS Lambda and the Serverless Framework.
 * [ddragosd/ffmpeg-vod-transcoder](https://github.com/ddragosd/ffmpeg-vod-transcoder): A micro-service with Springboot and Docker used to transcode a single video file in multiple formats, in the cloud.
 * [alfg/ffmpeg-webassembly-example](https://github.com/alfg/ffmpeg-webassembly-example): FFmpeg +  WebAssembly
@@ -1550,6 +1553,7 @@
 * [sambios/ffmpeg_transcoder](https://github.com/sambios/ffmpeg_transcoder): video transcode based on ffmpeg, support H264/HEVC and more.
 * [zhen-ke/ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI): ffmpeg GUI
 * [cuongdcdev/ffmpegGui2](https://github.com/cuongdcdev/ffmpegGui2): graphical interface of FFmpeg using Java swing as a gui frontend, aim to provide easy to use interface with common and useful features
+* [siamakrostami/FFMPEGHelper](https://github.com/siamakrostami/FFMPEGHelper): Convert audio and video files using ffmpeg in swift
 * [wseemann/FFmpegMediaMetadataRetriever](https://github.com/wseemann/FFmpegMediaMetadataRetriever): FFmpegMediaMetadataRetriever provides a unified interface for retrieving frame and meta data from an input media file.
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
@@ -1834,6 +1838,8 @@
 * [shimberger/gohls](https://github.com/shimberger/gohls): A server that exposes a directory for video streaming via web interface
 * [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script): Simple Bash script to automate Go language tools single user installation or even removal.
 * [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
+* [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
+* [chriskiehl/GooeyExamples](https://github.com/chriskiehl/GooeyExamples): Example programs to Demonstrate Gooey's functionality 
 * [phillipcaudell/Google-Drive-for-Mac](https://github.com/phillipcaudell/Google-Drive-for-Mac): A standalone macOS app for Google Docs, Sheets and Slides
 * [googleads/google-media-framework-ios](https://github.com/googleads/google-media-framework-ios): The Google Media Framework (GMF) is a lightweight media player designed to make video playback and integration with the Google IMA SDK on iOS easier.
 * [google/google-toolbox-for-mac](https://github.com/google/google-toolbox-for-mac): Google Toolbox for Mac
@@ -2518,6 +2524,7 @@
 * [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 * [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+* [KhaosT/MacVM](https://github.com/KhaosT/MacVM): macOS VM for Apple Silicon using Virtualization API
 * [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout): A collection view layout capable of laying out views in vertically scrolling grids and lists.
 * [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord): Super Awesome Easy Fetching for Core Data!
 * [singhkshitij/MagicPrint-ECommerce-App-Android](https://github.com/singhkshitij/MagicPrint-ECommerce-App-Android): E-Commerce App Source Code for Android with Material Design Pattern Using Firebase and MySQL with Android Lottie Animations just like Flipkart, Myntra and Amazon :)
@@ -3267,6 +3274,7 @@
 * [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 * [vapor/redis](https://github.com/vapor/redis): Vapor provider for RediStack
 * [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator): A golang based redis operator that will make/oversee Redis standalone/cluster mode setup on top of the Kubernetes.
+* [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON): RedisJSON - a JSON data type for Redis
 * [redisson/redisson](https://github.com/redisson/redisson): Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 * [Redocly/redoc](https://github.com/Redocly/redoc): 📘  OpenAPI/Swagger-generated API Reference Documentation
 * [briandunnington/Redoku](https://github.com/briandunnington/Redoku): Redux for Roku
@@ -3825,6 +3833,7 @@
 * [tanhakabir/SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer): Streaming and realtime audio manipulation with AVAudioEngine
 * [SeverinetsDenis/SwiftAutomationCore](https://github.com/SeverinetsDenis/SwiftAutomationCore): Here is core for automation an iOS and tvOS app
 * [ivanschuetz/SwiftCharts](https://github.com/ivanschuetz/SwiftCharts): Easy to use and highly customizable charts library for iOS
+* [industriousonesoft/SwiftCodec](https://github.com/industriousonesoft/SwiftCodec): This is a thin Swift wrapper around the popular and excellent FFmpeg library. 
 * [SeverinetsDenis/SwiftCoreAutotests](https://github.com/SeverinetsDenis/SwiftCoreAutotests): None
 * [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate): 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 * [derekcoder/SwiftDevHints](https://github.com/derekcoder/SwiftDevHints): A very useful set of development tools for Swift.

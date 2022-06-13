@@ -1400,6 +1400,9 @@
     "Kevin-De-Koninck/Get-It": [
         "Other"
     ],
+    "KhaosT/MacVM": [
+        "Other"
+    ],
     "KhaosT/SimpleVM": [
         "Other"
     ],
@@ -2049,6 +2052,9 @@
         "Other"
     ],
     "RedSoftwareSystems/easy_docker_containers": [
+        "Other"
+    ],
+    "RedisJSON/RedisJSON": [
         "Other"
     ],
     "Redocly/redoc": [
@@ -4293,6 +4299,12 @@
         "Other"
     ],
     "chrisjohnson00/handbrake-watcher-chart": [
+        "Other"
+    ],
+    "chriskiehl/Gooey": [
+        "Other"
+    ],
+    "chriskiehl/GooeyExamples": [
         "Other"
     ],
     "chrislgarry/Apollo-11": [
@@ -6698,6 +6710,9 @@
     "indragiek/InAppViewDebugger": [
         "Other"
     ],
+    "industriousonesoft/SwiftCodec": [
+        "Other"
+    ],
     "inferred/FreeBuilder": [
         "Other"
     ],
@@ -7923,6 +7938,9 @@
         "Other"
     ],
     "lets-blade/blade": [
+        "Other"
+    ],
+    "lewagon/dotfiles": [
         "Other"
     ],
     "lexrus/RegExPlus": [
@@ -10880,6 +10898,9 @@
     "shzlw/poli": [
         "Other"
     ],
+    "siamakrostami/FFMPEGHelper": [
+        "Other"
+    ],
     "sickcodes/Docker-OSX": [
         "Other"
     ],
@@ -11865,6 +11886,9 @@
         "Other"
     ],
     "toshi0383/tvOS-10-Sampler": [
+        "Other"
+    ],
+    "tottokotkd/ffmpeg-tutorial-with-swift": [
         "Other"
     ],
     "tozastation/HLS-Streaming": [
@@ -12912,6 +12936,9 @@
         "Other"
     ],
     "zhaiweiwei/nginx-hls": [
+        "Other"
+    ],
+    "zhangpengyf/ffmpeg-tutorial-with-swift": [
         "Other"
     ],
     "zhen-ke/ffmpegGUI": [
