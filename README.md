@@ -292,6 +292,7 @@
 * [orta/ARAnalytics](https://github.com/orta/ARAnalytics): Simplify your iOS/Mac analytics
 * [diegohaz/arc](https://github.com/diegohaz/arc): React starter kit based on Atomic Design
 * [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron): Advanced REST Client - Desktop application
+* [14mRh4X0r/arch-argon](https://github.com/14mRh4X0r/arch-argon): lightweight GUI package manager + update notifier (with full AUR support) for Arch Linux, originally by Bob Henry Pirkle
 * [majamee/arch-ffmpeg-gpac](https://github.com/majamee/arch-ffmpeg-gpac): A ready-prepared video transcoding pipeline to create DASH/ HLS compatible video files & playlists
 * [hhyo/Archery](https://github.com/hhyo/Archery): SQL 审核查询平台
 * [SofianeHamlaoui/ArchI0](https://github.com/SofianeHamlaoui/ArchI0): ArchI0 : Arch-Based Distros Applications Automatic Installation Script
@@ -360,6 +361,7 @@
 * [syedhali/AudioStreamer](https://github.com/syedhali/AudioStreamer): A Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine
 * [dimitris-c/AudioStreaming](https://github.com/dimitris-c/AudioStreaming): An AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
 * [facebookarchive/augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control): Augmented Traffic Control: A tool to simulate network conditions
+* [simon04/aur-out-of-date](https://github.com/simon04/aur-out-of-date): Determines out-of-date AUR packages w.r.t. upstream version
 * [erikdubois/Aureola](https://github.com/erikdubois/Aureola): A conky collection of great conky's following the lua syntax
 * [antonpup/Aurora](https://github.com/antonpup/Aurora): Unified lighting effects across multiple brands and various games.
 * [AladW/aurutils](https://github.com/AladW/aurutils): Helper tools for the AUR.
@@ -3034,6 +3036,7 @@
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
 * [antoinehng/pixelwalker](https://github.com/antoinehng/pixelwalker): Video encoding quality assessment platform
 * [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability
+* [anatol/pkgoutofdate](https://github.com/anatol/pkgoutofdate): Checks ArchLinux packages repository for upstream updates
 * [moparisthebest/pkgsync](https://github.com/moparisthebest/pkgsync): Sync installed packages across Arch installs
 * [piotrmski/plaid](https://github.com/piotrmski/plaid): Personal Jira worklog editor
 * [pinterest/plank](https://github.com/pinterest/plank): A tool for generating immutable model objects
@@ -3298,6 +3301,7 @@
 * [malcommac/Repeat](https://github.com/malcommac/Repeat): 🕦 Modern Timer in Swift, Debouncer and Throttler (alternative to NSTimer) made with GCD
 * [vimond/replay](https://github.com/vimond/replay): A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 * [pop-os/repo-proprietary](https://github.com/pop-os/repo-proprietary): Configuration for building the proprietary repo with debrep
+* [cassava/repoctl](https://github.com/cassava/repoctl): Make it easy to manage your local Arch Linux repository.
 * [RepositoryStream/RepositoryStream](https://github.com/RepositoryStream/RepositoryStream): None
 * [thedillonb/RepoStumble](https://github.com/thedillonb/RepoStumble): A mobile application for viewing GitHub repositories in a fashion similar to StumbleUpon
 * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest): An easy and powerful Rust HTTP Client
@@ -4308,6 +4312,7 @@
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
 * [IBM/Watson-Unity-ARKit](https://github.com/IBM/Watson-Unity-ARKit): # WARNING: This repository is no longer maintained :warning:  This repository will not be updated. The repository will be kept available in read-only mode.
 * [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip): This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. 
+* [h2oai/wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python and R
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.

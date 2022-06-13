@@ -11,6 +11,9 @@
     "11ty/eleventy": [
         "Other"
     ],
+    "14mRh4X0r/arch-argon": [
+        "Other"
+    ],
     "1ec5/read-only-coding": [
         "Other"
     ],
@@ -3044,6 +3047,9 @@
     "analyserdmz/ffmpeg-multi-threaded-convert": [
         "Other"
     ],
+    "anatol/pkgoutofdate": [
+        "Other"
+    ],
     "andeaseme/backbeat": [
         "Other"
     ],
@@ -4167,6 +4173,9 @@
         "Other"
     ],
     "cash2one/VideoTranscoding-Backend": [
+        "Other"
+    ],
+    "cassava/repoctl": [
         "Other"
     ],
     "castlabs/dashencrypt": [
@@ -6327,6 +6336,9 @@
         "Other"
     ],
     "h2database/h2database": [
+        "Other"
+    ],
+    "h2oai/wave": [
         "Other"
     ],
     "hackerdude/jiratotaskmanagers": [
@@ -10917,6 +10929,9 @@
         "Other"
     ],
     "simdjson/simdjson": [
+        "Other"
+    ],
+    "simon04/aur-out-of-date": [
         "Other"
     ],
     "simonecorsi/mawesome": [
