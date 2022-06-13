@@ -2457,6 +2457,7 @@
 * [unifiedstreaming/live-demo-cmaf](https://github.com/unifiedstreaming/live-demo-cmaf): Live Demo using Live Media Ingest (Interface1) 
 * [AwakeningSV/live-infrastructure](https://github.com/AwakeningSV/live-infrastructure): Live video transcoding infrastructure
 * [aws-solutions/live-stream-on-aws](https://github.com/aws-solutions/live-stream-on-aws): The live stream solution is a reference deployment that demonstrates how to deliver highly available live streaming video through an integrated workflow between Elemental Cloud and AWS.
+* [aws-solutions/live-streaming-on-aws-with-amazon-s3](https://github.com/aws-solutions/live-streaming-on-aws-with-amazon-s3): Live streaming on AWS with Amazon S3 automatically configures AWS Elemental MediaLive, Amazon S3 and Amazon CloudFront to ingest, encode, package and deliver a single source live stream through the AWS Cloud. The Solution provides 3 Encoding profiles to support 1080p through 288p HTTP live streaming (HLS) outputs.
 * [scribd/LiveCollections](https://github.com/scribd/LiveCollections): Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.
 * [kubernetes-csi/livenessprobe](https://github.com/kubernetes-csi/livenessprobe): A sidecar container that can be included in a CSI plugin pod to enable integration with Kubernetes Liveness Probe.
 * [rachit2501/Livepeer-Video-Streaming](https://github.com/rachit2501/Livepeer-Video-Streaming): DApp to stream videos on livepeer protocol.
@@ -2685,6 +2686,7 @@
 * [sannies/mp4parser](https://github.com/sannies/mp4parser): A Java API to read, write and create MP4 files
 * [realeyes-media/mp4pssh](https://github.com/realeyes-media/mp4pssh): None
 * [TechSmith/mp4v2](https://github.com/TechSmith/mp4v2): Fork of mp4v2: https://code.google.com/archive/p/mp4v2/
+* [enzo1982/mp4v2](https://github.com/enzo1982/mp4v2): Reviving the MP4v2 project...
 * [mParticle/mparticle-roku-sdk](https://github.com/mParticle/mparticle-roku-sdk): mParticle SDK for Roku Streaming devices
 * [videojs/mpd-parser](https://github.com/videojs/mpd-parser): None
 * [squidpickles/mpd-to-m3u8](https://github.com/squidpickles/mpd-to-m3u8): Converts an MPEG-DASH MPD file to an HLS master playlist.
@@ -3566,6 +3568,7 @@
 * [apptainer/singularity](https://github.com/apptainer/singularity): Singularity has been EOL'ed, see Apptainer
 * [sessionboy/sinn](https://github.com/sessionboy/sinn): a blog based on of react,webpack3,dva,redux,material-ui,fetch,generator,markdown,nodejs,koa2,mongoose,docker,shell,and async/await  基于react+koa2技术栈的个人开源博客系统 
 * [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren): Notify users when a new version of your app is available and prompt them to upgrade.
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
 * [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes 
 * [changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer): video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.
 * [changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer): A HTTP Media Caching Framework. It can cache FILE or HLS media. 音视频边播边缓存框架, 支持 HLS(m3u8) 和 FILE(mp4, mp3等).
@@ -3756,6 +3759,7 @@
 * [red5pro/streaming-ios](https://github.com/red5pro/streaming-ios): This repository contains a simple project with a number of iOS examples that can be used for testing and reference.
 * [unifiedstreaming/streaming-load-testing](https://github.com/unifiedstreaming/streaming-load-testing): Load generation tool for evaluation of DASH and HLS video streaming setups
 * [Eyevinn/streaming-onboarding](https://github.com/Eyevinn/streaming-onboarding): New to streaming and don't know where to start? This is the place for you!
+* [tumtumtum/StreamingKit](https://github.com/tumtumtum/StreamingKit): A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS (iPhone, iPad)
 * [streamlinevideo/streamline](https://github.com/streamlinevideo/streamline): A reference system for end to end live streaming video. Capture, encode, package, uplink, origin, CDN, and player. 
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads

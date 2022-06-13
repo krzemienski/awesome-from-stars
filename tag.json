@@ -3572,6 +3572,9 @@
     "aws-solutions/live-stream-on-aws": [
         "Other"
     ],
+    "aws-solutions/live-streaming-on-aws-with-amazon-s3": [
+        "Other"
+    ],
     "aws/amazon-eks-pod-identity-webhook": [
         "Other"
     ],
@@ -5472,6 +5475,9 @@
         "Other"
     ],
     "envoyproxy/envoy": [
+        "Other"
+    ],
+    "enzo1982/mp4v2": [
         "Other"
     ],
     "eon01/DockerCheatSheet": [
@@ -10979,6 +10985,9 @@
     "sitkevij/mpi": [
         "Other"
     ],
+    "siyuan-note/siyuan": [
+        "Other"
+    ],
     "sjbarag/brs": [
         "Other"
     ],
@@ -11946,6 +11955,9 @@
         "Other"
     ],
     "tuanngominh/celery-django-kubernetes-experiment": [
+        "Other"
+    ],
+    "tumtumtum/StreamingKit": [
         "Other"
     ],
     "tunix/alacritty-snap": [
