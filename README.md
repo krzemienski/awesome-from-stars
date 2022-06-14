@@ -3924,7 +3924,7 @@
 * [suifengqjn/TBPlayer](https://github.com/suifengqjn/TBPlayer): 视频边下边播播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer
 * [TravelC/TCTitleLoading](https://github.com/TravelC/TCTitleLoading): This is a loading in the bottom of navigation bar title area.
 * [konsoletyper/teavm](https://github.com/konsoletyper/teavm): Compiler of Java bytecode to JavaScript
-* [andou/tech-resources](https://github.com/andou/tech-resources): 🔧 A list of useful resources for tech enthusiasts.
+* [andou/tech-resources](https://github.com/andou/tech-resources): 🔧 A list of useful resources for tech enthusiasts. https://andou.github.io/tech-resources/ 
 * [arpitjindal97/technology_books](https://github.com/arpitjindal97/technology_books): Premium eBook free for Geeks
 * [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme): A flat colorful Design icon theme
 * [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS): Telegram-iOS
