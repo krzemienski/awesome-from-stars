@@ -2648,7 +2648,7 @@
 * [adad184/MMPulseView](https://github.com/adad184/MMPulseView): None
 * [artsy/mobile](https://github.com/artsy/mobile): Mobile Team TODO
 * [raindropio/mobile](https://github.com/raindropio/mobile): Official Raindrop.io mobile app for iOS and Android
-* [standardnotes/mobile](https://github.com/standardnotes/mobile): Standard Notes for iOS and Android - https://standardnotes.com
+* [standardnotes/mobile](https://github.com/standardnotes/mobile): [Moved to https://github.com/standardnotes/app] Standard Notes for iOS and Android - https://standardnotes.com
 * [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg): FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
 * [sahin/mobileplayer-ios](https://github.com/sahin/mobileplayer-ios): :iphone: :movie_camera: A powerful and completely customizable media player for iOS
 * [moby/moby](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
