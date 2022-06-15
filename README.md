@@ -595,7 +595,7 @@
 * [yenbekbay/AYGestureHelpView](https://github.com/yenbekbay/AYGestureHelpView): [DEPRECATED] A view that can show a tutorial for gestures
 * [dempfi/ayu](https://github.com/dempfi/ayu): 🎨🖌 Modern Sublime Text theme
 * [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates): Azure Quickstart Templates
-* [microsoft/azure-spring-cloud-training](https://github.com/microsoft/azure-spring-cloud-training): Guides and tutorials to make the most out of Azure Spring Cloud 
+* [microsoft/azure-spring-cloud-training](https://github.com/microsoft/azure-spring-cloud-training): Guides and tutorials to make the most out of Azure Spring Apps 
 * [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio): Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 * [microsoft/azuredatastudio-postgresql](https://github.com/microsoft/azuredatastudio-postgresql): azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
 * [andeaseme/backbeat](https://github.com/andeaseme/backbeat): Automated video transcoding over S3 buckets
