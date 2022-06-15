@@ -806,7 +806,7 @@
 * [acoustid/chromaprint](https://github.com/acoustid/chromaprint): C library for generating audio fingerprints used by AcoustID
 * [acoustid/chromaprint-build](https://github.com/acoustid/chromaprint-build): Docker image for building Chromaprint
 * [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls): Extension that allows native hls playback in chrome browser
-* [skycocker/chromebrew](https://github.com/skycocker/chromebrew): Package manager for Chrome OS
+* [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
 * [mesos/chronos](https://github.com/mesos/chronos): Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 * [muxinc/chunked-transfer-demo](https://github.com/muxinc/chunked-transfer-demo): Webserver that demonstrates delivery of HLS media with HTTP chunked transfer encoding
 * [fastlane/ci](https://github.com/fastlane/ci): Open source, self hosted, mobile optimized CI powered by fastlane

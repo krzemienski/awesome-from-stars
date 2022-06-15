@@ -4349,6 +4349,9 @@
     "chrome/atvproxy": [
         "Other"
     ],
+    "chromebrew/chromebrew": [
+        "Other"
+    ],
     "cic1988/autosub-docker": [
         "Other"
     ],
@@ -11022,9 +11025,6 @@
         "Other"
     ],
     "sky-uk/bslint": [
-        "Other"
-    ],
-    "skycocker/chromebrew": [
         "Other"
     ],
     "skyformat99/nginx-netty-hls": [
