@@ -874,7 +874,7 @@
 * [Eyevinn/codem-client](https://github.com/Eyevinn/codem-client): Simple clients to codem-transcoder
 * [Dash-Industry-Forum/codem-isoboxer](https://github.com/Dash-Industry-Forum/codem-isoboxer): A lightweight browser-based MPEG-4 (ISOBMFF) file/box parser.
 * [madebyhiro/codem-transcode](https://github.com/madebyhiro/codem-transcode): Offline video transcoder written in node.js
-* [codemirror/codemirror5](https://github.com/codemirror/codemirror5): In-browser code editor
+* [codemirror/codemirror5](https://github.com/codemirror/codemirror5): In-browser code editor (version 5, legacy)
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
@@ -3521,6 +3521,7 @@
 * [martinlasek/serversideswift.racing](https://github.com/martinlasek/serversideswift.racing): statistics on growth trend of all major server-side swift frameworks
 * [SmartJSONEditor/ServerSideSwift_VaporConfigurations](https://github.com/SmartJSONEditor/ServerSideSwift_VaporConfigurations): Server Side Swift with Vapor, how to configure local testing environments and deploying to AWS EC2
 * [91yun/serverspeeder](https://github.com/91yun/serverspeeder): 锐速破解版
+* [lafleurdeboum/servicewall](https://github.com/lafleurdeboum/servicewall): moved to https://git.relatif.moi/lafleur/servicewall
 * [coreybobco/setlistspy-api](https://github.com/coreybobco/setlistspy-api): None
 * [sauce-archives/setups](https://github.com/sauce-archives/setups): None
 * [pypa/setuptools](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
