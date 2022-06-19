@@ -3919,7 +3919,7 @@
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 * [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe): An open source project management tool with Kanban boards
 * [GothenburgBitFactory/taskserver](https://github.com/GothenburgBitFactory/taskserver): Taskserver - Taskwarrior Synchronisation Server
-* [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox): Music player from the future! :city_sunset: For Linux & Windows.
+* [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox): The desktop music player from the future! :city_sunset:
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli): A Python based monitoring and tracking tool for Plex Media Server.
 * [izqui/Taylor](https://github.com/izqui/Taylor): A lightweight library for writing HTTP web servers with Swift
