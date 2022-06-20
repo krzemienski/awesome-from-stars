@@ -1101,7 +1101,7 @@
 * [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop): an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 * [raindropio/desktop](https://github.com/raindropio/desktop): Official Raindrop.io Desktop App
 * [shiftkey/desktop](https://github.com/shiftkey/desktop): Fork of GitHub Desktop to support various Linux distributions
-* [standardnotes/desktop](https://github.com/standardnotes/desktop): A free, open-source, and end-to-end encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
+* [standardnotes/desktop](https://github.com/standardnotes/desktop): [Moved to https://github.com/standardnotes/app] A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
 * [stream-labs/desktop](https://github.com/stream-labs/desktop): Free and open source streaming software built on OBS and Electron.
 * [turtl/desktop](https://github.com/turtl/desktop): Turtl's desktop app
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
