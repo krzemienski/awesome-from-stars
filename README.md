@@ -391,7 +391,7 @@
 * [SishangLi/Autosub_Multiple_Methods](https://github.com/SishangLi/Autosub_Multiple_Methods): Autosub based on multiple methods which are deep moedls and web API
 * [zhenghao0379/autosubpy](https://github.com/zhenghao0379/autosubpy): autosub，python 自动生成视频字幕并翻译
 * [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync): Automatically synchronize subtitles with audio using machine learning
-* [CrypticSignal/AV-converter](https://github.com/CrypticSignal/AV-converter): [av-converter.com] Convert an audio or video file to another format. Download YouTube videos or extract the audio.
+* [CrypticSignal/AV-converter](https://github.com/CrypticSignal/AV-converter): A web app allowing you to convert an audio or video file to another format. Client side conversion with ffmpeg.wasm means that your file does not need to be uploaded to a server.
 * [Eyevinn/av1-player](https://github.com/Eyevinn/av1-player): Eyevinn AV1 player
 * [AOMediaCodec/av1-rtp-spec](https://github.com/AOMediaCodec/av1-rtp-spec): Current draft (HTML): https://aomediacodec.github.io/av1-rtp-spec/
 * [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an): Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
