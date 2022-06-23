@@ -1562,8 +1562,8 @@
 * [amiaopensource/ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg commands for archivists!
 * [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy): Pythonic interface for FFmpeg/FFprobe command line
 * [wchill/ffmpy3](https://github.com/wchill/ffmpy3): Pythonic interface for FFmpeg/FFprobe command line
+* [ffplayout/ffplayout](https://github.com/ffplayout/ffplayout): Rust and ffmpeg based playout 
 * [ffplayout/ffplayout-docker](https://github.com/ffplayout/ffplayout-docker): Dockerized playout solution
-* [ffplayout/ffplayout-engine](https://github.com/ffplayout/ffplayout-engine): Rust and ffmpeg based playout 
 * [ffplayout/ffplayout-frontend](https://github.com/ffplayout/ffplayout-frontend): Web based frontend for ffplayout-engine
 * [joeflateau/ffpreset](https://github.com/joeflateau/ffpreset): None
 * [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python): A wrapper of ffprobe command to extract metadata from media files.
