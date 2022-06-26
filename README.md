@@ -2158,7 +2158,7 @@
 * [igorkulman/iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor): Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side
 * [Split82/iOSMemoryBudgetTest](https://github.com/Split82/iOSMemoryBudgetTest): Small iOS application which tries to allocate as much memory as possible to crash. After that you can run the application again to see how much memory was needed for crash and when all the memory warnings happen.
 * [alibaba/iOSSecAudit](https://github.com/alibaba/iOSSecAudit): iOS Security Audit Toolit - A semi-automatic tool for iOS App security audit and iOS reverse engineering
-* [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region): Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
+* [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region): Ip2region (2.0 - xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 * [MarcusSmith/ipaHelper](https://github.com/MarcusSmith/ipaHelper): ipa file information and resigning script
 * [mikeash/iphone-user-performance-tests](https://github.com/mikeash/iphone-user-performance-tests): A utility for doing simple tests of an iOS device's user-facing performance, and some collected results.
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
