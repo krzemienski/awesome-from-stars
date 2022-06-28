@@ -1990,9 +1990,9 @@
 * [e2iplayer/hlsdl](https://github.com/e2iplayer/hlsdl): Project has been closed - please start to use different branch / C program to download VOD and LIVE HLS (.m3u8) streams
 * [heineiuo/hlsdl](https://github.com/heineiuo/hlsdl): Download HTTP Live Streaming video as a single file from a url with m3u8 content.
 * [selsta/hlsdl](https://github.com/selsta/hlsdl): C program to download VoD HLS (.m3u8) files
-* [nmrony/hlsdownloader](https://github.com/nmrony/hlsdownloader): Downloads HLS Playlist file and TS chunks
+* [nurrony/hlsdownloader](https://github.com/nurrony/hlsdownloader): Downloads HLS Playlist file and TS chunks
 * [qi-shun-wang/HLSDownloader](https://github.com/qi-shun-wang/HLSDownloader): Download Crypted HLS with server key and play video as local playing on iOS device.
-* [nmrony/hlsdownloader-cli](https://github.com/nmrony/hlsdownloader-cli): Downloads HLS Playlist file and TS chunks using Terminal
+* [nurrony/hlsdownloader-cli](https://github.com/nurrony/hlsdownloader-cli): Downloads HLS Playlist file and TS chunks using Terminal
 * [dusterio/hlsinjector](https://github.com/dusterio/hlsinjector): ID3 metadata injector for MPEG TS (HLS) written in PHP
 * [r-plus/HLSion](https://github.com/r-plus/HLSion): HTTP Live Streaming (HLS) download manager to offline playback.
 * [cdnbye/hlsjs-p2p-engine](https://github.com/cdnbye/hlsjs-p2p-engine): Let your viewers become your unlimitedly scalable CDN.

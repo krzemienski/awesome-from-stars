@@ -9173,12 +9173,6 @@
     "nmdias/DefaultsKit": [
         "Other"
     ],
-    "nmrony/hlsdownloader": [
-        "Other"
-    ],
-    "nmrony/hlsdownloader-cli": [
-        "Other"
-    ],
     "nobre84/HLSAudioPlayer": [
         "Other"
     ],
@@ -9267,6 +9261,12 @@
         "Other"
     ],
     "numixproject/numix-gtk-theme": [
+        "Other"
+    ],
+    "nurrony/hlsdownloader": [
+        "Other"
+    ],
+    "nurrony/hlsdownloader-cli": [
         "Other"
     ],
     "nushell/nushell": [
