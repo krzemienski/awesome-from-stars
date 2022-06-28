@@ -3965,6 +3965,9 @@
     "bordaigorl/remy": [
         "Other"
     ],
+    "borisdayma/dalle-mini": [
+        "Other"
+    ],
     "boto/boto3": [
         "Other"
     ],
@@ -7325,6 +7328,9 @@
     "jwplayer/mpegdash": [
         "Other"
     ],
+    "jxxghp/nas-tools": [
+        "Other"
+    ],
     "jzbor/dotfiles": [
         "Other"
     ],
@@ -7644,6 +7650,9 @@
         "Other"
     ],
     "kozec/syncthing-gtk": [
+        "Other"
+    ],
+    "kraanzu/dooit": [
         "Other"
     ],
     "krad/kubrick": [
@@ -10034,7 +10043,7 @@
     "pypa/setuptools": [
         "Other"
     ],
-    "pypa/warehouse": [
+    "pypi/warehouse": [
         "Other"
     ],
     "python-jsonschema/jsonschema": [
@@ -10923,6 +10932,9 @@
         "Other"
     ],
     "shuklaabhi/K8-flask-celery-sample": [
+        "Other"
+    ],
+    "shuosiw/unraid": [
         "Other"
     ],
     "shzlw/poli": [

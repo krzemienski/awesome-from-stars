@@ -1014,6 +1014,7 @@
 * [dagostini/DADependencyInjection](https://github.com/dagostini/DADependencyInjection): An example project on how to use dependency injection.
 * [jaysgrant/dadjoke-ui](https://github.com/jaysgrant/dadjoke-ui): A Python 3 Flask project which provides a simple web ui for an open source dadjokes generator
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
+* [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 * [hardpixel/dark-variant](https://github.com/hardpixel/dark-variant): Gnome Shell extension to apply dark window decorations.
 * [Rokin05/darkine-kde](https://github.com/Rokin05/darkine-kde): Darkine KDE - Theme for KDE Plasma 5 desktop > Mirror of https://git.rokin.in/Rokin/darkine-kde
@@ -1255,6 +1256,7 @@
 * [DolbyLaboratories/dolby_vision_professional_decoder_plugin](https://github.com/DolbyLaboratories/dolby_vision_professional_decoder_plugin): None
 * [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler): Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
 * [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io): 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
+* [kraanzu/dooit](https://github.com/kraanzu/dooit): A TUI todo manager
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
 * [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles): My personal dotfiles for bspwm, i3-gaps and kde plasma
@@ -2736,6 +2738,7 @@
 * [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs): n8n Documentation
 * [alibaba/nacos](https://github.com/alibaba/nacos): an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 * [jethrocarr/namedmanager](https://github.com/jethrocarr/namedmanager): AGPL web-based DNS management interface in PHP
+* [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools): NAS媒体库资源归集、整理自动化工具
 * [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie): Natalie - Storyboard Code Generator (for Swift)
 * [Palethorn/native-adaptive-streaming](https://github.com/Palethorn/native-adaptive-streaming): Extension that allows native HLS and Mpeg-DASH playback in chrome browser
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
@@ -4119,6 +4122,7 @@
 * [bcpierce00/unison](https://github.com/bcpierce00/unison): Unison file synchronizer
 * [rokudev/unit-testing-framework](https://github.com/rokudev/unit-testing-framework): Tool for automating and testing Roku channels
 * [ubports/unity8](https://github.com/ubports/unity8): The operating environment for everywhere.
+* [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [twostraws/Unwrap](https://github.com/twostraws/Unwrap): Learn Swift interactively on your iPhone.
 * [railsware/upterm](https://github.com/railsware/upterm): A terminal emulator for the 21st century.
@@ -4310,7 +4314,7 @@
 * [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it): Pure bash script to test and wait on the availability of a TCP host and port
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [elementary/wallpapers](https://github.com/elementary/wallpapers): Collection of wallpapers for elementary OS
-* [pypa/warehouse](https://github.com/pypa/warehouse): The Python Package Index
+* [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
 * [IBM/Watson-Unity-ARKit](https://github.com/IBM/Watson-Unity-ARKit): # WARNING: This repository is no longer maintained :warning:  This repository will not be updated. The repository will be kept available in read-only mode.
 * [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip): This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. 
