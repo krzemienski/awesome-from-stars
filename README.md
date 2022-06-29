@@ -1235,7 +1235,7 @@
 * [CircleCI-Public/dockerfile-wizard](https://github.com/CircleCI-Public/dockerfile-wizard): Use CircleCI to build custom Docker images with combinations of common languages/dependencies
 * [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles): Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
 * [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles): Various Dockerfiles I use on the desktop and on servers.
-* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A collection of delicious docker recipes
+* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A collection of delicious docker recipes 🇺🇦
 * [waylybaye/dockerfiles](https://github.com/waylybaye/dockerfiles): :whale: A collection of delicious docker recipes
 * [bstiel/dockerize-celery-django-app](https://github.com/bstiel/dockerize-celery-django-app): https://www.distributedpython.com/2018/06/12/celery-django-docker
 * [dockeron/dockeron](https://github.com/dockeron/dockeron): 🤖🤖🤖 Electron + Vue.js for Docker
