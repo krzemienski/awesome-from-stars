@@ -7079,6 +7079,9 @@
     "jgraph/drawio": [
         "Utility"
     ],
+    "jgraph/drawio-desktop": [
+        "Other"
+    ],
     "jhao104/proxy_pool": [
         "Other"
     ],
