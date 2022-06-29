@@ -2549,6 +2549,7 @@
 * [LeandroRezendeCoutinho/manjaro-automated-setup](https://github.com/LeandroRezendeCoutinho/manjaro-automated-setup): This repo aims to simplify and automate developement environmemt for users of Manjaro Linux
 * [woutervu/manjaro-dev-setup](https://github.com/woutervu/manjaro-dev-setup): None
 * [orestispanago/Manjaro-dev-tools](https://github.com/orestispanago/Manjaro-dev-tools): Notes on setting up my dev tools on Manjaro
+* [manjaro/manjaro-docker](https://github.com/manjaro/manjaro-docker): Base Docker for Manjaro
 * [giswqs/manjaro-linux](https://github.com/giswqs/manjaro-linux): Shell scripts for setting up Manjaro Linux for Python programming and deep learning
 * [vhdsih/manjaro-linux-config](https://github.com/vhdsih/manjaro-linux-config): configuration for manjaro  linux
 * [karpfen/manjaro-setup](https://github.com/karpfen/manjaro-setup): Setup scripts for Manjaro Linux
