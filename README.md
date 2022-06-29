@@ -2244,7 +2244,7 @@
 * [dashevo/JSONSchemaValidation](https://github.com/dashevo/JSONSchemaValidation): JSON Schema draft 4, 6 and 7 parsing and validation library written in Objective-C.
 * [bhollis/jsonview](https://github.com/bhollis/jsonview): A web extension that helps you view JSON documents in the browser. 
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [juju/juju](https://github.com/juju/juju): Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux and Windows apps, with declarative integration between operators for automated microservice integration.
+* [juju/juju](https://github.com/juju/juju): Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux apps, with declarative integration between operators for automated microservice integration.
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
 * [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab): JupyterLab computational environment.
