@@ -3103,6 +3103,7 @@
 * [ProcedureKit/ProcedureKit](https://github.com/ProcedureKit/ProcedureKit): Advanced Operations in Swift
 * [SpongeBobSun/Prodigal-iOS](https://github.com/SpongeBobSun/Prodigal-iOS): Music Player for iOS which looks & feels like classic player
 * [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles): 🌐Dial-up Internet access
+* [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning): Curated list of project-based tutorials
 * [karan/Projects](https://github.com/karan/Projects): :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions): :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
 * [siimon/prom-client](https://github.com/siimon/prom-client): Prometheus client for node.js
