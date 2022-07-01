@@ -2122,7 +2122,6 @@
 * [Pmant/ioBroker.fakeroku](https://github.com/Pmant/ioBroker.fakeroku): ioBroker.fakeroku
 * [dennisreimann/ioctocat](https://github.com/dennisreimann/ioctocat): iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch)
 * [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework): A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-* [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework): A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 * [nextcloud/ios](https://github.com/nextcloud/ios): 📱 Nextcloud iOS App
 * [artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples): 👨🏻‍💻 Examples of new iOS 11 APIs
 * [nytimes/ios-360-videos](https://github.com/nytimes/ios-360-videos): NYT360Video plays 360-degree video streamed from an AVPlayer on iOS.
@@ -3634,6 +3633,7 @@
 * [parski/SnapshotTest](https://github.com/parski/SnapshotTest): Snapshot testing tool for iOS and tvOS
 * [snickers/snickers](https://github.com/snickers/snickers): :chocolate_bar: An open source alternative to the video cloud encoding services.
 * [gurayyarar/SnipCommand](https://github.com/gurayyarar/SnipCommand): A free and open source command snippets manager for organize and copy fast.
+* [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja): Code snippets manager for developers. PWA. 
 * [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore): :tada: A snippet management app for developers :rocket:
 * [subhra74/snowflake](https://github.com/subhra74/snowflake): Graphical SFTP client and terminal emulator with helpful utilities
 * [priore/SOAPEngine](https://github.com/priore/SOAPEngine): This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app.
