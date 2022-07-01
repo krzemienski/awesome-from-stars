@@ -2122,6 +2122,7 @@
 * [Pmant/ioBroker.fakeroku](https://github.com/Pmant/ioBroker.fakeroku): ioBroker.fakeroku
 * [dennisreimann/ioctocat](https://github.com/dennisreimann/ioctocat): iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch)
 * [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework): A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+* [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework): A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 * [nextcloud/ios](https://github.com/nextcloud/ios): 📱 Nextcloud iOS App
 * [artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples): 👨🏻‍💻 Examples of new iOS 11 APIs
 * [nytimes/ios-360-videos](https://github.com/nytimes/ios-360-videos): NYT360Video plays 360-degree video streamed from an AVPlayer on iOS.
