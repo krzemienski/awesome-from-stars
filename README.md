@@ -3996,9 +3996,9 @@
 * [xiaozhihong/tms](https://github.com/xiaozhihong/tms): tms(toy media server) is a toy media server for myself learning media develop. Just for fun.
 * [nathanwdavis/todo_bottle_example](https://github.com/nathanwdavis/todo_bottle_example): Yet another ToDo example app - this one built with Bottle ( http://bottlepy.org )
 * [IBM/ToDoBackend](https://github.com/IBM/ToDoBackend): This tutorial teaches how to create a Kitura backend for the Todo-Backend project, which provides tests and a web client for a "To Do List" application.
-* [KryDos/todoist-linux](https://github.com/KryDos/todoist-linux): The Linux wrapper for Todoist web version. Unofficial! 
 * [cyfrost/todoist-linux](https://github.com/cyfrost/todoist-linux): Todoist for Linux
 * [kamhix/todoist-linux](https://github.com/kamhix/todoist-linux): The linux desktop application for todoist
+* [krydos/todoist-linux](https://github.com/krydos/todoist-linux): The Linux wrapper for Todoist web version. Unofficial! 
 * [Doist/todoist-python](https://github.com/Doist/todoist-python): DEPRECATED The official Todoist Python API library
 * [CyanSalt/todu](https://github.com/CyanSalt/todu): An awesome, hackable to-do list.
 * [Eyevinn/toolbox](https://github.com/Eyevinn/toolbox): A set of Docker containers with Streaming tools
