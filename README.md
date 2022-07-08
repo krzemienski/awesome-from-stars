@@ -3490,7 +3490,7 @@
 * [jamesfining/scte](https://github.com/jamesfining/scte): Python library to work with SCTE standards.
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the highest rated SCTE35 parser, ever, probably, maybe. 
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the highest rated SCTE35 parser, ever, probably, maybe. Super cool SCTE-35 decoder and encoder.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
