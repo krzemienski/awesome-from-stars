@@ -406,6 +406,7 @@
 * [CurtisLeeBolin/avtc](https://github.com/CurtisLeeBolin/avtc): Audio Video TransCoder - Batch transcodes Audio Video files to HEVC/Opus/ASS/Matroska.
 * [senko/avtk](https://github.com/senko/avtk): Audio/Video toolkit for Python
 * [avTranscoder/avTranscoder](https://github.com/avTranscoder/avTranscoder): C++ API for LibAV / FFMpeg
+* [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide): The guide of awesome list about AI
@@ -440,8 +441,11 @@
 * [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus): 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology): Curated list of Creative Technology groups, companies, studios, collectives, etc.
+* [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV): :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 * [academic/awesome-datascience](https://github.com/academic/awesome-datascience): :memo: An awesome Data Science repository to learn and apply for real world problems.
+* [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning): A curated list of awesome Deep Learning tutorials, projects and communities.
 * [denolib/awesome-deno](https://github.com/denolib/awesome-deno): Curated list of awesome things related to Deno
+* [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns): A curated list of software and architecture related design patterns.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
 * [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first): A curated list of awesome developer-first tools products.
 * [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -455,6 +459,8 @@
 * [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi): A curated list of awesome things related to FastAPI
 * [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 👻 A curated list of awesome FFmpeg resources.
 * [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask): A curated list of awesome Flask resources and plugins
+* [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter): An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+* [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile READMEs 📝
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
@@ -514,6 +520,7 @@
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify): 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 * [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv): :zap:A curated list of awesome resources for building Smart TV apps
+* [facert/awesome-spider](https://github.com/facert/awesome-spider): 爬虫集合
 * [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy): A curated list of awesome tools for SQLAlchemy
 * [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre): A curated list of Site Reliability and Production Engineering resources.
 * [ptrkrlsrd/Awesome-Starred](https://github.com/ptrkrlsrd/Awesome-Starred): Awesome automated list of my starred repositories. Made using Golang and a Github scheduled action
@@ -1675,6 +1682,7 @@
 * [dyne/frei0r](https://github.com/dyne/frei0r): A large collection of free and portable video plugins
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
 * [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017): 2017 edition of our front-end development guide
+* [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): Manually curated collection of resources for frontend web developers.
 * [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS
 * [Manisso/fsociety](https://github.com/Manisso/fsociety): fsociety Hacking Tools Pack – A Penetration Testing Framework
@@ -1749,6 +1757,7 @@
 * [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk): The (second) best iOS app for GitHub.
 * [beepboopbangbang/githoard](https://github.com/beepboopbangbang/githoard): Desktop app that enables users to quickly clone git repositories
 * [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator): Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [m42e/github-coup](https://github.com/m42e/github-coup): Clone or Update Your User and Starred Repos
 * [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira): Connect your code with your project management in Jira
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
