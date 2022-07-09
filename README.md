@@ -2930,6 +2930,7 @@
 * [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate): Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
 * [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+* [ErikWittern/openapi-snippet](https://github.com/ErikWittern/openapi-snippet): Generates code snippets for given Swagger / Open API documents
 * [opencv/opencv](https://github.com/opencv/opencv): Open Source Computer Vision Library
 * [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader): Indexes open directories
 * [ouropencode/OpenDocumenter](https://github.com/ouropencode/OpenDocumenter): OpenDocumenter is a automatic documentation generator for OpenAPI v3 schemas. Simply provide your schema file in JSON or YAML, then sit back and enjoy the documentation.
