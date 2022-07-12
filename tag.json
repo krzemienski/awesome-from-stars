@@ -2003,6 +2003,9 @@
     "Quick/Quick": [
         "Other"
     ],
+    "QuickBirdEng/XCoordinator": [
+        "Other"
+    ],
     "Quintasan/prowadzacy_roku": [
         "Other"
     ],
@@ -10140,9 +10143,6 @@
         "Other"
     ],
     "quarkusio/quarkus": [
-        "Other"
-    ],
-    "quickbirdstudios/XCoordinator": [
         "Other"
     ],
     "quickemu-project/quickemu": [

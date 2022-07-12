@@ -4404,7 +4404,7 @@
 * [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen): A Swift command line tool for generating your Xcode project
 * [CocoaPods/Xcodeproj](https://github.com/CocoaPods/Xcodeproj): Create and modify Xcode projects from Ruby.
 * [JohnSundell/XcodeTheme](https://github.com/JohnSundell/XcodeTheme): My Xcode theme - Sundell's Colors
-* [quickbirdstudios/XCoordinator](https://github.com/quickbirdstudios/XCoordinator): 🎌 Powerful navigation library for iOS based on the coordinator pattern
+* [QuickBirdEng/XCoordinator](https://github.com/QuickBirdEng/XCoordinator): 🎌 Powerful navigation library for iOS based on the coordinator pattern
 * [google/xctestrunner](https://github.com/google/xctestrunner): A executable binary to run prebuilt iOS tests on iOS simulator/real device.
 * [facebookarchive/xctool](https://github.com/facebookarchive/xctool): An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 * [JohnSundell/Xgen](https://github.com/JohnSundell/Xgen): A Swift package for generating Xcode workspaces & playgrounds
