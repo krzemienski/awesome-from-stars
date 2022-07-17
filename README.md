@@ -3541,7 +3541,7 @@
 * [coreybobco/setlistspy-api](https://github.com/coreybobco/setlistspy-api): None
 * [sauce-archives/setups](https://github.com/sauce-archives/setups): None
 * [pypa/setuptools](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
-* [kubatruhlar/SFDraggableDialogView](https://github.com/kubatruhlar/SFDraggableDialogView): Beautiful dialog view with UIDynamics
+* [kubatruhlar/SFDraggableDialogView](https://github.com/kubatruhlar/SFDraggableDialogView): Beautiful dialog view with UIDynamics.
 * [Showmax/sffmpeg](https://github.com/Showmax/sffmpeg): Full-featured static FFmpeg build helper
 * [pyke369/sffmpeg](https://github.com/pyke369/sffmpeg): Full-featured static FFmpeg build helper
 * [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer): A powerful media play framework for iOS, macOS, and tvOS.
