@@ -942,7 +942,7 @@
 * [palazzem/cookiecutter-django-cms](https://github.com/palazzem/cookiecutter-django-cms): Simple cookiecutter template to be up and running quickly with your Django CMS project!
 * [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest): Build best practiced apis fast with Python3
 * [vchaptsev/cookiecutter-django-vue](https://github.com/vchaptsev/cookiecutter-django-vue): Cookiecutter Django Vue is a template for Django-Vue projects.
-* [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask): A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+* [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask): A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 * [karec/cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful): Flask cookiecutter template for builing APIs with flask-restful, including JWT auth, cli, tests, swagger, docker and more
 * [testdrivenio/cookiecutter-flask-skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton): Flask Starter Project
 * [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang): A Go project template
