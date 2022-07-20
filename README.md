@@ -3331,7 +3331,7 @@
 * [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured): Java DSL for easy testing of REST services
 * [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program
 * [Restofire/Restofire](https://github.com/Restofire/Restofire): Restofire is a protocol oriented networking client for Alamofire
-* [datarhei/restreamer](https://github.com/datarhei/restreamer): 🟡 The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the internal RTMP server.
+* [datarhei/restreamer](https://github.com/datarhei/restreamer): 🟡 The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 * [mokoshalb/ReStreamer](https://github.com/mokoshalb/ReStreamer): A java app for restreaming live stream videos to another HLS source using FFMPEG
 * [shaunschembri/restreamer](https://github.com/shaunschembri/restreamer): Go application/library that re-streams an HLS stream through a Writer interface
 * [whittinghamj/restreamer-production](https://github.com/whittinghamj/restreamer-production): None
