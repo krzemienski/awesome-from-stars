@@ -1117,7 +1117,7 @@
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 * [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop): 🗂 A full-featured desktop app for DevDocs.io.
 * [raindropio/developer-site](https://github.com/raindropio/developer-site): Official documentation for Raindrop.io API
-* [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script): Post-install script for Fedora and RHEL 8 clones to create your ultimate development environment
+* [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script): Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
 * [devhubapp/devhub](https://github.com/devhubapp/devhub): TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 * [InderKumarRathore/DeviceGuru](https://github.com/InderKumarRathore/DeviceGuru): DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s. Please ⭐️ this repo on the top right corner to make this repo popular.
 * [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit): DeviceKit is a value-type replacement of UIDevice.
