@@ -1480,6 +1480,7 @@
 * [mfreeborn/fastapi-sqlalchemy](https://github.com/mfreeborn/fastapi-sqlalchemy): Adds simple SQLAlchemy support to FastAPI
 * [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils): Reusable utilities for FastAPI
 * [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client): FastAPI client generator
+* [fastai/fastbook](https://github.com/fastai/fastbook): The fastai book, published as Jupyter Notebooks
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * [alibaba/fastjson](https://github.com/alibaba/fastjson): A fast JSON parser/generator for Java.  
 * [AFNetworking/fastlane](https://github.com/AFNetworking/fastlane): A fastlane setup to deploy Objective-C and Swift frameworks.
@@ -1947,6 +1948,7 @@
 * [GitHawkApp/Highlightr](https://github.com/GitHawkApp/Highlightr): iOS & OSX Syntax Highlighter. 
 * [raspu/Highlightr](https://github.com/raspu/Highlightr): iOS & OSX Syntax Highlighter. 
 * [willowtreeapps/hinoki](https://github.com/willowtreeapps/hinoki): A Language Server Protocol implementation for BrightScript
+* [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader): :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 * [emilyplusplus/hldata](https://github.com/emilyplusplus/hldata): Realtime data logging application that flows from embedded device, to cloud/server/database, to output visualization. Uses modern technology to achieve data analytics quickly and for low cost.
 * [epiclabs-io/hls-analyzer](https://github.com/epiclabs-io/hls-analyzer): Analyzer for HTTP Live Streams (HLS) content
 * [777777miSSU7777777/hls-audio-player](https://github.com/777777miSSU7777777/hls-audio-player): Self-written and cross-browser HLS audio player

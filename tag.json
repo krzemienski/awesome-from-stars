@@ -1466,6 +1466,9 @@
     "KubeOperator/kubeapps-plus": [
         "Other"
     ],
+    "KurtBestor/Hitomi-Downloader": [
+        "Other"
+    ],
     "LA1TV/DVR-Bridge-Service": [
         "Other"
     ],
@@ -5754,6 +5757,9 @@
         "Other"
     ],
     "faryon93/hlswatch": [
+        "Other"
+    ],
+    "fastai/fastbook": [
         "Other"
     ],
     "fastapi-admin/fastapi-admin": [
