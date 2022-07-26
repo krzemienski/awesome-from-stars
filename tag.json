@@ -152,9 +152,6 @@
     "AllToMP3/alltomp3-app": [
         "Other"
     ],
-    "Allezxandre/go-hls-encoder": [
-        "Other"
-    ],
     "Alluxio/alluxio": [
         "Other"
     ],
@@ -2997,6 +2994,9 @@
         "Other"
     ],
     "alkerway/hls-simulator": [
+        "Other"
+    ],
+    "allezxandre/go-hls-encoder": [
         "Other"
     ],
     "alpine-docker/k8s": [

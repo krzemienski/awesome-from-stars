@@ -1831,7 +1831,7 @@
 * [zencoder/go-dash](https://github.com/zencoder/go-dash): A Go library for generating MPEG-DASH manifests.
 * [vansante/go-ffprobe](https://github.com/vansante/go-ffprobe): Library to easily get the ffprobe output of a given file
 * [sanathb/go-HLS](https://github.com/sanathb/go-HLS): HLS (HTTP Live Streaming) video transcoding package written in golang for AWS Elastic Transcoder.
-* [Allezxandre/go-hls-encoder](https://github.com/Allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
+* [allezxandre/go-hls-encoder](https://github.com/allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
 * [imkira/go-libav](https://github.com/imkira/go-libav): Go language bindings for ffmpeg libraries
 * [quangngotan95/go-m3u8](https://github.com/quangngotan95/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
 * [abema/go-mp4](https://github.com/abema/go-mp4): Go library for reading and writing MP4 file
