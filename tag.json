@@ -8774,6 +8774,9 @@
     "miguelgrinberg/flask-celery-example": [
         "Other"
     ],
+    "miguelgrinberg/flasky": [
+        "Other"
+    ],
     "miguelgrinberg/flasky-with-celery": [
         "Other"
     ],
@@ -11277,6 +11280,9 @@
         "Other"
     ],
     "spersson/Kup": [
+        "Other"
+    ],
+    "sphinx-doc/sphinx": [
         "Other"
     ],
     "spin83/multi-monitors-add-on": [

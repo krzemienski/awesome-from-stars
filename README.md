@@ -1634,6 +1634,7 @@
 * [christabor/flask_jsondash](https://github.com/christabor/flask_jsondash): :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.
 * [guomaoqiu/flask_kubernetes](https://github.com/guomaoqiu/flask_kubernetes): ☘☘☘Nginx/uWSGI/Flask/Supervisor/MySQL/Docker/kubernetes/Ingress☘☘☘
 * [bdnf/FlaskApp-on-EKS-with-CodePipeline](https://github.com/bdnf/FlaskApp-on-EKS-with-CodePipeline): Deployment of a Flask App container to a Kubernetes cluster using AWS EKS. Implement Continuous Delivery (CD) and Continuous Integration (CI) with AWS CodePipeline and AWS CodeBuild
+* [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky): Companion code to my O'Reilly book "Flask Web Development", second edition.
 * [miguelgrinberg/flasky-with-celery](https://github.com/miguelgrinberg/flasky-with-celery): How to incorporate Celery into a well structured Flask application
 * [daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome): Flat Remix is a GNOME Shell theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
@@ -3691,6 +3692,7 @@
 * [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum): A client-side image transcoding library.
 * [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test): Test your internet connection speed and ping using speedtest.net from the CLI
 * [acoustid/speexdsp](https://github.com/acoustid/speexdsp): Speex audio processing library
+* [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx): Main repository for the Sphinx documentation builder
 * [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot): SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 * [ddeville/spillo-sharing-sdk](https://github.com/ddeville/spillo-sharing-sdk): The SDK to create a Sharing Service for Spillo
 * [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker): Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
