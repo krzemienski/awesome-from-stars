@@ -3990,7 +3990,7 @@
 * [liuyishengalan/ThinkPad-P52-Hackintosh](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh): Allow ThinkPad P52 Mobile Workstations to run macOS.
 * [faf0/thinkpad-scripts](https://github.com/faf0/thinkpad-scripts): Scripts for fixing TrackPointers and touchpads under Ubuntu 14.04 and 16.04 or similar distributions on Lenovo ThinkPads (tested on X1 Carbon 2nd Generation and reported to work on X240)
 * [devksingh4/thinkpad-tools](https://github.com/devksingh4/thinkpad-tools): Tools to manage Thinkpad properties
-* [PixelCyber/Thor](https://github.com/PixelCyber/Thor): HTTP Sniffer/Capture on iOS for Network Debug & Inspect.
+* [PixelCyber/Thor](https://github.com/PixelCyber/Thor): sunset
 * [MingyaoLiu/Threadripper-KVM-guide](https://github.com/MingyaoLiu/Threadripper-KVM-guide): Spec:
 * [steckdenis/threadripper-monitor](https://github.com/steckdenis/threadripper-monitor): CPU usage and power consumption monitor for AMD Threadripper processors
 * [erpalma/throttled](https://github.com/erpalma/throttled): Workaround for Intel throttling issues in Linux.
