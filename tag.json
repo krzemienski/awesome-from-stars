@@ -4160,13 +4160,13 @@
     "cannonbeach/ott-packager": [
         "Other"
     ],
-    "canonical-web-and-design/snapcraft.io": [
-        "Other"
-    ],
     "canonical/microk8s": [
         "Other"
     ],
     "canonical/multipass": [
+        "Other"
+    ],
+    "canonical/snapcraft.io": [
         "Other"
     ],
     "captioning/captioning": [

@@ -3639,7 +3639,7 @@
 * [matthew-cox/sn-theme-mojave-dark-mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode): Standard Notes Mojave Dark Mode Theme
 * [fthx/snap-manager](https://github.com/fthx/snap-manager): GNOME Shell extension to easily manage usual snap tasks
 * [snapcore/snapcraft](https://github.com/snapcore/snapcraft): Package, distribute, and update any app for Linux and IoT.
-* [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io): The official website's repository for the Snap store
+* [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io): The official website's repository for the Snap store
 * [snapcore/snapd](https://github.com/snapcore/snapd): The snapd and snap tools enable systems to work with .snap files.
 * [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit): A Swift Autolayout DSL for iOS & OS X
 * [reportmill/SnapKit](https://github.com/reportmill/SnapKit): A Java UI toolkit
