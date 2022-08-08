@@ -3161,7 +3161,7 @@
 * [unifiedstreaming/pycpix](https://github.com/unifiedstreaming/pycpix): Python library for working with CPIX documents
 * [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs): Bits and bytes of Python from the Internet
 * [web2py/pydal](https://github.com/web2py/pydal): A pure Python Database Abstraction Layer
-* [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic): Data parsing and validation using Python type hints
+* [pydantic/pydantic](https://github.com/pydantic/pydantic): Data parsing and validation using Python type hints
 * [pydio/pydio-core](https://github.com/pydio/pydio-core): Pydio 8 official repository
 * [googlearchive/PyDrive](https://github.com/googlearchive/PyDrive): Google Drive API Python wrapper library
 * [dhardtke/pyEncode](https://github.com/dhardtke/pyEncode): pyEncode is a tool that adds a web frontend to ffmpeg.

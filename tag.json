@@ -10067,6 +10067,9 @@
     "pwr-Solaar/Solaar": [
         "Other"
     ],
+    "pydantic/pydantic": [
+        "Other"
+    ],
     "pydio/pydio-core": [
         "Other"
     ],
@@ -10692,9 +10695,6 @@
         "Other"
     ],
     "samshadwell/TrumpScript": [
-        "Other"
-    ],
-    "samuelcolvin/pydantic": [
         "Other"
     ],
     "sanathb/go-HLS": [
