@@ -1548,7 +1548,7 @@
 * [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python): Python bindings for FFmpeg - with complex filtering support
 * [walkoncross/ffmpeg-python-tools](https://github.com/walkoncross/ffmpeg-python-tools): ffmpeg-python-tools based on ffmpeg-python
 * [zsiec/ffmpeg-quality](https://github.com/zsiec/ffmpeg-quality): A docker image that contains ffmpeg w/libvmaf
-* [slhck/ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics): Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+* [slhck/ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics): Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF, VIF)
 * [Saurabh702/ffmpeg-scale-benchmark](https://github.com/Saurabh702/ffmpeg-scale-benchmark): None
 * [kevinGodell/ffmpeg-streamer](https://github.com/kevinGodell/ffmpeg-streamer): ffmpeg-streamer is a packaged nodejs express server that wraps ffmpeg to allow easy streaming of video feeds directly to modern browsers for testing purposes. It currently includes 6 different types of output streaming which are mjpeg, jpeg via socket.io, progressive mp4, native hls, hls.js, and mse via socket.io. Video input types supported are rtsp, mp4, mjpeg, and hls.
 * [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc): Stream video from ffmpeg to web(rtc)
