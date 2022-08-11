@@ -1904,7 +1904,7 @@
 * [latelee/H264BSAnalyzer](https://github.com/latelee/H264BSAnalyzer): H264(AVC) and H265(HEVC) bit stream Analyzer, VS2010 MFC project(Windows 7 x64).
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
-* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 * [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu): Hacker News Delivered to Desktop :dancers:
 * [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): A collection of hacking tools, resources and references to practice ethical hacking.
 * [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts): Based on a true story
