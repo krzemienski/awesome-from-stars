@@ -2748,7 +2748,7 @@
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
 * [swl-x/MystiQ](https://github.com/swl-x/MystiQ): Qt5/C++ FFmpeg Media Converter 
 * [Protuhj/myvideobuzz](https://github.com/Protuhj/myvideobuzz): MyVideoBuzz
-* [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+* [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 * [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs): n8n Documentation
 * [alibaba/nacos](https://github.com/alibaba/nacos): an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 * [jethrocarr/namedmanager](https://github.com/jethrocarr/namedmanager): AGPL web-based DNS management interface in PHP
