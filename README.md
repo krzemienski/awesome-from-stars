@@ -559,7 +559,7 @@
 * [hating/AwesomeGithub](https://github.com/hating/AwesomeGithub): 实时获取Github全球、中国、互联网城市用户排名，以及最热门的JavaScript、Python，Java、Swift项目。 Presenting a variety kind of Github ranking.You will love it !
 * [rubenochiavone/awesomeness](https://github.com/rubenochiavone/awesomeness): :sunglasses: All awesome curated lists from GitHub
 * [codePerfectPlus/awesomeScripts](https://github.com/codePerfectPlus/awesomeScripts): A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
-* [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch): :mag: Search all awesome lists in one second.
+* [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch): :mag: Search all awesome lists in seconds.
 * [Eyevinn/awmanager](https://github.com/Eyevinn/awmanager): Of course we need an AW manager
 * [nodes-vapor/aws](https://github.com/nodes-vapor/aws): Swift wrapper around AWS API
 * [Netflix/aws-autoscaling](https://github.com/Netflix/aws-autoscaling): Tools and Documentation about using Auto Scaling
