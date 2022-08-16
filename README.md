@@ -1277,6 +1277,7 @@
 * [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles): My dotfiles.
 * [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
 * [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro): My personal dotfiles (how do these have so many stars?)
+* [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public): My personal dotfiles
 * [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template): A template for structuring dotfiles (using Dotbot as an installer) 📜
 * [iAmrSalman/Dots](https://github.com/iAmrSalman/Dots): Lightweight Concurrent Networking Framework
 * [safinsingh/dots](https://github.com/safinsingh/dots): My dotfiles for Arch Linux and bspwm
@@ -3018,6 +3019,7 @@
 * [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown): A PDF to Markdown converter
 * [metachris/pdfx](https://github.com/metachris/pdfx): Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 * [HirokiUmatani/PEAR-ZoomingView-iOS](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS): None
+* [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [penpot/penpot](https://github.com/penpot/penpot): Penpot - The Open-Source design & prototyping platform
 * [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): Custom pentesting tools
