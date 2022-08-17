@@ -3110,6 +3110,9 @@
     "anishathalye/dotfiles_template": [
         "Other"
     ],
+    "ankbul/node-rats": [
+        "Other"
+    ],
     "ankurjha21/eks-AWS": [
         "Other"
     ],
@@ -6624,9 +6627,6 @@
         "Other"
     ],
     "hynek/structlog": [
-        "Other"
-    ],
-    "hyperlight/node-rats": [
         "Other"
     ],
     "hyperoslo/Aftermath": [
