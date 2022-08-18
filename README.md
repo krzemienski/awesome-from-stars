@@ -2575,6 +2575,7 @@
 * [JohnSundell/Marathon](https://github.com/JohnSundell/Marathon): [DEPRECATED] Marathon makes it easy to write, run and manage your Swift scripts 🏃
 * [LinusU/Marionette](https://github.com/LinusU/Marionette): 🧸 Swift library which provides a high-level API to control a WKWebView
 * [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv): a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
+* [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt): Like gofmt, but for Markdown.
 * [bmoliveira/MarkdownKit](https://github.com/bmoliveira/MarkdownKit): A simple and customizable Markdown Parser for Swift
 * [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed.
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -2916,6 +2917,7 @@
 * [ovity/octotree](https://github.com/ovity/octotree): GitHub on steroids
 * [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks): [MIRROR]
 * [liberodark/ODrive](https://github.com/liberodark/ODrive): Google Drive GUI for Windows / Mac / Linux
+* [open-guides/og-aws](https://github.com/open-guides/og-aws): 📙 Amazon Web Services — a practical guide
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
