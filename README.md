@@ -1017,7 +1017,7 @@
 * [cython/cython](https://github.com/cython/cython): The most widely used Python to C compiler
 * [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
 * [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin): An elegant dashboard
-* [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
+* [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
 * [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet): An interactive CSS playground
 * [dagostini/DADependencyInjection](https://github.com/dagostini/DADependencyInjection): An example project on how to use dependency injection.
 * [jaysgrant/dadjoke-ui](https://github.com/jaysgrant/dadjoke-ui): A Python 3 Flask project which provides a simple web ui for an open source dadjokes generator
