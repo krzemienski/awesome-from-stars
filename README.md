@@ -616,6 +616,7 @@
 * [yagiz/Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
 * [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo): Next generation Wagtail demo, born in Reykjavik
 * [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter): Dynamically changes status bar style depending on content behind it
+* [evertramos/basescript](https://github.com/evertramos/basescript): Scripts to be used for automation by other scripts
 * [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
 * [gree-gorey/bash-exporter](https://github.com/gree-gorey/bash-exporter): Simple & minimalistic Prometheus exporter for bash scripts, written in Go
 * [Bash-it/bash-it](https://github.com/Bash-it/bash-it): A community Bash framework.
@@ -1323,6 +1324,7 @@
 * [Dash-Industry-Forum/DynamicServiceValidator](https://github.com/Dash-Industry-Forum/DynamicServiceValidator): None
 * [google/EarlGrey](https://github.com/google/EarlGrey): :tea: iOS UI Automation Test Framework
 * [roberthein/Ease](https://github.com/roberthein/Ease): It's magic.
+* [evertramos/easy-server](https://github.com/evertramos/easy-server): Linux Scripts to Automate Tasks
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
@@ -2805,6 +2807,7 @@
 * [openHPI/nginx-hls-analyzer](https://github.com/openHPI/nginx-hls-analyzer): Fork of fmsloganalyzer to adapt it for HLS streaming analyzes with nginx
 * [rounce/nginx-hls-module](https://github.com/rounce/nginx-hls-module): Smooth Streaming Module fork
 * [skyformat99/nginx-netty-hls](https://github.com/skyformat99/nginx-netty-hls): nginx、netty hls流媒体架构，实现时移和回看功能。nginx负责m3u8的组装，netty负责运算把ts信息返回给nginx。实测m3u8 时移、回看功能长连接下载并发可达4w，ts 3000路跑满网卡，系统瓶颈在网卡
+* [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation): Automated docker nginx proxy integrated with letsencrypt.
 * [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker): Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 * [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module): NGINX-based Media Streaming Server
 * [coopernurse/nginx-s3-proxy](https://github.com/coopernurse/nginx-s3-proxy): nginx compiled with aws-auth support, suitable for S3 reverse proxy usage
@@ -3536,6 +3539,7 @@
 * [kaltura/server](https://github.com/kaltura/server): The Kaltura Platform Backend. To install Kaltura, visit the install packages repository.
 * [nextcloud/server](https://github.com/nextcloud/server): ☁️ Nextcloud server, a safe home for all your data
 * [owncloud-docker/server](https://github.com/owncloud-docker/server): Docker image for ownCloud community edition
+* [evertramos/server-automation](https://github.com/evertramos/server-automation): None
 * [rymcol/Server-Side-Swift-Benchmarking](https://github.com/rymcol/Server-Side-Swift-Benchmarking): This repository houses server-side swift & node.js projects used for benchmarking server-side swift frameworks. 
 * [aws/serverless-application-model](https://github.com/aws/serverless-application-model): AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
 * [adghayes/serverless-ffmpeg](https://github.com/adghayes/serverless-ffmpeg): serverless function for transcoding audio and video with ffmpeg
