@@ -3511,6 +3511,7 @@
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security Auditing Tool
 * [ericfourrier/scrape-linkedin](https://github.com/ericfourrier/scrape-linkedin): Scrape a public LinkedIn profile.
 * [scrapy/scrapy](https://github.com/scrapy/scrapy): Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [itforgeuk/Script-Actions](https://github.com/itforgeuk/Script-Actions): Script Examples for Script Actions App
 * [bensuperpc/scripts](https://github.com/bensuperpc/scripts): Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 * [reHackable/scripts](https://github.com/reHackable/scripts): [ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience
 * [justeat/ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController): A view controller that uses root views of child view controllers as views in a UIStackView.
