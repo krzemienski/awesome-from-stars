@@ -568,7 +568,6 @@
 * [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates): A collection of useful CloudFormation templates 
 * [awslabs/aws-clustered-video-streams](https://github.com/awslabs/aws-clustered-video-streams): A clustered video stream is an AWS architecture that increases the quality and reliability of live events by providing seamless regional failover capabilities for live video steams.  Operators can monitor the status of the clustered stream from a single pane of glass and dynamically control from which region the stream consumed by a player originates.
 * [michihiro/aws-console-app](https://github.com/michihiro/aws-console-app): Simple AWS Console for Chrome App
-* [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler): Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 * [aws-samples/aws-device-farm-sample-app-for-ios](https://github.com/aws-samples/aws-device-farm-sample-app-for-ios): None
 * [aws-samples/aws-device-farm-xctest-ui-tests-for-ios-sample-app](https://github.com/aws-samples/aws-device-farm-xctest-ui-tests-for-ios-sample-app): None
 * [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples): Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
@@ -591,6 +590,7 @@
 * [lostintime/aws-s3-webdav](https://github.com/lostintime/aws-s3-webdav): Basic AWS S3 WebDAV interface implemented in Rust
 * [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java): The official AWS SDK for Java.
 * [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2): The official AWS SDK for Java - Version 2
+* [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 * [awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber): This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions which allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
 * [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
@@ -4037,7 +4037,7 @@
 * [adamlatchem/toolchest](https://github.com/adamlatchem/toolchest): Useful Tools
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 * [actions/toolkit](https://github.com/actions/toolkit): The GitHub ToolKit for developing GitHub Actions.
-* [app-developers/top](https://github.com/app-developers/top): Top App Developers - January 2022
+* [app-developers/top](https://github.com/app-developers/top): Top App Developers - August 2022
 * [matteom/TopQuestion](https://github.com/matteom/TopQuestion): An example of calling REST APIs in iOS
 * [ag2816/TorontoWalks](https://github.com/ag2816/TorontoWalks): Walk generator to discover new neighbourhoods and sites in Toronto
 * [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind

@@ -3626,6 +3626,9 @@
     "aws/aws-sdk-java-v2": [
         "Other"
     ],
+    "aws/aws-sdk-pandas": [
+        "Other"
+    ],
     "aws/containers-roadmap": [
         "Other"
     ],
@@ -3660,9 +3663,6 @@
         "Other"
     ],
     "awslabs/aws-clustered-video-streams": [
-        "Other"
-    ],
-    "awslabs/aws-data-wrangler": [
         "Other"
     ],
     "awslabs/aws-media-replay-engine": [
