@@ -2276,7 +2276,7 @@
 * [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [rancher/k3os](https://github.com/rancher/k3os): Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
-* [alexellis/k3sup](https://github.com/alexellis/k3sup): bootstrap Kubernetes with k3s over SSH < 1 min 🚀
+* [alexellis/k3sup](https://github.com/alexellis/k3sup): bootstrap K3s over SSH in < 60s 🚀
 * [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
 * [shuklaabhi/K8-flask-celery-sample](https://github.com/shuklaabhi/K8-flask-celery-sample): A sample application built on flask, celery, redis, rabbitmq, postgresql with kubernetes configuration. 
 * [alpine-docker/k8s](https://github.com/alpine-docker/k8s): Kubernetes tools for EKS (kubectl, helm, iam-authenticator, eksctl, etc)
@@ -2648,7 +2648,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): API first services platform
+* [micro/micro](https://github.com/micro/micro): API first development platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
