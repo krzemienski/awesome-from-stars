@@ -726,6 +726,7 @@
 * [georgejecook/brsxmlc](https://github.com/georgejecook/brsxmlc): Brightscript and xml preprocessor, which adds additional language featuers to scenegraph. Currently WIP and under active development
 * [ustwo/brunel](https://github.com/ustwo/brunel): A demonstration of organisation for an app that runs on both iOS and tvOS platforms using a unified code base. ⚠️ No longer maintained ⚠️
 * [sky-uk/bslint](https://github.com/sky-uk/bslint): A linter for the BrightScript language.
+* [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance): Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 * [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea): A powerful little TUI framework 🏗
