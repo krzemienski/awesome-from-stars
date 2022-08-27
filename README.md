@@ -3614,7 +3614,7 @@
 * [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes 
 * [changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer): video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.
 * [changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer): A HTTP Media Caching Framework. It can cache FILE or HLS media. 音视频边播边缓存框架, 支持 HLS(m3u8) 和 FILE(mp4, mp3等).
-* [openjdk/skara](https://github.com/openjdk/skara): https://openjdk.java.net/projects/skara/
+* [openjdk/skara](https://github.com/openjdk/skara): https://openjdk.org/projects/skara
 * [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView): ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 * [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk): None
 * [chika-kasymov/SKFormTextField](https://github.com/chika-kasymov/SKFormTextField): Custom UITextField/UITextView container with form validation, description texts and more
