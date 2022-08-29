@@ -839,6 +839,7 @@
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
+* [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
 * [docker/cli](https://github.com/docker/cli): The Docker CLI
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms

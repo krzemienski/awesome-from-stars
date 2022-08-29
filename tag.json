@@ -4445,6 +4445,9 @@
     "clearlinux/clr-installer": [
         "Other"
     ],
+    "cli/cli": [
+        "Other"
+    ],
     "cloudalchemy/ansible-prometheus": [
         "Other"
     ],
