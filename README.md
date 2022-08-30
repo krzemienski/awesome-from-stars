@@ -2467,7 +2467,7 @@
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-* [afaqurk/linux-dash](https://github.com/afaqurk/linux-dash): A beautiful web dashboard for Linux
+* [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash): A beautiful web dashboard for Linux
 * [mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester): Linux privilege escalation auditing tool
 * [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit about a linux kernel
 * [Industrial/linux-install-software](https://github.com/Industrial/linux-install-software): Installs my software (manjaro / archlinux)

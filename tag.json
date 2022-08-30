@@ -2774,9 +2774,6 @@
     "aertslab/install_aspera_connect": [
         "Other"
     ],
-    "afaqurk/linux-dash": [
-        "Other"
-    ],
     "aferrandi/dbtarzan": [
         "Other"
     ],
@@ -11724,6 +11721,9 @@
         "Other"
     ],
     "taphouseio/TPHCloudAnalytics": [
+        "Other"
+    ],
+    "tariqbuilds/linux-dash": [
         "Other"
     ],
     "tartley/colorama": [
