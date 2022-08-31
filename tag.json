@@ -5180,6 +5180,9 @@
     "dockeron/dockeron": [
         "Other"
     ],
+    "dockersamples/docker-swarm-visualizer": [
+        "Other"
+    ],
     "dockup/infrahub": [
         "Other"
     ],
@@ -8915,6 +8918,9 @@
     "moby/moby": [
         "Other"
     ],
+    "moby/swarmkit": [
+        "Other"
+    ],
     "modfy/videotranscode.space": [
         "Other"
     ],
@@ -10982,6 +10988,9 @@
     "shawnsky/extract-subtitles": [
         "Other"
     ],
+    "shazChaudhry/docker-swarm-mode": [
+        "Other"
+    ],
     "shengbinmeng/dash-drm": [
         "Other"
     ],
@@ -12114,6 +12123,9 @@
         "Other"
     ],
     "tuanngominh/celery-django-kubernetes-experiment": [
+        "Other"
+    ],
+    "tumblr/collins": [
         "Other"
     ],
     "tumtumtum/StreamingKit": [

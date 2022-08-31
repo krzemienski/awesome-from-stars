@@ -891,6 +891,7 @@
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
 * [SoySauceLab/CollectionKit](https://github.com/SoySauceLab/CollectionKit): Reimagining UICollectionView
+* [tumblr/collins](https://github.com/tumblr/collins): groovy kind of love
 * [tartley/colorama](https://github.com/tartley/colorama): Simple cross-platform colored terminal text in Python
 * [athityakumar/colorls](https://github.com/athityakumar/colorls): A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 * [nickdesaulniers/combine-mpd](https://github.com/nickdesaulniers/combine-mpd): Combine MPEG DASH MPD manifest files
@@ -1233,6 +1234,8 @@
 * [Eyevinn/docker-serve](https://github.com/Eyevinn/docker-serve): A simple Python based HTTP server that sets CORS allow headers. Useful for streaming from files on local computer
 * [gdoteof/docker-streisand](https://github.com/gdoteof/docker-streisand): None
 * [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag): Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
+* [shazChaudhry/docker-swarm-mode](https://github.com/shazChaudhry/docker-swarm-mode): Setting up a Docker based CI environment. Tools include GitLap, Jenkins, Sonarqube and Nexus
+* [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer): A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 * [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync): Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 * [EugenMayer/docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate): A simple boilerplate for docker-sync
 * [Eyevinn/docker-toolbelt](https://github.com/Eyevinn/docker-toolbelt): A Docker container filled with pre-built versions of video streaming related tools
@@ -3839,6 +3842,7 @@
 * [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen): swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 * [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor): Swagger Editor
 * [postmanlabs/swagger2-postman2](https://github.com/postmanlabs/swagger2-postman2): Module and library to convert Swagger 2.0 to a Postman Collection (v2.0)
+* [moby/swarmkit](https://github.com/moby/swarmkit): A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 * [EliverLara/Sweet](https://github.com/EliverLara/Sweet): Light and dark colorful Gtk3.20+ theme
 * [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 * [agens-no/swiff](https://github.com/agens-no/swiff): Human readable time diffs on lines of output when running e.g. build commands like fastlane
