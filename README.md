@@ -429,7 +429,7 @@
 * [inputsh/awesome-c](https://github.com/inputsh/awesome-c): Continuing the development of awesome-c list on GitHub
 * [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * [dungahk/awesome-cdk8s](https://github.com/dungahk/awesome-cdk8s): None
-* [lubien/awesome-cerebro](https://github.com/lubien/awesome-cerebro): Curated list of Cerebro plugins and resources
+* [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
 * [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): ☁️ Awesome Chalice: Community list of resources about AWS Chalice, a Python framework for writing serverless applications.
 * [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd): continuous integration and continuous delivery
 * [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists.

@@ -4283,6 +4283,9 @@
     "centic9/generate-and-send-ssh-key": [
         "Other"
     ],
+    "cerebroapp/awesome-cerebro": [
+        "Other"
+    ],
     "cerebroapp/cerebro": [
         "Other"
     ],
@@ -8277,9 +8280,6 @@
         "Other"
     ],
     "ltebean/Live": [
-        "Other"
-    ],
-    "lubien/awesome-cerebro": [
         "Other"
     ],
     "lucamattiazzi/url-decorator": [
