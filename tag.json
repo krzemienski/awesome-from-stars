@@ -5159,6 +5159,9 @@
     "dnschneid/crouton": [
         "Other"
     ],
+    "docker-flow/docker-flow-proxy": [
+        "Other"
+    ],
     "docker-library/openjdk": [
         "Docker"
     ],
@@ -5181,6 +5184,9 @@
         "Other"
     ],
     "dockersamples/docker-swarm-visualizer": [
+        "Other"
+    ],
+    "dockersamples/example-voting-app": [
         "Other"
     ],
     "dockup/infrahub": [
@@ -9230,6 +9236,9 @@
     "nicklockwood/layout": [
         "Other"
     ],
+    "nicolaka/netshoot": [
+        "Other"
+    ],
     "nicolargo/glances": [
         "Other"
     ],
@@ -12423,6 +12432,9 @@
         "Other"
     ],
     "vercel/hyper": [
+        "Other"
+    ],
+    "vfarcic/docker-flow-proxy": [
         "Other"
     ],
     "vfdev-5/Video2Frames": [
