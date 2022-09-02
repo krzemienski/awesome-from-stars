@@ -3859,6 +3859,7 @@
 * [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser): Straightforward, type-safe argument parsing for Swift
 * [Mybridge/swift-articles](https://github.com/Mybridge/swift-articles): Monthly Series - Top 10 Angular Articles
 * [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime): Swift implementation of AWS Lambda Runtime
+* [apple/swift-book](https://github.com/apple/swift-book): The Swift Programming Language book
 * [CassiusPacheco/Swift-CleanArchitecture](https://github.com/CassiusPacheco/Swift-CleanArchitecture): Simple Swift project applying concepts inspired on the Clean Architecture
 * [apple/swift-collections](https://github.com/apple/swift-collections): Commonly used data structures for Swift
 * [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture): A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
