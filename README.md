@@ -3119,7 +3119,7 @@
 * [portainer/portainer-compose](https://github.com/portainer/portainer-compose): Compose setup for Portainer 
 * [Paxa/postbird](https://github.com/Paxa/postbird): Open source PostgreSQL GUI client for macOS, Linux and Windows
 * [vapor/postgres-kit](https://github.com/vapor/postgres-kit): 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
-* [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source product analytics that you can self-host. 
+* [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. 
 * [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 * [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback): This repository is used to collect user feedback from PPHub (GitHub third-party client) - 此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
 * [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources): Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course 
