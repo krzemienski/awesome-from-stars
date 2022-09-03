@@ -2877,7 +2877,7 @@
 * [hashicorp/nomad-dispatch-ffmpeg](https://github.com/hashicorp/nomad-dispatch-ffmpeg): Demo using Nomad Dispatch to transcode videos with ffmpeg
 * [cpitkin/nomad-openfaas-transcode-video](https://github.com/cpitkin/nomad-openfaas-transcode-video): None
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
-* [QingWei-Li/notea](https://github.com/QingWei-Li/notea): 📒 Self hosted note taking app stored on S3
+* [notea-org/notea](https://github.com/notea-org/notea): 📒 Self hosted note taking app stored on S3
 * [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes): GUI for AV1 (aomenc, rav1e & svt-av1)
 * [owncloud/notes-iOS-App](https://github.com/owncloud/notes-iOS-App): :notebook:
 * [jaredallard/notion-app](https://github.com/jaredallard/notion-app): Notion for Linux
