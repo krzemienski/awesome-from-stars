@@ -3000,7 +3000,7 @@
 * [thijsl/ott-resources](https://github.com/thijsl/ott-resources): A collection of resources related to OTT and streaming.
 * [Eyevinn/ottmeasure](https://github.com/Eyevinn/ottmeasure): A simple http proxy to monitor and measure your OTT consumption
 * [willowtreeapps/ouroboros](https://github.com/willowtreeapps/ouroboros): Infinitely scrolling carousel for tvOS
-* [outline/outline](https://github.com/outline/outline): The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+* [outline/outline](https://github.com/outline/outline): The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 * [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client): Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 * [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server): Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
