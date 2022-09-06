@@ -11861,9 +11861,6 @@
     "testdrivenio/simple-task-queue": [
         "Other"
     ],
-    "testpress/lumberjack": [
-        "Other"
-    ],
     "tfoldi/clj-slack-sql": [
         "Other"
     ],
