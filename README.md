@@ -755,7 +755,7 @@
 * [amiaopensource/cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech
 * [hyperoslo/Cache](https://github.com/hyperoslo/Cache): :package: Nothing but Cache.
 * [CacherApp/cacher-cli](https://github.com/CacherApp/cacher-cli): The command line interface to Cacher.
-* [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS
+* [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform web server with automatic HTTPS
 * [ben-manes/caffeine](https://github.com/ben-manes/caffeine): A high performance caching library for Java
 * [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng): ☕ Tray bar application able to temporarily inhibits the screensaver and sleep mode.
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
