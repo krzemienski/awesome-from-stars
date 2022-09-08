@@ -4112,7 +4112,7 @@
 * [bwhiteley/TVMediaPlayer](https://github.com/bwhiteley/TVMediaPlayer): A media player view controller for tvOS similar to AVPlayerViewController, but not limited to AVPlayer.
 * [sanketfirodiya/tvOS](https://github.com/sanketfirodiya/tvOS): Curated list of tutorials and sample apps for tvOS
 * [toshi0383/tvOS-10-Sampler](https://github.com/toshi0383/tvOS-10-Sampler): Some new stuff for tvOS 10...
-* [kidneyband/TVOS-Infinite-Scroll-View](https://github.com/kidneyband/TVOS-Infinite-Scroll-View): TVOS Infinite Scroll View Objective-C Version
+* [westfort4July/TVOS-Infinite-Scroll-View](https://github.com/westfort4July/TVOS-Infinite-Scroll-View): TVOS Infinite Scroll View Objective-C Version
 * [rabahs/tvos-oauth](https://github.com/rabahs/tvos-oauth): tvOS OAuth authentication using authentication/activation codes (Amazon login, Dropbox)
 * [rabahs/tvos-oauth-server](https://github.com/rabahs/tvos-oauth-server): tvOS OAuth is Remote oauth2 service (using activation code) for tvOS  (tested with Amazon Login, Dropbox)
 * [hamishtaplin/tvos-resources](https://github.com/hamishtaplin/tvos-resources): A collection of resources for tvOS including apps and useful articles.
