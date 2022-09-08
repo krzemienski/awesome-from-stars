@@ -527,6 +527,8 @@
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators): A curated list of static web site generators.
 * [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift): A curated list of awesome Swift frameworks, libraries and software.
 * [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift): A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+* [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources.
+* [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design): A curated list of awesome System Design (A.K.A. Distributed Systems) resources. 
 * [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs): A list of Tech Blogs.
 * [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform): Curated list of resources on HashiCorp's Terraform
@@ -2267,6 +2269,7 @@
 * [perenecabuto/json_schema_generator](https://github.com/perenecabuto/json_schema_generator): A simple json schema generator from any json source
 * [willowtreeapps/jsonapi-parser](https://github.com/willowtreeapps/jsonapi-parser): A sample JSON API parser using GSON
 * [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox): HTTP-based JSON storage.
+* [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 * [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport): JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [json-path/JsonPath](https://github.com/json-path/JsonPath): Java JsonPath implementation
 * [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python
@@ -2464,6 +2467,7 @@
 * [alibaba/lightproxy](https://github.com/alibaba/lightproxy): 💎 Cross platform Web debugging proxy
 * [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
 * [talhasch/ling](https://github.com/talhasch/ling): REST client
+* [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
 * [krzysztofzablocki/LinkedConsole](https://github.com/krzysztofzablocki/LinkedConsole): Clickable links in your Xcode console, so you never wonder which class logged the message.
 * [hellpanderrr/linkedin-pdf-parsing](https://github.com/hellpanderrr/linkedin-pdf-parsing): Parsing resumes in a PDF format from linkedIn 
 * [akitten/linkedin-public-profile-parser](https://github.com/akitten/linkedin-public-profile-parser): :innocent: Parse a *Public* LinkedIn Profile Page
