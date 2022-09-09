@@ -825,6 +825,7 @@
 * [sageexplorer/ci-cd-codepipeline-eks](https://github.com/sageexplorer/ci-cd-codepipeline-eks): Containerized Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
 * [ngs/ci2go](https://github.com/ngs/ci2go): CI2Go is a @CircleCI client for iPhone, iPad, Apple Watch and Mac.
 * [shilgam/ci_tools](https://github.com/shilgam/ci_tools): Popular CI/CD Tools Comparison: Travis, CircleCI, Gitlab CI, Codeship Pro
+* [robertsanseries/ciano](https://github.com/robertsanseries/ciano): A multimedia file converter focused on simplicity.
 * [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
 * [CircleCI-Public/circleci-demo-aws-ecs-ecr](https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr): A demo project for deployment to AWS ECS from ECR on CircleCI 2.0. 
@@ -1404,6 +1405,7 @@
 * [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten): Emscripten: An LLVM-to-WebAssembly Compiler
 * [harvard-dce/encode-for-mediasource](https://github.com/harvard-dce/encode-for-mediasource): Encodes a video file so that it can be played as a MediaSource in the browser. Installs ffmpeg and bento, then runs the appropriate commands with them.
 * [CloudNcodeInc/EncodeBox](https://github.com/CloudNcodeInc/EncodeBox): Watch-folder that transcode the input media files to various output formats (adaptive streaming)
+* [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI): EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 * [kennell/encodeplz](https://github.com/kennell/encodeplz): video transcoding server with a HTTP-based RESTful API
 * [ystv/EncodeSrv](https://github.com/ystv/EncodeSrv): A database-driven ffmpeg based batch video transcoder, used to automate YSTV video distribution
 * [svt/encore](https://github.com/svt/encore): Transcode media files in an epic manner
@@ -3075,6 +3077,7 @@
 * [pypa/pip](https://github.com/pypa/pip): The Python package installer
 * [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream): Connect APIs, remarkably fast.  Free for developers.
 * [tektoncd/pipeline](https://github.com/tektoncd/pipeline): A cloud-native Pipeline resource.
+* [dkashin/pipencoder-base](https://github.com/dkashin/pipencoder-base): GUI and automation for media transcoding and streaming CLI tools
 * [libratbag/piper](https://github.com/libratbag/piper): GTK application to configure gaming devices
 * [okayrunner/piper](https://github.com/okayrunner/piper): piper - a distributed workflow engine
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
@@ -4037,6 +4040,7 @@
 * [naoty/Timepiece](https://github.com/naoty/Timepiece): Intuitive date handling in Swift
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinacms/tinacms](https://github.com/tinacms/tinacms): A headless CMS for Markdown
+* [zimujiang/TinyClip](https://github.com/zimujiang/TinyClip): 🚀 JavaFX开发的FFMPEG-GUI客户端
 * [xiaohu557/TinyPlayer](https://github.com/xiaohu557/TinyPlayer): TinyPlayer is simple, elegant and highly efficient  video player for iOS and tvOS. It is based on Apple’s AVFoundation framework. 
 * [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy): tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 * [cokaholic/TKParallaxScrollView](https://github.com/cokaholic/TKParallaxScrollView): TKParallaxScrollView is the interactive moving library for header and middle views on scrollview.
