@@ -3187,7 +3187,7 @@
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [PureMVC/puremvc-swift-util-asyncproxy](https://github.com/PureMVC/puremvc-swift-util-asyncproxy): PureMVC Swift Standard/MultiCore Utility: Async Proxy
 * [creativetimofficial/purity-ui-dashboard](https://github.com/creativetimofficial/purity-ui-dashboard): Purity UI Dashboard - Free and Open Source Chakra UI Dashboard
-* [zziz/pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly. 
+* [zziz/pwc](https://github.com/zziz/pwc): This repository is no longer maintained.
 * [funciton/py-ffmpeg-wrapper](https://github.com/funciton/py-ffmpeg-wrapper): FFmpeg wrapper written in python based on rVideo
 * [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 * [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV): ﻿﻿Pythonic bindings for FFmpeg's libraries.
