@@ -4265,6 +4265,9 @@
     "cdk8s-team/cdk8s": [
         "Other"
     ],
+    "cdleon/awesome-terminals": [
+        "Other"
+    ],
     "cdnbye/hlsjs-p2p-engine": [
         "Other"
     ],
@@ -6687,6 +6690,9 @@
         "Other"
     ],
     "hyprwm/Hypr": [
+        "Other"
+    ],
+    "hyprwm/Hyprland": [
         "Other"
     ],
     "i4tv/gstreamill": [
@@ -10202,6 +10208,9 @@
     "pythonprofilers/memory_profiler": [
         "Other"
     ],
+    "pytorch/pytorch": [
+        "Other"
+    ],
     "pytube/pytube": [
         "Other"
     ],
@@ -10362,6 +10371,9 @@
         "Other"
     ],
     "rapid7/metasploit-framework": [
+        "Other"
+    ],
+    "rapidloop/rtop": [
         "Other"
     ],
     "raspu/Highlightr": [
@@ -12231,6 +12243,9 @@
         "Other"
     ],
     "tylerszabo/RGB-Fusion-Tool": [
+        "Other"
+    ],
+    "tylertreat/comcast": [
         "Other"
     ],
     "tympanix/subsync": [

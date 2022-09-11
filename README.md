@@ -531,6 +531,7 @@
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design): A curated list of awesome System Design (A.K.A. Distributed Systems) resources. 
 * [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs): A list of Tech Blogs.
+* [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals): Terminal Emulators
 * [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform): Curated list of resources on HashiCorp's Terraform
 * [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation): A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 * [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science): The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
@@ -818,6 +819,7 @@
 * [acoustid/chromaprint-build](https://github.com/acoustid/chromaprint-build): Docker image for building Chromaprint
 * [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls): Extension that allows native hls playback in chrome browser
 * [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
+* [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
 * [mesos/chronos](https://github.com/mesos/chronos): Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 * [muxinc/chunked-transfer-demo](https://github.com/muxinc/chunked-transfer-demo): Webserver that demonstrates delivery of HLS media with HTTP chunked transfer encoding
 * [fastlane/ci](https://github.com/fastlane/ci): Open source, self hosted, mobile optimized CI powered by fastlane
@@ -898,6 +900,7 @@
 * [tartley/colorama](https://github.com/tartley/colorama): Simple cross-platform colored terminal text in Python
 * [athityakumar/colorls](https://github.com/athityakumar/colorls): A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 * [nickdesaulniers/combine-mpd](https://github.com/nickdesaulniers/combine-mpd): Combine MPEG DASH MPD manifest files
+* [tylertreat/comcast](https://github.com/tylertreat/comcast): Simulating shitty network connections so you can build better systems.
 * [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink): Comlink makes WebWorkers enjoyable.
 * [tj/commander.js](https://github.com/tj/commander.js): node.js command-line interfaces made easy
 * [apache/commons-imaging](https://github.com/apache/commons-imaging): Apache Commons Imaging (previously Sanselan) is a pure-Java image library
@@ -2099,6 +2102,7 @@
 * [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS): In-app design review tool to inspect measurements, attributes, and animations.
 * [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): Hyperminimal zsh prompt
 * [hyprwm/Hypr](https://github.com/hyprwm/Hypr): Hypr is a tiling window manager written in modern C++.
+* [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix): Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 * [afex/hystrix-go](https://github.com/afex/hystrix-go): Netflix's Hystrix latency and fault tolerance library, for Go 
 * [gohypergiant/IAPKit](https://github.com/gohypergiant/IAPKit): A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials.
@@ -3246,6 +3250,7 @@
 * [pvieito/PythonKit](https://github.com/pvieito/PythonKit): Swift framework to interact with Python.
 * [ColdGrub1384/Pyto](https://github.com/ColdGrub1384/Pyto): Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 * [davidfischer-ch/pytoolbox](https://github.com/davidfischer-ch/pytoolbox): Toolbox for Python scripts.
+* [pytorch/pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [pytube/pytube](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * [norvig/pytudes](https://github.com/norvig/pytudes): Python programs, usually short, of considerable difficulty, to perfect particular skills.
 * [sw360cab/pyup-transcoder](https://github.com/sw360cab/pyup-transcoder): a Python-based software to transcode videos and upload files to a remote server or S3-bucket
@@ -3449,6 +3454,7 @@
 * [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX): A macOS GUI for rsync. Compiled for macOS Big Sur
 * [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server): a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 * [xiewei-wayne/rtmp-video-player-for-ios](https://github.com/xiewei-wayne/rtmp-video-player-for-ios): Based on FFEngine framework, a rtmp video player for apple iOS devices.
+* [rapidloop/rtop](https://github.com/rapidloop/rtop): rtop is an interactive, remote system monitoring tool based on SSH
 * [Roverr/rtsp-stream](https://github.com/Roverr/rtsp-stream): Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
 * [vn971/rua](https://github.com/vn971/rua): Build tool for Arch Linux providing control, review and jailed build options
 * [appium/ruby_lib](https://github.com/appium/ruby_lib): :gem: Ruby library for Appium
