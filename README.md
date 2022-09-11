@@ -525,6 +525,7 @@
 * [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy): A curated list of awesome tools for SQLAlchemy
 * [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre): A curated list of Site Reliability and Production Engineering resources.
 * [ptrkrlsrd/Awesome-Starred](https://github.com/ptrkrlsrd/Awesome-Starred): Awesome automated list of my starred repositories. Made using Golang and a Github scheduled action
+* [arbal/awesome-stars](https://github.com/arbal/awesome-stars): Top 12K of GitHub's finest.
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators): A curated list of static web site generators.
 * [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift): A curated list of awesome Swift frameworks, libraries and software.
 * [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift): A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
