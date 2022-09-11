@@ -320,6 +320,7 @@
 * [artilleryio/artillery-plugin-hls](https://github.com/artilleryio/artillery-plugin-hls): 🎥 Load test HTTP Live Streaming (HLS) servers with Artillery 
 * [AFathi/ARVideoKit](https://github.com/AFathi/ARVideoKit): Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
 * [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer): Asahi Linux installer
+* [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 * [ASCIIwwdc/asciiwwdc.com](https://github.com/ASCIIwwdc/asciiwwdc.com): Searchable full-text transcripts of WWDC sessions
 * [Netflix/asgard](https://github.com/Netflix/asgard): [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases
 * [nemasu/asmttpd](https://github.com/nemasu/asmttpd): Web server for Linux written in amd64 assembly.
@@ -623,6 +624,7 @@
 * [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
 * [gree-gorey/bash-exporter](https://github.com/gree-gorey/bash-exporter): Simple & minimalistic Prometheus exporter for bash scripts, written in Go
 * [Bash-it/bash-it](https://github.com/Bash-it/bash-it): A community Bash framework.
+* [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users
 * [bashdot/bashdot](https://github.com/bashdot/bashdot): Minimalist dotfile management framework.
 * [jmcantrell/bashful](https://github.com/jmcantrell/bashful): A collection of modules to simplify writing bash scripts.
 * [aristocratos/bashtop](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
@@ -818,7 +820,6 @@
 * [acoustid/chromaprint](https://github.com/acoustid/chromaprint): C library for generating audio fingerprints used by AcoustID
 * [acoustid/chromaprint-build](https://github.com/acoustid/chromaprint-build): Docker image for building Chromaprint
 * [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls): Extension that allows native hls playback in chrome browser
-* [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
 * [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
 * [mesos/chronos](https://github.com/mesos/chronos): Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 * [muxinc/chunked-transfer-demo](https://github.com/muxinc/chunked-transfer-demo): Webserver that demonstrates delivery of HLS media with HTTP chunked transfer encoding
@@ -1290,9 +1291,11 @@
 * [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles): An organizational repository for my dotfiles and scripts
 * [lewagon/dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+* [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles): Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
 * [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles): My dotfiles.
 * [theowenyoung/dotfiles](https://github.com/theowenyoung/dotfiles): dotfiles, init scripts, common scripts
 * [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
+* [yutkat/dotfiles](https://github.com/yutkat/dotfiles): The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, rofi, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 * [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro): My personal dotfiles (how do these have so many stars?)
 * [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public): My personal dotfiles
 * [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template): A template for structuring dotfiles (using Dotbot as an installer) 📜
@@ -3778,6 +3781,7 @@
 * [orvice/ss-panel](https://github.com/orvice/ss-panel): rm
 * [coder/sshcode](https://github.com/coder/sshcode): Run VS Code on any server over SSH.
 * [oguzhaninan/sshcon](https://github.com/oguzhaninan/sshcon): Quick and simple SSH config management tool
+* [yrutschle/sslh](https://github.com/yrutschle/sslh): Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 * [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer): Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 * [elastic/stack-docker](https://github.com/elastic/stack-docker): Project no longer maintained.
 * [mofo7777/Stackoverflow](https://github.com/mofo7777/Stackoverflow): All source codes I've provided on stackoverflow as an answer, usually under tag ms-media-foundation. Mediafoundation, audio, video, 3D, decoder, encoder.
@@ -3952,6 +3956,7 @@
 * [swiperproxy/swiperproxy](https://github.com/swiperproxy/swiperproxy): A Python-based HTTP/HTTPS-proxy.
 * [thomaspaulmann/Swish](https://github.com/thomaspaulmann/Swish): 👷Build Swift Projects on a Remote Machine within Xcode.
 * [thoughtbot/Swish](https://github.com/thoughtbot/Swish): Nothing but Net(working)
+* [jamescun/switcher](https://github.com/jamescun/switcher): Run SSH and HTTP(S) on the same port
 * [Swrve/swrve-roku-sdk](https://github.com/Swrve/swrve-roku-sdk): Swrve Roku SDK 
 * [b3log/symphony](https://github.com/b3log/symphony): 仓库已经迁移到 https://github.com/88250/symphony
 * [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python 3/Twisted.
@@ -3998,6 +4003,7 @@
 * [ContainerSolutions/template-spring-boot](https://github.com/ContainerSolutions/template-spring-boot): Template for a Spring boot project
 * [DavidBrightSparc/Tenets-of-IT](https://github.com/DavidBrightSparc/Tenets-of-IT): The Tenets of IT: an accumulation of IT advice, wisdom, and humour.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
+* [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
 * [termux/termux-packages](https://github.com/termux/termux-packages): A build system and primary set of packages for Termux.
@@ -4360,6 +4366,7 @@
 * [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code. 
 * [sterin/vscode-xcodebuild-tools](https://github.com/sterin/vscode-xcodebuild-tools): Work with Xcode projects from inside Visual Studio Code
 * [vmware-archive/vsphere-storage-for-kubernetes](https://github.com/vmware-archive/vsphere-storage-for-kubernetes): vSphere Storage for Kubernetes
+* [MrRio/vtop](https://github.com/MrRio/vtop): Wow such top. So stats. More better than regular top.
 * [video-dev/vtt.js](https://github.com/video-dev/vtt.js): A JavaScript implementation of the WebVTT specification
 * [vuejs/vue](https://github.com/vuejs/vue): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [lmxdawn/vue-admin-java](https://github.com/lmxdawn/vue-admin-java): spring boot + mybatis + vue + element-ui 实现后台管理API接口 https://lmxdawn.github.io/vue-admin-java
