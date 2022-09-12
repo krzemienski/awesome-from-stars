@@ -380,6 +380,7 @@
 * [saurabh0719/automate-mediaconvert](https://github.com/saurabh0719/automate-mediaconvert): Automate video transcoding and generate thumbnails with AWS Elemental Mediaconvert and S3 :zap:
 * [rokudev/automated-channel-testing](https://github.com/rokudev/automated-channel-testing): Roku Automated Channel Testing: Selenium-based WebDriver + Robot Framework + JS Framework + Samples
 * [disneystreaming/automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor): Automated Cloud Advisor is a extensible tool that aims at facilitating cost optimization in AWS, by collecting data for resources that are under utilized. In addition, this is a great learning tool for new DevOps/Cloud engineers that want to start automating things in AWS. 
+* [Sukhdip-Sandhu/Automatic-Watermark-Removal](https://github.com/Sukhdip-Sandhu/Automatic-Watermark-Removal): Python computer vision project that aims to automatically remove the watermarks of stock images. The algorithm is designed off of those of Google researchers
 * [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling components for Kubernetes
 * [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 * [BenjV/autosub](https://github.com/BenjV/autosub): None
@@ -874,6 +875,7 @@
 * [louisdh/cmd-almanac](https://github.com/louisdh/cmd-almanac): A list of commands I frequently use
 * [fabian1811/cmdline-musicdetection](https://github.com/fabian1811/cmdline-musicdetection): Generates a fingerprint and queries it against the Gracenote API
 * [intel/cmrt](https://github.com/intel/cmrt): C for Media Runtime
+* [marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal): Fully convolutional deep neural network to remove transparent overlays from images
 * [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers.
 * [mmattozzi/cocoa-rest-client](https://github.com/mmattozzi/cocoa-rest-client): A free, native Apple macOS app for testing HTTP/REST endpoints
 * [CocoaDebug/CocoaDebug](https://github.com/CocoaDebug/CocoaDebug): iOS Debugging Tool 🚀
@@ -2120,6 +2122,7 @@
 * [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer): Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 * [iOSDevLog/ijkplayer](https://github.com/iOSDevLog/ijkplayer): Bilibili/ijkplayer cocoapods,iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.
 * [akash-rajak/Image-Watermark-Remover](https://github.com/akash-rajak/Image-Watermark-Remover): Python script to remove watermark from any image with watermark in it.
+* [osyounis/image_watermark_remover](https://github.com/osyounis/image_watermark_remover): A project which trains a Pix2Pix model using PyTorch to remove watermarks from images. The data was created by using images from the Unsplash dataset.
 * [dollarshaveclub/ImageButter](https://github.com/dollarshaveclub/ImageButter): Makes dealing with images buttery smooth.
 * [idealo/imagededup](https://github.com/idealo/imagededup): 😎 Finding duplicate images made easy!
 * [imageio/imageio-ffmpeg](https://github.com/imageio/imageio-ffmpeg): FFMPEG wrapper for Python
@@ -4391,7 +4394,10 @@
 * [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
 * [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal): a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image 
+* [zerozhoujie/watermark-remove](https://github.com/zerozhoujie/watermark-remove): Using depth learning to remove watermark from image
+* [ArconWell/Watermark-Remover](https://github.com/ArconWell/Watermark-Remover): Can remove watermarks from your images. It works well for images with text (i.e. scans etc)
 * [davidpendergast/watermark-remover](https://github.com/davidpendergast/watermark-remover): Attempts to isolate and remove translucent watermarks from a sample of images.
+* [devshah2/Watermark-Remover](https://github.com/devshah2/Watermark-Remover): Computer Vision tool to detect and remove common patterns across a series of images
 * [sw-257/Watermark-Remover](https://github.com/sw-257/Watermark-Remover): A tool for removing watermarks from an image
 * [IBM/Watson-Unity-ARKit](https://github.com/IBM/Watson-Unity-ARKit): # WARNING: This repository is no longer maintained :warning:  This repository will not be updated. The repository will be kept available in read-only mode.
 * [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip): This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. 
