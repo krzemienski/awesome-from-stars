@@ -1612,6 +1612,7 @@
 * [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC): [ECCV 2020] Flow-edge Guided Video Completion 
 * [gofiber/fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go
 * [electron/fiddle](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
+* [zuruoke/figma-remove-watermark-plugin](https://github.com/zuruoke/figma-remove-watermark-plugin): Remove the watermarks of images automatically
 * [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser
 * [Augustyniak/FileExplorer](https://github.com/Augustyniak/FileExplorer): FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories
 * [JohnSundell/Files](https://github.com/JohnSundell/Files): A nicer way to handle files & folders in Swift
@@ -2118,6 +2119,7 @@
 * [iina/iina](https://github.com/iina/iina): The modern video player for macOS.
 * [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer): Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 * [iOSDevLog/ijkplayer](https://github.com/iOSDevLog/ijkplayer): Bilibili/ijkplayer cocoapods,iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.
+* [akash-rajak/Image-Watermark-Remover](https://github.com/akash-rajak/Image-Watermark-Remover): Python script to remove watermark from any image with watermark in it.
 * [dollarshaveclub/ImageButter](https://github.com/dollarshaveclub/ImageButter): Makes dealing with images buttery smooth.
 * [idealo/imagededup](https://github.com/idealo/imagededup): 😎 Finding duplicate images made easy!
 * [imageio/imageio-ffmpeg](https://github.com/imageio/imageio-ffmpeg): FFMPEG wrapper for Python
@@ -3545,7 +3547,7 @@
 * [jamesfining/scte](https://github.com/jamesfining/scte): Python library to work with SCTE standards.
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): As foretold in the prophecy, behold threefive. The highest rated SCTE35 parser, ever, probably, maybe. Super cool SCTE35 decoder and  SCTE35 encoder.
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): Updated for 2022. threefive is the highest rated SCTE35 parser.  Super cool SCTE35 decoder and  SCTE35 encoder.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
@@ -4388,6 +4390,9 @@
 * [elementary/wallpapers](https://github.com/elementary/wallpapers): Collection of wallpapers for elementary OS
 * [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
+* [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal): a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image 
+* [davidpendergast/watermark-remover](https://github.com/davidpendergast/watermark-remover): Attempts to isolate and remove translucent watermarks from a sample of images.
+* [sw-257/Watermark-Remover](https://github.com/sw-257/Watermark-Remover): A tool for removing watermarks from an image
 * [IBM/Watson-Unity-ARKit](https://github.com/IBM/Watson-Unity-ARKit): # WARNING: This repository is no longer maintained :warning:  This repository will not be updated. The repository will be kept available in read-only mode.
 * [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip): This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. 
 * [h2oai/wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python and R
