@@ -2670,7 +2670,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): API first development platform
+* [micro/micro](https://github.com/micro/micro): Micro services development platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
@@ -4070,7 +4070,7 @@
 * [adamlatchem/toolchest](https://github.com/adamlatchem/toolchest): Useful Tools
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 * [actions/toolkit](https://github.com/actions/toolkit): The GitHub ToolKit for developing GitHub Actions.
-* [app-developers/top](https://github.com/app-developers/top): Top App Developers - August 2022
+* [app-developers/top](https://github.com/app-developers/top): Top App Developers - September 2022
 * [matteom/TopQuestion](https://github.com/matteom/TopQuestion): An example of calling REST APIs in iOS
 * [ag2816/TorontoWalks](https://github.com/ag2816/TorontoWalks): Walk generator to discover new neighbourhoods and sites in Toronto
 * [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind
