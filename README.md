@@ -2393,7 +2393,7 @@
 * [cinatic/kubectl-extension](https://github.com/cinatic/kubectl-extension): GNOME Shell Extension for quick access to kubernetes resources utilizing kubectl CLI
 * [ahmetb/kubectx](https://github.com/ahmetb/kubectx): Faster way to switch between clusters and namespaces in kubectl
 * [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow): Machine Learning Toolkit for Kubernetes
-* [collabnix/kubelabs](https://github.com/collabnix/kubelabs): Kubernetes - Beginners | Intermediate | Advanced
+* [collabnix/kubelabs](https://github.com/collabnix/kubelabs): Get Started with Kubernetes
 * [walmartlabs/kubeman](https://github.com/walmartlabs/kubeman): The Hero that Kubernetes deserves
 * [kubemq-io/kubemq-Python](https://github.com/kubemq-io/kubemq-Python): Python client for KubeMQ server https://kubemq.io
 * [kubenav/kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.
