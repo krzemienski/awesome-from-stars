@@ -1618,7 +1618,7 @@
 * [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser
 * [Augustyniak/FileExplorer](https://github.com/Augustyniak/FileExplorer): FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories
 * [JohnSundell/Files](https://github.com/JohnSundell/Files): A nicer way to handle files & folders in Swift
-* [files-community/Files](https://github.com/files-community/Files): A modern file manager for Windows
+* [files-community/Files](https://github.com/files-community/Files): Building the best File Manager for Windows
 * [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * [FlexMonkey/Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter Explorer & Showcase
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
