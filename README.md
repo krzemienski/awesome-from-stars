@@ -1987,6 +1987,7 @@
 * [epiclabs-io/hls-analyzer](https://github.com/epiclabs-io/hls-analyzer): Analyzer for HTTP Live Streams (HLS) content
 * [777777miSSU7777777/hls-audio-player](https://github.com/777777miSSU7777777/hls-audio-player): Self-written and cross-browser HLS audio player
 * [GitNK/HLS-Audio-Player](https://github.com/GitNK/HLS-Audio-Player): Application that parses audio from HTTP Live Stream, converts to mp4 and plays it.
+* [gowthambalusamy/HLS-Blob-Video-Download](https://github.com/gowthambalusamy/HLS-Blob-Video-Download): HLS Steaming Video Download / Blob Video Download
 * [lebougui/hls-creator](https://github.com/lebougui/hls-creator): Tools to create hls playlists using ffmpeg.  Originally forked from https://github.com/bentasker/HLS-Stream-Creator
 * [Eyevinn/hls-cutsegment](https://github.com/Eyevinn/hls-cutsegment): A web app that lets you insert a cut into a segment, which is then cut into two new segments.
 * [Eyevinn/hls-download](https://github.com/Eyevinn/hls-download): Download HLS and convert to MP4
@@ -2030,7 +2031,6 @@
 * [sile/hls_wasm](https://github.com/sile/hls_wasm): WebAssembly HLS client written in Rust
 * [kooku0/HlsAudioDownstream](https://github.com/kooku0/HlsAudioDownstream): 🎼 HLS 프로토콜을 이용하여 audio downstream 구현
 * [nobre84/HLSAudioPlayer](https://github.com/nobre84/HLSAudioPlayer): A mini framework for parsing and playing audio streams from HLS playlists
-* [gowthambalusamy/hlsBlobVideoDownload](https://github.com/gowthambalusamy/hlsBlobVideoDownload): HLS Steaming Video Download / Blob Video Download
 * [StyleShare/HLSCachingReverseProxyServer](https://github.com/StyleShare/HLSCachingReverseProxyServer): A simple local reverse proxy server for HLS segment cache
 * [globocom/hlsclient](https://github.com/globocom/hlsclient): Python HLS Client
 * [fcanas/HLSCore](https://github.com/fcanas/HLSCore): A collection of Swift packages for working with HLS
@@ -2675,7 +2675,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): Micro services development platform
+* [micro/micro](https://github.com/micro/micro): API first development platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
