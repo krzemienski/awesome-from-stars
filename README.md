@@ -2267,6 +2267,7 @@
 * [radibit/jira-dark-theme](https://github.com/radibit/jira-dark-theme): ⚫   A dark theme for Jira
 * [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone): A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 * [hackerdude/jiratotaskmanagers](https://github.com/hackerdude/jiratotaskmanagers): Syncs JIRA queries to apps like Omnifocus, Things and Reminders
+* [osy/Jitterbug](https://github.com/osy/Jitterbug): Launch JIT enabled iOS app with a second iOS device
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
