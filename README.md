@@ -2434,7 +2434,7 @@
 * [RLovelett/langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol.
 * [thoughtbot/laptop](https://github.com/thoughtbot/laptop): A shell script to set up a macOS laptop for web and mobile development.
 * [protonemedia/laravel-ffmpeg](https://github.com/protonemedia/laravel-ffmpeg): This package provides an integration with FFmpeg for Laravel. Laravel's Filesystem handles the storage of the files.
-* [ezeoleaf/larry](https://github.com/ezeoleaf/larry): Larry 🐦 is a bot generator that publishes random content from different providers built in Go
+* [ezeoleaf/larry](https://github.com/ezeoleaf/larry): Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 * [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave): A retro outrun / cyberpunk inspired VS Code theme
 * [system76/launch](https://github.com/system76/launch): System76 Launch Configurable Keyboard
 * [Laverna/laverna](https://github.com/Laverna/laverna): Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
