@@ -253,7 +253,7 @@
 * [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios): 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling): ✏️ Tooling for development and production Apollo workflows
 * [raindropio/app](https://github.com/raindropio/app): None
-* [standardnotes/app](https://github.com/standardnotes/app): An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
+* [standardnotes/app](https://github.com/standardnotes/app): An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit forum.standardnotes.org or email help@standardnotes.com
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
