@@ -4326,7 +4326,7 @@
 * [svt/vivict](https://github.com/svt/vivict): An easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.
 * [Netflix/vizceral](https://github.com/Netflix/vizceral): WebGL visualization for displaying animated traffic graphs
 * [videolan/vlc](https://github.com/videolan/vlc): VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
-* [videolan/vlc-ios](https://github.com/videolan/vlc-ios): VLC for iOS and tvOS official mirror
+* [videolan/vlc-ios](https://github.com/videolan/vlc-ios): VLC for iOS/iPadOS and tvOS official mirror
 * [dklinzh/VLCKit](https://github.com/dklinzh/VLCKit): A powerful library of audio/video on iOS, macOS and tvOS. Fork from https://code.videolan.org/videolan/VLCKit. Official mirror https://github.com/videolan/vlckit.
 * [videolan/vlckit](https://github.com/videolan/vlckit): libvlc bindings for OS X, iOS and tvOS in Objective-C, official mirror
 * [Netflix/vmaf](https://github.com/Netflix/vmaf): Perceptual video quality assessment based on multi-method fusion.
