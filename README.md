@@ -620,6 +620,7 @@
 * [backuppc/backuppc](https://github.com/backuppc/backuppc): BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 * [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 * [yagiz/Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
+* [soldiermoth/bakery](https://github.com/soldiermoth/bakery): HLS and DASH Manifest Service
 * [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo): Next generation Wagtail demo, born in Reykjavik
 * [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter): Dynamically changes status bar style depending on content behind it
 * [evertramos/basescript](https://github.com/evertramos/basescript): Scripts to be used for automation by other scripts
