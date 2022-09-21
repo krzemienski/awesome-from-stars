@@ -2308,7 +2308,7 @@
 * [alexellis/k3sup](https://github.com/alexellis/k3sup): bootstrap K3s over SSH in < 60s 🚀
 * [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
 * [shuklaabhi/K8-flask-celery-sample](https://github.com/shuklaabhi/K8-flask-celery-sample): A sample application built on flask, celery, redis, rabbitmq, postgresql with kubernetes configuration. 
-* [alpine-docker/k8s](https://github.com/alpine-docker/k8s): Kubernetes tools for EKS (kubectl, helm, iam-authenticator, eksctl, etc)
+* [alpine-docker/k8s](https://github.com/alpine-docker/k8s): All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
 * [spprichard/K8s](https://github.com/spprichard/K8s): Swift library for dealing with Kubernetes
 * [markoradinovic/k8s-batch-job-executor](https://github.com/markoradinovic/k8s-batch-job-executor): Kubernetes Batch Job Executor
 * [pangyuteng/k8s-celery-autoscale](https://github.com/pangyuteng/k8s-celery-autoscale): None
