@@ -3950,6 +3950,9 @@
     "bitmovin/libdash": [
         "Other"
     ],
+    "bitnami/containers": [
+        "Other"
+    ],
     "bitrise-io/bitrise": [
         "Other"
     ],
@@ -4227,6 +4230,9 @@
         "Other"
     ],
     "carlosalbarranmx/eks-tf-cli": [
+        "Other"
+    ],
+    "carlospolop/hacktricks": [
         "Other"
     ],
     "carlspring/s3fs-nio": [

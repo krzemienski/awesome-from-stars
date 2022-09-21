@@ -940,6 +940,7 @@
 * [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action): Template repo for creating container actions using https://github.com/actions/toolkit/
 * [micahhausler/container-transform](https://github.com/micahhausler/container-transform): Transforms docker-compose, ECS, and Marathon configurations
 * [containerd/containerd](https://github.com/containerd/containerd): An open and reliable container runtime
+* [bitnami/containers](https://github.com/bitnami/containers): Bitnami container images
 * [aws/containers-roadmap](https://github.com/aws/containers-roadmap): This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
 * [nuxt/content](https://github.com/nuxt/content): The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 * [ebu/content-manager](https://github.com/ebu/content-manager): The Content Manager is a visual production tool which is able to generate on the fly visualisation for DAB slideshow and RadioVIS. .NET framework based, it is developed in C# and is distributed under LGPL licence.
@@ -1948,6 +1949,7 @@
 * [corpnewt/Hackintosh-Guide](https://github.com/corpnewt/Hackintosh-Guide): None
 * [SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme](https://github.com/SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme): None
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
+* [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 * [linkedin/Hakawai](https://github.com/linkedin/Hakawai): A powerful, extensible UITextView.
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
