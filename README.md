@@ -264,7 +264,7 @@
 * [maoschanz/appfolders-manager-gnome-extension](https://github.com/maoschanz/appfolders-manager-gnome-extension): A GNOME extension allowing easy management of "appfolders" directly from the applications grid.
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 * [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher): Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
-* [AppImage/AppImageUpdate](https://github.com/AppImage/AppImageUpdate): AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
+* [AppImageCommunity/AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate): AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
 * [appium/appium](https://github.com/appium/appium): Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 * [appium-boneyard/appium-ci](https://github.com/appium-boneyard/appium-ci): Standalone gulp wrapper for appium ci.
 * [appium/appium-desktop](https://github.com/appium/appium-desktop): Appium Server in Desktop GUIs for Mac, Windows, and Linux
@@ -416,7 +416,7 @@
 * [aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand): ⚡A curated list of awesome resources related to the Algorand Blockchain ⛓
 * [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow): Curated list of resources about Apache Airflow
-* [AppImage/awesome-appimage](https://github.com/AppImage/awesome-appimage): Lovingly crafted AppImage tools and resources 
+* [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage): Lovingly crafted AppImage tools and resources 
 * [archivy/awesome-archivy](https://github.com/archivy/awesome-archivy): List of awesome tools / plugins built around archivy
 * [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio): A curated list of awesome Python asyncio frameworks, libraries, software and resources
 * [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom): A curated list of delightful Atom packages and resources.

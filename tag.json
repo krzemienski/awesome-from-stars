@@ -179,10 +179,10 @@
     "AppImage/AppImageKit": [
         "Other"
     ],
-    "AppImage/AppImageUpdate": [
+    "AppImageCommunity/AppImageUpdate": [
         "Other"
     ],
-    "AppImage/awesome-appimage": [
+    "AppImageCommunity/awesome-appimage": [
         "Other"
     ],
     "ArchiveBox/ArchiveBox": [
