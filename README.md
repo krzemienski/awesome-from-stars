@@ -3179,6 +3179,7 @@
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
 * [chockenberry/Provisioning](https://github.com/chockenberry/Provisioning): A Quick Look plug-in for .mobileprovision files
 * [Quintasan/prowadzacy_roku](https://github.com/Quintasan/prowadzacy_roku): None
+* [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3): The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator 
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 * [NVIDIA/proxyfs](https://github.com/NVIDIA/proxyfs): None
 * [facebook/proxygen](https://github.com/facebook/proxygen): A collection of C++ HTTP libraries including an easy to use HTTP server.
@@ -3270,7 +3271,7 @@
 * [sw360cab/pyup-transcoder](https://github.com/sw360cab/pyup-transcoder): a Python-based software to transcode videos and upload files to a remote server or S3-bucket
 * [MediaArea/QCTools](https://github.com/MediaArea/QCTools): Quality Control Tools for Video Preservation
 * [bavc/qctools](https://github.com/bavc/qctools): QCTools (Quality Control Tools for Video Preservation) is a free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering. QCTools is funded by the National Endowment for the Humanities and the Knight Foundation, and is developed by the Bay Area Video Coalition.
-* [NationalSecurityAgency/qgis-latlontools-plugin](https://github.com/NationalSecurityAgency/qgis-latlontools-plugin): QGIS tools to capture and zoom to coordinates using decimal, DMS, WKT, GeoJSON, MGRS, UTM, UPS, GEOREF, ECEF, and Plus Codes notation. Provides external map support, MGRS & Plus Codes conversion and point digitizing tools.
+* [NationalSecurityAgency/qgis-latlontools-plugin](https://github.com/NationalSecurityAgency/qgis-latlontools-plugin): QGIS tools to capture and zoom to coordinates using decimal, DMS, WKT, GeoJSON, MGRS, UTM, UPS, GEOREF, ECEF, H3, and Plus Codes notation. Provides external map support, MGRS & Plus Codes conversion and point digitizing tools.
 * [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook): The source code for the upcoming qml book
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 * [therecipe/qt](https://github.com/therecipe/qt): Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
