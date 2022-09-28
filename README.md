@@ -2454,7 +2454,7 @@
 * [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3): Jupyter notebooks for teaching/learning Python 3
 * [inancgumus/learngo](https://github.com/inancgumus/learngo): 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 * [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs): Code documentation written as code! How novel and totally my idea!
-* [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede): Lean's OpenWrt source
+* [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede): Lean's LEDE source
 * [doocs/leetcode](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 * [leixiaohua1020/leixiaohua1020.github.io](https://github.com/leixiaohua1020/leixiaohua1020.github.io): None
 * [NationalSecurityAgency/lemongraph](https://github.com/NationalSecurityAgency/lemongraph): Log-based transactional graph engine
