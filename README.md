@@ -2453,7 +2453,7 @@
 * [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio): ⛵️ Istio resources 🕸
 * [trekhleb/learn-python](https://github.com/trekhleb/learn-python): 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 * [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3): Jupyter notebooks for teaching/learning Python 3
-* [inancgumus/learngo](https://github.com/inancgumus/learngo): 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+* [inancgumus/learngo](https://github.com/inancgumus/learngo): ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 * [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs): Code documentation written as code! How novel and totally my idea!
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede): Lean's LEDE source
 * [doocs/leetcode](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
