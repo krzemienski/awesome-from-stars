@@ -3747,7 +3747,7 @@
 * [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum): A client-side image transcoding library.
 * [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test): Test your internet connection speed and ping using speedtest.net from the CLI
 * [acoustid/speexdsp](https://github.com/acoustid/speexdsp): Speex audio processing library
-* [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx): Main repository for the Sphinx documentation builder
+* [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx): The Sphinx documentation generator
 * [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot): SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 * [ddeville/spillo-sharing-sdk](https://github.com/ddeville/spillo-sharing-sdk): The SDK to create a Sharing Service for Spillo
 * [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker): Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
