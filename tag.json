@@ -11735,9 +11735,6 @@
     "svt/orm": [
         "Other"
     ],
-    "svt/vivict": [
-        "Other"
-    ],
     "sw-257/Watermark-Remover": [
         "Other"
     ],
@@ -12651,6 +12648,9 @@
         "Other"
     ],
     "vitoziv/VIMediaCache": [
+        "Other"
+    ],
+    "vivictorg/vivict": [
         "Other"
     ],
     "vk496/linset": [
