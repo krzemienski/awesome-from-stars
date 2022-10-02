@@ -1555,7 +1555,7 @@
 * [NikNakk/ffmpeg-aws-bento4](https://github.com/NikNakk/ffmpeg-aws-bento4): None
 * [serverlesspub/ffmpeg-aws-lambda-layer](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer): FFmpeg/FFprobe AWS Lambda layer
 * [ilyaevseev/ffmpeg-build](https://github.com/ilyaevseev/ffmpeg-build): Script for compile and install a static ffmpeg build with nvenc support.
-* [binoculars/ffmpeg-build-lambda](https://github.com/binoculars/ffmpeg-build-lambda): Travis CI build script for FFmpeg builds for use on AWS Lambda
+* [binoculars/ffmpeg-build-lambda](https://github.com/binoculars/ffmpeg-build-lambda): Static FFmpeg builds for use on AWS Lambda
 * [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 * [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds): None
 * [bramp/ffmpeg-cli-wrapper](https://github.com/bramp/ffmpeg-cli-wrapper): Java wrapper around the FFmpeg command line tool
