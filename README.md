@@ -3743,7 +3743,7 @@
 * [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi): Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 * [zhuhaow/Specht](https://github.com/zhuhaow/Specht): A rule-based proxy app built with Network Extension for macOS
 * [mdx-js/specification](https://github.com/mdx-js/specification): MDX language and AST definitions
-* [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0.
+* [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 * [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum): A client-side image transcoding library.
 * [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test): Test your internet connection speed and ping using speedtest.net from the CLI
 * [acoustid/speexdsp](https://github.com/acoustid/speexdsp): Speex audio processing library
