@@ -4547,6 +4547,6 @@
 
 # Utility
 
-* [jgraph/drawio](https://github.com/jgraph/drawio): Source to app.diagrams.net
+* [jgraph/drawio](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 
 
