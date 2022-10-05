@@ -932,7 +932,7 @@
 * [oberon-manjaro/conkies](https://github.com/oberon-manjaro/conkies): Conky files for manjaro
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X (and other things, too)
 * [teejee2008/conky-manager](https://github.com/teejee2008/conky-manager): GUI for managing Conky widgets
-* [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip): Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
+* [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip): Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
 * [rwbutler/Connectivity](https://github.com/rwbutler/Connectivity): 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 * [joshdholtz/connectkit-examples](https://github.com/joshdholtz/connectkit-examples): None
 * [DevopensourceTeam/Console_Box_AWS](https://github.com/DevopensourceTeam/Console_Box_AWS): Browser that allows you to open different sessions of AWS console in the same app.
