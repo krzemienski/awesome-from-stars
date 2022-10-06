@@ -1514,7 +1514,7 @@
 * [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client): FastAPI client generator
 * [fastai/fastbook](https://github.com/fastai/fastbook): The fastai book, published as Jupyter Notebooks
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
-* [alibaba/fastjson](https://github.com/alibaba/fastjson): A fast JSON parser/generator for Java.  
+* [alibaba/fastjson](https://github.com/alibaba/fastjson): FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 * [AFNetworking/fastlane](https://github.com/AFNetworking/fastlane): A fastlane setup to deploy Objective-C and Swift frameworks.
 * [fastlane/fastlane](https://github.com/fastlane/fastlane): 🚀 The easiest way to automate building and releasing your iOS and Android apps
 * [milch/fastlane-docker](https://github.com/milch/fastlane-docker): fastlane tools docker image based on CircleCI's ruby image
