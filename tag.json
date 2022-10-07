@@ -3707,9 +3707,6 @@
     "awslabs/aws-media-replay-engine": [
         "Other"
     ],
-    "awslabs/aws-perspective": [
-        "Other"
-    ],
     "awslabs/aws-video-transcriber": [
         "Other"
     ],
@@ -3717,6 +3714,9 @@
         "Other"
     ],
     "awslabs/serverless-subtitles": [
+        "Other"
+    ],
+    "awslabs/workload-discovery-on-aws": [
         "Other"
     ],
     "axcore/tartube": [
