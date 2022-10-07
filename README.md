@@ -2628,7 +2628,7 @@
 * [ustwo/mastermind](https://github.com/ustwo/mastermind): Man in the middle testing
 * [mastodon/mastodon](https://github.com/mastodon/mastodon): Your self-hosted, globally interconnected microblogging community
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
-* [CosmicMind/Material](https://github.com/CosmicMind/Material): A UI/UX framework for creating beautiful applications.
+* [CosmicMind/Material-deprecated](https://github.com/CosmicMind/Material-deprecated): A UI/UX framework for creating beautiful applications.
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 * [matomo-org/matomo](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! 
 * [ietf-wg-cellar/matroska-specification](https://github.com/ietf-wg-cellar/matroska-specification): Matroska specification.
