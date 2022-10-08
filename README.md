@@ -3849,7 +3849,7 @@
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
 * [cemolcay/StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView): uiscrollview with strechy and parallax top view
 * [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand): Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-* [hynek/structlog](https://github.com/hynek/structlog): Structured Logging for Python
+* [hynek/structlog](https://github.com/hynek/structlog): Simple. Powerful. Fast. Pick three.
 * [keesun/study](https://github.com/keesun/study): Learn, Share and Grow
 * [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome): ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
 * [GitHawkApp/StyledTextKit](https://github.com/GitHawkApp/StyledTextKit): Declarative building and fast rendering attributed string library.
