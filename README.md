@@ -3824,7 +3824,7 @@
 * [freshOS/Stevia](https://github.com/freshOS/Stevia): :leaves: Concise Autolayout code
 * [nodes-vapor/storage](https://github.com/nodes-vapor/storage): Eases the use of multiple storage and CDN services 🗄
 * [libopenstorage/stork](https://github.com/libopenstorage/stork): Stork - Storage Orchestration Runtime for Kubernetes
-* [storybookjs/storybook](https://github.com/storybookjs/storybook): 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+* [storybookjs/storybook](https://github.com/storybookjs/storybook): Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
 * [Marcos-A/STRCleaner](https://github.com/Marcos-A/STRCleaner): Script that extracts all the text from a subtitles file ignoring time indications, HTML tags and other alien info.
 * [mdellavo/stream](https://github.com/mdellavo/stream): HLS server implementation in python
 * [rowrawer/stream-detector](https://github.com/rowrawer/stream-detector): A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files.
