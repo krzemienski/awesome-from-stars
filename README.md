@@ -2863,7 +2863,7 @@
 * [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
-* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 * [nodejs/node](https://github.com/nodejs/node): Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 * [michaelkourlas/node-cloudflare-dynamic-dns](https://github.com/michaelkourlas/node-cloudflare-dynamic-dns): Node.js module for updating a Cloudflare DNS address record with an IP address
 * [openebs/node-disk-manager](https://github.com/openebs/node-disk-manager): Kubernetes Storage Device Management
