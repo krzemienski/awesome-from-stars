@@ -2985,7 +2985,6 @@
 * [ouropencode/OpenDocumenter](https://github.com/ouropencode/OpenDocumenter): OpenDocumenter is a automatic documentation generator for OpenAPI v3 schemas. Simply provide your schema file in JSON or YAML, then sit back and enjoy the documentation.
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [alfg/openencoder](https://github.com/alfg/openencoder): :movie_camera: Cloud Encoding Platform for FFmpeg.
-* [timonus/OpenerManifest](https://github.com/timonus/OpenerManifest): Set of rules powering Opener for iOS
 * [cpitkin/openfaas-transcode](https://github.com/cpitkin/openfaas-transcode): OpenFaaS transcode pipeline
 * [OpenHEVC/openHEVC](https://github.com/OpenHEVC/openHEVC): HEVC decoder
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
