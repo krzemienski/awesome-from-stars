@@ -1123,7 +1123,7 @@
 * [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp): Build a Swift App as a designer
 * [Foreverland/DesignerNewsDemo](https://github.com/Foreverland/DesignerNewsDemo): Sync's Objective-C Designer News Demo
 * [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer
-* [desktop/desktop](https://github.com/desktop/desktop): Simple collaboration from your desktop
+* [desktop/desktop](https://github.com/desktop/desktop): Focus on what matters instead of fighting with Git.
 * [mattermost/desktop](https://github.com/mattermost/desktop): Mattermost Desktop application for Windows, Mac and Linux
 * [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop): an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 * [raindropio/desktop](https://github.com/raindropio/desktop): Official Raindrop.io Desktop App
