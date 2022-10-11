@@ -2666,7 +2666,7 @@
 * [benjaminmayo/merchantkit](https://github.com/benjaminmayo/merchantkit): A modern In-App Purchases management framework for iOS.
 * [shinyfrog/mercury-parser](https://github.com/shinyfrog/mercury-parser): 📜 Extracting content from the chaos of the web.
 * [abdullahselek/Merhaba](https://github.com/abdullahselek/Merhaba): Bonjour networking for discovery and connection between iOS, macOS and tvOS devices.
-* [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
+* [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 * [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 * [novareto/messages_manager](https://github.com/novareto/messages_manager): FastAPI backend with a vuejs frontend for admin messages management
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
