@@ -2152,7 +2152,7 @@
 * [louisdh/InputAssistant](https://github.com/louisdh/InputAssistant): Provide custom auto-completion options for the iOS keyboard.
 * [macabeus/InputStepByStep](https://github.com/macabeus/InputStepByStep): 📝 A input view for tvOS, useful for testing purposes.
 * [xbmc/inputstream.adaptive](https://github.com/xbmc/inputstream.adaptive): kodi inputstream addon for several manifest types
-* [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+* [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 * [michaelversus/insomnia-plugin-codegen](https://github.com/michaelversus/insomnia-plugin-codegen): None
 * [benemohamed/insomnia-plugin-json-schema](https://github.com/benemohamed/insomnia-plugin-json-schema): insomnia plugin generated json schema from response
 * [klickpages/insomnia-plugin-repo-sync](https://github.com/klickpages/insomnia-plugin-repo-sync): None
