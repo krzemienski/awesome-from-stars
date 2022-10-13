@@ -1396,7 +1396,7 @@
 * [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store): A Cross-Platform App Store for Electron.js Apps
 * [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate): Boilerplate to kickstart creating an app with Electron
 * [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music):  网易云音乐 Electron  客户端
-* [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge): A complete tool for creating, publishing, and installing modern Electron applications
+* [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge): :electron: A complete tool for building and publishing Electron applications
 * [electron/electron-packager](https://github.com/electron/electron-packager): Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 * [electron/electron-quick-start](https://github.com/electron/electron-quick-start): Clone to try a simple Electron app
 * [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate): A Foundation for Scalable Cross-Platform Apps
