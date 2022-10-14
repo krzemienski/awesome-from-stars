@@ -844,7 +844,7 @@
 * [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next): RGB Driver for Linux
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 * [clappr/clappr](https://github.com/clappr/clappr): :clapper: An extensible media player for the web.
-* [clappr/clappr-ios](https://github.com/clappr/clappr-ios): An extensible media player for iOS.
+* [clappr/clappr-ios](https://github.com/clappr/clappr-ios): An extensible media player for iOS [deprecated]
 * [clappr/clappr-stats](https://github.com/clappr/clappr-stats): A clappr plugin to report playback statuses (timers: session, buffering, watch and counters: play, pause, error, fps)
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
