@@ -4537,7 +4537,7 @@
 * [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
 * [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
 * [google/zx](https://github.com/google/zx): A tool for writing better scripts
-* [zype/zype-roku-scenegraph](https://github.com/zype/zype-roku-scenegraph): None
+* [zype/zype-roku-scenegraph](https://github.com/zype/zype-roku-scenegraph): This is the Github repository for Zype’s legacy open source app templates which are no longer being supported. If you are looking to build streaming applications for OTT with Zype, check out Zype Apps Creator to leverage the latest app building features and functionality.
 
 # Python
 
