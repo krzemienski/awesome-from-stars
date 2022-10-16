@@ -233,7 +233,7 @@
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
 * [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable): Type-erased wrappers for Encodable, Decodable, and Codable values
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
-* [klaussinani/ao](https://github.com/klaussinani/ao): Elegant Microsoft To-Do desktop app
+* [klaudiosinani/ao](https://github.com/klaudiosinani/ao): Elegant Microsoft To-Do desktop app
 * [xiph/aomanalyzer](https://github.com/xiph/aomanalyzer): AV1 / VP9 Bitstream Analyzer
 * [Alterplay/APAddressBook](https://github.com/Alterplay/APAddressBook): Easy access to iOS address book
 * [JeanLebrument/APContact-EasyMapping](https://github.com/JeanLebrument/APContact-EasyMapping): Category to easily map APContact model with EasyMapping
@@ -3629,7 +3629,7 @@
 * [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta): The civilized way to write REST API clients for iOS / macOS
 * [agrinman/sift-ios](https://github.com/agrinman/sift-ios): Uncover network traffic in real-time for every app on your phone
 * [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
-* [klaussinani/signale](https://github.com/klaussinani/signale): Highly configurable logging utility
+* [klaudiosinani/signale](https://github.com/klaudiosinani/signale): Highly configurable logging utility
 * [uber/signals-ios](https://github.com/uber/signals-ios): Typeful eventing
 * [a2nt/silverstripe-digitalocean-nginx-backup-scripts](https://github.com/a2nt/silverstripe-digitalocean-nginx-backup-scripts): SilverStripe Digital Ocean + NGINX + Dropbox service sripts
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second 
@@ -4130,7 +4130,7 @@
 * [MoshiMoshi0/ttrgbplusapi](https://github.com/MoshiMoshi0/ttrgbplusapi): api for thermaltake rgb plus devices
 * [Tubitv/TubiPlayer](https://github.com/Tubitv/TubiPlayer): A media streaming video player based on ExoPlayer from google, with convenience methods for ad supported content
 * [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi): An Xcode Project Generator For Bazel 
-* [klaussinani/tusk](https://github.com/klaussinani/tusk): Refined Evernote desktop app
+* [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk): Refined Evernote desktop app
 * [eugenp/tutorials](https://github.com/eugenp/tutorials): Just Announced - "Learn Spring Security OAuth": 
 * [vmware-archive/tutorials](https://github.com/vmware-archive/tutorials): None
 * [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center): A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
