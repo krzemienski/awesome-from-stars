@@ -2588,6 +2588,7 @@
 * [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout): A collection view layout capable of laying out views in vertically scrolling grids and lists.
 * [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord): Super Awesome Easy Fetching for Core Data!
 * [singhkshitij/MagicPrint-ECommerce-App-Android](https://github.com/singhkshitij/MagicPrint-ECommerce-App-Android): E-Commerce App Source Code for Android with Material Design Pattern Using Firebase and MySQL with Android Lottie Animations just like Flipkart, Myntra and Amazon :)
+* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [bkw777/mainline](https://github.com/bkw777/mainline): A continuation of the free version of ukuu.
 * [uber-archive/makisu](https://github.com/uber-archive/makisu): Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 * [vadymmarkov/Malibu](https://github.com/vadymmarkov/Malibu): :surfer: Malibu is a networking library built on promises
