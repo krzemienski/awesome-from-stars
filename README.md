@@ -3913,7 +3913,7 @@
 * [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing): 📸 Delightful Swift snapshot testing.
 * [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite): The infrastructure and project index comprising the Swift source compatibility suite.
 * [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview): None
-* [apple/swift-syntax](https://github.com/apple/swift-syntax): SwiftPM package for SwiftSyntax library.
+* [apple/swift-syntax](https://github.com/apple/swift-syntax): A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 * [Ramotion/swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries): Swift UI libraries, iOS components and animations by @Ramotion
 * [pointfreeco/swift-validated](https://github.com/pointfreeco/swift-validated): 🛂 A result type that accumulates multiple errors.
 * [dev-labs-bg/swift-video-generator](https://github.com/dev-labs-bg/swift-video-generator): None
