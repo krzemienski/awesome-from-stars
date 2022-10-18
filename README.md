@@ -577,7 +577,7 @@
 * [michihiro/aws-console-app](https://github.com/michihiro/aws-console-app): Simple AWS Console for Chrome App
 * [aws-samples/aws-device-farm-sample-app-for-ios](https://github.com/aws-samples/aws-device-farm-sample-app-for-ios): None
 * [aws-samples/aws-device-farm-xctest-ui-tests-for-ios-sample-app](https://github.com/aws-samples/aws-device-farm-xctest-ui-tests-for-ios-sample-app): None
-* [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples): Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
+* [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples): Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 * [CircleCI-Public/aws-ecr-orb](https://github.com/CircleCI-Public/aws-ecr-orb): CircleCI orb for interacting with Amazon's Elastic Container Registry (ECR)
 * [y13i/aws-eks-example](https://github.com/y13i/aws-eks-example): AWS EKS (Elastic Kubernetes Service) example.
 * [dotLou/aws-eks-terraform](https://github.com/dotLou/aws-eks-terraform): Example of terraform setup for installing basic AWS EKS K8s cluster
