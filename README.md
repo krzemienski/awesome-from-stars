@@ -4340,7 +4340,6 @@
 * [Eyevinn/vmapproxy](https://github.com/Eyevinn/vmapproxy): A simple VMAP / VAST proxy
 * [voc/voctomix](https://github.com/voc/voctomix): Full-HD Software Live-Video-Mixer in python
 * [Eyevinn/vod-to-live](https://github.com/Eyevinn/vod-to-live): A python library to generate Live HLS from VOD
-* [Eyevinn/vod-to-live.js](https://github.com/Eyevinn/vod-to-live.js): NPM library for HLS VOD to Live
 * [bbayles/vod_metadata](https://github.com/bbayles/vod_metadata): CableLabs VOD Metadata 1.1 Generator
 * [zsiec/vodmodule-stats](https://github.com/zsiec/vodmodule-stats): None
 * [abinashmeher999/voice-data-extract](https://github.com/abinashmeher999/voice-data-extract): A command line interface to combine text information from subtitles with voice data in the video. Provides a convenient way to generate training data for speech-recognition purposes.
