@@ -3971,7 +3971,7 @@
 * [jamescun/switcher](https://github.com/jamescun/switcher): Run SSH and HTTP(S) on the same port
 * [Swrve/swrve-roku-sdk](https://github.com/Swrve/swrve-roku-sdk): Swrve Roku SDK 
 * [b3log/symphony](https://github.com/b3log/symphony): 仓库已经迁移到 https://github.com/88250/symphony
-* [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python 3/Twisted.
+* [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
 * [3lvis/Sync](https://github.com/3lvis/Sync): JSON to Core Data and back. Swift Core Data Sync. 
 * [syncany/syncany](https://github.com/syncany/syncany): Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage.
 * [syncany/syncany-plugin-gui](https://github.com/syncany/syncany-plugin-gui): Syncany GUI Plugin
