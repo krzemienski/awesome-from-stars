@@ -1790,7 +1790,7 @@
 * [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio): :octocat: personal website + blog  for every github user
 * [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk): The (second) best iOS app for GitHub.
 * [beepboopbangbang/githoard](https://github.com/beepboopbangbang/githoard): Desktop app that enables users to quickly clone git repositories
-* [Justintime50/github-archive](https://github.com/Justintime50/github-archive): A powerful tool to concurrently clone or pull user and org repos and gists to create a GitHub archive.
+* [Justintime50/github-archive](https://github.com/Justintime50/github-archive): A powerful tool to concurrently clone, pull, or fork user and org repos and gists to create a GitHub archive.
 * [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator): Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [HR/github-clone](https://github.com/HR/github-clone): :octocat: ⬇️ ⠀git clone repo subdirectories
