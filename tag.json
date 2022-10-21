@@ -3257,6 +3257,9 @@
     "apasccon/SearchTextField": [
         "Other"
     ],
+    "apideck-libraries/portman": [
+        "Other"
+    ],
     "apifox/apifox": [
         "Other"
     ],
@@ -6474,6 +6477,9 @@
         "Other"
     ],
     "gwen001/pentest-tools": [
+        "Other"
+    ],
+    "gwuhaolin/livego": [
         "Other"
     ],
     "h2database/h2database": [
@@ -10041,6 +10047,9 @@
         "Other"
     ],
     "polybar/polybar": [
+        "Other"
+    ],
+    "ponchio/untrunc": [
         "Other"
     ],
     "pop-os/apt-fetcher": [
