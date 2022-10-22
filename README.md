@@ -561,7 +561,7 @@
 * [altamiracorp/awesome-xai](https://github.com/altamiracorp/awesome-xai): Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources
 * [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions): Awesome native Xcode extensions.
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
-* [lockys/Awesome.json](https://github.com/lockys/Awesome.json): :eyeglasses: Awesome lists parsed in JSON.
+* [lockys/Awesome.json](https://github.com/lockys/Awesome.json): :eyeglasses: Awesome lists in JSON format.
 * [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot): :white_check_mark: Validate links in awesome projects
 * [aschuch/AwesomeCache](https://github.com/aschuch/AwesomeCache): Delightful on-disk cache (written in Swift)
 * [hating/AwesomeGithub](https://github.com/hating/AwesomeGithub): 实时获取Github全球、中国、互联网城市用户排名，以及最热门的JavaScript、Python，Java、Swift项目。 Presenting a variety kind of Github ranking.You will love it !
