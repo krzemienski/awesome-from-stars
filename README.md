@@ -281,6 +281,7 @@
 * [aunetx/apps-to-panel](https://github.com/aunetx/apps-to-panel): This extension turns the Activities button into two button with icon or text to select Applications or Workspaces in the Overview.
 * [omz/AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App Sales allows iPhone and Mac App Store developers to download and analyze their daily and weekly sales reports from iTunes Connect.
 * [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+* [sphinx02/AppStarter](https://github.com/sphinx02/AppStarter): AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
 * [appwrite/appwrite](https://github.com/appwrite/appwrite): Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -1214,6 +1215,7 @@
 * [linuxserver/docker-ffmpeg](https://github.com/linuxserver/docker-ffmpeg): None
 * [nuxeo-sandbox/docker-ffmpeg-nvidia](https://github.com/nuxeo-sandbox/docker-ffmpeg-nvidia): docker-ffmpeg-nvidia
 * [leandromoreira/docker-ffmpeg-vmaf](https://github.com/leandromoreira/docker-ffmpeg-vmaf): Docker FFmpeg VMAF usage example / tips / workflow
+* [kevineye/docker-firetv](https://github.com/kevineye/docker-firetv): Container providing a REST interface to Amazon Fire TV devices.
 * [pm990320/docker-flask-celery](https://github.com/pm990320/docker-flask-celery): Running a flask app and celery worker in the same docker container.
 * [docker-flow/docker-flow-proxy](https://github.com/docker-flow/docker-flow-proxy): Docker Flow Proxy
 * [vfarcic/docker-flow-proxy](https://github.com/vfarcic/docker-flow-proxy): Docker Flow Proxy
@@ -1629,6 +1631,10 @@
 * [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk): Firebase SDK for Apple App Development
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
 * [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios): Firefox for iOS
+* [UCI-Networking-Group/firetastic](https://github.com/UCI-Networking-Group/firetastic): Firetastic - a tool for automating interaction with FireTV apps
+* [patrickclery/firetv](https://github.com/patrickclery/firetv): Tools for Amazon Fire TV
+* [joelpalmer/firetv-controller](https://github.com/joelpalmer/firetv-controller): Control any Fire TV or any Android device on your network via ADB
+* [rhcp011235/firetv_bootloader_unlock](https://github.com/rhcp011235/firetv_bootloader_unlock): Opensource Amazon FireTv Bootloader Unlock Tool
 * [system76/firmware-open](https://github.com/system76/firmware-open): System76 Open Firmware
 * [jasontbradshaw/flac2mp3](https://github.com/jasontbradshaw/flac2mp3): A multithreaded Python script for converting flac files to mp3 files on Linux and OS X.
 * [Netflix/flamescope](https://github.com/Netflix/flamescope): FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
@@ -2346,6 +2352,7 @@
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
+* [androbility/keydroid](https://github.com/androbility/keydroid): Send keystrokes from the terminal to an Android device.  Requires adb.
 * [kubernetes-for-developers/kfd-celery](https://github.com/kubernetes-for-developers/kfd-celery): example celery worker and deployment specs for Kubernetes for Developers
 * [kickstarter/Kickstarter-Prelude](https://github.com/kickstarter/Kickstarter-Prelude): A collection of useful Swift tools that are used in the Kickstarter apps.
 * [luigifcruz/kimera](https://github.com/luigifcruz/kimera): Low-latency hardware accelerated codec based video streaming utility.
@@ -2586,6 +2593,7 @@
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 * [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 * [KhaosT/MacVM](https://github.com/KhaosT/MacVM): macOS VM for Apple Silicon using Virtualization API
+* [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro): Painless Mobile UI Automation
 * [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout): A collection view layout capable of laying out views in vertically scrolling grids and lists.
 * [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord): Super Awesome Easy Fetching for Core Data!
 * [singhkshitij/MagicPrint-ECommerce-App-Android](https://github.com/singhkshitij/MagicPrint-ECommerce-App-Android): E-Commerce App Source Code for Android with Material Design Pattern Using Firebase and MySQL with Android Lottie Animations just like Flipkart, Myntra and Amazon :)
@@ -2717,6 +2725,7 @@
 * [kylef/Mockingjay](https://github.com/kylef/Mockingjay): An elegant library for stubbing HTTP requests with ease in Swift
 * [LanceGin/Mockman](https://github.com/LanceGin/Mockman): Manage and start the mock servers on your local platform easily
 * [kronenthaler/mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj): A python module to manipulate XCode projects
+* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 * [noreasonprojects/ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer): ModernAVPlayer is a persistence AVPlayer wrapper
 * [rentzsch/mogenerator](https://github.com/rentzsch/mogenerator): Core Data code generation
@@ -3237,6 +3246,7 @@
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [geekcomputers/Python](https://github.com/geekcomputers/Python): My Python Examples
 * [kubernetes-client/python](https://github.com/kubernetes-client/python): Official Python client library for kubernetes
+* [JeffLIrion/python-androidtv](https://github.com/JeffLIrion/python-androidtv): Communicate with an Android TV or Fire TV device via ADB over a network.
 * [devsnd/python-audiotranscode](https://github.com/devsnd/python-audiotranscode): transcode using installed codecs (lame mp3, ogg vorbis, flac, aac, wav)
 * [Comcast/python-batch-runner](https://github.com/Comcast/python-batch-runner): A tiny framework for building batch applications as a collection of tasks in a workflow.
 * [linsomniac/python-bottle-skeleton](https://github.com/linsomniac/python-bottle-skeleton): A skeleton with examples for creating a bottle application.
@@ -3245,6 +3255,7 @@
 * [LetsUpgrade/Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials): None
 * [jonghwanhyeon/python-ffmpeg](https://github.com/jonghwanhyeon/python-ffmpeg): A python interface for FFmpeg using asyncio
 * [aminyazdanpanah/python-ffmpeg-video-streaming](https://github.com/aminyazdanpanah/python-ffmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+* [happyleavesaoc/python-firetv](https://github.com/happyleavesaoc/python-firetv): None
 * [talkpython/python-for-absolute-beginners-course](https://github.com/talkpython/python-for-absolute-beginners-course): Code samples and other handouts for our course.
 * [kuri65536/python-for-android](https://github.com/kuri65536/python-for-android): Automatically exported from code.google.com/p/python-for-android
 * [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup): backup a github user or organization
