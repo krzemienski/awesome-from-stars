@@ -3092,6 +3092,9 @@
     "amzn/exoplayer-amazon-port": [
         "Other"
     ],
+    "amzn/firetv-sample-touch-app": [
+        "Other"
+    ],
     "amzn/smoke-framework": [
         "Other"
     ],
@@ -4017,6 +4020,9 @@
         "Other"
     ],
     "blackjack4494/yt-dlc": [
+        "Other"
+    ],
+    "blank-blank/firetv-pipeline": [
         "Other"
     ],
     "blinksh/blink": [
@@ -9665,6 +9671,9 @@
     "openai/jukebox": [
         "Other"
     ],
+    "openai/whisper": [
+        "Other"
+    ],
     "openbridge/ob_bulkstash": [
         "Other"
     ],
@@ -12120,6 +12129,9 @@
         "Other"
     ],
     "timofurrer/awesome-asyncio": [
+        "Other"
+    ],
+    "timoknapp/sound-on-fire": [
         "Other"
     ],
     "timqian/star-history-plugin": [

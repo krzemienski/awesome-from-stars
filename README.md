@@ -1634,6 +1634,8 @@
 * [UCI-Networking-Group/firetastic](https://github.com/UCI-Networking-Group/firetastic): Firetastic - a tool for automating interaction with FireTV apps
 * [patrickclery/firetv](https://github.com/patrickclery/firetv): Tools for Amazon Fire TV
 * [joelpalmer/firetv-controller](https://github.com/joelpalmer/firetv-controller): Control any Fire TV or any Android device on your network via ADB
+* [blank-blank/firetv-pipeline](https://github.com/blank-blank/firetv-pipeline): A pipeline to deliver a Firetv app via jenkins.
+* [amzn/firetv-sample-touch-app](https://github.com/amzn/firetv-sample-touch-app): This sample Android project demonstrates how to build the main UI of a Fire TV application in order to support both Touch interactions and Remote D-Pad controls.
 * [rhcp011235/firetv_bootloader_unlock](https://github.com/rhcp011235/firetv_bootloader_unlock): Opensource Amazon FireTv Bootloader Unlock Tool
 * [system76/firmware-open](https://github.com/system76/firmware-open): System76 Open Firmware
 * [jasontbradshaw/flac2mp3](https://github.com/jasontbradshaw/flac2mp3): A multithreaded Python script for converting flac files to mp3 files on Linux and OS X.
@@ -2726,7 +2728,6 @@
 * [LanceGin/Mockman](https://github.com/LanceGin/Mockman): Manage and start the mock servers on your local platform easily
 * [kronenthaler/mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj): A python module to manipulate XCode projects
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
-* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 * [noreasonprojects/ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer): ModernAVPlayer is a persistence AVPlayer wrapper
 * [rentzsch/mogenerator](https://github.com/rentzsch/mogenerator): Core Data code generation
 * [monero-project/monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
@@ -3727,6 +3728,7 @@
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar): Linux device manager for Logitech devices
 * [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic): 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 * [denysvitali/sonos-web](https://github.com/denysvitali/sonos-web): Web interface for Sonos audio systems
+* [timoknapp/sound-on-fire](https://github.com/timoknapp/sound-on-fire): 🔊☁️ 🔥📺 A Flutter based SoundCloud App for your Fire TV
 * [salomvary/soundcleod](https://github.com/salomvary/soundcleod): SoundCloud for macOS and Windows
 * [hatienl0i261299/Soundcloud](https://github.com/hatienl0i261299/Soundcloud): Soundcloud - A tool for download track Soundcloud.
 * [Suyash458/soundcloud-dl](https://github.com/Suyash458/soundcloud-dl): A Python project that downloads tracks from soundcloud.com, complete with metadata and album art
@@ -4442,6 +4444,7 @@
 * [twostraws/whats-new-in-swift-5-0](https://github.com/twostraws/whats-new-in-swift-5-0): An Xcode playground that demonstrates the new features introduced in Swift 5.0.
 * [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt): Decrypt WhatsApp encrypted media files
 * [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit): Showcase your awesome new app features 📱
+* [openai/whisper](https://github.com/openai/whisper): Robust Speech Recognition via Large-Scale Weak Supervision
 * [apache/wicket](https://github.com/apache/wicket): Apache Wicket - Component-based Java web framework
 * [cryptonek/widevine-l3-decryptor](https://github.com/cryptonek/widevine-l3-decryptor): Mirror of the original repo
 * [Satsuoni/widevine-l3-guesser](https://github.com/Satsuoni/widevine-l3-guesser): None
