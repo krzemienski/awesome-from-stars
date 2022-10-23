@@ -3005,6 +3005,9 @@
     "alibaba/BeeHive": [
         "Other"
     ],
+    "alibaba/CicadaPlayer": [
+        "Other"
+    ],
     "alibaba/HandyJSON": [
         "Other"
     ],
@@ -6099,6 +6102,9 @@
         "Other"
     ],
     "futzu/scte35-threefive": [
+        "Other"
+    ],
+    "futzu/x9k3": [
         "Other"
     ],
     "fuzzy08/backpack-python": [
@@ -9230,6 +9236,9 @@
     "naoty/Timepiece": [
         "Other"
     ],
+    "nareix/joy4": [
+        "Other"
+    ],
     "narlei/SwiftMoyaCodeGenerator": [
         "Other"
     ],
@@ -10158,6 +10167,9 @@
         "Other"
     ],
     "practical-tutorials/project-based-learning": [
+        "Other"
+    ],
+    "prakhar1989/awesome-courses": [
         "Other"
     ],
     "prasmussen/gdrive": [
@@ -11213,6 +11225,9 @@
     "sile/hls_wasm": [
         "Other"
     ],
+    "silvermine/videojs-quality-selector": [
+        "Other"
+    ],
     "simdjson/simdjson": [
         "Other"
     ],
@@ -11559,6 +11574,9 @@
         "Other"
     ],
     "spulec/uncurl": [
+        "Other"
+    ],
+    "sqlectron/sqlectron-gui": [
         "Other"
     ],
     "sqlfluff/sqlfluff": [
@@ -12834,6 +12852,9 @@
         "Other"
     ],
     "wargarblgarbl/libgosubs": [
+        "Other"
+    ],
+    "wasabeef/awesome-android-ui": [
         "Other"
     ],
     "washingtonpost/data-police-shootings": [

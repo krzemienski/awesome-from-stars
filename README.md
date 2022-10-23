@@ -417,6 +417,7 @@
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
 * [aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand): ⚡A curated list of awesome resources related to the Algorand Blockchain ⛓
 * [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
+* [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries
 * [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow): Curated list of resources about Apache Airflow
 * [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage): Lovingly crafted AppImage tools and resources 
 * [archivy/awesome-archivy](https://github.com/archivy/awesome-archivy): List of awesome tools / plugins built around archivy
@@ -443,6 +444,7 @@
 * [docker/awesome-compose](https://github.com/docker/awesome-compose): Awesome Docker Compose samples
 * [jakoch/awesome-composer](https://github.com/jakoch/awesome-composer):  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 * [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus): 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
+* [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses): :books: List of awesome university courses for learning Computer Science!
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology): Curated list of Creative Technology groups, companies, studios, collectives, etc.
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV): :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
@@ -834,6 +836,7 @@
 * [ngs/ci2go](https://github.com/ngs/ci2go): CI2Go is a @CircleCI client for iPhone, iPad, Apple Watch and Mac.
 * [shilgam/ci_tools](https://github.com/shilgam/ci_tools): Popular CI/CD Tools Comparison: Travis, CircleCI, Gitlab CI, Codeship Pro
 * [robertsanseries/ciano](https://github.com/robertsanseries/ciano): A multimedia file converter focused on simplicity.
+* [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which support multiple platform Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is providing a player core which support multi platform, hardware accelerator, customizable and extensible features. Which support WideVine drm and LL-HLS dash.
 * [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
 * [CircleCI-Public/circleci-demo-aws-ecs-ecr](https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr): A demo project for deployment to AWS ECS from ECR on CircleCI 2.0. 
@@ -2282,6 +2285,7 @@
 * [osy/Jitterbug](https://github.com/osy/Jitterbug): Launch JIT enabled iOS app with a second iOS device
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+* [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
 * [jackie1in/jre-ffmpeg-apline](https://github.com/jackie1in/jre-ffmpeg-apline): Dockerfile [jre8](https://github.com/fabric8io-images/java) and [ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg) 
 * [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
@@ -3794,6 +3798,7 @@
 * [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
 * [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset): offset-free paging for sqlalchemy
 * [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc): Generate type-safe code from SQL
+* [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui): A simple and lightweight SQL client desktop with cross database and platform support.
 * [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A SQL linter and auto-formatter for Humans
 * [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool
 * [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel): SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -3952,7 +3957,6 @@
 * [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift): A handy collection of more than 500 native Swift extensions to boost your productivity.
 * [sunlubo/SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg): A Swift wrapper for the FFmpeg API
 * [rahul0x24/SwiftFrameworkTemplate](https://github.com/rahul0x24/SwiftFrameworkTemplate): A template for new Swift iOS / macOS / tvOS / watchOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file 
-* [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen): The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 * [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen): The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 * [ipader/SwiftGuide](https://github.com/ipader/SwiftGuide): Swift Featured Projects in brain Mapping
 * [Dimillian/SwiftHN](https://github.com/Dimillian/SwiftHN): A Hacker News reader in Swift
@@ -4319,6 +4323,7 @@
 * [videojs/videojs-contrib-dash](https://github.com/videojs/videojs-contrib-dash): Video.js plugin for supporting the MPEG-DASH playback through a video.js player
 * [videojs/videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls): HLS library for video.js
 * [videojs/videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels): None
+* [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
 * [chrisboustead/videojs-vtt-thumbnails](https://github.com/chrisboustead/videojs-vtt-thumbnails): Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg and youtube-dl / yt-dlp
@@ -4487,6 +4492,7 @@
 * [ohoachuck/wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader): WWDC 2019 video downloader script written in Swift - no external dependency.
 * [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh): READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh 
 * [videolan/x265](https://github.com/videolan/x265): https://bitbucket.org/multicoreware/x265/ git mirror
+* [futzu/x9k3](https://github.com/futzu/x9k3): x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
 * [xbmc/xbmc](https://github.com/xbmc/xbmc): Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 * [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild): Xcode-compatible build tool.
