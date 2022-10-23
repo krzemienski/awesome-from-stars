@@ -3136,6 +3136,8 @@
 * [kevinzhow/PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift): A simple and beautiful chart lib used in Piner and CoinsMan for iOS(https://github.com/kevinzhow/PNChart) Swift Implementation 
 * [righettod/poc-graphql](https://github.com/righettod/poc-graphql): Research on GraphQL from an AppSec point of view.
 * [0xdevalias/poc-kubernetes-batch](https://github.com/0xdevalias/poc-kubernetes-batch): PoC to create a new k8s Job using the Golang API, making use of Init Containers.
+* [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android): Pocket Casts Android 🎧
+* [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios): Pocket Casts iOS app 🎧
 * [Re4son/Pocket-Kali-live-build](https://github.com/Re4son/Pocket-Kali-live-build): Debian live build for the Pocket-Kali
 * [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo): Go microservice template for Kubernetes
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
@@ -3377,6 +3379,7 @@
 * [peerdavid/remapy](https://github.com/peerdavid/remapy): An open source explorer for your remarkable tablet to  show, upload or delete files via the remarkable cloud.
 * [richeymichael/remarkable-assistant](https://github.com/richeymichael/remarkable-assistant): Manage templates, splash screens, and settings on your reMarkable tablet
 * [fenollp/reMarkable-tools](https://github.com/fenollp/reMarkable-tools): Tools for the reMarkable paper tablet
+* [danielgatis/rembg](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background.
 * [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence): Self-Hosted Bookmark And Archive Manager
 * [johnno1962/Remote](https://github.com/johnno1962/Remote): Control your iPhone from inside Xcode for end-to-end testing.
 * [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter): Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
@@ -3949,6 +3952,7 @@
 * [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift): A handy collection of more than 500 native Swift extensions to boost your productivity.
 * [sunlubo/SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg): A Swift wrapper for the FFmpeg API
 * [rahul0x24/SwiftFrameworkTemplate](https://github.com/rahul0x24/SwiftFrameworkTemplate): A template for new Swift iOS / macOS / tvOS / watchOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file 
+* [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen): The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 * [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen): The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 * [ipader/SwiftGuide](https://github.com/ipader/SwiftGuide): Swift Featured Projects in brain Mapping
 * [Dimillian/SwiftHN](https://github.com/Dimillian/SwiftHN): A Hacker News reader in Swift

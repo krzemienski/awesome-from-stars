@@ -230,6 +230,12 @@
     "AutoFixture/AutoFixture": [
         "Other"
     ],
+    "Automattic/pocket-casts-android": [
+        "Other"
+    ],
+    "Automattic/pocket-casts-ios": [
+        "Other"
+    ],
     "AvdLee/appstoreconnect-swift-sdk": [
         "Other"
     ],
@@ -4836,6 +4842,9 @@
         "Other"
     ],
     "danielchatfield/trello-desktop": [
+        "Other"
+    ],
+    "danielgatis/rembg": [
         "Other"
     ],
     "danielgindi/Charts": [
