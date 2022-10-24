@@ -599,7 +599,7 @@
 * [lostintime/aws-s3-webdav](https://github.com/lostintime/aws-s3-webdav): Basic AWS S3 WebDAV interface implemented in Rust
 * [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java): The official AWS SDK for Java.
 * [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2): The official AWS SDK for Java - Version 2
-* [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+* [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 * [awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber): This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions which allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
 * [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
