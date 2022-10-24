@@ -2024,6 +2024,7 @@
 * [Eyevinn/hls-playlist-parser](https://github.com/Eyevinn/hls-playlist-parser): A Javascript library to parse Hls playlists
 * [kanongil/hls-playlist-reader](https://github.com/kanongil/hls-playlist-reader): Read playlist & updates from an HLS url
 * [Eyevinn/hls-proxy](https://github.com/Eyevinn/hls-proxy): NPM library for proxying HLS requests
+* [warren-bank/HLS-Proxy](https://github.com/warren-bank/HLS-Proxy): Node.js server to proxy HLS video streams
 * [evoactivity/hls-proxy-docker](https://github.com/evoactivity/hls-proxy-docker): Docker to setup HLS Proxy
 * [Eyevinn/hls-relay](https://github.com/Eyevinn/hls-relay): Script to pull HLS stream from one origin and push to another origin
 * [m1k1o/hls-restream](https://github.com/m1k1o/hls-restream): Restream live content as HLS using ffmpeg in docker. Also with NVIDIA GPU hardware acceleration.
