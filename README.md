@@ -2697,7 +2697,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): API first development platform
+* [micro/micro](https://github.com/micro/micro): An API first development runtime
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
@@ -3806,7 +3806,7 @@
 * [GitHawkApp/Squawk](https://github.com/GitHawkApp/Squawk): Quick & interactive iOS alerts in Swift.
 * [squid-cache/squid](https://github.com/squid-cache/squid): Squid Web Proxy Cache
 * [SRGSSR/srgmediaplayer-apple](https://github.com/SRGSSR/srgmediaplayer-apple): An advanced media player library, simple and reliable
-* [ossrs/srs](https://github.com/ossrs/srs): SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
+* [ossrs/srs](https://github.com/ossrs/srs): SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 * [Haivision/srt](https://github.com/Haivision/srt): Secure, Reliable, Transport
 * [SLIB53/srt-broadcaster](https://github.com/SLIB53/srt-broadcaster): This is a simple Docker setup for broadcasting a video stream using SRT and HLS.
 * [Eyevinn/srt-metadata-extractor](https://github.com/Eyevinn/srt-metadata-extractor): None
