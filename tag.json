@@ -5546,9 +5546,6 @@
     "electron-react-boilerplate/examples": [
         "Other"
     ],
-    "electron-userland/electron-forge": [
-        "Other"
-    ],
     "electron/apps": [
         "Other"
     ],
@@ -5562,6 +5559,9 @@
         "Other"
     ],
     "electron/fiddle": [
+        "Other"
+    ],
+    "electron/forge": [
         "Other"
     ],
     "electron/simple-samples": [
