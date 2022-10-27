@@ -800,6 +800,9 @@
     "EbookFoundation/free-programming-books": [
         "Other"
     ],
+    "Edward-Wu/srt-live-server": [
+        "Other"
+    ],
     "Eeems-Org/oxide": [
         "Other"
     ],
@@ -7799,6 +7802,12 @@
     "koalalorenzo/python-digitalocean": [
         "Other"
     ],
+    "kodecocodes/objective-c-style-guide": [
+        "Other"
+    ],
+    "kodecocodes/swift-algorithm-club": [
+        "Other"
+    ],
     "kodekloudhub/certified-kubernetes-administrator-course": [
         "Other"
     ],
@@ -10503,12 +10512,6 @@
         "Other"
     ],
     "raviranjan0309/Flask-NGINX-Gunicorn-Docker-Kubernetes": [
-        "Other"
-    ],
-    "raywenderlich/objective-c-style-guide": [
-        "Other"
-    ],
-    "raywenderlich/swift-algorithm-club": [
         "Other"
     ],
     "rclone/rclone": [

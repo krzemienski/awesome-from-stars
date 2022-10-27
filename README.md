@@ -2960,7 +2960,7 @@
 * [LTNGlobal-opensource/obe-rt](https://github.com/LTNGlobal-opensource/obe-rt): Open Broadcast Encoder Realtime
 * [datitran/object_detector_app](https://github.com/datitran/object_detector_app): Real-Time Object Recognition App with Tensorflow and OpenCV
 * [objectbox/objectbox-performance](https://github.com/objectbox/objectbox-performance): Performance Benchmarking App for ObjectBox, SQLite(via Room and greenDAO), Realm
-* [raywenderlich/objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide): A style guide that outlines the coding conventions for raywenderlich.com
+* [kodecocodes/objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide): A style guide that outlines the coding conventions for raywenderlich.com
 * [crunchyroll/objective_perceptual_analysis](https://github.com/crunchyroll/objective_perceptual_analysis): Objective Perceptual Analysis - Compression Karma Predictor
 * [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron): Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object’s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes
 * [konkor/obmin](https://github.com/konkor/obmin): File Sharing Server
@@ -3809,6 +3809,7 @@
 * [ossrs/srs](https://github.com/ossrs/srs): SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 * [Haivision/srt](https://github.com/Haivision/srt): Secure, Reliable, Transport
 * [SLIB53/srt-broadcaster](https://github.com/SLIB53/srt-broadcaster): This is a simple Docker setup for broadcasting a video stream using SRT and HLS.
+* [Edward-Wu/srt-live-server](https://github.com/Edward-Wu/srt-live-server): srt live server for low latency 
 * [Eyevinn/srt-metadata-extractor](https://github.com/Eyevinn/srt-metadata-extractor): None
 * [mbugeia/srt2hls](https://github.com/mbugeia/srt2hls):  Simple audio HLS streaming server based on Liquidsoap
 * [Haivision/srtgo](https://github.com/Haivision/srtgo): Go bindings for SRT. Advantages of SRT technology for an easy to use programming language
@@ -3905,7 +3906,7 @@
 * [openstack/swift](https://github.com/openstack/swift): OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 * [tensorflow/swift](https://github.com/tensorflow/swift): Swift for TensorFlow
 * [soapyigu/Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects): 30 mini Swift Apps for self-study
-* [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club): Algorithms and data structures in Swift, with explanations!
+* [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club): Algorithms and data structures in Swift, with explanations!
 * [wabzqem/swift-api-k8s](https://github.com/wabzqem/swift-api-k8s): Swift + K8s
 * [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser): Straightforward, type-safe argument parsing for Swift
 * [Mybridge/swift-articles](https://github.com/Mybridge/swift-articles): Monthly Series - Top 10 Angular Articles
