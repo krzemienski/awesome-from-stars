@@ -3030,7 +3030,7 @@
 * [RehabMan/OS-X-Voodoo-PS2-Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller): Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad
 * [dkhamsing/osia](https://github.com/dkhamsing/osia): :octocat: iOS app to browse open-source-ios-apps
 * [compuccino/osk-encoder-validator](https://github.com/compuccino/osk-encoder-validator): A web based tool to check live encoders output on rtmp/srt streams.
-* [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+* [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 * [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse): FUSE extends macOS by adding support for user space file systems
 * [donmelton/other_video_transcoding](https://github.com/donmelton/other_video_transcoding): Other tools to transcode videos.
 * [Eyevinn/ott-multiview](https://github.com/Eyevinn/ott-multiview): This is a web based multiview screen for HLS and MPEG-DASH streams based on hls.js and Shaka Player.
