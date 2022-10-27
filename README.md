@@ -519,7 +519,7 @@
 * [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 * [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable): A curated list of awesome Scriptable scripts and widgets.
-* [Suishenyun/awesome-scripts](https://github.com/Suishenyun/awesome-scripts): useful scripts for Linux op
+* [Wekoi/awesome-scripts](https://github.com/Wekoi/awesome-scripts): useful scripts for Linux op
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [Jinxiansen/Awesome-Server-Side-Swift](https://github.com/Jinxiansen/Awesome-Server-Side-Swift):  Swift 服务端开发 Perfect、Vapor资料。
 * [cak/awesome-server-side-swift](https://github.com/cak/awesome-server-side-swift): A community curated list of resources about Server Side Swift
