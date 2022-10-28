@@ -3607,7 +3607,7 @@
 * [owncloud-docker/server](https://github.com/owncloud-docker/server): Docker image for ownCloud community edition
 * [evertramos/server-automation](https://github.com/evertramos/server-automation): None
 * [rymcol/Server-Side-Swift-Benchmarking](https://github.com/rymcol/Server-Side-Swift-Benchmarking): This repository houses server-side swift & node.js projects used for benchmarking server-side swift frameworks. 
-* [aws/serverless-application-model](https://github.com/aws/serverless-application-model): AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+* [aws/serverless-application-model](https://github.com/aws/serverless-application-model): The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 * [adghayes/serverless-ffmpeg](https://github.com/adghayes/serverless-ffmpeg): serverless function for transcoding audio and video with ffmpeg
 * [awslabs/serverless-subtitles](https://github.com/awslabs/serverless-subtitles): Serverless Subtitles can handle a video input, extract the sound, transcript it and generate different subtitle files for your video.
 * [sahin/serverless-youtube-dl](https://github.com/sahin/serverless-youtube-dl): Amazon Lambda - Serverless youtube-dl
