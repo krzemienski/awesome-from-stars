@@ -3296,6 +3296,9 @@
     "apioo/fusio": [
         "Other"
     ],
+    "apivideo/browserLiveStream": [
+        "Other"
+    ],
     "apivideo/ingest.new": [
         "Other"
     ],
@@ -13350,6 +13353,9 @@
         "Other"
     ],
     "ziishaned/deployer": [
+        "Other"
+    ],
+    "zimbatm/ffmpeg-static": [
         "Other"
     ],
     "zimujiang/TinyClip": [

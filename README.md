@@ -729,6 +729,7 @@
 * [britecharts/britecharts](https://github.com/britecharts/britecharts): Composable Charting Library based on reusable D3.js components.
 * [22bulbs/brom](https://github.com/22bulbs/brom): Highly configurable, local auditing of HTTP transactions
 * [txthinking/brook](https://github.com/txthinking/brook): A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
+* [apivideo/browserLiveStream](https://github.com/apivideo/browserLiveStream): Use webcam, browser and Node to stream live video. From api.video (https://api.video)
 * [sjbarag/brs](https://github.com/sjbarag/brs): An interpreter for the BrightScript language that runs on non-Roku platforms.
 * [sjbarag/brs-testbed](https://github.com/sjbarag/brs-testbed): A simple, buildable Roku channel that executes arbitrary BrightScript files.
 * [ravager/brs-utils](https://github.com/ravager/brs-utils): Utilities for Roku development
@@ -1585,6 +1586,7 @@
 * [zsiec/ffmpeg-quality](https://github.com/zsiec/ffmpeg-quality): A docker image that contains ffmpeg w/libvmaf
 * [slhck/ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics): Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF, VIF)
 * [Saurabh702/ffmpeg-scale-benchmark](https://github.com/Saurabh702/ffmpeg-scale-benchmark): None
+* [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static): Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 * [kevinGodell/ffmpeg-streamer](https://github.com/kevinGodell/ffmpeg-streamer): ffmpeg-streamer is a packaged nodejs express server that wraps ffmpeg to allow easy streaming of video feeds directly to modern browsers for testing purposes. It currently includes 6 different types of output streaming which are mjpeg, jpeg via socket.io, progressive mp4, native hls, hls.js, and mse via socket.io. Video input types supported are rtsp, mp4, mjpeg, and hls.
 * [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc): Stream video from ffmpeg to web(rtc)
 * [mpenkov/ffmpeg-tutorial](https://github.com/mpenkov/ffmpeg-tutorial): A set of tutorials that demonstrates how to write a video player based on FFmpeg
