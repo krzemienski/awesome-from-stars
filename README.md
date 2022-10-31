@@ -2545,7 +2545,7 @@
 * [intuit/LocationManager](https://github.com/intuit/LocationManager): Easily get the device's current location on iOS.
 * [zhuorantan/LocationPicker](https://github.com/zhuorantan/LocationPicker): A ready for use and fully customizable location picker for your app
 * [sobri909/LocoKit](https://github.com/sobri909/LocoKit): Location, motion, and activity recording framework for iOS
-* [locustio/locust](https://github.com/locustio/locust): Scalable user load testing tool written in Python
+* [locustio/locust](https://github.com/locustio/locust): Scalable load testing tool written in Python
 * [lvcabral/Lode-Runner-Roku](https://github.com/lvcabral/Lode-Runner-Roku): Remake of the classsic game Lode Runner (1983) for Roku Streaming Box
 * [shogo4405/Logboard](https://github.com/shogo4405/Logboard): Simple logging framework for your framework project.
 * [shogo4405/LogboardConsole](https://github.com/shogo4405/LogboardConsole): iOS, macOS, tvOS, watchOS Debugging Tool, Logging console via Network.
