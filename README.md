@@ -1702,7 +1702,7 @@
 * [nathangitter/fluid-interfaces](https://github.com/nathangitter/fluid-interfaces): Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces"
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
 * [flutter/flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-* [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
+* [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
 * [tonydeng/fmj](https://github.com/tonydeng/fmj): FMJ (FFMpeg for Java)。通过Java调用FFMpeg命令的方式来对音视频进行处理（获取信息、截图等等）。
 * [unifiedstreaming/fmp4-ingest](https://github.com/unifiedstreaming/fmp4-ingest): Repository on shared work on developing a fragmented MPEG-4 ingest specification
 * [Eyevinn/fmp4-js](https://github.com/Eyevinn/fmp4-js): A Javascript library to parse ISO Base Media File Format (MPEG-4 Part 12)
