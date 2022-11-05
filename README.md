@@ -2549,7 +2549,6 @@
 * [locustio/locust](https://github.com/locustio/locust): Scalable load testing tool written in Python
 * [lvcabral/Lode-Runner-Roku](https://github.com/lvcabral/Lode-Runner-Roku): Remake of the classsic game Lode Runner (1983) for Roku Streaming Box
 * [shogo4405/Logboard](https://github.com/shogo4405/Logboard): Simple logging framework for your framework project.
-* [shogo4405/LogboardConsole](https://github.com/shogo4405/LogboardConsole): iOS, macOS, tvOS, watchOS Debugging Tool, Logging console via Network.
 * [getlogbook/logbook](https://github.com/getlogbook/logbook): A cool logging replacement for Python.
 * [bstiel/loggerutils](https://github.com/bstiel/loggerutils): Python drop-in replacement for logging.Formatter. Provides additional context info. 
 * [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter): An animated avatar that responds to text field interactions
