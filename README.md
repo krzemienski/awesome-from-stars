@@ -768,7 +768,7 @@
 * [CacherApp/cacher-cli](https://github.com/CacherApp/cacher-cli): The command line interface to Cacher.
 * [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [ben-manes/caffeine](https://github.com/ben-manes/caffeine): A high performance caching library for Java
-* [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng): ☕ Tray bar application able to temporarily inhibits the screensaver and sleep mode.
+* [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng):  ⚠ This project has migrated to codeberg.org
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
 * [xing/calabash-launcher](https://github.com/xing/calabash-launcher): iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac.
 * [icorn/Calibrate](https://github.com/icorn/Calibrate): A tvOS app for the AppleTV which checks your TV or projector with several test patterns.
