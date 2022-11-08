@@ -1913,7 +1913,7 @@
 * [cjbassi/gotop](https://github.com/cjbassi/gotop): A terminal based graphical activity monitor inspired by gtop and vtop
 * [Comcast/gots](https://github.com/Comcast/gots): MPEG Transport Stream handling in Go
 * [acaudwell/Gource](https://github.com/acaudwell/Gource): software version control visualization
-* [gpac/gpac](https://github.com/gpac/gpac): Modular Multimedia framework for packaging, streaming and playing your favorite content.
+* [gpac/gpac](https://github.com/gpac/gpac): Modular Multimedia framework for packaging, streaming and playing your favorite content, see http://netflix.gpac.io
 * [gpac/gpac-testing-linux](https://github.com/gpac/gpac-testing-linux): None
 * [stockmind/gpd-pocket-screen-indicator](https://github.com/stockmind/gpd-pocket-screen-indicator): Screen and touch rotation helper and indicator for GPD Pocket
 * [stockmind/gpd-pocket-ubuntu-respin](https://github.com/stockmind/gpd-pocket-ubuntu-respin): Collection of scripts and tweaks to adapt Ubuntu and Linux Mint ISO images to let them run smooth on GPD Pocket
