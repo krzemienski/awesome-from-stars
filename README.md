@@ -158,7 +158,7 @@
 * [ajenti/ajenti](https://github.com/ajenti/ajenti): Ajenti Core and stock plugins
 * [innFactory/akka-cluster-k8s](https://github.com/innFactory/akka-cluster-k8s): Deployment of an akka cluster on AWS/Google Kubernetes [EXAMPLE]
 * [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
-* [snapcrafters/alacritty](https://github.com/snapcrafters/alacritty): A cross-platform, GPU enhanced terminal emulator
+* [snapcrafters/alacritty](https://github.com/snapcrafters/alacritty):  A community-maintained package to easily install Alacritty on Linux 
 * [tunix/alacritty-snap](https://github.com/tunix/alacritty-snap): A cross-platform, GPU enhanced terminal emulator
 * [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire): Elegant HTTP Networking in Swift
 * [kaegi/alass](https://github.com/kaegi/alass): "Automatic Language-Agnostic Subtitle Synchronization"
@@ -1982,7 +1982,7 @@
 * [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos): Hello LaunchDarkly for tvOS
 * [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 * [helm/helm](https://github.com/helm/helm): The Kubernetes Package Manager
-* [snapcrafters/helm](https://github.com/snapcrafters/helm): The Kubernetes package manager
+* [snapcrafters/helm](https://github.com/snapcrafters/helm):  A community-maintained package to easily install Helm on Linux 
 * [ContainerSolutions/helm-convert](https://github.com/ContainerSolutions/helm-convert): Convert Helm charts into Kustomize compatible package
 * [fluxcd/helm-operator](https://github.com/fluxcd/helm-operator): Successor: https://github.com/fluxcd/helm-controller — The Flux Helm Operator, once upon a time a solution for declarative Helming.
 * [daemonza/helmet](https://github.com/daemonza/helmet): Helmet is a easy to use Helm repository 
