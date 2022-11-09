@@ -3799,7 +3799,7 @@
 * [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset): offset-free paging for sqlalchemy
 * [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc): Generate type-safe code from SQL
 * [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui): A simple and lightweight SQL client desktop with cross database and platform support.
-* [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A SQL linter and auto-formatter for Humans
+* [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 * [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool
 * [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel): SQL databases in Python, designed for simplicity, compatibility, and robustness.
 * [launchbadge/sqlx](https://github.com/launchbadge/sqlx): 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
