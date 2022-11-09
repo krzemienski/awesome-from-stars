@@ -2000,7 +2000,7 @@
 * [raspu/Highlightr](https://github.com/raspu/Highlightr): iOS & OSX Syntax Highlighter. 
 * [willowtreeapps/hinoki](https://github.com/willowtreeapps/hinoki): A Language Server Protocol implementation for BrightScript
 * [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader): :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-* [emilyplusplus/hldata](https://github.com/emilyplusplus/hldata): Realtime data logging application that flows from embedded device, to cloud/server/database, to output visualization. Uses modern technology to achieve data analytics quickly and for low cost.
+* [emilyofficial/hldata](https://github.com/emilyofficial/hldata): Realtime data logging application that flows from embedded device, to cloud/server/database, to output visualization. Uses modern technology to achieve data analytics quickly and for low cost.
 * [epiclabs-io/hls-analyzer](https://github.com/epiclabs-io/hls-analyzer): Analyzer for HTTP Live Streams (HLS) content
 * [777777miSSU7777777/hls-audio-player](https://github.com/777777miSSU7777777/hls-audio-player): Self-written and cross-browser HLS audio player
 * [GitNK/HLS-Audio-Player](https://github.com/GitNK/HLS-Audio-Player): Application that parses audio from HTTP Live Stream, converts to mp4 and plays it.
