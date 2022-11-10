@@ -1325,6 +1325,7 @@
 * [dracula/dracula-theme](https://github.com/dracula/dracula-theme): 🧛🏻‍♂️ One theme. All platforms.
 * [Alexis-benoist/draw-compose](https://github.com/Alexis-benoist/draw-compose): Render Docker compose files.
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
+* [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams): Diagrams for draw.io
 * [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg): Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 * [thiagolioy/dribbbleIos](https://github.com/thiagolioy/dribbbleIos): Client Ios for dribbble API
 * [thiagolioy/dribbleswift](https://github.com/thiagolioy/dribbleswift): dribbleIos
