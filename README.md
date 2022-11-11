@@ -337,7 +337,7 @@
 * [async-rs/async-std](https://github.com/async-rs/async-std): Async version of the Rust standard library
 * [jonathanslenders/asyncio-redis](https://github.com/jonathanslenders/asyncio-redis): Redis client for Python asyncio (PEP 3156)
 * [briancoyner/AsyncWorkflow](https://github.com/briancoyner/AsyncWorkflow): Techniques for building "async workflows" using `NSOperation` and `NSOperationQueue`.
-* [athensresearch/athens](https://github.com/athensresearch/athens): Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
+* [athensresearch/athens](https://github.com/athensresearch/athens): ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [willowtreeapps/atom-ide-brightscript](https://github.com/willowtreeapps/atom-ide-brightscript): None
 * [facebookarchive/atom-ide-ui](https://github.com/facebookarchive/atom-ide-ui): A collection of user interfaces for Atom IDE.
