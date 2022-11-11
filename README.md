@@ -843,7 +843,7 @@
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
 * [CircleCI-Public/circleci-demo-aws-ecs-ecr](https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr): A demo project for deployment to AWS ECS from ECR on CircleCI 2.0. 
 * [CircleCI-Public/circleci-demo-docker](https://github.com/CircleCI-Public/circleci-demo-docker): Example application using Docker running on CircleCI 2.0
-* [CircleCI-Public/circleci-dockerfiles](https://github.com/CircleCI-Public/circleci-dockerfiles): Dockerfiles for CircleCI's convenience images, built via https://github.com/circleci/circleci-images
+* [CircleCI-Archived/circleci-dockerfiles](https://github.com/CircleCI-Archived/circleci-dockerfiles): Dockerfiles for CircleCI's convenience images, built via https://github.com/circleci/circleci-images
 * [circleci/circleci-docs](https://github.com/circleci/circleci-docs): Documentation for CircleCI.
 * [circleci/circleci-images](https://github.com/circleci/circleci-images): Scripts to generate images for building projects on CircleCI 2.0
 * [ecnepsnai/Cirrus](https://github.com/ecnepsnai/Cirrus): Archive of the Cirrus iOS App Source Code.

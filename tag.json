@@ -428,6 +428,9 @@
     "Ciphey/Ciphey": [
         "Other"
     ],
+    "CircleCI-Archived/circleci-dockerfiles": [
+        "Other"
+    ],
     "CircleCI-Public/aws-ecr-orb": [
         "Other"
     ],
@@ -438,9 +441,6 @@
         "Other"
     ],
     "CircleCI-Public/circleci-demo-docker": [
-        "Other"
-    ],
-    "CircleCI-Public/circleci-dockerfiles": [
         "Other"
     ],
     "CircleCI-Public/dockerfile-wizard": [
