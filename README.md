@@ -1424,6 +1424,7 @@
 * [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten): Emscripten: An LLVM-to-WebAssembly Compiler
 * [harvard-dce/encode-for-mediasource](https://github.com/harvard-dce/encode-for-mediasource): Encodes a video file so that it can be played as a MediaSource in the browser. Installs ffmpeg and bento, then runs the appropriate commands with them.
 * [CloudNcodeInc/EncodeBox](https://github.com/CloudNcodeInc/EncodeBox): Watch-folder that transcode the input media files to various output formats (adaptive streaming)
+* [facebookresearch/encodec](https://github.com/facebookresearch/encodec): State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 * [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI): EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 * [kennell/encodeplz](https://github.com/kennell/encodeplz): video transcoding server with a HTTP-based RESTful API
 * [ystv/EncodeSrv](https://github.com/ystv/EncodeSrv): A database-driven ffmpeg based batch video transcoder, used to automate YSTV video distribution
@@ -1467,6 +1468,7 @@
 * [kubeflow/examples](https://github.com/kubeflow/examples): A repository to host extended examples and tutorials
 * [kubernetes/examples](https://github.com/kubernetes/examples): Kubernetes application example tutorials
 * [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers): 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+* [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 * [weinbergerlab/excess_pi_covid](https://github.com/weinbergerlab/excess_pi_covid): Estimating excess mortality due to P&I in the US related to COVID-19
 * [intoli/exodus](https://github.com/intoli/exodus): Painless relocation of Linux binaries–and all of their dependencies–without containers.
 * [google/ExoPlayer](https://github.com/google/ExoPlayer): An extensible media player for Android
@@ -1567,6 +1569,7 @@
 * [bramp/ffmpeg-cli-wrapper](https://github.com/bramp/ffmpeg-cli-wrapper): Java wrapper around the FFmpeg command line tool
 * [scrwdrv/ffmpeg-command](https://github.com/scrwdrv/ffmpeg-command): A simple ffmpeg and ffprobe child process handler, easy to add commands and execute
 * [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander): 🛠️ FFmpeg Command Generator Web UI
+* [transitive-bullshit/ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat): Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 * [romansavrulin/ffmpeg-cuda-docker](https://github.com/romansavrulin/ffmpeg-cuda-docker): use nvenc/nvdec with docker 19.x
 * [slhck/ffmpeg-debug-qp](https://github.com/slhck/ffmpeg-debug-qp): FFmpeg Debug Script for QP Values
 * [slhck/ffmpeg-encoding-course](https://github.com/slhck/ffmpeg-encoding-course): An introduction to FFmpeg and its tools
@@ -2953,6 +2956,7 @@
 * [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21): NYU Deep Learning Spring 2021
 * [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt): Nyxt - the hacker's power-browser.
 * [nzbget/nzbget](https://github.com/nzbget/nzbget): Efficient Usenet Downloader
+* [cdwv/oas3-api-snippet-enricher](https://github.com/cdwv/oas3-api-snippet-enricher): Enrich your OpenAPI 3.0 JSON with code samples
 * [oatpp/oatpp](https://github.com/oatpp/oatpp): 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 * [oatpp/oatpp-examples](https://github.com/oatpp/oatpp-examples): List of example projects of how to use oat++ framework
 * [p2/OAuth2](https://github.com/p2/OAuth2): OAuth2 framework for macOS and iOS, written in Swift.
@@ -3082,6 +3086,8 @@
 * [HirokiUmatani/PEAR-ZoomingView-iOS](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS): None
 * [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
+* [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet): Work in progress...
+* [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools): A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
 * [penpot/penpot](https://github.com/penpot/penpot): Penpot - The Open-Source design & prototyping platform
 * [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): Custom pentesting tools
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
@@ -3209,6 +3215,7 @@
 * [giampaolo/psutil](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [JohnSundell/Publish](https://github.com/JohnSundell/Publish): A static site generator for Swift developers
+* [StanfordSNR/puffer](https://github.com/StanfordSNR/puffer): Puffer is a free live TV streaming website and a research study at Stanford using machine learning to improve video streaming
 * [Ventto/pug](https://github.com/Ventto/pug): Automatically Gist-synchronises Pacman & AUR installed package lists.
 * [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired database library for Python
 * [sturob/pullstar](https://github.com/sturob/pullstar): Pull all the repos you've starred from GitHub

@@ -2333,6 +2333,9 @@
     "SquaredTiki/Dringend-Issues": [
         "Other"
     ],
+    "StanfordSNR/puffer": [
+        "Other"
+    ],
     "Starttoaster/docker-traefik": [
         "Other"
     ],
@@ -4337,6 +4340,9 @@
     "cdwv/awesome-helm": [
         "Other"
     ],
+    "cdwv/oas3-api-snippet-enricher": [
+        "Other"
+    ],
     "cedrickchee/awesome-wireguard": [
         "Other"
     ],
@@ -5753,6 +5759,9 @@
     "excalibur-kvrv/m3u8-dl": [
         "Other"
     ],
+    "excalidraw/excalidraw": [
+        "Other"
+    ],
     "exegersha/network-benchmark": [
         "Other"
     ],
@@ -5865,6 +5874,9 @@
         "Other"
     ],
     "facebookresearch/SlowFast": [
+        "Other"
+    ],
+    "facebookresearch/encodec": [
         "Other"
     ],
     "facert/awesome-spider": [
@@ -7053,6 +7065,9 @@
         "Other"
     ],
     "ityouknow/spring-boot-examples": [
+        "Other"
+    ],
+    "ivan-sincek/penetration-testing-cheat-sheet": [
         "Other"
     ],
     "ivanschuetz/SwiftCharts": [
@@ -8838,6 +8853,9 @@
         "Other"
     ],
     "mgalgs/gnome-shell-system-monitor-applet": [
+        "Other"
+    ],
+    "mgeeky/Penetration-Testing-Tools": [
         "Other"
     ],
     "mhaller/pyffmpeg": [
@@ -12261,6 +12279,9 @@
         "Other"
     ],
     "transitive-bullshit/awesome-ffmpeg": [
+        "Other"
+    ],
+    "transitive-bullshit/ffmpeg-concat": [
         "Other"
     ],
     "transitive-bullshit/nextjs-notion-starter-kit": [
