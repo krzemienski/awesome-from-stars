@@ -1758,7 +1758,7 @@
 * [gaphor/gaphor](https://github.com/gaphor/gaphor): Gaphor is the simple modeling tool
 * [gardener/gardener](https://github.com/gardener/gardener): Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
 * [sdslabs/gasper](https://github.com/sdslabs/gasper): Your Cloud in a Binary
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): Build blazing fast, modern apps and websites with React
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The fastest frontend for the headless web. Build modern websites with React.
 * [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter): Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
 * [charjac/gatsby-plugin-linkedin-resume](https://github.com/charjac/gatsby-plugin-linkedin-resume): None
 * [smakosh/gatsby-portfolio-dev](https://github.com/smakosh/gatsby-portfolio-dev): A portfolio for developers
