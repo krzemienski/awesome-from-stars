@@ -1148,6 +1148,9 @@
     "Guake/guake": [
         "Other"
     ],
+    "HHK1/PryntTrimmerView": [
+        "Other"
+    ],
     "HR/github-clone": [
         "Other"
     ],
@@ -1260,6 +1263,9 @@
         "Other"
     ],
     "Intel-Media-SDK/MediaSDK": [
+        "Other"
+    ],
+    "IrosTheBeggar/mStream": [
         "Other"
     ],
     "Itiviti/simple-slack-api": [
@@ -4481,6 +4487,9 @@
     "cicdops/awesome-ciandcd": [
         "Other"
     ],
+    "cilium/cilium": [
+        "Other"
+    ],
     "cinatic/kubectl-extension": [
         "Other"
     ],
@@ -4536,6 +4545,9 @@
         "Other"
     ],
     "cloudflare/cloudflared": [
+        "Other"
+    ],
+    "cloudflare/stream-react": [
         "Other"
     ],
     "cloudkj/scar": [
@@ -5957,6 +5969,9 @@
     "fent/node-m3u8stream": [
         "Other"
     ],
+    "fethica/FRadioPlayer": [
+        "Other"
+    ],
     "fffaraz/awesome-cpp": [
         "Other"
     ],
@@ -6879,6 +6894,9 @@
         "Other"
     ],
     "illuspas/Node-Media-Server": [
+        "Other"
+    ],
+    "illuspas/Node-Media-Server-Admin": [
         "Other"
     ],
     "ilstam/FF-Multi-Converter": [
@@ -9261,6 +9279,9 @@
         "Other"
     ],
     "nana-4/materia-theme": [
+        "Other"
+    ],
+    "naomiaro/waveform-playlist": [
         "Other"
     ],
     "naoty/Timepiece": [

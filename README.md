@@ -839,6 +839,7 @@
 * [shilgam/ci_tools](https://github.com/shilgam/ci_tools): Popular CI/CD Tools Comparison: Travis, CircleCI, Gitlab CI, Codeship Pro
 * [robertsanseries/ciano](https://github.com/robertsanseries/ciano): A multimedia file converter focused on simplicity.
 * [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which support multiple platform Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is providing a player core which support multi platform, hardware accelerator, customizable and extensible features. Which support WideVine drm and LL-HLS dash.
+* [cilium/cilium](https://github.com/cilium/cilium): eBPF-based Networking, Security, and Observability
 * [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
 * [CircleCI-Public/circleci-demo-aws-ecs-ecr](https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr): A demo project for deployment to AWS ECS from ECR on CircleCI 2.0. 
@@ -1725,6 +1726,7 @@
 * [jackrobertscott/forge](https://github.com/jackrobertscott/forge): 🏹 Free and open source developer tool.
 * [jonan/ForkHub](https://github.com/jonan/ForkHub): GitHub client for Android based on the abandoned official app
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
+* [fethica/FRadioPlayer](https://github.com/fethica/FRadioPlayer): A simple radio player framework for iOS, macOS, tvOS.
 * [attaswift/FrameworkTemplate](https://github.com/attaswift/FrameworkTemplate): My template for new cross-platform Swift frameworks
 * [ruanyf/free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -2485,6 +2487,7 @@
 * [libav/libav](https://github.com/libav/libav): Libav github mirror, clone of git://git.libav.org/libav
 * [szatmary/libcaption](https://github.com/szatmary/libcaption): Free open-source CEA608 / CEA708 closed-caption encoder/decoder
 * [bitmovin/libdash](https://github.com/bitmovin/libdash): MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
+* [bitmovin/libdash](https://github.com/bitmovin/libdash): MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
 * [strukturag/libde265.js](https://github.com/strukturag/libde265.js): JavaScript-only version of libde265 HEVC/H.265 decoder.
 * [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs): golang library to read and write various subtitle formats
 * [ithewei/libhv](https://github.com/ithewei/libhv): 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
@@ -2785,6 +2788,7 @@
 * [pricingassistant/mrq](https://github.com/pricingassistant/mrq): Mr. Queue - A distributed worker task queue in Python using Redis & gevent
 * [cpearce/mse-eme](https://github.com/cpearce/mse-eme): Demo of ClearKey EME content playing via MSE
 * [msaps/MSSTabbedPageViewController](https://github.com/msaps/MSSTabbedPageViewController): [DEPRECATED] A container UIViewController that provides a simple to implement page view controller with scrolling tab bar.
+* [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream): The easiest music streaming server available
 * [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy): None
 * [mallowigi/mtslack](https://github.com/mallowigi/mtslack): Customize your Slack experience with tweaks and themes. Includes the famous Material Themes as well as other popular themes such as Monokai Pro, Dracula, Atom One, GitHub, Solarized, Night Owl...
 * [RonRothman/mtwsgi](https://github.com/RonRothman/mtwsgi): A Multithreaded Python WSGI Implementation
@@ -2900,6 +2904,7 @@
 * [michaelkourlas/node-js2xmlparser](https://github.com/michaelkourlas/node-js2xmlparser): Popular Node.js module for parsing JavaScript objects into XML
 * [fent/node-m3u8stream](https://github.com/fent/node-m3u8stream): Concatenates segments from a m3u8/dash-mpd playlist into a consumable stream.
 * [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server): A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
+* [illuspas/Node-Media-Server-Admin](https://github.com/illuspas/Node-Media-Server-Admin): None
 * [sindresorhus/node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate): Boilerplate to kickstart creating a Node.js module
 * [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android): Make Node.JS apps for Android
 * [ankbul/node-rats](https://github.com/ankbul/node-rats): Node Realtime Analytics and Tracking Server
@@ -3209,6 +3214,7 @@
 * [NVIDIA/proxyfs](https://github.com/NVIDIA/proxyfs): None
 * [facebook/proxygen](https://github.com/facebook/proxygen): A collection of C++ HTTP libraries including an easy to use HTTP server.
 * [unprofession-al/proxyproxy](https://github.com/unprofession-al/proxyproxy): A proxy that handles your corporate proxies for you
+* [HHK1/PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView): A set of tools to trim, crop and select frames inside a video
 * [Jahaja/psdash](https://github.com/Jahaja/psdash): A linux system information web dashboard using psutils and flask
 * [Eyevinn/pseudo-live-playout](https://github.com/Eyevinn/pseudo-live-playout): None
 * [feedsbrain/pssh-tools](https://github.com/feedsbrain/pssh-tools): Tools to generate PSSH Data and PSSH Box
@@ -3862,6 +3868,7 @@
 * [rowrawer/stream-detector](https://github.com/rowrawer/stream-detector): A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files.
 * [Eyevinn/stream-limit-api](https://github.com/Eyevinn/stream-limit-api): Example of a simple implementation to build a stream limit api on top of Redis
 * [vbence/stream-m](https://github.com/vbence/stream-m): An HTML5-compatible live streaming server supporting the WebM and H.264 formats.
+* [cloudflare/stream-react](https://github.com/cloudflare/stream-react): None
 * [muxinc/stream.new](https://github.com/muxinc/stream.new): The repo for https://stream.new
 * [streamaserver/streama](https://github.com/streamaserver/streama): Self hosted streaming media server. https://docs.streama-project.com/
 * [airbnb/streamalert](https://github.com/airbnb/streamalert): StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
@@ -4443,6 +4450,7 @@
 * [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip): This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. 
 * [h2oai/wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python and R
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
+* [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist): Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
 * [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web
