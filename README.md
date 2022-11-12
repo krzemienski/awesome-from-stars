@@ -2487,7 +2487,6 @@
 * [libav/libav](https://github.com/libav/libav): Libav github mirror, clone of git://git.libav.org/libav
 * [szatmary/libcaption](https://github.com/szatmary/libcaption): Free open-source CEA608 / CEA708 closed-caption encoder/decoder
 * [bitmovin/libdash](https://github.com/bitmovin/libdash): MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
-* [bitmovin/libdash](https://github.com/bitmovin/libdash): MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
 * [strukturag/libde265.js](https://github.com/strukturag/libde265.js): JavaScript-only version of libde265 HEVC/H.265 decoder.
 * [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs): golang library to read and write various subtitle formats
 * [ithewei/libhv](https://github.com/ithewei/libhv): 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
@@ -2909,6 +2908,7 @@
 * [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android): Make Node.JS apps for Android
 * [ankbul/node-rats](https://github.com/ankbul/node-rats): Node Realtime Analytics and Tracking Server
 * [bschlenk/node-roku-client](https://github.com/bschlenk/node-roku-client): Discover and control Roku devices with NodeJS.
+* [waleedahmad/node-stream](https://github.com/waleedahmad/node-stream): RTMP server in Nodejs for live streaming. 
 * [nikhilm/node-taglib](https://github.com/nikhilm/node-taglib): Simple taglib bindings to Javascript using node.js
 * [realm/node-template-project](https://github.com/realm/node-template-project): A template for your Node and TypeScript Project with Visual Studio Code Debugging!
 * [estliberitas/node-thumbnails-webvtt](https://github.com/estliberitas/node-thumbnails-webvtt): Video thumbnail generator generating WebVTT spec file
