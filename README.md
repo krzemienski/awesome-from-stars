@@ -412,6 +412,7 @@
 * [avTranscoder/avTranscoder](https://github.com/avTranscoder/avTranscoder): C++ API for LibAV / FFMpeg
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition): A curated list of action recognition and related area resources
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide): The guide of awesome list about AI
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
@@ -2682,6 +2683,7 @@
 * [cbsinteractive/mediainfo](https://github.com/cbsinteractive/mediainfo): A wrapper for libmediainfo -- returns metadata about media streams
 * [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [stackrock/mediamachinejava](https://github.com/stackrock/mediamachinejava): Java SDK for Video Transcoding, Thumbnails extraction & Video Summarization. MediaMachine API lets you convert videos between different web-ready formats - perfect for processing & resizing user-generated videos. Uses machine-learning to select the best frame as thumbnail for videos & creates video summaries similar to NLP for articles.
+* [google/mediapipe](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 * [Intel-Media-SDK/MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK): The Intel® Media SDK
 * [iliya-gr/mediasegmenter](https://github.com/iliya-gr/mediasegmenter): HLS media segmenter.
 * [demuxed/megameetup.video](https://github.com/demuxed/megameetup.video): None

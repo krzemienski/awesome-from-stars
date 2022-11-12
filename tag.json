@@ -6407,6 +6407,9 @@
     "google/ktsan": [
         "Other"
     ],
+    "google/mediapipe": [
+        "Other"
+    ],
     "google/promises": [
         "Other"
     ],
@@ -7314,6 +7317,9 @@
         "Other"
     ],
     "jinmingjian/sourcekite": [
+        "Other"
+    ],
+    "jinwchoi/awesome-action-recognition": [
         "Other"
     ],
     "jkarthic-akamai/ABR-Broadcaster": [
