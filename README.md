@@ -605,7 +605,7 @@
 * [awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber): This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions which allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
 * [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
-* [ansible/awx](https://github.com/ansible/awx): AWX Project
+* [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 * [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom): An FFmpeg GUI for Windows
 * [monadgroup/axiom](https://github.com/monadgroup/axiom): A powerful realtime node-based audio synthesizer.
 * [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
@@ -2680,7 +2680,6 @@
 * [francoism90/mediadb-app](https://github.com/francoism90/mediadb-app): Quasar v2 (Vue 3) + TypeScript
 * [francoism90/mediadb-ui](https://github.com/francoism90/mediadb-ui): MediaDB UI for https://github.com/francoism90/mediadb
 * [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
-* [cbsinteractive/mediainfo](https://github.com/cbsinteractive/mediainfo): A wrapper for libmediainfo -- returns metadata about media streams
 * [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [stackrock/mediamachinejava](https://github.com/stackrock/mediamachinejava): Java SDK for Video Transcoding, Thumbnails extraction & Video Summarization. MediaMachine API lets you convert videos between different web-ready formats - perfect for processing & resizing user-generated videos. Uses machine-learning to select the best frame as thumbnail for videos & creates video summaries similar to NLP for articles.
 * [google/mediapipe](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
@@ -4141,7 +4140,6 @@
 * [drichardson/transcode](https://github.com/drichardson/transcode): batch transcode video files with ffmpeg
 * [kees/transcode](https://github.com/kees/transcode): Video Transcoding Tools
 * [rdavid/transcode](https://github.com/rdavid/transcode): Tool to transcode, inspect and convert videos
-* [cbsinteractive/transcode-orchestrator](https://github.com/cbsinteractive/transcode-orchestrator): Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously https://github.com/cbsinteractive/video-transcoding-api
 * [monking/transcode-web-video](https://github.com/monking/transcode-web-video): Quickly transcode a source video to MP4, OGV, and WebM, with scale, bitrate, and screengrab options.
 * [amaurypm/transcode2H265](https://github.com/amaurypm/transcode2H265): Unattended video transcoder to H265 and ACC codecs, in MKV containers.
 * [vmf/transcode2resolve](https://github.com/vmf/transcode2resolve): Transcode a video file to a format that DaVinci Resolve for Linux can easily work with
