@@ -462,7 +462,7 @@
 * [balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos): Curated list of references for development of DOS applications.
 * [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
 * [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron): Useful resources for creating apps with Electron
-* [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management): Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+* [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management): Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 * [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi): A curated list of awesome things related to FastAPI
 * [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 👻 A curated list of awesome FFmpeg resources.
 * [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask): A curated list of awesome Flask resources and plugins
@@ -905,7 +905,7 @@
 * [Dash-Industry-Forum/codem-isoboxer](https://github.com/Dash-Industry-Forum/codem-isoboxer): A lightweight browser-based MPEG-4 (ISOBMFF) file/box parser.
 * [madebyhiro/codem-transcode](https://github.com/madebyhiro/codem-transcode): Offline video transcoder written in node.js
 * [codemirror/codemirror5](https://github.com/codemirror/codemirror5): In-browser code editor (version 5, legacy)
-* [coder/coder](https://github.com/coder/coder): Remote development environments on your infrastructure provisioned with Terraform
+* [coder/coder](https://github.com/coder/coder): Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
