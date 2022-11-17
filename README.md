@@ -1031,7 +1031,7 @@
 * [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists): Curated lists on various topics
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
-* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible, Strest or JSON
+* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
 * [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver): Framework for implementing custom metrics support for Kubernetes
 * [rizinorg/cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin
@@ -3049,7 +3049,7 @@
 * [thijsl/ott-resources](https://github.com/thijsl/ott-resources): A collection of resources related to OTT and streaming.
 * [Eyevinn/ottmeasure](https://github.com/Eyevinn/ottmeasure): A simple http proxy to monitor and measure your OTT consumption
 * [willowtreeapps/ouroboros](https://github.com/willowtreeapps/ouroboros): Infinitely scrolling carousel for tvOS
-* [outline/outline](https://github.com/outline/outline): The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+* [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 * [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client): Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 * [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server): Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
