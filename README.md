@@ -3095,7 +3095,7 @@
 * [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet): Work in progress...
 * [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools): A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
 * [penpot/penpot](https://github.com/penpot/penpot): Penpot - The Open-Source design & prototyping platform
-* [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): A collection of custom security tools.
+* [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): A collection of custom security tools for quick needs.
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 * [antoinehng/per-title-analysis](https://github.com/antoinehng/per-title-analysis): Analysis provider for adapting your OTT bitrate ladder
 * [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect): Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
