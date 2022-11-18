@@ -6050,9 +6050,6 @@
     "fluxcd/helm-operator": [
         "Other"
     ],
-    "flych3r/cloud-computing-video-subtitles": [
-        "Other"
-    ],
     "flyingrub/scdl": [
         "Other"
     ],
@@ -9240,6 +9237,9 @@
         "Other"
     ],
     "muxinc/vmaf_analyzer": [
+        "Other"
+    ],
+    "mxaviersmp/cloud-computing-video-subtitles": [
         "Other"
     ],
     "mxcl/Path.swift": [

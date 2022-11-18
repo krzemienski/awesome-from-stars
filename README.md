@@ -865,7 +865,7 @@
 * [Dids/clobber](https://github.com/Dids/clobber): A command line application for building Clover.
 * [HansHammel/clone-all-github-repos](https://github.com/HansHammel/clone-all-github-repos): None
 * [tegon/clone-org-repos](https://github.com/tegon/clone-org-repos): :octocat: Clone github organization repositories
-* [flych3r/cloud-computing-video-subtitles](https://github.com/flych3r/cloud-computing-video-subtitles): Project developed for the Cloud Computing 2020.1 class. We built a service to add translated subtitles to videos using AWS services.
+* [mxaviersmp/cloud-computing-video-subtitles](https://github.com/mxaviersmp/cloud-computing-video-subtitles): Project developed for the Cloud Computing 2020.1 class. We built a service to add translated subtitles to videos using AWS services.
 * [xyk2/cloud-transcoder](https://github.com/xyk2/cloud-transcoder): Transcoding long (>1 hour) videos quickly and cost-effectively on GCP to adaptive HLS and MP4 mezzanine files. Up to 40x $ savings.
 * [LINKIWI/cloudflare-ddns-client](https://github.com/LINKIWI/cloudflare-ddns-client): Linux client for automatic dynamic DNS updates on CloudFlare-managed domains
 * [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared): Cloudflare Tunnel client (formerly Argo Tunnel)
