@@ -466,6 +466,7 @@
 * [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi): A curated list of awesome things related to FastAPI
 * [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 👻 A curated list of awesome FFmpeg resources.
 * [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask): A curated list of awesome Flask resources and plugins
+* [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask): A curated list of awesome things related to Flask
 * [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter): An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 * [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
