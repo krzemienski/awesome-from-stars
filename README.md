@@ -2513,6 +2513,7 @@
 * [gokselkoksal/Lightning](https://github.com/gokselkoksal/Lightning): Lightning provides components to make Swift development easier.
 * [alibaba/lightproxy](https://github.com/alibaba/lightproxy): 💎 Cross platform Web debugging proxy
 * [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
+* [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev): Google-searchable Slack alternative for Communities
 * [talhasch/ling](https://github.com/talhasch/ling): REST client
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
 * [krzysztofzablocki/LinkedConsole](https://github.com/krzysztofzablocki/LinkedConsole): Clickable links in your Xcode console, so you never wonder which class logged the message.
