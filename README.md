@@ -469,6 +469,7 @@
 * [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask): A curated list of awesome things related to Flask
 * [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter): An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 * [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
+* [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers): None
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile READMEs 📝
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
@@ -1457,6 +1458,7 @@
 * [balena-io/etcher](https://github.com/balena-io/etcher): Flash OS images to SD cards & USB drives, safely and easily.
 * [Ether-CLI/Ether](https://github.com/Ether-CLI/Ether): A Command-Line Interface for the Swift Package Manager
 * [microsoft/ethr](https://github.com/microsoft/ethr): Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
+* [etro-js/etro](https://github.com/etro-js/etro): Typescript video-editing framework for the browser and Node
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
 * [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
@@ -1895,6 +1897,7 @@
 * [abema/go-mp4](https://github.com/abema/go-mp4): Go library for reading and writing MP4 file
 * [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd): Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files
 * [kevholditch/go-pagerduty-slack-sync](https://github.com/kevholditch/go-pagerduty-slack-sync): A small app to sync pagerduty on call groups to slack groups
+* [tmrts/go-patterns](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms
 * [DataDog/go-python3](https://github.com/DataDog/go-python3): Go bindings to the CPython-3 API
 * [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes): 🦩 Tools for Go projects
 * [cwinging/go-segment](https://github.com/cwinging/go-segment): golang video segment tool, convert mp4 to hls format
@@ -3130,6 +3133,7 @@
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
 * [keithieopia/piu](https://github.com/keithieopia/piu): Cross platform package manager wrapper
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
+* [GottaYotta/PixelSDK](https://github.com/GottaYotta/PixelSDK): The modern photo and video editor for your iPhone / iPad app. A fully customizable image & video editing iOS Swift framework.
 * [antoinehng/pixelwalker](https://github.com/antoinehng/pixelwalker): Video encoding quality assessment platform
 * [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability
 * [anatol/pkgoutofdate](https://github.com/anatol/pkgoutofdate): Checks ArchLinux packages repository for upstream updates
@@ -4244,6 +4248,7 @@
 * [ubports/unity8](https://github.com/ubports/unity8): The operating environment for everywhere.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
+* [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
 * [twostraws/Unwrap](https://github.com/twostraws/Unwrap): Learn Swift interactively on your iPhone.
 * [railsware/upterm](https://github.com/railsware/upterm): A terminal emulator for the 21st century.
