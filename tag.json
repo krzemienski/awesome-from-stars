@@ -4088,6 +4088,9 @@
     "bobbyiliev/introduction-to-bash-scripting": [
         "Other"
     ],
+    "bookwyrm-social/bookwyrm": [
+        "Other"
+    ],
     "bookyo/express-ffmpeg": [
         "Other"
     ],
@@ -4488,6 +4491,9 @@
         "Other"
     ],
     "chromebrew/chromebrew": [
+        "Other"
+    ],
+    "chubin/cheat.sh": [
         "Other"
     ],
     "cic1988/autosub-docker": [
@@ -6524,6 +6530,9 @@
     "groundnuty/k8s-wait-for": [
         "Other"
     ],
+    "gsantiago/subtitle.js": [
+        "Other"
+    ],
     "gsingers/slack-jira-plugin": [
         "Other"
     ],
@@ -7350,6 +7359,9 @@
         "Other"
     ],
     "jlarriba/astounding": [
+        "Other"
+    ],
+    "jlevy/the-art-of-command-line": [
         "Other"
     ],
     "jliljebl/flowblade": [
@@ -9084,6 +9096,9 @@
         "Other"
     ],
     "ml-lab/DeepVideoAnalytics": [
+        "Other"
+    ],
+    "mli/autocut": [
         "Other"
     ],
     "mlsmithjr/transcoder": [

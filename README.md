@@ -375,6 +375,7 @@
 * [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [sunhailin-Leo/AutoConfigShellScript](https://github.com/sunhailin-Leo/AutoConfigShellScript): Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV, Keras, Tensorflow(CPU Mode) and other relative environment.
+* [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc): PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 * [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture): AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
 * [akordadev/AutoLayoutMagic](https://github.com/akordadev/AutoLayoutMagic): Build 1 scene, let AutoLayoutMagic generate the constraints for you!
@@ -694,6 +695,7 @@
 * [andela-sjames/Bookmeapi](https://github.com/andela-sjames/Bookmeapi): Demonstrate the power of GraphQL with Python/Django
 * [dushan14/books-store](https://github.com/dushan14/books-store): A Simple Web application to use flask python web framework. 
 * [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack): A platform to create documentation/wiki content built with PHP & Laravel
+* [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm): Social reading and reviewing, decentralized with ActivityPub
 * [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App): Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 * [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy): This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 * [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile): Boostnote for iOS and Android 🚀
@@ -822,6 +824,7 @@
 * [danielgindi/Charts](https://github.com/danielgindi/Charts): Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * [helm/charts](https://github.com/helm/charts): ⚠️(OBSOLETE) Curated applications for Kubernetes
 * [badoo/Chatto](https://github.com/badoo/Chatto): A lightweight framework to build chat applications, made in Swift
+* [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4): :book: Kubernetes CheatSheets In A4
 * [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai): Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 * [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain): Parser Building Toolkit for JavaScript
@@ -3905,6 +3908,7 @@
 * [cessen/subs_extract](https://github.com/cessen/subs_extract): Extracts per-sentence subtitles + audio from a subtitle file + video file.
 * [sc0ty/subsync](https://github.com/sc0ty/subsync): Subtitle Speech Synchronizer
 * [tympanix/subsync](https://github.com/tympanix/subsync): Synchronize your subtitles using machine learning
+* [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js): Stream-based library for parsing and manipulating subtitle files
 * [active-video/subtitles](https://github.com/active-video/subtitles): AV Platform MPEG DASH subtitles
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
@@ -4081,6 +4085,7 @@
 * [ianzhao05/textshot](https://github.com/ianzhao05/textshot): Python tool for grabbing text via screenshot
 * [TextureGroup/Texture](https://github.com/TextureGroup/Texture): Smooth asynchronous user interfaces for iOS apps.
 * [thanos-io/thanos](https://github.com/thanos-io/thanos): Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+* [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [yadox666/The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit): The best hacker's gadgets for Red Team pentesters and security researchers.
 * [nvbn/thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command.
