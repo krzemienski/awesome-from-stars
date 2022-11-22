@@ -2609,6 +2609,9 @@
     "Wolg/awesome-swift": [
         "Other"
     ],
+    "WowzaMediaSystems/webrtc-examples": [
+        "Other"
+    ],
     "XCTEQ/SwiftPackageManager-Docker": [
         "Other"
     ],
@@ -3903,6 +3906,9 @@
         "Other"
     ],
     "beetbox/beets": [
+        "Other"
+    ],
+    "begeekmyfriend/yasea": [
         "Other"
     ],
     "belltown/Roku-JSONDecoder": [
@@ -5401,6 +5407,9 @@
     ],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
+    ],
+    "drwpow/openapi-typescript": [
+        "Other"
     ],
     "dsbmac/variety-goodreads-quotes": [
         "Other"
@@ -6920,10 +6929,16 @@
     "ilyalissoboi/twitch_downloader": [
         "Other"
     ],
+    "imDazui/Tvlist-awesome-m3u-m3u8": [
+        "Other"
+    ],
     "imageio/imageio-ffmpeg": [
         "Other"
     ],
     "imfunniee/gitfolio": [
+        "Other"
+    ],
+    "imgly/pesdk-ios-build": [
         "Other"
     ],
     "imkira/go-libav": [
@@ -7842,6 +7857,9 @@
         "Other"
     ],
     "knot2afrayed/Focus-Notes": [
+        "Other"
+    ],
+    "koala-interactive/wowza-webrtc-player": [
         "Other"
     ],
     "koalalorenzo/python-digitalocean": [

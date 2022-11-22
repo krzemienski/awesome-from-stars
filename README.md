@@ -3012,6 +3012,7 @@
 * [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [ErikWittern/openapi-snippet](https://github.com/ErikWittern/openapi-snippet): Generates code snippets for given Swagger / Open API documents
+* [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from Swagger OpenAPI specs
 * [opencv/opencv](https://github.com/opencv/opencv): Open Source Computer Vision Library
 * [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader): Indexes open directories
 * [ouropencode/OpenDocumenter](https://github.com/ouropencode/OpenDocumenter): OpenDocumenter is a automatic documentation generator for OpenAPI v3 schemas. Simply provide your schema file in JSON or YAML, then sit back and enjoy the documentation.
@@ -3106,6 +3107,7 @@
 * [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect): Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
 * [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit): Universal API for request permission and get its statuses.
 * [Yalantis/Persei](https://github.com/Yalantis/Persei): Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
+* [imgly/pesdk-ios-build](https://github.com/imgly/pesdk-ios-build): PhotoEditor SDK: A fully customizable photo editor for your app.
 * [pfsense/pfsense](https://github.com/pfsense/pfsense): Main repository for pfSense
 * [acoustid/pg_acoustid](https://github.com/acoustid/pg_acoustid): PostgreSQL extension for working with AcoustID fingerprints
 * [photonstorm/phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -4186,6 +4188,7 @@
 * [kb-dk/tv-subtitle-extraction](https://github.com/kb-dk/tv-subtitle-extraction): System for extraction of subtitles from TV broadcasts.
 * [Eyevinn/tv.eyevinn.technology](https://github.com/Eyevinn/tv.eyevinn.technology): None
 * [jinSasaki/TVKit](https://github.com/jinSasaki/TVKit): UI components for tvOS
+* [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 * [bwhiteley/TVMediaPlayer](https://github.com/bwhiteley/TVMediaPlayer): A media player view controller for tvOS similar to AVPlayerViewController, but not limited to AVPlayer.
 * [sanketfirodiya/tvOS](https://github.com/sanketfirodiya/tvOS): Curated list of tutorials and sample apps for tvOS
 * [toshi0383/tvOS-10-Sampler](https://github.com/toshi0383/tvOS-10-Sampler): Some new stuff for tvOS 10...
@@ -4465,6 +4468,7 @@
 * [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent): A WebDriver server for iOS and tvOS
 * [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): A WebDriver server for iOS that runs inside the Simulator.
 * [webiny/webiny-js](https://github.com/webiny/webiny-js): Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+* [WowzaMediaSystems/webrtc-examples](https://github.com/WowzaMediaSystems/webrtc-examples): WebRTC Examples
 * [vapor/websocket-kit](https://github.com/vapor/websocket-kit): WebSocket client library built on SwiftNIO
 * [glut23/webvtt-py](https://github.com/glut23/webvtt-py): Read, write and segment WebVTT caption files in Python.
 * [opencoconut/webvtt-ruby](https://github.com/opencoconut/webvtt-ruby): WebVTT Ruby parser and segmenter
@@ -4506,6 +4510,7 @@
 * [passingthru67/workspaces-to-dock](https://github.com/passingthru67/workspaces-to-dock): A gnome shell extension that transforms the workspaces into an intellihide dock
 * [theychx/WorkspaceSwitcherWrapAround](https://github.com/theychx/WorkspaceSwitcherWrapAround): Gnome Shell Workspace Switch Wraparound Extension
 * [pmusolino/Wormholy](https://github.com/pmusolino/Wormholy): iOS network debugging, like a wizard 🧙‍♂️
+* [koala-interactive/wowza-webrtc-player](https://github.com/koala-interactive/wowza-webrtc-player): WebRTC player for Wowza live video streaming platform
 * [JohnSundell/Wrap](https://github.com/JohnSundell/Wrap): [DEPRECATED] The easy to use Swift JSON encoder
 * [christgau/wsdd](https://github.com/christgau/wsdd): A Web Service Discovery host daemon.
 * [mar10/wsgidav](https://github.com/mar10/wsgidav): A generic and extendable WebDAV server based on WSGI
@@ -4548,6 +4553,7 @@
 * [moshfeu/y2mp3](https://github.com/moshfeu/y2mp3): An Electron app to download youtube playlist
 * [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv): YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 * [lukasbach/yana](https://github.com/lukasbach/yana): Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
+* [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea): RTMP live streaming client for Android
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [wader/ydls](https://github.com/wader/ydls): youtube-dl HTTP download and transcode service
 * [CatchChat/Yep](https://github.com/CatchChat/Yep): Meet Genius
