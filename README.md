@@ -2754,7 +2754,7 @@
 * [mongodb/mongo-swift-driver](https://github.com/mongodb/mongo-swift-driver): The official MongoDB driver for Swift
 * [gedzeppelin/monitor-window-switcher](https://github.com/gedzeppelin/monitor-window-switcher): GNOME shell extension to improve dual (or more) monitor experience
 * [mono/monodevelop](https://github.com/mono/monodevelop): MonoDevelop is a cross platform .NET IDE
-* [dylantmarsh/monokai-vibrant](https://github.com/dylantmarsh/monokai-vibrant): A very dark and overly vibrant Monokai theme for VS Code with italicized keywords and operators.
+* [dylantmarsh/monokai-vibrant](https://github.com/dylantmarsh/monokai-vibrant): A very dark and vibrant Monokai based theme for Visual Studio Code.
 * [mopidy/mopidy](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [acotilla91/Morse-Vision](https://github.com/acotilla91/Morse-Vision): More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text. 
 * [krad/morsel](https://github.com/krad/morsel): 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS.
