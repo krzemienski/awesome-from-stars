@@ -628,6 +628,7 @@
 * [backuppc/backuppc](https://github.com/backuppc/backuppc): BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 * [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 * [yagiz/Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
+* [krzemienski/bakery](https://github.com/krzemienski/bakery): HLS and DASH Manifest Service
 * [soldiermoth/bakery](https://github.com/soldiermoth/bakery): HLS and DASH Manifest Service
 * [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo): Next generation Wagtail demo, born in Reykjavik
 * [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter): Dynamically changes status bar style depending on content behind it
@@ -1038,6 +1039,7 @@
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
 * [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
+* [shigeyf/custom-manifest-proxy-webapi](https://github.com/shigeyf/custom-manifest-proxy-webapi): A simple Web API implementation of Custom Manifest for Adaptive Media Streaming
 * [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver): Framework for implementing custom metrics support for Kubernetes
 * [rizinorg/cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin
 * [x1wins/CW-OVP](https://github.com/x1wins/CW-OVP): video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (ruby on rails)
@@ -1124,6 +1126,7 @@
 * [kubevirt/demo](https://github.com/kubevirt/demo): Easy to use KubeVirt demo based on minikube.
 * [hasura/demo-apps](https://github.com/hasura/demo-apps): Config to deploy Hasura demo apps using Docker Compose
 * [realeyes-media/demo-encoder](https://github.com/realeyes-media/demo-encoder): A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3
+* [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 * [kubenav/deploy](https://github.com/kubenav/deploy): Deploy kubenav at Kubernetes.
 * [coder/deploy-code-server](https://github.com/coder/deploy-code-server): Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 * [Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS](https://github.com/Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS): None
@@ -1944,6 +1947,7 @@
 * [hasura/graphql-engine](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 * [groue/GRDB.swift](https://github.com/groue/GRDB.swift): A toolkit for SQLite databases, with a focus on application development
 * [500px/greedo-layout-for-ios](https://github.com/500px/greedo-layout-for-ios): Full aspect ratio grid layout for iOS
+* [zhihu/griffith](https://github.com/zhihu/griffith): A React-based web video player
 * [joeyespo/grip](https://github.com/joeyespo/grip): Preview GitHub README.md files locally before committing them.
 * [Grive/grive](https://github.com/Grive/grive): an open source Linux client for Google Drive
 * [teejee2008/groot](https://github.com/teejee2008/groot): Chroot helper utility for all Linux distributions
@@ -2041,6 +2045,7 @@
 * [kanongil/hls-playlist-reader](https://github.com/kanongil/hls-playlist-reader): Read playlist & updates from an HLS url
 * [Eyevinn/hls-proxy](https://github.com/Eyevinn/hls-proxy): NPM library for proxying HLS requests
 * [warren-bank/HLS-Proxy](https://github.com/warren-bank/HLS-Proxy): Node.js server to proxy HLS video streams
+* [sdesyllas/hls-proxy-aes-service](https://github.com/sdesyllas/hls-proxy-aes-service): How to make Token authorized AES encrypted HLS stream by injecting the token in the manifest
 * [evoactivity/hls-proxy-docker](https://github.com/evoactivity/hls-proxy-docker): Docker to setup HLS Proxy
 * [Eyevinn/hls-relay](https://github.com/Eyevinn/hls-relay): Script to pull HLS stream from one origin and push to another origin
 * [m1k1o/hls-restream](https://github.com/m1k1o/hls-restream): Restream live content as HLS using ffmpeg in docker. Also with NVIDIA GPU hardware acceleration.
@@ -2050,6 +2055,7 @@
 * [bentasker/HLS-Stream-Creator](https://github.com/bentasker/HLS-Stream-Creator): Simple Bash Script to take a media file, segment it and create an M3U8 playlist for serving using HLS
 * [imsanthosh/HLS-Stream-health-monitoring-tool](https://github.com/imsanthosh/HLS-Stream-health-monitoring-tool): HLS stream health monitoring utility tool provides an report of live HLS stream. This utility tool checks the all available bitrate streams and generates the report in html file format. HTML file is viewable in all devices phone/tablet/PC. Utility tool also recognizes #EXT-X-DISCONTINUITY tag in the stream. Validation will be done at the sub-mili seconds level. This tool also recongises custom markers in the stream, and validates marker position in all the available bitrates. This will save your time in finding stream issues just by looking at the report. This utility tool is created for on mac system and generated report can be viewable in all sytems/phones
 * [tozastation/HLS-Streaming](https://github.com/tozastation/HLS-Streaming): HLSを使ってみたです．
+* [muxinc/hls-subtitles-vexillographer](https://github.com/muxinc/hls-subtitles-vexillographer): A simple proxy service which changes subtitles flags in HLS manifests.
 * [Eyevinn/hls-to-dash](https://github.com/Eyevinn/hls-to-dash): Open source packager and tools to rewrap live HLS to live MPEG DASH
 * [egg-bread/hls-to-mp4](https://github.com/egg-bread/hls-to-mp4): Download HLS videos as MP4 (WebVTT for caption download optional)
 * [jordicenzano/hls-trimming-frame-accuracy](https://github.com/jordicenzano/hls-trimming-frame-accuracy): JS Code that given a group of HLS chunks, a start timestamp, and end timestamp it creates one MP4 that contains the original V/A frame accuracy trimmed and perfectly aligned
@@ -2630,6 +2636,8 @@
 * [jaimevalero/managing-awesome-lists](https://github.com/jaimevalero/managing-awesome-lists): Utilities to find awesome resources
 * [coreos/manifest](https://github.com/coreos/manifest): repo tool manifest for Container Linux sdk
 * [ingest/manifest](https://github.com/ingest/manifest): Video Manifest Parsers and Generators, supporting multiple formats such as HLS and DASH
+* [mauricioabreu/manifest-modifier](https://github.com/mauricioabreu/manifest-modifier): Video manifest modifier written in Rust
+* [ggn/manifestmanipulator](https://github.com/ggn/manifestmanipulator): Service which act a proxy between CDN and Manifest and allow you to manipulate same on the fly
 * [gitfu/manifesto](https://github.com/gitfu/manifesto): Manifesto is an HLS tool for creating multiple variants, a master.m3u8 file, and converting 608 captions to segmented webvtt subtitles via ffmpeg.
 * [immstudios/manitou](https://github.com/immstudios/manitou): MPEG-DASH manifests multiplexer
 * [LeandroRezendeCoutinho/manjaro-automated-setup](https://github.com/LeandroRezendeCoutinho/manjaro-automated-setup): This repo aims to simplify and automate developement environmemt for users of Manjaro Linux
@@ -2661,6 +2669,7 @@
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
 * [CosmicMind/Material](https://github.com/CosmicMind/Material): A UI/UX framework for creating beautiful applications.
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
+* [mui/material-ui](https://github.com/mui/material-ui): MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 * [matomo-org/matomo](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! 
 * [ietf-wg-cellar/matroska-specification](https://github.com/ietf-wg-cellar/matroska-specification): Matroska specification.
 * [buzzfeed/mattress](https://github.com/buzzfeed/mattress): iOS Offline Caching for Web Content
@@ -3017,6 +3026,7 @@
 * [ErikWittern/openapi-snippet](https://github.com/ErikWittern/openapi-snippet): Generates code snippets for given Swagger / Open API documents
 * [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from Swagger OpenAPI specs
 * [opencv/opencv](https://github.com/opencv/opencv): Open Source Computer Vision Library
+* [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream): OpenCV FFMpeg Live Video Stream over RTMP protocol.
 * [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader): Indexes open directories
 * [ouropencode/OpenDocumenter](https://github.com/ouropencode/OpenDocumenter): OpenDocumenter is a automatic documentation generator for OpenAPI v3 schemas. Simply provide your schema file in JSON or YAML, then sit back and enjoy the documentation.
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
@@ -3151,6 +3161,7 @@
 * [mafintosh/playback](https://github.com/mafintosh/playback): Video player built using electron and node.js
 * [piemonte/Player](https://github.com/piemonte/Player): ▶️ video player in Swift, simple way to play and stream media on iOS/tvOS
 * [pockethook/player](https://github.com/pockethook/player): FFmpeg and SDL2 video player
+* [embedly/player.js](https://github.com/embedly/player.js): Control embedded video and audio across multiple providers
 * [davidlondono/PlayerView](https://github.com/davidlondono/PlayerView): Player View is a delegated view using AVPlayer of Swift
 * [krzysztofzablocki/Playgrounds](https://github.com/krzysztofzablocki/Playgrounds): Better playgrounds that work both for Objective-C and Swift
 * [jaskie/PlayoutAutomation](https://github.com/jaskie/PlayoutAutomation): Television broadcast automation system
@@ -3436,6 +3447,7 @@
 * [mokoshalb/ReStreamer](https://github.com/mokoshalb/ReStreamer): A java app for restreaming live stream videos to another HLS source using FFMPEG
 * [shaunschembri/restreamer](https://github.com/shaunschembri/restreamer): Go application/library that re-streams an HLS stream through a Writer interface
 * [whittinghamj/restreamer-production](https://github.com/whittinghamj/restreamer-production): None
+* [leandromoreira/resty-bakery](https://github.com/leandromoreira/resty-bakery): An Nginx+Lua library to modify media manifests like HLS and MPEG Dash, acting like a proxy.
 * [sb2nov/resume](https://github.com/sb2nov/resume): Software developer resume in Latex
 * [ReSwift/ReSwift](https://github.com/ReSwift/ReSwift): Unidirectional Data Flow in Swift - Inspired by Redux
 * [ReSwift/ReSwift-Router](https://github.com/ReSwift/ReSwift-Router): Declarative Routing in Swift, Extension for ReSwift
@@ -3968,6 +3980,7 @@
 * [Ramotion/swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries): Swift UI libraries, iOS components and animations by @Ramotion
 * [pointfreeco/swift-validated](https://github.com/pointfreeco/swift-validated): 🛂 A result type that accumulates multiple errors.
 * [dev-labs-bg/swift-video-generator](https://github.com/dev-labs-bg/swift-video-generator): None
+* [gilesvangruisen/Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player): Swift library for embedding and controlling YouTube videos in your iOS applications via WKWebView!
 * [iharkatkavets/swift.tvos.focus-engine](https://github.com/iharkatkavets/swift.tvos.focus-engine): A tvOS example application for a local presentation 
 * [jorgenhenrichsen/SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio): Audio player for iOS
 * [tanhakabir/SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer): Streaming and realtime audio manipulation with AVAudioEngine

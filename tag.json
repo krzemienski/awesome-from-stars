@@ -5081,6 +5081,9 @@
     "dennyzhang/kubernetes-yaml-templates": [
         "Other"
     ],
+    "denoland/deno": [
+        "Other"
+    ],
     "denolib/awesome-deno": [
         "Other"
     ],
@@ -5625,6 +5628,9 @@
         "Other"
     ],
     "emacsfodder/emacs-theme-darktooth": [
+        "Other"
+    ],
+    "embedly/player.js": [
         "Other"
     ],
     "emgram769/lighthouse": [
@@ -6254,6 +6260,9 @@
     "getstalkr/stalkr-cloud": [
         "Other"
     ],
+    "ggn/manifestmanipulator": [
+        "Other"
+    ],
     "gholt/swiftly": [
         "Other"
     ],
@@ -6270,6 +6279,9 @@
         "Other"
     ],
     "gilbertchen/duplicacy": [
+        "Other"
+    ],
+    "gilesvangruisen/Swift-YouTube-Player": [
         "Other"
     ],
     "gin-gonic/gin": [
@@ -7358,6 +7370,9 @@
     "jklukas/docs-on-gh-pages": [
         "Other"
     ],
+    "jkuri/opencv-ffmpeg-rtmp-stream": [
+        "Other"
+    ],
     "jlarriba/astounding": [
         "Other"
     ],
@@ -7958,6 +7973,9 @@
     "krzemienski/awesome-video": [
         "Other"
     ],
+    "krzemienski/bakery": [
+        "Other"
+    ],
     "krzysztofzablocki/LifetimeTracker": [
         "Other"
     ],
@@ -8220,6 +8238,9 @@
         "Other"
     ],
     "leandromoreira/nott": [
+        "Other"
+    ],
+    "leandromoreira/resty-bakery": [
         "Other"
     ],
     "leandromoreira/video-containers-debugging-tools": [
@@ -8807,6 +8828,9 @@
     "matvp91/indigo-player": [
         "Other"
     ],
+    "mauricioabreu/manifest-modifier": [
+        "Other"
+    ],
     "mautilus/MAMUT": [
         "Other"
     ],
@@ -9251,6 +9275,9 @@
     "mugiseyebrows/mugi-ffmpeg": [
         "Other"
     ],
+    "mui/material-ui": [
+        "Other"
+    ],
     "mumoshu/terraform-provider-eksctl": [
         "Other"
     ],
@@ -9267,6 +9294,9 @@
         "Other"
     ],
     "muxinc/example-ios-live-streaming": [
+        "Other"
+    ],
+    "muxinc/hls-subtitles-vexillographer": [
         "Other"
     ],
     "muxinc/hlstools": [
@@ -11111,6 +11141,9 @@
     "scrwdrv/ffmpeg-command": [
         "Other"
     ],
+    "sdesyllas/hls-proxy-aes-service": [
+        "Other"
+    ],
     "sdras/awesome-actions": [
         "Other"
     ],
@@ -11256,6 +11289,9 @@
         "Other"
     ],
     "shiftkey/desktop": [
+        "Other"
+    ],
+    "shigeyf/custom-manifest-proxy-webapi": [
         "Other"
     ],
     "shilgam/ci_tools": [
@@ -13437,6 +13473,9 @@
         "Other"
     ],
     "zhhlmr/ZHPopupView": [
+        "Other"
+    ],
+    "zhihu/griffith": [
         "Other"
     ],
     "zhuhaow/Specht": [
