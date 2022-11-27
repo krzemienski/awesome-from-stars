@@ -4288,7 +4288,7 @@
 * [omaralbeik/UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore): Why not use UserDefaults to store Codable objects 😉
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [encode/uvicorn](https://github.com/encode/uvicorn): An ASGI web server, for Python. 🦄
-* [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker): Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.6 and above with performance auto-tuning. Optionally with Alpine Linux.
+* [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker): Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 * [pengchujin/v2rayDocker](https://github.com/pengchujin/v2rayDocker): 一键v2ray ws + tls 方便就完事了
 * [korandiz/v4l](https://github.com/korandiz/v4l): Facade to the Video4Linux video capture interface. 
