@@ -238,7 +238,7 @@
 * [Alterplay/APAddressBook](https://github.com/Alterplay/APAddressBook): Easy access to iOS address book
 * [JeanLebrument/APContact-EasyMapping](https://github.com/JeanLebrument/APContact-EasyMapping): Category to easily map APContact model with EasyMapping
 * [wulkano/aperture-node](https://github.com/wulkano/aperture-node): Record the screen on macOS from Node.js
-* [win0err/aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme): Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
+* [win0err/aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme): A minimalistic terminal theme (prompt) for sexy terminals that works in bash, fish and zsh
 * [microsoftarchive/api](https://github.com/microsoftarchive/api): The Wunderlist API Documentation
 * [xbrowsersync/api](https://github.com/xbrowsersync/api): Server-side REST API that serves requests from xBrowserSync client apps
 * [luckymarmot/API-Flow](https://github.com/luckymarmot/API-Flow): Universal data structure and converter for API formats (Swagger, RAML, Paw, Postman…)
