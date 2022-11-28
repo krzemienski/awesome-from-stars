@@ -3526,7 +3526,7 @@
 * [theREDspace/RSG-Doc](https://github.com/theREDspace/RSG-Doc): Roku scene graph documentation generator
 * [opensourceway/rsync-backup-script](https://github.com/opensourceway/rsync-backup-script): A script to accompany https://opensource.com/article/17/1/rsync-backup-linux
 * [contention/rsync-deployments](https://github.com/contention/rsync-deployments): GitHub Action for deploying code via rsync over ssh
-* [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX): A macOS GUI for rsync. Compiled for macOS Big Sur
+* [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX): A macOS GUI for rsync. Compiled for macOS Big Sur and later
 * [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server): a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 * [xiewei-wayne/rtmp-video-player-for-ios](https://github.com/xiewei-wayne/rtmp-video-player-for-ios): Based on FFEngine framework, a rtmp video player for apple iOS devices.
 * [rapidloop/rtop](https://github.com/rapidloop/rtop): rtop is an interactive, remote system monitoring tool based on SSH
