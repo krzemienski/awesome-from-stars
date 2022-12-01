@@ -2319,7 +2319,7 @@
 * [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py): JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
 * [json-api/json-api](https://github.com/json-api/json-api): A specification for building JSON APIs
 * [json-editor/json-editor](https://github.com/json-editor/json-editor): JSON Schema Based Editor
-* [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter): Makes JSON/JSONP easy to read.
+* [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter): Makes JSON easy to read.
 * [stleary/JSON-java](https://github.com/stleary/JSON-java): A reference implementation of a JSON package in Java.
 * [joebeachjoebeach/json-path-finder](https://github.com/joebeachjoebeach/json-path-finder): Web app to find the path of an item in a JSON object
 * [everit-org/json-schema](https://github.com/everit-org/json-schema): JSON Schema validator for java, based on the org.json API
