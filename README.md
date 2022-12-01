@@ -486,7 +486,7 @@
 * [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios): A collaborative list of awesome for iOS developers. Include quick preview.
 * [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios): A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 * [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture): :japanese_castle: Better ways to structure iOS apps
-* [damozhang/awesome-ios-star](https://github.com/damozhang/awesome-ios-star): All data is from https://github.com/vsouza/awesome-ios. I only add the GitHub star count to this list.  Update every day.
+* [damozhang/awesome-ios-star](https://github.com/damozhang/awesome-ios-star): All data is from https://github.com/vsouza/awesome-ios. Only the GitHub star count is added to this list.  Update every day.
 * [akullpp/awesome-java](https://github.com/akullpp/awesome-java): A curated list of awesome frameworks, libraries and software for the Java programming language.
 * [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books): Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
 * [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins): Curated list of kubectl plugins
@@ -911,7 +911,7 @@
 * [Dash-Industry-Forum/codem-isoboxer](https://github.com/Dash-Industry-Forum/codem-isoboxer): A lightweight browser-based MPEG-4 (ISOBMFF) file/box parser.
 * [madebyhiro/codem-transcode](https://github.com/madebyhiro/codem-transcode): Offline video transcoder written in node.js
 * [codemirror/codemirror5](https://github.com/codemirror/codemirror5): In-browser code editor (version 5, legacy)
-* [coder/coder](https://github.com/coder/coder): Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
+* [coder/coder](https://github.com/coder/coder): A tool that provisions remote development environments via Terraform
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
