@@ -1608,6 +1608,7 @@
 * [mpenkov/ffmpeg-tutorial](https://github.com/mpenkov/ffmpeg-tutorial): A set of tutorials that demonstrates how to write a video player based on FFmpeg
 * [tottokotkd/ffmpeg-tutorial-with-swift](https://github.com/tottokotkd/ffmpeg-tutorial-with-swift): None
 * [zhangpengyf/ffmpeg-tutorial-with-swift](https://github.com/zhangpengyf/ffmpeg-tutorial-with-swift): Translate "An ffmpeg and SDL Tutorial" to swift language
+* [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts): Shell scripts to create video slideshows using images and videos
 * [rupakg/ffmpeg-video-thumb](https://github.com/rupakg/ffmpeg-video-thumb): An end-to-end serverless application that extracts thumbnails from video files using AWS Fargate, AWS Lambda and the Serverless Framework.
 * [ddragosd/ffmpeg-vod-transcoder](https://github.com/ddragosd/ffmpeg-vod-transcoder): A micro-service with Springboot and Docker used to transcode a single video file in multiple formats, in the cloud.
 * [alfg/ffmpeg-webassembly-example](https://github.com/alfg/ffmpeg-webassembly-example): FFmpeg +  WebAssembly
@@ -2252,6 +2253,7 @@
 * [MarcusSmith/ipaHelper](https://github.com/MarcusSmith/ipaHelper): ipa file information and resigning script
 * [mikeash/iphone-user-performance-tests](https://github.com/mikeash/iphone-user-performance-tests): A utility for doing simple tests of an iOS device's user-facing performance, and some collected results.
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
+* [n-thumann/IPTV-ReStream](https://github.com/n-thumann/IPTV-ReStream): An app to forward source specific multicast streams via HTTP
 * [ipython/ipython](https://github.com/ipython/ipython): Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 * [ooyala/iq-sdk-roku-sample](https://github.com/ooyala/iq-sdk-roku-sample): None
 * [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
@@ -2310,6 +2312,7 @@
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
+* [nareix/joy5](https://github.com/nareix/joy5): AV toolkit
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
 * [jackie1in/jre-ffmpeg-apline](https://github.com/jackie1in/jre-ffmpeg-apline): Dockerfile [jre8](https://github.com/fabric8io-images/java) and [ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg) 
 * [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
@@ -2936,6 +2939,7 @@
 * [gkozlenko/node-video-lib](https://github.com/gkozlenko/node-video-lib): Node.js Video Library / MP4 & FLV parser / MP4 builder / HLS muxer
 * [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper): Download website to local directory (including all css, images, js, etc.)
 * [osk/node-webvtt](https://github.com/osk/node-webvtt): Parse WebVTT files, segments and generates HLS playlists for them
+* [googleapis/nodejs-video-live-stream](https://github.com/googleapis/nodejs-video-live-stream): None
 * [microsoft/nodejstools](https://github.com/microsoft/nodejstools): Node.js Tools for Visual Studio
 * [sgnl/nodeku](https://github.com/sgnl/nodeku): discover and control Roku devices with NodeJS
 * [mayeaux/nodetube](https://github.com/mayeaux/nodetube): Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
@@ -2977,6 +2981,7 @@
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA 
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
+* [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast): Audio and video casting system with support for custom applications.
 * [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21): NYU Deep Learning Spring 2021
 * [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt): Nyxt - the hacker's power-browser.
 * [nzbget/nzbget](https://github.com/nzbget/nzbget): Efficient Usenet Downloader
@@ -3547,6 +3552,7 @@
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
+* [canalplus/rx-player](https://github.com/canalplus/rx-player): DASH/Smooth HTML5 Video Player
 * [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive database for JavaScript Applications
 * [microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg): 🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片，抖音首页，视频播放器及支持 OpenSSL https 等主流特色功能
 * [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp):  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
