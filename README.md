@@ -802,7 +802,7 @@
 * [TysonWorks/cdk-examples](https://github.com/TysonWorks/cdk-examples): AWS CDK Examples Repository
 * [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s): Define Kubernetes native apps and abstractions using object-oriented programming
 * [OpenVisualCloud/CDN-Transcode-Sample](https://github.com/OpenVisualCloud/CDN-Transcode-Sample): Media transcoding is a key function for live video broadcasting, streaming, and video on demand use cases in a CDN network. The CDN Transcode sample (not a finished product) provides a reference pipeline to build an out-of-box 1:N CDN streaming transcode service example.
-* [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running): CDN Up and Running - an introduction about how modern CDNs works
+* [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running): CDN Up and Running - an introduction about how modern CDNs work
 * [Comcast/cea-extractor](https://github.com/Comcast/cea-extractor): Parsing and display logic for CEA-608 caption data in fragmented MP4 files.
 * [Dash-Industry-Forum/cea608.js](https://github.com/Dash-Industry-Forum/cea608.js): A JavaScript project designed to extract CEA-608 captions.
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
