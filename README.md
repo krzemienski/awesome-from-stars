@@ -1472,7 +1472,7 @@
 * [exaile/exaile](https://github.com/exaile/exaile): :notes: Cross-platform music player
 * [oatpp/example-hls-media-stream](https://github.com/oatpp/example-hls-media-stream): Example project how-to build HLS-streaming server using oat++ Async-API.
 * [muxinc/example-ios-live-streaming](https://github.com/muxinc/example-ios-live-streaming): An example app for live streaming from an iOS device using the Mux live streaming service.
-* [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app): Example Docker Compose app
+* [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app): Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 * [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications): Examples of WebRTC applications that are large, or use 3rd party libraries
 * [electron-react-boilerplate/examples](https://github.com/electron-react-boilerplate/examples): Electron React Boilerplate Examples
 * [fastlane/examples](https://github.com/fastlane/examples): 📝 A collection of example fastlane setups
