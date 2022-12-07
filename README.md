@@ -1141,7 +1141,6 @@
 * [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer
 * [desktop/desktop](https://github.com/desktop/desktop): Focus on what matters instead of fighting with Git.
 * [mattermost/desktop](https://github.com/mattermost/desktop): Mattermost Desktop application for Windows, Mac and Linux
-* [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop): an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 * [raindropio/desktop](https://github.com/raindropio/desktop): Official Raindrop.io Desktop App
 * [shiftkey/desktop](https://github.com/shiftkey/desktop): Fork of GitHub Desktop to support various Linux distributions
 * [standardnotes/desktop](https://github.com/standardnotes/desktop): [Moved to https://github.com/standardnotes/app] A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
@@ -2955,6 +2954,7 @@
 * [jaredallard/notion-app](https://github.com/jaredallard/notion-app): Notion for Linux
 * [sysdrum/notion-app](https://github.com/sysdrum/notion-app): Notion.so desktop application for Linux 
 * [konstantinmuenster/notion-clone](https://github.com/konstantinmuenster/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
+* [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer): an enhancer/customiser for the all-in-one productivity workspace notion.so
 * [yassenshopov/notion-gcal-sync](https://github.com/yassenshopov/notion-gcal-sync): A Python script to automate the syncing of tasks between Google Calendar and the all-in-one productivity workspace, Notion. It utilizes API and is customizable for your own needs. Free to use.
 * [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux): Native Notion packages for Linux
 * [jamalex/notion-py](https://github.com/jamalex/notion-py): Unofficial Python API client for Notion.so
