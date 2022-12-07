@@ -2959,7 +2959,7 @@
 * [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux): Native Notion packages for Linux
 * [jamalex/notion-py](https://github.com/jamalex/notion-py): Unofficial Python API client for Notion.so
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
-* [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): Official Notion SDK rewritten in Python (sync + async)
+* [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
 * [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox): This is a collection of Notion tools that work in tandem together.
 * [echo724/notion2md](https://github.com/echo724/notion2md): Notion Markdown Exporter with Python Cli
 * [kjk/notionapi](https://github.com/kjk/notionapi): Unofficial Go API for Notion.so
