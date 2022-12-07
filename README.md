@@ -1385,7 +1385,7 @@
 * [aws-samples/ecs-refarch-cloudformation](https://github.com/aws-samples/ecs-refarch-cloudformation):  A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)
 * [tongueroo/ecs-spot-demo](https://github.com/tongueroo/ecs-spot-demo): ECS and Spot Fleet Demo
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-* [codex-team/editor.js](https://github.com/codex-team/editor.js): A block-styled editor with clean JSON output
+* [codex-team/editor.js](https://github.com/codex-team/editor.js): A block-style editor with clean JSON output
 * [Comcast/eel](https://github.com/Comcast/eel): A simple proxy service to forward JSON events and transform or filter them along the way.
 * [achael/eht-imaging](https://github.com/achael/eht-imaging): Imaging, analysis, and simulation software for radio interferometry
 * [artsy/eidolon](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App.
