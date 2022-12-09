@@ -270,7 +270,7 @@
 * [appium-boneyard/appium-ci](https://github.com/appium-boneyard/appium-ci): Standalone gulp wrapper for appium ci.
 * [appium/appium-desktop](https://github.com/appium/appium-desktop): Appium Server in Desktop GUIs for Mac, Windows, and Linux
 * [appium/appium-event-parser](https://github.com/appium/appium-event-parser): Node CLI script to help parse event timing output from Appium scripts
-* [appium/appium-ios-simulator](https://github.com/appium/appium-ios-simulator): Module for interacting with iOS simulators (mainly directory-specific manipulations)
+* [appium/appium-ios-simulator](https://github.com/appium/appium-ios-simulator): Module for interacting with iOS simulators
 * [appium/appium-xcode](https://github.com/appium/appium-xcode): Xcode related utilities. Get version number and path to executable.
 * [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver): Appium iOS driver, backed by Apple XCUITest 
 * [faithfracture/Apple-Boost-BuildScript](https://github.com/faithfracture/Apple-Boost-BuildScript): Script for building Boost for Apple platforms (iOS, iOS Simulator, tvOS, tvOS Simulator, OS X)
