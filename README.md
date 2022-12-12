@@ -2998,7 +2998,7 @@
 * [crunchyroll/objective_perceptual_analysis](https://github.com/crunchyroll/objective_perceptual_analysis): Objective Perceptual Analysis - Compression Karma Predictor
 * [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron): Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object’s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes
 * [konkor/obmin](https://github.com/konkor/obmin): File Sharing Server
-* [openbroadcaster/obplayer](https://github.com/openbroadcaster/obplayer):  :radio: OBPlayer Playout Automation RTP AoIP Streaming, Live Assist with CAP EAS Alerting 
+* [openbroadcaster/obplayer](https://github.com/openbroadcaster/obplayer):  :radio: OBPlayer Streaming Automation Playout with CAP EAS Alerting 
 * [obsproject/obs-amd-encoder](https://github.com/obsproject/obs-amd-encoder): AMD Advanced Media Framework Encoder Plugin for Open Broadcaster Studio
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio): OBS Studio - Free and open source software for live streaming and screen recording
 * [obuseme/OCMockSample](https://github.com/obuseme/OCMockSample): None
