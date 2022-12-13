@@ -2680,7 +2680,7 @@
 * [raonetwo/MaximizeToWorkspace](https://github.com/raonetwo/MaximizeToWorkspace): Moves windows to new workspace when Maximized and moves them back when Unmaximized. Inspired by https://github.com/rliang/gnome-shell-extension-maximize-to-workspace with history support
 * [reHackable/maxio](https://github.com/reHackable/maxio): Companion daemon for the reMarkable™ paper tablet
 * [openebs/maya](https://github.com/openebs/maya): Manage Container Attached Storage (CAS) - Data Engines in Kubernetes
-* [minio/mc](https://github.com/minio/mc): MinIO Client for MinIO Server.
+* [minio/mc](https://github.com/minio/mc): Simple | Fast tool to manage MinIO clusters :cloud:
 * [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf): Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 * [ericlink/mdp](https://github.com/ericlink/mdp): markdown preview using marked, highlight.js, mermaid, node-emoji and live reload
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
@@ -3047,7 +3047,7 @@
 * [louisdh/openterm](https://github.com/louisdh/openterm): OpenTerm, a sandboxed command line interface for iOS
 * [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server): Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 * [openwrt/openwrt](https://github.com/openwrt/openwrt): This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-* [minio/operator](https://github.com/minio/operator): MinIO Operator creates/configures/manages MinIO clusters on Kubernetes
+* [minio/operator](https://github.com/minio/operator): Simple Kubernetes Operator for MinIO clusters :computer:
 * [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager): A management framework for extending Kubernetes with Operators
 * [ContainerSolutions/operator-workshop](https://github.com/ContainerSolutions/operator-workshop): None
 * [kudobuilder/operators](https://github.com/kudobuilder/operators): Collection of Kubernetes Operators built with KUDO.
