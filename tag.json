@@ -2249,9 +2249,6 @@
     "SebastianLuebke/smbios-thermal-ctl-gnome-ext": [
         "Other"
     ],
-    "SecureAuthCorp/impacket": [
-        "Other"
-    ],
     "Seitenbau/SBideo": [
         "Other"
     ],
@@ -6105,6 +6102,9 @@
         "Other"
     ],
     "forezp/SpringCloudLearning": [
+        "Other"
+    ],
+    "fortra/impacket": [
         "Other"
     ],
     "fossasia/open-event-server": [

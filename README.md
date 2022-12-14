@@ -2170,7 +2170,7 @@
 * [nkanaev/imgspy](https://github.com/nkanaev/imgspy): imgspy finds the metadata (type, size) of an image given its url by fetching as little as needed
 * [eashish93/imgsquash](https://github.com/eashish93/imgsquash): Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.
 * [aws-samples/immersive-media-refarch](https://github.com/aws-samples/immersive-media-refarch): A full end to end workflow from encoder to play-out for Live and VOD-from-live.
-* [SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket): Impacket is a collection of Python classes for working with network protocols.
+* [fortra/impacket](https://github.com/fortra/impacket): Impacket is a collection of Python classes for working with network protocols.
 * [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 * [matvp91/indigo-player](https://github.com/matvp91/indigo-player): Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 * [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg): A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video 
