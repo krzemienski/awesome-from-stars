@@ -4141,7 +4141,6 @@
 * [xiaohu557/TinyPlayer](https://github.com/xiaohu557/TinyPlayer): TinyPlayer is simple, elegant and highly efficient  video player for iOS and tvOS. It is based on Apple’s AVFoundation framework. 
 * [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy): tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 * [cokaholic/TKParallaxScrollView](https://github.com/cokaholic/TKParallaxScrollView): TKParallaxScrollView is the interactive moving library for header and middle views on scrollview.
-* [xiaozhihong/tms](https://github.com/xiaozhihong/tms): tms(toy media server) is a toy media server for myself learning media develop. Just for fun.
 * [nathanwdavis/todo_bottle_example](https://github.com/nathanwdavis/todo_bottle_example): Yet another ToDo example app - this one built with Bottle ( http://bottlepy.org )
 * [IBM/ToDoBackend](https://github.com/IBM/ToDoBackend): This tutorial teaches how to create a Kitura backend for the Todo-Backend project, which provides tests and a web client for a "To Do List" application.
 * [cyfrost/todoist-linux](https://github.com/cyfrost/todoist-linux): Todoist for Linux
