@@ -1889,7 +1889,7 @@
 * [ChWick/gnomesome](https://github.com/ChWick/gnomesome): Yet another gnome extension for window tiling inspired by awesome supporting multiple workspaces and screens.
 * [demajor/gnsdk-webapp](https://github.com/demajor/gnsdk-webapp): None
 * [vasconcelosvcd/GNSDKWrapperLib-CPP](https://github.com/vasconcelosvcd/GNSDKWrapperLib-CPP): A Gracenote C++ wrapper lib
-* [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms implemented in Go for beginners, following best practices.
+* [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms and Data Structures implemented in Go for beginners, following best practices.
 * [ugorji/go](https://github.com/ugorji/go): idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 * [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin): A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 * [asticode/go-astiencoder](https://github.com/asticode/go-astiencoder): None
@@ -4301,7 +4301,7 @@
 * [intel/vaapi-fits](https://github.com/intel/vaapi-fits): None
 * [git-developer/vaapi-video-converter](https://github.com/git-developer/vaapi-video-converter): A docker-based video converter that uses VAAPI-compatible hardware for transcoding
 * [zenangst/Vaccine](https://github.com/zenangst/Vaccine): :syringe: Vaccine - Make your apps immune to recompile-disease
-* [TheIronicCurtain/vaccine_appointments](https://github.com/TheIronicCurtain/vaccine_appointments): Automatically searching for vaccine appointments
+* [timratigan/vaccine_appointments](https://github.com/timratigan/vaccine_appointments): Automatically searching for vaccine appointments
 * [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 * [square/Valet](https://github.com/square/Valet): Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 * [vapor/vapor](https://github.com/vapor/vapor): 💧 A server-side Swift HTTP web framework.
