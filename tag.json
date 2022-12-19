@@ -3698,6 +3698,9 @@
     "aws-solutions/live-streaming-on-aws-with-amazon-s3": [
         "Other"
     ],
+    "aws-solutions/workload-discovery-on-aws": [
+        "Other"
+    ],
     "aws/amazon-eks-pod-identity-webhook": [
         "Other"
     ],
@@ -3759,9 +3762,6 @@
         "Other"
     ],
     "awslabs/serverless-subtitles": [
-        "Other"
-    ],
-    "awslabs/workload-discovery-on-aws": [
         "Other"
     ],
     "axcore/tartube": [
