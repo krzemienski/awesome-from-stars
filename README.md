@@ -1873,6 +1873,7 @@
 * [ethanwharris/gnome-nvidia-extension](https://github.com/ethanwharris/gnome-nvidia-extension): A Gnome extension to show NVIDIA GPU information
 * [Schneegans/Gnome-Pie](https://github.com/Schneegans/Gnome-Pie): A pie menu launcher for linux. Read the release announcement of version 0.7.2 at https://schneegans.github.io/news/2018/10/30/gnome-pie-072 Or have a look at the homepage!
 * [sunwxg/gnome-shell-extension-arrangeWindows](https://github.com/sunwxg/gnome-shell-extension-arrangeWindows): None
+* [Nova1545/gnome-shell-extension-customreboot](https://github.com/Nova1545/gnome-shell-extension-customreboot): None
 * [gpouilloux/gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker): An extension for managing docker containers
 * [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon): Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 * [kaiseracm/gnome-shell-extension-maximize-to-empty-workspace](https://github.com/kaiseracm/gnome-shell-extension-maximize-to-empty-workspace): New and maximized windows will be moved to empty workspaces. Supports multiple monitors.
@@ -4576,6 +4577,7 @@
 * [xhlove/XstreamDL-CLI](https://github.com/xhlove/XstreamDL-CLI): 命令行版本的HLS/DASH流下载器，支持标准AES-128-CBC解密
 * [moshfeu/y2mp3](https://github.com/moshfeu/y2mp3): An Electron app to download youtube playlist
 * [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv): YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
+* [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server): Language Server for YAML Files
 * [lukasbach/yana](https://github.com/lukasbach/yana): Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
 * [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea): RTMP live streaming client for Android
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go

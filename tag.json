@@ -1853,6 +1853,9 @@
     "NorakGithub/django-docker-alpine": [
         "Other"
     ],
+    "Nova1545/gnome-shell-extension-customreboot": [
+        "Other"
+    ],
     "Novage/p2p-media-loader": [
         "Other"
     ],
@@ -10716,6 +10719,9 @@
         "Other"
     ],
     "red5pro/streaming-ios": [
+        "Other"
+    ],
+    "redhat-developer/yaml-language-server": [
         "Other"
     ],
     "redis/redis": [
