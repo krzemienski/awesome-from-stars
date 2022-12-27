@@ -4318,6 +4318,7 @@
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
 * [Zewo/Venice](https://github.com/Zewo/Venice): Coroutines, structured concurrency and CSP for Swift on macOS and Linux.
 * [nomad/venice](https://github.com/nomad/venice): Ruby Gem for In-App Purchase Receipt Verification
+* [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [josejuanqm/VersaPlayer](https://github.com/josejuanqm/VersaPlayer): Versatile Video Player implementation for iOS, macOS, and tvOS
 * [JoniVR/VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper): A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 * [vfile/vfile](https://github.com/vfile/vfile): Virtual file format for text processing used in @unifiedjs
