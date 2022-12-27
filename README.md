@@ -3154,7 +3154,7 @@
 * [libratbag/piper](https://github.com/libratbag/piper): GTK application to configure gaming devices
 * [okayrunner/piper](https://github.com/okayrunner/piper): piper - a distributed workflow engine
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
-* [keithieopia/piu](https://github.com/keithieopia/piu): Cross platform package manager wrapper
+* [beyondmeh/piu](https://github.com/beyondmeh/piu): Cross platform package manager wrapper
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
 * [GottaYotta/PixelSDK](https://github.com/GottaYotta/PixelSDK): The modern photo and video editor for your iPhone / iPad app. A fully customizable image & video editing iOS Swift framework.
 * [antoinehng/pixelwalker](https://github.com/antoinehng/pixelwalker): Video encoding quality assessment platform
