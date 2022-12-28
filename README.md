@@ -1651,6 +1651,7 @@
 * [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk): Firebase SDK for Apple App Development
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
 * [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios): Firefox for iOS
+* [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare): Self host your media and share with unique links
 * [UCI-Networking-Group/firetastic](https://github.com/UCI-Networking-Group/firetastic): Firetastic - a tool for automating interaction with FireTV apps
 * [patrickclery/firetv](https://github.com/patrickclery/firetv): Tools for Amazon Fire TV
 * [joelpalmer/firetv-controller](https://github.com/joelpalmer/firetv-controller): Control any Fire TV or any Android device on your network via ADB
@@ -2128,6 +2129,7 @@
 * [xroche/httrack](https://github.com/xroche/httrack): HTTrack Website Copier, copy websites to your computer (Official repository)
 * [hanton/HTY360Player](https://github.com/hanton/HTY360Player): Open Source iOS 360 Degree Panorama Video Player.
 * [github/hub](https://github.com/github/hub): A command-line tool that makes git easier to use with GitHub.
+* [kaiser-9527/hubble](https://github.com/kaiser-9527/hubble): Find your github star ezsier
 * [spotify/HubFramework](https://github.com/spotify/HubFramework): DEPRECATED – Spotify’s component-driven UI framework for iOS
 * [coleifer/huey](https://github.com/coleifer/huey): a little task queue for python
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -2536,6 +2538,7 @@
 * [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume): Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 * [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper): A library that scrapes Linkedin for user data
 * [zeshuaro/LinkedRW](https://github.com/zeshuaro/LinkedRW): A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file
+* [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): Simple site to group all your links. A free linktree alternative. Register your username before someone else does.
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
@@ -2744,6 +2747,7 @@
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX): MIVisionX toolkit is a set of comprehensive computer vision and machine intelligence libraries, utilities, and applications bundled into a single toolkit. AMD MIVisionX also delivers a highly optimized open-source implementation of the Khronos OpenVX™ and OpenVX™ Extensions.
 * [MugunthKumar/MKNetworkKit-Swift](https://github.com/MugunthKumar/MKNetworkKit-Swift): A Pure Swift Implementation of MKNetworkKit. This is the Swift Networking framework you will ever need.
+* [pawitp/mkv-player](https://github.com/pawitp/mkv-player): Web-based MKV player with subtitle support
 * [klaxa/mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2): The streaming solution to end all streaming problems
 * [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder): Find memory leaks in your iOS app at develop time.
 * [mltframework/mlt](https://github.com/mltframework/mlt): MLT Multimedia Framework
@@ -2831,6 +2835,7 @@
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [vaporberlin/my-first-route](https://github.com/vaporberlin/my-first-route): This project is as simple as possible to make it as beginner friendly as possible.
 * [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios): List of applications and tools that make my iOS experience even more amazing
+* [fatih-yavuz/my-links](https://github.com/fatih-yavuz/my-links): None
 * [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os): List of applications and tools that make my macOS experience even more amazing
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
@@ -3386,6 +3391,7 @@
 * [asynchrony/Re-Lax](https://github.com/asynchrony/Re-Lax): Recreating Parallax on tvOS
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [kkarimi/react-docker-kit](https://github.com/kkarimi/react-docker-kit): Example of using React and SocketIO with Flask and Celery workers in Docker containers
+* [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player): React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 * [foxford/react-hls](https://github.com/foxford/react-hls): React component for HLS player
 * [soroushchehresa/react-ignore-rerender](https://github.com/soroushchehresa/react-ignore-rerender): 🚀 Simple component for ignoring the re-rendering of a piece of React's render method.
 * [facebook/react-native](https://github.com/facebook/react-native): A framework for building native applications using React
@@ -3551,6 +3557,7 @@
 * [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys): FFmpeg bindings for Rust.
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+* [rust-lang/rustlings](https://github.com/rust-lang/rustlings): :crab: Small exercises to get you used to reading and writing Rust code!
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
 * [canalplus/rx-player](https://github.com/canalplus/rx-player): DASH/Smooth HTML5 Video Player
@@ -3925,6 +3932,7 @@
 * [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome): ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
 * [GitHawkApp/StyledTextKit](https://github.com/GitHawkApp/StyledTextKit): Declarative building and fast rendering attributed string library.
 * [pannal/Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle): Subtitles for Plex, as good you would expect them to be.
+* [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer): :memo: SubPlayer is an online subtitle editor
 * [cessen/subs_extract](https://github.com/cessen/subs_extract): Extracts per-sentence subtitles + audio from a subtitle file + video file.
 * [sc0ty/subsync](https://github.com/sc0ty/subsync): Subtitle Speech Synchronizer
 * [tympanix/subsync](https://github.com/tympanix/subsync): Synchronize your subtitles using machine learning
@@ -4089,6 +4097,7 @@
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [yxuko/terminus-altair](https://github.com/yxuko/terminus-altair):  Elegant customizable theme with vivid colors for Terminus
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
 * [termux/termux-packages](https://github.com/termux/termux-packages): A build system and primary set of packages for Termux.
 * [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks): Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦
@@ -4338,6 +4347,7 @@
 * [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples): Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
 * [michaelcunningham19/video-speech-recognition](https://github.com/michaelcunningham19/video-speech-recognition): Auto-generated video subtitles for the web using machine learning
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
+* [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger): Merge multiple video MediaStreams into one composite.
 * [yigiterinc/video-streaming-over-http](https://github.com/yigiterinc/video-streaming-over-http): Video streaming from Webcam with HLS, FFMPEG, NGINX and RTMP
 * [tabvn/video-streaming-service](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
 * [soumanpaul/Video-streaming-web-app](https://github.com/soumanpaul/Video-streaming-web-app): Media streaming application,  Inspired by features from Netflix and YouTube, this application will implement content uploading and viewing capabilities with a media content upload feature for content providers, and real-time content streaming for viewers
@@ -4594,6 +4604,7 @@
 * [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server): Web / REST interface for downloading youtube videos onto a server.
 * [aslanyanhaik/youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): youtube iOS app template written in swift 5
 * [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
+* [rinov/YoutubeKit](https://github.com/rinov/YoutubeKit): YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app
 * [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc): media downloader and library for various sites.
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 * [Aveek-Saha/ytdx](https://github.com/Aveek-Saha/ytdx): Download audio from YouTube videos
