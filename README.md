@@ -4557,7 +4557,7 @@
 * [ohoachuck/wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader): WWDC 2019 video downloader script written in Swift - no external dependency.
 * [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh): READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh 
 * [videolan/x265](https://github.com/videolan/x265): https://bitbucket.org/multicoreware/x265/ git mirror
-* [futzu/x9k3](https://github.com/futzu/x9k3): x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
+* [futzu/x9k3](https://github.com/futzu/x9k3): HLS and SCTE-35   x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
 * [xbmc/xbmc](https://github.com/xbmc/xbmc): Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 * [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild): Xcode-compatible build tool.
