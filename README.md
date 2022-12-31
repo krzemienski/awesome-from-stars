@@ -1520,6 +1520,7 @@
 * [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli): Test your download and upload speed using fast.com
 * [tiangolo/fastapi](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin): A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
+* [Aeternalis-Ingenium/FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template): A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
 * [GregaVrbancic/fastapi-celery](https://github.com/GregaVrbancic/fastapi-celery): Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for monitoring the celery tasks.
 * [karthikasasanka/fastapi-celery-redis-rabbitmq](https://github.com/karthikasasanka/fastapi-celery-redis-rabbitmq): A simple docker-compose app for orchestrating a fastapi application, a celery queue with rabbitmq(broker) and redis(backend)
 * [karthikasasanka/fastapi-celery-redis-rabbitmq-k8s-specs](https://github.com/karthikasasanka/fastapi-celery-redis-rabbitmq-k8s-specs): None
