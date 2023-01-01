@@ -2468,6 +2468,9 @@
     "The-Art-of-Hacking/h4cker": [
         "Other"
     ],
+    "The-Z-Labs/linux-exploit-suggester": [
+        "Other"
+    ],
     "TheAlgorithms/C": [
         "Other"
     ],
@@ -9366,9 +9369,6 @@
         "Other"
     ],
     "myspaghetti/macos-virtualbox": [
-        "Other"
-    ],
-    "mzet-/linux-exploit-suggester": [
         "Other"
     ],
     "mzur/gnome-shell-wsmatrix": [
