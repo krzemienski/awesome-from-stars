@@ -1169,7 +1169,7 @@
 * [mingrammer/diagrams](https://github.com/mingrammer/diagrams): :art: Diagram as Code for prototyping cloud system architectures
 * [google/diff-match-patch](https://github.com/google/diff-match-patch): Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 * [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit): 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
-* [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+* [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
 * [anaganisk/digitalocean-dynamic-dns-ip](https://github.com/anaganisk/digitalocean-dynamic-dns-ip): A simple script to automatically update Digital ocean DNS records with dynamic IP
 * [phillbaker/digitalocean-node](https://github.com/phillbaker/digitalocean-node): Unofficial node client for the v2 DigitalOcean API
 * [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -1590,7 +1590,7 @@
 * [BradHeff/ffmpeg-GUI](https://github.com/BradHeff/ffmpeg-GUI): ffmpeg python Gtk GUI 
 * [svpv/ffmpeg-hls](https://github.com/svpv/ffmpeg-hls): None
 * [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script): Shell scripts to build FFmpeg for iOS and tvOS
-* [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial): FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
+* [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial): FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 * [id3as/ffmpeg-libvpx-HDR-static](https://github.com/id3as/ffmpeg-libvpx-HDR-static): A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
 * [LTNGlobal-opensource/FFmpeg-ltn](https://github.com/LTNGlobal-opensource/FFmpeg-ltn): None
 * [analyserdmz/ffmpeg-multi-threaded-convert](https://github.com/analyserdmz/ffmpeg-multi-threaded-convert): It will scan a directory and its sub-directories for video files, and if the codecs are not AAC/H264, it will convert them to meet the codecs criteria.
