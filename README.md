@@ -3352,7 +3352,7 @@
 * [soygul/QuanticDev](https://github.com/soygul/QuanticDev): QuanticDev's Engineering and Software Development Resources
 * [quarkusio/quarkus](https://github.com/quarkusio/quarkus): Quarkus: Supersonic Subatomic Java. 
 * [gmr/queries](https://github.com/gmr/queries): PostgreSQL database access simplified
-* [TanStack/query](https://github.com/TanStack/query): 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+* [TanStack/query](https://github.com/TanStack/query): 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 * [FabrizioBrancati/Queuer](https://github.com/FabrizioBrancati/Queuer): Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 * [Quick/Quick](https://github.com/Quick/Quick): The Swift (and Objective-C) testing framework.
 * [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them. 
@@ -3426,6 +3426,7 @@
 * [Redocly/redoc](https://github.com/Redocly/redoc): 📘  OpenAPI/Swagger-generated API Reference Documentation
 * [briandunnington/Redoku](https://github.com/briandunnington/Redoku): Redux for Roku
 * [J0hnbX/RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources): None
+* [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools): Tools and Techniques for Red Team / Penetration Testing
 * [johnno1962/Refactorator](https://github.com/johnno1962/Refactorator): Xcode Plugin that Refactors Swift & Objective-C
 * [lexrus/RegExPlus](https://github.com/lexrus/RegExPlus): A nifty RegEx test tool built with SwiftUI
 * [upmc-enterprises/registry-creds](https://github.com/upmc-enterprises/registry-creds): Allow for AWS ECR, Google Registry, & Azure Container Registry credentials to be refreshed inside your Kubernetes cluster via ImagePullSecrets
