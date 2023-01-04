@@ -519,6 +519,7 @@
 * [make-github-pseudonymous-again/awesome-qr-code](https://github.com/make-github-pseudonymous-again/awesome-qr-code): A curated list of awesome QR code libraries, software and resources
 * [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native): Awesome React Native components, news, tools, and learning material!
 * [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable): A curated list of projects related to the reMarkable tablet
+* [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling): Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 * [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -2303,6 +2304,7 @@
 * [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge): Jet Admin – No-code Business App builder
 * [hiberbee/jetbrains-ide-theme](https://github.com/hiberbee/jetbrains-ide-theme): Dark color schemes for Jetbrains IDEs
 * [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme): One Dark theme for JetBrains.
+* [nagygergo/jetbrains-toolbox-install](https://github.com/nagygergo/jetbrains-toolbox-install): Installer for jetbrains toolbox
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib): 🏗 Build container images for your Java applications.
 * [jgillick/jira-changelog](https://github.com/jgillick/jira-changelog): Generates a changelog by matching git commits to Jira tickets.
@@ -4098,6 +4100,7 @@
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator): multiple GNOME terminals in one window
 * [yxuko/terminus-altair](https://github.com/yxuko/terminus-altair):  Elegant customizable theme with vivid colors for Terminus
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
 * [termux/termux-packages](https://github.com/termux/termux-packages): A build system and primary set of packages for Termux.
