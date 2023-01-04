@@ -274,7 +274,6 @@
 * [appium/appium-xcode](https://github.com/appium/appium-xcode): Xcode related utilities. Get version number and path to executable.
 * [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver): Appium iOS driver, backed by Apple XCUITest 
 * [faithfracture/Apple-Boost-BuildScript](https://github.com/faithfracture/Apple-Boost-BuildScript): Script for building Boost for Apple platforms (iOS, iOS Simulator, tvOS, tvOS Simulator, OS X)
-* [CoderLNHui/Apple-GitHub-Codeidea](https://github.com/CoderLNHui/Apple-GitHub-Codeidea): Three party source code
 * [rocketinsights/appletv-design-templates](https://github.com/rocketinsights/appletv-design-templates): A set of design templates for the Apple TV platform. In Sketch format. 
 * [firebase/appquality-codelab-ios](https://github.com/firebase/appquality-codelab-ios): Firebase iOS App Quality Codelab
 * [electron/apps](https://github.com/electron/apps): A collection of apps built on Electron
@@ -3808,6 +3807,7 @@
 * [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape): SoundCloud (and Bandcamp and Mixcloud) downloader in Python. 
 * [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 * [louisdh/source-editor](https://github.com/louisdh/source-editor): A native source editor for iOS and macOS, written in Swift
+* [CoderLN/SourceCodeAnalysis](https://github.com/CoderLN/SourceCodeAnalysis): iOS 常用第三方库源码分析，跟迭式积累，欢迎阅读！
 * [SourceDocs/SourceDocs](https://github.com/SourceDocs/SourceDocs): Generate Markdown documentation from source code
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
 * [jinmingjian/sourcekite](https://github.com/jinmingjian/sourcekite): the backend of SDE's language server
