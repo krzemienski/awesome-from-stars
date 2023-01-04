@@ -2908,6 +2908,7 @@
 * [nytimes/nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker): Docker image for nginx with Kaltura's VoD module used by The New York Times
 * [flavioribeiro/nginx-vod-module-fmp4-hls](https://github.com/flavioribeiro/nginx-vod-module-fmp4-hls): Play fragmented mp4's on HLS using nginx-vod-module
 * [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉
+* [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go): The ngrok agent in library form, suitable for integrating directly into your Go application.
 * [twilio-labs/NgrokExtensions](https://github.com/twilio-labs/NgrokExtensions): Visual Studio integration with ngrok
 * [Quick/Nimble](https://github.com/Quick/Nimble): A Matcher Framework for Swift and Objective-C
 * [ashfurrow/Nimble-Snapshots](https://github.com/ashfurrow/Nimble-Snapshots): Nimble matchers for FBSnapshotTestCase.
