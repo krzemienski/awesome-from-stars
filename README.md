@@ -274,7 +274,7 @@
 * [appium/appium-xcode](https://github.com/appium/appium-xcode): Xcode related utilities. Get version number and path to executable.
 * [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver): Appium iOS driver, backed by Apple XCUITest 
 * [faithfracture/Apple-Boost-BuildScript](https://github.com/faithfracture/Apple-Boost-BuildScript): Script for building Boost for Apple platforms (iOS, iOS Simulator, tvOS, tvOS Simulator, OS X)
-* [CoderLN/Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea): Three party source code
+* [CoderLNHui/Apple-GitHub-Codeidea](https://github.com/CoderLNHui/Apple-GitHub-Codeidea): Three party source code
 * [rocketinsights/appletv-design-templates](https://github.com/rocketinsights/appletv-design-templates): A set of design templates for the Apple TV platform. In Sketch format. 
 * [firebase/appquality-codelab-ios](https://github.com/firebase/appquality-codelab-ios): Firebase iOS App Quality Codelab
 * [electron/apps](https://github.com/electron/apps): A collection of apps built on Electron
