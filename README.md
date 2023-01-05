@@ -2791,7 +2791,7 @@
 * [stultus/mp4-to-mpegdash-py](https://github.com/stultus/mp4-to-mpegdash-py): Python Script to convert a MP4 file into onDemand MPEG-DASH
 * [essential61/mp4analyser](https://github.com/essential61/mp4analyser): mp4 file analyser written in Python
 * [gpac/mp4box.js](https://github.com/gpac/mp4box.js): JavaScript version of GPAC's MP4Box tool
-* [edgeware/mp4ff](https://github.com/edgeware/mp4ff): Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info tool to print information about a box tree.
+* [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff): Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info tool to print information about a box tree.
 * [kevinGodell/mp4frag](https://github.com/kevinGodell/mp4frag): Parser that works with ffmpeg to read piped data and fragment mp4 into an initialization segment and media segments. It can also get the codec info and generate an fmp4 HLS m3u8 playlist.
 * [mozilla/mp4parse-rust](https://github.com/mozilla/mp4parse-rust): Parser for ISO Base Media Format aka video/mp4 written in Rust.
 * [sannies/mp4parser](https://github.com/sannies/mp4parser): A Java API to read, write and create MP4 files
