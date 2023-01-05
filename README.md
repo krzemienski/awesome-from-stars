@@ -2539,7 +2539,7 @@
 * [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume): Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 * [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper): A library that scrapes Linkedin for user data
 * [zeshuaro/LinkedRW](https://github.com/zeshuaro/LinkedRW): A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file
-* [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): Simple site to group all your links. A free linktree alternative. Register your username before someone else does.
+* [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
