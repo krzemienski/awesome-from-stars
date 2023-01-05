@@ -1644,7 +1644,7 @@
 * [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser
 * [Augustyniak/FileExplorer](https://github.com/Augustyniak/FileExplorer): FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories
 * [JohnSundell/Files](https://github.com/JohnSundell/Files): A nicer way to handle files & folders in Swift
-* [files-community/Files](https://github.com/files-community/Files): Building the best File Manager for Windows
+* [files-community/Files](https://github.com/files-community/Files): Building the best file manager experience for Windows
 * [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * [FlexMonkey/Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter Explorer & Showcase
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
@@ -3810,7 +3810,7 @@
 * [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape): SoundCloud (and Bandcamp and Mixcloud) downloader in Python. 
 * [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 * [louisdh/source-editor](https://github.com/louisdh/source-editor): A native source editor for iOS and macOS, written in Swift
-* [CoderLN/SourceCodeAnalysis](https://github.com/CoderLN/SourceCodeAnalysis): iOS 常用第三方库源码分析，跟迭式积累，欢迎阅读！
+* [CoderLNHui/SourceCodeAnalysis](https://github.com/CoderLNHui/SourceCodeAnalysis): iOS 常用第三方库源码分析，跟迭式积累，欢迎阅读！
 * [SourceDocs/SourceDocs](https://github.com/SourceDocs/SourceDocs): Generate Markdown documentation from source code
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
 * [jinmingjian/sourcekite](https://github.com/jinmingjian/sourcekite): the backend of SDE's language server
