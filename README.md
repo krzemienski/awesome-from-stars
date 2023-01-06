@@ -2729,7 +2729,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): API first development platform
+* [micro/micro](https://github.com/micro/micro): API first cloud platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
