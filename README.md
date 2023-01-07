@@ -176,6 +176,7 @@
 * [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4): Algorithms, 4th edition textbook code and libraries
 * [Mindera/Alicerce](https://github.com/Mindera/Alicerce): A base for iOS Applications made with ❤️ by Mindera 🤠
 * [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things): 面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings
+* [alist-org/alist](https://github.com/alist-org/alist): 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 * [vknabel/All-in-One-Swift-for-vscode](https://github.com/vknabel/All-in-One-Swift-for-vscode): Provides VSCode extensions fo Swiftlint, Debugger and Autocompletion for Swift.
 * [wuz/all_google_fonts](https://github.com/wuz/all_google_fonts): Download and install all the Google web fonts for local use.
 * [AllToMP3/alltomp3](https://github.com/AllToMP3/alltomp3): Node module to download and convert in MP3 with tags an online video
@@ -1747,6 +1748,7 @@
 * [inferred/FreeBuilder](https://github.com/inferred/FreeBuilder): Automatic generation of the Builder pattern for Java
 * [dyne/frei0r](https://github.com/dyne/frei0r): A large collection of free and portable video plugins
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
+* [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): NVR with realtime local object detection for IP cameras
 * [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017): 2017 edition of our front-end development guide
 * [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): Manually curated collection of resources for frontend web developers.
 * [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -3247,6 +3249,7 @@
 * [chockenberry/Provisioning](https://github.com/chockenberry/Provisioning): A Quick Look plug-in for .mobileprovision files
 * [Quintasan/prowadzacy_roku](https://github.com/Quintasan/prowadzacy_roku): None
 * [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3): The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator 
+* [WhatsApp/proxy](https://github.com/WhatsApp/proxy): This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 * [NVIDIA/proxyfs](https://github.com/NVIDIA/proxyfs): None
 * [facebook/proxygen](https://github.com/facebook/proxygen): A collection of C++ HTTP libraries including an easy to use HTTP server.
