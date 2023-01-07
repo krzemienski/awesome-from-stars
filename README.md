@@ -2888,7 +2888,7 @@
 * [codelucas/newspaper](https://github.com/codelucas/newspaper): News, full-text, and article metadata extraction in Python 3. Advanced docs:
 * [christophetd/nextcloud-docker-compose](https://github.com/christophetd/nextcloud-docker-compose): :cloud: Spin up a Nextcloud instance with automatied backups and SSL certificate issuance.
 * [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit): Deploy your own Notion-powered website in minutes with Next.js and Vercel.
-* [NextLevel/NextLevel](https://github.com/NextLevel/NextLevel): ⬆️ Rad Media Capture in Swift
+* [NextLevel/NextLevel](https://github.com/NextLevel/NextLevel): ⬆️ Media Capture in Swift
 * [NextLevel/NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter): 🔄 Export and transcode media in Swift
 * [marmelab/ng-admin](https://github.com/marmelab/ng-admin): Add an AngularJS admin GUI to any RESTful API
 * [flavioribeiro/nginx-audio-track-for-hls-module](https://github.com/flavioribeiro/nginx-audio-track-for-hls-module): :sound: Nginx module that generates audio track for HTTP Live Streaming (HLS) streams on the fly.
