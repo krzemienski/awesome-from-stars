@@ -2838,7 +2838,7 @@
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [vaporberlin/my-first-route](https://github.com/vaporberlin/my-first-route): This project is as simple as possible to make it as beginner friendly as possible.
 * [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios): List of applications and tools that make my iOS experience even more amazing
-* [fatih-yavuz/my-links](https://github.com/fatih-yavuz/my-links): None
+* [fatih-yavuz/my-links](https://github.com/fatih-yavuz/my-links): My personal page for links.dev
 * [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os): List of applications and tools that make my macOS experience even more amazing
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
