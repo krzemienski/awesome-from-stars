@@ -1682,6 +1682,9 @@
     "MengTo/Spring": [
         "Other"
     ],
+    "MetalPetal/VideoIO": [
+        "Other"
+    ],
     "MichielJ1998/Gnome-tweak-screensaver": [
         "Other"
     ],
@@ -2630,6 +2633,9 @@
     "WowzaMediaSystems/webrtc-examples": [
         "Other"
     ],
+    "WyattBlue/auto-editor": [
+        "Other"
+    ],
     "XCTEQ/SwiftPackageManager-Docker": [
         "Other"
     ],
@@ -2739,6 +2745,9 @@
         "Other"
     ],
     "abinashmeher999/voice-data-extract": [
+        "Other"
+    ],
+    "ableplayer/ableplayer": [
         "Other"
     ],
     "ablwr/media-collection-viewer": [
@@ -3150,6 +3159,9 @@
         "Other"
     ],
     "anachirino/bifserver": [
+        "Other"
+    ],
+    "anacrolix/dms": [
         "Other"
     ],
     "anaganisk/digitalocean-dynamic-dns-ip": [
@@ -4568,6 +4580,9 @@
     "clappr/clappr": [
         "Other"
     ],
+    "clappr/clappr-core": [
+        "Other"
+    ],
     "clappr/clappr-ios": [
         "Other"
     ],
@@ -4949,7 +4964,7 @@
     "darwiin/yaac-another-awesome-cv": [
         "Other"
     ],
-    "dashevo/JSONSchemaValidation": [
+    "dashpay/JSONSchemaValidation": [
         "Other"
     ],
     "daskeyboard/daskeyboard-applet": [

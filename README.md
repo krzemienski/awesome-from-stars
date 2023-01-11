@@ -112,6 +112,7 @@
 
 * [geektutu/7days-golang](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 * [AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit): 📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的现代化声明式数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.
+* [ableplayer/ableplayer](https://github.com/ableplayer/ableplayer): fully accessible cross-browser HTML5 media player. 
 * [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI): Gathering all info published, both by Apple and by others, about new framework SwiftUI. 
 * [jkarthic-akamai/ABR-Broadcaster](https://github.com/jkarthic-akamai/ABR-Broadcaster): A real time encoder for Adaptive Bitrate Broadcast
 * [krzemienski/abr-manifest-viewer-chrome](https://github.com/krzemienski/abr-manifest-viewer-chrome): Extension to view HLS (m3u8) or MPEG-DASH (mpd) manifest files with syntax highlighting in your Chrome browser.
@@ -372,6 +373,7 @@
 * [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps
 * [google/auto](https://github.com/google/auto): A collection of source code generators for Java.
 * [majamee/auto-dash-hls](https://github.com/majamee/auto-dash-hls): Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder
+* [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
 * [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [sunhailin-Leo/AutoConfigShellScript](https://github.com/sunhailin-Leo/AutoConfigShellScript): Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV, Keras, Tensorflow(CPU Mode) and other relative environment.
@@ -859,6 +861,7 @@
 * [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next): RGB Driver for Linux
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 * [clappr/clappr](https://github.com/clappr/clappr): :clapper: An extensible media player for the web.
+* [clappr/clappr-core](https://github.com/clappr/clappr-core): Core components of the Clappr player architecture
 * [clappr/clappr-ios](https://github.com/clappr/clappr-ios): An extensible media player for iOS [deprecated]
 * [clappr/clappr-stats](https://github.com/clappr/clappr-stats): A clappr plugin to report playback statuses (timers: session, buffering, watch and counters: play, pause, error, fps)
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
@@ -1200,6 +1203,7 @@
 * [DolbyLaboratories/dlb_mp4demux](https://github.com/DolbyLaboratories/dlb_mp4demux): The Dolby MP4 streaming demuxer (dlb_mp4demux) is a software implementation of a demuxer of fragmented or unfragmented ISO base media file format (mp4). It supports demuxing of Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Dolby AC-4 audio formats as well as Dolby Vision. It is designed for use on architectures with limited resources.
 * [DeviLeo/DLGPlayer](https://github.com/DeviLeo/DLGPlayer): A media player for iOS based on FFmpeg 4.0
 * [Lekensteyn/dmg2img](https://github.com/Lekensteyn/dmg2img): DMG2IMG allows you to convert a (compressed) Apple Disk Images (imported from http://vu1tur.eu.org/dmg2img). Note: the master branch contains imported code, but lacks bugfixes/features from the develop branch. "develop" branch is recommended!
+* [anacrolix/dms](https://github.com/anacrolix/dms): A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.
 * [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
 * [prcongithub/do-assets](https://github.com/prcongithub/do-assets): None
 * [seven1m/do-install-button](https://github.com/seven1m/do-install-button): NO LONGER MAINTAINED
@@ -2339,7 +2343,7 @@
 * [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python
 * [better/jsonschema2db](https://github.com/better/jsonschema2db): Generate tables dynamically from a JSON Schema and insert data
 * [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo): Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc
-* [dashevo/JSONSchemaValidation](https://github.com/dashevo/JSONSchemaValidation): JSON Schema draft 4, 6 and 7 parsing and validation library written in Objective-C.
+* [dashpay/JSONSchemaValidation](https://github.com/dashpay/JSONSchemaValidation): JSON Schema draft 4, 6 and 7 parsing and validation library written in Objective-C.
 * [bhollis/jsonview](https://github.com/bhollis/jsonview): A web extension that helps you view JSON documents in the browser. 
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [juju/juju](https://github.com/juju/juju): Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux apps, with declarative integration between operators for automated microservice integration.
@@ -4391,6 +4395,7 @@
 * [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader): A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
 * [antiboredom/videogrep](https://github.com/antiboredom/videogrep): automatic video supercuts with python
 * [videogular/videogular](https://github.com/videogular/videogular): The HTML5 video player for AngularJS
+* [MetalPetal/VideoIO](https://github.com/MetalPetal/VideoIO): Video Input/Output Utilities
 * [videojs/videojs-contrib-dash](https://github.com/videojs/videojs-contrib-dash): Video.js plugin for supporting the MPEG-DASH playback through a video.js player
 * [videojs/videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls): HLS library for video.js
 * [videojs/videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels): None
