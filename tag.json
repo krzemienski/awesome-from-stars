@@ -350,6 +350,9 @@
     "BrikerMan/BMPlayer": [
         "Other"
     ],
+    "BruceDone/awesome-crawler": [
+        "Other"
+    ],
     "BtbN/FFmpeg-Builds": [
         "Other"
     ],
@@ -1295,6 +1298,9 @@
     "JNoDuq/videobench": [
         "Other"
     ],
+    "JStumpp/awesome-android": [
+        "Other"
+    ],
     "JackTeam/XHLoadingNavigationItemTitleView": [
         "Other"
     ],
@@ -1532,6 +1538,9 @@
     "LanceGin/Mockman": [
         "Other"
     ],
+    "LappleApple/awesome-leading-and-managing": [
+        "Other"
+    ],
     "Last-Order/Minyami": [
         "Other"
     ],
@@ -1578,6 +1587,9 @@
         "Other"
     ],
     "LinusU/Marionette": [
+        "Other"
+    ],
+    "Lissy93/dashy": [
         "Other"
     ],
     "LiveUI/S3": [
@@ -2513,6 +2525,9 @@
     "Tim-Barton/gogs-migration": [
         "Other"
     ],
+    "TonnyL/Awesome_APIs": [
+        "Other"
+    ],
     "ToolJet/ToolJet": [
         "Other"
     ],
@@ -2816,6 +2831,9 @@
     "adambard/learnxinyminutes-docs": [
         "Other"
     ],
+    "adamcichy/SwiftySound": [
+        "Other"
+    ],
     "adamlatchem/toolchest": [
         "Other"
     ],
@@ -2865,6 +2883,9 @@
         "Other"
     ],
     "agamm/awesome-developer-first": [
+        "Other"
+    ],
+    "agarrharr/awesome-cli-apps": [
         "Other"
     ],
     "agconti/cookiecutter-django-rest": [
@@ -2988,6 +3009,9 @@
         "Other"
     ],
     "alexmojaki/instant_api": [
+        "Other"
+    ],
+    "alexpate/awesome-design-systems": [
         "Other"
     ],
     "alextall/plexify": [
@@ -3561,6 +3585,9 @@
         "Other"
     ],
     "aschuch/AwesomeCache": [
+        "Other"
+    ],
+    "asciimoo/ListOfGithubLists": [
         "Other"
     ],
     "asciinema/asciinema": [
@@ -4466,6 +4493,9 @@
     "cheesecakeufo/komorebi": [
         "Other"
     ],
+    "chentsulin/awesome-graphql": [
+        "Other"
+    ],
     "chestm007/linux_thermaltake_riing": [
         "Other"
     ],
@@ -4856,6 +4886,9 @@
     "curlconverter/curlconverter": [
         "Other"
     ],
+    "cuuupid/awesome-lists": [
+        "Other"
+    ],
     "cwbuecheler/node-tutorial-for-frontend-devs": [
         "Other"
     ],
@@ -5160,6 +5193,9 @@
         "Other"
     ],
     "desktop/desktop": [
+        "Other"
+    ],
+    "detailyang/awesome-cheatsheet": [
         "Other"
     ],
     "dev-labs-bg/swift-video-generator": [
@@ -6635,6 +6671,9 @@
     "gwuhaolin/livego": [
         "Other"
     ],
+    "gztchan/awesome-design": [
+        "Other"
+    ],
     "h2database/h2database": [
         "Other"
     ],
@@ -6870,6 +6909,9 @@
         "Other"
     ],
     "huzhenjie/m3u8_downloader": [
+        "Other"
+    ],
+    "hvianna/audioMotion.js": [
         "Other"
     ],
     "hwayne/awesome-cold-showers": [
@@ -7449,6 +7491,9 @@
         "Other"
     ],
     "jnorton001/pycaption-cli": [
+        "Other"
+    ],
+    "jnv/lists": [
         "Other"
     ],
     "joaomoreno/thyme": [
@@ -8351,6 +8396,9 @@
     "lhz516/react-h5-audio-player": [
         "Other"
     ],
+    "libass/JavascriptSubtitlesOctopus": [
+        "Other"
+    ],
     "libass/libass": [
         "Other"
     ],
@@ -8474,10 +8522,16 @@
     "ljunkie/rarflix": [
         "Other"
     ],
+    "lk-geimfari/awesomo": [
+        "Other"
+    ],
     "lkzhao/ElasticTransition": [
         "Other"
     ],
     "lkzhao/YetAnotherAnimationLibrary": [
+        "Other"
+    ],
+    "llychao/m3u8-downloader": [
         "Other"
     ],
     "lm-sensors/lm-sensors": [
@@ -8789,6 +8843,9 @@
     "markedjs/marked": [
         "Other"
     ],
+    "markets/awesome-ruby": [
+        "Other"
+    ],
     "markj/tvos_scripts": [
         "Other"
     ],
@@ -8852,6 +8909,9 @@
     "matiaslindgren/celery-kubernetes-example": [
         "Other"
     ],
+    "matiassingers/awesome-readme": [
+        "Other"
+    ],
     "matmoi/create-DASH-HLS": [
         "Other"
     ],
@@ -8889,6 +8949,9 @@
         "Other"
     ],
     "matvp91/indigo-player": [
+        "Other"
+    ],
+    "matvp91/shaka-player-react": [
         "Other"
     ],
     "mauricioabreu/manifest-modifier": [
@@ -8951,6 +9014,9 @@
     "media-toolbox/avbroadcast": [
         "Other"
     ],
+    "mediaelement/mediaelement-plugins": [
+        "Other"
+    ],
     "mediagoom/mg": [
         "Other"
     ],
@@ -8991,6 +9057,9 @@
         "Other"
     ],
     "metersphere/metersphere": [
+        "Other"
+    ],
+    "mfornos/awesome-microservices": [
         "Other"
     ],
     "mfreeborn/fastapi-sqlalchemy": [
@@ -9518,6 +9587,9 @@
     "newTendermint/awesome-analytics": [
         "Other"
     ],
+    "newTendermint/awesome-bigdata": [
+        "Other"
+    ],
     "nextapps-de/flexsearch": [
         "Other"
     ],
@@ -9900,6 +9972,9 @@
         "Other"
     ],
     "openbroadcaster/obplayer": [
+        "Other"
+    ],
+    "openbroadcaster/observer": [
         "Other"
     ],
     "opencoconut/webvtt-ruby": [
@@ -10302,6 +10377,9 @@
         "Other"
     ],
     "pokey909/dash_adaptation_simulator": [
+        "Other"
+    ],
+    "pola-rs/polars": [
         "Other"
     ],
     "polybar/polybar": [
@@ -10838,6 +10916,9 @@
     "richeymichael/remarkable-assistant": [
         "Other"
     ],
+    "ridhwaans/homehost": [
+        "Other"
+    ],
     "righettod/poc-graphql": [
         "Other"
     ],
@@ -11100,6 +11181,9 @@
         "Other"
     ],
     "salimhamed/dashboard": [
+        "Other"
+    ],
+    "sallar/mac-local-rtmp-server": [
         "Other"
     ],
     "salomvary/soundcleod": [
@@ -11544,6 +11628,9 @@
         "Other"
     ],
     "skylerlee/zeta-zsh-theme": [
+        "Other"
+    ],
+    "skywind3000/awesome-cheatsheets": [
         "Other"
     ],
     "slacka/WoeUSB": [
@@ -12309,6 +12396,9 @@
         "Other"
     ],
     "thiagolioy/useful_scripts": [
+        "Other"
+    ],
+    "thibmaek/awesome-raspberry-pi": [
         "Other"
     ],
     "thijsl/ott-resources": [
