@@ -4099,6 +4099,7 @@
 * [syncany/syncany-plugin-gui](https://github.com/syncany/syncany-plugin-gui): Syncany GUI Plugin
 * [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 * [kozec/syncthing-gtk](https://github.com/kozec/syncthing-gtk): GTK3 & python based GUI for Syncthing
+* [RblSb/SyncTube](https://github.com/RblSb/SyncTube): Synchronized video viewing with chat and other features (one-channel web service)
 * [syndesisio/syndesis](https://github.com/syndesisio/syndesis): A flexible, customizable, open source platform that provides core integration capabilities as a service.
 * [joshuaavalon/SynologyCloudflareDDNS](https://github.com/joshuaavalon/SynologyCloudflareDDNS): 📜 Cloudflare DDNS script for Synology
 * [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux): None
