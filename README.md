@@ -3415,7 +3415,7 @@
 * [toshi0383/RateTV](https://github.com/toshi0383/RateTV): An awesome Rating view for tvOS.
 * [Eyevinn/ratings-api](https://github.com/Eyevinn/ratings-api): Example of a simple implementation to build a ratings api on top of Redis
 * [xiph/rav1e](https://github.com/xiph/rav1e): The fastest and safest AV1 encoder.
-* [buidler-hub/rayli](https://github.com/buidler-hub/rayli): 📸 A command-line tool to generate code images of your local code right away from the terminal
+* [avneesh0612/rayli](https://github.com/avneesh0612/rayli): 📸 A command-line tool to generate code images of your local code right away from the terminal
 * [Lakr233/Rayon](https://github.com/Lakr233/Rayon): yet another SSH machine manager
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
