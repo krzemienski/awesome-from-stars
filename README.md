@@ -883,6 +883,7 @@
 * [clappr/clappr-ios](https://github.com/clappr/clappr-ios): An extensible media player for iOS [deprecated]
 * [clappr/clappr-stats](https://github.com/clappr/clappr-stats): A clappr plugin to report playback statuses (timers: session, buffering, watch and counters: play, pause, error, fps)
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
+* [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
@@ -3068,6 +3069,7 @@
 * [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps): :iphone: Collaborative List of Open-Source iOS Apps
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate): Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
+* [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [ErikWittern/openapi-snippet](https://github.com/ErikWittern/openapi-snippet): Generates code snippets for given Swagger / Open API documents
@@ -4013,6 +4015,7 @@
 * [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture): A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 * [uber/swift-concurrency](https://github.com/uber/swift-concurrency): Concurrency utilities for Swift
 * [emreozdil/Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips): :octocat: Daily Tips from Swift World
+* [pointfreeco/swift-dependencies](https://github.com/pointfreeco/swift-dependencies): A dependency management library inspired by SwiftUI's "environment."
 * [SwiftDocOrg/swift-doc](https://github.com/SwiftDocOrg/swift-doc): A documentation generator for Swift projects
 * [apple/swift-docker](https://github.com/apple/swift-docker): Docker Official Image packaging for Swift
 * [apple/swift-driver](https://github.com/apple/swift-driver): Swift compiler driver reimplementation in Swift

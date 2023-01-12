@@ -1421,6 +1421,9 @@
     "JoseExposito/gnome-shell-extension-x11gestures": [
         "Other"
     ],
+    "JuanCrg90/Clean-Code-Notes": [
+        "Other"
+    ],
     "Juanpe/About-SwiftUI": [
         "Other"
     ],
@@ -9971,6 +9974,9 @@
     "openai/jukebox": [
         "Other"
     ],
+    "openai/openai-cookbook": [
+        "Other"
+    ],
     "openai/whisper": [
         "Other"
     ],
@@ -10368,6 +10374,9 @@
         "Other"
     ],
     "pointfreeco/swift-composable-architecture": [
+        "Other"
+    ],
+    "pointfreeco/swift-dependencies": [
         "Other"
     ],
     "pointfreeco/swift-nonempty": [
