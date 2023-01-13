@@ -288,6 +288,7 @@
 * [appwrite/appwrite](https://github.com/appwrite/appwrite): Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 * [pop-os/apt-fetcher](https://github.com/pop-os/apt-fetcher): Rust crate for asynchronous and parallel fetching of apt repo files from apt repos. This can be used for updating apt lists and fetching packages from a pool.
 * [dvershinin/apt-to-dnf](https://github.com/dvershinin/apt-to-dnf): Aliases for creating "apt" CLI interface for RPM based distros
+* [aptakube/aptakube](https://github.com/aptakube/aptakube): Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux.
 * [teejee2008/aptik](https://github.com/teejee2008/aptik): Command-line tool for migrating system settings and data for distributions based on Debian, Arch and Fedora. Can backup and restore software repositories, packages, icons, themes, fonts, users, groups, home data, dconf settings, fstab/crypttab entries, and cron tasks.
 * [teejee2008/aptik-gtk](https://github.com/teejee2008/aptik-gtk): The free version of Aptik is no longer maintained  A paid version is available with more features
 * [davidcralph2/AquaDL](https://github.com/davidcralph2/AquaDL): A better way to download online media, fast and safe. Supports YouTube, Vimeo and more!
