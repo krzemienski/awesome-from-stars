@@ -2331,7 +2331,6 @@
 * [luizmb/Jenkins-Monitor-tvOS](https://github.com/luizmb/Jenkins-Monitor-tvOS): Apple TV Monitor for Jenkins, depends on plugin https://wiki.jenkins-ci.org/display/JENKINS/Build+Monitor+Plugin
 * [jesse-ai/jesse](https://github.com/jesse-ai/jesse): An advanced crypto trading bot written in Python
 * [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge): Jet Admin – No-code Business App builder
-* [hiberbee/jetbrains-ide-theme](https://github.com/hiberbee/jetbrains-ide-theme): Dark color schemes for Jetbrains IDEs
 * [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme): One Dark theme for JetBrains.
 * [nagygergo/jetbrains-toolbox-install](https://github.com/nagygergo/jetbrains-toolbox-install): Installer for jetbrains toolbox
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
@@ -4171,6 +4170,7 @@
 * [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps): Theia applications examples - docker images, desktop apps, packagings
 * [system76/thelio](https://github.com/system76/thelio): Thelio Desktop by System76
 * [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList): A list of Awesome Server Side Swift 3 projects
+* [hiberbee/themes](https://github.com/hiberbee/themes): Dark color schemes for Jetbrains IDEs
 * [themix-project/themix-gui](https://github.com/themix-project/themix-gui): Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.
 * [theos/theos](https://github.com/theos/theos): A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 * [intel/thermal_daemon](https://github.com/intel/thermal_daemon): Thermal daemon for IA
