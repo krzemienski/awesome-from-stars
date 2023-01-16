@@ -3233,7 +3233,7 @@
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
 * [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf): Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 * [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters
-* [pola-rs/polars](https://github.com/pola-rs/polars): Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
+* [pola-rs/polars](https://github.com/pola-rs/polars): Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 * [shzlw/poli](https://github.com/shzlw/poli): An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 * [jech/polipo](https://github.com/jech/polipo): The Polipo caching HTTP proxy
 * [teejee2008/polo](https://github.com/teejee2008/polo): Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
