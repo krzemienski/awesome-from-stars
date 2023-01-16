@@ -791,6 +791,9 @@
     "DovAmir/awesome-design-patterns": [
         "Other"
     ],
+    "DragonCherry/AssetsPickerViewController": [
+        "Other"
+    ],
     "Dungyichao/http_server": [
         "Other"
     ],
@@ -3074,6 +3077,9 @@
     "algorithm-visualizer/algorithm-visualizer": [
         "Other"
     ],
+    "aliakseis/FFmpegPlayer": [
+        "Other"
+    ],
     "alibaba/AliOS-Things": [
         "Other"
     ],
@@ -4337,6 +4343,9 @@
     "callumlocke/json-formatter": [
         "Other"
     ],
+    "calzoneman/sync": [
+        "Other"
+    ],
     "cameramanben/LUTCalc": [
         "Other"
     ],
@@ -4395,6 +4404,9 @@
         "Other"
     ],
     "cassava/repoctl": [
+        "Other"
+    ],
+    "castjs/castjs": [
         "Other"
     ],
     "castlabs/dashencrypt": [
@@ -4524,6 +4536,9 @@
         "Other"
     ],
     "chrippa/livestreamer": [
+        "Other"
+    ],
+    "chrisboustead/videojs-hls-quality-selector": [
         "Other"
     ],
     "chrisboustead/videojs-vtt-thumbnails": [
@@ -7275,6 +7290,9 @@
         "Other"
     ],
     "jaehyeon-kim/k8s-job-queue": [
+        "Other"
+    ],
+    "jaggad/crunker": [
         "Other"
     ],
     "jaimeMF/youtube-dl-api-server": [
@@ -10976,6 +10994,9 @@
     "robhowley/s3-streaming": [
         "Other"
     ],
+    "robinp7720/Oblecto": [
+        "Other"
+    ],
     "robohorse/RoboPOJOGenerator": [
         "Other"
     ],
@@ -12614,6 +12635,12 @@
     "trimstray/the-book-of-secret-knowledge": [
         "Other"
     ],
+    "trinib/Linux-Bash-Commands": [
+        "Other"
+    ],
+    "trpc/trpc": [
+        "Other"
+    ],
     "truenas/middleware": [
         "Other"
     ],
@@ -13014,6 +13041,9 @@
         "Other"
     ],
     "videojs/videojs-contrib-quality-levels": [
+        "Other"
+    ],
+    "videojs/videojs-playlist-ui": [
         "Other"
     ],
     "videolan/vlc": [
