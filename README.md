@@ -4271,6 +4271,7 @@
 * [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi): An Xcode Project Generator For Bazel 
 * [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk): Refined Evernote desktop app
 * [eugenp/tutorials](https://github.com/eugenp/tutorials): Just Announced - "Learn Spring Security OAuth": 
+* [pytorch/tutorials](https://github.com/pytorch/tutorials): PyTorch tutorials.
 * [vmware-archive/tutorials](https://github.com/vmware-archive/tutorials): None
 * [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center): A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
 * [tuxedocomputers/tuxedo-tomte](https://github.com/tuxedocomputers/tuxedo-tomte): Magic housekeeping package for TUXEDO books

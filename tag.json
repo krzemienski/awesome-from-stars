@@ -10652,6 +10652,9 @@
     "pytorch/pytorch": [
         "Other"
     ],
+    "pytorch/tutorials": [
+        "Other"
+    ],
     "pytube/pytube": [
         "Other"
     ],
