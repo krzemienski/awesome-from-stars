@@ -2348,6 +2348,7 @@
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
 * [nareix/joy5](https://github.com/nareix/joy5): AV toolkit
+* [jplayer/jPlayer](https://github.com/jplayer/jPlayer): jPlayer : HTML5 Audio & Video for jQuery
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
 * [jackie1in/jre-ffmpeg-apline](https://github.com/jackie1in/jre-ffmpeg-apline): Dockerfile [jre8](https://github.com/fabric8io-images/java) and [ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg) 
 * [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
@@ -2640,6 +2641,7 @@
 * [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop): 一个基于 electron 的音乐软件
 * [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1): A bootloader and experimentation playground for Apple Silicon
 * [bman46/M3U-List-Checker](https://github.com/bman46/M3U-List-Checker): Checks M3U lists for bad sources. 
+* [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists): m3u playlists for radio music, sorted by popularity
 * [globocom/m3u8](https://github.com/globocom/m3u8): Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 * [grafov/m3u8](https://github.com/grafov/m3u8): Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 * [leandromoreira/m3u8](https://github.com/leandromoreira/m3u8): Python m3u8 parser
@@ -4534,6 +4536,7 @@
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 * [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud): 🎧 A simple SoundCloud client built with Vue and Nuxt
 * [savokiss/vue-videojs-demo](https://github.com/savokiss/vue-videojs-demo): Use video.js & vue to play RTMP && HLS streams && playback
+* [alterhu2020/vue-videojs7](https://github.com/alterhu2020/vue-videojs7): A vue hls video player plugin using video.js 7
 * [vuesion/vuesion](https://github.com/vuesion/vuesion): Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 * [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin): Free and Beautiful Vue 3 Admin Template
 * [vulhub/vulhub](https://github.com/vulhub/vulhub): Pre-Built Vulnerable Environments Based on Docker-Compose
