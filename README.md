@@ -1920,6 +1920,7 @@
 * [mgalgs/gnome-shell-system-monitor-applet](https://github.com/mgalgs/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [mzur/gnome-shell-wsmatrix](https://github.com/mzur/gnome-shell-wsmatrix): GNOME shell extension to arrange workspaces in a two-dimensional grid with workspace thumbnails
 * [MichielJ1998/Gnome-tweak-screensaver](https://github.com/MichielJ1998/Gnome-tweak-screensaver): A gnome tweak extension which operates as a screensaver. 
+* [harshadgavali/gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon): None
 * [ChWick/gnomesome](https://github.com/ChWick/gnomesome): Yet another gnome extension for window tiling inspired by awesome supporting multiple workspaces and screens.
 * [demajor/gnsdk-webapp](https://github.com/demajor/gnsdk-webapp): None
 * [vasconcelosvcd/GNSDKWrapperLib-CPP](https://github.com/vasconcelosvcd/GNSDKWrapperLib-CPP): A Gracenote C++ wrapper lib
