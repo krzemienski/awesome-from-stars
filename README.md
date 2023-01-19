@@ -818,7 +818,6 @@
 * [Ramotion/cardslider](https://github.com/Ramotion/cardslider): :octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
 * [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb): A cargo subcommand that generates Debian packages from information in Cargo.toml
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
-* [vmware-tanzu/carvel-kapp](https://github.com/vmware-tanzu/carvel-kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [castjs/castjs](https://github.com/castjs/castjs): 📺 Chromecast Sender Library for the Browser
 * [xat/castnow](https://github.com/xat/castnow): commandline chromecast player
 * [googlecast/CastReceiver](https://github.com/googlecast/CastReceiver): Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features.
@@ -2413,6 +2412,7 @@
 * [kaltura/KalturaGeneratedAPIClientsPython](https://github.com/kaltura/KalturaGeneratedAPIClientsPython): Python auto generated clients libs which will then be built and test by Travis CI
 * [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
 * [influxdata/kapacitor](https://github.com/influxdata/kapacitor): Open source framework for processing, monitoring, and alerting on time series data
+* [carvel-dev/kapp](https://github.com/carvel-dev/kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 * [gree-gorey/karavel](https://github.com/gree-gorey/karavel): Yet another Kubernetes tempalting tool, Python-based
 * [gnebbia/kb](https://github.com/gnebbia/kb): A minimalist command line knowledge base manager
@@ -3021,7 +3021,7 @@
 * [kean/Nuke](https://github.com/kean/Nuke): Image loading system
 * [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme): A modern flat theme with a combination of light and dark elements.
 * [nushell/nushell](https://github.com/nushell/nushell): A new type of shell
-* [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js): Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+* [nuxt/nuxt](https://github.com/nuxt/nuxt): Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 * [FFmpeg/nv-codec-headers](https://github.com/FFmpeg/nv-codec-headers): automatic mirror of https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
 * [SK-Hardwired/nv_hevc_hdr_patcher](https://github.com/SK-Hardwired/nv_hevc_hdr_patcher): Tiny python script adding/altering basic HDR metadata (SEI and SPS VUI) to raw HEVC streams from NVENC
 * [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView): A collection of awesome loading animations

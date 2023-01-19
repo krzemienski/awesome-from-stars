@@ -4403,6 +4403,9 @@
     "carson-katri/reddit-swiftui": [
         "Other"
     ],
+    "carvel-dev/kapp": [
+        "Other"
+    ],
     "casey/just": [
         "Other"
     ],
@@ -9836,7 +9839,7 @@
     "nuxt/content": [
         "Other"
     ],
-    "nuxt/nuxt.js": [
+    "nuxt/nuxt": [
         "Other"
     ],
     "nvbn/thefuck": [
@@ -13149,9 +13152,6 @@
         "Other"
     ],
     "vmware-archive/vsphere-storage-for-kubernetes": [
-        "Other"
-    ],
-    "vmware-tanzu/carvel-kapp": [
         "Other"
     ],
     "vmware-tanzu/kubeapps": [
