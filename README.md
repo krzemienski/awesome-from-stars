@@ -361,6 +361,7 @@
 * [shinobizero/audio_transcriber](https://github.com/shinobizero/audio_transcriber): Transcodes audio & video files to text, supports MP3, M4A, WAV, MP4, MKV, AVI, MPG & MPEG. No Online API's. Python 3
 * [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit): Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 * [AudioKit/AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): AudioKit Synth One: Open-Source iOS Synthesizer App
+* [hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer): High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.
 * [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js): High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.
 * [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer): AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
 * [tbaranes/AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift): AudioPlayer is a simple class for playing audio in iOS, macOS and tvOS apps.
@@ -2744,6 +2745,7 @@
 * [francoism90/mediadb](https://github.com/francoism90/mediadb): Personal streaming service.
 * [francoism90/mediadb-app](https://github.com/francoism90/mediadb-app): Quasar v2 (Vue 3) + TypeScript
 * [francoism90/mediadb-ui](https://github.com/francoism90/mediadb-ui): MediaDB UI for https://github.com/francoism90/mediadb
+* [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement): HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
 * [mediaelement/mediaelement-plugins](https://github.com/mediaelement/mediaelement-plugins): Plugins for the main mediaelement project 
 * [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib): Convenient unified display of the most relevant technical and tag data for video and audio files.
@@ -4403,6 +4405,7 @@
 * [IAmBlackHacker/Video-Downloader](https://github.com/IAmBlackHacker/Video-Downloader): This script for download videos from anywhere and live streaming on vlc player
 * [Unrud/video-downloader](https://github.com/Unrud/video-downloader): Download videos from websites like YouTube and many others (based on yt-dlp)
 * [shrimpgo/video-downloader](https://github.com/shrimpgo/video-downloader): Helper to download HLS videos
+* [bilashcse/video-editor](https://github.com/bilashcse/video-editor): API based Online Video Editing using FFMPEG & NodeJs for Backend Editing
 * [davidkern13/Video-Http-Live-Stream-Nodejs-React](https://github.com/davidkern13/Video-Http-Live-Stream-Nodejs-React): Live http streaming and vod project.
 * [aizvorski/video-quality](https://github.com/aizvorski/video-quality): Video quality metrics, reference implementation in python: VIF, SSIM, PSNR, ...
 * [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples): Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
