@@ -3056,7 +3056,7 @@
 * [openbroadcaster/observer](https://github.com/openbroadcaster/observer):  :radio: OBServer Automation, Scheduler, Media Library and Player Manager
 * [obuseme/OCMockSample](https://github.com/obuseme/OCMockSample): None
 * [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-* [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+* [vmware-archive/octant](https://github.com/vmware-archive/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [nerdishbynature/octokit.swift](https://github.com/nerdishbynature/octokit.swift): A Swift API Client for GitHub and GitHub Enterprise
 * [pksunkara/octonode](https://github.com/pksunkara/octonode): github api v3 in nodejs
 * [aarnt/octopi](https://github.com/aarnt/octopi): A powerful Pacman (Package Manager) front end using Qt libs

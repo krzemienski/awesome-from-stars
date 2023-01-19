@@ -13148,6 +13148,9 @@
     "vmware-archive/cabin": [
         "Other"
     ],
+    "vmware-archive/octant": [
+        "Other"
+    ],
     "vmware-archive/tutorials": [
         "Other"
     ],
@@ -13155,9 +13158,6 @@
         "Other"
     ],
     "vmware-tanzu/kubeapps": [
-        "Other"
-    ],
-    "vmware-tanzu/octant": [
         "Other"
     ],
     "vmware-tanzu/velero": [
