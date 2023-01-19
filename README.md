@@ -3021,7 +3021,7 @@
 * [kean/Nuke](https://github.com/kean/Nuke): Image loading system
 * [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme): A modern flat theme with a combination of light and dark elements.
 * [nushell/nushell](https://github.com/nushell/nushell): A new type of shell
-* [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js): The Intuitive Vue(2) Framework
+* [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js): Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 * [FFmpeg/nv-codec-headers](https://github.com/FFmpeg/nv-codec-headers): automatic mirror of https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
 * [SK-Hardwired/nv_hevc_hdr_patcher](https://github.com/SK-Hardwired/nv_hevc_hdr_patcher): Tiny python script adding/altering basic HDR metadata (SEI and SPS VUI) to raw HEVC streams from NVENC
 * [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView): A collection of awesome loading animations
