@@ -2315,6 +2315,7 @@
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [DataDog/java-dogstatsd-client](https://github.com/DataDog/java-dogstatsd-client): Java statsd client library
+* [DataDog/java-dogstatsd-client](https://github.com/DataDog/java-dogstatsd-client): Java statsd client library
 * [richadams/java-gracenote](https://github.com/richadams/java-gracenote): A Java client for the Gracenote Music Web API. Example code to get you started on your own projects using Gracenote's API.
 * [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk): Java SDK for building Kubernetes Operators
 * [slackapi/java-slack-sdk](https://github.com/slackapi/java-slack-sdk): Slack Developer Kit (including Bolt for Java) for any JVM language
