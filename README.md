@@ -685,6 +685,7 @@
 * [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython): Code examples for my Write Better Python Code series on YouTube.
 * [anachirino/bifserver](https://github.com/anachirino/bifserver): Server which creates and serves up BIF files for Roku players
 * [bbc/bigscreen-player](https://github.com/bbc/bigscreen-player): Simplified media playback for bigscreen devices
+* [monyone/biim](https://github.com/monyone/biim): LL-HLS implementation written in Python3
 * [Gerzer/Binary-Shark](https://github.com/Gerzer/Binary-Shark): Manage your DigitalOcean account from iPhone and Apple Watch.
 * [bisq-network/bisq](https://github.com/bisq-network/bisq): A decentralized bitcoin exchange network
 * [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
@@ -2314,7 +2315,6 @@
 * [veeta-tv/jasmine-roku](https://github.com/veeta-tv/jasmine-roku): Example jasmine tests using node-roku-test for verifying Roku channel behavior
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
-* [DataDog/java-dogstatsd-client](https://github.com/DataDog/java-dogstatsd-client): Java statsd client library
 * [DataDog/java-dogstatsd-client](https://github.com/DataDog/java-dogstatsd-client): Java statsd client library
 * [richadams/java-gracenote](https://github.com/richadams/java-gracenote): A Java client for the Gracenote Music Web API. Example code to get you started on your own projects using Gracenote's API.
 * [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk): Java SDK for building Kubernetes Operators
