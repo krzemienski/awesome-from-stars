@@ -445,7 +445,7 @@
 * [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * [dungahk/awesome-cdk8s](https://github.com/dungahk/awesome-cdk8s): None
 * [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
-* [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): ☁️ Awesome Chalice: Community list of resources about AWS Chalice, a Python framework for writing serverless applications.
+* [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): Transform your dev game with :cloud: Awesome Chalice - the ultimate Python framework for serverless apps. Join our community & skyrocket your skills!
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 * [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd): continuous integration and continuous delivery
