@@ -365,6 +365,9 @@
     "BytemarkHosting/docker-webdav": [
         "Other"
     ],
+    "CCecilia/HLS-Parser": [
+        "Other"
+    ],
     "CCecilia/roku-suite-desktop": [
         "Other"
     ],
@@ -1233,6 +1236,9 @@
         "Other"
     ],
     "Huachao/vscode-restclient": [
+        "Other"
+    ],
+    "Hyperline/hyperline": [
         "Other"
     ],
     "IAmBlackHacker/Video-Downloader": [
@@ -2693,6 +2699,9 @@
     "Xmader/musescore-downloader": [
         "Other"
     ],
+    "Yahweasel/libav.js": [
+        "Other"
+    ],
     "Yalantis/GuillotineMenu": [
         "Other"
     ],
@@ -3207,6 +3216,9 @@
         "Other"
     ],
     "anaganisk/digitalocean-dynamic-dns-ip": [
+        "Other"
+    ],
+    "analogcode/Swift-Radio-Pro": [
         "Other"
     ],
     "analyserdmz/ffmpeg-multi-threaded-convert": [
@@ -3993,6 +4005,9 @@
         "Other"
     ],
     "begeekmyfriend/yasea": [
+        "Other"
+    ],
+    "bellingcat/octosuite": [
         "Other"
     ],
     "belltown/Roku-JSONDecoder": [
@@ -6137,6 +6152,12 @@
     "ffplayout/ffplayout-frontend": [
         "Other"
     ],
+    "ffvvc/FFmpeg": [
+        "Other"
+    ],
+    "fifonik/FFMetrics": [
+        "Other"
+    ],
     "filebrowser/filebrowser": [
         "Other"
     ],
@@ -6924,6 +6945,9 @@
         "Other"
     ],
     "htpcBeginner/docker-traefik": [
+        "Other"
+    ],
+    "htr-tech/zphisher": [
         "Other"
     ],
     "httprunner/httprunner": [
@@ -9002,6 +9026,9 @@
     "matthew-cox/sn-theme-mojave-dark-mode": [
         "Other"
     ],
+    "mattmc3/zdotdir": [
+        "Other"
+    ],
     "mattpaletta/docker-xcbuild": [
         "Other"
     ],
@@ -9036,6 +9063,9 @@
         "Other"
     ],
     "mazen160/GithubCloner": [
+        "Other"
+    ],
+    "mbadolato/iTerm2-Color-Schemes": [
         "Other"
     ],
     "mbcrump/awesome-tvos": [
@@ -13587,6 +13617,9 @@
         "Other"
     ],
     "xwmx/search.sh": [
+        "Other"
+    ],
+    "xxcodianxx/youtube-dl-web": [
         "Other"
     ],
     "xyk2/cloud-transcoder": [
