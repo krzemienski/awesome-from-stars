@@ -5261,6 +5261,9 @@
     "devsnd/python-audiotranscode": [
         "Other"
     ],
+    "devspace-sh/devspace": [
+        "Other"
+    ],
     "devxoul/Umbrella": [
         "Other"
     ],
@@ -8613,9 +8616,6 @@
         "Other"
     ],
     "locustio/locust": [
-        "Other"
-    ],
-    "loft-sh/devspace": [
         "Other"
     ],
     "lonelyclaud/slack-api-postman": [
