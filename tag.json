@@ -1175,6 +1175,9 @@
     "HHK1/PryntTrimmerView": [
         "Other"
     ],
+    "HQarroum/awesome-iot": [
+        "Other"
+    ],
     "HR/github-clone": [
         "Other"
     ],
@@ -1343,6 +1346,9 @@
     "JeffLIrion/python-androidtv": [
         "Other"
     ],
+    "JesseTG/awesome-qt": [
+        "Other"
+    ],
     "JetBrains/JetBrainsMono": [
         "Other"
     ],
@@ -1482,6 +1488,9 @@
         "Other"
     ],
     "KhaosT/SimpleVM": [
+        "Other"
+    ],
+    "Kikobeats/awesome-api": [
         "Other"
     ],
     "Kilograpp/UITableView-Cache": [
@@ -1944,6 +1953,9 @@
         "Other"
     ],
     "OpenVisualCloud/Smart-City-Sample": [
+        "Other"
+    ],
+    "OperationCode/resources_api": [
         "Other"
     ],
     "OptimalBits/redbird": [
@@ -2540,6 +2552,9 @@
     "TheGreatMcPain/python-media-scripts": [
         "Other"
     ],
+    "TheJambo/awesome-testing": [
+        "Other"
+    ],
     "ThibaultBee/StreamPack": [
         "Other"
     ],
@@ -2892,6 +2907,9 @@
         "Other"
     ],
     "aeksco/aws-pdf-textract-pipeline": [
+        "Other"
+    ],
+    "aerophile/awesome-deepfakes": [
         "Other"
     ],
     "aertslab/install_aspera_connect": [
@@ -4232,6 +4250,9 @@
     "bow-swift/bow": [
         "Other"
     ],
+    "brabadu/awesome-fonts": [
+        "Other"
+    ],
     "bradtraversy/design-resources-for-developers": [
         "Other"
     ],
@@ -4257,6 +4278,9 @@
         "Other"
     ],
     "briandunnington/Roact": [
+        "Other"
+    ],
+    "briatte/awesome-network-analysis": [
         "Other"
     ],
     "brightcove/brightcove-player-sdk-ios": [
@@ -5039,6 +5063,9 @@
     "danijar/handout": [
         "Other"
     ],
+    "daniruiz/dotfiles": [
+        "Other"
+    ],
     "daniruiz/flat-remix-gnome": [
         "Other"
     ],
@@ -5087,7 +5114,22 @@
     "datarhei/core": [
         "Other"
     ],
+    "datarhei/core-client-python": [
+        "Other"
+    ],
+    "datarhei/ffmpeg": [
+        "Other"
+    ],
+    "datarhei/gosrt": [
+        "Other"
+    ],
     "datarhei/restreamer": [
+        "Other"
+    ],
+    "datarhei/restreamer-edge": [
+        "Other"
+    ],
+    "datarhei/restreamer-ui": [
         "Other"
     ],
     "datitran/object_detector_app": [
@@ -5465,6 +5507,9 @@
     "dockup/infrahub": [
         "Other"
     ],
+    "docsifyjs/awesome-docsify": [
+        "Other"
+    ],
     "docuowl/docuowl": [
         "Other"
     ],
@@ -5789,6 +5834,9 @@
     "emgram769/lighthouse": [
         "Other"
     ],
+    "emijrp/awesome-awesome": [
+        "Other"
+    ],
     "emillamm/kubernetes-django-boilerplate": [
         "Other"
     ],
@@ -5796,6 +5844,9 @@
         "Other"
     ],
     "emissary-ingress/emissary": [
+        "Other"
+    ],
+    "emptymalei/awesome-research": [
         "Other"
     ],
     "emreozdil/Swift-Daily-Tips": [
@@ -5910,6 +5961,9 @@
         "Other"
     ],
     "etsy/logster": [
+        "Other"
+    ],
+    "eug/awesome-opengl": [
         "Other"
     ],
     "eugene87222/NCTU-Video-Streaming-and-Tracking": [
@@ -6548,6 +6602,9 @@
     "goabstract/Awesome-Design-Tools": [
         "Other"
     ],
+    "godotengine/awesome-godot": [
+        "Other"
+    ],
     "gofiber/fiber": [
         "Other"
     ],
@@ -6954,6 +7011,9 @@
         "Other"
     ],
     "hoppscotch/hoppscotch": [
+        "Other"
+    ],
+    "hoya012/awesome-anomaly-detection": [
         "Other"
     ],
     "htpcBeginner/AtoMiC-ToolKit": [
@@ -7466,6 +7526,9 @@
     "jdisho/Papr": [
         "Other"
     ],
+    "jdorfman/awesome-json-datasets": [
+        "Other"
+    ],
     "jeanslack/Videomass": [
         "Other"
     ],
@@ -7814,6 +7877,9 @@
     "jxxghp/nas-tools": [
         "Other"
     ],
+    "jyguyomarch/awesome-productivity": [
+        "Other"
+    ],
     "jzbor/dotfiles": [
         "Other"
     ],
@@ -8040,6 +8106,9 @@
         "Other"
     ],
     "kishikawakatsumi/AutoLayoutManiacs": [
+        "Other"
+    ],
+    "kitspace/awesome-electronics": [
         "Other"
     ],
     "kitsunyan/intel-undervolt": [
@@ -8546,6 +8615,9 @@
     "lightspin-tech/red-kube": [
         "Other"
     ],
+    "ligurio/awesome-ci": [
+        "Other"
+    ],
     "linagora/Twake": [
         "Other"
     ],
@@ -8756,6 +8828,9 @@
     "lwitzani/homebridgeStatusWidget": [
         "Other"
     ],
+    "lyfeyaj/awesome-resources": [
+        "Other"
+    ],
     "lyndsey-ferguson/fastlane-plugin-test_center": [
         "Other"
     ],
@@ -8891,6 +8966,9 @@
     "manuelescrig/MEVHorizontalContacts": [
         "Other"
     ],
+    "manuzhang/awesome-streaming": [
+        "Other"
+    ],
     "manzurahmed/manjaro-software-installation-guide": [
         "Other"
     ],
@@ -8963,7 +9041,13 @@
     "markus-perl/ffmpeg-build-script": [
         "Other"
     ],
+    "markusschanta/awesome-jupyter": [
+        "Other"
+    ],
     "marlimox/AloeStackView": [
+        "Other"
+    ],
+    "marmelab/awesome-rest": [
         "Other"
     ],
     "marmelab/ng-admin": [
@@ -8991,6 +9075,9 @@
         "Other"
     ],
     "mastodon/mastodon": [
+        "Other"
+    ],
+    "matchai/awesome-pinned-gists": [
         "Other"
     ],
     "matejak/argbash": [
@@ -9054,6 +9141,9 @@
         "Other"
     ],
     "matvp91/shaka-player-react": [
+        "Other"
+    ],
+    "mauhai/awesome-jupyterlab": [
         "Other"
     ],
     "mauricioabreu/manifest-modifier": [
@@ -9182,6 +9272,9 @@
     "mgeeky/Penetration-Testing-Tools": [
         "Other"
     ],
+    "mgramin/awesome-db-tools": [
+        "Other"
+    ],
     "mhaller/pyffmpeg": [
         "Other"
     ],
@@ -9299,6 +9392,9 @@
     "miguelgrinberg/microblog": [
         "Other"
     ],
+    "mikalv/awesome-qt-qml": [
+        "Other"
+    ],
     "mikeash/iphone-user-performance-tests": [
         "Other"
     ],
@@ -9407,6 +9503,9 @@
     "mofo7777/Stackoverflow": [
         "Other"
     ],
+    "mojoaxel/awesome-regression-testing": [
+        "Other"
+    ],
     "mokoshalb/ReStreamer": [
         "Other"
     ],
@@ -9447,6 +9546,9 @@
         "Other"
     ],
     "mostafatouny/awesome-theoretical-computer-science": [
+        "Other"
+    ],
+    "moul/awesome-ssh": [
         "Other"
     ],
     "mozilla-mobile/fenix": [
@@ -9698,6 +9800,9 @@
     "networknt/light-4j": [
         "Other"
     ],
+    "networktocode/awesome-network-automation": [
+        "Other"
+    ],
     "newTendermint/awesome-analytics": [
         "Other"
     ],
@@ -9774,6 +9879,9 @@
         "Other"
     ],
     "ninjaprox/NVActivityIndicatorView": [
+        "Other"
+    ],
+    "nioperas06/awesome-django-rest-framework": [
         "Other"
     ],
     "nix-community/awesome-nix": [
@@ -10061,6 +10169,9 @@
     "onmyway133/awesome-ios-architecture": [
         "Other"
     ],
+    "onqtam/awesome-cmake": [
+        "Other"
+    ],
     "oogali/ebs-automatic-nvme-mapping": [
         "Other"
     ],
@@ -10305,6 +10416,9 @@
         "Other"
     ],
     "pawamoy/cookiecutter-awesome": [
+        "Other"
+    ],
+    "pawelborkar/awesome-repos": [
         "Other"
     ],
     "pawitp/mkv-player": [
@@ -10799,6 +10913,9 @@
     "r0oth3x49/udemy-dl": [
         "Other"
     ],
+    "rShetty/awesome-distributed-systems": [
+        "Other"
+    ],
     "rShetty/awesome-podcasts": [
         "Other"
     ],
@@ -11072,6 +11189,9 @@
     "rkoshak/sensorReporter": [
         "Other"
     ],
+    "roaldnefs/awesome-prometheus": [
+        "Other"
+    ],
     "roberthein/BouncyLayout": [
         "Other"
     ],
@@ -11168,6 +11288,9 @@
     "rook/rook": [
         "Other"
     ],
+    "rootsongjc/awesome-cloud-native": [
+        "Other"
+    ],
     "rorydavidson/owncloud-nginx-letsencrypt-docker": [
         "Other"
     ],
@@ -11229,6 +11352,9 @@
         "Other"
     ],
     "rupakg/ffmpeg-video-thumb": [
+        "Other"
+    ],
+    "rust-embedded/awesome-embedded-rust": [
         "Other"
     ],
     "rust-lang/rust": [
@@ -11522,6 +11648,9 @@
     "seven1m/do-install-button": [
         "Other"
     ],
+    "sfermigier/awesome-functional-python": [
+        "Other"
+    ],
     "sgnl/nodeku": [
         "Other"
     ],
@@ -11654,6 +11783,9 @@
     "silvermine/videojs-quality-selector": [
         "Other"
     ],
+    "simc/awesome-flutter-packages": [
+        "Other"
+    ],
     "simdjson/simdjson": [
         "Other"
     ],
@@ -11696,6 +11828,9 @@
     "sindresorhus/awesome-nodejs": [
         "Other"
     ],
+    "sindresorhus/awesome-npm": [
+        "Other"
+    ],
     "sindresorhus/electron-boilerplate": [
         "Other"
     ],
@@ -11717,6 +11852,9 @@
     "singhkshitij/MagicPrint-ECommerce-App-Android": [
         "Other"
     ],
+    "sirredbeard/Awesome-UNIX": [
+        "Other"
+    ],
     "sissbruecker/linkding": [
         "Other"
     ],
@@ -11736,6 +11874,9 @@
         "Other"
     ],
     "sjbarag/brs-testbed": [
+        "Other"
+    ],
+    "sjfricke/awesome-webgl": [
         "Other"
     ],
     "skanehira/docui": [
@@ -12035,6 +12176,9 @@
     "stackrock/mediamachinejava": [
         "Other"
     ],
+    "stackshareio/awesome-stacks": [
+        "Other"
+    ],
     "stakater/Konfigurator": [
         "Other"
     ],
@@ -12165,6 +12309,9 @@
         "Other"
     ],
     "sturob/pullstar": [
+        "Other"
+    ],
+    "styfle/awesome-online-ide": [
         "Other"
     ],
     "suaefar/ryzen-test": [
@@ -12905,6 +13052,9 @@
     "unetbootin/unetbootin": [
         "Other"
     ],
+    "unicodeveloper/awesome-opensource-apps": [
+        "Other"
+    ],
     "unifiedstreaming/cpix-gen": [
         "Other"
     ],
@@ -12944,6 +13094,9 @@
     "upmc-enterprises/registry-creds": [
         "Other"
     ],
+    "uraimo/Awesome-Swift-Playgrounds": [
+        "Other"
+    ],
     "usbkey9/uktools": [
         "Other"
     ],
@@ -12972,6 +13125,9 @@
         "Other"
     ],
     "vaexio/vaex": [
+        "Other"
+    ],
+    "vaib25vicky/awesome-mobile-security": [
         "Other"
     ],
     "valeriangalliat/gogs-migrate": [
@@ -13325,6 +13481,9 @@
     "watson-developer-cloud/text-to-speech-nodejs": [
         "Other"
     ],
+    "watson/awesome-computer-history": [
+        "Other"
+    ],
     "wattson12/Moya-Argo": [
         "Other"
     ],
@@ -13395,6 +13554,9 @@
         "Other"
     ],
     "wei/socialify": [
+        "Other"
+    ],
+    "weiaicunzai/awesome-image-classification": [
         "Other"
     ],
     "weinbergerlab/excess_pi_covid": [
@@ -13674,6 +13836,9 @@
         "Other"
     ],
     "yassenshopov/notion-gcal-sync": [
+        "Other"
+    ],
+    "ybayle/awesome-deep-learning-music": [
         "Other"
     ],
     "yeasy/docker_practice": [
