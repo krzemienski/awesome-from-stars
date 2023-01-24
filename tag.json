@@ -371,6 +371,9 @@
     "CCecilia/roku-suite-desktop": [
         "Other"
     ],
+    "CCecilia/rusty-hls": [
+        "Other"
+    ],
     "CCristi/GitPR": [
         "Other"
     ],
@@ -2537,6 +2540,9 @@
     "TheGreatMcPain/python-media-scripts": [
         "Other"
     ],
+    "ThibaultBee/StreamPack": [
+        "Other"
+    ],
     "ThoughtWorksStudios/eb_deployer": [
         "Other"
     ],
@@ -2967,6 +2973,9 @@
         "Other"
     ],
     "airbnb/streamalert": [
+        "Other"
+    ],
+    "aizvorski/h264bitstream": [
         "Other"
     ],
     "aizvorski/scikit-video": [
@@ -4463,6 +4472,9 @@
     "ccxt/ccxt": [
         "Other"
     ],
+    "cdgriffith/FastFlix": [
+        "Other"
+    ],
     "cdk8s-team/cdk8s": [
         "Other"
     ],
@@ -5072,6 +5084,9 @@
     "data-science-on-aws/data-science-on-aws": [
         "Other"
     ],
+    "datarhei/core": [
+        "Other"
+    ],
     "datarhei/restreamer": [
         "Other"
     ],
@@ -5520,6 +5535,9 @@
         "Other"
     ],
     "dphang/roku-lib": [
+        "Other"
+    ],
+    "dracula/alacritty": [
         "Other"
     ],
     "dracula/dracula-theme": [
@@ -9060,6 +9078,9 @@
         "Other"
     ],
     "mayneyao/awesome-notion": [
+        "Other"
+    ],
+    "mayur091193/readme-pro": [
         "Other"
     ],
     "mazen160/GithubCloner": [
@@ -13496,6 +13517,9 @@
     "wseemann/FFmpegMediaMetadataRetriever": [
         "Other"
     ],
+    "wseemann/FFmpegMediaPlayer": [
+        "Other"
+    ],
     "wsvincent/awesome-django": [
         "Other"
     ],
@@ -13614,6 +13638,9 @@
         "Other"
     ],
     "xtranophilist/gnome-shell-extension-sensors": [
+        "Other"
+    ],
+    "xuancong84/indicator-cpufreq": [
         "Other"
     ],
     "xwmx/search.sh": [
@@ -13857,6 +13884,9 @@
         "Other"
     ],
     "zsiec/vodmodule-stats": [
+        "Other"
+    ],
+    "zthxxx/jovial": [
         "Other"
     ],
     "zuruoke/figma-remove-watermark-plugin": [

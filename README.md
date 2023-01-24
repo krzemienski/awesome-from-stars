@@ -159,6 +159,7 @@
 * [ajenti/ajenti](https://github.com/ajenti/ajenti): Ajenti Core and stock plugins
 * [innFactory/akka-cluster-k8s](https://github.com/innFactory/akka-cluster-k8s): Deployment of an akka cluster on AWS/Google Kubernetes [EXAMPLE]
 * [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
+* [dracula/alacritty](https://github.com/dracula/alacritty): 🧛🏻‍♂️ Dark theme for Alacritty
 * [snapcrafters/alacritty](https://github.com/snapcrafters/alacritty):  A community-maintained package to easily install Alacritty on Linux 
 * [tunix/alacritty-snap](https://github.com/tunix/alacritty-snap): A cross-platform, GPU enhanced terminal emulator
 * [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire): Elegant HTTP Networking in Swift
@@ -1016,6 +1017,7 @@
 * [radianttap/Coordinator](https://github.com/radianttap/Coordinator): Implementation of Coordinators app design pattern.
 * [github/copilot-docs](https://github.com/github/copilot-docs): Documentation for GitHub Copilot
 * [willowtreeapps/cordux](https://github.com/willowtreeapps/cordux): None
+* [datarhei/core](https://github.com/datarhei/core): datarhei Core is management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
 * [JohnEstropia/CoreStore](https://github.com/JohnEstropia/CoreStore): Unleashing the real power of Core Data with the elegance and safety of Swift
 * [nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data): This repository contains data on Coronavirus Disease 2019 (COVID-19) in New York City (NYC), from the NYC Department of Health and Mental Hygiene.
@@ -1565,6 +1567,7 @@
 * [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client): FastAPI client generator
 * [fastai/fastbook](https://github.com/fastai/fastbook): The fastai book, published as Jupyter Notebooks
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
+* [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix): FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP/AVIF creation, and more!
 * [alibaba/fastjson](https://github.com/alibaba/fastjson): FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 * [AFNetworking/fastlane](https://github.com/AFNetworking/fastlane): A fastlane setup to deploy Objective-C and Swift frameworks.
 * [fastlane/fastlane](https://github.com/fastlane/fastlane): 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1655,6 +1658,7 @@
 * [cuongdcdev/ffmpegGui2](https://github.com/cuongdcdev/ffmpegGui2): graphical interface of FFmpeg using Java swing as a gui frontend, aim to provide easy to use interface with common and useful features
 * [siamakrostami/FFMPEGHelper](https://github.com/siamakrostami/FFMPEGHelper): Convert audio and video files using ffmpeg in swift
 * [wseemann/FFmpegMediaMetadataRetriever](https://github.com/wseemann/FFmpegMediaMetadataRetriever): FFmpegMediaMetadataRetriever provides a unified interface for retrieving frame and meta data from an input media file.
+* [wseemann/FFmpegMediaPlayer](https://github.com/wseemann/FFmpegMediaPlayer): FFmpegMediaPlayer can be used to control playback of audio/video files and streams. 
 * [aliakseis/FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer): Simple FFmpeg video player
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
@@ -2008,6 +2012,7 @@
 * [gumslone/gum_hls](https://github.com/gumslone/gum_hls): HLS video streaming app for owncloud
 * [gunnery/gunnery](https://github.com/gunnery/gunnery): Remote task execution tool
 * [ibc/h264-profile-level-id](https://github.com/ibc/h264-profile-level-id): Utility to process H264 profile-level-id values
+* [aizvorski/h264bitstream](https://github.com/aizvorski/h264bitstream): A complete set of functions to read and write H.264 video bitstreams, in particular to examine or modify headers.
 * [latelee/H264BSAnalyzer](https://github.com/latelee/H264BSAnalyzer): H264(AVC) and H265(HEVC) bit stream Analyzer, VS2010 MFC project(Windows 7 x64).
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
@@ -2214,6 +2219,7 @@
 * [aws-samples/immersive-media-refarch](https://github.com/aws-samples/immersive-media-refarch): A full end to end workflow from encoder to play-out for Live and VOD-from-live.
 * [fortra/impacket](https://github.com/fortra/impacket): Impacket is a collection of Python classes for working with network protocols.
 * [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
+* [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
 * [matvp91/indigo-player](https://github.com/matvp91/indigo-player): Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 * [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg): A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video 
 * [facebook/infer](https://github.com/facebook/infer): A static analyzer for Java, C, C++, and Objective-C
@@ -2354,6 +2360,7 @@
 * [osy/Jitterbug](https://github.com/osy/Jitterbug): Launch JIT enabled iOS app with a second iOS device
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+* [zthxxx/jovial](https://github.com/zthxxx/jovial): Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
 * [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
 * [nareix/joy5](https://github.com/nareix/joy5): AV toolkit
 * [jplayer/jPlayer](https://github.com/jplayer/jPlayer): jPlayer : HTML5 Audio & Video for jQuery
@@ -3464,6 +3471,7 @@
 * [reactos/reactos](https://github.com/reactos/reactos): A free Windows-compatible Operating System
 * [1ec5/read-only-coding](https://github.com/1ec5/read-only-coding): Automator services to make coding in Xcode easier
 * [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator): 📄 CLI that generates beautiful README.md files
+* [mayur091193/readme-pro](https://github.com/mayur091193/readme-pro): Simple and Easy way to create any ReadMe. Make readme in just few clicks!
 * [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal): Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 * [burak-kara/real-time-video-server](https://github.com/burak-kara/real-time-video-server): RealTimeVideoServer_v2
 * [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -3621,6 +3629,7 @@
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings): :crab: Small exercises to get you used to reading and writing Rust code!
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
+* [CCecilia/rusty-hls](https://github.com/CCecilia/rusty-hls): HLS utility written in rust
 * [canalplus/rx-player](https://github.com/canalplus/rx-player): DASH/Smooth HTML5 Video Player
 * [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive database for JavaScript Applications
 * [microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg): 🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片，抖音首页，视频播放器及支持 OpenSSL https 等主流特色功能
@@ -3987,6 +3996,7 @@
 * [tumtumtum/StreamingKit](https://github.com/tumtumtum/StreamingKit): A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS (iPhone, iPad)
 * [streamlinevideo/streamline](https://github.com/streamlinevideo/streamline): A reference system for end to end live streaming video. Capture, encode, package, uplink, origin, CDN, and player. 
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
+* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): Android RTMP/RTMPS and SRT live streaming libraries
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
 * [cemolcay/StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView): uiscrollview with strechy and parallax top view
