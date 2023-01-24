@@ -3369,7 +3369,7 @@
 * [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 * [koalalorenzo/python-digitalocean](https://github.com/koalalorenzo/python-digitalocean): 🐍🐳 Python module to manage Digital Ocean droplets
 * [LetsUpgrade/Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials): None
-* [jonghwanhyeon/python-ffmpeg](https://github.com/jonghwanhyeon/python-ffmpeg): A python interface for FFmpeg using asyncio
+* [jonghwanhyeon/python-ffmpeg](https://github.com/jonghwanhyeon/python-ffmpeg): A python binding for FFmpeg which provides sync and async APIs
 * [aminyazdanpanah/python-ffmpeg-video-streaming](https://github.com/aminyazdanpanah/python-ffmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 * [happyleavesaoc/python-firetv](https://github.com/happyleavesaoc/python-firetv): None
 * [talkpython/python-for-absolute-beginners-course](https://github.com/talkpython/python-for-absolute-beginners-course): Code samples and other handouts for our course.
