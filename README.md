@@ -1306,6 +1306,7 @@
 * [francescou/docker-compose-ui](https://github.com/francescou/docker-compose-ui): web interface for Docker Compose
 * [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose
 * [francescou/docker-continuous-deployment](https://github.com/francescou/docker-continuous-deployment): continuous deployment of a microservices application with Docker
+* [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers): Programs to keep Docker login credentials safe by storing in platform keystores
 * [Eyevinn/docker-dash-packager](https://github.com/Eyevinn/docker-dash-packager): Open source MPEG DASH packager for live and VOD
 * [alfg/docker-ffmpeg](https://github.com/alfg/docker-ffmpeg): A Dockerfile FFmpeg from source. Built on Alpine Linux.
 * [linuxserver/docker-ffmpeg](https://github.com/linuxserver/docker-ffmpeg): None

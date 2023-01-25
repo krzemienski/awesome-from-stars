@@ -5489,6 +5489,9 @@
     "docker/compose": [
         "Other"
     ],
+    "docker/docker-credential-helpers": [
+        "Other"
+    ],
     "docker/docker-install": [
         "Other"
     ],
