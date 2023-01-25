@@ -3048,6 +3048,7 @@
 * [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android): Make Node.JS apps for Android
 * [ankbul/node-rats](https://github.com/ankbul/node-rats): Node Realtime Analytics and Tracking Server
 * [bschlenk/node-roku-client](https://github.com/bschlenk/node-roku-client): Discover and control Roku devices with NodeJS.
+* [iizukanao/node-rtsp-rtmp-server](https://github.com/iizukanao/node-rtsp-rtmp-server): RTSP/RTMP/HTTP hybrid server
 * [waleedahmad/node-stream](https://github.com/waleedahmad/node-stream): RTMP server in Nodejs for live streaming. 
 * [nikhilm/node-taglib](https://github.com/nikhilm/node-taglib): Simple taglib bindings to Javascript using node.js
 * [realm/node-template-project](https://github.com/realm/node-template-project): A template for your Node and TypeScript Project with Visual Studio Code Debugging!
@@ -3328,6 +3329,7 @@
 * [Paxa/postbird](https://github.com/Paxa/postbird): Open source PostgreSQL GUI client for macOS, Linux and Windows
 * [vapor/postgres-kit](https://github.com/vapor/postgres-kit): 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 * [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. 
+* [eliapasquali/power-profile-switcher](https://github.com/eliapasquali/power-profile-switcher): Gnome extension to automatically switch between power profiles based on power supply.
 * [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 * [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback): This repository is used to collect user feedback from PPHub (GitHub third-party client) - 此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
 * [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources): Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course 
