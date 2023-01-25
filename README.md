@@ -419,6 +419,7 @@
 * [senko/avtk](https://github.com/senko/avtk): Audio/Video toolkit for Python
 * [avTranscoder/avTranscoder](https://github.com/avTranscoder/avTranscoder): C++ API for LibAV / FFMpeg
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+* [simonecorsi/awesome](https://github.com/simonecorsi/awesome): 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition): A curated list of action recognition and related area resources
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
@@ -503,6 +504,7 @@
 * [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts): Curated list of fonts and everything
 * [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
 * [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers): None
+* [krzemienski/awesome-from-stars](https://github.com/krzemienski/awesome-from-stars): None
 * [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -602,6 +604,7 @@
 * [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks): A curated list of tech stacks for building different applications & features
 * [ptrkrlsrd/Awesome-Starred](https://github.com/ptrkrlsrd/Awesome-Starred): Awesome automated list of my starred repositories. Made using Golang and a Github scheduled action
 * [arbal/awesome-stars](https://github.com/arbal/awesome-stars): Top 12K of GitHub's finest.
+* [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators): A curated list of static web site generators.
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming): a curated list of awesome streaming frameworks, applications, etc
 * [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift): A curated list of awesome Swift frameworks, libraries and software.
@@ -1841,6 +1844,7 @@
 * [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017): 2017 edition of our front-end development guide
 * [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): Manually curated collection of resources for frontend web developers.
 * [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+* [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite): Build your website with Notion for free
 * [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS
 * [Manisso/fsociety](https://github.com/Manisso/fsociety): fsociety Hacking Tools Pack – A Penetration Testing Framework
 * [Eyevinn/ftpdownload](https://github.com/Eyevinn/ftpdownload): Python FTP download client - more stable than FTP.retrbinary
@@ -1920,6 +1924,7 @@
 * [m42e/github-coup](https://github.com/m42e/github-coup): Clone or Update Your User and Starred Repos
 * [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira): Connect your code with your project management in Jira
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
+* [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star): None
 * [steinfletcher/github-org-clone](https://github.com/steinfletcher/github-org-clone): :octocat: Clone repositories managed by a github organisation or team
 * [densebrain/github-org-reporter](https://github.com/densebrain/github-org-reporter): None
 * [jeroenoomsNL/github-project-starter](https://github.com/jeroenoomsNL/github-project-starter): A boilerplate for Github frontend projects to save time on creating a build process and a demo pages for Github Pages.
@@ -3075,13 +3080,16 @@
 * [sysdrum/notion-app](https://github.com/sysdrum/notion-app): Notion.so desktop application for Linux 
 * [konstantinmuenster/notion-clone](https://github.com/konstantinmuenster/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
 * [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer): an enhancer/customiser for the all-in-one productivity workspace notion.so
+* [ravgeetdhillon/notion-feeder](https://github.com/ravgeetdhillon/notion-feeder): 🕸 A Node app for creating a Feed Reader in Notion.
 * [yassenshopov/notion-gcal-sync](https://github.com/yassenshopov/notion-gcal-sync): A Python script to automate the syncing of tasks between Google Calendar and the all-in-one productivity workspace, Notion. It utilizes API and is customizable for your own needs. Free to use.
 * [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux): Native Notion packages for Linux
 * [jamalex/notion-py](https://github.com/jamalex/notion-py): Unofficial Python API client for Notion.so
+* [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged): notion executables with the notion-enhancer embedded & a vanilla port of the official app to linux
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
 * [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
 * [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox): This is a collection of Notion tools that work in tandem together.
 * [echo724/notion2md](https://github.com/echo724/notion2md): Notion Markdown Exporter with Python Cli
+* [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets): A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 * [kjk/notionapi](https://github.com/kjk/notionapi): Unofficial Go API for Notion.so
 * [dragonman225/notionapi-agent](https://github.com/dragonman225/notionapi-agent): Unofficial Node.js API client for Notion.so
 * [leandromoreira/nott](https://github.com/leandromoreira/nott): The New OTT Platform - an excuse to discuss and design a simple edge computing platform
@@ -4645,6 +4653,7 @@
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
 * [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist): Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
+* [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
 * [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web
 * [neosapience/web-skeleton](https://github.com/neosapience/web-skeleton): kubernetes + docker-compose + flask + celery + redis + mongo + frontend(any) + nginx
