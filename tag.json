@@ -5225,6 +5225,9 @@
     "deepjyoti30/ytmdl": [
         "Other"
     ],
+    "deepmap/oapi-codegen": [
+        "Other"
+    ],
     "deezer/spleeter": [
         "Other"
     ],
@@ -6471,6 +6474,9 @@
         "Other"
     ],
     "getappbox/AppBox-iOSAppsWirelessInstallation": [
+        "Other"
+    ],
+    "getkin/kin-openapi": [
         "Other"
     ],
     "getlogbook/logbook": [

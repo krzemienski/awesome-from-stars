@@ -2499,6 +2499,7 @@
 * [kubernetes-for-developers/kfd-celery](https://github.com/kubernetes-for-developers/kfd-celery): example celery worker and deployment specs for Kubernetes for Developers
 * [kickstarter/Kickstarter-Prelude](https://github.com/kickstarter/Kickstarter-Prelude): A collection of useful Swift tools that are used in the Kickstarter apps.
 * [luigifcruz/kimera](https://github.com/luigifcruz/kimera): Low-latency hardware accelerated codec based video streaming utility.
+* [getkin/kin-openapi](https://github.com/getkin/kin-openapi): OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 * [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind): Kubernetes IN Docker - local clusters for testing Kubernetes
 * [Showmax/kinetics-downloader](https://github.com/Showmax/kinetics-downloader): Download DeepMind's Kinetics dataset.
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
@@ -3113,6 +3114,7 @@
 * [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21): NYU Deep Learning Spring 2021
 * [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt): Nyxt - the hacker's power-browser.
 * [nzbget/nzbget](https://github.com/nzbget/nzbget): Efficient Usenet Downloader
+* [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen): Generate Go client and server boilerplate from OpenAPI 3 specifications
 * [cdwv/oas3-api-snippet-enricher](https://github.com/cdwv/oas3-api-snippet-enricher): Enrich your OpenAPI 3.0 JSON with code samples
 * [oatpp/oatpp](https://github.com/oatpp/oatpp): 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 * [oatpp/oatpp-examples](https://github.com/oatpp/oatpp-examples): List of example projects of how to use oat++ framework
