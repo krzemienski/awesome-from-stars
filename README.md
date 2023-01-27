@@ -3567,7 +3567,7 @@
 * [peerdavid/remapy](https://github.com/peerdavid/remapy): An open source explorer for your remarkable tablet to  show, upload or delete files via the remarkable cloud.
 * [richeymichael/remarkable-assistant](https://github.com/richeymichael/remarkable-assistant): Manage templates, splash screens, and settings on your reMarkable tablet
 * [fenollp/reMarkable-tools](https://github.com/fenollp/reMarkable-tools): Tools for the reMarkable paper tablet
-* [danielgatis/rembg](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background.
+* [danielgatis/rembg](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background
 * [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence): Self-Hosted Bookmark And Archive Manager
 * [johnno1962/Remote](https://github.com/johnno1962/Remote): Control your iPhone from inside Xcode for end-to-end testing.
 * [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter): Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
