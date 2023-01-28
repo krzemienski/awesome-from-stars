@@ -2733,7 +2733,7 @@
 * [kedpter/M3u8Downloader](https://github.com/kedpter/M3u8Downloader): Python downloader for HTTP Live Streaming (HLS)
 * [M3U8Kit/M3U8Parser](https://github.com/M3U8Kit/M3U8Parser): A light weight M3U8 parser. Support X-Key & X-Session-Key.
 * [Axel-Erfurt/m3uBrowserPlayer](https://github.com/Axel-Erfurt/m3uBrowserPlayer): play m3u TV-Playlist in browser
-* [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+* [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
 * [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on macOS
 * [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server): Local RTMP Streaming Server
