@@ -1347,6 +1347,7 @@
 * [bcardiff/docker-rclone](https://github.com/bcardiff/docker-rclone): Docker image to use rclone to run cron sync with monitoring
 * [tynor88/docker-rclone](https://github.com/tynor88/docker-rclone): Docker for Rclone - a command line program to sync files and directories to and from various cloud services.
 * [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume): Docker container with a data volume from s3.
+* [EasyPi/docker-scrapyd](https://github.com/EasyPi/docker-scrapyd): 🕷️ Scrapyd is an application for deploying and running Scrapy spiders.
 * [CodeMazeBlog/docker-series](https://github.com/CodeMazeBlog/docker-series): Docker Series about containerizing ASP.NET Core app with MySQL..
 * [Eyevinn/docker-serve](https://github.com/Eyevinn/docker-serve): A simple Python based HTTP server that sets CORS allow headers. Useful for streaming from files on local computer
 * [gdoteof/docker-streisand](https://github.com/gdoteof/docker-streisand): None
@@ -3761,6 +3762,8 @@
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security Auditing Tool
 * [ericfourrier/scrape-linkedin](https://github.com/ericfourrier/scrape-linkedin): Scrape a public LinkedIn profile.
 * [scrapy/scrapy](https://github.com/scrapy/scrapy): Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [scrapy/scrapyd](https://github.com/scrapy/scrapyd): A service daemon to run Scrapy spiders
+* [scrapy/scrapyd-client](https://github.com/scrapy/scrapyd-client): Command line client for Scrapyd server
 * [itforgeuk/Script-Actions](https://github.com/itforgeuk/Script-Actions): Script Examples for Script Actions App
 * [bensuperpc/scripts](https://github.com/bensuperpc/scripts): Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 * [reHackable/scripts](https://github.com/reHackable/scripts): [ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience

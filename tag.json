@@ -812,6 +812,9 @@
     "EONRaider/violent-python3": [
         "Other"
     ],
+    "EasyPi/docker-scrapyd": [
+        "Other"
+    ],
     "EbookFoundation/free-programming-books": [
         "Other"
     ],
@@ -11601,6 +11604,12 @@
         "Other"
     ],
     "scrapy/scrapy": [
+        "Other"
+    ],
+    "scrapy/scrapyd": [
+        "Other"
+    ],
+    "scrapy/scrapyd-client": [
         "Other"
     ],
     "scribd/LiveCollections": [
