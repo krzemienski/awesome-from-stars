@@ -1328,6 +1328,9 @@
     "JakeWharton/adb-event-mirror": [
         "Other"
     ],
+    "JamesKyburz/youtube-audio-stream": [
+        "Other"
+    ],
     "JamieMason/custom-linkedin-cv": [
         "Other"
     ],
@@ -3755,6 +3758,9 @@
     "avelino/cookiecutter-bottle": [
         "Other"
     ],
+    "avipatilpro/Z5LIVE": [
+        "Other"
+    ],
     "avleen/bashttpd": [
         "Other"
     ],
@@ -4368,6 +4374,9 @@
         "Other"
     ],
     "bwhiteley/TVMediaPlayer": [
+        "Other"
+    ],
+    "bytecodealliance/wasmtime": [
         "Other"
     ],
     "bytedance/xgplayer": [
