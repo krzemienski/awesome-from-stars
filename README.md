@@ -1925,6 +1925,7 @@
 * [m42e/github-coup](https://github.com/m42e/github-coup): Clone or Update Your User and Starred Repos
 * [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira): Connect your code with your project management in Jira
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
+* [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts): GitHub scripts
 * [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star): None
 * [steinfletcher/github-org-clone](https://github.com/steinfletcher/github-org-clone): :octocat: Clone repositories managed by a github organisation or team
 * [densebrain/github-org-reporter](https://github.com/densebrain/github-org-reporter): None
