@@ -1897,6 +1897,7 @@
 * [petrpavlik/GeoSwift](https://github.com/petrpavlik/GeoSwift): Location-related APIs intended to be used by server-side Swift applications.
 * [regexident/Gestalt](https://github.com/regexident/Gestalt): An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
+* [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars): Displays an interactive and searchable list of your GitHub starred repositories
 * [slapperwan/gh4a](https://github.com/slapperwan/gh4a): Github client for Android
 * [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework
 * [eldarlabs/ghpages-deploy-script](https://github.com/eldarlabs/ghpages-deploy-script): Test and demo repo for a script to deploy ghpages on a successful CircleCI build
