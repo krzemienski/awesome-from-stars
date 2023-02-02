@@ -2048,8 +2048,12 @@
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 * [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator): Generate Grafana dashboards from configuration
 * [macoscope/GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard): Hang a TV in your open space or team room to show everyone what's up and get them up to speed.
+* [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [prometheus/graphite_exporter](https://github.com/prometheus/graphite_exporter): Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
+* [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor): 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 * [hasura/graphql-engine](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+* [graphql/graphql-playground](https://github.com/graphql/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+* [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus): GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native 
 * [groue/GRDB.swift](https://github.com/groue/GRDB.swift): A toolkit for SQLite databases, with a focus on application development
 * [500px/greedo-layout-for-ios](https://github.com/500px/greedo-layout-for-ios): Full aspect ratio grid layout for iOS
 * [zhihu/griffith](https://github.com/zhihu/griffith): A React-based web video player
