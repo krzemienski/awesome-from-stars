@@ -3263,6 +3263,9 @@
     "anatol/pkgoutofdate": [
         "Other"
     ],
+    "ancalentari/twitch-stream-recorder": [
+        "Other"
+    ],
     "andeaseme/backbeat": [
         "Other"
     ],
@@ -5853,6 +5856,9 @@
         "Other"
     ],
     "emacsfodder/emacs-theme-darktooth": [
+        "Other"
+    ],
+    "emarsden/dash-mpd-cli": [
         "Other"
     ],
     "embedly/player.js": [

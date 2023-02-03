@@ -1150,6 +1150,7 @@
 * [Dash-Industry-Forum/Dash-Industry-Forum.github.io](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io): Public website for DASH IF
 * [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS): Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
 * [Dash-Industry-Forum/dash-live-source-simulator](https://github.com/Dash-Industry-Forum/dash-live-source-simulator): DASH live source simulator providing reference live content.
+* [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli): Download media content from a DASH-MPEG or DASH-WebM MPD manifest
 * [Viblast/dash-proxy](https://github.com/Viblast/dash-proxy): Easy downloading and mirroring of MPEG-DASH streams
 * [tchakabam/dash-proxy](https://github.com/tchakabam/dash-proxy): Experimental MPEG-DASH media gateway - proxy on-the-fly modified MP4 segment metadata
 * [theolampert/dash-server](https://github.com/theolampert/dash-server): Small, command-line HTTP/2 file server for serving MPEG-DASH content.
@@ -4407,6 +4408,7 @@
 * [amiechen/twitch-batch-loader](https://github.com/amiechen/twitch-batch-loader): Batch download twitch clips in terminal
 * [TorbenCapiau/Twitch-Clips-Downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader): Streamers have been receiving a lot of copyright complaints and are forced to delete all their clips to avoid their Twitch account being closed. Save the clips you've made with this tool.
 * [dudik/twitch-m3u8](https://github.com/dudik/twitch-m3u8): Get the stream URL of a Twitch livestream or past broadcast (VOD).
+* [ancalentari/twitch-stream-recorder](https://github.com/ancalentari/twitch-stream-recorder): Record twitch streams live!
 * [ilyalissoboi/twitch_downloader](https://github.com/ilyalissoboi/twitch_downloader): A universal twitch.tv VOD download script. Compatible with both old- and new-style VODs.
 * [FrozenIronSoftware/Twitched](https://github.com/FrozenIronSoftware/Twitched): Unofficial Twitch app for the Roku
 * [willemvermeer/typed-actors](https://github.com/willemvermeer/typed-actors): Example code of Typed Actors presentation including GitPitch slides
