@@ -192,7 +192,7 @@
 * [realeyes-media/alpine-node-git](https://github.com/realeyes-media/alpine-node-git): A minimal NodeJS base image with some sensible additions.
 * [ironsalsa/alpine-node-video-multitool](https://github.com/ironsalsa/alpine-node-video-multitool): An Alpine image with Node, Yarn, Bento, PM2, FFMPEG, GlibC, Oracle Java
 * [realeyes-media/alpine-sftp](https://github.com/realeyes-media/alpine-sftp): Easy to use SFTP server
-* [rileytestut/AltStore](https://github.com/rileytestut/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
+* [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
 * [Leleat/AltTab-Mod](https://github.com/Leleat/AltTab-Mod): A GNOME extension to add QoL changes to the App Switcher.
 * [DolbyLaboratories/AM-Viewer](https://github.com/DolbyLaboratories/AM-Viewer): Audio Metadata Viewer
 * [aws-samples/amazon-cloudfront-functions](https://github.com/aws-samples/amazon-cloudfront-functions): None
