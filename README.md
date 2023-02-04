@@ -1557,6 +1557,7 @@
 * [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
 * [BoostIO/ever2boost](https://github.com/BoostIO/ever2boost): None
+* [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 * [exaile/exaile](https://github.com/exaile/exaile): :notes: Cross-platform music player
 * [oatpp/example-hls-media-stream](https://github.com/oatpp/example-hls-media-stream): Example project how-to build HLS-streaming server using oat++ Async-API.
 * [muxinc/example-ios-live-streaming](https://github.com/muxinc/example-ios-live-streaming): An example app for live streaming from an iOS device using the Mux live streaming service.
@@ -1661,6 +1662,7 @@
 * [datarhei/ffmpeg](https://github.com/datarhei/ffmpeg): FFmpeg base image for datarhei/core.
 * [ffvvc/FFmpeg](https://github.com/ffvvc/FFmpeg): VVC Decoder for ffmpeg
 * [intel-media-ci/ffmpeg](https://github.com/intel-media-ci/ffmpeg): Intel developer pre-check staging area for ffmpeg.org contributions.
+* [jiashaokun/ffmpeg](https://github.com/jiashaokun/ffmpeg): 基于FFmpeg的python视频处理包-因疫情影响，工作比较繁忙，心情也没在视频上面再研究，该项目已经搁置，源码很简单，大家可以自己研究一下自己扩展
 * [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg): Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
 * [jlw4049/FFMPEG-Audio-Encoder](https://github.com/jlw4049/FFMPEG-Audio-Encoder): A powerful FFMPEG audio encoder GUI
@@ -1680,6 +1682,7 @@
 * [slhck/ffmpeg-encoding-course](https://github.com/slhck/ffmpeg-encoding-course): An introduction to FFmpeg and its tools
 * [svt/ffmpeg-filter-proxy](https://github.com/svt/ffmpeg-filter-proxy): FFmpeg video proxy filter
 * [five82/ffmpeg-git](https://github.com/five82/ffmpeg-git): An FFmpeg container compiled from the git master branch.
+* [transitive-bullshit/ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition): FFmpeg filter for applying GLSL transitions between video streams.
 * [BradHeff/ffmpeg-GUI](https://github.com/BradHeff/ffmpeg-GUI): ffmpeg python Gtk GUI 
 * [svpv/ffmpeg-hls](https://github.com/svpv/ffmpeg-hls): None
 * [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script): Shell scripts to build FFmpeg for iOS and tvOS
@@ -2797,6 +2800,7 @@
 * [czellerkonti/massento](https://github.com/czellerkonti/massento): ffmpeg wrapper written in python to encode all videos in a folder structure according to user defines encoding templates
 * [ustwo/mastermind](https://github.com/ustwo/mastermind): Man in the middle testing
 * [mastodon/mastodon](https://github.com/mastodon/mastodon): Your self-hosted, globally interconnected microblogging community
+* [sergree/matchering](https://github.com/sergree/matchering): 🎚️ Open Source Audio Matching and Mastering
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
 * [CosmicMind/Material](https://github.com/CosmicMind/Material): A UI/UX framework for creating beautiful applications.
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
@@ -3504,6 +3508,7 @@
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
+* [Zibbp/Radium](https://github.com/Zibbp/Radium): Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
 * [rokudev/RAF4RSG-sample](https://github.com/rokudev/RAF4RSG-sample): sample demonstrating the Roku Advertising Framework in SceneGraph
 * [e-ucm/rage-analytics](https://github.com/e-ucm/rage-analytics): RAGE Analytics Environment
 * [rakam-io/rakam-api](https://github.com/rakam-io/rakam-api): 📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)
@@ -4212,6 +4217,7 @@
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
 * [syncany/syncany](https://github.com/syncany/syncany): Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage.
 * [syncany/syncany-plugin-gui](https://github.com/syncany/syncany-plugin-gui): Syncany GUI Plugin
+* [Syncplay/syncplay](https://github.com/Syncplay/syncplay): Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 * [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 * [kozec/syncthing-gtk](https://github.com/kozec/syncthing-gtk): GTK3 & python based GUI for Syncthing
 * [RblSb/SyncTube](https://github.com/RblSb/SyncTube): Synchronized video viewing with chat and other features (one-channel web service)
@@ -4283,6 +4289,7 @@
 * [system76/thelio](https://github.com/system76/thelio): Thelio Desktop by System76
 * [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList): A list of Awesome Server Side Swift 3 projects
 * [hiberbee/themes](https://github.com/hiberbee/themes): Dark color schemes for Jetbrains IDEs
+* [warpdotdev/themes](https://github.com/warpdotdev/themes): Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 * [themix-project/themix-gui](https://github.com/themix-project/themix-gui): Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.
 * [theos/theos](https://github.com/theos/theos): A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 * [intel/thermal_daemon](https://github.com/intel/thermal_daemon): Thermal daemon for IA
@@ -4635,7 +4642,7 @@
 * [vmware-archive/vsphere-storage-for-kubernetes](https://github.com/vmware-archive/vsphere-storage-for-kubernetes): vSphere Storage for Kubernetes
 * [MrRio/vtop](https://github.com/MrRio/vtop): Wow such top. So stats. More better than regular top.
 * [video-dev/vtt.js](https://github.com/video-dev/vtt.js): A JavaScript implementation of the WebVTT specification
-* [vuejs/vue](https://github.com/vuejs/vue): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [vuejs/vue](https://github.com/vuejs/vue): This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 * [lmxdawn/vue-admin-java](https://github.com/lmxdawn/vue-admin-java): spring boot + mybatis + vue + element-ui 实现后台管理API接口 https://lmxdawn.github.io/vue-admin-java
 * [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template): a vue2.0 minimal admin template 
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
@@ -4654,6 +4661,7 @@
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [elementary/wallpapers](https://github.com/elementary/wallpapers): Collection of wallpapers for elementary OS
 * [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
+* [warpdotdev/Warp](https://github.com/warpdotdev/Warp): Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 * [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
 * [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal): a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image 
