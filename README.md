@@ -1901,6 +1901,7 @@
 * [petrpavlik/GeoSwift](https://github.com/petrpavlik/GeoSwift): Location-related APIs intended to be used by server-side Swift applications.
 * [regexident/Gestalt](https://github.com/regexident/Gestalt): An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
+* [krzemienski/gh-starred-lists](https://github.com/krzemienski/gh-starred-lists): A GitHub CLI extension to clone your starred repos organized by starred lists
 * [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars): Displays an interactive and searchable list of your GitHub starred repositories
 * [slapperwan/gh4a](https://github.com/slapperwan/gh4a): Github client for Android
 * [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework
