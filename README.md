@@ -2374,6 +2374,7 @@
 * [ipython/ipython](https://github.com/ipython/ipython): Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 * [ooyala/iq-sdk-roku-sample](https://github.com/ooyala/iq-sdk-roku-sample): None
 * [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
+* [iRobotEducation/irobot-edu-python-sdk](https://github.com/iRobotEducation/irobot-edu-python-sdk): Python SDK for iRobot Edu robots (Root or Create 3)
 * [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
 * [pop-os/iso](https://github.com/pop-os/iso): Pop!_OS ISO production
 * [MPEGGroup/isobmff](https://github.com/MPEGGroup/isobmff): Official repository of the ISO Base Media File Format Reference Software
