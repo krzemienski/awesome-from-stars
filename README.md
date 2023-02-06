@@ -1151,6 +1151,7 @@
 * [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS): Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
 * [Dash-Industry-Forum/dash-live-source-simulator](https://github.com/Dash-Industry-Forum/dash-live-source-simulator): DASH live source simulator providing reference live content.
 * [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli): Download media content from a DASH-MPEG or DASH-WebM MPD manifest
+* [plotly/dash-player](https://github.com/plotly/dash-player): Dash Component wrapping React-Player
 * [Viblast/dash-proxy](https://github.com/Viblast/dash-proxy): Easy downloading and mirroring of MPEG-DASH streams
 * [tchakabam/dash-proxy](https://github.com/tchakabam/dash-proxy): Experimental MPEG-DASH media gateway - proxy on-the-fly modified MP4 segment metadata
 * [theolampert/dash-server](https://github.com/theolampert/dash-server): Small, command-line HTTP/2 file server for serving MPEG-DASH content.
@@ -1606,6 +1607,7 @@
 * [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame): Tool to help us buy hard to find items. 
 * [andreyrikunov/fairplay-ksm](https://github.com/andreyrikunov/fairplay-ksm): FairPlay Key Security Module
 * [testdrivenio/falcon-celery](https://github.com/testdrivenio/falcon-celery): Example of how to handle background processes with Falcon, Celery, and Docker
+* [rockcarry/fanplayer](https://github.com/rockcarry/fanplayer): A portable video player based on ffmpeg for windows and android platform.
 * [ClearSlide/Fantastic-Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder): Fantastic transcoder is a video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
 * [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli): Test your download and upload speed using fast.com
 * [tiangolo/fastapi](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2630,6 +2632,7 @@
 * [Yahweasel/libav.js](https://github.com/Yahweasel/libav.js): This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web.
 * [szatmary/libcaption](https://github.com/szatmary/libcaption): Free open-source CEA608 / CEA708 closed-caption encoder/decoder
 * [bitmovin/libdash](https://github.com/bitmovin/libdash): MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
+* [strukturag/libde265](https://github.com/strukturag/libde265): Open h.265 video codec implementation.
 * [strukturag/libde265.js](https://github.com/strukturag/libde265.js): JavaScript-only version of libde265 HEVC/H.265 decoder.
 * [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs): golang library to read and write various subtitle formats
 * [ithewei/libhv](https://github.com/ithewei/libhv): 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.

@@ -10676,6 +10676,9 @@
     "pld-linux/kvazaar": [
         "Other"
     ],
+    "plotly/dash-player": [
+        "Other"
+    ],
     "pm990320/docker-flask-celery": [
         "Other"
     ],
@@ -11301,6 +11304,9 @@
         "Other"
     ],
     "robotframework/robotframework": [
+        "Other"
+    ],
+    "rockcarry/fanplayer": [
         "Other"
     ],
     "rocketinsights/appletv-design-templates": [
@@ -12402,6 +12408,9 @@
         "Other"
     ],
     "structurely/ecs-autoscale": [
+        "Other"
+    ],
+    "strukturag/libde265": [
         "Other"
     ],
     "strukturag/libde265.js": [
