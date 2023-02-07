@@ -1760,6 +1760,7 @@
 * [amzn/firetv-sample-touch-app](https://github.com/amzn/firetv-sample-touch-app): This sample Android project demonstrates how to build the main UI of a Fire TV application in order to support both Touch interactions and Remote D-Pad controls.
 * [rhcp011235/firetv_bootloader_unlock](https://github.com/rhcp011235/firetv_bootloader_unlock): Opensource Amazon FireTv Bootloader Unlock Tool
 * [system76/firmware-open](https://github.com/system76/firmware-open): System76 Open Firmware
+* [hanton/Fisheye](https://github.com/hanton/Fisheye): Open Source iOS 360 Degree Panorama Video Player. (HTY360Player is renamed to Fisheye)
 * [jasontbradshaw/flac2mp3](https://github.com/jasontbradshaw/flac2mp3): A multithreaded Python script for converting flac files to mp3 files on Linux and OS X.
 * [Netflix/flamescope](https://github.com/Netflix/flamescope): FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 * [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1906,8 +1907,10 @@
 * [krzemienski/gh-starred-lists](https://github.com/krzemienski/gh-starred-lists): A GitHub CLI extension to clone your starred repos organized by starred lists
 * [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars): Displays an interactive and searchable list of your GitHub starred repositories
 * [slapperwan/gh4a](https://github.com/slapperwan/gh4a): Github client for Android
+* [ayush--s/gh_stars_export](https://github.com/ayush--s/gh_stars_export): Exports list of all your starred Github repos to a json file
 * [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework
 * [eldarlabs/ghpages-deploy-script](https://github.com/eldarlabs/ghpages-deploy-script): Test and demo repo for a script to deploy ghpages on a successful CircleCI build
+* [jib1337/ghstars](https://github.com/jib1337/ghstars): Access starred Github repos quickly and easily
 * [kennethreitz/ghsync](https://github.com/kennethreitz/ghsync): Github Syncer. Clones or Pulls all GitHub repos (owned and watched).
 * [cooperspencer/gickup](https://github.com/cooperspencer/gickup): None
 * [xdarklight/gigabyte_ambientled_ctrl](https://github.com/xdarklight/gigabyte_ambientled_ctrl): Scripts for controlling the Ambient LEDs found on some GIGABYTE mainboards on Linux
@@ -1938,9 +1941,12 @@
 * [steinfletcher/github-org-clone](https://github.com/steinfletcher/github-org-clone): :octocat: Clone repositories managed by a github organisation or team
 * [densebrain/github-org-reporter](https://github.com/densebrain/github-org-reporter): None
 * [jeroenoomsNL/github-project-starter](https://github.com/jeroenoomsNL/github-project-starter): A boilerplate for Github frontend projects to save time on creating a build process and a demo pages for Github Pages.
+* [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking): :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 * [soroushchehresa/github-react-native-apollo-graphql](https://github.com/soroushchehresa/github-react-native-apollo-graphql):  📱 A GitHub mobile app built with React-Native and Apollo GraphQL
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper): 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
+* [grtfou/github-stars](https://github.com/grtfou/github-stars): List stars of Github account to markdown file
+* [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic): :star: Generate a list of your GitHub stars by topic - automatically!
 * [paulphys/github-stars-download](https://github.com/paulphys/github-stars-download): git clone all of your starred repositories on github
 * [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager): Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
 * [udpsec/github-tools](https://github.com/udpsec/github-tools): this github tools to  Batch update stars ,clone repository and unstars 
@@ -1956,6 +1962,7 @@
 * [ad/GithubListener](https://github.com/ad/GithubListener): Notifying about new commits from watched repos on github
 * [jindulys/GithubPilot](https://github.com/jindulys/GithubPilot): Github API V3 Swifty Wrapper
 * [Karambirov/GitHubSearch](https://github.com/Karambirov/GitHubSearch): GitHub iOS client with minimum third-party dependencies.
+* [vmarkovtsev/GitHubStars](https://github.com/vmarkovtsev/GitHubStars): Python script to fetch GitHub repos metadata.
 * [kujian/githubTrending](https://github.com/kujian/githubTrending): Github前端趋势榜，每日更新前端热门项目。Tracking the most popular Github repos of frontend, updated daily
 * [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt): Hunt the most starred projects on any date on GitHub
 * [hasura/gitkube](https://github.com/hasura/gitkube): Build and deploy docker images to Kubernetes using git push
@@ -2242,7 +2249,6 @@
 * [lipizr/HTTPServer](https://github.com/lipizr/HTTPServer): Simple local HTTP Web Server for AppleTV with TVJS
 * [encode/httpx](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
 * [xroche/httrack](https://github.com/xroche/httrack): HTTrack Website Copier, copy websites to your computer (Official repository)
-* [hanton/HTY360Player](https://github.com/hanton/HTY360Player): Open Source iOS 360 Degree Panorama Video Player.
 * [github/hub](https://github.com/github/hub): A command-line tool that makes git easier to use with GitHub.
 * [kaiser-9527/hubble](https://github.com/kaiser-9527/hubble): Find your github star ezsier
 * [spotify/HubFramework](https://github.com/spotify/HubFramework): DEPRECATED – Spotify’s component-driven UI framework for iOS
@@ -3161,6 +3167,7 @@
 * [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks): [MIRROR]
 * [liberodark/ODrive](https://github.com/liberodark/ODrive): Google Drive GUI for Windows / Mac / Linux
 * [open-guides/og-aws](https://github.com/open-guides/og-aws): 📙 Amazon Web Services — a practical guide
+* [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars): An offline CLI tool to search your GitHub Stars.
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
@@ -3562,6 +3569,7 @@
 * [realm/realm-swift](https://github.com/realm/realm-swift): Realm is a mobile database: a replacement for Core Data & SQLite
 * [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 * [microsoft/recommenders](https://github.com/microsoft/recommenders): Best Practices on Recommendation Systems
+* [3cpt/recorrente](https://github.com/3cpt/recorrente): Script that get all the information of a user public repos from the Github API and save it in an incremental CSV
 * [lightspin-tech/red-kube](https://github.com/lightspin-tech/red-kube): Red Team K8S Adversary Emulation Based on kubectl
 * [davidbombal/red-python-scripts](https://github.com/davidbombal/red-python-scripts): None
 * [Red5/red5-server](https://github.com/Red5/red5-server): Red5 Server core
@@ -4232,6 +4240,7 @@
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 * [design-first/system-designer](https://github.com/design-first/system-designer): A low-code development platform for creating systems 🇺🇦#standwithUkraine
 * [design-first/system-designer-electron](https://github.com/design-first/system-designer-electron): System Designer for macOS, Windows & Linux
+* [aaronpowell/system-init](https://github.com/aaronpowell/system-init): None
 * [pop-os/system76-driver](https://github.com/pop-os/system76-driver): System76 Driver for Pop!_OS
 * [pop-os/system76-power](https://github.com/pop-os/system76-power): System76 Power Management
 * [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler): Auto-configure CFS and process priorities for improved desktop responsiveness
@@ -4284,6 +4293,7 @@
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [ianzhao05/textshot](https://github.com/ianzhao05/textshot): Python tool for grabbing text via screenshot
 * [TextureGroup/Texture](https://github.com/TextureGroup/Texture): Smooth asynchronous user interfaces for iOS apps.
+* [thombashi/thank-you-stars](https://github.com/thombashi/thank-you-stars): thank-you-stars is a CLI tool to stars to a PyPI package and its dependencies hosted on GitHub :star:
 * [thanos-io/thanos](https://github.com/thanos-io/thanos): Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -4343,6 +4353,7 @@
 * [taphouseio/TPHCloudAnalytics](https://github.com/taphouseio/TPHCloudAnalytics): None
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
 * [maquannene/Track](https://github.com/maquannene/Track): Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU.
+* [msdeep14/trackGitHubStars](https://github.com/msdeep14/trackGitHubStars): python script to find top 10 starred repos of user
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [CVJoint/traefik2](https://github.com/CVJoint/traefik2): Traefik v2: docker-compose repo
 * [apache/trafficcontrol](https://github.com/apache/trafficcontrol): Apache Traffic Control is an Open Source implementation of a Content Delivery Network
