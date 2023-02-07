@@ -2075,6 +2075,9 @@
     "Protuhj/myvideobuzz": [
         "Other"
     ],
+    "ProxymanApp/Proxyman": [
+        "Other"
+    ],
     "Ptr-srix4k/HID-Cloner": [
         "Other"
     ],
@@ -6281,6 +6284,12 @@
     "ffvvc/FFmpeg": [
         "Other"
     ],
+    "fiatjaf/awesome-jq": [
+        "Other"
+    ],
+    "fiatjaf/jqview": [
+        "Other"
+    ],
     "fifonik/FFMetrics": [
         "Other"
     ],
@@ -7518,6 +7527,9 @@
         "Other"
     ],
     "jamalex/notion-py": [
+        "Other"
+    ],
+    "james-proxy/james": [
         "Other"
     ],
     "jamescun/switcher": [
@@ -11229,6 +11241,9 @@
         "Other"
     ],
     "redisson/redisson": [
+        "Other"
+    ],
+    "reegnz/jq-zsh-plugin": [
         "Other"
     ],
     "regexident/Gestalt": [

@@ -528,6 +528,7 @@
 * [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot): 🤖 A curated list of awesome Internet of Things projects and resources.
 * [akullpp/awesome-java](https://github.com/akullpp/awesome-java): A curated list of awesome frameworks, libraries and software for the Java programming language.
 * [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books): Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
+* [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq): A curated list of awesome jq tools and resources.
 * [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets): A curated list of awesome JSON datasets that don't require authentication.
 * [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter): A curated list of awesome Jupyter projects, libraries and resources
 * [mauhai/awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab):  A curated list of awesome JupyterLab extensions and resources
@@ -2402,6 +2403,7 @@
 * [svhawks/itunes-sales-client](https://github.com/svhawks/itunes-sales-client): Fastlane sales and analytics client
 * [trulyronak/itunesconnect](https://github.com/trulyronak/itunesconnect): A Mac OS X App That Lets You Access iTunes Connect
 * [kokorin/Jaffree](https://github.com/kokorin/Jaffree): ______ Stop the War in Ukraine!  _______ Java ffmpeg and ffprobe command-line wrapper
+* [james-proxy/james](https://github.com/james-proxy/james): Web Debugging Proxy Application
 * [mpolden/jarvis2](https://github.com/mpolden/jarvis2): Awesome dashboard built with Flask and Mithril
 * [veeta-tv/jasmine-roku](https://github.com/veeta-tv/jasmine-roku): Example jasmine tests using node-roku-test for verifying Roku channel behavior
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
@@ -2444,6 +2446,8 @@
 * [nareix/joy5](https://github.com/nareix/joy5): AV toolkit
 * [jplayer/jPlayer](https://github.com/jplayer/jPlayer): jPlayer : HTML5 Audio & Video for jQuery
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
+* [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin): jq zsh plugin
+* [fiatjaf/jqview](https://github.com/fiatjaf/jqview): simplest possible native GUI for inspecting JSON objects with jq
 * [jackie1in/jre-ffmpeg-apline](https://github.com/jackie1in/jre-ffmpeg-apline): Dockerfile [jre8](https://github.com/fabric8io-images/java) and [ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg) 
 * [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 * [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py): JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
@@ -3405,6 +3409,7 @@
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 * [NVIDIA/proxyfs](https://github.com/NVIDIA/proxyfs): None
 * [facebook/proxygen](https://github.com/facebook/proxygen): A collection of C++ HTTP libraries including an easy to use HTTP server.
+* [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 * [unprofession-al/proxyproxy](https://github.com/unprofession-al/proxyproxy): A proxy that handles your corporate proxies for you
 * [HHK1/PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView): A set of tools to trim, crop and select frames inside a video
 * [Jahaja/psdash](https://github.com/Jahaja/psdash): A linux system information web dashboard using psutils and flask
