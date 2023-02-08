@@ -902,6 +902,7 @@
 * [IBM/charts](https://github.com/IBM/charts): The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [danielgindi/Charts](https://github.com/danielgindi/Charts): Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * [helm/charts](https://github.com/helm/charts): ⚠️(OBSOLETE) Curated applications for Kubernetes
+* [shobrook/ChatOverflow](https://github.com/shobrook/ChatOverflow): See ChatGPT's response to every question on StackOverflow
 * [badoo/Chatto](https://github.com/badoo/Chatto): A lightweight framework to build chat applications, made in Swift
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4): :book: Kubernetes CheatSheets In A4
@@ -2433,6 +2434,7 @@
 * [nagygergo/jetbrains-toolbox-install](https://github.com/nagygergo/jetbrains-toolbox-install): Installer for jetbrains toolbox
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib): 🏗 Build container images for your Java applications.
+* [simeji/jid](https://github.com/simeji/jid): json incremental digger
 * [jgillick/jira-changelog](https://github.com/jgillick/jira-changelog): Generates a changelog by matching git commits to Jira tickets.
 * [radibit/jira-dark-theme](https://github.com/radibit/jira-dark-theme): ⚫   A dark theme for Jira
 * [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone): A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
@@ -2446,6 +2448,8 @@
 * [jplayer/jPlayer](https://github.com/jplayer/jPlayer): jPlayer : HTML5 Audio & Video for jQuery
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
 * [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin): jq zsh plugin
+* [noahgorstein/jqp](https://github.com/noahgorstein/jqp): A TUI playground to experiment with jq
+* [jcsalterego/jqq](https://github.com/jcsalterego/jqq): jq Querier: an interactive wrapper around jq
 * [fiatjaf/jqview](https://github.com/fiatjaf/jqview): simplest possible native GUI for inspecting JSON objects with jq
 * [jackie1in/jre-ffmpeg-apline](https://github.com/jackie1in/jre-ffmpeg-apline): Dockerfile [jre8](https://github.com/fabric8io-images/java) and [ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg) 
 * [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
