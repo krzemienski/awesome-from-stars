@@ -916,6 +916,7 @@
 * [acoustid/chromaprint-build](https://github.com/acoustid/chromaprint-build): Docker image for building Chromaprint
 * [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls): Extension that allows native hls playback in chrome browser
 * [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
+* [ste82/ChromeVideoCapture](https://github.com/ste82/ChromeVideoCapture): Chrome extension to capture <video> tag stream and save it to file or transcoding with FFmpeg
 * [mesos/chronos](https://github.com/mesos/chronos): Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 * [muxinc/chunked-transfer-demo](https://github.com/muxinc/chunked-transfer-demo): Webserver that demonstrates delivery of HLS media with HTTP chunked transfer encoding
 * [fastlane/ci](https://github.com/fastlane/ci): Open source, self hosted, mobile optimized CI powered by fastlane
@@ -1726,6 +1727,7 @@
 * [aliakseis/FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer): Simple FFmpeg video player
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
+* [mbalamat/ffmpegWasmHlsToMp4](https://github.com/mbalamat/ffmpegWasmHlsToMp4): Demo of using ffmpegwasm to covert an HLS playlist to mp4, in the browser.
 * [amiaopensource/ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg commands for archivists!
 * [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy): Pythonic interface for FFmpeg/FFprobe command line
 * [wchill/ffmpy3](https://github.com/wchill/ffmpy3): Pythonic interface for FFmpeg/FFprobe command line
@@ -2280,6 +2282,7 @@
 * [gohypergiant/IAPKit](https://github.com/gohypergiant/IAPKit): A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials.
 * [IBDecodable/IBLinter](https://github.com/IBDecodable/IBLinter): A linter tool for Interface Builder
 * [jakeheis/Ice](https://github.com/jakeheis/Ice): ❄️ A developer friendly package manager for Swift; 100% compatible with Swift Package Manager
+* [iced-rs/iced](https://github.com/iced-rs/iced): A cross-platform GUI library for Rust, inspired by Elm
 * [facebook/idb](https://github.com/facebook/idb): idb is a flexible command line interface for automating iOS simulators and devices
 * [yseasony/idea-sql-generator-tool](https://github.com/yseasony/idea-sql-generator-tool): intellij idea sql generator tool
 * [Instagram/IGListKit](https://github.com/Instagram/IGListKit): A data-driven UICollectionView framework for building fast and flexible lists.
@@ -3044,6 +3047,7 @@
 * [zhaiweiwei/nginx-hls](https://github.com/zhaiweiwei/nginx-hls): None
 * [openHPI/nginx-hls-analyzer](https://github.com/openHPI/nginx-hls-analyzer): Fork of fmsloganalyzer to adapt it for HLS streaming analyzes with nginx
 * [rounce/nginx-hls-module](https://github.com/rounce/nginx-hls-module): Smooth Streaming Module fork
+* [SoloSynth1/nginx-hls-server](https://github.com/SoloSynth1/nginx-hls-server): Documentation on how to set up a HLS stream server using ffmpeg & NGINX
 * [skyformat99/nginx-netty-hls](https://github.com/skyformat99/nginx-netty-hls): nginx、netty hls流媒体架构，实现时移和回看功能。nginx负责m3u8的组装，netty负责运算把ts信息返回给nginx。实测m3u8 时移、回看功能长连接下载并发可达4w，ts 3000路跑满网卡，系统瓶颈在网卡
 * [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation): Automated docker nginx proxy integrated with letsencrypt.
 * [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker): Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
@@ -3710,6 +3714,7 @@
 * [Parallels/rq-dashboard](https://github.com/Parallels/rq-dashboard): Flask-based web front-end for monitoring RQ queues
 * [rr-debugger/rr](https://github.com/rr-debugger/rr): Record and Replay Framework
 * [theREDspace/RSG-Doc](https://github.com/theREDspace/RSG-Doc): Roku scene graph documentation generator
+* [oreparaz/rshift](https://github.com/oreparaz/rshift): Time-shifted HLS streaming
 * [opensourceway/rsync-backup-script](https://github.com/opensourceway/rsync-backup-script): A script to accompany https://opensource.com/article/17/1/rsync-backup-linux
 * [contention/rsync-deployments](https://github.com/contention/rsync-deployments): GitHub Action for deploying code via rsync over ssh
 * [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX): A macOS GUI for rsync. Compiled for macOS Big Sur and later
@@ -3727,6 +3732,7 @@
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 * [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
 * [meh/rust-ffmpeg](https://github.com/meh/rust-ffmpeg): Safe FFmpeg wrapper.
+* [sjy-dv/rust-ffmpeg](https://github.com/sjy-dv/rust-ffmpeg): ffmpeg mp4, hls, hls-streaming, live-streaming
 * [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg): Safe FFmpeg wrapper.
 * [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys): FFmpeg bindings for Rust.
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
@@ -3894,6 +3900,7 @@
 * [testdrivenio/simple-task-queue](https://github.com/testdrivenio/simple-task-queue): asynchronous task queues using python's multiprocessing library
 * [KTachibanaM/simple-url-previewer](https://github.com/KTachibanaM/simple-url-previewer): A simple service that extracts metadata from a URL
 * [simplejson/simplejson](https://github.com/simplejson/simplejson): simplejson is a simple, fast, extensible JSON encoder/decoder for Python 
+* [SimpleSSAI/SimpleSSAI](https://github.com/SimpleSSAI/SimpleSSAI): Simple API-driven Server Side Ad Insertion(SSAI). An easy to use solution for stitching Ads into content to protect ad monitization
 * [leixiaohua1020/simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile): ffmpeg examples in Android / IOS / WinPhone
 * [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM): Sample code for Virtualization framework
 * [apptainer/singularity](https://github.com/apptainer/singularity): Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
@@ -4099,10 +4106,12 @@
 * [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5): Testbed examples for Red5 Pro HTML SDK usage
 * [red5pro/streaming-ios](https://github.com/red5pro/streaming-ios): This repository contains a simple project with a number of iOS examples that can be used for testing and reference.
 * [unifiedstreaming/streaming-load-testing](https://github.com/unifiedstreaming/streaming-load-testing): Load generation tool for evaluation of DASH and HLS video streaming setups
+* [239144498/Streaming-Media-Server-Pro](https://github.com/239144498/Streaming-Media-Server-Pro): 这是一个强大的IPTV源后端服务，具有视频缓冲区功能，程序内置了很多独家频道，不够？你还可以自定义添加电视源；超多功能接口，还可以添加你的代理，并且适合任意平台，非常适合作为家庭影院的IPTV服务！可玩性超高，更多详情点击查看。
 * [Eyevinn/streaming-onboarding](https://github.com/Eyevinn/streaming-onboarding): New to streaming and don't know where to start? This is the place for you!
 * [tumtumtum/StreamingKit](https://github.com/tumtumtum/StreamingKit): A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS (iPhone, iPad)
 * [streamlinevideo/streamline](https://github.com/streamlinevideo/streamline): A reference system for end to end live streaming video. Capture, encode, package, uplink, origin, CDN, and player. 
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
+* [Neeraj319/streammmm](https://github.com/Neeraj319/streammmm): A twitch like platform.
 * [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): Android RTMP/RTMPS and SRT live streaming libraries
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
@@ -4444,6 +4453,7 @@
 * [ancalentari/twitch-stream-recorder](https://github.com/ancalentari/twitch-stream-recorder): Record twitch streams live!
 * [ilyalissoboi/twitch_downloader](https://github.com/ilyalissoboi/twitch_downloader): A universal twitch.tv VOD download script. Compatible with both old- and new-style VODs.
 * [FrozenIronSoftware/Twitched](https://github.com/FrozenIronSoftware/Twitched): Unofficial Twitch app for the Roku
+* [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink): Twitch Stream & Video & Clip Downloader.
 * [willemvermeer/typed-actors](https://github.com/willemvermeer/typed-actors): Example code of Typed Actors presentation including GitPitch slides
 * [typhoeus/typhoeus](https://github.com/typhoeus/typhoeus):  Typhoeus wraps libcurl in order to make fast and reliable requests.
 * [ubports/ubports-installer](https://github.com/ubports/ubports-installer): A simple tool to install Ubuntu Touch on UBports devices
@@ -4486,6 +4496,7 @@
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
 * [twostraws/Unwrap](https://github.com/twostraws/Unwrap): Learn Swift interactively on your iPhone.
+* [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 * [railsware/upterm](https://github.com/railsware/upterm): A terminal emulator for the 21st century.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 * [lucamattiazzi/url-decorator](https://github.com/lucamattiazzi/url-decorator): Decorate URL adding some og metadata so that they appear cool on Slack
@@ -4710,6 +4721,7 @@
 * [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): A WebDriver server for iOS that runs inside the Simulator.
 * [webiny/webiny-js](https://github.com/webiny/webiny-js): Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 * [WowzaMediaSystems/webrtc-examples](https://github.com/WowzaMediaSystems/webrtc-examples): WebRTC Examples
+* [Eyevinn/webrtc-player](https://github.com/Eyevinn/webrtc-player): WebRTC (recvonly) player
 * [vapor/websocket-kit](https://github.com/vapor/websocket-kit): WebSocket client library built on SwiftNIO
 * [glut23/webvtt-py](https://github.com/glut23/webvtt-py): Read, write and segment WebVTT caption files in Python.
 * [opencoconut/webvtt-ruby](https://github.com/opencoconut/webvtt-ruby): WebVTT Ruby parser and segmenter

@@ -20,6 +20,9 @@
     "22bulbs/brom": [
         "Other"
     ],
+    "239144498/Streaming-Media-Server-Pro": [
+        "Other"
+    ],
     "2501world/transcoding-performance-trial": [
         "Other"
     ],
@@ -1049,6 +1052,9 @@
     "Eyevinn/web-player": [
         "Other"
     ],
+    "Eyevinn/webrtc-player": [
+        "Other"
+    ],
     "FFmpeg/FFV1": [
         "Other"
     ],
@@ -1859,6 +1865,9 @@
     "NationalSecurityAgency/timely": [
         "Other"
     ],
+    "Neeraj319/streammmm": [
+        "Other"
+    ],
     "Netflix/Hystrix": [
         "Other"
     ],
@@ -2369,6 +2378,9 @@
     "SicAlpha/docker-beets": [
         "Other"
     ],
+    "SimpleSSAI/SimpleSSAI": [
+        "Other"
+    ],
     "SimulatedGREG/electron-vue": [
         "Other"
     ],
@@ -2397,6 +2409,9 @@
         "Other"
     ],
     "Solido/awesome-flutter": [
+        "Other"
+    ],
+    "SoloSynth1/nginx-hls-server": [
         "Other"
     ],
     "SoulMelody/hls-get": [
@@ -5363,6 +5378,9 @@
     "devCharles/gitRepoUpdater": [
         "Other"
     ],
+    "devhotteok/TwitchLink": [
+        "Other"
+    ],
     "devhubapp/devhub": [
         "Other"
     ],
@@ -7227,6 +7245,9 @@
         "Other"
     ],
     "icanzilb/EasyAnimation": [
+        "Other"
+    ],
+    "iced-rs/iced": [
         "Other"
     ],
     "icorn/Calibrate": [
@@ -9302,6 +9323,9 @@
     "mbadolato/iTerm2-Color-Schemes": [
         "Other"
     ],
+    "mbalamat/ffmpegWasmHlsToMp4": [
+        "Other"
+    ],
     "mbcrump/awesome-tvos": [
         "Other"
     ],
@@ -10395,6 +10419,9 @@
         "Other"
     ],
     "orcutt989/kubernetes-swagger-api": [
+        "Other"
+    ],
+    "oreparaz/rshift": [
         "Other"
     ],
     "orestispanago/Manjaro-dev-tools": [
@@ -12044,6 +12071,9 @@
     "sjfricke/awesome-webgl": [
         "Other"
     ],
+    "sjy-dv/rust-ffmpeg": [
+        "Other"
+    ],
     "skanehira/docui": [
         "Other"
     ],
@@ -12366,6 +12396,9 @@
         "Other"
     ],
     "statping/statping": [
+        "Other"
+    ],
+    "ste82/ChromeVideoCapture": [
         "Other"
     ],
     "steckdenis/threadripper-monitor": [
@@ -13269,6 +13302,9 @@
         "Other"
     ],
     "upmc-enterprises/registry-creds": [
+        "Other"
+    ],
+    "upscayl/upscayl": [
         "Other"
     ],
     "uraimo/Awesome-Swift-Playgrounds": [
