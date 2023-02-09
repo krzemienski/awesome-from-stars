@@ -4055,6 +4055,9 @@
     "bcl/HMS": [
         "Other"
     ],
+    "bcochofel/gh-project-cookiecutter": [
+        "Other"
+    ],
     "bcoudurier/FFmbc": [
         "Other"
     ],
@@ -4761,6 +4764,9 @@
         "Other"
     ],
     "clappr/clappr-ios": [
+        "Other"
+    ],
+    "clappr/clappr-plugins": [
         "Other"
     ],
     "clappr/clappr-stats": [
@@ -9734,6 +9740,9 @@
     "mpv-player/mpv": [
         "Other"
     ],
+    "mpv-player/mpv-build": [
+        "Other"
+    ],
     "mrEDitor/gnome-shell-extension-scroll-panel": [
         "Other"
     ],
@@ -10085,6 +10094,9 @@
     "nodes-vapor/storage": [
         "Other"
     ],
+    "nogoodusername/fastapi-userless-service": [
+        "Other"
+    ],
     "noirbizarre/flask-restplus": [
         "Other"
     ],
@@ -10092,6 +10104,9 @@
         "Other"
     ],
     "nolar/kopf": [
+        "Other"
+    ],
+    "nolte/cookiecutter-gh-project": [
         "Other"
     ],
     "nomad/venice": [
@@ -12711,6 +12726,9 @@
         "Other"
     ],
     "tastelessjolt/youtube-dl-android": [
+        "Other"
+    ],
+    "tauri-apps/create-tauri-app": [
         "Other"
     ],
     "tauri-apps/tauri": [

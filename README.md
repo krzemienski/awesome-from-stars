@@ -940,6 +940,7 @@
 * [clappr/clappr](https://github.com/clappr/clappr): :clapper: An extensible media player for the web.
 * [clappr/clappr-core](https://github.com/clappr/clappr-core): Core components of the Clappr player architecture
 * [clappr/clappr-ios](https://github.com/clappr/clappr-ios): An extensible media player for iOS [deprecated]
+* [clappr/clappr-plugins](https://github.com/clappr/clappr-plugins): Main plugins for the Clappr project
 * [clappr/clappr-stats](https://github.com/clappr/clappr-stats): A clappr plugin to report playback statuses (timers: session, buffering, watch and counters: play, pause, error, fps)
 * [yichengchen/clashX](https://github.com/yichengchen/clashX): None
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
@@ -1060,6 +1061,7 @@
 * [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask): A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 * [karec/cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful): Flask cookiecutter template for builing APIs with flask-restful, including JWT auth, cli, tests, swagger, docker and more
 * [testdrivenio/cookiecutter-flask-skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton): Flask Starter Project
+* [nolte/cookiecutter-gh-project](https://github.com/nolte/cookiecutter-gh-project): Template for Create Github Workflows and Projects
 * [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang): A Go project template
 * [EG-BRS/cookiecutter-java-service](https://github.com/EG-BRS/cookiecutter-java-service): None
 * [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary): Enhanced cookiecutter template for Python libraries.
@@ -1103,6 +1105,7 @@
 * [openshift-evangelists/crd-code-generation](https://github.com/openshift-evangelists/crd-code-generation): None
 * [matmoi/create-DASH-HLS](https://github.com/matmoi/create-DASH-HLS): A tutorial to generate fMp4 files compatible with dash and HLS
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
+* [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app): Rapidly scaffold out a new tauri app project.
 * [dnschneid/crouton](https://github.com/dnschneid/crouton): Chromium OS Universal Chroot Environment
 * [andrewbrg/crouton-auto](https://github.com/andrewbrg/crouton-auto): Bash script to auto-create (via crouton) a Debian / Cinnamon installation within ChromeOS and install multiple development tools
 * [dehvCurtis/Crowd-JIRA-Confluence-Gitbucket-Jenkins-Nexus-SonarQube-Mattermost-ownCloud-OpenLDAP-Docker](https://github.com/dehvCurtis/Crowd-JIRA-Confluence-Gitbucket-Jenkins-Nexus-SonarQube-Mattermost-ownCloud-OpenLDAP-Docker): A compose of following Docker containers: Crowd, JIRA, Confluence, GitBucket, Jenkins, Nexus, SonarQube, Mattermost, ownCloud, OpenLDAP containers
@@ -1625,6 +1628,7 @@
 * [testdrivenio/fastapi-docker-traefik](https://github.com/testdrivenio/fastapi-docker-traefik): FastAPI with Docker and Traefik
 * [nsidnev/fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app): Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 * [mfreeborn/fastapi-sqlalchemy](https://github.com/mfreeborn/fastapi-sqlalchemy): Adds simple SQLAlchemy support to FastAPI
+* [nogoodusername/fastapi-userless-service](https://github.com/nogoodusername/fastapi-userless-service): This is an example package. Generated using gh:cookiecutter-fastapi-template
 * [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils): Reusable utilities for FastAPI
 * [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client): FastAPI client generator
 * [fastai/fastbook](https://github.com/fastai/fastbook): The fastai book, published as Jupyter Notebooks
@@ -1908,6 +1912,7 @@
 * [petrpavlik/GeoSwift](https://github.com/petrpavlik/GeoSwift): Location-related APIs intended to be used by server-side Swift applications.
 * [regexident/Gestalt](https://github.com/regexident/Gestalt): An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
+* [bcochofel/gh-project-cookiecutter](https://github.com/bcochofel/gh-project-cookiecutter): cookiecutter template for GitHub projects
 * [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars): Displays an interactive and searchable list of your GitHub starred repositories
 * [slapperwan/gh4a](https://github.com/slapperwan/gh4a): Github client for Android
 * [ayush--s/gh_stars_export](https://github.com/ayush--s/gh_stars_export): Exports list of all your starred Github repos to a json file
@@ -2961,6 +2966,7 @@
 * [MPEGDASHPlayer/MPEGDASH-iOS-Player](https://github.com/MPEGDASHPlayer/MPEGDASH-iOS-Player): The MPEG-DASH Player iOS Application
 * [sitkevij/mpi](https://github.com/sitkevij/mpi): Rust-based MPEG-4 box inspector with TOML output.
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
+* [mpv-player/mpv-build](https://github.com/mpv-player/mpv-build): 🔨 Helper scripts to compile mpv on Linux
 * [pricingassistant/mrq](https://github.com/pricingassistant/mrq): Mr. Queue - A distributed worker task queue in Python using Redis & gevent
 * [cpearce/mse-eme](https://github.com/cpearce/mse-eme): Demo of ClearKey EME content playing via MSE
 * [msaps/MSSTabbedPageViewController](https://github.com/msaps/MSSTabbedPageViewController): [DEPRECATED] A container UIViewController that provides a simple to implement page view controller with scrolling tab bar.
