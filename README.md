@@ -2555,7 +2555,7 @@
 * [digimezzo/knowte](https://github.com/digimezzo/knowte): Cross platform note taking application
 * [shibapm/Komondor](https://github.com/shibapm/Komondor): Git Hooks for Swift projects 🐩
 * [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi): A beautiful and customizable wallpapers manager for Linux
-* [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
+* [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
 * [stakater/Konfigurator](https://github.com/stakater/Konfigurator): A kubernetes operator that dynamically generates and manages app configuration based on kubernetes resources  – [✩Star] if you're using it!
 * [Kong/kong](https://github.com/Kong/kong): 🦍 The Cloud-Native API Gateway 
 * [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
