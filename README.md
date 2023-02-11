@@ -2468,7 +2468,7 @@
 * [joebeachjoebeach/json-path-finder](https://github.com/joebeachjoebeach/json-path-finder): Web app to find the path of an item in a JSON object
 * [everit-org/json-schema](https://github.com/everit-org/json-schema): JSON Schema validator for java, based on the org.json API
 * [jsonsystems/json-schema](https://github.com/jsonsystems/json-schema): JSONSchema.Net Public Repository
-* [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora): GUI for editing, visualizing, and manipulating JSON data
+* [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora): GUI app for editing, visualizing, and manipulating JSON data
 * [perenecabuto/json_schema_generator](https://github.com/perenecabuto/json_schema_generator): A simple json schema generator from any json source
 * [willowtreeapps/jsonapi-parser](https://github.com/willowtreeapps/jsonapi-parser): A sample JSON API parser using GSON
 * [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox): HTTP-based JSON storage.
