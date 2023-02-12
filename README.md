@@ -3002,7 +3002,7 @@
 * [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs): n8n Documentation
 * [alibaba/nacos](https://github.com/alibaba/nacos): an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 * [jethrocarr/namedmanager](https://github.com/jethrocarr/namedmanager): AGPL web-based DNS management interface in PHP
-* [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools): NAS媒体库资源归集、整理自动化工具
+* [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools): NAS媒体库管理工具
 * [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie): Natalie - Storyboard Code Generator (for Swift)
 * [Palethorn/native-adaptive-streaming](https://github.com/Palethorn/native-adaptive-streaming): Extension that allows native HLS and Mpeg-DASH playback in chrome browser
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
