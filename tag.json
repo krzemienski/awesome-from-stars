@@ -1808,6 +1808,9 @@
     "NARKOZ/hacker-scripts": [
         "Other"
     ],
+    "NAStool/nas-tools": [
+        "Other"
+    ],
     "NAStools/istatserver": [
         "Other"
     ],
@@ -8007,9 +8010,6 @@
         "Other"
     ],
     "jwplayer/mpegdash": [
-        "Other"
-    ],
-    "jxxghp/nas-tools": [
         "Other"
     ],
     "jyguyomarch/awesome-productivity": [
