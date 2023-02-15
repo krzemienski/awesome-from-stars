@@ -13820,6 +13820,9 @@
     "westfort4July/TVOS-Infinite-Scroll-View": [
         "Other"
     ],
+    "wezhai/nginx-hls": [
+        "Other"
+    ],
     "whittinghamj/restreamer-production": [
         "Other"
     ],
@@ -14202,9 +14205,6 @@
         "Other"
     ],
     "zeshuaro/LinkedRW": [
-        "Other"
-    ],
-    "zhaiweiwei/nginx-hls": [
         "Other"
     ],
     "zhangpengyf/ffmpeg-tutorial-with-swift": [

@@ -3050,7 +3050,7 @@
 * [flavioribeiro/nginx-audio-track-for-hls-module](https://github.com/flavioribeiro/nginx-audio-track-for-hls-module): :sound: Nginx module that generates audio track for HTTP Live Streaming (HLS) streams on the fly.
 * [nginx-boilerplate/nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate): Awesome Nginx configuration template
 * [juggernaut/nginx-flask-postgres-docker-compose-example](https://github.com/juggernaut/nginx-flask-postgres-docker-compose-example): A working example of nginx+flask+postgres multi-container setup using Docker Compose
-* [zhaiweiwei/nginx-hls](https://github.com/zhaiweiwei/nginx-hls): None
+* [wezhai/nginx-hls](https://github.com/wezhai/nginx-hls): None
 * [openHPI/nginx-hls-analyzer](https://github.com/openHPI/nginx-hls-analyzer): Fork of fmsloganalyzer to adapt it for HLS streaming analyzes with nginx
 * [rounce/nginx-hls-module](https://github.com/rounce/nginx-hls-module): Smooth Streaming Module fork
 * [SoloSynth1/nginx-hls-server](https://github.com/SoloSynth1/nginx-hls-server): Documentation on how to set up a HLS stream server using ffmpeg & NGINX
