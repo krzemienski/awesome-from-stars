@@ -3443,6 +3443,7 @@
 * [sturob/pullstar](https://github.com/sturob/pullstar): Pull all the repos you've starred from GitHub
 * [apache/pulsar](https://github.com/apache/pulsar): Apache Pulsar - distributed pub-sub messaging system
 * [krad/pupil](https://github.com/krad/pupil): 👁️Video Ingest Server that creates & syncs HLS assets to the cloud
+* [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [PureMVC/puremvc-swift-util-asyncproxy](https://github.com/PureMVC/puremvc-swift-util-asyncproxy): PureMVC Swift Standard/MultiCore Utility: Async Proxy
 * [creativetimofficial/purity-ui-dashboard](https://github.com/creativetimofficial/purity-ui-dashboard): Purity UI Dashboard - Free and Open Source Chakra UI Dashboard
@@ -4613,7 +4614,7 @@
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
 * [chrisboustead/videojs-vtt-thumbnails](https://github.com/chrisboustead/videojs-vtt-thumbnails): Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.
-* [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg and youtube-dl / yt-dlp
+* [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [videomorph-dev/videomorph](https://github.com/videomorph-dev/videomorph): A user-friendly Video Converter based on FFMPEG and written in Python/PyQt5.
 * [rsereda/VideoMultibitrateConverter](https://github.com/rsereda/VideoMultibitrateConverter): Python handler for ffmpeg tool for create mp4 and HLS with AES128 encryption multibitrate stream file
 * [ustwo/videoplayback-ios](https://github.com/ustwo/videoplayback-ios): Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress 
