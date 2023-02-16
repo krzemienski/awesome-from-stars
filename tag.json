@@ -4976,6 +4976,9 @@
     "cpitkin/openfaas-transcode": [
         "Other"
     ],
+    "cplee/github-actions-demo": [
+        "Other"
+    ],
     "craftzdog/dotfiles-public": [
         "Other"
     ],
@@ -6378,6 +6381,9 @@
         "Other"
     ],
     "fluent-ffmpeg/node-fluent-ffmpeg": [
+        "Other"
+    ],
+    "fluid-player/fluid-player": [
         "Other"
     ],
     "flutter/flutter": [
@@ -9930,6 +9936,9 @@
         "Other"
     ],
     "nebulabroadcast/nebula-cloud": [
+        "Other"
+    ],
+    "nektos/act": [
         "Other"
     ],
     "nelsonic/github-scraper": [

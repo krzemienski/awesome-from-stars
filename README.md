@@ -128,6 +128,7 @@
 * [acoustid/acoustid-priv-tools](https://github.com/acoustid/acoustid-priv-tools): Command line tools for AcoustID.biz private API
 * [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server): AcoustID's web site and API
 * [gilbertchen/acrosync-library](https://github.com/gilbertchen/acrosync-library): rsync client library
+* [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
 * [Eyevinn/action-eks-kubectl](https://github.com/Eyevinn/action-eks-kubectl): GitHub Action for interacting with EKS vended kubectl (k8s) 
 * [LucaFeger/action-maven-cli](https://github.com/LucaFeger/action-maven-cli): None
 * [optonaut/ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift): UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
@@ -1826,6 +1827,7 @@
 * [mher/flower](https://github.com/mher/flower): Real-time monitor and web admin for Celery distributed task queue
 * [MihaelIsaev/FluentQuery](https://github.com/MihaelIsaev/FluentQuery): 🗃 Powerful and easy to use Swift Query Builder for Vapor 3.
 * [nathangitter/fluid-interfaces](https://github.com/nathangitter/fluid-interfaces): Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces"
+* [fluid-player/fluid-player](https://github.com/fluid-player/fluid-player): Fluid Player - an open source VAST compliant HTML5 video player
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
 * [flutter/flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
@@ -1937,6 +1939,7 @@
 * [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio): :octocat: personal website + blog  for every github user
 * [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk): The (second) best iOS app for GitHub.
 * [beepboopbangbang/githoard](https://github.com/beepboopbangbang/githoard): Desktop app that enables users to quickly clone git repositories
+* [cplee/github-actions-demo](https://github.com/cplee/github-actions-demo): Demonstration of GitHub Actions
 * [Justintime50/github-archive](https://github.com/Justintime50/github-archive): A powerful tool to concurrently clone, pull, or fork user and org repos and gists to create a GitHub archive.
 * [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator): Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
