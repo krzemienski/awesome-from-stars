@@ -1686,6 +1686,7 @@
 * [scrwdrv/ffmpeg-command](https://github.com/scrwdrv/ffmpeg-command): A simple ffmpeg and ffprobe child process handler, easy to add commands and execute
 * [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander): 🛠️ FFmpeg Command Generator Web UI
 * [transitive-bullshit/ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat): Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
+* [Raveler/ffmpeg-cpp](https://github.com/Raveler/ffmpeg-cpp): A clean, easy-to-use C++ wrapper around the ffmpeg libraries
 * [romansavrulin/ffmpeg-cuda-docker](https://github.com/romansavrulin/ffmpeg-cuda-docker): use nvenc/nvdec with docker 19.x
 * [slhck/ffmpeg-debug-qp](https://github.com/slhck/ffmpeg-debug-qp): FFmpeg Debug Script for QP Values
 * [slhck/ffmpeg-encoding-course](https://github.com/slhck/ffmpeg-encoding-course): An introduction to FFmpeg and its tools
@@ -2276,6 +2277,7 @@
 * [cevr/hyper-mayukai](https://github.com/cevr/hyper-mayukai): Dark Hyper theme with bright colors - based off the VSCode Theme Mayukai
 * [chabou/hyper-pane](https://github.com/chabou/hyper-pane): Extension for Hyper.app to enhance pane navigation.
 * [sindresorhus/hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy): Elegant Hyper theme with bright colors
+* [henrikruscon/hyper-tabs-enhanced](https://github.com/henrikruscon/hyper-tabs-enhanced): Enhanced Tabs Plugin for Hyper
 * [waylybaye/hyperapp-dropbox](https://github.com/waylybaye/hyperapp-dropbox): Dropbox client
 * [waylybaye/hyperapp-ngrok](https://github.com/waylybaye/hyperapp-ngrok): Deploy ngrok server and build client use docker
 * [waylybaye/hyperapp-squid](https://github.com/waylybaye/hyperapp-squid): squid proxy
@@ -3480,6 +3482,7 @@
 * [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet): Python Cheat Sheet
 * [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper): Never use print for debugging again
 * [fedecalendino/pysub-parser](https://github.com/fedecalendino/pysub-parser): Library for extracting text and timestamps from multiple subtitle files (.ass, .ssa, .srt, .sub, .txt).
+* [tkarabela/pysubs2](https://github.com/tkarabela/pysubs2): A Python library for editing subtitle files
 * [pyopenapi/pyswagger](https://github.com/pyopenapi/pyswagger): An OpenAPI (fka Swagger) client & converter in python, which is type-safe, dynamic, spec-compliant.
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [geekcomputers/Python](https://github.com/geekcomputers/Python): My Python Examples
@@ -4606,6 +4609,7 @@
 * [antiboredom/videogrep](https://github.com/antiboredom/videogrep): automatic video supercuts with python
 * [videogular/videogular](https://github.com/videogular/videogular): The HTML5 video player for AngularJS
 * [MetalPetal/VideoIO](https://github.com/MetalPetal/VideoIO): Video Input/Output Utilities
+* [contently/videojs-annotation-comments](https://github.com/contently/videojs-annotation-comments): A plugin for video.js to add support for timeline moment/range comments and annotations
 * [videojs/videojs-contrib-dash](https://github.com/videojs/videojs-contrib-dash): Video.js plugin for supporting the MPEG-DASH playback through a video.js player
 * [videojs/videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls): HLS library for video.js
 * [videojs/videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels): None
@@ -4744,6 +4748,7 @@
 * [WeTransfer/WeScan](https://github.com/WeTransfer/WeScan): Document Scanning Made Easy for iOS
 * [dgruber/wfl](https://github.com/dgruber/wfl):  A Simple Way of Creating Job Workflows in Go running in Processes, Containers, Tasks, Pods, or Jobs 
 * [DeskConnect/WFOAuth2](https://github.com/DeskConnect/WFOAuth2): A modern OAuth 2 library for macOS, iOS, tvOS and watchOS.
+* [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer): :ocean: WFPlayer.js is an audio waveform generator
 * [ole/whats-new-in-swift-4-2](https://github.com/ole/whats-new-in-swift-4-2): An Xcode playground demonstrating the new features in in Swift 4.2.
 * [twostraws/whats-new-in-swift-5-0](https://github.com/twostraws/whats-new-in-swift-5-0): An Xcode playground that demonstrates the new features introduced in Swift 5.0.
 * [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt): Decrypt WhatsApp encrypted media files
