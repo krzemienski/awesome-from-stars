@@ -891,7 +891,7 @@
 * [jmdacruz/celery-k8s-operator](https://github.com/jmdacruz/celery-k8s-operator): Kubernetes operator for deploying Python Celery applications
 * [bstiel/celery-kubernetes](https://github.com/bstiel/celery-kubernetes): None
 * [matiaslindgren/celery-kubernetes-example](https://github.com/matiaslindgren/celery-kubernetes-example): Small Flask app with scalable, asynchronous backend workers deployed on Kubernetes.
-* [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro): Open-source productivity booster with a brain
+* [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro): 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 * [certbot/certbot](https://github.com/certbot/certbot): Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 * [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course): Certified Kubernetes Administrator - CKA Course
 * [nonameplum/Changeable](https://github.com/nonameplum/Changeable): Follow in details changes in an object.
