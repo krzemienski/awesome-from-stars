@@ -863,6 +863,9 @@
     "Erudika/para": [
         "Other"
     ],
+    "EstebanKubata/playfair": [
+        "Other"
+    ],
     "Ether-CLI/Ether": [
         "Other"
     ],
@@ -1055,6 +1058,9 @@
     "Eyevinn/webrtc-player": [
         "Other"
     ],
+    "FDH2/UxPlay": [
+        "Other"
+    ],
     "FFmpeg/FFV1": [
         "Other"
     ],
@@ -1103,6 +1109,9 @@
     "Foreverland/DesignerNewsDemo": [
         "Other"
     ],
+    "FormidableLabs/electron-webpack-dashboard": [
+        "Other"
+    ],
     "FreshRSS/FreshRSS": [
         "Other"
     ],
@@ -1137,6 +1146,9 @@
         "Other"
     ],
     "Gerzer/Binary-Shark": [
+        "Other"
+    ],
+    "GhostWriters/DockSTARTer": [
         "Other"
     ],
     "GitHawkApp/FlatCache": [
@@ -1314,6 +1326,9 @@
         "Other"
     ],
     "IrosTheBeggar/mStream": [
+        "Other"
+    ],
+    "IsmaelMartinez/teams-for-linux": [
         "Other"
     ],
     "Itiviti/simple-slack-api": [
@@ -1922,6 +1937,9 @@
     "NikNakk/ffmpeg-aws-bento4": [
         "Other"
     ],
+    "NixOS/patchelf": [
+        "Other"
+    ],
     "NorakGithub/cookiecutter-django-angular": [
         "Other"
     ],
@@ -1944,6 +1962,12 @@
         "Other"
     ],
     "NvChad/NvChad": [
+        "Other"
+    ],
+    "Nyr/openvpn-install": [
+        "Other"
+    ],
+    "Nyr/wireguard-install": [
         "Other"
     ],
     "OSC/bc_k8s_jupyter": [
@@ -2016,6 +2040,9 @@
         "Other"
     ],
     "Palethorn/native-adaptive-streaming": [
+        "Other"
+    ],
+    "PanJiaChen/electron-vue-admin": [
         "Other"
     ],
     "PanJiaChen/vue-admin-template": [
@@ -2354,6 +2381,9 @@
     "SeungheonOh/xrdm": [
         "Other"
     ],
+    "SevenBits/Mac-Linux-USB-Loader": [
+        "Other"
+    ],
     "SeverinetsDenis/SwiftAutomationCore": [
         "Other"
     ],
@@ -2445,6 +2475,9 @@
         "Other"
     ],
     "SpongeBobSun/Prodigal-iOS": [
+        "Other"
+    ],
+    "SpongeNobody/Clashy": [
         "Other"
     ],
     "SquaredTiki/Dringend-Issues": [
@@ -2609,6 +2642,12 @@
     "Tim-Barton/gogs-migration": [
         "Other"
     ],
+    "Toinane/colorpicker": [
+        "Other"
+    ],
+    "Tomotoes/scrcpy-gui": [
+        "Other"
+    ],
     "TonnyL/Awesome_APIs": [
         "Other"
     ],
@@ -2765,6 +2804,9 @@
     "Xmader/musescore-downloader": [
         "Other"
     ],
+    "YadominJinta/atilo": [
+        "Other"
+    ],
     "Yahweasel/libav.js": [
         "Other"
     ],
@@ -2796,6 +2838,9 @@
         "Other"
     ],
     "ZeroX-DG/SnippetStore": [
+        "Other"
+    ],
+    "Zettlr/Zettlr": [
         "Other"
     ],
     "Zewo/Venice": [
@@ -2937,6 +2982,12 @@
         "Other"
     ],
     "adhorn/logtoes": [
+        "Other"
+    ],
+    "adi1090x/dynamic-wallpaper": [
+        "Other"
+    ],
+    "adi1090x/polybar-themes": [
         "Other"
     ],
     "adimango/http-live-streaming-examples": [
@@ -3095,6 +3146,9 @@
     "alebcay/awesome-shell": [
         "Other"
     ],
+    "aleksey-hoffman/sigma-file-manager": [
+        "Other"
+    ],
     "alexanderepstein/Bash-Snippets": [
         "Other"
     ],
@@ -3105,6 +3159,9 @@
         "Other"
     ],
     "alexisakers/BulletinBoard": [
+        "Other"
+    ],
+    "alexkim205/G-Desktop-Suite": [
         "Other"
     ],
     "alexmojaki/instant_api": [
@@ -3222,6 +3279,9 @@
         "Other"
     ],
     "alpine-docker/k8s": [
+        "Other"
+    ],
+    "alrra/dotfiles": [
         "Other"
     ],
     "altair-viz/schemapi": [
@@ -3344,6 +3404,9 @@
     "andsens/homeshick": [
         "Other"
     ],
+    "angristan/openvpn-install": [
+        "Other"
+    ],
     "animosity22/homescripts": [
         "Other"
     ],
@@ -3383,6 +3446,9 @@
     "antiboredom/videogrep": [
         "Other"
     ],
+    "antimof/UxPlay": [
+        "Other"
+    ],
     "antoinehng/cpix_tools": [
         "Other"
     ],
@@ -3402,6 +3468,9 @@
         "Other"
     ],
     "antonpup/Aurora": [
+        "Other"
+    ],
+    "antonreshetov/massCode": [
         "Other"
     ],
     "anuraghazra/github-readme-stats": [
@@ -3614,6 +3683,9 @@
     "aptakube/aptakube": [
         "Other"
     ],
+    "aptly-dev/aptly": [
+        "Other"
+    ],
     "arbal/awesome-stars": [
         "Other"
     ],
@@ -3621,6 +3693,9 @@
         "Other"
     ],
     "arc90/git-sweep": [
+        "Other"
+    ],
+    "archcraft-os/archcraft": [
         "Other"
     ],
     "archivy/archivy": [
@@ -5756,6 +5831,9 @@
     "dvonlehman/s3-proxy": [
         "Other"
     ],
+    "dvorka/mindforger": [
+        "Other"
+    ],
     "dyc87112/SpringBoot-Learning": [
         "Other"
     ],
@@ -5874,6 +5952,12 @@
         "Other"
     ],
     "electron-react-boilerplate/examples": [
+        "Other"
+    ],
+    "electron-userland/electron-builder": [
+        "Other"
+    ],
+    "electron-vite/electron-vite-vue": [
         "Other"
     ],
     "electron/apps": [
@@ -6527,6 +6611,9 @@
     "gardener/gardener": [
         "Other"
     ],
+    "garrylachman/ElectroCRUD": [
+        "Other"
+    ],
     "gatsbyjs/gatsby": [
         "Other"
     ],
@@ -7059,6 +7146,9 @@
         "Other"
     ],
     "heineiuo/hlsdl": [
+        "Other"
+    ],
+    "hello-efficiency-inc/raven-reader": [
         "Other"
     ],
     "helloSystem/hello": [
@@ -7637,6 +7727,9 @@
     "jasontbradshaw/flac2mp3": [
         "Other"
     ],
+    "jasperapp/jasper": [
+        "Other"
+    ],
     "java-operator-sdk/java-operator-sdk": [
         "Other"
     ],
@@ -7980,6 +8073,9 @@
         "Other"
     ],
     "juggernaut/nginx-flask-postgres-docker-compose-example": [
+        "Other"
+    ],
+    "juhovh/shairplay": [
         "Other"
     ],
     "juicedata/juicefs": [
@@ -8627,6 +8723,9 @@
     "laithalsaadoon/awsbatch-ffmpeg": [
         "Other"
     ],
+    "lakinduakash/linux-wifi-hotspot": [
+        "Other"
+    ],
     "laratools/ci": [
         "Other"
     ],
@@ -8835,6 +8934,9 @@
         "Other"
     ],
     "linuxserver/docker-swag": [
+        "Other"
+    ],
+    "linuxserver/docker-webtop": [
         "Other"
     ],
     "lionheart/ASPinboard": [
@@ -9137,6 +9239,9 @@
     "manjaro/pamac": [
         "Other"
     ],
+    "manosim/gitify": [
+        "Other"
+    ],
     "manuelescrig/MEVFloatingButton": [
         "Other"
     ],
@@ -9246,6 +9351,9 @@
         "Other"
     ],
     "martyr-deepin/deepin-terminal-gtk": [
+        "Other"
+    ],
+    "massCodeIO/massCode": [
         "Other"
     ],
     "master-of-zen/Av1an": [
@@ -9653,6 +9761,9 @@
     "mmattozzi/cocoa-rest-client": [
         "Other"
     ],
+    "mmazzarolo/react-native-universal-monorepo": [
+        "Other"
+    ],
     "mmcloughlin/avo": [
         "Other"
     ],
@@ -9891,6 +10002,9 @@
         "Other"
     ],
     "n8n-io/n8n-docs": [
+        "Other"
+    ],
+    "nachifur/MulimgViewer": [
         "Other"
     ],
     "nagygergo/jetbrains-toolbox-install": [
@@ -10389,6 +10503,9 @@
         "Other"
     ],
     "openHPI/nginx-hls-analyzer": [
+        "Other"
+    ],
+    "openSUSE/open-build-service": [
         "Other"
     ],
     "openai/jukebox": [
@@ -12071,6 +12188,9 @@
     "sindresorhus/electron-boilerplate": [
         "Other"
     ],
+    "sindresorhus/electron-store": [
+        "Other"
+    ],
     "sindresorhus/fast-cli": [
         "Other"
     ],
@@ -12542,6 +12662,9 @@
     "streamlink/streamlink": [
         "Other"
     ],
+    "streetwriters/notesnook": [
+        "Other"
+    ],
     "strongself/fabricio": [
         "Other"
     ],
@@ -12723,6 +12846,9 @@
         "Other"
     ],
     "taisukeh/fastlane-plugin-xcode_test_reporter": [
+        "Other"
+    ],
+    "tal-tech/electron-playground": [
         "Other"
     ],
     "talhasch/ling": [
@@ -13970,6 +14096,9 @@
     "wsvincent/awesome-django": [
         "Other"
     ],
+    "wszqkzqk/deepin-wine-ubuntu": [
+        "Other"
+    ],
     "wulkano/aperture-node": [
         "Other"
     ],
@@ -14241,6 +14370,9 @@
         "Other"
     ],
     "zhangpengyf/ffmpeg-tutorial-with-swift": [
+        "Other"
+    ],
+    "zhaopengme/gitnote": [
         "Other"
     ],
     "zhen-ke/ffmpegGUI": [
