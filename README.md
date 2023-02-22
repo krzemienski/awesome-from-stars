@@ -3132,6 +3132,7 @@
 * [openebs/node-disk-manager](https://github.com/openebs/node-disk-manager): Kubernetes Storage Device Management
 * [larkinwc/node-express-cookie-cutter](https://github.com/larkinwc/node-express-cookie-cutter): Simple node express development environment using static pages
 * [Hackzzila/node-ffmpeg-binaries](https://github.com/Hackzzila/node-ffmpeg-binaries): None
+* [Jalle19/node-ffmpeg-mpegts-proxy](https://github.com/Jalle19/node-ffmpeg-mpegts-proxy): Simple proxy for leveraging ffmpeg to convert any source URL into MPEG-TS over HTTP
 * [phaux/node-ffmpeg-stream](https://github.com/phaux/node-ffmpeg-stream): Node.js bindings to ffmpeg command, exposing stream based API
 * [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg): A fluent API to FFMPEG (http://www.ffmpeg.org)
 * [gpac/node-gpac-dash](https://github.com/gpac/node-gpac-dash): NodeJS module for DASH streaming using GPAC
@@ -3601,6 +3602,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
+* [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
 * [Zibbp/Radium](https://github.com/Zibbp/Radium): Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
@@ -3637,6 +3639,7 @@
 * [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player): React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 * [foxford/react-hls](https://github.com/foxford/react-hls): React component for HLS player
 * [soroushchehresa/react-ignore-rerender](https://github.com/soroushchehresa/react-ignore-rerender): 🚀 Simple component for ignoring the re-rendering of a piece of React's render method.
+* [souporserious/react-media-player](https://github.com/souporserious/react-media-player): React audio and video player.
 * [facebook/react-native](https://github.com/facebook/react-native): A framework for building native applications using React
 * [Radweb/react-native-audio-transcoder](https://github.com/Radweb/react-native-audio-transcoder): Transcode audio format in react-native. Supports mp3 🎉
 * [selsamman/react-native-transcode](https://github.com/selsamman/react-native-transcode): Video Transcoder for React Native

@@ -1367,6 +1367,9 @@
     "JakeWharton/adb-event-mirror": [
         "Other"
     ],
+    "Jalle19/node-ffmpeg-mpegts-proxy": [
+        "Other"
+    ],
     "JamesKyburz/youtube-audio-stream": [
         "Other"
     ],
@@ -11297,6 +11300,9 @@
     "quodlibet/mutagen": [
         "Other"
     ],
+    "qwinff/qwinff": [
+        "Other"
+    ],
     "r-park/soundcloud-ngrx": [
         "Other"
     ],
@@ -12501,6 +12507,9 @@
         "Other"
     ],
     "soumanpaul/Video-streaming-web-app": [
+        "Other"
+    ],
+    "souporserious/react-media-player": [
         "Other"
     ],
     "sovereign/sovereign": [
