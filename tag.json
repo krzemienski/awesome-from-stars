@@ -1268,6 +1268,9 @@
     "HeroTransitions/Hero": [
         "Other"
     ],
+    "Hikari9/comfortable-swipe": [
+        "Other"
+    ],
     "HirokiUmatani/PEAR-ZoomingView-iOS": [
         "Other"
     ],
@@ -1344,6 +1347,9 @@
         "Other"
     ],
     "JNoDuq/videobench": [
+        "Other"
+    ],
+    "JREAM/ubuntu-cheatsheet": [
         "Other"
     ],
     "JStumpp/awesome-android": [
@@ -1724,6 +1730,9 @@
     "MattMcManis/Axiom": [
         "Other"
     ],
+    "MatthiasSchinzel/sysmon": [
+        "Other"
+    ],
     "MaxLeiter/Drift": [
         "Other"
     ],
@@ -1979,6 +1988,9 @@
     "OmniDB/OmniDB": [
         "Other"
     ],
+    "Onelinerhub/onelinerhub": [
+        "Other"
+    ],
     "OnionBrowser/OnionBrowser": [
         "Other"
     ],
@@ -2028,6 +2040,9 @@
         "Other"
     ],
     "PGSSoft/ParallaxView": [
+        "Other"
+    ],
+    "PJ-Singh-001/Cubic": [
         "Other"
     ],
     "PPHubApp/PPHub-Feedback": [
@@ -2199,6 +2214,9 @@
         "Other"
     ],
     "Ranchero-Software/NetNewsWire": [
+        "Other"
+    ],
+    "RandomCoderOrg/ubuntu-on-android": [
         "Other"
     ],
     "Raveler/ffmpeg-cpp": [
@@ -2708,6 +2726,9 @@
     "VeinGuo/VGPlayer": [
         "Other"
     ],
+    "Ventto/mons": [
+        "Other"
+    ],
     "Ventto/pug": [
         "Other"
     ],
@@ -2988,6 +3009,9 @@
         "Other"
     ],
     "adi1090x/polybar-themes": [
+        "Other"
+    ],
+    "adi1090x/uGRUB": [
         "Other"
     ],
     "adimango/http-live-streaming-examples": [
@@ -3581,6 +3605,9 @@
     "app-generator/flask-material-dashboard": [
         "Other"
     ],
+    "app-outlet/app-outlet": [
+        "Other"
+    ],
     "appcoda/GCDSamples": [
         "Other"
     ],
@@ -3696,6 +3723,9 @@
         "Other"
     ],
     "archcraft-os/archcraft": [
+        "Other"
+    ],
+    "archcraft-os/archcraft-openbox": [
         "Other"
     ],
     "archivy/archivy": [
@@ -3912,6 +3942,9 @@
         "Other"
     ],
     "aws-controllers-k8s/community": [
+        "Other"
+    ],
+    "aws-quickstart/quickstart-linux-bastion": [
         "Other"
     ],
     "aws-samples/amazon-cloudfront-functions": [
@@ -5030,6 +5063,9 @@
     "coreos/manifest": [
         "Other"
     ],
+    "coreprocess/linux-unattended-installation": [
+        "Other"
+    ],
     "coreybobco/setlistspy-api": [
         "Other"
     ],
@@ -5319,6 +5355,9 @@
         "Other"
     ],
     "davidfischer-ch/pytoolbox": [
+        "Other"
+    ],
+    "davidfoerster/aptsources-cleanup": [
         "Other"
     ],
     "davidhalter/jedi": [
@@ -5730,6 +5769,9 @@
         "Other"
     ],
     "dooman87/imagemagick-docker": [
+        "Other"
+    ],
+    "dorkbox/SystemTray": [
         "Other"
     ],
     "dotLou/aws-eks-terraform": [
@@ -6716,6 +6758,9 @@
     "giorgisio/goav": [
         "Other"
     ],
+    "giovtorres/kvm-install-vm": [
+        "Other"
+    ],
     "giswqs/manjaro-linux": [
         "Other"
     ],
@@ -7541,6 +7586,9 @@
     "intuit/LocationManager": [
         "Other"
     ],
+    "invertase/flutterfire_desktop": [
+        "Other"
+    ],
     "ionelmc/cookiecutter-pylibrary": [
         "Other"
     ],
@@ -7719,6 +7767,9 @@
         "Other"
     ],
     "jaskie/PlayoutAutomation": [
+        "Other"
+    ],
+    "jasonheecs/ubuntu-server-setup": [
         "Other"
     ],
     "jasonmayes/Real-Time-Person-Removal": [
@@ -8115,6 +8166,9 @@
         "Other"
     ],
     "justeat/ScrollingStackViewController": [
+        "Other"
+    ],
+    "juzzlin/Heimer": [
         "Other"
     ],
     "jverkoey/iOS-Framework": [
@@ -9191,6 +9245,9 @@
     "make-github-pseudonymous-again/awesome-qr-code": [
         "Other"
     ],
+    "makedeb/makedeb": [
+        "Other"
+    ],
     "makenotion/notion-sdk-js": [
         "Other"
     ],
@@ -9336,6 +9393,9 @@
         "Other"
     ],
     "martijnvwezel/docker-compose-gitlab-owncloud": [
+        "Other"
+    ],
+    "martin68/apt-smart": [
         "Other"
     ],
     "martinblech/xmltodict": [
@@ -9788,6 +9848,9 @@
     "moby/swarmkit": [
         "Other"
     ],
+    "modded-ubuntu/modded-ubuntu": [
+        "Other"
+    ],
     "modfy/videotranscode.space": [
         "Other"
     ],
@@ -9966,6 +10029,9 @@
         "Other"
     ],
     "muxinc/vmaf_analyzer": [
+        "Other"
+    ],
+    "mvallim/live-custom-ubuntu-from-scratch": [
         "Other"
     ],
     "mxaviersmp/cloud-computing-video-subtitles": [
@@ -11351,6 +11417,9 @@
     "raspu/Highlightr": [
         "Other"
     ],
+    "rastasheep/ubuntu-sshd": [
+        "Other"
+    ],
     "rauchg/slackin": [
         "Other"
     ],
@@ -11607,6 +11676,9 @@
         "Other"
     ],
     "rolanddb/airflow-on-kubernetes": [
+        "Other"
+    ],
+    "rolandguelle/razer-blade-stealth-linux": [
         "Other"
     ],
     "rolandoislas/BrightWebSocket": [
@@ -12701,6 +12773,9 @@
     "subnub/myDrive": [
         "Other"
     ],
+    "sudheerj/Linux-cheat-sheet": [
+        "Other"
+    ],
     "suifengqjn/TBPlayer": [
         "Other"
     ],
@@ -12819,6 +12894,9 @@
         "Other"
     ],
     "system76/thelio": [
+        "Other"
+    ],
+    "systematicat/hack-captive-portals": [
         "Other"
     ],
     "szabgab/awesome-for-non-programmers": [
@@ -13055,6 +13133,9 @@
     "thiagolioy/useful_scripts": [
         "Other"
     ],
+    "thias/glim": [
+        "Other"
+    ],
     "thibmaek/awesome-raspberry-pi": [
         "Other"
     ],
@@ -13122,6 +13203,9 @@
         "Other"
     ],
     "tilt-dev/tilt": [
+        "Other"
+    ],
+    "timche/gmail-desktop": [
         "Other"
     ],
     "timdonnelly/Advance": [
@@ -13416,6 +13500,12 @@
         "Other"
     ],
     "ubports/unity8": [
+        "Other"
+    ],
+    "ubuntu-flutter-community/settings": [
+        "Other"
+    ],
+    "ubuntu-flutter-community/software": [
         "Other"
     ],
     "ubuntu/ubuntu-make": [
@@ -14046,6 +14136,12 @@
         "Other"
     ],
     "willowtreeapps/wist": [
+        "Other"
+    ],
+    "wimpysworld/desktopify": [
+        "Other"
+    ],
+    "wimpysworld/rolling-rhino": [
         "Other"
     ],
     "wimpysworld/umpc-ubuntu": [
