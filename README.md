@@ -3046,7 +3046,7 @@
 * [vaporberlin/my-first-route](https://github.com/vaporberlin/my-first-route): This project is as simple as possible to make it as beginner friendly as possible.
 * [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios): List of applications and tools that make my iOS experience even more amazing
 * [fatih-yavuz/my-links](https://github.com/fatih-yavuz/my-links): My personal page for links.dev
-* [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os): List of applications and tools that make my macOS experience even more amazing
+* [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac): List of applications and tools that make my macOS experience even more amazing
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
