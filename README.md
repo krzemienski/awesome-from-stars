@@ -204,7 +204,7 @@
 * [aws/amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook): Amazon EKS Pod Identity Webhook
 * [awslabs/amazon-eks-serverless-drainer](https://github.com/awslabs/amazon-eks-serverless-drainer): Amazon EKS node drainer with AWS Lambda.
 * [awsdocs/amazon-eks-user-guide](https://github.com/awsdocs/amazon-eks-user-guide): The open source version of the Amazon EKS user guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
-* [amazonlinux/amazon-linux-2022](https://github.com/amazonlinux/amazon-linux-2022): Amazon Linux 2022
+* [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023): Amazon Linux 2023
 * [awsdocs/amazon-transcoder-developer-guide](https://github.com/awsdocs/amazon-transcoder-developer-guide): The open source version of the Amazon Elastic Transcoder docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 * [aws-samples/amazon-translate-video-subtitles-captions-translation](https://github.com/aws-samples/amazon-translate-video-subtitles-captions-translation): None
 * [AMD-OSX/AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla): Native AMD macOS via OpenCore
