@@ -1112,6 +1112,9 @@
     "FormidableLabs/electron-webpack-dashboard": [
         "Other"
     ],
+    "Free-TV/IPTV": [
+        "Other"
+    ],
     "FreshRSS/FreshRSS": [
         "Other"
     ],
@@ -1664,6 +1667,9 @@
     "Lissy93/dashy": [
         "Other"
     ],
+    "Lissy93/personal-security-checklist": [
+        "Other"
+    ],
     "LiveUI/S3": [
         "Other"
     ],
@@ -1731,6 +1737,9 @@
         "Other"
     ],
     "MatchbookLab/local-persist": [
+        "Other"
+    ],
+    "Matroska-Org/libmatroska": [
         "Other"
     ],
     "MattMcManis/Axiom": [
@@ -2057,6 +2066,9 @@
     "PacktPublishing/End-to-End-GUI-development-with-Qt5": [
         "Other"
     ],
+    "PaddlePaddle/PaddleHub": [
+        "Other"
+    ],
     "Palethorn/multibitrate-vod": [
         "Other"
     ],
@@ -2082,6 +2094,9 @@
         "Other"
     ],
     "Parallels/rq-dashboard": [
+        "Other"
+    ],
+    "PatrickJS/awesome-angular": [
         "Other"
     ],
     "PatrickKalkman/MiniVideoEncoder": [
@@ -2729,6 +2744,9 @@
     "ValveSoftware/Proton": [
         "Other"
     ],
+    "Vedenin/useful-java-links": [
+        "Other"
+    ],
     "VeinGuo/VGPlayer": [
         "Other"
     ],
@@ -2892,6 +2910,9 @@
         "Other"
     ],
     "aaberg/sql2o": [
+        "Other"
+    ],
+    "aalhour/awesome-compilers": [
         "Other"
     ],
     "aarnt/octopi": [
@@ -4124,6 +4145,9 @@
     "bashdot/bashdot": [
         "Other"
     ],
+    "basil79/ads-manager": [
+        "Other"
+    ],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
@@ -4278,6 +4302,9 @@
         "Other"
     ],
     "bgrins/videoconverter.js": [
+        "Other"
+    ],
+    "bharathgs/Awesome-pytorch-list": [
         "Other"
     ],
     "bhavaniravi/airflow-kube-setup": [
@@ -4775,6 +4802,9 @@
     "chinahbcq/ffmpeg_hw_decode": [
         "Other"
     ],
+    "chiraggude/awesome-laravel": [
+        "Other"
+    ],
     "chn-lee-yumi/distributed_ffmpeg_transcoding_cluster": [
         "Other"
     ],
@@ -4896,6 +4926,9 @@
         "Other"
     ],
     "clappr/dash-shaka-playback": [
+        "Other"
+    ],
+    "clappr/hlsjs-playback": [
         "Other"
     ],
     "clayrisser/dotstow": [
@@ -5283,6 +5316,9 @@
         "Other"
     ],
     "dar5hak/generator-awesome-list": [
+        "Other"
+    ],
+    "dariubs/GoBooks": [
         "Other"
     ],
     "darwiin/yaac-another-awesome-cv": [
@@ -6045,6 +6081,9 @@
         "Other"
     ],
     "elipapa/markdown-cv": [
+        "Other"
+    ],
+    "ellisonleao/magictools": [
         "Other"
     ],
     "elmoiv/sdelmo": [
@@ -6977,6 +7016,9 @@
     "gpac/test-engine-live-tools": [
         "Other"
     ],
+    "gpac/testsuite": [
+        "Other"
+    ],
     "gpchelkin/scdlbot": [
         "Other"
     ],
@@ -7091,10 +7133,16 @@
     "hackerdude/jiratotaskmanagers": [
         "Other"
     ],
+    "hackerkid/Mind-Expanding-Books": [
+        "Other"
+    ],
     "hackiftekhar/IQKeyboardManager": [
         "Other"
     ],
     "hackjutsu/Lepton": [
+        "Other"
+    ],
+    "hackstoic/golang-open-source-projects": [
         "Other"
     ],
     "haikarainen/light": [
@@ -8210,6 +8258,9 @@
     "k3s-io/k3s": [
         "Other"
     ],
+    "k4m4/movies-for-hackers": [
+        "Other"
+    ],
     "k4m4/terminals-are-sexy": [
         "Other"
     ],
@@ -8324,6 +8375,9 @@
     "kdave/btrfsmaintenance": [
         "Other"
     ],
+    "kdeldycke/awesome-falsehood": [
+        "Other"
+    ],
     "kean/Future": [
         "Other"
     ],
@@ -8358,6 +8412,9 @@
         "Other"
     ],
     "kennethreitz/ghsync": [
+        "Other"
+    ],
+    "keon/awesome-nlp": [
         "Other"
     ],
     "kerycdiaz/starters-swarm": [
@@ -8738,6 +8795,9 @@
     "kubevirt/kubevirt": [
         "Other"
     ],
+    "kuchin/awesome-cto": [
+        "Other"
+    ],
     "kudobuilder/operators": [
         "Other"
     ],
@@ -8805,6 +8865,9 @@
         "Other"
     ],
     "laurent22/joplin": [
+        "Other"
+    ],
+    "lauris/awesome-scala": [
         "Other"
     ],
     "lauthieb/code-notes": [
@@ -9053,6 +9116,9 @@
     "lmxdawn/vue-admin-java": [
         "Other"
     ],
+    "lnishan/awesome-competitive-programming": [
+        "Other"
+    ],
     "lobre/rmuploader": [
         "Other"
     ],
@@ -9138,6 +9204,9 @@
         "Other"
     ],
     "lukasbach/yana": [
+        "Other"
+    ],
+    "lukasz-madon/awesome-remote-job": [
         "Other"
     ],
     "lukechadwick/linux-intel-undervolt-gui": [
@@ -9536,6 +9605,9 @@
     "mbalamat/ffmpegWasmHlsToMp4": [
         "Other"
     ],
+    "mbasso/awesome-wasm": [
+        "Other"
+    ],
     "mbcrump/awesome-tvos": [
         "Other"
     ],
@@ -9617,6 +9689,9 @@
     "metersphere/metersphere": [
         "Other"
     ],
+    "mezod/awesome-indie": [
+        "Other"
+    ],
     "mfornos/awesome-microservices": [
         "Other"
     ],
@@ -9630,6 +9705,9 @@
         "Other"
     ],
     "mgramin/awesome-db-tools": [
+        "Other"
+    ],
+    "mhadidg/software-architecture-books": [
         "Other"
     ],
     "mhaller/pyffmpeg": [
@@ -10182,6 +10260,9 @@
         "Other"
     ],
     "networktocode/awesome-network-automation": [
+        "Other"
+    ],
+    "neutraltone/awesome-stock-resources": [
         "Other"
     ],
     "newTendermint/awesome-analytics": [
@@ -10877,6 +10958,9 @@
     "pfsense/pfsense": [
         "Other"
     ],
+    "phanan/htaccess": [
+        "Other"
+    ],
     "phaux/node-ffmpeg-stream": [
         "Other"
     ],
@@ -11259,6 +11343,9 @@
         "Other"
     ],
     "qarmin/czkawka": [
+        "Other"
+    ],
+    "qazbnm456/awesome-web-security": [
         "Other"
     ],
     "qdm12/ddns-updater": [
@@ -11718,6 +11805,9 @@
         "Other"
     ],
     "rossumur/espflix": [
+        "Other"
+    ],
+    "rothgar/awesome-tmux": [
         "Other"
     ],
     "rounce/nginx-hls-module": [
@@ -12968,6 +13058,9 @@
     "tanyuan/rokuwiki": [
         "Other"
     ],
+    "taowen/awesome-lowcode": [
+        "Other"
+    ],
     "taphouseio/TPHCloudAnalytics": [
         "Other"
     ],
@@ -13041,6 +13134,9 @@
         "Other"
     ],
     "tensorflow/tensorflow": [
+        "Other"
+    ],
+    "terkelg/awesome-creative-coding": [
         "Other"
     ],
     "termux/termux-api": [
@@ -13535,6 +13631,9 @@
     "ugorji/go": [
         "Other"
     ],
+    "ujjwalkarn/Machine-Learning-Tutorials": [
+        "Other"
+    ],
     "ultrajson/ultrajson": [
         "Other"
     ],
@@ -13976,6 +14075,9 @@
     "warpdotdev/themes": [
         "Other"
     ],
+    "warren-bank/Android-ExoPlayer-AirPlay-Receiver": [
+        "Other"
+    ],
     "warren-bank/HLS-Proxy": [
         "Other"
     ],
@@ -14153,6 +14255,9 @@
     "willowtreeapps/wist": [
         "Other"
     ],
+    "wilsonfreitas/awesome-quant": [
+        "Other"
+    ],
     "wimpysworld/desktopify": [
         "Other"
     ],
@@ -14253,6 +14358,9 @@
         "Other"
     ],
     "xfrr/goffmpeg": [
+        "Other"
+    ],
+    "xgrommx/awesome-redux": [
         "Other"
     ],
     "xhlove/XstreamDL-CLI": [
