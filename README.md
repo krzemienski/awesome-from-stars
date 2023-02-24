@@ -425,6 +425,7 @@
 * [marakew/AvProxy](https://github.com/marakew/AvProxy): IPTV transmux proxy for HTTP(S)/HLS(S)(AES128)/UDP/RTP/RTSP + VOD,  MPTS/T2MI(PLP) demux
 * [Telecommunication-Telemedia-Assessment/AVRate](https://github.com/Telecommunication-Telemedia-Assessment/AVRate): An open source modular Audio/Visual subjective evaluation test interface
 * [Telecommunication-Telemedia-Assessment/avrateNG](https://github.com/Telecommunication-Telemedia-Assessment/avrateNG): avrateNG -- next generation of avrate
+* [serhatcelik/avsub](https://github.com/serhatcelik/avsub): A simplified command-line interface for FFmpeg
 * [CurtisLeeBolin/avtc](https://github.com/CurtisLeeBolin/avtc): Audio Video TransCoder - Batch transcodes Audio Video files to HEVC/Opus/ASS/Matroska.
 * [senko/avtk](https://github.com/senko/avtk): Audio/Video toolkit for Python
 * [avTranscoder/avTranscoder](https://github.com/avTranscoder/avTranscoder): C++ API for LibAV / FFMpeg
@@ -684,6 +685,7 @@
 * [Eyevinn/awmanager](https://github.com/Eyevinn/awmanager): Of course we need an AW manager
 * [nodes-vapor/aws](https://github.com/nodes-vapor/aws): Swift wrapper around AWS API
 * [Netflix/aws-autoscaling](https://github.com/Netflix/aws-autoscaling): Tools and Documentation about using Auto Scaling
+* [aws-samples/aws-batch-with-ffmpeg](https://github.com/aws-samples/aws-batch-with-ffmpeg): Deploy a managed FFMPEG with AWS Batch
 * [widdix/aws-cf-templates](https://github.com/widdix/aws-cf-templates): Free Templates for AWS CloudFormation
 * [aws/aws-cli](https://github.com/aws/aws-cli): Universal Command Line Interface for Amazon Web Services
 * [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates): A collection of useful CloudFormation templates 
@@ -711,6 +713,7 @@
 * [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java): The official AWS SDK for Java.
 * [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2): The official AWS SDK for Java - Version 2
 * [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+* [awslabs/aws-streamer](https://github.com/awslabs/aws-streamer): Video Processing for AWS
 * [awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber): This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions which allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
 * [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
@@ -979,6 +982,7 @@
 * [docker/cli](https://github.com/docker/cli): The Docker CLI
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms
+* [clipable/clipable](https://github.com/clipable/clipable): A simple, self-hosted, alternative to Streamable
 * [tfoldi/clj-slack-sql](https://github.com/tfoldi/clj-slack-sql): Post SQL Statements results to Slack channels (JDBC)
 * [Dids/clobber](https://github.com/Dids/clobber): A command line application for building Clover.
 * [HansHammel/clone-all-github-repos](https://github.com/HansHammel/clone-all-github-repos): None
@@ -1578,6 +1582,7 @@
 * [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI): EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 * [kennell/encodeplz](https://github.com/kennell/encodeplz): video transcoding server with a HTTP-based RESTful API
 * [ystv/EncodeSrv](https://github.com/ystv/EncodeSrv): A database-driven ffmpeg based batch video transcoder, used to automate YSTV video distribution
+* [AcademySoftwareFoundation/EncodingGuidelines](https://github.com/AcademySoftwareFoundation/EncodingGuidelines): This site provides guidelines for encoding frames to movie files for review.
 * [svt/encore](https://github.com/svt/encore): Transcode media files in an epic manner
 * [w3c/encrypted-media](https://github.com/w3c/encrypted-media): Encrypted Media Extensions
 * [PacktPublishing/End-to-End-GUI-development-with-Qt5](https://github.com/PacktPublishing/End-to-End-GUI-development-with-Qt5): End to End GUI development with Qt5, published by Packt
@@ -1710,6 +1715,7 @@
 * [ericgriffin/fflock](https://github.com/ericgriffin/fflock): Distributed video transcoding.
 * [bcoudurier/FFmbc](https://github.com/bcoudurier/FFmbc): FFmpeg customized for broadcast and professional usage
 * [unosquare/ffmediaelement](https://github.com/unosquare/ffmediaelement): FFME: The Advanced WPF MediaElement (based on FFmpeg)
+* [Jocker666z/ffmes](https://github.com/Jocker666z/ffmes): FFmpeg Media Encode Script * Simple bash tool for audio/video manipulation
 * [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics): Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
 * [Fmstrat/ffmkv](https://github.com/Fmstrat/ffmkv): A bash wrapper for FFMPEG with an Inquirer menu interface and progress monitoring.
 * [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg): Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -1724,6 +1730,7 @@
 * [NikNakk/ffmpeg-aws-bento4](https://github.com/NikNakk/ffmpeg-aws-bento4): None
 * [serverlesspub/ffmpeg-aws-lambda-layer](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer): FFmpeg/FFprobe AWS Lambda layer
 * [ilyaevseev/ffmpeg-build](https://github.com/ilyaevseev/ffmpeg-build): Script for compile and install a static ffmpeg build with nvenc support.
+* [wangyoucao577/ffmpeg-build](https://github.com/wangyoucao577/ffmpeg-build): Build ffmpeg with its dependencies from source.
 * [binoculars/ffmpeg-build-lambda](https://github.com/binoculars/ffmpeg-build-lambda): Static FFmpeg builds for use on AWS Lambda
 * [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 * [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds): None
@@ -1766,9 +1773,11 @@
 * [rdp/ffmpeg-windows-build-helpers](https://github.com/rdp/ffmpeg-windows-build-helpers): Helper script for cross compiling some media tools for windows, like customizable ffmpeg.exe (with or without non-free components, etc), and some other bonuses like mplayer, mp4box, mxf, etc.
 * [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js): Port of FFmpeg with Emscripten
 * [nextbreakpoint/ffmpeg4java](https://github.com/nextbreakpoint/ffmpeg4java): FFmpeg4Java provides a JNI wrapper of FFmpeg library
+* [IORoot/ffmpeg__bash-scripts](https://github.com/IORoot/ffmpeg__bash-scripts): 🎞 FFMPEG Utility scripts and video templates to make life simpler. 💡
 * [chinahbcq/ffmpeg_hw_decode](https://github.com/chinahbcq/ffmpeg_hw_decode): video stream hardware decoding and color space conversion by ffmpeg and cuda. thread safe.
 * [Brainiarc7/ffmpeg_libnvenc](https://github.com/Brainiarc7/ffmpeg_libnvenc): This is a build of FFmpeg that supports NVIDIA's NVENC SIP block for H.264 H/W accelerated video encodes.
 * [sambios/ffmpeg_transcoder](https://github.com/sambios/ffmpeg_transcoder): video transcode based on ffmpeg, support H264/HEVC and more.
+* [HaikuArchives/ffmpegGUI](https://github.com/HaikuArchives/ffmpegGUI): GUI for FFmpeg
 * [zhen-ke/ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI): ffmpeg GUI
 * [cuongdcdev/ffmpegGui2](https://github.com/cuongdcdev/ffmpegGui2): graphical interface of FFmpeg using Java swing as a gui frontend, aim to provide easy to use interface with common and useful features
 * [siamakrostami/FFMPEGHelper](https://github.com/siamakrostami/FFMPEGHelper): Convert audio and video files using ffmpeg in swift
@@ -2076,6 +2085,7 @@
 * [asticode/go-astisub](https://github.com/asticode/go-astisub): Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 * [asticode/go-astits](https://github.com/asticode/go-astits): Demux and mux MPEG Transport Streams (.ts) natively in GO
 * [zencoder/go-dash](https://github.com/zencoder/go-dash): A Go library for generating MPEG-DASH manifests.
+* [Paxx-RnD/go-ffmpeg](https://github.com/Paxx-RnD/go-ffmpeg): Docs
 * [vansante/go-ffprobe](https://github.com/vansante/go-ffprobe): Library to easily get the ffprobe output of a given file
 * [sanathb/go-HLS](https://github.com/sanathb/go-HLS): HLS (HTTP Live Streaming) video transcoding package written in golang for AWS Elastic Transcoder.
 * [allezxandre/go-hls-encoder](https://github.com/allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
@@ -2924,6 +2934,7 @@
 * [ablwr/media-collection-viewer](https://github.com/ablwr/media-collection-viewer): visualizations/charts for media collections, based on mediainfo
 * [intel/media-driver](https://github.com/intel/media-driver): None
 * [tjenkinson/media-element-syncer](https://github.com/tjenkinson/media-element-syncer): Synchronise two or more HTML5 media elements.
+* [aws-solutions/media-insights-on-aws](https://github.com/aws-solutions/media-insights-on-aws): A serverless framework to accelerate the development of applications that discover next-generation insights in your video, audio, text, and image resources by utilizing AWS Machine Learning and Media services.
 * [ireader/media-server](https://github.com/ireader/media-server): RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 * [w3c/media-source](https://github.com/w3c/media-source): Media Source Extensions
 * [Axinom/media-tools](https://github.com/Axinom/media-tools): None
@@ -2952,6 +2963,7 @@
 * [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 * [novareto/messages_manager](https://github.com/novareto/messages_manager): FastAPI backend with a vuejs frontend for admin messages management
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
+* [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -4620,6 +4632,7 @@
 * [bcpierce00/unison](https://github.com/bcpierce00/unison): Unison file synchronizer
 * [rokudev/unit-testing-framework](https://github.com/rokudev/unit-testing-framework): Tool for automating and testing Roku channels
 * [ubports/unity8](https://github.com/ubports/unity8): The operating environment for everywhere.
+* [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
@@ -4702,6 +4715,7 @@
 * [qencode-dev/video-transcoder.online](https://github.com/qencode-dev/video-transcoder.online): Full featured video transcoding using the Qencode API that can be easily modified for your website or application.
 * [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api): Agnostic API to transcode media assets across different cloud services.
 * [donmelton/video-transcoding-scripts](https://github.com/donmelton/video-transcoding-scripts): Utilities to transcode, inspect and convert videos.
+* [yazaldefilimonepinto/video-translator](https://github.com/yazaldefilimonepinto/video-translator): Translate video or audio into multiple languages ​​in video, audio or subtitle file
 * [SachinKalsi/video-upload-and-video-streaming](https://github.com/SachinKalsi/video-upload-and-video-streaming): Video upload and video streaming using Node JS & Express JS 
 * [videojs/video.js](https://github.com/videojs/video.js): Video.js - open source HTML5 video player
 * [vfdev-5/Video2Frames](https://github.com/vfdev-5/Video2Frames): Simple video to frames converter using Opencv
@@ -4853,6 +4867,7 @@
 * [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent): A WebDriver server for iOS and tvOS
 * [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): A WebDriver server for iOS that runs inside the Simulator.
 * [webiny/webiny-js](https://github.com/webiny/webiny-js): Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+* [dfaker/WebmGenerator](https://github.com/dfaker/WebmGenerator): UI and Automation to cut, filter and join high quality webms, mp4s or gifs.
 * [WowzaMediaSystems/webrtc-examples](https://github.com/WowzaMediaSystems/webrtc-examples): WebRTC Examples
 * [Eyevinn/webrtc-player](https://github.com/Eyevinn/webrtc-player): WebRTC (recvonly) player
 * [vapor/websocket-kit](https://github.com/vapor/websocket-kit): WebSocket client library built on SwiftNIO

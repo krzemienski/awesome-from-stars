@@ -95,6 +95,9 @@
     "AaronFeng753/Waifu2x-Extension-GUI": [
         "Other"
     ],
+    "AcademySoftwareFoundation/EncodingGuidelines": [
+        "Other"
+    ],
     "AdnanHodzic/displaylink-debian": [
         "Other"
     ],
@@ -1220,6 +1223,9 @@
     "Hackzzila/node-ffmpeg-binaries": [
         "Other"
     ],
+    "HaikuArchives/ffmpegGUI": [
+        "Other"
+    ],
     "Haivision/srt": [
         "Other"
     ],
@@ -1308,6 +1314,9 @@
         "Other"
     ],
     "IENT/YUView": [
+        "Other"
+    ],
+    "IORoot/ffmpeg__bash-scripts": [
         "Other"
     ],
     "IcaliaLabs/LoginKit": [
@@ -1428,6 +1437,9 @@
         "Other"
     ],
     "Jinxiansen/ServerSideSwift": [
+        "Other"
+    ],
+    "Jocker666z/ffmes": [
         "Other"
     ],
     "JohnCoates/Aerial": [
@@ -1778,6 +1790,9 @@
     "MengTo/Spring": [
         "Other"
     ],
+    "MetalPetal/MetalPetal": [
+        "Other"
+    ],
     "MetalPetal/VideoIO": [
         "Other"
     ],
@@ -2103,6 +2118,9 @@
         "Other"
     ],
     "Paxa/postbird": [
+        "Other"
+    ],
+    "Paxx-RnD/go-ffmpeg": [
         "Other"
     ],
     "PerfectlySoft/Perfect": [
@@ -2718,6 +2736,9 @@
         "Other"
     ],
     "Uncommon/Xit": [
+        "Other"
+    ],
+    "UniversalMediaServer/UniversalMediaServer": [
         "Other"
     ],
     "Unrud/video-downloader": [
@@ -3986,6 +4007,9 @@
     "aws-samples/amazon-translate-video-subtitles-captions-translation": [
         "Other"
     ],
+    "aws-samples/aws-batch-with-ffmpeg": [
+        "Other"
+    ],
     "aws-samples/aws-device-farm-sample-app-for-ios": [
         "Other"
     ],
@@ -4020,6 +4044,9 @@
         "Other"
     ],
     "aws-solutions/live-streaming-on-aws-with-amazon-s3": [
+        "Other"
+    ],
+    "aws-solutions/media-insights-on-aws": [
         "Other"
     ],
     "aws-solutions/workload-discovery-on-aws": [
@@ -4077,6 +4104,9 @@
         "Other"
     ],
     "awslabs/aws-media-replay-engine": [
+        "Other"
+    ],
+    "awslabs/aws-streamer": [
         "Other"
     ],
     "awslabs/aws-video-transcriber": [
@@ -4940,6 +4970,9 @@
     "cli/cli": [
         "Other"
     ],
+    "clipable/clipable": [
+        "Other"
+    ],
     "cloudalchemy/ansible-prometheus": [
         "Other"
     ],
@@ -5583,6 +5616,9 @@
         "Other"
     ],
     "devxoul/Umbrella": [
+        "Other"
+    ],
+    "dfaker/WebmGenerator": [
         "Other"
     ],
     "dgelessus/pythonista_startup": [
@@ -12152,6 +12188,9 @@
     "sergree/matchering": [
         "Other"
     ],
+    "serhatcelik/avsub": [
+        "Other"
+    ],
     "serhii-londar/open-source-mac-os-apps": [
         "Other"
     ],
@@ -14066,6 +14105,9 @@
     "wangda8791/VideoTranscoder": [
         "Other"
     ],
+    "wangyoucao577/ffmpeg-build": [
+        "Other"
+    ],
     "wargarblgarbl/libgosubs": [
         "Other"
     ],
@@ -14469,6 +14511,9 @@
         "Other"
     ],
     "yassenshopov/notion-gcal-sync": [
+        "Other"
+    ],
+    "yazaldefilimonepinto/video-translator": [
         "Other"
     ],
     "ybayle/awesome-deep-learning-music": [
