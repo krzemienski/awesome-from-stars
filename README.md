@@ -4429,6 +4429,7 @@
 * [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader): Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 * [yuhuili-lab/Tide](https://github.com/yuhuili-lab/Tide): Simple m3u8 and MPEG-DASH MPD video downloader using libcurl
 * [dasri7842/tiktok-clone](https://github.com/dasri7842/tiktok-clone): My First React-Native App (not using Expo), Similar to tiktok (only hls video scrolling  and dynamic loading) and used RecyclerListView. (Assignment)
+* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
 * [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes.
 * [naman14/TimberX](https://github.com/naman14/TimberX): Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding) 
 * [NationalSecurityAgency/timely](https://github.com/NationalSecurityAgency/timely): Accumulo backed time series database
@@ -4452,6 +4453,7 @@
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 * [actions/toolkit](https://github.com/actions/toolkit): The GitHub ToolKit for developing GitHub Actions.
 * [app-developers/top](https://github.com/app-developers/top): Top App Developers - September 2022
+* [fflewddur/tophat](https://github.com/fflewddur/tophat): View CPU, memory, disk, and network activity in the GNOME top bar.
 * [matteom/TopQuestion](https://github.com/matteom/TopQuestion): An example of calling REST APIs in iOS
 * [ag2816/TorontoWalks](https://github.com/ag2816/TorontoWalks): Walk generator to discover new neighbourhoods and sites in Toronto
 * [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind
