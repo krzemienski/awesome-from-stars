@@ -1431,7 +1431,7 @@
 * [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin): very currency
 * [didi/DoKit](https://github.com/didi/DoKit): 一款面向泛前端产品研发全生命周期的效率平台。
 * [dokku/dokku](https://github.com/dokku/dokku): A docker-powered PaaS that helps you build and manage the lifecycle of applications
-* [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki): The DokuWiki Open Source Wiki Engine
+* [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki): The DokuWiki Open Source Wiki Engine
 * [rokudev/dolby-audio-sample](https://github.com/rokudev/dolby-audio-sample): A collection of Dolby test content available in different streaming protocols.
 * [DolbyLaboratories/dolby-encoding-engine](https://github.com/DolbyLaboratories/dolby-encoding-engine): None
 * [DolbyLaboratories/dolby_vision_professional_decoder_plugin](https://github.com/DolbyLaboratories/dolby_vision_professional_decoder_plugin): None
