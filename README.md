@@ -389,6 +389,7 @@
 * [google/auto](https://github.com/google/auto): A collection of source code generators for Java.
 * [majamee/auto-dash-hls](https://github.com/majamee/auto-dash-hls): Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder
 * [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
+* [yavorsky/auto-github-topics](https://github.com/yavorsky/auto-github-topics): 📝 Fetch and set topics to github from package.json
 * [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [sunhailin-Leo/AutoConfigShellScript](https://github.com/sunhailin-Leo/AutoConfigShellScript): Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV, Keras, Tensorflow(CPU Mode) and other relative environment.
@@ -523,6 +524,7 @@
 * [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers): None
 * [krzemienski/awesome-from-stars](https://github.com/krzemienski/awesome-from-stars): None
 * [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
+* [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator): Generate awesome list over Github API
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile READMEs 📝
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
@@ -1972,6 +1974,7 @@
 * [regexident/Gestalt](https://github.com/regexident/Gestalt): An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [bcochofel/gh-project-cookiecutter](https://github.com/bcochofel/gh-project-cookiecutter): cookiecutter template for GitHub projects
+* [Saif807380/gh-topics-scraper](https://github.com/Saif807380/gh-topics-scraper): Scrape 100 most popular repositories by topic on Github
 * [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars): Displays an interactive and searchable list of your GitHub starred repositories
 * [slapperwan/gh4a](https://github.com/slapperwan/gh4a): Github client for Android
 * [ayush--s/gh_stars_export](https://github.com/ayush--s/gh_stars_export): Exports list of all your starred Github repos to a json file
@@ -2012,16 +2015,19 @@
 * [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking): :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 * [soroushchehresa/github-react-native-apollo-graphql](https://github.com/soroushchehresa/github-react-native-apollo-graphql):  📱 A GitHub mobile app built with React-Native and Apollo GraphQL
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
+* [Moin-Islam/Github-Scraper](https://github.com/Moin-Islam/Github-Scraper): A web scraper which scraps github topics and details 
 * [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper): 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
 * [grtfou/github-stars](https://github.com/grtfou/github-stars): List stars of Github account to markdown file
 * [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic): :star: Generate a list of your GitHub stars by topic - automatically!
 * [paulphys/github-stars-download](https://github.com/paulphys/github-stars-download): git clone all of your starred repositories on github
 * [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager): Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
 * [udpsec/github-tools](https://github.com/udpsec/github-tools): this github tools to  Batch update stars ,clone repository and unstars 
+* [Ghurtchu/github-topics-web-scraper](https://github.com/Ghurtchu/github-topics-web-scraper): :page_facing_up::arrow_right::open_file_folder: Web Scraper for GitHub topics.
 * [ckeditor/github-writer](https://github.com/ckeditor/github-writer): GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
 * [onmyway133/Github.swift](https://github.com/onmyway133/Github.swift): :octocat: Unofficial GitHub API client in Swift
 * [conwnet/github1s](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
 * [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520): :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+* [Abhishek-2505/Github_topics_scraper](https://github.com/Abhishek-2505/Github_topics_scraper): None
 * [ameygat/githuballrepo](https://github.com/ameygat/githuballrepo): Python Scripts to download all repository or user or organization
 * [ReSwift/GitHubBrowserExample](https://github.com/ReSwift/GitHubBrowserExample): [WIP] Real World Example for ReSwift
 * [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner): A script that clones Github repositories of users and organizations.
@@ -2168,6 +2174,7 @@
 * [ibc/h264-profile-level-id](https://github.com/ibc/h264-profile-level-id): Utility to process H264 profile-level-id values
 * [aizvorski/h264bitstream](https://github.com/aizvorski/h264bitstream): A complete set of functions to read and write H.264 video bitstreams, in particular to examine or modify headers.
 * [latelee/H264BSAnalyzer](https://github.com/latelee/H264BSAnalyzer): H264(AVC) and H265(HEVC) bit stream Analyzer, VS2010 MFC project(Windows 7 x64).
+* [mike1808/h264decoder](https://github.com/mike1808/h264decoder): H.264 decoder for Go written using ffmpeg libraries
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
 * [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
@@ -3317,6 +3324,7 @@
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9): Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+* [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 * [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB): Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 * [openstack/openstack](https://github.com/openstack/openstack): Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 * [louisdh/openterm](https://github.com/louisdh/openterm): OpenTerm, a sandboxed command line interface for iOS
@@ -3642,6 +3650,7 @@
 * [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them. 
 * [HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut): Your most handy video processing software
 * [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+* [aws-quickstart/quickstart-aws-vpc](https://github.com/aws-quickstart/quickstart-aws-vpc): Amazon Virtual Private Cloud—AWS Solution
 * [aws-quickstart/quickstart-linux-bastion](https://github.com/aws-quickstart/quickstart-linux-bastion): Linux bastion host
 * [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types and converters from JSON, Schema, and GraphQL
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
@@ -3925,6 +3934,7 @@
 * [weaveworks/scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security Auditing Tool
 * [ericfourrier/scrape-linkedin](https://github.com/ericfourrier/scrape-linkedin): Scrape a public LinkedIn profile.
+* [tonhati/Scraper](https://github.com/tonhati/Scraper): Scrapes GitHub Topics , Creates a CSV file for each of the top 30 Topics containing top 25 repositories for each topic, their name, username, stars, and URL
 * [scrapy/scrapy](https://github.com/scrapy/scrapy): Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [scrapy/scrapyd](https://github.com/scrapy/scrapyd): A service daemon to run Scrapy spiders
 * [scrapy/scrapyd-client](https://github.com/scrapy/scrapyd-client): Command line client for Scrapyd server
@@ -4683,6 +4693,7 @@
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [josejuanqm/VersaPlayer](https://github.com/josejuanqm/VersaPlayer): Versatile Video Player implementation for iOS, macOS, and tvOS
 * [JoniVR/VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper): A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
+* [imgly/vesdk-ios-build](https://github.com/imgly/vesdk-ios-build): VideoEditor SDK: A fully customizable video editor for your app.
 * [vfile/vfile](https://github.com/vfile/vfile): Virtual file format for text processing used in @unifiedjs
 * [VeinGuo/VGPlayer](https://github.com/VeinGuo/VGPlayer): 📺  A simple iOS video player by Vein.
 * [bcedu/VGrive](https://github.com/bcedu/VGrive): Google Drive client  for linux
@@ -4883,6 +4894,7 @@
 * [twostraws/whats-new-in-swift-5-0](https://github.com/twostraws/whats-new-in-swift-5-0): An Xcode playground that demonstrates the new features introduced in Swift 5.0.
 * [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt): Decrypt WhatsApp encrypted media files
 * [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit): Showcase your awesome new app features 📱
+* [Eyevinn/whip](https://github.com/Eyevinn/whip): Client and Server modules for WebRTC HTTP Ingestion Protocol (WHIP)
 * [openai/whisper](https://github.com/openai/whisper): Robust Speech Recognition via Large-Scale Weak Supervision
 * [apache/wicket](https://github.com/apache/wicket): Apache Wicket - Component-based Java web framework
 * [cryptonek/widevine-l3-decryptor](https://github.com/cryptonek/widevine-l3-decryptor): Mirror of the original repo
