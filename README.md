@@ -1483,7 +1483,7 @@
 * [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template): A template for structuring dotfiles (using Dotbot as an installer) 📜
 * [iAmrSalman/Dots](https://github.com/iAmrSalman/Dots): Lightweight Concurrent Networking Framework
 * [safinsingh/dots](https://github.com/safinsingh/dots): My dotfiles for Arch Linux and bspwm
-* [clayrisser/dotstow](https://github.com/clayrisser/dotstow): Manage dotfiles with stow
+* [clayrisser/dotstow](https://github.com/clayrisser/dotstow): Mirror of https://gitlab.com/risserlabs/community/dotstow
 * [dotphiles/dotzsh](https://github.com/dotphiles/dotzsh): A community driven framework for zsh
 * [remirobert/Dotzu](https://github.com/remirobert/Dotzu): :iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
 * [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool): dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
@@ -4020,7 +4020,7 @@
 * [jamesfining/scte](https://github.com/jamesfining/scte): Python library to work with SCTE standards.
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the highest rated SCTE-35 parser / SCTE-35 decoder/ SCTE-35 encoder lib. Ever.  
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): Everybody doing SCTE-35 is using threefive. SCTE-35 for the people.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
