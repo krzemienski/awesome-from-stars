@@ -190,6 +190,7 @@
 * [Legoless/Alpha](https://github.com/Legoless/Alpha): Next generation debugging framework for iOS
 * [realeyes-media/alpine-bento-ffmpeg](https://github.com/realeyes-media/alpine-bento-ffmpeg): Alpine Linux with FFMPEG, Bento, and PM2
 * [majamee/alpine-dash-hls](https://github.com/majamee/alpine-dash-hls): A ready-prepared video transcoding pipeline to create DASH/ HLS compatible video files & playlists
+* [Commandcracker/alpine-ffmpeg](https://github.com/Commandcracker/alpine-ffmpeg): Docker image for FFmpeg
 * [mhart/alpine-node](https://github.com/mhart/alpine-node): Minimal Node.js Docker Images built on Alpine Linux
 * [realeyes-media/alpine-node-git](https://github.com/realeyes-media/alpine-node-git): A minimal NodeJS base image with some sensible additions.
 * [ironsalsa/alpine-node-video-multitool](https://github.com/ironsalsa/alpine-node-video-multitool): An Alpine image with Node, Yarn, Bento, PM2, FFMPEG, GlibC, Oracle Java
@@ -370,6 +371,7 @@
 * [bbc/audio-offset-finder](https://github.com/bbc/audio-offset-finder): Find the offset of an audio file within another audio file
 * [okorach/audio-video-tools](https://github.com/okorach/audio-video-tools): Python based batch tools to transcode audio and video conveniently (leverages FFMpeg)
 * [shinobizero/audio_transcriber](https://github.com/shinobizero/audio_transcriber): Transcodes audio & video files to text, supports MP3, M4A, WAV, MP4, MKV, AVI, MPG & MPEG. No Online API's. Python 3
+* [yermak/AudioBookConverter](https://github.com/yermak/AudioBookConverter): Improved AudioBookConverter based on freeipodsoftware release (mp3 to m4b converter)
 * [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit): Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 * [AudioKit/AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): AudioKit Synth One: Open-Source iOS Synthesizer App
 * [hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer): High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.
@@ -379,6 +381,7 @@
 * [beetbox/audioread](https://github.com/beetbox/audioread): cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python
 * [syedhali/AudioStreamer](https://github.com/syedhali/AudioStreamer): A Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine
 * [dimitris-c/AudioStreaming](https://github.com/dimitris-c/AudioStreaming): An AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
+* [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText): Transcribe and translate audio to text using Whisper and DeepL.
 * [facebookarchive/augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control): Augmented Traffic Control: A tool to simulate network conditions
 * [simon04/aur-out-of-date](https://github.com/simon04/aur-out-of-date): Determines out-of-date AUR packages w.r.t. upstream version
 * [erikdubois/Aureola](https://github.com/erikdubois/Aureola): A conky collection of great conky's following the lua syntax
@@ -391,6 +394,7 @@
 * [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
 * [yavorsky/auto-github-topics](https://github.com/yavorsky/auto-github-topics): 📝 Fetch and set topics to github from package.json
 * [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
+* [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle): Automatically generate and overlay subtitles for any video.
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [sunhailin-Leo/AutoConfigShellScript](https://github.com/sunhailin-Leo/AutoConfigShellScript): Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV, Keras, Tensorflow(CPU Mode) and other relative environment.
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
@@ -418,9 +422,11 @@
 * [Eyevinn/av1-player](https://github.com/Eyevinn/av1-player): Eyevinn AV1 player
 * [AOMediaCodec/av1-rtp-spec](https://github.com/AOMediaCodec/av1-rtp-spec): Current draft (HTML): https://aomediacodec.github.io/av1-rtp-spec/
 * [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an): Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
+* [Kidsnd274/Av1anStaxRipWrapper](https://github.com/Kidsnd274/Av1anStaxRipWrapper): Wrapper script to use Av1an with StaxRip
 * [luziferius/av1transcoder](https://github.com/luziferius/av1transcoder): Transcode video files to the AV1 format using ffmpeg and libaom-av1.
 * [media-toolbox/avbroadcast](https://github.com/media-toolbox/avbroadcast): avbroadcast - republish media streams for mass consumption
 * [wang-bin/avbuild](https://github.com/wang-bin/avbuild): ffmpeg花式编译. build tool for all platforms: iOS, android, raspberry pi, win32, uwp, linux, macOS etc.
+* [h4tr3d/avcpp](https://github.com/h4tr3d/avcpp): C++ wrapper for FFmpeg
 * [WWBN/AVideo](https://github.com/WWBN/AVideo): Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 * [mmcloughlin/avo](https://github.com/mmcloughlin/avo): Generate x86 Assembly with Go
 * [marakew/AvProxy](https://github.com/marakew/AvProxy): IPTV transmux proxy for HTTP(S)/HLS(S)(AES128)/UDP/RTP/RTSP + VOD,  MPTS/T2MI(PLP) demux
@@ -769,6 +775,7 @@
 * [DolbyLaboratories/Bento4](https://github.com/DolbyLaboratories/Bento4): Full-featured MP4 format and MPEG DASH library and tools
 * [axiomatic-systems/Bento4](https://github.com/axiomatic-systems/Bento4): Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools
 * [pop-os/beta](https://github.com/pop-os/beta): Pop!_OS Beta
+* [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress): A Python package that allows you to run an FFmpeg command & see percentage progress, ETA, etc.
 * [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython): Code examples for my Write Better Python Code series on YouTube.
 * [anachirino/bifserver](https://github.com/anachirino/bifserver): Server which creates and serves up BIF files for Roku players
 * [bbc/bigscreen-player](https://github.com/bbc/bigscreen-player): Simplified media playback for bigscreen devices
@@ -949,6 +956,7 @@
 * [acoustid/chromaprint-build](https://github.com/acoustid/chromaprint-build): Docker image for building Chromaprint
 * [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls): Extension that allows native hls playback in chrome browser
 * [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
+* [ajhsu/chromecast-device-emulator](https://github.com/ajhsu/chromecast-device-emulator): Testing your chromecast receiver app, without a real-device needed.
 * [ste82/ChromeVideoCapture](https://github.com/ste82/ChromeVideoCapture): Chrome extension to capture <video> tag stream and save it to file or transcoding with FFmpeg
 * [mesos/chronos](https://github.com/mesos/chronos): Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 * [muxinc/chunked-transfer-demo](https://github.com/muxinc/chunked-transfer-demo): Webserver that demonstrates delivery of HLS media with HTTP chunked transfer encoding
@@ -1048,6 +1056,7 @@
 * [kubernetes/community](https://github.com/kubernetes/community): Kubernetes community content
 * [video-dev/community-knowledge-base](https://github.com/video-dev/community-knowledge-base): A knowledge base for the video-dev community to keep guides, lists and howtos or any other general documentation
 * [Roberto14/CompareAA](https://github.com/Roberto14/CompareAA): Compare Associative Array in BrightScript
+* [jb-alvarado/compile-ffmpeg-osx-linux](https://github.com/jb-alvarado/compile-ffmpeg-osx-linux): Build scripts for compiling ffmpeg under OSX / Linux
 * [ColdGrub1384/compile_ios](https://github.com/ColdGrub1384/compile_ios): A helper for porting C projects to iOS
 * [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp): Course Files for Complete Python 3 Bootcamp Course on Udemy
 * [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks): Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
@@ -1164,6 +1173,7 @@
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
 * [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert cURL commands to code
+* [Freshman-tech/custom-html5-video](https://github.com/Freshman-tech/custom-html5-video): A custom HTML5 video player built with JavaScript
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
 * [shigeyf/custom-manifest-proxy-webapi](https://github.com/shigeyf/custom-manifest-proxy-webapi): A simple Web API implementation of Custom Manifest for Adaptive Media Streaming
 * [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver): Framework for implementing custom metrics support for Kubernetes
@@ -1387,6 +1397,7 @@
 * [alfg/docker-nginx-vod-module](https://github.com/alfg/docker-nginx-vod-module): A Dockerized NGINX build of the nginx-vod-module
 * [coppit/docker-no-ip](https://github.com/coppit/docker-no-ip): Docker container for No-IP DNS updater
 * [nodejs/docker-node](https://github.com/nodejs/docker-node): Official Docker Image for Node.js :whale: :turtle: :rocket: 
+* [aperim/docker-nvidia-cuda-ffmpeg](https://github.com/aperim/docker-nvidia-cuda-ffmpeg): A docker container, with ffmpeg that supports scale_cuda among other things
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 * [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole): Pi-hole in a docker container
 * [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex): None
@@ -1465,6 +1476,7 @@
 * [clayrisser/dotstow](https://github.com/clayrisser/dotstow): Manage dotfiles with stow
 * [dotphiles/dotzsh](https://github.com/dotphiles/dotzsh): A community driven framework for zsh
 * [remirobert/Dotzu](https://github.com/remirobert/Dotzu): :iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
+* [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool): dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 * [chrislongo/download-hls](https://github.com/chrislongo/download-hls): Downloads, decrypts, and optionally joins HTTP Live Streaming (HLS) transport streams.
 * [krzemienski/Download_soundcloud](https://github.com/krzemienski/Download_soundcloud): Soundcloud - A tool for download track Soundcloud.
 * [DP-3T/dp3t-sdk-ios](https://github.com/DP-3T/dp3t-sdk-ios): The DP3T-SDK for iOS
@@ -1578,6 +1590,7 @@
 * [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt): Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
 * [tversteeg/emplace](https://github.com/tversteeg/emplace): 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 * [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten): Emscripten: An LLVM-to-WebAssembly Compiler
+* [BrenekH/encodarr](https://github.com/BrenekH/encodarr): Self-hosted web app for encoding files to a target format using distributed computing.
 * [harvard-dce/encode-for-mediasource](https://github.com/harvard-dce/encode-for-mediasource): Encodes a video file so that it can be played as a MediaSource in the browser. Installs ffmpeg and bento, then runs the appropriate commands with them.
 * [CloudNcodeInc/EncodeBox](https://github.com/CloudNcodeInc/EncodeBox): Watch-folder that transcode the input media files to various output formats (adaptive streaming)
 * [facebookresearch/encodec](https://github.com/facebookresearch/encodec): State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
@@ -1595,6 +1608,7 @@
 * [entropic-dev/entropic](https://github.com/entropic-dev/entropic): 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 * [Entware/Entware](https://github.com/Entware/Entware): Ultimate repo for embedded devices
 * [envoyproxy/envoy](https://github.com/envoyproxy/envoy): Cloud-native high-performance edge/middle/service proxy
+* [ALLATRA-IT/ephyr](https://github.com/ALLATRA-IT/ephyr): Self-hosted server solution for video streaming powered by Rust, SRS ad FFmpeg
 * [epiclabs-io/epic-video-comparator](https://github.com/epiclabs-io/epic-video-comparator): Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
 * [epiclabs-io/epic-video-player](https://github.com/epiclabs-io/epic-video-player): JS library to wrap different video libraries.
 * [dmarmor/epichrome](https://github.com/dmarmor/epichrome): An application and Chrome extension for creating web-based applications that work like standalone Mac apps.
@@ -1664,6 +1678,7 @@
 * [faiproject/fai](https://github.com/faiproject/fai): non-interactive system to install, customize and manage Linux systems
 * [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame): Tool to help us buy hard to find items. 
 * [andreyrikunov/fairplay-ksm](https://github.com/andreyrikunov/fairplay-ksm): FairPlay Key Security Module
+* [Haki-22/FakeFLac-Lossless-audio-checker](https://github.com/Haki-22/FakeFLac-Lossless-audio-checker): Python GUI Lossless audio checker
 * [testdrivenio/falcon-celery](https://github.com/testdrivenio/falcon-celery): Example of how to handle background processes with Falcon, Celery, and Docker
 * [rockcarry/fanplayer](https://github.com/rockcarry/fanplayer): A portable video player based on ffmpeg for windows and android platform.
 * [ClearSlide/Fantastic-Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder): Fantastic transcoder is a video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
@@ -1709,6 +1724,7 @@
 * [Dash-Industry-Forum/FeatureTest](https://github.com/Dash-Industry-Forum/FeatureTest): Issues corresponsing to each feature at http://testassets.dashif.org/
 * [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix):  ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 * [TryFetch/Fetch](https://github.com/TryFetch/Fetch): :movie_camera: The best way to watch Put.io on iPhone and iPad
+* [neurospeech/ff-lambda-container](https://github.com/neurospeech/ff-lambda-container): FFmpeg AWS Lambda Container
 * [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter): GUI File Format Converter
 * [ColorlabMD/FFCommand_Engine](https://github.com/ColorlabMD/FFCommand_Engine): Create and execute FFmpeg commands
 * [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic): Library with dynamic audio/video composition and runtime control
@@ -1726,8 +1742,12 @@
 * [intel-media-ci/ffmpeg](https://github.com/intel-media-ci/ffmpeg): Intel developer pre-check staging area for ffmpeg.org contributions.
 * [jiashaokun/ffmpeg](https://github.com/jiashaokun/ffmpeg): 基于FFmpeg的python视频处理包-因疫情影响，工作比较繁忙，心情也没在视频上面再研究，该项目已经搁置，源码很简单，大家可以自己研究一下自己扩展
 * [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg): Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
+* [orkan/ffmpeg](https://github.com/orkan/ffmpeg): Convert your media files quickly with FFmpeg library
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
+* [topaz1008/ffmpeg-any](https://github.com/topaz1008/ffmpeg-any): A command line tool that batch processes video files and directories with ffmpeg.
+* [Vargol/ffmpeg-apple-arm64-build](https://github.com/Vargol/ffmpeg-apple-arm64-build): Build script for ffmpeg targeting the latest open source video codecs running on macOS using Apple's M1 processor.
 * [jlw4049/FFMPEG-Audio-Encoder](https://github.com/jlw4049/FFMPEG-Audio-Encoder): A powerful FFMPEG audio encoder GUI
+* [AnimMouse/ffmpeg-autobuild](https://github.com/AnimMouse/ffmpeg-autobuild): Automated nonfree builds of FFmpeg for Windows using GitHub Actions
 * [imoreapps/ffmpeg-avplayer-for-ios-tvos](https://github.com/imoreapps/ffmpeg-avplayer-for-ios-tvos): A tiny but powerful iOS and Apple TV OS av player framework that's based on the FFmpeg library.
 * [NikNakk/ffmpeg-aws-bento4](https://github.com/NikNakk/ffmpeg-aws-bento4): None
 * [serverlesspub/ffmpeg-aws-lambda-layer](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer): FFmpeg/FFprobe AWS Lambda layer
@@ -1743,6 +1763,8 @@
 * [Raveler/ffmpeg-cpp](https://github.com/Raveler/ffmpeg-cpp): A clean, easy-to-use C++ wrapper around the ffmpeg libraries
 * [romansavrulin/ffmpeg-cuda-docker](https://github.com/romansavrulin/ffmpeg-cuda-docker): use nvenc/nvdec with docker 19.x
 * [slhck/ffmpeg-debug-qp](https://github.com/slhck/ffmpeg-debug-qp): FFmpeg Debug Script for QP Values
+* [AkashiSN/ffmpeg-docker](https://github.com/AkashiSN/ffmpeg-docker): ffmpeg build in docker
+* [tamara-schmitz/ffmpeg-docker-container](https://github.com/tamara-schmitz/ffmpeg-docker-container): A simple container image based on openSUSE Tumbleweed with the Packman repository.
 * [slhck/ffmpeg-encoding-course](https://github.com/slhck/ffmpeg-encoding-course): An introduction to FFmpeg and its tools
 * [svt/ffmpeg-filter-proxy](https://github.com/svt/ffmpeg-filter-proxy): FFmpeg video proxy filter
 * [five82/ffmpeg-git](https://github.com/five82/ffmpeg-git): An FFmpeg container compiled from the git master branch.
@@ -1753,15 +1775,20 @@
 * [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial): FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 * [id3as/ffmpeg-libvpx-HDR-static](https://github.com/id3as/ffmpeg-libvpx-HDR-static): A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
 * [LTNGlobal-opensource/FFmpeg-ltn](https://github.com/LTNGlobal-opensource/FFmpeg-ltn): None
+* [mahyarkarimi/ffmpeg-ms](https://github.com/mahyarkarimi/ffmpeg-ms): None
 * [analyserdmz/ffmpeg-multi-threaded-convert](https://github.com/analyserdmz/ffmpeg-multi-threaded-convert): It will scan a directory and its sub-directories for video files, and if the codecs are not AAC/H264, it will convert them to meet the codecs criteria.
 * [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize): Audio Normalization for Python/ffmpeg
+* [divyam234/ffmpeg-NVEnc](https://github.com/divyam234/ffmpeg-NVEnc): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 * [lutris/ffmpeg-nvenc](https://github.com/lutris/ffmpeg-nvenc): Build script for FFmpeg with nvenc support
 * [SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder](https://github.com/SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder): bash script which will detect video new file in folder  and transcode it to adaprive bitrate
+* [xiguaxigua/ffmpeg-online](https://github.com/xiguaxigua/ffmpeg-online): An online version of ffmpeg built on ffmpeg.wasm
 * [VCDP/FFmpeg-patch](https://github.com/VCDP/FFmpeg-patch): This repository contains a collection of FFmpeg* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg* framework.
 * [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python): Python bindings for FFmpeg - with complex filtering support
 * [zsiec/ffmpeg-quality](https://github.com/zsiec/ffmpeg-quality): A docker image that contains ffmpeg w/libvmaf
 * [slhck/ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics): Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF, VIF)
 * [Saurabh702/ffmpeg-scale-benchmark](https://github.com/Saurabh702/ffmpeg-scale-benchmark): None
+* [ordinary-dev/ffmpeg-scripts](https://github.com/ordinary-dev/ffmpeg-scripts): My collection of scripts for converting video and audio with ffmpeg
+* [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild): Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
 * [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static): Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 * [kevinGodell/ffmpeg-streamer](https://github.com/kevinGodell/ffmpeg-streamer): ffmpeg-streamer is a packaged nodejs express server that wraps ffmpeg to allow easy streaming of video feeds directly to modern browsers for testing purposes. It currently includes 6 different types of output streaming which are mjpeg, jpeg via socket.io, progressive mp4, native hls, hls.js, and mse via socket.io. Video input types supported are rtsp, mp4, mjpeg, and hls.
 * [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc): Stream video from ffmpeg to web(rtc)
@@ -1771,14 +1798,22 @@
 * [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts): Shell scripts to create video slideshows using images and videos
 * [rupakg/ffmpeg-video-thumb](https://github.com/rupakg/ffmpeg-video-thumb): An end-to-end serverless application that extracts thumbnails from video files using AWS Fargate, AWS Lambda and the Serverless Framework.
 * [ddragosd/ffmpeg-vod-transcoder](https://github.com/ddragosd/ffmpeg-vod-transcoder): A micro-service with Springboot and Docker used to transcode a single video file in multiple formats, in the cloud.
+* [wide-video/ffmpeg-wasm](https://github.com/wide-video/ffmpeg-wasm): WebAssembly port of FFmpeg
 * [alfg/ffmpeg-webassembly-example](https://github.com/alfg/ffmpeg-webassembly-example): FFmpeg +  WebAssembly
 * [rdp/ffmpeg-windows-build-helpers](https://github.com/rdp/ffmpeg-windows-build-helpers): Helper script for cross compiling some media tools for windows, like customizable ffmpeg.exe (with or without non-free components, etc), and some other bonuses like mplayer, mp4box, mxf, etc.
 * [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js): Port of FFmpeg with Emscripten
+* [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm): FFmpeg for browser and node, powered by WebAssembly
+* [ffmpegwasm/ffmpeg.wasm-core](https://github.com/ffmpegwasm/ffmpeg.wasm-core): Mirror of git://source.ffmpeg.org/ffmpeg.git
+* [Manevolent/ffmpeg4j](https://github.com/Manevolent/ffmpeg4j): A Java OOP FFmpeg wrapper around the JavaCPP FFmpeg native library bindings
 * [nextbreakpoint/ffmpeg4java](https://github.com/nextbreakpoint/ffmpeg4java): FFmpeg4Java provides a JNI wrapper of FFmpeg library
 * [IORoot/ffmpeg__bash-scripts](https://github.com/IORoot/ffmpeg__bash-scripts): 🎞 FFMPEG Utility scripts and video templates to make life simpler. 💡
 * [chinahbcq/ffmpeg_hw_decode](https://github.com/chinahbcq/ffmpeg_hw_decode): video stream hardware decoding and color space conversion by ffmpeg and cuda. thread safe.
 * [Brainiarc7/ffmpeg_libnvenc](https://github.com/Brainiarc7/ffmpeg_libnvenc): This is a build of FFmpeg that supports NVIDIA's NVENC SIP block for H.264 H/W accelerated video encodes.
+* [mehmetgoren/ffmpeg_service](https://github.com/mehmetgoren/ffmpeg_service): Feniks iNVR FFmpeg Service
 * [sambios/ffmpeg_transcoder](https://github.com/sambios/ffmpeg_transcoder): video transcode based on ffmpeg, support H264/HEVC and more.
+* [comingAlive/ffmpegaudioextract.xyz](https://github.com/comingAlive/ffmpegaudioextract.xyz): A minimalistic wasm-based web application for instant audio extraction; video to audio conversion.
+* [alicemara/ffmpegcompileqsvav1](https://github.com/alicemara/ffmpegcompileqsvav1): A quick personal script for making ffmpeg on Ubuntu 22.04 LTS on a machine with a Intel Arc card for use with AV1 encoding/decoding and oneVPL.
+* [nschlia/ffmpegfs](https://github.com/nschlia/ffmpegfs): FUSE-based transcoding filesystem with video support from many formats to FLAC, MP4, TS, WebM, OGG, MP3, HLS, and others.
 * [HaikuArchives/ffmpegGUI](https://github.com/HaikuArchives/ffmpegGUI): GUI for FFmpeg
 * [zhen-ke/ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI): ffmpeg GUI
 * [cuongdcdev/ffmpegGui2](https://github.com/cuongdcdev/ffmpegGui2): graphical interface of FFmpeg using Java swing as a gui frontend, aim to provide easy to use interface with common and useful features
@@ -1786,12 +1821,14 @@
 * [wseemann/FFmpegMediaMetadataRetriever](https://github.com/wseemann/FFmpegMediaMetadataRetriever): FFmpegMediaMetadataRetriever provides a unified interface for retrieving frame and meta data from an input media file.
 * [wseemann/FFmpegMediaPlayer](https://github.com/wseemann/FFmpegMediaPlayer): FFmpegMediaPlayer can be used to control playback of audio/video files and streams. 
 * [aliakseis/FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer): Simple FFmpeg video player
+* [ArifAltiok26/FFmpegpp](https://github.com/ArifAltiok26/FFmpegpp): Lightweight ffmpeg wrapper for modern cpp
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
 * [mbalamat/ffmpegWasmHlsToMp4](https://github.com/mbalamat/ffmpegWasmHlsToMp4): Demo of using ffmpegwasm to covert an HLS playlist to mp4, in the browser.
 * [amiaopensource/ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg commands for archivists!
 * [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy): Pythonic interface for FFmpeg/FFprobe command line
 * [wchill/ffmpy3](https://github.com/wchill/ffmpy3): Pythonic interface for FFmpeg/FFprobe command line
+* [rust-av/ffms2-rs](https://github.com/rust-av/ffms2-rs): ffms2 bindings
 * [ffplayout/ffplayout](https://github.com/ffplayout/ffplayout): Rust and ffmpeg based playout 
 * [ffplayout/ffplayout-docker](https://github.com/ffplayout/ffplayout-docker): Dockerized playout solution
 * [ffplayout/ffplayout-frontend](https://github.com/ffplayout/ffplayout-frontend): Web based frontend for ffplayout-engine
@@ -2202,6 +2239,7 @@
 * [vinteo/hass-neeo](https://github.com/vinteo/hass-neeo): NEEO custom component for Home Assistant
 * [cbsinteractive/hawkeye](https://github.com/cbsinteractive/hawkeye): Detect images in a video stream and execute automated actions.
 * [Samsung/HbbPlayer](https://github.com/Samsung/HbbPlayer): HbbPlayer is HbbTV application which can playback media by using url of media as parameter. It conforms to W3C and HbbTV specification.
+* [ThaCheeseBun/hdr-sucks](https://github.com/ThaCheeseBun/hdr-sucks): libx265 transcoding wrapper with HDR support
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox): HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
 * [juzzlin/Heimer](https://github.com/juzzlin/Heimer): Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 * [helloSystem/hello](https://github.com/helloSystem/hello): Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
@@ -2384,6 +2422,7 @@
 * [eashish93/imgsquash](https://github.com/eashish93/imgsquash): Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.
 * [aws-samples/immersive-media-refarch](https://github.com/aws-samples/immersive-media-refarch): A full end to end workflow from encoder to play-out for Live and VOD-from-live.
 * [fortra/impacket](https://github.com/fortra/impacket): Impacket is a collection of Python classes for working with network protocols.
+* [automotive-hub/imvision-ads-gen](https://github.com/automotive-hub/imvision-ads-gen): Immersive Ads
 * [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 * [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
 * [matvp91/indigo-player](https://github.com/matvp91/indigo-player): Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
@@ -2515,6 +2554,7 @@
 * [davidhalter/jedi](https://github.com/davidhalter/jedi): Awesome autocompletion, static analysis and refactoring library for python
 * [contentful/jekyll-contentful-data-import](https://github.com/contentful/jekyll-contentful-data-import): Contentful Plugin for the Jekyll Static Site Generator
 * [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly): 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
+* [jellyfin/jellyfin-exoplayer-ffmpeg-extension](https://github.com/jellyfin/jellyfin-exoplayer-ffmpeg-extension): Prebuilt ExoPlayer FFmpeg extension used in the Jellyfin project.
 * [molnarr2/jEncoder](https://github.com/molnarr2/jEncoder): Java encoder of mp4 files into m3u8 multiple playlist bitrate, mp3, and different types of m3u8 playlists with queing up multiple jobs at one. Pulls from a web site for jobs.
 * [luizmb/Jenkins-Monitor-tvOS](https://github.com/luizmb/Jenkins-Monitor-tvOS): Apple TV Monitor for Jenkins, depends on plugin https://wiki.jenkins-ci.org/display/JENKINS/Build+Monitor+Plugin
 * [jesse-ai/jesse](https://github.com/jesse-ai/jesse): An advanced crypto trading bot written in Python
@@ -2939,9 +2979,11 @@
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
 * [m-ab-s/media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite): This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
 * [ablwr/media-collection-viewer](https://github.com/ablwr/media-collection-viewer): visualizations/charts for media collections, based on mediainfo
+* [intel/media-delivery](https://github.com/intel/media-delivery): This collection of samples demonstrates best practices to achieve optimal video quality and performance on Intel GPUs for content delivery networks. Check out our demo, recommended command lines and quality and performance measuring tools.
 * [intel/media-driver](https://github.com/intel/media-driver): None
 * [tjenkinson/media-element-syncer](https://github.com/tjenkinson/media-element-syncer): Synchronise two or more HTML5 media elements.
 * [aws-solutions/media-insights-on-aws](https://github.com/aws-solutions/media-insights-on-aws): A serverless framework to accelerate the development of applications that discover next-generation insights in your video, audio, text, and image resources by utilizing AWS Machine Learning and Media services.
+* [blalelimit/media-processing-python](https://github.com/blalelimit/media-processing-python): Format conversion for image, audio, and video files with additional processing features.
 * [ireader/media-server](https://github.com/ireader/media-server): RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 * [w3c/media-source](https://github.com/w3c/media-source): Media Source Extensions
 * [Axinom/media-tools](https://github.com/Axinom/media-tools): None
@@ -2950,6 +2992,7 @@
 * [quarkscript/media_works](https://github.com/quarkscript/media_works): Transcode video by ffmpeg with nvenc; normalize the volume; force dynamic range compression to the volume
 * [zolinux/MediaArchiver](https://github.com/zolinux/MediaArchiver): Transcode video files using FFMPEG and python3
 * [alfg/mediacast](https://github.com/alfg/mediacast): :tv: Google Cast - Chrome Sender & CAF Player for testing Media Playback
+* [Rakambda/MediaConverter](https://github.com/Rakambda/MediaConverter): Create scripts to convert videos to h265 using ffmpeg
 * [francoism90/mediadb](https://github.com/francoism90/mediadb): Personal streaming service.
 * [francoism90/mediadb-app](https://github.com/francoism90/mediadb-app): Quasar v2 (Vue 3) + TypeScript
 * [francoism90/mediadb-ui](https://github.com/francoism90/mediadb-ui): MediaDB UI for https://github.com/francoism90/mediadb
@@ -2968,6 +3011,7 @@
 * [abdullahselek/Merhaba](https://github.com/abdullahselek/Merhaba): Bonjour networking for discovery and connection between iOS, macOS and tvOS devices.
 * [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 * [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
+* [foyzulkarim/mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming): MERN Video Streaming is a cutting-edge, open-source platform for video streaming, offering a comprehensive, full-stack solution utilizing the latest MERN stack technologies.
 * [novareto/messages_manager](https://github.com/novareto/messages_manager): FastAPI backend with a vuejs frontend for admin messages management
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
@@ -3069,6 +3113,7 @@
 * [sitkevij/mpi](https://github.com/sitkevij/mpi): Rust-based MPEG-4 box inspector with TOML output.
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 * [mpv-player/mpv-build](https://github.com/mpv-player/mpv-build): 🔨 Helper scripts to compile mpv on Linux
+* [TheOpponent/mr-otcs](https://github.com/TheOpponent/mr-otcs): Automated video looping, streaming, and schedule generation
 * [pricingassistant/mrq](https://github.com/pricingassistant/mrq): Mr. Queue - A distributed worker task queue in Python using Redis & gevent
 * [cpearce/mse-eme](https://github.com/cpearce/mse-eme): Demo of ClearKey EME content playing via MSE
 * [msaps/MSSTabbedPageViewController](https://github.com/msaps/MSSTabbedPageViewController): [DEPRECATED] A container UIViewController that provides a simple to implement page view controller with scrolling tab bar.
@@ -3638,7 +3683,9 @@
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 * [therecipe/qt](https://github.com/therecipe/qt): Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 * [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator): A cross-platform Qt IDE
+* [RealChuan/Qt-Ffmpeg](https://github.com/RealChuan/Qt-Ffmpeg): 基于Qt和Ffmpeg的音视频播放器。
 * [wang-bin/QtAV](https://github.com/wang-bin/QtAV): A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
+* [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer): Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 * [bbc/qtff-parameter-editor](https://github.com/bbc/qtff-parameter-editor): QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics
 * [qtlmovie/qtlmovie](https://github.com/qtlmovie/qtlmovie): A specialized Qt frontend for FFmpeg and other free media tools
 * [soygul/QuanticDev](https://github.com/soygul/QuanticDev): QuanticDev's Engineering and Software Development Resources
@@ -3713,6 +3760,7 @@
 * [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 * [microsoft/recommenders](https://github.com/microsoft/recommenders): Best Practices on Recommendation Systems
 * [3cpt/recorrente](https://github.com/3cpt/recorrente): Script that get all the information of a user public repos from the Github API and save it in an incremental CSV
+* [nielstenboom/recurring-content-detector](https://github.com/nielstenboom/recurring-content-detector): Unsupervised detection of opening / closing credits, recaps, and previews in video files 🎥🍿🎬
 * [lightspin-tech/red-kube](https://github.com/lightspin-tech/red-kube): Red Team K8S Adversary Emulation Based on kubectl
 * [davidbombal/red-python-scripts](https://github.com/davidbombal/red-python-scripts): None
 * [Red5/red5-server](https://github.com/Red5/red5-server): Red5 Server core
@@ -4030,6 +4078,7 @@
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second 
 * [Ikuyadeu/similar-code-searcher](https://github.com/Ikuyadeu/similar-code-searcher): a GitHub App built with probot that searches files similar with deleted code in Pull Request.
 * [NationalSecurityAgency/SIMP](https://github.com/NationalSecurityAgency/SIMP): A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
+* [Thurinum/simple-media-encoder](https://github.com/Thurinum/simple-media-encoder): Compress your media files quickly and efficiently with this convenient tool. Uses FFMPEG and the Qt toolkit.
 * [electron/simple-samples](https://github.com/electron/simple-samples): Minimal Electron applications with ideas for taking them further
 * [Itiviti/simple-slack-api](https://github.com/Itiviti/simple-slack-api): (simple) Java Slack client library
 * [Leleat/simple-task-bar](https://github.com/Leleat/simple-task-bar): A GNOME extension which adds icons for the running apps to the top panel. They will be grouped by workspaces.
@@ -4166,6 +4215,7 @@
 * [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba): Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 * [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework): Spring Framework
 * [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning): 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
+* [dimMaryanto93/springboot2-upload-video-example](https://github.com/dimMaryanto93/springboot2-upload-video-example): Upload video, using springboot then compressed 
 * [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning): 《史上最简单的Spring Cloud教程源码》
 * [springfox/springfox](https://github.com/springfox/springfox): Automated JSON API documentation for API's built with Spring
 * [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios): Swift library for choreographing animations on the screen.
@@ -4243,6 +4293,7 @@
 * [jtvberg/StreamDock](https://github.com/jtvberg/StreamDock): Streaming service viewer.
 * [phily245/streamer](https://github.com/phily245/streamer): A docker image which provides live video stream receiving and broadcasting with an optional, fully customisable authentication pugin system via RTMP and HLS. Each stream is also automatically recorded and converted to an MP4 to allow for re-broadcasting and re-distribution.
 * [riltech/streamer](https://github.com/riltech/streamer): Go Package built around spinning up streaming processes
+* [aerogus/streaming-cluster](https://github.com/aerogus/streaming-cluster): Serveur de streaming vidéo à haute disponibilité et extensible
 * [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5): Testbed examples for Red5 Pro HTML SDK usage
 * [red5pro/streaming-ios](https://github.com/red5pro/streaming-ios): This repository contains a simple project with a number of iOS examples that can be used for testing and reference.
 * [unifiedstreaming/streaming-load-testing](https://github.com/unifiedstreaming/streaming-load-testing): Load generation tool for evaluation of DASH and HLS video streaming setups
@@ -4686,6 +4737,7 @@
 * [Eyevinn/vast-info](https://github.com/Eyevinn/vast-info): Parse a VAST or VMAP to show valuable information in a readable format
 * [dokun1/Vaux](https://github.com/dokun1/Vaux): A HTML DSL library for Swift
 * [ingbyr/vdm](https://github.com/ingbyr/vdm): GUI for command-line video downloader (youtube-dl annie)
+* [jsffm/vdr-transcode](https://github.com/jsffm/vdr-transcode): Transcode - swiss knife for transcoding
 * [vectordotdev/vector](https://github.com/vectordotdev/vector): A high-performance observability data pipeline.
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
 * [Zewo/Venice](https://github.com/Zewo/Venice): Coroutines, structured concurrency and CSP for Swift on macOS and Linux.
@@ -4701,6 +4753,7 @@
 * [nytimes/video-captions-api](https://github.com/nytimes/video-captions-api): Agnostic API to generate captions for media assets across different transcription services. 
 * [pixop/video-compare](https://github.com/pixop/video-compare): Split screen video comparison tool using FFmpeg and SDL2
 * [AK1194/Video-Compression-motion-estimation-block-video-encoder](https://github.com/AK1194/Video-Compression-motion-estimation-block-video-encoder): This repository is about video compression, and more specifically about the motion estimation block (ME block) of a video encoder. It is a research project for developing an efficient motion estimation algorithm, so that the video compression technology can keep pace with the high frame rate videos and high resolution videos.
+* [cheezos/video-compressor](https://github.com/cheezos/video-compressor): Compress videos to any file size.
 * [leandromoreira/video-containers-debugging-tools](https://github.com/leandromoreira/video-containers-debugging-tools): A set of command lines to debug video streaming files like mp4 (MPEG-4 Part 14), ts (MPEG-2 Part 1), fmp4 in Dash, HLS, or MSS, with or without DRM.
 * [caacuk/video-conversion-app](https://github.com/caacuk/video-conversion-app): Flask Web Application - Video Conversion
 * [IAmBlackHacker/Video-Downloader](https://github.com/IAmBlackHacker/Video-Downloader): This script for download videos from anywhere and live streaming on vlc player
@@ -4713,11 +4766,14 @@
 * [michaelcunningham19/video-speech-recognition](https://github.com/michaelcunningham19/video-speech-recognition): Auto-generated video subtitles for the web using machine learning
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
 * [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger): Merge multiple video MediaStreams into one composite.
+* [Ragib01/video-streaming](https://github.com/Ragib01/video-streaming): Streaming Live Video and Storing Videos with NGINX
 * [yigiterinc/video-streaming-over-http](https://github.com/yigiterinc/video-streaming-over-http): Video streaming from Webcam with HLS, FFMPEG, NGINX and RTMP
 * [tabvn/video-streaming-service](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
 * [soumanpaul/Video-streaming-web-app](https://github.com/soumanpaul/Video-streaming-web-app): Media streaming application,  Inspired by features from Netflix and YouTube, this application will implement content uploading and viewing capabilities with a media content upload feature for content providers, and real-time content streaming for viewers
 * [flavioribeiro/video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator): :camera: Generate thumbnail sprites from videos.
 * [HenryLulu/video-to-text-ocr-demo](https://github.com/HenryLulu/video-to-text-ocr-demo): 视频硬字幕提取
+* [catdad/video-tools](https://github.com/catdad/video-tools): 🎬 cli tool for video processing
+* [catdad/video-tools-app](https://github.com/catdad/video-tools-app): 🎬 gui tool for video processing
 * [GeoHaber/Video-Transcode](https://github.com/GeoHaber/Video-Transcode): ffmpeg H264 H265 HEVC MPEG Video Trans-code Image-Matrix Collage
 * [kirbs-/video-transcode](https://github.com/kirbs-/video-transcode): None
 * [n1207n/video-transcode-queue](https://github.com/n1207n/video-transcode-queue): A sample video upload platform as a kubernetes cluster (WIP)
@@ -4743,6 +4799,7 @@
 * [JNoDuq/videobench](https://github.com/JNoDuq/videobench): VMAF PSNR Bitrate Analyzer
 * [Anuradha2018/VideoContentPlatformwithAngular](https://github.com/Anuradha2018/VideoContentPlatformwithAngular): Video Content Platform for Web with Angular 6
 * [bbc/VideoContext](https://github.com/bbc/VideoContext): An experimental HTML5 & WebGL video composition and rendering API.
+* [Sciencentistguy/videoconverter](https://github.com/Sciencentistguy/videoconverter): A program to convert video files to a uniform format and codec.
 * [bgrins/videoconverter.js](https://github.com/bgrins/videoconverter.js): [UNMAINTAINED] Convert videos in your browser
 * [apm1467/videocr](https://github.com/apm1467/videocr): Extract hardcoded subtitles from videos using machine learning
 * [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader): A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
@@ -4793,12 +4850,14 @@
 * [videolan/vlckit](https://github.com/videolan/vlckit): libvlc bindings for OS X, iOS and tvOS in Objective-C, official mirror
 * [Netflix/vmaf](https://github.com/Netflix/vmaf): Perceptual video quality assessment based on multi-method fusion.
 * [leandromoreira/vmaf](https://github.com/leandromoreira/vmaf): Perceptual video quality assessment based on multi-method fusion.
+* [ThatNerdUKnow/vmaf-gui](https://github.com/ThatNerdUKnow/vmaf-gui): A GUI built using C# to make Netflix's VMAF easier to use
 * [muxinc/vmaf_analyzer](https://github.com/muxinc/vmaf_analyzer): Estimates the average delivered VMAF for hls manifests
 * [Eyevinn/vmapproxy](https://github.com/Eyevinn/vmapproxy): A simple VMAP / VAST proxy
 * [voc/voctomix](https://github.com/voc/voctomix): Full-HD Software Live-Video-Mixer in python
 * [Eyevinn/vod-to-live](https://github.com/Eyevinn/vod-to-live): A python library to generate Live HLS from VOD
 * [bbayles/vod_metadata](https://github.com/bbayles/vod_metadata): CableLabs VOD Metadata 1.1 Generator
 * [zsiec/vodmodule-stats](https://github.com/zsiec/vodmodule-stats): None
+* [Shishkebaboo/VodRecovery](https://github.com/Shishkebaboo/VodRecovery): The purpose of this script is to obtain videos or clips that are either marked as "sub-only" or have been deleted on Twitch.
 * [abinashmeher999/voice-data-extract](https://github.com/abinashmeher999/voice-data-extract): A command line interface to combine text information from subtitles with voice data in the video. Provides a convenient way to generate training data for speech-recognition purposes.
 * [voila-dashboards/voila](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
 * [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen): :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
@@ -4837,6 +4896,7 @@
 * [vmware-archive/vsphere-storage-for-kubernetes](https://github.com/vmware-archive/vsphere-storage-for-kubernetes): vSphere Storage for Kubernetes
 * [MrRio/vtop](https://github.com/MrRio/vtop): Wow such top. So stats. More better than regular top.
 * [video-dev/vtt.js](https://github.com/video-dev/vtt.js): A JavaScript implementation of the WebVTT specification
+* [videojs/vtt.js](https://github.com/videojs/vtt.js): A JavaScript implementation of the WebVTT specification, forked from vtt.js for use with Video.js
 * [vuejs/vue](https://github.com/vuejs/vue): This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 * [lmxdawn/vue-admin-java](https://github.com/lmxdawn/vue-admin-java): spring boot + mybatis + vue + element-ui 实现后台管理API接口 https://lmxdawn.github.io/vue-admin-java
 * [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template): a vue2.0 minimal admin template 
@@ -4990,6 +5050,7 @@
 * [rinov/YoutubeKit](https://github.com/rinov/YoutubeKit): YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app
 * [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc): media downloader and library for various sites.
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+* [jmf1988/ytdash](https://github.com/jmf1988/ytdash): A command line tool for GNU/Linux written in python designed mainly to search and/or play live streams from YouTube with focus on latency by using DASH protocol and an impercetible bandwidth-adaptive video quality change algorithm.
 * [Aveek-Saha/ytdx](https://github.com/Aveek-Saha/ytdx): Download audio from YouTube videos
 * [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 * [ericm/yup](https://github.com/ericm/yup): Arch Linux AUR Helper with ncurses functionality and better searching and sorting 
@@ -5005,6 +5066,7 @@
 * [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 * [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr): Effortlessly synchronize UserDefaults over iCloud.
 * [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet): ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+* [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server): A self-deployable micro-service for adaptive video streaming written in Golang [alpha version under dev].
 * [skylerlee/zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme): Another :star: theme for oh-my-zsh
 * [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): A Markdown Editor for the 21st century.
 * [Zewo/Zewo](https://github.com/Zewo/Zewo): Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
@@ -5019,6 +5081,7 @@
 * [htr-tech/zphisher](https://github.com/htr-tech/zphisher): An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 * [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
 * [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
+* [DeadNews/zsh-scripts](https://github.com/DeadNews/zsh-scripts): zsh scripts collection, mostly for video/audio/image processing
 * [google/zx](https://github.com/google/zx): A tool for writing better scripts
 * [zype/zype-roku-scenegraph](https://github.com/zype/zype-roku-scenegraph): This is the Github repository for Zype’s legacy open source app templates which are no longer being supported. If you are looking to build streaming applications for OTT with Zype, check out Zype Apps Creator to leverage the latest app building features and functionality.
 

@@ -77,6 +77,9 @@
     "AK1194/Video-Compression-motion-estimation-block-video-encoder": [
         "Other"
     ],
+    "ALLATRA-IT/ephyr": [
+        "Other"
+    ],
     "AMD-OSX/AMD_Vanilla": [
         "Other"
     ],
@@ -126,6 +129,9 @@
         "Other"
     ],
     "AirenSoft/OvenPlayer": [
+        "Other"
+    ],
+    "AkashiSN/ffmpeg-docker": [
         "Other"
     ],
     "AladW/aurutils": [
@@ -185,6 +191,12 @@
     "Aniket965/Dynamic-Github-Profile": [
         "Other"
     ],
+    "AnimMouse/ffmpeg-autobuild": [
+        "Other"
+    ],
+    "AnimMouse/ffmpeg-stable-autobuild": [
+        "Other"
+    ],
     "AnjaneyuluBatta505/kubernetes_django": [
         "Other"
     ],
@@ -207,6 +219,9 @@
         "Other"
     ],
     "ArconWell/Watermark-Remover": [
+        "Other"
+    ],
+    "ArifAltiok26/FFmpegpp": [
         "Other"
     ],
     "ArjanCodes/betterpython": [
@@ -350,6 +365,9 @@
     "Brainiarc7/ffmpeg_libnvenc": [
         "Other"
     ],
+    "BrenekH/encodarr": [
+        "Other"
+    ],
     "BrianDMG/conv2mp4": [
         "Other"
     ],
@@ -414,6 +432,9 @@
         "Other"
     ],
     "CanvasPod/Canvas": [
+        "Other"
+    ],
+    "Carleslc/AudioToText": [
         "Other"
     ],
     "Carthage/Carthage": [
@@ -560,6 +581,9 @@
     "Comcast/scte35-js": [
         "Other"
     ],
+    "Commandcracker/alpine-ffmpeg": [
+        "Other"
+    ],
     "ContainerSolutions/externalsecret-operator": [
         "Other"
     ],
@@ -606,6 +630,9 @@
         "Other"
     ],
     "CrypticSignal/AV-converter": [
+        "Other"
+    ],
+    "CrypticSignal/better-ffmpeg-progress": [
         "Other"
     ],
     "CurtisLeeBolin/avtc": [
@@ -726,6 +753,9 @@
         "Other"
     ],
     "DavidBrightSparc/Tenets-of-IT": [
+        "Other"
+    ],
+    "DeadNews/zsh-scripts": [
         "Other"
     ],
     "Delgan/loguru": [
@@ -1127,6 +1157,9 @@
     "FreshRSS/FreshRSS": [
         "Other"
     ],
+    "Freshman-tech/custom-html5-video": [
+        "Other"
+    ],
     "Friz-zy/awesome-linux-containers": [
         "Other"
     ],
@@ -1239,6 +1272,9 @@
         "Other"
     ],
     "Haivision/srtgo": [
+        "Other"
+    ],
+    "Haki-22/FakeFLac-Lossless-audio-checker": [
         "Other"
     ],
     "HamidNE/hls-video-api": [
@@ -1559,6 +1595,9 @@
     "KhaosT/SimpleVM": [
         "Other"
     ],
+    "Kidsnd274/Av1anStaxRipWrapper": [
+        "Other"
+    ],
     "Kikobeats/awesome-api": [
         "Other"
     ],
@@ -1731,6 +1770,9 @@
         "Other"
     ],
     "MacDownApp/macdown": [
+        "Other"
+    ],
+    "Manevolent/ffmpeg4j": [
         "Other"
     ],
     "Manisso/fsociety": [
@@ -2249,6 +2291,12 @@
     "Radweb/react-native-audio-transcoder": [
         "Other"
     ],
+    "Ragib01/video-streaming": [
+        "Other"
+    ],
+    "Rakambda/MediaConverter": [
+        "Other"
+    ],
     "Ramotion/cardslider": [
         "Other"
     ],
@@ -2298,6 +2346,9 @@
         "Other"
     ],
     "ReactiveX/RxSwift": [
+        "Other"
+    ],
+    "RealChuan/Qt-Ffmpeg": [
         "Other"
     ],
     "Red5/red5-server": [
@@ -2432,6 +2483,9 @@
     "Schneegans/Gnome-Pie": [
         "Other"
     ],
+    "Sciencentistguy/videoconverter": [
+        "Other"
+    ],
     "ScottAtBlankCanvas/hls-live2vod": [
         "Other"
     ],
@@ -2463,6 +2517,9 @@
         "Other"
     ],
     "ShaneIsrael/fireshare": [
+        "Other"
+    ],
+    "Shishkebaboo/VodRecovery": [
         "Other"
     ],
     "Shopify/semian": [
@@ -2669,6 +2726,12 @@
     "TezRomacH/python-package-template": [
         "Other"
     ],
+    "ThaCheeseBun/hdr-sucks": [
+        "Other"
+    ],
+    "ThatNerdUKnow/vmaf-gui": [
+        "Other"
+    ],
     "The-Art-of-Hacking/h4cker": [
         "Other"
     ],
@@ -2705,10 +2768,16 @@
     "TheJambo/awesome-testing": [
         "Other"
     ],
+    "TheOpponent/mr-otcs": [
+        "Other"
+    ],
     "ThibaultBee/StreamPack": [
         "Other"
     ],
     "ThoughtWorksStudios/eb_deployer": [
+        "Other"
+    ],
+    "Thurinum/simple-media-encoder": [
         "Other"
     ],
     "Tim-Barton/gogs-migration": [
@@ -2778,6 +2847,9 @@
         "Other"
     ],
     "ValveSoftware/Proton": [
+        "Other"
+    ],
+    "Vargol/ffmpeg-apple-arm64-build": [
         "Other"
     ],
     "Vedenin/useful-java-links": [
@@ -2916,6 +2988,9 @@
         "Other"
     ],
     "ZaifSenpai/Batch-Py-Remux": [
+        "Other"
+    ],
+    "ZeStream/zestream-server": [
         "Other"
     ],
     "ZeroX-DG/SnippetStore": [
@@ -3098,6 +3173,9 @@
     "aeksco/aws-pdf-textract-pipeline": [
         "Other"
     ],
+    "aerogus/streaming-cluster": [
+        "Other"
+    ],
     "aerophile/awesome-deepfakes": [
         "Other"
     ],
@@ -3195,6 +3273,9 @@
         "Other"
     ],
     "ajenti/ajenti": [
+        "Other"
+    ],
+    "ajhsu/chromecast-device-emulator": [
         "Other"
     ],
     "akash-rajak/Image-Watermark-Remover": [
@@ -3351,6 +3432,9 @@
         "Other"
     ],
     "alibaba/weex": [
+        "Other"
+    ],
+    "alicemara/ffmpegcompileqsvav1": [
         "Other"
     ],
     "alirezamika/autoscraper": [
@@ -3621,6 +3705,9 @@
         "Other"
     ],
     "apasccon/SearchTextField": [
+        "Other"
+    ],
+    "aperim/docker-nvidia-cuda-ffmpeg": [
         "Other"
     ],
     "apideck-libraries/portman": [
@@ -3969,6 +4056,9 @@
         "Other"
     ],
     "authelia/authelia": [
+        "Other"
+    ],
+    "automotive-hub/imvision-ads-gen": [
         "Other"
     ],
     "avTranscoder/avTranscoder": [
@@ -4448,6 +4538,9 @@
     "blakeblackshear/frigate": [
         "Other"
     ],
+    "blalelimit/media-processing-python": [
+        "Other"
+    ],
     "blank-blank/firetv-pipeline": [
         "Other"
     ],
@@ -4730,6 +4823,12 @@
     "castlabs/dashencrypt": [
         "Other"
     ],
+    "catdad/video-tools": [
+        "Other"
+    ],
+    "catdad/video-tools-app": [
+        "Other"
+    ],
     "cats-oss/Degu": [
         "Other"
     ],
@@ -4836,6 +4935,9 @@
         "Other"
     ],
     "cheesecakeufo/komorebi": [
+        "Other"
+    ],
+    "cheezos/video-compressor": [
         "Other"
     ],
     "chentsulin/awesome-graphql": [
@@ -5082,6 +5184,9 @@
         "Other"
     ],
     "collabnix/kubelabs": [
+        "Other"
+    ],
+    "comingAlive/ffmpegaudioextract.xyz": [
         "Other"
     ],
     "commaai/openpilot": [
@@ -5705,6 +5810,9 @@
     "dim-geo/compressibility": [
         "Other"
     ],
+    "dimMaryanto93/springboot2-upload-video-example": [
+        "Other"
+    ],
     "dimitris-c/AudioStreaming": [
         "Other"
     ],
@@ -5727,6 +5835,9 @@
         "Other"
     ],
     "disoul/electron-cloud-music": [
+        "Other"
+    ],
+    "divyam234/ffmpeg-NVEnc": [
         "Other"
     ],
     "django-admin-tools/django-admin-tools": [
@@ -6545,6 +6656,12 @@
     "fflewddur/tophat": [
         "Other"
     ],
+    "ffmpegwasm/ffmpeg.wasm": [
+        "Other"
+    ],
+    "ffmpegwasm/ffmpeg.wasm-core": [
+        "Other"
+    ],
     "ffplayout/ffplayout": [
         "Other"
     ],
@@ -6669,6 +6786,9 @@
         "Other"
     ],
     "foxlet/macOS-Simple-KVM": [
+        "Other"
+    ],
+    "foyzulkarim/mern-video-streaming": [
         "Other"
     ],
     "fr0tt/benotes": [
@@ -7187,6 +7307,9 @@
     "h2oai/wave": [
         "Other"
     ],
+    "h4tr3d/avcpp": [
+        "Other"
+    ],
     "hackerdude/jiratotaskmanagers": [
         "Other"
     ],
@@ -7682,6 +7805,9 @@
     "intel/libva": [
         "Other"
     ],
+    "intel/media-delivery": [
+        "Other"
+    ],
     "intel/media-driver": [
         "Other"
     ],
@@ -7922,6 +8048,9 @@
     "jazzband/django-downloadview": [
         "Other"
     ],
+    "jb-alvarado/compile-ffmpeg-osx-linux": [
+        "Other"
+    ],
     "jbweimar/external-webvtt-example": [
         "Other"
     ],
@@ -7950,6 +8079,9 @@
         "Other"
     ],
     "jeffknupp/sandman2": [
+        "Other"
+    ],
+    "jellyfin/jellyfin-exoplayer-ffmpeg-extension": [
         "Other"
     ],
     "jelmerdejong/flask-app-blueprint": [
@@ -8064,6 +8196,9 @@
         "Other"
     ],
     "jmdacruz/celery-k8s-operator": [
+        "Other"
+    ],
+    "jmf1988/ytdash": [
         "Other"
     ],
     "jnorton001/pycaption-cli": [
@@ -8220,6 +8355,9 @@
         "Other"
     ],
     "jsbain/stash_git_tutorial": [
+        "Other"
+    ],
+    "jsffm/vdr-transcode": [
         "Other"
     ],
     "json-api/json-api": [
@@ -9311,6 +9449,9 @@
     "m-x-k/cookiecutter-spring-boot": [
         "Other"
     ],
+    "m1guelpf/auto-subtitle": [
+        "Other"
+    ],
     "m1k1o/go-transcode": [
         "Other"
     ],
@@ -9369,6 +9510,9 @@
         "Other"
     ],
     "mahmoud/awesome-python-applications": [
+        "Other"
+    ],
+    "mahyarkarimi/ffmpeg-ms": [
         "Other"
     ],
     "majamee/alpine-dash-hls": [
@@ -9717,6 +9861,9 @@
         "Other"
     ],
     "mehcode/awesome-atom": [
+        "Other"
+    ],
+    "mehmetgoren/ffmpeg_service": [
         "Other"
     ],
     "mehmettaskiner/eksi-sozluk-reloaded": [
@@ -10325,6 +10472,9 @@
     "networktocode/awesome-network-automation": [
         "Other"
     ],
+    "neurospeech/ff-lambda-container": [
+        "Other"
+    ],
     "neutraltone/awesome-stock-resources": [
         "Other"
     ],
@@ -10380,6 +10530,9 @@
         "Other"
     ],
     "nicolashery/mac-dev-setup": [
+        "Other"
+    ],
+    "nielstenboom/recurring-content-detector": [
         "Other"
     ],
     "nikhilm/node-taglib": [
@@ -10506,6 +10659,9 @@
         "Other"
     ],
     "npm/cli": [
+        "Other"
+    ],
+    "nschlia/ffmpegfs": [
         "Other"
     ],
     "nsidnev/fastapi-realworld-example-app": [
@@ -10805,6 +10961,9 @@
     "orcutt989/kubernetes-swagger-api": [
         "Other"
     ],
+    "ordinary-dev/ffmpeg-scripts": [
+        "Other"
+    ],
     "oreparaz/rshift": [
         "Other"
     ],
@@ -10812,6 +10971,9 @@
         "Other"
     ],
     "orhun/kmon": [
+        "Other"
+    ],
+    "orkan/ffmpeg": [
         "Other"
     ],
     "orsinium-labs/awesome-generator": [
@@ -11459,6 +11621,9 @@
     "quicktype/quicktype-xcode": [
         "Other"
     ],
+    "quietvoid/dovi_tool": [
+        "Other"
+    ],
     "quodlibet/mutagen": [
         "Other"
     ],
@@ -11931,6 +12096,9 @@
         "Other"
     ],
     "rupakg/ffmpeg-video-thumb": [
+        "Other"
+    ],
+    "rust-av/ffms2-rs": [
         "Other"
     ],
     "rust-embedded/awesome-embedded-rust": [
@@ -13109,6 +13277,9 @@
     "talkpython/python-for-absolute-beginners-course": [
         "Other"
     ],
+    "tamara-schmitz/ffmpeg-docker-container": [
+        "Other"
+    ],
     "tanersener/ffmpeg-video-slideshow-scripts": [
         "Other"
     ],
@@ -13469,6 +13640,9 @@
     "tonywangcn/docker-cluster-with-celery-and-rabbitmq": [
         "Other"
     ],
+    "topaz1008/ffmpeg-any": [
+        "Other"
+    ],
     "tophat/RichTextView": [
         "Other"
     ],
@@ -13799,6 +13973,9 @@
     "vaib25vicky/awesome-mobile-security": [
         "Other"
     ],
+    "valbok/QtAVPlayer": [
+        "Other"
+    ],
     "valeriangalliat/gogs-migrate": [
         "Other"
     ],
@@ -13959,6 +14136,9 @@
         "Other"
     ],
     "videojs/videojs-playlist-ui": [
+        "Other"
+    ],
+    "videojs/vtt.js": [
         "Other"
     ],
     "videolan/vlc": [
@@ -14273,6 +14453,9 @@
     "widdix/aws-cf-templates": [
         "Other"
     ],
+    "wide-video/ffmpeg-wasm": [
+        "Other"
+    ],
     "widget-/slack-black-theme": [
         "Other"
     ],
@@ -14459,6 +14642,9 @@
     "xiewei-wayne/rtmp-video-player-for-ios": [
         "Other"
     ],
+    "xiguaxigua/ffmpeg-online": [
+        "Other"
+    ],
     "xincao9/yurpc": [
         "Other"
     ],
@@ -14559,6 +14745,9 @@
         "Other"
     ],
     "yenbekbay/AYGestureHelpView": [
+        "Other"
+    ],
+    "yermak/AudioBookConverter": [
         "Other"
     ],
     "yichengchen/clashX": [
