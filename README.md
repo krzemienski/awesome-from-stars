@@ -1454,6 +1454,7 @@
 * [kraanzu/dooit](https://github.com/kraanzu/dooit): A TUI todo manager
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
+* [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles): KDE Plasma for twm users.
 * [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles): My personal dotfiles for bspwm, i3-gaps and kde plasma
 * [YazdanZ/dotfiles](https://github.com/YazdanZ/dotfiles): Repository to manage and share personal dotfiles 
 * [alrra/dotfiles](https://github.com/alrra/dotfiles): 💻 macOS / Ubuntu dotfiles
@@ -2184,6 +2185,7 @@
 * [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator): Generate Grafana dashboards from configuration
 * [macoscope/GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard): Hang a TV in your open space or team room to show everyone what's up and get them up to speed.
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+* [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
 * [prometheus/graphite_exporter](https://github.com/prometheus/graphite_exporter): Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
 * [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor): 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 * [hasura/graphql-engine](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -2204,6 +2206,7 @@
 * [i4tv/gstreamill](https://github.com/i4tv/gstreamill): encoder with hls output based on gstreamer.
 * [Tencent/GT](https://github.com/Tencent/GT): GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
 * [rtlewis1/GTK](https://github.com/rtlewis1/GTK): GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon themes
+* [material-ocean/Gtk-Theme](https://github.com/material-ocean/Gtk-Theme): material ocean theme for Gnome and GTK based DE's
 * [google/GTMAppAuth](https://github.com/google/GTMAppAuth): Apple platforms SDK for using AppAuth with Google libraries.
 * [aksakalli/gtop](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
@@ -3397,6 +3400,7 @@
 * [webmproject/opus-dash](https://github.com/webmproject/opus-dash): Specification for Encapsulating Opus Audio in ISO-BMFF Container
 * [Yannis4444/Orange-Share](https://github.com/Yannis4444/Orange-Share): A small python server that accepts requests from an Apple shortcut to allow sharing all sorts of media from iOS with any desktop OS. It allows sending content right from the share sheet - similar to AirDrop between Apple Devices
 * [orcasound/orcanode](https://github.com/orcasound/orcanode): Software for live-streaming and recording lossy or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets. :star:
+* [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [openshift/origin](https://github.com/openshift/origin): Conformance test suite for OpenShift
 * [stoyanovgeorge/origin_server](https://github.com/stoyanovgeorge/origin_server): A simple script for creating an origin server for storing OTT chunks and manifest files using the HTTP PUT method from a remote OTT transcoder
 * [svt/orm](https://github.com/svt/orm): ORM: Origin Routing Machine

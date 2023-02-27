@@ -326,6 +326,9 @@
     "BingLingGroup/autosub": [
         "Other"
     ],
+    "Blacksuan19/Dotfiles": [
+        "Other"
+    ],
     "Boerworz/Gagat": [
         "Other"
     ],
@@ -9731,6 +9734,9 @@
     "matejak/argbash": [
         "Other"
     ],
+    "material-ocean/Gtk-Theme": [
+        "Other"
+    ],
     "material-ocean/Material-Ocean": [
         "Other"
     ],
@@ -14193,6 +14199,12 @@
         "Other"
     ],
     "vinceliuice/Fluent-gtk-theme": [
+        "Other"
+    ],
+    "vinceliuice/Graphite-gtk-theme": [
+        "Other"
+    ],
+    "vinceliuice/Orchis-theme": [
         "Other"
     ],
     "vinceliuice/Tela-icon-theme": [
