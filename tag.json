@@ -2948,6 +2948,9 @@
     "Xilinx/ABR-video-transcode": [
         "Other"
     ],
+    "Xilinx/video-sdk": [
+        "Other"
+    ],
     "XimingCheng/HEVCAnalyzer": [
         "Other"
     ],
@@ -4125,6 +4128,9 @@
         "Other"
     ],
     "aws-samples/aws-media-replay-engine-samples": [
+        "Other"
+    ],
+    "aws-samples/aws-vt-baseami-pipeline": [
         "Other"
     ],
     "aws-samples/eb-docker-nginx-proxy": [
@@ -9081,6 +9087,9 @@
         "Other"
     ],
     "lcy0321/m3u8-downloader": [
+        "Other"
+    ],
+    "ldakhoa/GistHub": [
         "Other"
     ],
     "leandromoreira/GitlHEVCAnalyzer": [

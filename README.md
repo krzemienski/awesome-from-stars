@@ -723,6 +723,7 @@
 * [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 * [awslabs/aws-streamer](https://github.com/awslabs/aws-streamer): Video Processing for AWS
 * [awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber): This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions which allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
+* [aws-samples/aws-vt-baseami-pipeline](https://github.com/aws-samples/aws-vt-baseami-pipeline): AWS EC2/ECS/EKS reference AMI build scripts using packer.
 * [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
 * [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -2023,6 +2024,7 @@
 * [xdarklight/gigabyte_ambientled_ctrl](https://github.com/xdarklight/gigabyte_ambientled_ctrl): Scripts for controlling the Ambient LEDs found on some GIGABYTE mainboards on Linux
 * [travis-ci/gimme](https://github.com/travis-ci/gimme): Install go, yay!
 * [gin-gonic/gin](https://github.com/gin-gonic/gin): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+* [ldakhoa/GistHub](https://github.com/ldakhoa/GistHub): The iOS app for GitHub Gist
 * [waylybaye/git-agent](https://github.com/waylybaye/git-agent): a docker image helps you pull all git volumes automatically
 * [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp): Uses Git to upload only changed files to FTP servers.
 * [arc90/git-sweep](https://github.com/arc90/git-sweep): A command-line tool that helps you clean up Git branches that have been merged into master.
@@ -4762,6 +4764,7 @@
 * [bilashcse/video-editor](https://github.com/bilashcse/video-editor): API based Online Video Editing using FFMPEG & NodeJs for Backend Editing
 * [davidkern13/Video-Http-Live-Stream-Nodejs-React](https://github.com/davidkern13/Video-Http-Live-Stream-Nodejs-React): Live http streaming and vod project.
 * [aizvorski/video-quality](https://github.com/aizvorski/video-quality): Video quality metrics, reference implementation in python: VIF, SSIM, PSNR, ...
+* [Xilinx/video-sdk](https://github.com/Xilinx/video-sdk): None
 * [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples): Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
 * [michaelcunningham19/video-speech-recognition](https://github.com/michaelcunningham19/video-speech-recognition): Auto-generated video subtitles for the web using machine learning
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
