@@ -1920,6 +1920,7 @@
 * [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun): Easily generate flowcharts and diagrams from text ⿻
 * [adrai/flowchart.js](https://github.com/adrai/flowchart.js): Draws simple SVG flow chart diagrams from textual representation of the diagram
 * [mher/flower](https://github.com/mher/flower): Real-time monitor and web admin for Celery distributed task queue
+* [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme): Fluent design gtk theme for linux desktops
 * [MihaelIsaev/FluentQuery](https://github.com/MihaelIsaev/FluentQuery): 🗃 Powerful and easy to use Swift Query Builder for Vapor 3.
 * [nathangitter/fluid-interfaces](https://github.com/nathangitter/fluid-interfaces): Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces"
 * [fluid-player/fluid-player](https://github.com/fluid-player/fluid-player): Fluid Player - an open source VAST compliant HTML5 video player
@@ -2195,12 +2196,14 @@
 * [Grive/grive](https://github.com/Grive/grive): an open source Linux client for Google Drive
 * [teejee2008/groot](https://github.com/teejee2008/groot): Chroot helper utility for all Linux distributions
 * [google/grumpy](https://github.com/google/grumpy): Grumpy is a Python to Go source code transcompiler and runtime.
+* [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme): A GTK theme based on the Gruvbox colour palette. 
 * [Vincent-P/gruvbox-intellij-theme](https://github.com/Vincent-P/gruvbox-intellij-theme): An IDE theme based on the gruvbox color scheme. ⛺
 * [gregheo/gruvbox-theme-for-xcode](https://github.com/gregheo/gruvbox-theme-for-xcode): An Xcode theme based on the very popular gruvbox vim theme!
 * [wxxsw/GSPlayer](https://github.com/wxxsw/GSPlayer): ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
 * [ziutek/gst](https://github.com/ziutek/gst): Go bindings for GStreamer (retired: currently I don't use/develop this package)
 * [i4tv/gstreamill](https://github.com/i4tv/gstreamill): encoder with hls output based on gstreamer.
 * [Tencent/GT](https://github.com/Tencent/GT): GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
+* [rtlewis1/GTK](https://github.com/rtlewis1/GTK): GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon themes
 * [google/GTMAppAuth](https://github.com/google/GTMAppAuth): Apple platforms SDK for using AppAuth with Google libraries.
 * [aksakalli/gtop](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
@@ -2966,6 +2969,8 @@
 * [sergree/matchering](https://github.com/sergree/matchering): 🎚️ Open Source Audio Matching and Mastering
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
 * [CosmicMind/Material](https://github.com/CosmicMind/Material): A UI/UX framework for creating beautiful applications.
+* [Fausto-Korpsvart/Material-GTK-Themes](https://github.com/Fausto-Korpsvart/Material-GTK-Themes): Material GTK Themes
+* [material-ocean/Material-Ocean](https://github.com/material-ocean/Material-Ocean):  A blueish oceanic color scheme for various applications
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 * [mui/material-ui](https://github.com/mui/material-ui): MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 * [matomo-org/matomo](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! 
@@ -3264,6 +3269,7 @@
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 * [hashicorp/nomad-dispatch-ffmpeg](https://github.com/hashicorp/nomad-dispatch-ffmpeg): Demo using Nomad Dispatch to transcode videos with ffmpeg
 * [cpitkin/nomad-openfaas-transcode-video](https://github.com/cpitkin/nomad-openfaas-transcode-video): None
+* [EliverLara/Nordic](https://github.com/EliverLara/Nordic): :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 * [notea-org/notea](https://github.com/notea-org/notea): 📒 Self hosted note taking app stored on S3
 * [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes): GUI for AV1 (aomenc, rav1e & svt-av1)
@@ -4989,6 +4995,7 @@
 * [theychx/WorkspaceSwitcherWrapAround](https://github.com/theychx/WorkspaceSwitcherWrapAround): Gnome Shell Workspace Switch Wraparound Extension
 * [pmusolino/Wormholy](https://github.com/pmusolino/Wormholy): iOS network debugging, like a wizard 🧙‍♂️
 * [koala-interactive/wowza-webrtc-player](https://github.com/koala-interactive/wowza-webrtc-player): WebRTC player for Wowza live video streaming platform
+* [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk): :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 * [JohnSundell/Wrap](https://github.com/JohnSundell/Wrap): [DEPRECATED] The easy to use Swift JSON encoder
 * [christgau/wsdd](https://github.com/christgau/wsdd): A Web Service Discovery host daemon.
 * [mar10/wsgidav](https://github.com/mar10/wsgidav): A generic and extendable WebDAV server based on WSGI
