@@ -273,6 +273,7 @@
 * [maoschanz/appfolders-manager-gnome-extension](https://github.com/maoschanz/appfolders-manager-gnome-extension): A GNOME extension allowing easy management of "appfolders" directly from the applications grid.
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 * [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher): Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
+* [prateekmedia/appimagepool](https://github.com/prateekmedia/appimagepool): A simple, modern AppImageHub Client, powered by flutter.
 * [AppImageCommunity/AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate): AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
 * [appium/appium](https://github.com/appium/appium): Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 * [appium-boneyard/appium-ci](https://github.com/appium-boneyard/appium-ci): Standalone gulp wrapper for appium ci.
@@ -390,6 +391,7 @@
 * [sneljo1/auryo](https://github.com/sneljo1/auryo): [Discontinued] Auryo - Unofficial Soundcloud Desktop App
 * [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps
 * [google/auto](https://github.com/google/auto): A collection of source code generators for Java.
+* [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq): Automatic CPU speed & power optimizer for Linux
 * [majamee/auto-dash-hls](https://github.com/majamee/auto-dash-hls): Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder
 * [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
 * [yavorsky/auto-github-topics](https://github.com/yavorsky/auto-github-topics): 📝 Fetch and set topics to github from package.json
@@ -749,6 +751,7 @@
 * [krzemienski/bakery](https://github.com/krzemienski/bakery): HLS and DASH Manifest Service
 * [soldiermoth/bakery](https://github.com/soldiermoth/bakery): HLS and DASH Manifest Service
 * [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo): Next generation Wagtail demo, born in Reykjavik
+* [LemonBoy/bar](https://github.com/LemonBoy/bar): A featherweight, lemon-scented, bar based on xcb
 * [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter): Dynamically changes status bar style depending on content behind it
 * [evertramos/basescript](https://github.com/evertramos/basescript): Scripts to be used for automation by other scripts
 * [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
@@ -790,6 +793,7 @@
 * [toshi0383/Bitrise-iOS](https://github.com/toshi0383/Bitrise-iOS): Client iOS app for bitrise.io 🚀
 * [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor): Bitrise Workflow Editor
 * [psf/black](https://github.com/psf/black): The uncompromising Python code formatter
+* [shimmerproject/Blackbird](https://github.com/shimmerproject/Blackbird): Dark Desktop Suite for Xfce
 * [karloespiritu/BlackDoc](https://github.com/karloespiritu/BlackDoc): A two-column Jekyll theme for websites that require a master-detail layout for viewing of content
 * [EONRaider/blackhat-python3](https://github.com/EONRaider/blackhat-python3): Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
 * [lets-blade/blade](https://github.com/lets-blade/blade): :rocket: Lightning fast and elegant mvc framework for Java8
@@ -1091,6 +1095,7 @@
 * [ebu/content-manager](https://github.com/ebu/content-manager): The Content Manager is a visual production tool which is able to generate on the fly visualisation for DAB slideshow and RadioVIS. .NET framework based, it is developed in C# and is distributed under LGPL licence.
 * [webtor-io/content-transcoder](https://github.com/webtor-io/content-transcoder): Transcodes HTTP-stream to HLS
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
+* [contour-terminal/contour](https://github.com/contour-terminal/contour): Modern C++ Terminal Emulator
 * [bryanbrunetti/controku](https://github.com/bryanbrunetti/controku): An app to control Roku devices, written with ElectronJS
 * [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom): A macOS app to control the Xcode Simulator.
 * [BrianDMG/conv2mp4](https://github.com/BrianDMG/conv2mp4): This Powershell script will recursively search through a user-defined file path and convert all videos of user-specified file types to MP4 with H264 video and AAC audio using ffmpeg. The purpose of this script is to reduce transcoding CPU load on a media server like Plex or Emby and increase video compatibility across platforms.
@@ -1144,8 +1149,10 @@
 * [Axinom/cpix-validator](https://github.com/Axinom/cpix-validator): Web app for validating CPIX documents
 * [google/cpix_cc](https://github.com/google/cpix_cc): A C++ implementation of CPIX specification for the exchange of encryption keys and DRM information.
 * [antoinehng/cpix_tools](https://github.com/antoinehng/cpix_tools): Useful CPIX tools for specific and personal use. This is not a comprehensive parsing library!
+* [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X): CPU-X is a Free software that gathers information on CPU, motherboard and more
 * [konkor/cpufreq](https://github.com/konkor/cpufreq): System Monitor and Power Manager
 * [deinstapel/cpupower](https://github.com/deinstapel/cpupower): Manage the frequency scaling driver of your CPU (Intel Core and AMD Ryzen processors supported)
+* [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui): cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 * [python/cpython](https://github.com/python/cpython): The Python programming language
 * [nystudio107/craft-transcoder](https://github.com/nystudio107/craft-transcoder): Transcode video & audio files to various formats, and provide video thumbnails
 * [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -1246,6 +1253,7 @@
 * [linuxdeepin/dde-file-manager](https://github.com/linuxdeepin/dde-file-manager): File manager for deepin desktop environment.
 * [didi/DDMQ](https://github.com/didi/DDMQ): DDMQ is a distributed messaging product with low latency, high throughput and high availability.
 * [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater): Container to update DNS records periodically with WebUI for many DNS providers
+* [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get): apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 * [segmentio/decibel](https://github.com/segmentio/decibel): A small iOS app for recording office noise dB levels to Datadog.
 * [kahache/DeckLinkHDMI](https://github.com/kahache/DeckLinkHDMI): Create your own encoder with an Ubuntu Server + DeckLink HDMI Mini Recorder!
 * [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools): DeDRM tools for ebooks
@@ -1908,6 +1916,7 @@
 * [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [jollygoose/flat-remix-gtk-snap](https://github.com/jollygoose/flat-remix-gtk-snap): Snap package of the Flat Remix GTK theme by @daniruiz
 * [GitHawkApp/FlatCache](https://github.com/GitHawkApp/FlatCache): Implementation of Soroush Khanlou's Flat Cache.
+* [cbrnix/Flatery](https://github.com/cbrnix/Flatery): Flatery is icon theme for linux in flat style licensed under the CC BY-NC-SA 3.0 
 * [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX): An in-app debugging and exploration tool for iOS
 * [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch): Next-Generation full text search library for Browser and Node.js
 * [apache/flink](https://github.com/apache/flink): Apache Flink
@@ -2096,6 +2105,7 @@
 * [87kangsw/GitTime](https://github.com/87kangsw/GitTime): GitTime is GitHub Tracking App. Using ReactorKit, RxSwift, Moya.
 * [brminnick/GitTrends](https://github.com/brminnick/GitTrends): A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos
 * [jsbain/gitview](https://github.com/jsbain/gitview): Pythonista git wrapper
+* [heppu/gkill](https://github.com/heppu/gkill): Interactice process killer for Linux and macOS
 * [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 * [thias/glim](https://github.com/thias/glim): GRUB Live ISO Multiboot
 * [timche/gmail-desktop](https://github.com/timche/gmail-desktop): :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
@@ -2103,6 +2113,7 @@
 * [intel/gmmlib](https://github.com/intel/gmmlib): None
 * [delphiki/gnome-airpods-battery-status](https://github.com/delphiki/gnome-airpods-battery-status): A Gnome Shell Extension to display the battery levels of your Airpods (and case) in the top bar.
 * [muflone/gnome-appfolders-manager](https://github.com/muflone/gnome-appfolders-manager): Manage GNOME Shell applications folders
+* [GNOME/gnome-applets](https://github.com/GNOME/gnome-applets): Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-applets
 * [yomun/gnome-backup-tools](https://github.com/yomun/gnome-backup-tools): GNOME Shell Extensions - Backup Tools / 备份工具
 * [ethanwharris/gnome-nvidia-extension](https://github.com/ethanwharris/gnome-nvidia-extension): A Gnome extension to show NVIDIA GPU information
 * [Schneegans/Gnome-Pie](https://github.com/Schneegans/Gnome-Pie): A pie menu launcher for linux. Read the release announcement of version 0.7.2 at https://schneegans.github.io/news/2018/10/30/gnome-pie-072 Or have a look at the homepage!
@@ -2433,6 +2444,7 @@
 * [automotive-hub/imvision-ads-gen](https://github.com/automotive-hub/imvision-ads-gen): Immersive Ads
 * [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 * [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
+* [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor): Ubuntu application indicator to show various system parameters
 * [matvp91/indigo-player](https://github.com/matvp91/indigo-player): Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 * [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg): A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video 
 * [facebook/infer](https://github.com/facebook/infer): A static analyzer for Java, C, C++, and Objective-C
@@ -3510,6 +3522,7 @@
 * [moparisthebest/pkgsync](https://github.com/moparisthebest/pkgsync): Sync installed packages across Arch installs
 * [piotrmski/plaid](https://github.com/piotrmski/plaid): Personal Jira worklog editor
 * [pinterest/plank](https://github.com/pinterest/plank): A tool for generating immutable model objects
+* [orblazer/plasma-applet-resources-monitor](https://github.com/orblazer/plasma-applet-resources-monitor): Plasma 5 applet for monitoring CPU, RAM and network traffic.
 * [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages): Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers
 * [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker): You know it, you use it, now it's time to improve it. PWD!.
 * [mafintosh/playback](https://github.com/mafintosh/playback): Video player built using electron and node.js
@@ -3548,6 +3561,7 @@
 * [square/PonyDebugger](https://github.com/square/PonyDebugger): Remote network and data debugging for your native iOS app using Chrome Developer Tools
 * [facebookarchive/pop](https://github.com/facebookarchive/pop): An extensible iOS and OS X animation library, useful for physics-based interactions.
 * [pop-os/pop](https://github.com/pop-os/pop): A project for managing all Pop!_OS sources
+* [pop-os/popsicle](https://github.com/pop-os/popsicle): Multiple USB File Flasher
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [portainer/portainer-compose](https://github.com/portainer/portainer-compose): Compose setup for Portainer 
 * [apideck-libraries/portman](https://github.com/apideck-libraries/portman): Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
@@ -4577,6 +4591,7 @@
 * [matteom/TopQuestion](https://github.com/matteom/TopQuestion): An example of calling REST APIs in iOS
 * [ag2816/TorontoWalks](https://github.com/ag2816/TorontoWalks): Walk generator to discover new neighbourhoods and sites in Toronto
 * [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind
+* [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
 * [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy): :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 * [taphouseio/TPHCloudAnalytics](https://github.com/taphouseio/TPHCloudAnalytics): None
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
@@ -4667,6 +4682,7 @@
 * [typhoeus/typhoeus](https://github.com/typhoeus/typhoeus):  Typhoeus wraps libcurl in order to make fast and reliable requests.
 * [ubports/ubports-installer](https://github.com/ubports/ubports-installer): A simple tool to install Ubuntu Touch on UBports devices
 * [JREAM/ubuntu-cheatsheet](https://github.com/JREAM/ubuntu-cheatsheet): Ubuntu Terminal Cheatsheet
+* [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner): Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.
 * [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make): Easy setup of common tools for developers on Ubuntu.
 * [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android): Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 * [snwh/ubuntu-post-install](https://github.com/snwh/ubuntu-post-install): A set of post-installation shell scripts for Ubuntu
@@ -4866,6 +4882,7 @@
 * [ThatNerdUKnow/vmaf-gui](https://github.com/ThatNerdUKnow/vmaf-gui): A GUI built using C# to make Netflix's VMAF easier to use
 * [muxinc/vmaf_analyzer](https://github.com/muxinc/vmaf_analyzer): Estimates the average delivered VMAF for hls manifests
 * [Eyevinn/vmapproxy](https://github.com/Eyevinn/vmapproxy): A simple VMAP / VAST proxy
+* [vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker): vnStat in a container with image output via http
 * [voc/voctomix](https://github.com/voc/voctomix): Full-HD Software Live-Video-Mixer in python
 * [Eyevinn/vod-to-live](https://github.com/Eyevinn/vod-to-live): A python library to generate Live HLS from VOD
 * [bbayles/vod_metadata](https://github.com/bbayles/vod_metadata): CableLabs VOD Metadata 1.1 Generator

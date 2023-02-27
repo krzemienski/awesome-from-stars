@@ -104,6 +104,9 @@
     "AcademySoftwareFoundation/EncodingGuidelines": [
         "Other"
     ],
+    "AdnanHodzic/auto-cpufreq": [
+        "Other"
+    ],
     "AdnanHodzic/displaylink-debian": [
         "Other"
     ],
@@ -1190,6 +1193,9 @@
     "G-dH/workspace-switcher-manager": [
         "Other"
     ],
+    "GNOME/gnome-applets": [
+        "Other"
+    ],
     "GPUOpen-ProfessionalCompute-Libraries/MIVisionX": [
         "Other"
     ],
@@ -1556,6 +1562,9 @@
     "JoseExposito/gnome-shell-extension-x11gestures": [
         "Other"
     ],
+    "JoseExposito/touchegg": [
+        "Other"
+    ],
     "JuanCrg90/Clean-Code-Notes": [
         "Other"
     ],
@@ -1719,6 +1728,9 @@
         "Other"
     ],
     "Leleat/simple-task-bar": [
+        "Other"
+    ],
+    "LemonBoy/bar": [
         "Other"
     ],
     "LeoMobileDeveloper/ios-developer-tools": [
@@ -2781,6 +2793,9 @@
         "Other"
     ],
     "TheOpponent/mr-otcs": [
+        "Other"
+    ],
+    "TheTumultuousUnicornOfDarkness/CPU-X": [
         "Other"
     ],
     "ThibaultBee/StreamPack": [
@@ -4862,6 +4877,9 @@
     "cbirkenbeul/docker-homelab": [
         "Other"
     ],
+    "cbrnix/Flatery": [
+        "Other"
+    ],
     "cbsinteractive/hawkeye": [
         "Other"
     ],
@@ -5244,6 +5262,9 @@
         "Other"
     ],
     "contently/videojs-annotation-comments": [
+        "Other"
+    ],
+    "contour-terminal/contour": [
         "Other"
     ],
     "conwnet/github1s": [
@@ -6800,6 +6821,9 @@
     "fossasia/open-event-server": [
         "Other"
     ],
+    "fossfreedom/indicator-sysmonitor": [
+        "Other"
+    ],
     "fosslife/awesome-ricing": [
         "Other"
     ],
@@ -6942,6 +6966,9 @@
         "Other"
     ],
     "georgewhewell/undervolt": [
+        "Other"
+    ],
+    "gerardpuig/ubuntu-cleaner": [
         "Other"
     ],
     "get-set/infra-docker-compose": [
@@ -7470,6 +7497,9 @@
         "Other"
     ],
     "henrikruscon/hyper-tabs-enhanced": [
+        "Other"
+    ],
+    "heppu/gkill": [
         "Other"
     ],
     "herrbischoff/awesome-macos-command-line": [
@@ -10985,6 +11015,9 @@
     "optonaut/ActiveLabel.swift": [
         "Other"
     ],
+    "orblazer/plasma-applet-resources-monitor": [
+        "Other"
+    ],
     "orcasound/orcanode": [
         "Other"
     ],
@@ -11387,6 +11420,9 @@
     "pop-os/pop": [
         "Other"
     ],
+    "pop-os/popsicle": [
+        "Other"
+    ],
     "pop-os/repo-proprietary": [
         "Other"
     ],
@@ -11442,6 +11478,9 @@
         "Other"
     ],
     "prasmussen/gdrive": [
+        "Other"
+    ],
+    "prateekmedia/appimagepool": [
         "Other"
     ],
     "prcongithub/do-assets": [
@@ -12519,6 +12558,9 @@
         "Other"
     ],
     "shimberger/gohls": [
+        "Other"
+    ],
+    "shimmerproject/Blackbird": [
         "Other"
     ],
     "shin-kinoshita/cookiecutter-react-electron": [
@@ -14003,6 +14045,9 @@
     "vaexio/vaex": [
         "Other"
     ],
+    "vagnum08/cpupower-gui": [
+        "Other"
+    ],
     "vaib25vicky/awesome-mobile-security": [
         "Other"
     ],
@@ -14097,6 +14142,9 @@
         "Other"
     ],
     "vercel/hyper": [
+        "Other"
+    ],
+    "vergoh/vnstat-docker": [
         "Other"
     ],
     "vfarcic/docker-flow-proxy": [
@@ -14556,6 +14604,9 @@
         "Other"
     ],
     "wilsonfreitas/awesome-quant": [
+        "Other"
+    ],
+    "wimpysworld/deb-get": [
         "Other"
     ],
     "wimpysworld/desktopify": [
