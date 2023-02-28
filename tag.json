@@ -50,6 +50,9 @@
     "521xueweihan/HelloGitHub": [
         "Other"
     ],
+    "5ika/denotion": [
+        "Other"
+    ],
     "777777miSSU7777777/hls-audio-player": [
         "Other"
     ],
@@ -633,6 +636,9 @@
         "Other"
     ],
     "CrackerCat/video_decrypter": [
+        "Other"
+    ],
+    "CristianCardosoA/installSwiftCentos": [
         "Other"
     ],
     "CrypticSignal/AV-converter": [
@@ -1346,6 +1352,9 @@
     "HirokiUmatani/PEAR-ZoomingView-iOS": [
         "Other"
     ],
+    "HsunGong/github-notion": [
+        "Other"
+    ],
     "Huachao/vscode-restclient": [
         "Other"
     ],
@@ -1671,6 +1680,9 @@
         "Other"
     ],
     "LA1TV/DVR-Bridge-Service": [
+        "Other"
+    ],
+    "LGiki/gnome-shell-extension-simple-system-monitor": [
         "Other"
     ],
     "LINKIWI/cloudflare-ddns-client": [
@@ -3050,6 +3062,9 @@
     "a2nt/silverstripe-digitalocean-nginx-backup-scripts": [
         "Other"
     ],
+    "a7madZ3Dev/Notion_Tracker": [
+        "Other"
+    ],
     "aaberg/sql2o": [
         "Other"
     ],
@@ -4269,6 +4284,9 @@
         "Other"
     ],
     "axnsan12/drf-yasg": [
+        "Other"
+    ],
+    "axxapy/gnome-ui-tune": [
         "Other"
     ],
     "ayush--s/gh_stars_export": [
@@ -6209,6 +6227,9 @@
     "eebean2/DevTools": [
         "Other"
     ],
+    "ega4432/notion-to-markdown-action": [
+        "Other"
+    ],
     "egg-bread/hls-to-mp4": [
         "Other"
     ],
@@ -6300,6 +6321,9 @@
         "Other"
     ],
     "elunez/eladmin": [
+        "Other"
+    ],
+    "elvetemedve/gnome-shell-extension-system-monitor": [
         "Other"
     ],
     "emacsfodder/emacs-theme-darktooth": [
@@ -6800,6 +6824,9 @@
     "flyingrub/scdl": [
         "Other"
     ],
+    "fmujakitz/thinkpad-thermal": [
+        "Other"
+    ],
     "foambubble/foam": [
         "Other"
     ],
@@ -6867,6 +6894,9 @@
         "Other"
     ],
     "fsspec/s3fs": [
+        "Other"
+    ],
+    "fthx/dock-from-dash": [
         "Other"
     ],
     "fthx/snap-manager": [
@@ -6969,6 +6999,9 @@
         "Other"
     ],
     "gerardpuig/ubuntu-cleaner": [
+        "Other"
+    ],
+    "germanztz/gnome-shell-extension-rclone-manager": [
         "Other"
     ],
     "get-set/infra-docker-compose": [
@@ -7415,7 +7448,19 @@
     "hardpixel/dark-variant": [
         "Other"
     ],
+    "hardpixel/dash-to-plank": [
+        "Other"
+    ],
+    "hardpixel/gnome-hud": [
+        "Other"
+    ],
+    "hardpixel/unite-shell": [
+        "Other"
+    ],
     "harishkannarao/MySpringBoot": [
+        "Other"
+    ],
+    "harryzcy/nodop": [
         "Other"
     ],
     "harshadgavali/gnome-x11-gesture-daemon": [
@@ -8012,6 +8057,9 @@
     "jakeheis/Ice": [
         "Other"
     ],
+    "jakeswenson/notion": [
+        "Other"
+    ],
     "jakoch/awesome-composer": [
         "Other"
     ],
@@ -8250,6 +8298,9 @@
         "Other"
     ],
     "jmf1988/ytdash": [
+        "Other"
+    ],
+    "jmmaranan/forge": [
         "Other"
     ],
     "jnorton001/pycaption-cli": [
@@ -10004,6 +10055,9 @@
     "michaelversus/insomnia-plugin-codegen": [
         "Other"
     ],
+    "micheledaros/gnome-shell-extension-simulate-switching-workspaces-on-active-monitor": [
+        "Other"
+    ],
     "micheleg/dash-to-dock": [
         "Other"
     ],
@@ -10128,6 +10182,9 @@
         "Other"
     ],
     "minio/operator": [
+        "Other"
+    ],
+    "minwook-shin/notion-database": [
         "Other"
     ],
     "miquido/futura": [
@@ -11081,6 +11138,12 @@
     "osyounis/image_watermark_remover": [
         "Other"
     ],
+    "otoyo/astro-notion-blog": [
+        "Other"
+    ],
+    "otoyo/easy-notion-blog": [
+        "Other"
+    ],
     "ouropencode/OpenDocumenter": [
         "Other"
     ],
@@ -11987,6 +12050,9 @@
     "ripienaar/free-for-dev": [
         "Other"
     ],
+    "rishuinfinity/WallpaperSwitcher": [
+        "Other"
+    ],
     "rizinorg/cutter": [
         "Other"
     ],
@@ -12170,6 +12236,9 @@
     "rupakg/ffmpeg-video-thumb": [
         "Other"
     ],
+    "rursache/vscode-swift-linuxserver-mod": [
+        "Other"
+    ],
     "rust-av/ffms2-rs": [
         "Other"
     ],
@@ -12348,6 +12417,9 @@
         "Other"
     ],
     "scality/s3utils": [
+        "Other"
+    ],
+    "scarsu/NotionX": [
         "Other"
     ],
     "scenee/FloatingPanel": [
@@ -12804,6 +12876,9 @@
         "Other"
     ],
     "slidevjs/slidev-vscode": [
+        "Other"
+    ],
+    "slikdijit/Ubuntu-Swift-Installer": [
         "Other"
     ],
     "slugh23/hid-rfid-reader": [
@@ -14430,6 +14505,9 @@
         "Other"
     ],
     "washingtonpost/data-police-shootings": [
+        "Other"
+    ],
+    "wassimseif/Swift-on-linux": [
         "Other"
     ],
     "watson-developer-cloud/text-to-speech-nodejs": [

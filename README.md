@@ -344,6 +344,7 @@
 * [e7711bbear/Assets](https://github.com/e7711bbear/Assets): macOS app that manages assets for your development projects (Xcode, web, etc)
 * [DragonCherry/AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController): Powerfully Customizable - Multiple Photo & Video Picker Controller
 * [jlarriba/astounding](https://github.com/jlarriba/astounding): A multiplatform GUI for the reMarkable tablet
+* [otoyo/astro-notion-blog](https://github.com/otoyo/astro-notion-blog): 🚀 Let's start your own Notion Blog with Astro.
 * [electrified/asus-wmi-sensors](https://github.com/electrified/asus-wmi-sensors): Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards
 * [crt0mega/asus-wmi-sensors-dkms](https://github.com/crt0mega/asus-wmi-sensors-dkms): Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards (Debian DKMS package)
 * [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin): Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
@@ -1221,6 +1222,7 @@
 * [xhlove/dash-subtitle-extractor](https://github.com/xhlove/dash-subtitle-extractor): Dash Embeded Stream Subtitle Extractor
 * [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock): A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
+* [hardpixel/dash-to-plank](https://github.com/hardpixel/dash-to-plank): GNOME Shell extension to integrate Plank, the simplest dock on the planet.
 * [Eyevinn/dash-validator-js](https://github.com/Eyevinn/dash-validator-js): MPEG DASH validator JS library
 * [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js): A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [pokey909/dash_adaptation_simulator](https://github.com/pokey909/dash_adaptation_simulator): Simulate bitrate switching algorithms based on real data traces
@@ -1277,6 +1279,7 @@
 * [hasura/demo-apps](https://github.com/hasura/demo-apps): Config to deploy Hasura demo apps using Docker Compose
 * [realeyes-media/demo-encoder](https://github.com/realeyes-media/demo-encoder): A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
+* [5ika/denotion](https://github.com/5ika/denotion): Save Notion pages locally
 * [kubenav/deploy](https://github.com/kubenav/deploy): Deploy kubenav at Kubernetes.
 * [coder/deploy-code-server](https://github.com/coder/deploy-code-server): Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 * [Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS](https://github.com/Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS): None
@@ -1354,6 +1357,7 @@
 * [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
 * [prcongithub/do-assets](https://github.com/prcongithub/do-assets): None
 * [seven1m/do-install-button](https://github.com/seven1m/do-install-button): NO LONGER MAINTAINED
+* [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash): None
 * [M7S/dockbarx](https://github.com/M7S/dockbarx): None
 * [nextcloud/docker](https://github.com/nextcloud/docker): ⛴ Docker image of Nextcloud
 * [Eyevinn/docker-2dash](https://github.com/Eyevinn/docker-2dash): A Docker container to pre-package MPEG DASH on demand content
@@ -1527,6 +1531,7 @@
 * [Dash-Industry-Forum/DynamicServiceValidator](https://github.com/Dash-Industry-Forum/DynamicServiceValidator): None
 * [google/EarlGrey](https://github.com/google/EarlGrey): :tea: iOS UI Automation Test Framework
 * [roberthein/Ease](https://github.com/roberthein/Ease): It's magic.
+* [otoyo/easy-notion-blog](https://github.com/otoyo/easy-notion-blog): ✍️ Let's start your own Notion Blog easily. / Notion Blogを始めましょう！
 * [evertramos/easy-server](https://github.com/evertramos/easy-server): Linux Scripts to Automate Tasks
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
@@ -1955,6 +1960,7 @@
 * [forem/forem](https://github.com/forem/forem): For empowering community 🌱
 * [electron/forge](https://github.com/electron/forge): :electron: A complete tool for building and publishing Electron applications
 * [jackrobertscott/forge](https://github.com/jackrobertscott/forge): 🏹 Free and open source developer tool.
+* [jmmaranan/forge](https://github.com/jmmaranan/forge): Forge - Tiling and Window Manager for Gnome-Shell
 * [jonan/ForkHub](https://github.com/jonan/ForkHub): GitHub client for Android based on the abandoned official app
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
 * [fethica/FRadioPlayer](https://github.com/fethica/FRadioPlayer): A simple radio player framework for iOS, macOS, tvOS.
@@ -2058,6 +2064,7 @@
 * [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira): Connect your code with your project management in Jira
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
 * [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts): GitHub scripts
+* [HsunGong/github-notion](https://github.com/HsunGong/github-notion): None
 * [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star): None
 * [steinfletcher/github-org-clone](https://github.com/steinfletcher/github-org-clone): :octocat: Clone repositories managed by a github organisation or team
 * [densebrain/github-org-reporter](https://github.com/densebrain/github-org-reporter): None
@@ -2115,6 +2122,7 @@
 * [muflone/gnome-appfolders-manager](https://github.com/muflone/gnome-appfolders-manager): Manage GNOME Shell applications folders
 * [GNOME/gnome-applets](https://github.com/GNOME/gnome-applets): Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-applets
 * [yomun/gnome-backup-tools](https://github.com/yomun/gnome-backup-tools): GNOME Shell Extensions - Backup Tools / 备份工具
+* [hardpixel/gnome-hud](https://github.com/hardpixel/gnome-hud): Unity like HUD menu for the GNOME Desktop Environment using rofi menu.
 * [ethanwharris/gnome-nvidia-extension](https://github.com/ethanwharris/gnome-nvidia-extension): A Gnome extension to show NVIDIA GPU information
 * [Schneegans/Gnome-Pie](https://github.com/Schneegans/Gnome-Pie): A pie menu launcher for linux. Read the release announcement of version 0.7.2 at https://schneegans.github.io/news/2018/10/30/gnome-pie-072 Or have a look at the homepage!
 * [sunwxg/gnome-shell-extension-arrangeWindows](https://github.com/sunwxg/gnome-shell-extension-arrangeWindows): None
@@ -2122,9 +2130,13 @@
 * [gpouilloux/gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker): An extension for managing docker containers
 * [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon): Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 * [kaiseracm/gnome-shell-extension-maximize-to-empty-workspace](https://github.com/kaiseracm/gnome-shell-extension-maximize-to-empty-workspace): New and maximized windows will be moved to empty workspaces. Supports multiple monitors.
+* [germanztz/gnome-shell-extension-rclone-manager](https://github.com/germanztz/gnome-shell-extension-rclone-manager): Is like Dropbox sync client but for more than 30 services, adds an indicator to the top panel so you can manage the rclone profiles configured in your system, perform operations such as mount as remote, watch for file modifications, sync with remote storage, navigate it's main folder. Also, it shows the status of each profile so you can supervise the operations, and provides an easy access log of events. Backup and restore the rclone configuration file, so you won't have to configure all your devices one by one
 * [mrEDitor/gnome-shell-extension-scroll-panel](https://github.com/mrEDitor/gnome-shell-extension-scroll-panel): Gnome Shell extension that allows to switch between workspaces and applications by scrolling mouse wheel above the top panel.
 * [xtranophilist/gnome-shell-extension-sensors](https://github.com/xtranophilist/gnome-shell-extension-sensors): Gnome shell extension: Shows CPU temperature, HDD temperature, voltage and fan RPM
+* [LGiki/gnome-shell-extension-simple-system-monitor](https://github.com/LGiki/gnome-shell-extension-simple-system-monitor): 🖥️ Show current CPU usage, memory usage and net speed on panel
+* [micheledaros/gnome-shell-extension-simulate-switching-workspaces-on-active-monitor](https://github.com/micheledaros/gnome-shell-extension-simulate-switching-workspaces-on-active-monitor): None
 * [paysonwallach/gnome-shell-extension-spruce](https://github.com/paysonwallach/gnome-shell-extension-spruce): Easily arrange windows from the comfort of your keyboard.
+* [elvetemedve/gnome-shell-extension-system-monitor](https://github.com/elvetemedve/gnome-shell-extension-system-monitor): Gnome Shell extension for displaying resource usage
 * [c0ldplasma/gnome-shell-extension-taskbar](https://github.com/c0ldplasma/gnome-shell-extension-taskbar): Development stopped - GNOME Shell Extension TaskBar 2020 (GNOME 3.30-(3.)40)
 * [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures): Enable GNOME Shell multi-touch gestures on X11 with this extension
 * [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync): Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
@@ -2132,6 +2144,7 @@
 * [mgalgs/gnome-shell-system-monitor-applet](https://github.com/mgalgs/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [mzur/gnome-shell-wsmatrix](https://github.com/mzur/gnome-shell-wsmatrix): GNOME shell extension to arrange workspaces in a two-dimensional grid with workspace thumbnails
 * [MichielJ1998/Gnome-tweak-screensaver](https://github.com/MichielJ1998/Gnome-tweak-screensaver): A gnome tweak extension which operates as a screensaver. 
+* [axxapy/gnome-ui-tune](https://github.com/axxapy/gnome-ui-tune): Tunes overview UI of the gnome 40 a bit
 * [harshadgavali/gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon): None
 * [ChWick/gnomesome](https://github.com/ChWick/gnomesome): Yet another gnome extension for window tiling inspired by awesome supporting multiple workspaces and screens.
 * [demajor/gnsdk-webapp](https://github.com/demajor/gnsdk-webapp): None
@@ -2467,6 +2480,7 @@
 * [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper): Scrapes an instagram user's photos and videos
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: My install.md with dotfiles and etc
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
+* [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
 * [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api): Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 * [instantbox/instantbox](https://github.com/instantbox/instantbox): 📦 Get a clean, ready-to-go Linux box in seconds.
 * [ephread/Instructions](https://github.com/ephread/Instructions): Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
@@ -3279,6 +3293,7 @@
 * [microsoft/nodejstools](https://github.com/microsoft/nodejstools): Node.js Tools for Visual Studio
 * [sgnl/nodeku](https://github.com/sgnl/nodeku): discover and control Roku devices with NodeJS
 * [mayeaux/nodetube](https://github.com/mayeaux/nodetube): Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
+* [harryzcy/nodop](https://github.com/harryzcy/nodop): Notion Database Operator
 * [mapio/nofussbm](https://github.com/mapio/nofussbm): No Fuss Bookmarks
 * [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch): Real-time microphone noise suppression on Linux.
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
@@ -3290,9 +3305,11 @@
 * [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes): GUI for AV1 (aomenc, rav1e & svt-av1)
 * [owncloud/notes-iOS-App](https://github.com/owncloud/notes-iOS-App): :notebook:
 * [streetwriters/notesnook](https://github.com/streetwriters/notesnook): A fully open source & end-to-end encrypted note taking alternative to Evernote.
+* [jakeswenson/notion](https://github.com/jakeswenson/notion): Notion Offical API client library for rust
 * [jaredallard/notion-app](https://github.com/jaredallard/notion-app): Notion for Linux
 * [sysdrum/notion-app](https://github.com/sysdrum/notion-app): Notion.so desktop application for Linux 
 * [konstantinmuenster/notion-clone](https://github.com/konstantinmuenster/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
+* [minwook-shin/notion-database](https://github.com/minwook-shin/notion-database): Notion API Database Python Implementation
 * [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer): an enhancer/customiser for the all-in-one productivity workspace notion.so
 * [ravgeetdhillon/notion-feeder](https://github.com/ravgeetdhillon/notion-feeder): 🕸 A Node app for creating a Feed Reader in Notion.
 * [yassenshopov/notion-gcal-sync](https://github.com/yassenshopov/notion-gcal-sync): A Python script to automate the syncing of tasks between Google Calendar and the all-in-one productivity workspace, Notion. It utilizes API and is customizable for your own needs. Free to use.
@@ -3301,11 +3318,14 @@
 * [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged): notion executables with the notion-enhancer embedded & a vanilla port of the official app to linux
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
 * [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
+* [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): None
 * [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox): This is a collection of Notion tools that work in tandem together.
 * [echo724/notion2md](https://github.com/echo724/notion2md): Notion Markdown Exporter with Python Cli
+* [a7madZ3Dev/Notion_Tracker](https://github.com/a7madZ3Dev/Notion_Tracker): An easy and light application that connects your data on the Notion website to your mobile phone.
 * [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets): A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 * [kjk/notionapi](https://github.com/kjk/notionapi): Unofficial Go API for Notion.so
 * [dragonman225/notionapi-agent](https://github.com/dragonman225/notionapi-agent): Unofficial Node.js API client for Notion.so
+* [scarsu/NotionX](https://github.com/scarsu/NotionX): A Browser extension that enhances Notion Web App experience.一个增强 Notion Web端体验的浏览器插件。
 * [leandromoreira/nott](https://github.com/leandromoreira/nott): The New OTT Platform - an excuse to discuss and design a simple edge computing platform
 * [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security Network Traffic Monitoring
 * [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide): An open IDE for web and native mobile development, built on top of Atom 
@@ -4392,6 +4412,7 @@
 * [apple/swift-nio](https://github.com/apple/swift-nio): Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 * [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2): HTTP/2 support for SwiftNIO
 * [pointfreeco/swift-nonempty](https://github.com/pointfreeco/swift-nonempty): 🎁 A compile-time guarantee that a collection contains a value.
+* [wassimseif/Swift-on-linux](https://github.com/wassimseif/Swift-on-linux): a shell script for installing swift on linux with libdispatch
 * [pointfreeco/swift-overture](https://github.com/pointfreeco/swift-overture): 🎼 A library for function composition.
 * [apple/swift-package-manager](https://github.com/apple/swift-package-manager): The Package Manager for the Swift Programming Language
 * [apple/swift-protobuf](https://github.com/apple/swift-protobuf): Plugin and runtime library for using protobuf with Swift
@@ -4554,6 +4575,7 @@
 * [AlexanderWillner/ThingsView](https://github.com/AlexanderWillner/ThingsView): Basic Cocoa project that imports tasks from Cultured Code's Things.app and displays them in a standard table view. The data can be filtered by list, priority, tags, project/area and delegate. The data can also be exported to CSV.
 * [liuyishengalan/ThinkPad-P52-Hackintosh](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh): Allow ThinkPad P52 Mobile Workstations to run macOS.
 * [faf0/thinkpad-scripts](https://github.com/faf0/thinkpad-scripts): Scripts for fixing TrackPointers and touchpads under Ubuntu 14.04 and 16.04 or similar distributions on Lenovo ThinkPads (tested on X1 Carbon 2nd Generation and reported to work on X240)
+* [fmujakitz/thinkpad-thermal](https://github.com/fmujakitz/thinkpad-thermal): gnome-shell extension
 * [devksingh4/thinkpad-tools](https://github.com/devksingh4/thinkpad-tools): Tools to manage Thinkpad properties
 * [PixelCyber/Thor](https://github.com/PixelCyber/Thor): sunset
 * [MingyaoLiu/Threadripper-KVM-guide](https://github.com/MingyaoLiu/Threadripper-KVM-guide): Spec:
@@ -4690,6 +4712,7 @@
 * [mpadge/ubuntu-setup](https://github.com/mpadge/ubuntu-setup): script to configure fresh ubuntu install, or to update existing install
 * [rsnk96/Ubuntu-Setup-Scripts](https://github.com/rsnk96/Ubuntu-Setup-Scripts): Scripts to help you set up your Ubuntu quickly, especially if you're in any subfield of Data Science or AI!
 * [rastasheep/ubuntu-sshd](https://github.com/rastasheep/ubuntu-sshd): Dockerized Ubuntu SSH service
+* [slikdijit/Ubuntu-Swift-Installer](https://github.com/slikdijit/Ubuntu-Swift-Installer): Auto installer script for swift on Ubuntu 20.04
 * [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch): A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
 * [ubports/ubuntu_kernel_xenial](https://github.com/ubports/ubuntu_kernel_xenial): None
 * [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl): A cross-platform python based utility to download courses from udemy for personal offline use.
@@ -4720,6 +4743,7 @@
 * [Kong/unirest-java](https://github.com/Kong/unirest-java): Unirest in Java: Simplified, lightweight HTTP client library.
 * [bcpierce00/unison](https://github.com/bcpierce00/unison): Unison file synchronizer
 * [rokudev/unit-testing-framework](https://github.com/rokudev/unit-testing-framework): Tool for automating and testing Roku channels
+* [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [ubports/unity8](https://github.com/ubports/unity8): The operating environment for everywhere.
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
@@ -4920,6 +4944,7 @@
 * [code-vicar/vscode-rpm](https://github.com/code-vicar/vscode-rpm): None
 * [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools): Database management for VSCode
 * [RLovelett/vscode-swift](https://github.com/RLovelett/vscode-swift): An extension for VS Code which provides support for the Swift language. 
+* [rursache/vscode-swift-linuxserver-mod](https://github.com/rursache/vscode-swift-linuxserver-mod): Install Swift in linuxserver's code-server docker image
 * [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform): HashiCorp Terraform VSCode extension
 * [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code. 
 * [sterin/vscode-xcodebuild-tools](https://github.com/sterin/vscode-xcodebuild-tools): Work with Xcode projects from inside Visual Studio Code
@@ -4945,6 +4970,7 @@
 * [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it): Pure bash script to test and wait on the availability of a TCP host and port
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [elementary/wallpapers](https://github.com/elementary/wallpapers): Collection of wallpapers for elementary OS
+* [rishuinfinity/WallpaperSwitcher](https://github.com/rishuinfinity/WallpaperSwitcher): Gnome Extension to switch wallpaper after a given interval
 * [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
 * [warpdotdev/Warp](https://github.com/warpdotdev/Warp): Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 * [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
