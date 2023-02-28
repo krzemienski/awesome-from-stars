@@ -1261,6 +1261,7 @@
 * [didi/DDMQ](https://github.com/didi/DDMQ): DDMQ is a distributed messaging product with low latency, high throughput and high availability.
 * [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater): Container to update DNS records periodically with WebUI for many DNS providers
 * [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get): apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+* [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [segmentio/decibel](https://github.com/segmentio/decibel): A small iOS app for recording office noise dB levels to Datadog.
 * [kahache/DeckLinkHDMI](https://github.com/kahache/DeckLinkHDMI): Create your own encoder with an Ubuntu Server + DeckLink HDMI Mini Recorder!
 * [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools): DeDRM tools for ebooks
@@ -1991,6 +1992,7 @@
 * [Eyevinn/function-scenes](https://github.com/Eyevinn/function-scenes): A serverless media function to detect scene changes and extract keyframes in a video file or a stream.
 * [acode/FunctionScript](https://github.com/acode/FunctionScript): An API gateway and framework for turning functions into web services
 * [apioo/fusio](https://github.com/apioo/fusio): Open source API management platform
+* [iberianpig/fusuma](https://github.com/iberianpig/fusuma): Multitouch gestures with libinput driver on Linux
 * [miquido/futura](https://github.com/miquido/futura): Asynchronous Swift made easy. The project was made by Miquido. https://www.miquido.com/
 * [kean/Future](https://github.com/kean/Future): Streamlined Future<Value, Error> implementation
 * [FutureKit/FutureKit](https://github.com/FutureKit/FutureKit): A Swift based Future/Promises Library for IOS and OS X.
@@ -3217,7 +3219,6 @@
 * [nickdesaulniers/netfix](https://github.com/nickdesaulniers/netfix): Let's build a Netflix
 * [RestComm/netflix-oss-tracker-infra](https://github.com/RestComm/netflix-oss-tracker-infra): Hosts infrastructure-as-code (Terraform) and configuration management (Ansible) scripts for deploying the Netflix OSS Tracker.
 * [kasketis/netfox](https://github.com/kasketis/netfox): A lightweight, one line setup, iOS / OSX network debugging library! 🦊
-* [netlify/netlify-cms](https://github.com/netlify/netlify-cms): A Git-based CMS for Static Site Generators
 * [ktbyers/netmiko](https://github.com/ktbyers/netmiko): Multi-vendor library to simplify Paramiko SSH connections to network devices
 * [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS.
 * [nicolaka/netshoot](https://github.com/nicolaka/netshoot): a Docker + Kubernetes network trouble-shooting swiss-army container
@@ -4992,6 +4993,7 @@
 * [rishuinfinity/WallpaperSwitcher](https://github.com/rishuinfinity/WallpaperSwitcher): Gnome Extension to switch wallpaper after a given interval
 * [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
 * [warpdotdev/Warp](https://github.com/warpdotdev/Warp): Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+* [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 * [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
 * [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal): a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image 

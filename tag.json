@@ -5708,6 +5708,9 @@
     "deadc0de6/dotdrop": [
         "Other"
     ],
+    "decaporg/decap-cms": [
+        "Other"
+    ],
     "deepfakes/faceswap": [
         "Other"
     ],
@@ -7767,6 +7770,9 @@
         "Other"
     ],
     "ibc/h264-profile-level-id": [
+        "Other"
+    ],
+    "iberianpig/fusuma": [
         "Other"
     ],
     "ibireme/YYCache": [
@@ -10614,9 +10620,6 @@
         "Other"
     ],
     "netguy204/roku_media_server": [
-        "Other"
-    ],
-    "netlify/netlify-cms": [
         "Other"
     ],
     "netnexus/camelcaseplugin": [
@@ -14541,6 +14544,9 @@
         "Other"
     ],
     "wargarblgarbl/libgosubs": [
+        "Other"
+    ],
+    "warp-tech/warpgate": [
         "Other"
     ],
     "warpdotdev/Warp": [
