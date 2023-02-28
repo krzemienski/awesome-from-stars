@@ -2103,7 +2103,7 @@
 * [lheric/GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
 * [zhaopengme/gitnote](https://github.com/zhaopengme/gitnote): A modern note taking app based on GIT that does not require a local GIT environment.
 * [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch): Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): Gitpod automates the provisioning of ready-to-code development environments. 
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): Gitpod automates the provisioning of ready-to-code cloud development environments.
 * [CCristi/GitPR](https://github.com/CCristi/GitPR): None
 * [JadedTuna/gitrepo](https://github.com/JadedTuna/gitrepo): Lightweight Pythonista utility to easily download repos, releases and gists from GitHub
 * [devCharles/gitRepoUpdater](https://github.com/devCharles/gitRepoUpdater): This shell script update all the git repositories that you have in a folder
