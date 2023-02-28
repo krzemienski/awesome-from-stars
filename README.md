@@ -144,6 +144,7 @@
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [Jazqa/adwaita-tweaks](https://github.com/Jazqa/adwaita-tweaks): A compact GTK theme based on Adwaita
 * [Eyevinn/adxchange-engine](https://github.com/Eyevinn/adxchange-engine): Eyevinn Adxchange Engine is a microservice placed between the server-side ad-insertion component and the adserver or SSP
+* [Ruunyox/aed](https://github.com/Ruunyox/aed): Alacritty Editor
 * [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial): Apple TV Aerial Screensaver for Mac
 * [videojs/aes-decrypter](https://github.com/videojs/aes-decrypter): None
 * [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking): A delightful networking framework for iOS, macOS, watchOS, and tvOS.
@@ -164,6 +165,8 @@
 * [dracula/alacritty](https://github.com/dracula/alacritty): 🧛🏻‍♂️ Dark theme for Alacritty
 * [snapcrafters/alacritty](https://github.com/snapcrafters/alacritty):  A community-maintained package to easily install Alacritty on Linux 
 * [tunix/alacritty-snap](https://github.com/tunix/alacritty-snap): A cross-platform, GPU enhanced terminal emulator
+* [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme): Collection of Alacritty color schemes
+* [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme): Collection of Alacritty color schemes
 * [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire): Elegant HTTP Networking in Swift
 * [kaegi/alass](https://github.com/kaegi/alass): "Automatic Language-Agnostic Subtitle Synchronization"
 * [albertlauncher/albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
@@ -1074,6 +1077,8 @@
 * [ossu/computer-science](https://github.com/ossu/computer-science): :mortar_board: Path to a free self-taught education in Computer Science!
 * [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
 * [Netflix/concurrency-limits](https://github.com/Netflix/concurrency-limits): None
+* [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+* [tmcdonell/config-alacritty](https://github.com/tmcdonell/config-alacritty): Alacrity configuration
 * [Dash-Industry-Forum/Conformance-Frontend](https://github.com/Dash-Industry-Forum/Conformance-Frontend): Sub-module for the Integrated Conformance Software Tool
 * [Dash-Industry-Forum/Conformance-Frontend-HLS](https://github.com/Dash-Industry-Forum/Conformance-Frontend-HLS): Submodule of the Integrated Conformance Software Tool
 * [conjure-up/conjure-up](https://github.com/conjure-up/conjure-up): Deploying complex solutions, magically.
@@ -1479,6 +1484,7 @@
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 * [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles): Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
 * [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles): My dotfiles.
+* [semanser/dotfiles](https://github.com/semanser/dotfiles): Alacritty + Tmux + Oh My Zsh + Neovim = ❤️
 * [theowenyoung/dotfiles](https://github.com/theowenyoung/dotfiles): dotfiles, init scripts, common scripts
 * [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
 * [yutkat/dotfiles](https://github.com/yutkat/dotfiles): The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, rofi, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
@@ -2001,7 +2007,7 @@
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer): A Study Path for Game Programmer
 * [feelobot/gantree](https://github.com/feelobot/gantree): cli tool for automating docker deploys to elastic beanstalk
 * [gaphor/gaphor](https://github.com/gaphor/gaphor): Gaphor is the simple modeling tool
-* [gardener/gardener](https://github.com/gardener/gardener): Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, OnMetal, and Kubevirt with minimal TCO.
+* [gardener/gardener](https://github.com/gardener/gardener): Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.
 * [sdslabs/gasper](https://github.com/sdslabs/gasper): Your Cloud in a Binary
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The fastest frontend for the headless web. Build modern websites with React.
 * [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter): Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
@@ -2421,6 +2427,7 @@
 * [cevr/hyper-mayukai](https://github.com/cevr/hyper-mayukai): Dark Hyper theme with bright colors - based off the VSCode Theme Mayukai
 * [chabou/hyper-pane](https://github.com/chabou/hyper-pane): Extension for Hyper.app to enhance pane navigation.
 * [sindresorhus/hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy): Elegant Hyper theme with bright colors
+* [C0DE-X/hyper-tabby-theme](https://github.com/C0DE-X/hyper-tabby-theme): Hyper theme inspired by Tabby-terminal
 * [henrikruscon/hyper-tabs-enhanced](https://github.com/henrikruscon/hyper-tabs-enhanced): Enhanced Tabs Plugin for Hyper
 * [waylybaye/hyperapp-dropbox](https://github.com/waylybaye/hyperapp-dropbox): Dropbox client
 * [waylybaye/hyperapp-ngrok](https://github.com/waylybaye/hyperapp-ngrok): Deploy ngrok server and build client use docker
@@ -3658,6 +3665,7 @@
 * [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle): Simple Python style checker in one Python file
 * [sethmlarson/pycon-async-sync-poster](https://github.com/sethmlarson/pycon-async-sync-poster): An example project which demonstrates how to use some new tools to more easily maintain a codebase that supports both async and synchronous I/O and multiple async libraries.
 * [unifiedstreaming/pycpix](https://github.com/unifiedstreaming/pycpix): Python library for working with CPIX documents
+* [antoniosarosi/pycritty](https://github.com/antoniosarosi/pycritty): CLI program that allows you to change your Alacritty config with one command without editing the config file.
 * [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs): Bits and bytes of Python from the Internet
 * [web2py/pydal](https://github.com/web2py/pydal): A pure Python Database Abstraction Layer
 * [pydantic/pydantic](https://github.com/pydantic/pydantic): Data validation using Python type hints
@@ -4480,6 +4488,7 @@
 * [thomaspaulmann/Swish](https://github.com/thomaspaulmann/Swish): 👷Build Swift Projects on a Remote Machine within Xcode.
 * [thoughtbot/Swish](https://github.com/thoughtbot/Swish): Nothing but Net(working)
 * [jamescun/switcher](https://github.com/jamescun/switcher): Run SSH and HTTP(S) on the same port
+* [wreedb/switcheroo](https://github.com/wreedb/switcheroo): theme switcher for alacritty awesome and kitty
 * [Swrve/swrve-roku-sdk](https://github.com/Swrve/swrve-roku-sdk): Swrve Roku SDK 
 * [b3log/symphony](https://github.com/b3log/symphony): 仓库已经迁移到 https://github.com/88250/symphony
 * [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
@@ -4506,7 +4515,15 @@
 * [eroscai/SZAVPlayer](https://github.com/eroscai/SZAVPlayer): SZAVPlayer is a lightweight audio/video player library, based on AVPlayer and AVAssetResourceLoaderDelegate, pure-Swift. Support cache and video image output.
 * [desjare/tabarnak](https://github.com/desjare/tabarnak): tabarnak is a python3 ffmpeg wrapper that aims at easily transcode a batch of media files from a directory to another without fuss. It will use default parameters for each supported codecs. You can also specify a lot of parameters yourself to control stream mapping, codec encoding parameters, and metadata.
 * [Eugeny/tabby](https://github.com/Eugeny/tabby): A terminal for a more modern age
+* [Eugeny/tabby-clickable-links](https://github.com/Eugeny/tabby-clickable-links): Plugin that makes URLs and paths in Terminus clickable
+* [Eugeny/tabby-clippy](https://github.com/Eugeny/tabby-clippy): An example plugin for Tabby
+* [niceit/tabby-cloud-sync-settings](https://github.com/niceit/tabby-cloud-sync-settings): Official Tabby plugin for syncing settings across device platforms. https://github.com/Eugeny/tabby
+* [Eugeny/tabby-docker](https://github.com/Eugeny/tabby-docker): Docker plugin for Tabby
+* [Eugeny/tabby-save-output](https://github.com/Eugeny/tabby-save-output): Terminus plugin to save console output into a file
 * [Eugeny/tabby-theme-hype](https://github.com/Eugeny/tabby-theme-hype): A Terminus theme that imitates Hyper
+* [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web): Tabby Web - an SSH/Telnet/Serial client in your browser.
+* [composer404/tabby-workspace-manager](https://github.com/composer404/tabby-workspace-manager): A Tabby plugin that allows you to create custom workspace profiles.
+* [SchrodingerZhu/tabbycat](https://github.com/SchrodingerZhu/tabbycat): dotgraph generator for rust
 * [BoostIO/tachijs](https://github.com/BoostIO/tachijs): Highly testable dead simple web server written in Typescript :rocket:
 * [Martchus/tageditor](https://github.com/Martchus/tageditor): A tag editor with Qt GUI and command-line interface supporting MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska
 * [henningSaul/tagesschau-on-roku](https://github.com/henningSaul/tagesschau-on-roku): tagesschau Channel for Roku Streaming Players
@@ -4537,6 +4554,8 @@
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator): multiple GNOME terminals in one window
 * [yxuko/terminus-altair](https://github.com/yxuko/terminus-altair):  Elegant customizable theme with vivid colors for Terminus
+* [Domain/terminus-quick-cmds](https://github.com/Domain/terminus-quick-cmds): Quick commands for terminus
+* [starxg/terminus-sync-config](https://github.com/starxg/terminus-sync-config): Sync configuration files to GitHub Gist or Gitee Gist
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
 * [termux/termux-packages](https://github.com/termux/termux-packages): A build system and primary set of packages for Termux.
 * [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks): Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦

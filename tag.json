@@ -404,6 +404,9 @@
     "BytemarkHosting/docker-webdav": [
         "Other"
     ],
+    "C0DE-X/hyper-tabby-theme": [
+        "Other"
+    ],
     "CCecilia/HLS-Parser": [
         "Other"
     ],
@@ -842,6 +845,9 @@
     "DolbyLaboratories/pmd_tool": [
         "Other"
     ],
+    "Domain/terminus-quick-cmds": [
+        "Other"
+    ],
     "DopplerHQ/awesome-bots": [
         "Other"
     ],
@@ -932,7 +938,22 @@
     "Eugeny/tabby": [
         "Other"
     ],
+    "Eugeny/tabby-clickable-links": [
+        "Other"
+    ],
+    "Eugeny/tabby-clippy": [
+        "Other"
+    ],
+    "Eugeny/tabby-docker": [
+        "Other"
+    ],
+    "Eugeny/tabby-save-output": [
+        "Other"
+    ],
     "Eugeny/tabby-theme-hype": [
+        "Other"
+    ],
+    "Eugeny/tabby-web": [
         "Other"
     ],
     "EvanLi/Github-Ranking": [
@@ -1853,6 +1874,9 @@
     "MaximKotliar/Bartinter": [
         "Other"
     ],
+    "Maximus5/ConEmu": [
+        "Other"
+    ],
     "MayaPosch/NymphCast": [
         "Other"
     ],
@@ -2462,6 +2486,9 @@
     "RustPython/RustPython": [
         "Other"
     ],
+    "Ruunyox/aed": [
+        "Other"
+    ],
     "RxLaboratory/DuME": [
         "Other"
     ],
@@ -2517,6 +2544,9 @@
         "Other"
     ],
     "Schneegans/Gnome-Pie": [
+        "Other"
+    ],
+    "SchrodingerZhu/tabbycat": [
         "Other"
     ],
     "Sciencentistguy/videoconverter": [
@@ -3344,6 +3374,9 @@
     "alacritty/alacritty": [
         "Other"
     ],
+    "alacritty/alacritty-theme": [
+        "Other"
+    ],
     "albanie/shot-detection-benchmarks": [
         "Other"
     ],
@@ -3678,6 +3711,9 @@
         "Other"
     ],
     "antoniocasero/Panels": [
+        "Other"
+    ],
+    "antoniosarosi/pycritty": [
         "Other"
     ],
     "antonmedv/fx": [
@@ -5249,6 +5285,9 @@
     "commandeer/open": [
         "Other"
     ],
+    "composer404/tabby-workspace-manager": [
+        "Other"
+    ],
     "compuccino/osk-encoder-validator": [
         "Other"
     ],
@@ -6225,6 +6264,9 @@
         "Other"
     ],
     "eebean2/DevTools": [
+        "Other"
+    ],
+    "eendroroy/alacritty-theme": [
         "Other"
     ],
     "ega4432/notion-to-markdown-action": [
@@ -10628,6 +10670,9 @@
     "ngs/ci2go": [
         "Other"
     ],
+    "niceit/tabby-cloud-sync-settings": [
+        "Other"
+    ],
     "nickdesaulniers/combine-mpd": [
         "Other"
     ],
@@ -12518,6 +12563,9 @@
     "selsta/hlsdl": [
         "Other"
     ],
+    "semanser/dotfiles": [
+        "Other"
+    ],
     "senko/avtk": [
         "Other"
     ],
@@ -13125,6 +13173,9 @@
         "Other"
     ],
     "starship/starship": [
+        "Other"
+    ],
+    "starxg/terminus-sync-config": [
         "Other"
     ],
     "statping/statping": [
@@ -13755,6 +13806,9 @@
         "Other"
     ],
     "tkarabela/pysubs2": [
+        "Other"
+    ],
+    "tmcdonell/config-alacritty": [
         "Other"
     ],
     "tmrts/go-patterns": [
@@ -14724,6 +14778,9 @@
         "Other"
     ],
     "woutervu/manjaro-dev-setup": [
+        "Other"
+    ],
+    "wreedb/switcheroo": [
         "Other"
     ],
     "wroberts/rogauracore": [
