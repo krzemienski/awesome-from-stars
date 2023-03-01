@@ -9023,6 +9023,9 @@
     "krzemienski/inlets-traefik-docker": [
         "Other"
     ],
+    "krzemienski/ngrok-setup": [
+        "Other"
+    ],
     "krzysztofzablocki/LifetimeTracker": [
         "Other"
     ],

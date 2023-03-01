@@ -3276,6 +3276,7 @@
 * [JoaquimLey/ngrok-install](https://github.com/JoaquimLey/ngrok-install): A simple self-sufficient script that installs a ngrok ssh tunnel service that runs on boot for the raspberry pi
 * [Eitol/ngrok-linux-service](https://github.com/Eitol/ngrok-linux-service): ngrok linux systemd service installer
 * [zufardhiyaulhaq/ngrok-operator](https://github.com/zufardhiyaulhaq/ngrok-operator): Expose your service in Kubernetes to the Internet with Ngrok easily! Automatically reload ngrok sessions after expired!
+* [krzemienski/ngrok-setup](https://github.com/krzemienski/ngrok-setup): None
 * [ngrok/ngrok-systemd](https://github.com/ngrok/ngrok-systemd): None
 * [jimklimov/ngrok2-systemd](https://github.com/jimklimov/ngrok2-systemd): Yet another setup to wrap ngrok v2 with systemd and chroot jail
 * [MagicArena/ngrokd](https://github.com/MagicArena/ngrokd): Ngrok server docker image based on alpine.
