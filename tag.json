@@ -9467,6 +9467,9 @@
     "lmammino/s3st": [
         "Other"
     ],
+    "lmlsna/install-scripts": [
+        "Other"
+    ],
     "lmxdawn/vue-admin-java": [
         "Other"
     ],
@@ -14397,6 +14400,9 @@
         "Other"
     ],
     "vincentbernat/video2hls": [
+        "Other"
+    ],
+    "vincenthsu/systemd-ngrok": [
         "Other"
     ],
     "vinta/awesome-python": [
