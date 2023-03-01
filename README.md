@@ -664,6 +664,7 @@
 * [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux): A list of awesome resources for tmux
 * [CUTR-at-USF/awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 * [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations): 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
+* [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling): List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 * [mbcrump/awesome-tvos](https://github.com/mbcrump/awesome-tvos): A curated list of awesome tvOS learning resources and sample apps.
 * [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity): A curated list of awesome Unity assets, resources, and more.
 * [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX): All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
@@ -830,6 +831,7 @@
 * [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile): Boostnote for iOS and Android 🚀
 * [jsamr/bootiso](https://github.com/jsamr/bootiso):  A bash program to securely create a bootable USB device from one image file.
 * [kubernetes-retired/bootkube](https://github.com/kubernetes-retired/bootkube): This project now lives at https://github.com/kinvolk/bootkube
+* [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool for making tunnels to localhost
 * [philpax/borealis](https://github.com/philpax/borealis): Asus Aura Sync driver application for Linux
 * [boto/boto3](https://github.com/boto/boto3): AWS SDK for Python
 * [bottlepy/bottle](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications.
@@ -1415,6 +1417,10 @@
 * [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud): None
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 * [alfg/docker-nginx-vod-module](https://github.com/alfg/docker-nginx-vod-module): A Dockerized NGINX build of the nginx-vod-module
+* [shkoliar/docker-ngrok](https://github.com/shkoliar/docker-ngrok): Expose a local web server or docker environment to the internet
+* [3846masa/docker-ngrokd](https://github.com/3846masa/docker-ngrokd): Make your private ngrok with docker-compose.
+* [sequenceiq/docker-ngrokd](https://github.com/sequenceiq/docker-ngrokd): dockerized selfhosted ngrok deamon
+* [wapznw/docker-ngrokd](https://github.com/wapznw/docker-ngrokd): None
 * [coppit/docker-no-ip](https://github.com/coppit/docker-no-ip): Docker container for No-IP DNS updater
 * [nodejs/docker-node](https://github.com/nodejs/docker-node): Official Docker Image for Node.js :whale: :turtle: :rocket: 
 * [aperim/docker-nvidia-cuda-ffmpeg](https://github.com/aperim/docker-nvidia-cuda-ffmpeg): A docker container, with ffmpeg that supports scale_cuda among other things
@@ -2480,6 +2486,8 @@
 * [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles): Quickly get your dotfiles up and running
 * [isac322/init-manjaro](https://github.com/isac322/init-manjaro): None
 * [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode): Runtime Code Injection for Objective-C & Swift
+* [krzemienski/inlets-traefik-docker](https://github.com/krzemienski/inlets-traefik-docker): Inlets + Traefik 2 + Docker + Docker-Compose
+* [yashodhank/inlets-traefik-docker](https://github.com/yashodhank/inlets-traefik-docker): Inlets + Traefik 2 + Docker + Docker-Compose
 * [louisdh/InputAssistant](https://github.com/louisdh/InputAssistant): Provide custom auto-completion options for the iOS keyboard.
 * [macabeus/InputStepByStep](https://github.com/macabeus/InputStepByStep): 📝 A input view for tvOS, useful for testing purposes.
 * [xbmc/inputstream.adaptive](https://github.com/xbmc/inputstream.adaptive): kodi inputstream addon for several manifest types
@@ -2620,6 +2628,7 @@
 * [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
 * [nareix/joy5](https://github.com/nareix/joy5): AV toolkit
 * [jplayer/jPlayer](https://github.com/jplayer/jPlayer): jPlayer : HTML5 Audio & Video for jQuery
+* [azimjohn/jprq](https://github.com/azimjohn/jprq): join public router. quickly.
 * [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
 * [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin): jq zsh plugin
 * [noahgorstein/jqp](https://github.com/noahgorstein/jqp): A TUI playground to experiment with jq
@@ -2895,6 +2904,7 @@
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [localstack/localstack](https://github.com/localstack/localstack): 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+* [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel): expose yourself
 * [intuit/LocationManager](https://github.com/intuit/LocationManager): Easily get the device's current location on iOS.
 * [zhuorantan/LocationPicker](https://github.com/zhuorantan/LocationPicker): A ready for use and fully customizable location picker for your app
 * [sobri909/LocoKit](https://github.com/sobri909/LocoKit): Location, motion, and activity recording framework for iOS
@@ -3250,6 +3260,7 @@
 * [rounce/nginx-hls-module](https://github.com/rounce/nginx-hls-module): Smooth Streaming Module fork
 * [SoloSynth1/nginx-hls-server](https://github.com/SoloSynth1/nginx-hls-server): Documentation on how to set up a HLS stream server using ffmpeg & NGINX
 * [skyformat99/nginx-netty-hls](https://github.com/skyformat99/nginx-netty-hls): nginx、netty hls流媒体架构，实现时移和回看功能。nginx负责m3u8的组装，netty负责运算把ts信息返回给nginx。实测m3u8 时移、回看功能长连接下载并发可达4w，ts 3000路跑满网卡，系统瓶颈在网卡
+* [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation): Automated docker nginx proxy integrated with letsencrypt.
 * [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker): Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 * [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module): NGINX-based Media Streaming Server
@@ -3260,7 +3271,15 @@
 * [nytimes/nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker): Docker image for nginx with Kaltura's VoD module used by The New York Times
 * [flavioribeiro/nginx-vod-module-fmp4-hls](https://github.com/flavioribeiro/nginx-vod-module-fmp4-hls): Play fragmented mp4's on HLS using nginx-vod-module
 * [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉
+* [xadlien/ngrok-auto-ssh](https://github.com/xadlien/ngrok-auto-ssh): Systemd service setup for ngrok ssh enpoint with emailed ip address.
 * [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go): The ngrok agent in library form, suitable for integrating directly into your Go application.
+* [JoaquimLey/ngrok-install](https://github.com/JoaquimLey/ngrok-install): A simple self-sufficient script that installs a ngrok ssh tunnel service that runs on boot for the raspberry pi
+* [Eitol/ngrok-linux-service](https://github.com/Eitol/ngrok-linux-service): ngrok linux systemd service installer
+* [zufardhiyaulhaq/ngrok-operator](https://github.com/zufardhiyaulhaq/ngrok-operator): Expose your service in Kubernetes to the Internet with Ngrok easily! Automatically reload ngrok sessions after expired!
+* [ngrok/ngrok-systemd](https://github.com/ngrok/ngrok-systemd): None
+* [jimklimov/ngrok2-systemd](https://github.com/jimklimov/ngrok2-systemd): Yet another setup to wrap ngrok v2 with systemd and chroot jail
+* [MagicArena/ngrokd](https://github.com/MagicArena/ngrokd): Ngrok server docker image based on alpine.
+* [leptonyu/ngrokd-in-docker](https://github.com/leptonyu/ngrokd-in-docker): Ngrokd server in docker 
 * [twilio-labs/NgrokExtensions](https://github.com/twilio-labs/NgrokExtensions): Visual Studio integration with ngrok
 * [Quick/Nimble](https://github.com/Quick/Nimble): A Matcher Framework for Swift and Objective-C
 * [ashfurrow/Nimble-Snapshots](https://github.com/ashfurrow/Nimble-Snapshots): Nimble matchers for FBSnapshotTestCase.
@@ -3778,6 +3797,7 @@
 * [slhck/rate-control-tests](https://github.com/slhck/rate-control-tests): Tests for different rate control modes in x264
 * [soffes/RateLimit](https://github.com/soffes/RateLimit): Simple utility for only executing code every so often.
 * [toshi0383/RateTV](https://github.com/toshi0383/RateTV): An awesome Rating view for tvOS.
+* [rapiz1/rathole](https://github.com/rapiz1/rathole): A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 * [Eyevinn/ratings-api](https://github.com/Eyevinn/ratings-api): Example of a simple implementation to build a ratings api on top of Redis
 * [xiph/rav1e](https://github.com/xiph/rav1e): The fastest and safest AV1 encoder.
 * [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader): 📖 All your articles in one place. Beautiful.
@@ -3879,6 +3899,7 @@
 * [ReSwift/ReSwift](https://github.com/ReSwift/ReSwift): Unidirectional Data Flow in Swift - Inspired by Redux
 * [ReSwift/ReSwift-Router](https://github.com/ReSwift/ReSwift-Router): Declarative Routing in Swift, Extension for ReSwift
 * [AliSoftware/Reusable](https://github.com/AliSoftware/Reusable): A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)
+* [snsinfu/reverse-tunnel](https://github.com/snsinfu/reverse-tunnel): Reverse tunnel TCP and UDP
 * [tylerszabo/RGB-Fusion-Tool](https://github.com/tylerszabo/RGB-Fusion-Tool): A command line tool for calling Gigabyte's RGB Fusion SDK
 * [tophat/RichTextView](https://github.com/tophat/RichTextView): iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links
 * [rancher/rio](https://github.com/rancher/rio): Application Deployment Engine for Kubernetes
@@ -4078,6 +4099,7 @@
 * [alibaba/Sentinel](https://github.com/alibaba/Sentinel): A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 * [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa): The official Sentry SDK for iOS, tvOS, macOS, watchOS.
 * [kaltura/server](https://github.com/kaltura/server): The Kaltura Platform Backend. To install Kaltura, visit the install packages repository.
+* [localtunnel/server](https://github.com/localtunnel/server): server for localtunnel.me
 * [nextcloud/server](https://github.com/nextcloud/server): ☁️ Nextcloud server, a safe home for all your data
 * [owncloud-docker/server](https://github.com/owncloud-docker/server): Docker image for ownCloud community edition
 * [evertramos/server-automation](https://github.com/evertramos/server-automation): None
@@ -4149,6 +4171,7 @@
 * [apptainer/singularity](https://github.com/apptainer/singularity): Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
 * [sessionboy/sinn](https://github.com/sessionboy/sinn): a blog based on of react,webpack3,dva,redux,material-ui,fetch,generator,markdown,nodejs,koa2,mongoose,docker,shell,and async/await  基于react+koa2技术栈的个人开源博客系统 
 * [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren): Notify users when a new version of your app is available and prompt them to upgrade.
+* [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): Build Your Eternal Digital Garden
 * [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes 
 * [changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer): video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.
@@ -4514,6 +4537,7 @@
 * [pop-os/system76-driver](https://github.com/pop-os/system76-driver): System76 Driver for Pop!_OS
 * [pop-os/system76-power](https://github.com/pop-os/system76-power): System76 Power Management
 * [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler): Auto-configure CFS and process priorities for improved desktop responsiveness
+* [GuillaumeGomez/systemd-manager](https://github.com/GuillaumeGomez/systemd-manager): A systemd service manager written in Rust with the GTK-rs wrapper and direct integration with dbus
 * [vincenthsu/systemd-ngrok](https://github.com/vincenthsu/systemd-ngrok): Automatically start ngrok by systemd
 * [dorkbox/SystemTray](https://github.com/dorkbox/SystemTray): Cross-platform SystemTray support for Swing/AWT, macOS, GtkStatusIcon, and AppIndicator on Java 8+
 * [eroscai/SZAVPlayer](https://github.com/eroscai/SZAVPlayer): SZAVPlayer is a lightweight audio/video player library, based on AVPlayer and AVAssetResourceLoaderDelegate, pure-Swift. Support cache and video image output.
@@ -4685,7 +4709,9 @@
 * [MoshiMoshi0/ttrgbplusapi](https://github.com/MoshiMoshi0/ttrgbplusapi): api for thermaltake rgb plus devices
 * [Tubitv/TubiPlayer](https://github.com/Tubitv/TubiPlayer): A media streaming video player based on ExoPlayer from google, with convenience methods for ad supported content
 * [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi): An Xcode Project Generator For Bazel 
+* [agrinman/tunnelto](https://github.com/agrinman/tunnelto): Expose your local web server to the internet with a public URL.
 * [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk): Refined Evernote desktop app
+* [Ovski4/tutorials](https://github.com/Ovski4/tutorials): The code from some of my blog posts
 * [eugenp/tutorials](https://github.com/eugenp/tutorials): Just Announced - "Learn Spring Security OAuth": 
 * [pytorch/tutorials](https://github.com/pytorch/tutorials): PyTorch tutorials.
 * [vmware-archive/tutorials](https://github.com/vmware-archive/tutorials): None
