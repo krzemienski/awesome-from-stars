@@ -3368,6 +3368,7 @@
 * [SK-Hardwired/nv_hevc_hdr_patcher](https://github.com/SK-Hardwired/nv_hevc_hdr_patcher): Tiny python script adding/altering basic HDR metadata (SEI and SPS VUI) to raw HEVC streams from NVENC
 * [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView): A collection of awesome loading animations
 * [NvChad/NvChad](https://github.com/NvChad/NvChad): An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime 
+* [rigaya/NVEnc](https://github.com/rigaya/NVEnc): NVENCによる高速エンコードの性能実験
 * [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime): NVIDIA container runtime
 * [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 * [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer): NVIDIA driver installer
@@ -3836,7 +3837,7 @@
 * [burak-kara/real-time-video-server](https://github.com/burak-kara/real-time-video-server): RealTimeVideoServer_v2
 * [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
 * [realm/realm-swift](https://github.com/realm/realm-swift): Realm is a mobile database: a replacement for Core Data & SQLite
-* [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+* [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 * [microsoft/recommenders](https://github.com/microsoft/recommenders): Best Practices on Recommendation Systems
 * [3cpt/recorrente](https://github.com/3cpt/recorrente): Script that get all the information of a user public repos from the Github API and save it in an incremental CSV
 * [nielstenboom/recurring-content-detector](https://github.com/nielstenboom/recurring-content-detector): Unsupervised detection of opening / closing credits, recaps, and previews in video files 🎥🍿🎬
@@ -4839,6 +4840,7 @@
 * [dsbmac/variety-goodreads-quotes](https://github.com/dsbmac/variety-goodreads-quotes): Plugin for Variety wallpaper changer
 * [Eyevinn/vast-info](https://github.com/Eyevinn/vast-info): Parse a VAST or VMAP to show valuable information in a readable format
 * [dokun1/Vaux](https://github.com/dokun1/Vaux): A HTML DSL library for Swift
+* [eugene-rom/vbox-applet](https://github.com/eugene-rom/vbox-applet): Gnome Shell extension which provide menu to run VirtualBox machines
 * [ingbyr/vdm](https://github.com/ingbyr/vdm): GUI for command-line video downloader (youtube-dl annie)
 * [jsffm/vdr-transcode](https://github.com/jsffm/vdr-transcode): Transcode - swiss knife for transcoding
 * [vectordotdev/vector](https://github.com/vectordotdev/vector): A high-performance observability data pipeline.
