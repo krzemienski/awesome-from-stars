@@ -4121,7 +4121,7 @@
 * [pypa/setuptools](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
 * [kubatruhlar/SFDraggableDialogView](https://github.com/kubatruhlar/SFDraggableDialogView): Beautiful dialog view with UIDynamics.
 * [Showmax/sffmpeg](https://github.com/Showmax/sffmpeg): Full-featured static FFmpeg build helper
-* [pyke369/sffmpeg](https://github.com/pyke369/sffmpeg): Full-featured static FFmpeg build helper
+* [pyke369/sffmpeg](https://github.com/pyke369/sffmpeg): full-featured static ffmpeg build helper
 * [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer): A powerful media play framework for iOS, macOS, and tvOS.
 * [shaarli/Shaarli](https://github.com/shaarli/Shaarli): The personal, minimalist, super-fast, database free, bookmarking service - community repo
 * [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS): Removed according to regulations.
