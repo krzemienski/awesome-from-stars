@@ -4634,7 +4634,7 @@
 * [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader): Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 * [yuhuili-lab/Tide](https://github.com/yuhuili-lab/Tide): Simple m3u8 and MPEG-DASH MPD video downloader using libcurl
 * [dasri7842/tiktok-clone](https://github.com/dasri7842/tiktok-clone): My First React-Native App (not using Expo), Similar to tiktok (only hls video scrolling  and dynamic loading) and used RecyclerListView. (Assignment)
-* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
+* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 * [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes.
 * [naman14/TimberX](https://github.com/naman14/TimberX): Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding) 
 * [NationalSecurityAgency/timely](https://github.com/NationalSecurityAgency/timely): Accumulo backed time series database
