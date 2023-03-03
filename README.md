@@ -946,7 +946,7 @@
 * [certbot/certbot](https://github.com/certbot/certbot): Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 * [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course): Certified Kubernetes Administrator - CKA Course
 * [nonameplum/Changeable](https://github.com/nonameplum/Changeable): Follow in details changes in an object.
-* [Eyevinn/channel-engine](https://github.com/Eyevinn/channel-engine): Open Source FAST Channel Engine based on VOD2Live technology
+* [Eyevinn/channel-engine](https://github.com/Eyevinn/channel-engine): Open Source FAST Channel Engine library based on VOD2Live technology
 * [Eyevinn/channel-engine-client-tvos](https://github.com/Eyevinn/channel-engine-client-tvos): None
 * [Eyevinn/channel-engine-multiview](https://github.com/Eyevinn/channel-engine-multiview): A multiview frontend for Eyevinn Channel Engine
 * [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade): An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
