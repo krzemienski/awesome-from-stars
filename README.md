@@ -2284,7 +2284,6 @@
 * [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift): A lightweight generic cache for iOS written in Swift with extra love for images.
 * [goharbor/harbor](https://github.com/goharbor/harbor): An open source trusted cloud native registry project that stores, signs, and scans content.
 * [vinteo/hass-neeo](https://github.com/vinteo/hass-neeo): NEEO custom component for Home Assistant
-* [cbsinteractive/hawkeye](https://github.com/cbsinteractive/hawkeye): Detect images in a video stream and execute automated actions.
 * [Samsung/HbbPlayer](https://github.com/Samsung/HbbPlayer): HbbPlayer is HbbTV application which can playback media by using url of media as parameter. It conforms to W3C and HbbTV specification.
 * [ThaCheeseBun/hdr-sucks](https://github.com/ThaCheeseBun/hdr-sucks): libx265 transcoding wrapper with HDR support
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox): HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
