@@ -3348,7 +3348,7 @@
 * [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged): notion executables with the notion-enhancer embedded & a vanilla port of the official app to linux
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
 * [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
-* [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): None
+* [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): Custom action to export Notion database to local file system as markdown files and images.
 * [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox): This is a collection of Notion tools that work in tandem together.
 * [echo724/notion2md](https://github.com/echo724/notion2md): Notion Markdown Exporter with Python Cli
 * [a7madZ3Dev/Notion_Tracker](https://github.com/a7madZ3Dev/Notion_Tracker): An easy and light application that connects your data on the Notion website to your mobile phone.
@@ -4162,7 +4162,6 @@
 * [Thurinum/simple-media-encoder](https://github.com/Thurinum/simple-media-encoder): Compress your media files quickly and efficiently with this convenient tool. Uses FFMPEG and the Qt toolkit.
 * [electron/simple-samples](https://github.com/electron/simple-samples): Minimal Electron applications with ideas for taking them further
 * [Itiviti/simple-slack-api](https://github.com/Itiviti/simple-slack-api): (simple) Java Slack client library
-* [Leleat/simple-task-bar](https://github.com/Leleat/simple-task-bar): A GNOME extension which adds icons for the running apps to the top panel. They will be grouped by workspaces.
 * [testdrivenio/simple-task-queue](https://github.com/testdrivenio/simple-task-queue): asynchronous task queues using python's multiprocessing library
 * [KTachibanaM/simple-url-previewer](https://github.com/KTachibanaM/simple-url-previewer): A simple service that extracts metadata from a URL
 * [simplejson/simplejson](https://github.com/simplejson/simplejson): simplejson is a simple, fast, extensible JSON encoder/decoder for Python 
