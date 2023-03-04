@@ -3348,7 +3348,7 @@
 * [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged): notion executables with the notion-enhancer embedded & a vanilla port of the official app to linux
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
 * [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
-* [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): Custom action to export Notion database to local file system as markdown files and images.
+* [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): Custom action to export Notion database to local as markdown files and images.
 * [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox): This is a collection of Notion tools that work in tandem together.
 * [echo724/notion2md](https://github.com/echo724/notion2md): Notion Markdown Exporter with Python Cli
 * [a7madZ3Dev/Notion_Tracker](https://github.com/a7madZ3Dev/Notion_Tracker): An easy and light application that connects your data on the Notion website to your mobile phone.
