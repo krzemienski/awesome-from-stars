@@ -1490,7 +1490,7 @@
 * [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles): An organizational repository for my dotfiles and scripts
 * [lewagon/dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-* [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles): Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
+* [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles): Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
 * [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles): My dotfiles.
 * [semanser/dotfiles](https://github.com/semanser/dotfiles): Alacritty + Tmux + Oh My Zsh + Neovim = ❤️
 * [theowenyoung/dotfiles](https://github.com/theowenyoung/dotfiles): dotfiles, init scripts, common scripts
@@ -2907,7 +2907,7 @@
 * [intuit/LocationManager](https://github.com/intuit/LocationManager): Easily get the device's current location on iOS.
 * [zhuorantan/LocationPicker](https://github.com/zhuorantan/LocationPicker): A ready for use and fully customizable location picker for your app
 * [sobri909/LocoKit](https://github.com/sobri909/LocoKit): Location, motion, and activity recording framework for iOS
-* [locustio/locust](https://github.com/locustio/locust): Scalable load testing tool written in Python
+* [locustio/locust](https://github.com/locustio/locust): Write scalable load tests in plain Python 🚗💨
 * [lvcabral/Lode-Runner-Roku](https://github.com/lvcabral/Lode-Runner-Roku): Remake of the classsic game Lode Runner (1983) for Roku Streaming Box
 * [shogo4405/Logboard](https://github.com/shogo4405/Logboard): Simple logging framework for your framework project.
 * [getlogbook/logbook](https://github.com/getlogbook/logbook): A cool logging replacement for Python.
