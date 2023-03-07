@@ -4585,7 +4585,7 @@
 * [Domain/terminus-quick-cmds](https://github.com/Domain/terminus-quick-cmds): Quick commands for terminus
 * [starxg/terminus-sync-config](https://github.com/starxg/terminus-sync-config): Sync configuration files to GitHub Gist or Gitee Gist
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
-* [termux/termux-packages](https://github.com/termux/termux-packages): A build system and primary set of packages for Termux.
+* [termux/termux-packages](https://github.com/termux/termux-packages): A package build system for Termux.
 * [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks): Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦
 * [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk): Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 * [simonknittel/terraform-google-video-transcoding](https://github.com/simonknittel/terraform-google-video-transcoding): Terraform Module to transcode and serve videos via Google Cloud services.
