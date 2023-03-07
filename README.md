@@ -3709,7 +3709,7 @@
 * [beardypig/pymp4](https://github.com/beardypig/pymp4): A Python MP4 Parser and toolkit
 * [owncloud/pyocclient](https://github.com/owncloud/pyocclient): ownCloud client library for Python
 * [Pylons/pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter): A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
-* [microsoft/pyright](https://github.com/microsoft/pyright): Static type checker for Python
+* [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
 * [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet): Python Cheat Sheet
 * [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper): Never use print for debugging again
 * [fedecalendino/pysub-parser](https://github.com/fedecalendino/pysub-parser): Library for extracting text and timestamps from multiple subtitle files (.ass, .ssa, .srt, .sub, .txt).
