@@ -3580,7 +3580,7 @@
 * [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages): Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers
 * [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker): You know it, you use it, now it's time to improve it. PWD!.
 * [mafintosh/playback](https://github.com/mafintosh/playback): Video player built using electron and node.js
-* [piemonte/Player](https://github.com/piemonte/Player): ▶️ video player in Swift, simple way to play and stream media on iOS/tvOS
+* [piemonte/Player](https://github.com/piemonte/Player): ▶️ Play and stream video in Swift
 * [pockethook/player](https://github.com/pockethook/player): FFmpeg and SDL2 video player
 * [embedly/player.js](https://github.com/embedly/player.js): Control embedded video and audio across multiple providers
 * [davidlondono/PlayerView](https://github.com/davidlondono/PlayerView): Player View is a delegated view using AVPlayer of Swift
