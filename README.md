@@ -365,6 +365,7 @@
 * [atom/atom-languageclient](https://github.com/atom/atom-languageclient): Language Server Protocol support for Atom (the basis of Atom-IDE)
 * [htpcBeginner/AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit): AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.
 * [htpcBeginner/AtoMiC-ToolKit-Docker](https://github.com/htpcBeginner/AtoMiC-ToolKit-Docker): Moved - https://github.com/htpcBeginner/docker-traefik
+* [wez/atomicparsley](https://github.com/wez/atomicparsley): AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 * [rokudev/atomio-package](https://github.com/rokudev/atomio-package): The package for Atom IO Text Editor 
 * [attaswift/Attabench](https://github.com/attaswift/Attabench): Microbenchmarking app for Swift with nice log-log plots
 * [bmnick/ATVAutomation](https://github.com/bmnick/ATVAutomation): Messing with automation bits on the AppleTV/DACP/DAAP
@@ -1519,6 +1520,7 @@
 * [thiagolioy/dribbleswift](https://github.com/thiagolioy/dribbleswift): dribbleIos
 * [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift): Drift is a self-hostable Gist and paste service. Built with Next.js 13.
 * [SquaredTiki/Dringend-Issues](https://github.com/SquaredTiki/Dringend-Issues): Public issue tracker for the Dringend app, an iPad dev environment
+* [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
 * [Axinom/drm-quick-start](https://github.com/Axinom/drm-quick-start): Quick start for Axinom DRM
 * [feedsbrain/drm-tools](https://github.com/feedsbrain/drm-tools): Tools for Widevine and Playready
 * [samrath/DRMKeyFetcher-Android](https://github.com/samrath/DRMKeyFetcher-Android): DRMKeyFetcher can be used to fetch the license keys for both DASH and HLS media files in android using Exoplayer library.
@@ -2827,6 +2829,7 @@
 * [libass/libass](https://github.com/libass/libass): libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
 * [libav/libav](https://github.com/libav/libav): Libav github mirror, clone of git://git.libav.org/libav
 * [Yahweasel/libav.js](https://github.com/Yahweasel/libav.js): This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web.
+* [ennuicastr/libavjs-webcodecs-polyfill](https://github.com/ennuicastr/libavjs-webcodecs-polyfill): A polyfill for the WebCodecs API. No, really.
 * [szatmary/libcaption](https://github.com/szatmary/libcaption): Free open-source CEA608 / CEA708 closed-caption encoder/decoder
 * [bitmovin/libdash](https://github.com/bitmovin/libdash): MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
 * [strukturag/libde265](https://github.com/strukturag/libde265): Open h.265 video codec implementation.
@@ -4147,6 +4150,7 @@
 * [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory): A collection of user-submitted shortcuts for Shortcuts for iOS.
 * [albanie/shot-detection-benchmarks](https://github.com/albanie/shot-detection-benchmarks): A comparison of ffmpeg, Shotdetect and PySceneDetect for shot transition detection
 * [star7th/showdoc](https://github.com/star7th/showdoc): ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+* [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder): A professional video compression tool accessible to all.
 * [cats-oss/Sica](https://github.com/cats-oss/Sica): :deer: Simple Interface Core Animation. Run type-safe animation sequencially or parallelly
 * [mdhiggins/sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator): Automatically convert video files to a standardized format with metadata tagging to create a beautiful and uniform media library
 * [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta): The civilized way to write REST API clients for iOS / macOS
@@ -4326,6 +4330,8 @@
 * [orvice/ss-panel](https://github.com/orvice/ss-panel): rm
 * [coder/sshcode](https://github.com/coder/sshcode): Run VS Code on any server over SSH.
 * [oguzhaninan/sshcon](https://github.com/oguzhaninan/sshcon): Quick and simple SSH config management tool
+* [moul/sshportal](https://github.com/moul/sshportal): :tophat: simple, fun and transparent SSH (and telnet) bastion server
+* [nirui/sshwifty](https://github.com/nirui/sshwifty): Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 * [yrutschle/sslh](https://github.com/yrutschle/sslh): Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 * [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer): Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 * [elastic/stack-docker](https://github.com/elastic/stack-docker): Project no longer maintained.
@@ -5128,6 +5134,7 @@
 * [JackTeam/XHLoadingNavigationItemTitleView](https://github.com/JackTeam/XHLoadingNavigationItemTitleView): XHLoadingNavigationItemTitleView is show title conver to method swizzling display loading HUD.
 * [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac): The xi-editor mac frontend.
 * [Uncommon/Xit](https://github.com/Uncommon/Xit): Mac OS X Git GUI
+* [mooz/xkeysnail](https://github.com/mooz/xkeysnail): Yet another keyboard remapping tool for X environment
 * [xlwings/xlwings](https://github.com/xlwings/xlwings): xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web. 
 * [martinblech/xmltodict](https://github.com/martinblech/xmltodict): Python module that makes working with XML feel like you are working with JSON
 * [rovo89/XposedBridge](https://github.com/rovo89/XposedBridge): The Java part of the Xposed framework.
