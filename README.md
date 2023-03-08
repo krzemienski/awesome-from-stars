@@ -3274,7 +3274,7 @@
 * [flavioribeiro/nginx-vod-module-fmp4-hls](https://github.com/flavioribeiro/nginx-vod-module-fmp4-hls): Play fragmented mp4's on HLS using nginx-vod-module
 * [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉
 * [xadlien/ngrok-auto-ssh](https://github.com/xadlien/ngrok-auto-ssh): Systemd service setup for ngrok ssh enpoint with emailed ip address.
-* [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go): The ngrok agent in library form, suitable for integrating directly into your Go application.
+* [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go): Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 * [JoaquimLey/ngrok-install](https://github.com/JoaquimLey/ngrok-install): A simple self-sufficient script that installs a ngrok ssh tunnel service that runs on boot for the raspberry pi
 * [Eitol/ngrok-linux-service](https://github.com/Eitol/ngrok-linux-service): ngrok linux systemd service installer
 * [zufardhiyaulhaq/ngrok-operator](https://github.com/zufardhiyaulhaq/ngrok-operator): Expose your service in Kubernetes to the Internet with Ngrok easily! Automatically reload ngrok sessions after expired!
