@@ -801,6 +801,7 @@
 * [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor): Bitrise Workflow Editor
 * [psf/black](https://github.com/psf/black): The uncompromising Python code formatter
 * [shimmerproject/Blackbird](https://github.com/shimmerproject/Blackbird): Dark Desktop Suite for Xfce
+* [KSCHdsc/BlackCap-Grabber](https://github.com/KSCHdsc/BlackCap-Grabber): A Powerfull Fully Undetect Token Stealer / Token Grabber, allow to steal discord new password / a2f codes / email / credit card / anti delete, steal browsers chromium based Passwords / Cookies / History, Can also steal steam / metamask / exodus / minecraft login / roblox cookies, with anti debug
 * [karloespiritu/BlackDoc](https://github.com/karloespiritu/BlackDoc): A two-column Jekyll theme for websites that require a master-detail layout for viewing of content
 * [EONRaider/blackhat-python3](https://github.com/EONRaider/blackhat-python3): Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
 * [lets-blade/blade](https://github.com/lets-blade/blade): :rocket: Lightning fast and elegant mvc framework for Java8
