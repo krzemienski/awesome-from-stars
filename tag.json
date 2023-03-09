@@ -1721,6 +1721,9 @@
     "KurtBestor/Hitomi-Downloader": [
         "Other"
     ],
+    "Kussie/awesome-home-media-server": [
+        "Other"
+    ],
     "LA1TV/DVR-Bridge-Service": [
         "Other"
     ],
@@ -3245,6 +3248,9 @@
     "adapta-project/adapta-gtk-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
+    "ade21/awsome-dns": [
+        "Other"
+    ],
     "adghayes/serverless-ffmpeg": [
         "Other"
     ],
@@ -3387,6 +3393,9 @@
         "Other"
     ],
     "ajhsu/chromecast-device-emulator": [
+        "Other"
+    ],
+    "ajnart/homarr": [
         "Other"
     ],
     "akash-rajak/Image-Watermark-Remover": [
@@ -3705,6 +3714,9 @@
         "Other"
     ],
     "ankbul/node-rats": [
+        "Other"
+    ],
+    "ankur4u007/drift": [
         "Other"
     ],
     "ankurjha21/eks-AWS": [
@@ -4917,6 +4929,9 @@
         "Other"
     ],
     "captioning/captioning": [
+        "Other"
+    ],
+    "captn3m0/nebula": [
         "Other"
     ],
     "carbon-app/carbon": [
@@ -6192,6 +6207,9 @@
         "Other"
     ],
     "dschere/industrial-ffmpeg": [
+        "Other"
+    ],
+    "dschier-wtd/fedora-homeserver": [
         "Other"
     ],
     "dtan4/k8s-job-cleaner": [
@@ -10025,6 +10043,9 @@
     "matvp91/shaka-player-react": [
         "Other"
     ],
+    "maudy2u/owncloud-letsencrypt-docker-compose": [
+        "Other"
+    ],
     "mauhai/awesome-jupyterlab": [
         "Other"
     ],
@@ -10122,6 +10143,9 @@
         "Other"
     ],
     "mehmettaskiner/eksi-sozluk-reloaded": [
+        "Other"
+    ],
+    "meienberger/runtipi": [
         "Other"
     ],
     "meirwah/awesome-incident-response": [
@@ -10530,6 +10554,9 @@
         "Other"
     ],
     "mrriddler/MicroKernel": [
+        "Other"
+    ],
+    "mrsauravsahu/homelab": [
         "Other"
     ],
     "msaps/MSSTabbedPageViewController": [
@@ -11333,6 +11360,9 @@
     "owncast/owncast": [
         "Other"
     ],
+    "owncloud-docker/compose-playground": [
+        "Other"
+    ],
     "owncloud-docker/server": [
         "Other"
     ],
@@ -11391,6 +11421,9 @@
         "Other"
     ],
     "pannal/Sub-Zero.bundle": [
+        "Other"
+    ],
+    "panosmz/dockercompose-homeserver-config": [
         "Other"
     ],
     "paperTurkey/manjaroSetup": [
@@ -12408,6 +12441,9 @@
         "Other"
     ],
     "rugginoso/django-transcodeandstream": [
+        "Other"
+    ],
+    "ruma/homeserver": [
         "Other"
     ],
     "runletapp/runlet": [
@@ -13970,6 +14006,9 @@
     "tomkowz/NetworkLayerExample": [
         "Other"
     ],
+    "tomwojcik/homeserver-traefik-portainer": [
+        "Other"
+    ],
     "tone-row/flowchart-fun": [
         "Other"
     ],
@@ -14400,6 +14439,9 @@
         "Other"
     ],
     "vectordotdev/vector": [
+        "Other"
+    ],
+    "veerendra2/raspberrypi-homeserver": [
         "Other"
     ],
     "veeta-tv/jasmine-roku": [

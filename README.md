@@ -548,6 +548,7 @@
 * [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking): A curated list of awesome Hacking tutorials, tools and resources
 * [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm): Collaborative list of awesome helm charts and resources. PRs are welcome!
 * [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
+* [Kussie/awesome-home-media-server](https://github.com/Kussie/awesome-home-media-server): This is a carefully compiled list of remarkable projects with the focus on home media.
 * [homelab-garden/awesome-homelab](https://github.com/homelab-garden/awesome-homelab): A categorized community-driven collection of awesome homelab resources, tools, frameworks and software. The essentials to build, run and deploy your own homelab..
 * [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper): 🖥 Delightful Hyper plugins, themes, and resources
 * [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification): A curated list of deep learning image classification papers and codes
@@ -735,6 +736,7 @@
 * [aws-samples/aws-vt-baseami-pipeline](https://github.com/aws-samples/aws-vt-baseami-pipeline): AWS EC2/ECS/EKS reference AMI build scripts using packer.
 * [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
+* [ade21/awsome-dns](https://github.com/ade21/awsome-dns): Use AWS Route53 with your own domains as your private dynamic dns service.
 * [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 * [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom): An FFmpeg GUI for Windows
 * [monadgroup/axiom](https://github.com/monadgroup/axiom): A powerful realtime node-based audio synthesizer.
@@ -1080,6 +1082,7 @@
 * [facebook/componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS.
 * [docker/compose](https://github.com/docker/compose): Define and run multi-container applications with Docker
 * [libresh/compose-owncloud](https://github.com/libresh/compose-owncloud): ownCloud docker-compose for libre.sh v1
+* [owncloud-docker/compose-playground](https://github.com/owncloud-docker/compose-playground): Docker Compose dev environment
 * [magicmark/composerize](https://github.com/magicmark/composerize): 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 * [dim-geo/compressibility](https://github.com/dim-geo/compressibility): vapoursynth compressibility function & vmaf comparison
 * [ossu/computer-science](https://github.com/ossu/computer-science): :mortar_board: Path to a free self-taught education in Computer Science!
@@ -1456,6 +1459,7 @@
 * [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode): Build, ship and run iOS apps like docker containers
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet): 🐋 Docker Cheat Sheet 🐋
+* [panosmz/dockercompose-homeserver-config](https://github.com/panosmz/dockercompose-homeserver-config): My Raspberry Pi 3-server Docker-Compose configuration.
 * [CircleCI-Archived/dockerfile-wizard](https://github.com/CircleCI-Archived/dockerfile-wizard): Use CircleCI to build custom Docker images with combinations of common languages/dependencies
 * [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles): Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
 * [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles): Various Dockerfiles I use on the desktop and on servers.
@@ -1524,6 +1528,7 @@
 * [thiagolioy/dribbbleIos](https://github.com/thiagolioy/dribbbleIos): Client Ios for dribbble API
 * [thiagolioy/dribbleswift](https://github.com/thiagolioy/dribbleswift): dribbleIos
 * [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift): Drift is a self-hostable Gist and paste service. Built with Next.js 13.
+* [ankur4u007/drift](https://github.com/ankur4u007/drift): Drift: A Websocket-Http Tunnel written in kotlin that lets you access any HTTP Api on servers deployed behind firewall(s)/Nat(s)/Proxy
 * [SquaredTiki/Dringend-Issues](https://github.com/SquaredTiki/Dringend-Issues): Public issue tracker for the Dringend app, an iPad dev environment
 * [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
 * [Axinom/drm-quick-start](https://github.com/Axinom/drm-quick-start): Quick start for Axinom DRM
@@ -1760,6 +1765,7 @@
 * [facebookarchive/FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler): iOS tool that helps with profiling iOS Memory usage.
 * [rwbutler/FeatureFlags](https://github.com/rwbutler/FeatureFlags): 🚩 Allows developers to configure feature flags, run multiple A/B tests or phase feature roll out using a JSON configuration file.
 * [Dash-Industry-Forum/FeatureTest](https://github.com/Dash-Industry-Forum/FeatureTest): Issues corresponsing to each feature at http://testassets.dashif.org/
+* [dschier-wtd/fedora-homeserver](https://github.com/dschier-wtd/fedora-homeserver): Kickstart and Ansible setup of my homeserver.
 * [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix):  ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 * [TryFetch/Fetch](https://github.com/TryFetch/Fetch): :movie_camera: The best way to watch Put.io on iPhone and iPad
 * [neurospeech/ff-lambda-container](https://github.com/neurospeech/ff-lambda-container): FFmpeg AWS Lambda Container
@@ -2394,6 +2400,7 @@
 * [muxinc/hlstools](https://github.com/muxinc/hlstools): Tools for analyzing and processing hls streams
 * [faryon93/hlswatch](https://github.com/faryon93/hlswatch): keep track of hls viewer stats
 * [bcl/HMS](https://github.com/bcl/HMS): Roku application for streaming home media from a basic http server.
+* [ajnart/homarr](https://github.com/ajnart/homarr): Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 * [go-gitea/homebrew-gitea](https://github.com/go-gitea/homebrew-gitea): Gitea: Homebrew, moved to https://gitea.com/gitea/homebrew-gitea
 * [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk): AdoptOpenJDK HomeBrew Tap
 * [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient.
@@ -2403,9 +2410,12 @@
 * [lwitzani/homebridgeStatusWidget](https://github.com/lwitzani/homebridgeStatusWidget): None
 * [ridhwaans/homehost](https://github.com/ridhwaans/homehost): self-hosted, Netflix-like app made for streaming
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
+* [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A home server for everyone! (both ARM and x86_64) - WIP
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [animosity22/homescripts](https://github.com/animosity22/homescripts): My Scripts for Plex / Emby with Dropbox and rclone
+* [ruma/homeserver](https://github.com/ruma/homeserver): A Matrix homeserver written in Rust.
 * [zilexa/Homeserver](https://github.com/zilexa/Homeserver): Lightweight home server based on microservices, usable as desktop workstation
+* [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer): My homeserver setup. Everything managed securely using Portainer.
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
 * [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh): Honukai theme and colors for Oh My ZSH and iTerm
@@ -3232,6 +3242,7 @@
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
 * [NVIDIA/nccl](https://github.com/NVIDIA/nccl): Optimized primitives for collective multi-GPU communication
 * [eugene87222/NCTU-Video-Streaming-and-Tracking](https://github.com/eugene87222/NCTU-Video-Streaming-and-Tracking): None
+* [captn3m0/nebula](https://github.com/captn3m0/nebula):  Source Code for the Home Server setup.
 * [nebulabroadcast/nebula](https://github.com/nebulabroadcast/nebula): Media asset management and broadcast automation system
 * [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
 * [nebulabroadcast/nebula-cloud](https://github.com/nebulabroadcast/nebula-cloud): Nebula Cloud host installer
@@ -3504,6 +3515,7 @@
 * [AirenSoft/OvenPlayer](https://github.com/AirenSoft/OvenPlayer): OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
 * [netguru/Overlog](https://github.com/netguru/Overlog): Overlay for iOS apps for easier testing and debugging. 👩‍🔧
 * [owncast/owncast](https://github.com/owncast/owncast): Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+* [maudy2u/owncloud-letsencrypt-docker-compose](https://github.com/maudy2u/owncloud-letsencrypt-docker-compose): A docker-compose.yml and supporting files making using of letsencrypt and enabling Big File Uploads support
 * [rorydavidson/owncloud-nginx-letsencrypt-docker](https://github.com/rorydavidson/owncloud-nginx-letsencrypt-docker): Docker compose and information to run ownCloud with an Nginx proxy and LetsEncrypt
 * [gionn/owncloud-traefik-example](https://github.com/gionn/owncloud-traefik-example): Docker-compose project to provision traefik + owncloud behind letsencrypt https
 * [hooram/ownphotos](https://github.com/hooram/ownphotos): Self hosted alternative to Google Photos 
@@ -3813,6 +3825,7 @@
 * [djselbeck/rapl-read-ryzen](https://github.com/djselbeck/rapl-read-ryzen): Quick & dirty hack to read AMD Ryzen rapl counters
 * [ljunkie/rarflix](https://github.com/ljunkie/rarflix): Plex Roku Channel - original source from https://github.com/plexinc/roku-client-public
 * [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os): Learning operating system development using Linux kernel and Raspberry Pi
+* [veerendra2/raspberrypi-homeserver](https://github.com/veerendra2/raspberrypi-homeserver): A collection of applications and tools to make awesome Raspberry Pi homerserver
 * [slhck/rate-control-tests](https://github.com/slhck/rate-control-tests): Tests for different rate control modes in x264
 * [soffes/RateLimit](https://github.com/soffes/RateLimit): Simple utility for only executing code every so often.
 * [toshi0383/RateTV](https://github.com/toshi0383/RateTV): An awesome Rating view for tvOS.
@@ -4005,6 +4018,7 @@
 * [penDerGraft/run-k8s-job](https://github.com/penDerGraft/run-k8s-job): GitHub Action to run a Kubernetes job in a cluster
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
+* [meienberger/runtipi](https://github.com/meienberger/runtipi): Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust):  All Algorithms implemented in Rust 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 * [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
