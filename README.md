@@ -1653,6 +1653,7 @@
 * [rossumur/espflix](https://github.com/rossumur/espflix): A free video streaming service that runs on a ESP32
 * [espnet/espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit
 * [gtamas/etcdmanager](https://github.com/gtamas/etcdmanager): A cross-platform GUI and ETCD client
+* [workpieces/etcdwp](https://github.com/workpieces/etcdwp): 💻 etcdwp is a beautiful, easy-to-use Mac database management application for etcd. (Support Macos Window  Linux)
 * [jaredsinclair/etcetera](https://github.com/jaredsinclair/etcetera): Stuff I need often enough to that's too small to exist on its own.
 * [balena-io/etcher](https://github.com/balena-io/etcher): Flash OS images to SD cards & USB drives, safely and easily.
 * [Ether-CLI/Ether](https://github.com/Ether-CLI/Ether): A Command-Line Interface for the Swift Package Manager
@@ -2086,6 +2087,7 @@
 * [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star): None
 * [steinfletcher/github-org-clone](https://github.com/steinfletcher/github-org-clone): :octocat: Clone repositories managed by a github organisation or team
 * [densebrain/github-org-reporter](https://github.com/densebrain/github-org-reporter): None
+* [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter): It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 * [jeroenoomsNL/github-project-starter](https://github.com/jeroenoomsNL/github-project-starter): A boilerplate for Github frontend projects to save time on creating a build process and a demo pages for Github Pages.
 * [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking): :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 * [soroushchehresa/github-react-native-apollo-graphql](https://github.com/soroushchehresa/github-react-native-apollo-graphql):  📱 A GitHub mobile app built with React-Native and Apollo GraphQL
@@ -3335,6 +3337,7 @@
 * [cpitkin/nomad-openfaas-transcode-video](https://github.com/cpitkin/nomad-openfaas-transcode-video): None
 * [EliverLara/Nordic](https://github.com/EliverLara/Nordic): :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
+* [a7madZ3Dev/Note_app_ddd](https://github.com/a7madZ3Dev/Note_app_ddd): Flutter mobile app made with DDD to take notes and to make To-Do lists.
 * [notea-org/notea](https://github.com/notea-org/notea): 📒 Self hosted note taking app stored on S3
 * [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes): GUI for AV1 (aomenc, rav1e & svt-av1)
 * [owncloud/notes-iOS-App](https://github.com/owncloud/notes-iOS-App): :notebook:
