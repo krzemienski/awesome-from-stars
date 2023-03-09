@@ -548,6 +548,7 @@
 * [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking): A curated list of awesome Hacking tutorials, tools and resources
 * [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm): Collaborative list of awesome helm charts and resources. PRs are welcome!
 * [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
+* [homelab-garden/awesome-homelab](https://github.com/homelab-garden/awesome-homelab): A categorized community-driven collection of awesome homelab resources, tools, frameworks and software. The essentials to build, run and deploy your own homelab..
 * [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper): 🖥 Delightful Hyper plugins, themes, and resources
 * [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification): A curated list of deep learning image classification papers and codes
 * [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response): A curated list of tools for incident response
@@ -926,6 +927,7 @@
 * [Ramotion/cardslider](https://github.com/Ramotion/cardslider): :octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
 * [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb): A cargo subcommand that generates Debian packages from information in Cargo.toml
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
+* [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 * [castjs/castjs](https://github.com/castjs/castjs): 📺 Chromecast Sender Library for the Browser
 * [xat/castnow](https://github.com/xat/castnow): commandline chromecast player
 * [googlecast/CastReceiver](https://github.com/googlecast/CastReceiver): Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features.
@@ -2399,6 +2401,7 @@
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [animosity22/homescripts](https://github.com/animosity22/homescripts): My Scripts for Plex / Emby with Dropbox and rclone
+* [zilexa/Homeserver](https://github.com/zilexa/Homeserver): Lightweight home server based on microservices, usable as desktop workstation
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
 * [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh): Honukai theme and colors for Oh My ZSH and iTerm
@@ -2436,6 +2439,7 @@
 * [hybrik/hybrik-samples](https://github.com/hybrik/hybrik-samples): Hybrik Samples
 * [hybrik/hybrik-sdk-go](https://github.com/hybrik/hybrik-sdk-go): None
 * [malcommac/Hydra](https://github.com/malcommac/Hydra): ⚡️ Lightweight full-featured Promises, Async & Await Library in Swift
+* [mr-karan/hydra](https://github.com/mr-karan/hydra): Infra-as-code for my personal home server setup
 * [vercel/hyper](https://github.com/vercel/hyper): A terminal built on web technologies
 * [cevr/hyper-mayukai](https://github.com/cevr/hyper-mayukai): Dark Hyper theme with bright colors - based off the VSCode Theme Mayukai
 * [chabou/hyper-pane](https://github.com/chabou/hyper-pane): Extension for Hyper.app to enhance pane navigation.
@@ -2907,6 +2911,7 @@
 * [cupcakearmy/livestream](https://github.com/cupcakearmy/livestream): Dockerized nginx real time streaming with hsl and dash
 * [chrippa/livestreamer](https://github.com/chrippa/livestreamer): Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
+* [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [localstack/localstack](https://github.com/localstack/localstack): 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 * [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel): expose yourself
@@ -3013,6 +3018,7 @@
 * [bmoliveira/MarkdownKit](https://github.com/bmoliveira/MarkdownKit): A simple and customizable Markdown Parser for Swift
 * [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed.
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+* [borjapazr/mars-server](https://github.com/borjapazr/mars-server): 🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash
 * [openfun/marsha](https://github.com/openfun/marsha): :clapper: An opensource LTI Learning Content Management System (LCMS)
 * [thiagolioy/marvelapp](https://github.com/thiagolioy/marvelapp): Blog post on medium about the creation of a marvel app from ground up
 * [zenangst/MarvinXcode](https://github.com/zenangst/MarvinXcode): :hammer:A collection of nifty commands for your everyday workflow in Xcode
@@ -3539,6 +3545,7 @@
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): articles
 * [antoinehng/per-title-analysis](https://github.com/antoinehng/per-title-analysis): Analysis provider for adapting your OTT bitrate ladder
 * [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect): Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+* [mikeroyal/Perfect-Ubuntu-Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide): Ubuntu Guide. Learn about getting your Ubuntu Desktop/Server ready for development. Including Ubuntu Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps. 
 * [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit): Universal API for request permission and get its statuses.
 * [Yalantis/Persei](https://github.com/Yalantis/Persei): Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
 * [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
