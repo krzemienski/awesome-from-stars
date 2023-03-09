@@ -2171,6 +2171,7 @@
 * [MichielJ1998/Gnome-tweak-screensaver](https://github.com/MichielJ1998/Gnome-tweak-screensaver): A gnome tweak extension which operates as a screensaver. 
 * [axxapy/gnome-ui-tune](https://github.com/axxapy/gnome-ui-tune): Tunes overview UI of the gnome 40 a bit
 * [harshadgavali/gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon): None
+* [linux-is-awesome/gnome_extension_rocketbar](https://github.com/linux-is-awesome/gnome_extension_rocketbar): Taskbar and misc additions for the GNOME Shell.
 * [ChWick/gnomesome](https://github.com/ChWick/gnomesome): Yet another gnome extension for window tiling inspired by awesome supporting multiple workspaces and screens.
 * [demajor/gnsdk-webapp](https://github.com/demajor/gnsdk-webapp): None
 * [vasconcelosvcd/GNSDKWrapperLib-CPP](https://github.com/vasconcelosvcd/GNSDKWrapperLib-CPP): A Gracenote C++ wrapper lib
@@ -4596,6 +4597,7 @@
 * [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster
 * [slackapi/template-slash-command-and-dialogs](https://github.com/slackapi/template-slash-command-and-dialogs): Sample Slack app that uses a Slash Command and interactive message to create helpdesk tickets
 * [ContainerSolutions/template-spring-boot](https://github.com/ContainerSolutions/template-spring-boot): Template for a Spring boot project
+* [easypanel-io/templates](https://github.com/easypanel-io/templates): None
 * [DavidBrightSparc/Tenets-of-IT](https://github.com/DavidBrightSparc/Tenets-of-IT): The Tenets of IT: an accumulation of IT advice, wisdom, and humour.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
@@ -4802,6 +4804,7 @@
 * [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
 * [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+* [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The new, official app repository of the Umbrel App Store. Submit apps and updates here.
 * [devxoul/Umbrella](https://github.com/devxoul/Umbrella): ☂️ Analytics abstraction layer for Swift
 * [wimpysworld/umpc-ubuntu](https://github.com/wimpysworld/umpc-ubuntu): Scripts for UMPCs such as GPD Pocket, Pocket 2, MicroPC & TopJoy Falcon
 * [JohnSundell/Unbox](https://github.com/JohnSundell/Unbox): [Deprecated] The easy to use Swift JSON decoder

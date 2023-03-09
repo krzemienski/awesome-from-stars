@@ -6272,6 +6272,9 @@
     "easonlin404/ksm": [
         "Other"
     ],
+    "easypanel-io/templates": [
+        "Other"
+    ],
     "ebaauw/homebridge-lib": [
         "Other"
     ],
@@ -7134,6 +7137,9 @@
         "Other"
     ],
     "getumbrel/umbrel": [
+        "Other"
+    ],
+    "getumbrel/umbrel-apps": [
         "Other"
     ],
     "ggn/manifestmanipulator": [
@@ -9456,6 +9462,9 @@
         "Other"
     ],
     "linsomniac/python-bottle-skeleton": [
+        "Other"
+    ],
+    "linux-is-awesome/gnome_extension_rocketbar": [
         "Other"
     ],
     "linux-surface/linux-surface": [
