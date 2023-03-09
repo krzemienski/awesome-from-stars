@@ -1462,6 +1462,7 @@
 * [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A collection of delicious docker recipes 🇺🇦
 * [waylybaye/dockerfiles](https://github.com/waylybaye/dockerfiles): :whale: A collection of delicious docker recipes
 * [bstiel/dockerize-celery-django-app](https://github.com/bstiel/dockerize-celery-django-app): https://www.distributedpython.com/2018/06/12/celery-django-docker
+* [smellouk/Dockerized.Home-Server](https://github.com/smellouk/Dockerized.Home-Server): Dockerized.Home-Server is a setup which provides a dockerized home server, dns server, ad blocking server , cloud and monitoring.
 * [dockeron/dockeron](https://github.com/dockeron/dockeron): 🤖🤖🤖 Electron + Vue.js for Docker
 * [petersem/DockerStack](https://github.com/petersem/DockerStack): Just my list of docker apps in a compose file
 * [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom): Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
@@ -1618,6 +1619,7 @@
 * [FSecureLABS/Ellume-COVID-Test_Research-Files](https://github.com/FSecureLABS/Ellume-COVID-Test_Research-Files): None
 * [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth): Darktooth : From the darkness... it watches.
 * [envoy/Embassy](https://github.com/envoy/Embassy): Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
+* [Start9Labs/embassy-os](https://github.com/Start9Labs/embassy-os): Browser-based, graphical operating system for a personal server.
 * [MediaBrowser/Emby.Roku](https://github.com/MediaBrowser/Emby.Roku): Emby for Roku
 * [shaka-project/eme_logger](https://github.com/shaka-project/eme_logger): Logs Encrypted Media Extension (EME) events and calls to help investigate issues in premium media sites.
 * [artsy/Emergence](https://github.com/artsy/Emergence): TV. Shows.
@@ -4799,6 +4801,7 @@
 * [teejee2008/ukuu](https://github.com/teejee2008/ukuu): A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notifications when new mainline kernel is available. Lists kernels from http://kernel.ubuntu.com/~kernel-ppa/mainline/ with options to install and remove.
 * [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
+* [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 * [devxoul/Umbrella](https://github.com/devxoul/Umbrella): ☂️ Analytics abstraction layer for Swift
 * [wimpysworld/umpc-ubuntu](https://github.com/wimpysworld/umpc-ubuntu): Scripts for UMPCs such as GPD Pocket, Pocket 2, MicroPC & TopJoy Falcon
 * [JohnSundell/Unbox](https://github.com/JohnSundell/Unbox): [Deprecated] The easy to use Swift JSON decoder

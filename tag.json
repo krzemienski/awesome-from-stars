@@ -2708,6 +2708,9 @@
     "StanfordSNR/puffer": [
         "Other"
     ],
+    "Start9Labs/embassy-os": [
+        "Other"
+    ],
     "Starttoaster/docker-traefik": [
         "Other"
     ],
@@ -7128,6 +7131,9 @@
         "Other"
     ],
     "getstalkr/stalkr-cloud": [
+        "Other"
+    ],
+    "getumbrel/umbrel": [
         "Other"
     ],
     "ggn/manifestmanipulator": [
@@ -13062,6 +13068,9 @@
         "Other"
     ],
     "smakosh/gatsby-portfolio-dev": [
+        "Other"
+    ],
+    "smellouk/Dockerized.Home-Server": [
         "Other"
     ],
     "smicallef/spiderfoot": [
