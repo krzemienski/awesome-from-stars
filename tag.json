@@ -11528,6 +11528,9 @@
     "pfsense/pfsense": [
         "Other"
     ],
+    "pgodschalk/swiperproxy": [
+        "Other"
+    ],
     "phanan/htaccess": [
         "Other"
     ],
@@ -13593,9 +13596,6 @@
         "Other"
     ],
     "swiftengine/SwiftEngine": [
-        "Other"
-    ],
-    "swiperproxy/swiperproxy": [
         "Other"
     ],
     "swisspol/GCDWebServer": [

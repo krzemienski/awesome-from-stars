@@ -2203,7 +2203,7 @@
 * [DataDog/go-python3](https://github.com/DataDog/go-python3): Go bindings to the CPython-3 API
 * [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes): 🦩 Tools for Go projects
 * [cwinging/go-segment](https://github.com/cwinging/go-segment): golang video segment tool, convert mp4 to hls format
-* [m1k1o/go-transcode](https://github.com/m1k1o/go-transcode): Live on-demand transcoding in go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
+* [m1k1o/go-transcode](https://github.com/m1k1o/go-transcode): On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
 * [jordicenzano/go-ts-segmenter](https://github.com/jordicenzano/go-ts-segmenter): Live TS segmenter and HLS manifest creation in Go
 * [giorgisio/goav](https://github.com/giorgisio/goav): Golang bindings for FFmpeg (This repository is no longer maintained)
 * [dariubs/GoBooks](https://github.com/dariubs/GoBooks): List of Golang books
@@ -4031,7 +4031,7 @@
 * [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg): Safe FFmpeg wrapper.
 * [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys): FFmpeg bindings for Rust.
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings): :crab: Small exercises to get you used to reading and writing Rust code!
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
@@ -4550,7 +4550,7 @@
 * [adamcichy/SwiftySound](https://github.com/adamcichy/SwiftySound): SwiftySound is a simple library that lets you play sounds with a single line of code.
 * [bizz84/SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit): Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
 * [tbaranes/SwiftyUtils](https://github.com/tbaranes/SwiftyUtils): All the reusable code that we need in each project
-* [swiperproxy/swiperproxy](https://github.com/swiperproxy/swiperproxy): A Python-based HTTP/HTTPS-proxy.
+* [pgodschalk/swiperproxy](https://github.com/pgodschalk/swiperproxy): A Python-based HTTP/HTTPS-proxy.
 * [thomaspaulmann/Swish](https://github.com/thomaspaulmann/Swish): 👷Build Swift Projects on a Remote Machine within Xcode.
 * [thoughtbot/Swish](https://github.com/thoughtbot/Swish): Nothing but Net(working)
 * [jamescun/switcher](https://github.com/jamescun/switcher): Run SSH and HTTP(S) on the same port
