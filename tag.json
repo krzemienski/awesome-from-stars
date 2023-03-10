@@ -9074,6 +9074,9 @@
     "krzemienski/bakery": [
         "Other"
     ],
+    "krzemienski/encodarr": [
+        "Other"
+    ],
     "krzemienski/inlets-traefik-docker": [
         "Other"
     ],
@@ -9606,6 +9609,9 @@
         "Other"
     ],
     "lorey/github-stars-by-topic": [
+        "Other"
+    ],
+    "lorien/awesome-web-scraping": [
         "Other"
     ],
     "loryhuz/CleanyModal": [
@@ -11636,6 +11642,9 @@
     "plotly/dash-player": [
         "Other"
     ],
+    "pluralsh/plural": [
+        "Other"
+    ],
     "pm990320/docker-flask-celery": [
         "Other"
     ],
@@ -12221,6 +12230,9 @@
     "restreamio/docker-gstreamer": [
         "Other"
     ],
+    "restyler/scrapeninja-api-php-client": [
+        "Other"
+    ],
     "rfmoz/keepconf": [
         "Other"
     ],
@@ -12660,6 +12672,9 @@
         "Other"
     ],
     "scottschiller/SoundManager2": [
+        "Other"
+    ],
+    "scrapinghub/portia": [
         "Other"
     ],
     "scrapinghub/skinfer": [
