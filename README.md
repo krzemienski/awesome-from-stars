@@ -2416,6 +2416,7 @@
 * [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A home server for everyone! (both ARM and x86_64) - WIP
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [animosity22/homescripts](https://github.com/animosity22/homescripts): My Scripts for Plex / Emby with Dropbox and rclone
+* [SimonHaas/homeserver](https://github.com/SimonHaas/homeserver): homeserver setup with multiple services via docker
 * [ruma/homeserver](https://github.com/ruma/homeserver): A Matrix homeserver written in Rust.
 * [zilexa/Homeserver](https://github.com/zilexa/Homeserver): Lightweight home server based on microservices, usable as desktop workstation
 * [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer): My homeserver setup. Everything managed securely using Portainer.
@@ -4825,6 +4826,7 @@
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
 * [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 * [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The new, official app repository of the Umbrel App Store. Submit apps and updates here.
+* [getumbrel/umbrel-community-app-store](https://github.com/getumbrel/umbrel-community-app-store): Template repository for a creating your own Community App Store for Umbrel. Click "Use this template" and add your apps!
 * [devxoul/Umbrella](https://github.com/devxoul/Umbrella): ☂️ Analytics abstraction layer for Swift
 * [wimpysworld/umpc-ubuntu](https://github.com/wimpysworld/umpc-ubuntu): Scripts for UMPCs such as GPD Pocket, Pocket 2, MicroPC & TopJoy Falcon
 * [JohnSundell/Unbox](https://github.com/JohnSundell/Unbox): [Deprecated] The easy to use Swift JSON decoder

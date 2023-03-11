@@ -2642,6 +2642,9 @@
     "SicAlpha/docker-beets": [
         "Other"
     ],
+    "SimonHaas/homeserver": [
+        "Other"
+    ],
     "SimpleSSAI/SimpleSSAI": [
         "Other"
     ],
@@ -7158,6 +7161,9 @@
         "Other"
     ],
     "getumbrel/umbrel-apps": [
+        "Other"
+    ],
+    "getumbrel/umbrel-community-app-store": [
         "Other"
     ],
     "ggn/manifestmanipulator": [
