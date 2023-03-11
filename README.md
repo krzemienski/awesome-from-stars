@@ -1245,6 +1245,7 @@
 * [pokey909/dash_adaptation_simulator](https://github.com/pokey909/dash_adaptation_simulator): Simulate bitrate switching algorithms based on real data traces
 * [kubernetes/dashboard](https://github.com/kubernetes/dashboard): General-purpose web UI for Kubernetes clusters
 * [salimhamed/dashboard](https://github.com/salimhamed/dashboard): A simple dashboarding web application built using Flask and Bootstrap.
+* [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot): A simple, modern server dashboard, primarily used by smaller private servers
 * [castlabs/dashencrypt](https://github.com/castlabs/dashencrypt): DASH fragmenter/segmenter and encrypter
 * [schellkenig/DASHLiveEdgeCalculator](https://github.com/schellkenig/DASHLiveEdgeCalculator): Calculates the live edge for MPEG-DASH segment template based streams
 * [MPEGGroup/DASHSchema](https://github.com/MPEGGroup/DASHSchema): The XML schema and example XML files for DASH (ISO/IEC 23009-1)
