@@ -2097,6 +2097,7 @@
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
 * [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts): GitHub scripts
 * [HsunGong/github-notion](https://github.com/HsunGong/github-notion): None
+* [krzemienski/github-notion-star](https://github.com/krzemienski/github-notion-star): None
 * [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star): None
 * [steinfletcher/github-org-clone](https://github.com/steinfletcher/github-org-clone): :octocat: Clone repositories managed by a github organisation or team
 * [densebrain/github-org-reporter](https://github.com/densebrain/github-org-reporter): None
