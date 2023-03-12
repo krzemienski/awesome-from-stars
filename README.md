@@ -3188,6 +3188,7 @@
 * [TechSmith/mp4v2](https://github.com/TechSmith/mp4v2): Fork of mp4v2: https://code.google.com/archive/p/mp4v2/
 * [enzo1982/mp4v2](https://github.com/enzo1982/mp4v2): Reviving the MP4v2 project...
 * [mParticle/mparticle-roku-sdk](https://github.com/mParticle/mparticle-roku-sdk): mParticle SDK for Roku Streaming devices
+* [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD): Music Player Daemon
 * [videojs/mpd-parser](https://github.com/videojs/mpd-parser): None
 * [squidpickles/mpd-to-m3u8](https://github.com/squidpickles/mpd-to-m3u8): Converts an MPEG-DASH MPD file to an HLS master playlist.
 * [carlanton/mpd-tools](https://github.com/carlanton/mpd-tools): DASH MPD tools for Java
