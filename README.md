@@ -2675,7 +2675,7 @@
 * [perenecabuto/json_schema_generator](https://github.com/perenecabuto/json_schema_generator): A simple json schema generator from any json source
 * [willowtreeapps/jsonapi-parser](https://github.com/willowtreeapps/jsonapi-parser): A sample JSON API parser using GSON
 * [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox): HTTP-based JSON storage.
-* [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+* [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 * [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport): JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [json-path/JsonPath](https://github.com/json-path/JsonPath): Java JsonPath implementation
 * [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python
