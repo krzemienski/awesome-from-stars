@@ -2502,7 +2502,6 @@
 * [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
 * [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor): Ubuntu application indicator to show various system parameters
 * [matvp91/indigo-player](https://github.com/matvp91/indigo-player): Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
-* [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg): A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video 
 * [facebook/infer](https://github.com/facebook/infer): A static analyzer for Java, C, C++, and Objective-C
 * [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker): Official docker images for the influxdata stack
 * [get-set/infra-docker-compose](https://github.com/get-set/infra-docker-compose): 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
@@ -2522,7 +2521,6 @@
 * [michaelversus/insomnia-plugin-codegen](https://github.com/michaelversus/insomnia-plugin-codegen): None
 * [benemohamed/insomnia-plugin-json-schema](https://github.com/benemohamed/insomnia-plugin-json-schema): insomnia plugin generated json schema from response
 * [klickpages/insomnia-plugin-repo-sync](https://github.com/klickpages/insomnia-plugin-repo-sync): None
-* [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper): Scrapes an instagram user's photos and videos
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: My install.md with dotfiles and etc
 * [lmlsna/install-scripts](https://github.com/lmlsna/install-scripts): Ubuntu install scripts
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
@@ -3519,7 +3517,6 @@
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
 * [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine): OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 * [AirenSoft/OvenPlayer](https://github.com/AirenSoft/OvenPlayer): OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
-* [netguru/Overlog](https://github.com/netguru/Overlog): Overlay for iOS apps for easier testing and debugging. 👩‍🔧
 * [owncast/owncast](https://github.com/owncast/owncast): Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 * [maudy2u/owncloud-letsencrypt-docker-compose](https://github.com/maudy2u/owncloud-letsencrypt-docker-compose): A docker-compose.yml and supporting files making using of letsencrypt and enabling Big File Uploads support
 * [rorydavidson/owncloud-nginx-letsencrypt-docker](https://github.com/rorydavidson/owncloud-nginx-letsencrypt-docker): Docker compose and information to run ownCloud with an Nginx proxy and LetsEncrypt
@@ -3692,7 +3689,6 @@
 * [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google's data interchange format
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
 * [chockenberry/Provisioning](https://github.com/chockenberry/Provisioning): A Quick Look plug-in for .mobileprovision files
-* [Quintasan/prowadzacy_roku](https://github.com/Quintasan/prowadzacy_roku): None
 * [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3): The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator 
 * [WhatsApp/proxy](https://github.com/WhatsApp/proxy): This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
