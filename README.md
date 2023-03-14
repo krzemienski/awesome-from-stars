@@ -2161,6 +2161,7 @@
 * [muflone/gnome-appfolders-manager](https://github.com/muflone/gnome-appfolders-manager): Manage GNOME Shell applications folders
 * [GNOME/gnome-applets](https://github.com/GNOME/gnome-applets): Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-applets
 * [yomun/gnome-backup-tools](https://github.com/yomun/gnome-backup-tools): GNOME Shell Extensions - Backup Tools / 备份工具
+* [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [hardpixel/gnome-hud](https://github.com/hardpixel/gnome-hud): Unity like HUD menu for the GNOME Desktop Environment using rofi menu.
 * [ethanwharris/gnome-nvidia-extension](https://github.com/ethanwharris/gnome-nvidia-extension): A Gnome extension to show NVIDIA GPU information
 * [Schneegans/Gnome-Pie](https://github.com/Schneegans/Gnome-Pie): A pie menu launcher for linux. Read the release announcement of version 0.7.2 at https://schneegans.github.io/news/2018/10/30/gnome-pie-072 Or have a look at the homepage!
