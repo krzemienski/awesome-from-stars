@@ -2274,6 +2274,7 @@
 * [hobby-kube/guide](https://github.com/hobby-kube/guide):  Kubernetes clusters for the hobbyist.
 * [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta): None
 * [Yalantis/GuillotineMenu](https://github.com/Yalantis/GuillotineMenu): Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
+* [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 * [gumslone/gum_hls](https://github.com/gumslone/gum_hls): HLS video streaming app for owncloud
 * [gunnery/gunnery](https://github.com/gunnery/gunnery): Remote task execution tool
 * [ibc/h264-profile-level-id](https://github.com/ibc/h264-profile-level-id): Utility to process H264 profile-level-id values
