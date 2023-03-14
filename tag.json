@@ -377,6 +377,9 @@
     "Brainiarc7/ffmpeg_libnvenc": [
         "Other"
     ],
+    "Breakthrough/PySceneDetect": [
+        "Other"
+    ],
     "BrenekH/encodarr": [
         "Other"
     ],
@@ -4256,6 +4259,9 @@
     "aws-samples/amazon-eks-fluent-logging-examples": [
         "Other"
     ],
+    "aws-samples/amazon-ivs-clip-manifest": [
+        "Other"
+    ],
     "aws-samples/amazon-translate-video-subtitles-captions-translation": [
         "Other"
     ],
@@ -5900,6 +5906,9 @@
     "devlucky/Kakapo": [
         "Other"
     ],
+    "devrath/droid-octo-exoplayer": [
+        "Other"
+    ],
     "devshah2/Watermark-Remover": [
         "Other"
     ],
@@ -6599,6 +6608,9 @@
     "eugene87222/NCTU-Video-Streaming-and-Tracking": [
         "Other"
     ],
+    "eugeneware/ffprobe": [
+        "Other"
+    ],
     "eugenp/tutorials": [
         "Other"
     ],
@@ -6816,6 +6828,9 @@
         "Other"
     ],
     "fcanas/HLSCore": [
+        "Other"
+    ],
+    "fcanas/LiveStreamParser": [
         "Other"
     ],
     "fedecalendino/pysub-parser": [
@@ -10886,6 +10901,9 @@
     "nioperas06/awesome-django-rest-framework": [
         "Other"
     ],
+    "nirb999/easy-ott-subtitles": [
+        "Other"
+    ],
     "nirui/sshwifty": [
         "Other"
     ],
@@ -11168,6 +11186,9 @@
     "one-dark/jetbrains-one-dark-theme": [
         "Other"
     ],
+    "onema/playlist-dsl": [
+        "Other"
+    ],
     "oneronaut/brsHamcrest": [
         "Other"
     ],
@@ -11196,6 +11217,9 @@
         "Other"
     ],
     "ooni/probe-ios": [
+        "Other"
+    ],
+    "oopsguy/m3u8": [
         "Other"
     ],
     "ooyala/iq-sdk-roku-sample": [

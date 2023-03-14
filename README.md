@@ -208,6 +208,7 @@
 * [aws/amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook): Amazon EKS Pod Identity Webhook
 * [awslabs/amazon-eks-serverless-drainer](https://github.com/awslabs/amazon-eks-serverless-drainer): Amazon EKS node drainer with AWS Lambda.
 * [awsdocs/amazon-eks-user-guide](https://github.com/awsdocs/amazon-eks-user-guide): The open source version of the Amazon EKS user guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+* [aws-samples/amazon-ivs-clip-manifest](https://github.com/aws-samples/amazon-ivs-clip-manifest): The Amazon IVS manifest clipping solution offers a reference solution that demonstrates how you can use HTTP live streaming (HLS) Program-Date-Time (PDT) tags and HLS byte range manifest files to clip the recordings stored on Amazon Simple Storage Service (Amazon S3) using the Auto-Record to Amazon S3.
 * [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023): Amazon Linux 2023
 * [awsdocs/amazon-transcoder-developer-guide](https://github.com/awsdocs/amazon-transcoder-developer-guide): The open source version of the Amazon Elastic Transcoder docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 * [aws-samples/amazon-translate-video-subtitles-captions-translation](https://github.com/aws-samples/amazon-translate-video-subtitles-captions-translation): None
@@ -1536,6 +1537,7 @@
 * [Axinom/drm-quick-start](https://github.com/Axinom/drm-quick-start): Quick start for Axinom DRM
 * [feedsbrain/drm-tools](https://github.com/feedsbrain/drm-tools): Tools for Widevine and Playready
 * [samrath/DRMKeyFetcher-Android](https://github.com/samrath/DRMKeyFetcher-Android): DRMKeyFetcher can be used to fetch the license keys for both DASH and HLS media files in android using Exoplayer library.
+* [devrath/droid-octo-exoplayer](https://github.com/devrath/droid-octo-exoplayer): This repository demonstrates how to use the ExoPlayer which is an application level media player for Android.
 * [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader): Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
 * [alibaba/druid](https://github.com/alibaba/druid): 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 * [apache/druid](https://github.com/apache/druid): Apache Druid: a high performance real-time analytics database.
@@ -1560,6 +1562,7 @@
 * [google/EarlGrey](https://github.com/google/EarlGrey): :tea: iOS UI Automation Test Framework
 * [roberthein/Ease](https://github.com/roberthein/Ease): It's magic.
 * [otoyo/easy-notion-blog](https://github.com/otoyo/easy-notion-blog): ✍️ Let's start your own Notion Blog easily. / Notion Blogを始めましょう！
+* [nirb999/easy-ott-subtitles](https://github.com/nirb999/easy-ott-subtitles): OTT (DASH/HLS) manifest manipulator server for subtitle generation (translate/transcribe)
 * [evertramos/easy-server](https://github.com/evertramos/easy-server): Linux Scripts to Automate Tasks
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
@@ -1880,6 +1883,7 @@
 * [ffplayout/ffplayout-docker](https://github.com/ffplayout/ffplayout-docker): Dockerized playout solution
 * [ffplayout/ffplayout-frontend](https://github.com/ffplayout/ffplayout-frontend): Web based frontend for ffplayout-engine
 * [joeflateau/ffpreset](https://github.com/joeflateau/ffpreset): None
+* [eugeneware/ffprobe](https://github.com/eugeneware/ffprobe): Use ffprobe to get info from media files and return as JSON
 * [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python): A wrapper of ffprobe command to extract metadata from media files.
 * [matham/ffpyplayer](https://github.com/matham/ffpyplayer): A cython implementation of an ffmpeg based player.
 * [timvisee/ffsend](https://github.com/timvisee/ffsend): :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -2928,6 +2932,7 @@
 * [rachit2501/Livepeer-Video-Streaming](https://github.com/rachit2501/Livepeer-Video-Streaming): DApp to stream videos on livepeer protocol.
 * [cupcakearmy/livestream](https://github.com/cupcakearmy/livestream): Dockerized nginx real time streaming with hsl and dash
 * [chrippa/livestreamer](https://github.com/chrippa/livestreamer): Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
+* [fcanas/LiveStreamParser](https://github.com/fcanas/LiveStreamParser): A Parser for HTTP Live Streaming in Objective-C
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
@@ -2971,6 +2976,7 @@
 * [globocom/m3u8](https://github.com/globocom/m3u8): Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 * [grafov/m3u8](https://github.com/grafov/m3u8): Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 * [leandromoreira/m3u8](https://github.com/leandromoreira/m3u8): Python m3u8 parser
+* [oopsguy/m3u8](https://github.com/oopsguy/m3u8): A mini M3U8 downloader written in Golang for downloading and merging TS(Transport Stream) files. 一个迷你 M3U8 视频下载工具。
 * [excalibur-kvrv/m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl): A CLI program to download a video played using a m3u8 playlist. Download it here - https://pypi.org/project/m3u8dl/0.5.2/
 * [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader):  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 * [lcy0321/m3u8-downloader](https://github.com/lcy0321/m3u8-downloader): Download the ts files according to the given m3u8 file.
@@ -3617,6 +3623,7 @@
 * [davidlondono/PlayerView](https://github.com/davidlondono/PlayerView): Player View is a delegated view using AVPlayer of Swift
 * [EstebanKubata/playfair](https://github.com/EstebanKubata/playfair): None
 * [krzysztofzablocki/Playgrounds](https://github.com/krzysztofzablocki/Playgrounds): Better playgrounds that work both for Objective-C and Swift
+* [onema/playlist-dsl](https://github.com/onema/playlist-dsl): Experimental Kotlin DSL to create HLS master and media playlist.
 * [jaskie/PlayoutAutomation](https://github.com/jaskie/PlayoutAutomation): Television broadcast automation system
 * [microsoft/plcrashreporter](https://github.com/microsoft/plcrashreporter): Reliable, open-source crash reporting for iOS, macOS and tvOS
 * [alextall/plexify](https://github.com/alextall/plexify): Transcode video files to lower bitrates based on resolution
@@ -3745,6 +3752,7 @@
 * [owncloud/pyocclient](https://github.com/owncloud/pyocclient): ownCloud client library for Python
 * [Pylons/pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter): A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
+* [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect): :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
 * [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet): Python Cheat Sheet
 * [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper): Never use print for debugging again
 * [fedecalendino/pysub-parser](https://github.com/fedecalendino/pysub-parser): Library for extracting text and timestamps from multiple subtitle files (.ass, .ssa, .srt, .sub, .txt).
