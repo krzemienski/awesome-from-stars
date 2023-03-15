@@ -2053,7 +2053,7 @@
 * [davidask/Futures](https://github.com/davidask/Futures): Lightweight promises for iOS, macOS, tvOS, watchOS, and Linux
 * [fwupd/fwupd](https://github.com/fwupd/fwupd): A system daemon to allow session software to update firmware
 * [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer
-* [fyne-io/fyne](https://github.com/fyne-io/fyne): Cross platform GUI in Go inspired by Material Design
+* [fyne-io/fyne](https://github.com/fyne-io/fyne): Cross platform GUI toolkit in Go inspired by Material Design
 * [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite): Google Suite as a desktop app. Made possible with Electron.
 * [MatMoul/g810-led](https://github.com/MatMoul/g810-led): Linux led controller for Logitech G213, G410, G413, G512, G513, G610, G810, g815, G910 and GPRO Keyboards
 * [Comcast/gaad](https://github.com/Comcast/gaad): GAAD (Go Advanced Audio Decoder)
@@ -2288,6 +2288,7 @@
 * [joeyespo/grip](https://github.com/joeyespo/grip): Preview GitHub README.md files locally before committing them.
 * [Grive/grive](https://github.com/Grive/grive): an open source Linux client for Google Drive
 * [teejee2008/groot](https://github.com/teejee2008/groot): Chroot helper utility for all Linux distributions
+* [grpc/grpc](https://github.com/grpc/grpc): The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 * [google/grumpy](https://github.com/google/grumpy): Grumpy is a Python to Go source code transcompiler and runtime.
 * [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme): A GTK theme based on the Gruvbox colour palette. 
 * [Vincent-P/gruvbox-intellij-theme](https://github.com/Vincent-P/gruvbox-intellij-theme): An IDE theme based on the gruvbox color scheme. ⛺
@@ -3188,6 +3189,7 @@
 * [LanceGin/Mockman](https://github.com/LanceGin/Mockman): Manage and start the mock servers on your local platform easily
 * [kronenthaler/mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj): A python module to manipulate XCode projects
 * [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu): Run Ubuntu GUI on your termux with much features.
+* [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks): System font stack CSS organized by typeface classification for every modern operating system
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 * [noreasonprojects/ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer): ModernAVPlayer is a persistence AVPlayer wrapper
 * [rentzsch/mogenerator](https://github.com/rentzsch/mogenerator): Core Data code generation
@@ -4659,6 +4661,7 @@
 * [suifengqjn/TBPlayer](https://github.com/suifengqjn/TBPlayer): 视频边下边播播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer
 * [TravelC/TCTitleLoading](https://github.com/TravelC/TCTitleLoading): This is a loading in the bottom of navigation bar title area.
 * [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr): Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+* [HaveAGitGat/Tdarr_Plugins](https://github.com/HaveAGitGat/Tdarr_Plugins): Tdarr Plugins
 * [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux): Unofficial Microsoft Teams for Linux client
 * [konsoletyper/teavm](https://github.com/konsoletyper/teavm): Compiler of Java bytecode to JavaScript
 * [andou/tech-resources](https://github.com/andou/tech-resources): 🔧 A list of useful resources for tech enthusiasts. https://andou.github.io/tech-resources/ 
