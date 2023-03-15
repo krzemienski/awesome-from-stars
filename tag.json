@@ -11,6 +11,9 @@
     "11ty/eleventy": [
         "Other"
     ],
+    "1337-server/automatic-ripping-machine": [
+        "Other"
+    ],
     "14mRh4X0r/arch-argon": [
         "Other"
     ],
@@ -656,6 +659,9 @@
     "CrypticSignal/better-ffmpeg-progress": [
         "Other"
     ],
+    "CrypticSignal/video-quality-metrics": [
+        "Other"
+    ],
     "CurtisLeeBolin/avtc": [
         "Other"
     ],
@@ -779,6 +785,9 @@
     "DeadNews/zsh-scripts": [
         "Other"
     ],
+    "DefaultSimon/euphony": [
+        "Other"
+    ],
     "Delgan/loguru": [
         "Other"
     ],
@@ -797,6 +806,9 @@
     "DeviLeo/DLGPlayer": [
         "Other"
     ],
+    "DevonCrawford/Video-Editing-Automation": [
+        "Other"
+    ],
     "DevopensourceTeam/Console_Box_AWS": [
         "Other"
     ],
@@ -813,6 +825,9 @@
         "Other"
     ],
     "Dids/clover-builder": [
+        "Other"
+    ],
+    "DigitalMediaServer/DigitalMediaServer": [
         "Other"
     ],
     "Dimillian/SwiftHN": [
@@ -1202,6 +1217,9 @@
     "FormidableLabs/electron-webpack-dashboard": [
         "Other"
     ],
+    "FraMecca/ffbench": [
+        "Other"
+    ],
     "Free-TV/IPTV": [
         "Other"
     ],
@@ -1239,6 +1257,9 @@
         "Other"
     ],
     "Galeas/CocoaPodUI": [
+        "Other"
+    ],
+    "Genymobile/scrcpy": [
         "Other"
     ],
     "GeoHaber/Video-Transcode": [
@@ -1359,6 +1380,9 @@
         "Other"
     ],
     "HaujetZhao/QuickCut": [
+        "Other"
+    ],
+    "HaveAGitGat/Tdarr": [
         "Other"
     ],
     "HeZhang1994/video-audio-tools": [
@@ -1878,6 +1902,9 @@
         "Other"
     ],
     "Martchus/tageditor": [
+        "Other"
+    ],
+    "MasayukiSuda/Mp4Composer-android": [
         "Other"
     ],
     "MatMoul/g810-led": [
@@ -2552,6 +2579,9 @@
     "SachinKalsi/video-upload-and-video-streaming": [
         "Other"
     ],
+    "Saentist/tvheadend": [
+        "Other"
+    ],
     "Saif807380/gh-topics-scraper": [
         "Other"
     ],
@@ -2679,6 +2709,9 @@
         "Other"
     ],
     "SofianeHamlaoui/ArchI0": [
+        "Other"
+    ],
+    "SoftUni/CDN-Video-Uploader": [
         "Other"
     ],
     "Solido/awesome-flutter": [
@@ -2993,6 +3026,9 @@
     "Vilsol/Transcoder": [
         "Other"
     ],
+    "Vilsol/transcoder-go": [
+        "Other"
+    ],
     "Vincent-P/gruvbox-intellij-theme": [
         "Other"
     ],
@@ -3033,6 +3069,9 @@
         "Other"
     ],
     "WowzaMediaSystems/webrtc-examples": [
+        "Other"
+    ],
+    "WritingMinds/ffmpeg-android-java": [
         "Other"
     ],
     "WyattBlue/auto-editor": [
@@ -3605,6 +3644,9 @@
     "amanusk/s-tui": [
         "Other"
     ],
+    "amaurypm/transcode2H264": [
+        "Other"
+    ],
     "amaurypm/transcode2H265": [
         "Other"
     ],
@@ -3860,6 +3902,9 @@
     "aperim/docker-nvidia-cuda-ffmpeg": [
         "Other"
     ],
+    "apesch85/h264_to_h265": [
+        "Other"
+    ],
     "apideck-libraries/portman": [
         "Other"
     ],
@@ -3873,6 +3918,9 @@
         "Other"
     ],
     "apioo/fusio": [
+        "Other"
+    ],
+    "apivideo/bash-upload": [
         "Other"
     ],
     "apivideo/browserLiveStream": [
@@ -4073,6 +4121,9 @@
     "artemnovichkov/iOS-11-by-Examples": [
         "Other"
     ],
+    "arthenica/ffmpeg-kit": [
+        "Other"
+    ],
     "artilleryio/artillery": [
         "Other"
     ],
@@ -4122,6 +4173,9 @@
         "Other"
     ],
     "askmeegs/learn-istio": [
+        "Other"
+    ],
+    "askrejans/ffmpeg-home-video-tools": [
         "Other"
     ],
     "aslanyanhaik/youtube-iOS": [
@@ -4263,6 +4317,9 @@
         "Other"
     ],
     "aws-samples/amazon-translate-video-subtitles-captions-translation": [
+        "Other"
+    ],
+    "aws-samples/automating-livestream-video-monitoring": [
         "Other"
     ],
     "aws-samples/aws-batch-with-ffmpeg": [
@@ -4434,6 +4491,9 @@
         "Other"
     ],
     "baowenbo/DAIN": [
+        "Other"
+    ],
+    "barkerstuff/treadmill": [
         "Other"
     ],
     "basharovV/StumbleUponAwesome": [
@@ -6038,6 +6098,9 @@
     "dkashin/pipencoder-base": [
         "Other"
     ],
+    "dkashin/sb-transcoder-vod": [
+        "Other"
+    ],
     "dkhamsing/awesome_bot": [
         "Other"
     ],
@@ -6051,6 +6114,9 @@
         "Other"
     ],
     "dkundel/vscode-ngrok-helper": [
+        "Other"
+    ],
+    "dmaccarthy/sc8pr": [
         "Other"
     ],
     "dmarmor/epichrome": [
@@ -6644,6 +6710,9 @@
     "exaile/exaile": [
         "Other"
     ],
+    "exasky/TranscoderScript": [
+        "Other"
+    ],
     "excalibur-kvrv/m3u8-dl": [
         "Other"
     ],
@@ -6666,6 +6735,9 @@
         "Other"
     ],
     "exyte/Macaw": [
+        "Other"
+    ],
+    "eyecuvision/bumblebee": [
         "Other"
     ],
     "ezaquarii/vpn-at-home": [
@@ -7073,6 +7145,9 @@
     "fyne-io/fyne": [
         "Other"
     ],
+    "fzakaria/transcoding": [
+        "Other"
+    ],
     "gabek/Amplitude-Brightscript": [
         "Other"
     ],
@@ -7247,6 +7322,9 @@
     "github/hub": [
         "Other"
     ],
+    "githubhaohao/LearnFFmpeg": [
+        "Other"
+    ],
     "gitpitch/gitpitch": [
         "Other"
     ],
@@ -7329,6 +7407,9 @@
         "Other"
     ],
     "gollum/gollum": [
+        "Other"
+    ],
+    "gonejack/transcode": [
         "Other"
     ],
     "google-research-datasets/Objectron": [
@@ -7523,10 +7604,16 @@
     "gurayyarar/SnipCommand": [
         "Other"
     ],
+    "gurrutia/videoxt": [
+        "Other"
+    ],
     "gwen001/pentest-tools": [
         "Other"
     ],
     "gwuhaolin/livego": [
+        "Other"
+    ],
+    "gyroflow/gyroflow": [
         "Other"
     ],
     "gztchan/awesome-design": [
@@ -7578,6 +7665,9 @@
         "Other"
     ],
     "halfo/lambda-mod-zsh-theme": [
+        "Other"
+    ],
+    "halworsen/footgas": [
         "Other"
     ],
     "hamishtaplin/tvos-resources": [
@@ -8669,6 +8759,9 @@
     "junguler/m3u-radio-music-playlists": [
         "Other"
     ],
+    "juniorxsound/now": [
+        "Other"
+    ],
     "jupyter-naas/awesome-notebooks": [
         "Other"
     ],
@@ -8906,6 +8999,9 @@
     "kevinGodell/mp4frag": [
         "Other"
     ],
+    "kevincox/rustymedia": [
+        "Other"
+    ],
     "kevineye/docker-firetv": [
         "Other"
     ],
@@ -8931,6 +9027,9 @@
         "Other"
     ],
     "kickstarter/ios-oss": [
+        "Other"
+    ],
+    "kieranjol/IFIscripts": [
         "Other"
     ],
     "kingslay/KSPlayer": [
@@ -9309,6 +9408,9 @@
         "Other"
     ],
     "kylef/swiftenv": [
+        "Other"
+    ],
+    "kylegilman/video-embed-thumbnail-generator": [
         "Other"
     ],
     "l-t-k/docker-autosub": [
@@ -9716,6 +9818,9 @@
     "luoxiu/Schedule": [
         "Other"
     ],
+    "luqmansen/gosty": [
+        "Other"
+    ],
     "lutris/ffmpeg-nvenc": [
         "Other"
     ],
@@ -9792,6 +9897,9 @@
         "Other"
     ],
     "mafintosh/playback": [
+        "Other"
+    ],
+    "mafiosnik777/enhancr": [
         "Other"
     ],
     "magicalpanda/MagicalRecord": [
@@ -10184,6 +10292,9 @@
     "meirwah/awesome-incident-response": [
         "Other"
     ],
+    "mekhti/awsome-live-streamin": [
+        "Other"
+    ],
     "mercari/Mew": [
         "Other"
     ],
@@ -10376,6 +10487,9 @@
     "mingrammer/diagrams": [
         "Other"
     ],
+    "minhaj86/TranscodeWorker": [
+        "Other"
+    ],
     "minio/mc": [
         "Other"
     ],
@@ -10476,6 +10590,9 @@
         "Other"
     ],
     "mojoaxel/awesome-regression-testing": [
+        "Other"
+    ],
+    "mojtaba-arvin/video-service": [
         "Other"
     ],
     "mokoshalb/ReStreamer": [
@@ -11438,6 +11555,9 @@
     "pNre/ExSwift": [
         "Other"
     ],
+    "pabloromeo/clusterplex": [
+        "Other"
+    ],
     "pacstall/pacstall": [
         "Other"
     ],
@@ -12087,6 +12207,9 @@
         "Other"
     ],
     "rakam-io/rakam-ios": [
+        "Other"
+    ],
+    "rambodrahmani/ffmpeg-video-player": [
         "Other"
     ],
     "ramimoshe/generator-node-template": [
@@ -13046,6 +13169,9 @@
     "sindresorhus/speed-test": [
         "Other"
     ],
+    "singhkays/docker-ffmpeg-av1-libaom": [
+        "Other"
+    ],
     "singhkshitij/MagicPrint-ECommerce-App-Android": [
         "Other"
     ],
@@ -13226,6 +13352,9 @@
     "soffes/RateLimit": [
         "Other"
     ],
+    "softdevca/mootranscode": [
+        "Other"
+    ],
     "soimort/you-get": [
         "Other"
     ],
@@ -13308,6 +13437,9 @@
         "Other"
     ],
     "spinnaker/spinnaker": [
+        "Other"
+    ],
+    "spiretechnology/spireav": [
         "Other"
     ],
     "spl0k/supysonic": [
@@ -13575,6 +13707,12 @@
         "Other"
     ],
     "sunlubo/SwiftFFmpeg": [
+        "Other"
+    ],
+    "sunrise2575/AutoAVS": [
+        "Other"
+    ],
+    "sunrise2575/dist-ffmpeg": [
         "Other"
     ],
     "sunwxg/gnome-shell-extension-arrangeWindows": [
@@ -13859,6 +13997,9 @@
     "tgc1997/Awesome-Video-Captioning": [
         "Other"
     ],
+    "tgogos/rpi_ffmpeg": [
+        "Other"
+    ],
     "thanos-io/thanos": [
         "Other"
     ],
@@ -14105,6 +14246,9 @@
     "tottokotkd/ffmpeg-tutorial-with-swift": [
         "Other"
     ],
+    "towhee-io/towhee": [
+        "Other"
+    ],
     "tozastation/HLS-Streaming": [
         "Other"
     ],
@@ -14169,6 +14313,12 @@
         "Other"
     ],
     "ttt30ga/awesome-product-design": [
+        "Other"
+    ],
+    "ttyS0/docker-other-transcode": [
+        "Other"
+    ],
+    "ttyS0/docker-transcode-vaapi": [
         "Other"
     ],
     "tuanngominh/celery-django-kubernetes-experiment": [
@@ -14322,6 +14472,9 @@
         "Other"
     ],
     "ultrajson/ultrajson": [
+        "Other"
+    ],
+    "ultravideo/cloud-encoder": [
         "Other"
     ],
     "ultravideo/kvazaar": [
@@ -14933,6 +15086,9 @@
     "widget-/slack-black-theme": [
         "Other"
     ],
+    "wieslawsoltes/BatchEncoder": [
+        "Other"
+    ],
     "wifiphisher/wifiphisher": [
         "Other"
     ],
@@ -15185,6 +15341,9 @@
     "xuancong84/indicator-cpufreq": [
         "Other"
     ],
+    "xufuji456/FFmpegAndroid": [
+        "Other"
+    ],
     "xwmx/search.sh": [
         "Other"
     ],
@@ -15207,6 +15366,9 @@
         "Other"
     ],
     "yahoojapan/UICollectionViewSplitLayout": [
+        "Other"
+    ],
+    "yangjie10930/EpMedia": [
         "Other"
     ],
     "yard-turkey/aws-s3-provisioner": [
@@ -15273,6 +15435,9 @@
         "Other"
     ],
     "ytdl-org/youtube-dl": [
+        "Other"
+    ],
+    "yuanqing/vdx": [
         "Other"
     ],
     "yuhuili-lab/Tide": [
