@@ -227,6 +227,9 @@
     "AppImageCommunity/awesome-appimage": [
         "Other"
     ],
+    "AppOutlet/AppOutlet": [
+        "Other"
+    ],
     "ArchiveBox/ArchiveBox": [
         "Other"
     ],
@@ -3951,9 +3954,6 @@
         "Other"
     ],
     "app-generator/flask-material-dashboard": [
-        "Other"
-    ],
-    "app-outlet/app-outlet": [
         "Other"
     ],
     "appcoda/GCDSamples": [
@@ -14241,6 +14241,9 @@
         "Other"
     ],
     "toshi0383/tvOS-10-Sampler": [
+        "Other"
+    ],
+    "tospery/SWHub": [
         "Other"
     ],
     "tottokotkd/ffmpeg-tutorial-with-swift": [

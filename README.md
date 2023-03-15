@@ -268,7 +268,6 @@
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
-* [app-outlet/app-outlet](https://github.com/app-outlet/app-outlet): A Universal linux app store
 * [pietropizzi/app-talk](https://github.com/pietropizzi/app-talk): Let iOS apps talk - A user contributable directory of iOS apps with x-callback-urls.
 * [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation): AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Check WebServices Status - https://status.getappbox.com/status/web
 * [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit): AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
@@ -288,6 +287,7 @@
 * [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver): Appium iOS driver, backed by Apple XCUITest 
 * [faithfracture/Apple-Boost-BuildScript](https://github.com/faithfracture/Apple-Boost-BuildScript): Script for building Boost for Apple platforms (iOS, iOS Simulator, tvOS, tvOS Simulator, OS X)
 * [rocketinsights/appletv-design-templates](https://github.com/rocketinsights/appletv-design-templates): A set of design templates for the Apple TV platform. In Sketch format. 
+* [AppOutlet/AppOutlet](https://github.com/AppOutlet/AppOutlet): A Universal linux app store
 * [firebase/appquality-codelab-ios](https://github.com/firebase/appquality-codelab-ios): Firebase iOS App Quality Codelab
 * [electron/apps](https://github.com/electron/apps): A collection of apps built on Electron
 * [aunetx/apps-to-panel](https://github.com/aunetx/apps-to-panel): This extension turns the Activities button into two button with icon or text to select Applications or Workspaces in the Overview.
@@ -4507,6 +4507,7 @@
 * [moby/swarmkit](https://github.com/moby/swarmkit): A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 * [EliverLara/Sweet](https://github.com/EliverLara/Sweet): Light and dark colorful Gtk3.20+ theme
 * [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+* [tospery/SWHub](https://github.com/tospery/SWHub): An open source GitHub client
 * [agens-no/swiff](https://github.com/agens-no/swiff): Human readable time diffs on lines of output when running e.g. build commands like fastlane
 * [apple/swift](https://github.com/apple/swift): The Swift Programming Language
 * [openstack/swift](https://github.com/openstack/swift): OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
