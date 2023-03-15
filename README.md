@@ -131,6 +131,7 @@
 * [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
 * [Eyevinn/action-eks-kubectl](https://github.com/Eyevinn/action-eks-kubectl): GitHub Action for interacting with EKS vended kubectl (k8s) 
 * [LucaFeger/action-maven-cli](https://github.com/LucaFeger/action-maven-cli): None
+* [artxia/Action-NotionSite](https://github.com/artxia/Action-NotionSite): loconotion + Github Actions + Notion + GitHub Pages + Cloudflare Workers, Create a free website or build a blog.
 * [optonaut/ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift): UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 * [OpenVisualCloud/Ad-Insertion-Sample](https://github.com/OpenVisualCloud/Ad-Insertion-Sample): The ad-insertion reference pipeline shows how to integrate various media building blocks, with analytics powered by the OpenVINO™ Toolkit, for intelligent server-side ad insertion.
 * [PapirusDevelopmentTeam/adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde): Adapta KDE customization
@@ -147,6 +148,7 @@
 * [Ruunyox/aed](https://github.com/Ruunyox/aed): Alacritty Editor
 * [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial): Apple TV Aerial Screensaver for Mac
 * [videojs/aes-decrypter](https://github.com/videojs/aes-decrypter): None
+* [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE):  There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 * [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking): A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 * [marco-gallegos/after-install](https://github.com/marco-gallegos/after-install): shell scripts para operaciones comunes despues de instalar distros linux
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
@@ -599,6 +601,7 @@
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
 * [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Ready to use data science templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
+* [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
 * [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide): 🌩️ A list of awesome online development environments
 * [eug/awesome-opengl](https://github.com/eug/awesome-opengl): A curated list of awesome OpenGL libraries, debuggers and resources.
@@ -971,6 +974,7 @@
 * [IBM/charts](https://github.com/IBM/charts): The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [danielgindi/Charts](https://github.com/danielgindi/Charts): Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * [helm/charts](https://github.com/helm/charts): ⚠️(OBSOLETE) Curated applications for Kubernetes
+* [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion): ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 * [shobrook/ChatOverflow](https://github.com/shobrook/ChatOverflow): AI-generated answers to every coding question
 * [badoo/Chatto](https://github.com/badoo/Chatto): A lightweight framework to build chat applications, made in Swift
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
@@ -1200,6 +1204,7 @@
 * [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates): csBooks is the best epub reader, pdf reader, mobi book reader and djvu reader for windows, linux and mac os. It solves your problems if you need ebook manager, library manager on linux, best comic book reader, cbz file reader, cbr file reader etc. 
 * [CharlesJS/CSProgress](https://github.com/CharlesJS/CSProgress): A higher-performing, easier-to-use replacement class for Apple's NSProgress, written in Swift.
 * [CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout): UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.
+* [vzhd1701/csv2notion](https://github.com/vzhd1701/csv2notion): Import/Merge CSV files into Notion database
 * [creativetimofficial/ct-black-dashboard-pro-django](https://github.com/creativetimofficial/ct-black-dashboard-pro-django): Black Dashboard PRO - Premium Django Template | Creative-Tim
 * [mackworth/cTiVo](https://github.com/mackworth/cTiVo): TiVo Show Downloads for MacOS
 * [PJ-Singh-001/Cubic](https://github.com/PJ-Singh-001/Cubic): The Official Web Site for Cubic (Custom Ubuntu ISO Creator) (https://github.com/PJ-Singh-001/Cubic)
@@ -1209,7 +1214,7 @@
 * [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists): Curated lists on various topics
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
-* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert cURL commands to code
+* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Generate code from cURL commands
 * [Freshman-tech/custom-html5-video](https://github.com/Freshman-tech/custom-html5-video): A custom HTML5 video player built with JavaScript
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
 * [shigeyf/custom-manifest-proxy-webapi](https://github.com/shigeyf/custom-manifest-proxy-webapi): A simple Web API implementation of Custom Manifest for Adaptive Media Streaming
@@ -1227,6 +1232,7 @@
 * [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet): An interactive CSS playground
 * [dagostini/DADependencyInjection](https://github.com/dagostini/DADependencyInjection): An example project on how to use dependency injection.
 * [jaysgrant/dadjoke-ui](https://github.com/jaysgrant/dadjoke-ui): A Python 3 Flask project which provides a simple web ui for an open source dadjokes generator
+* [rainyear/dailybot](https://github.com/rainyear/dailybot): 赛博传达室老大爷
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -1310,6 +1316,7 @@
 * [realeyes-media/demo-encoder](https://github.com/realeyes-media/demo-encoder): A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 * [5ika/denotion](https://github.com/5ika/denotion): Save Notion pages locally
+* [jh4843/denv-portfolio](https://github.com/jh4843/denv-portfolio): None
 * [kubenav/deploy](https://github.com/kubenav/deploy): Deploy kubenav at Kubernetes.
 * [coder/deploy-code-server](https://github.com/coder/deploy-code-server): Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 * [Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS](https://github.com/Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS): None
@@ -1492,6 +1499,7 @@
 * [DockStation/dockstation](https://github.com/DockStation/dockstation): DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 * [jklukas/docs-on-gh-pages](https://github.com/jklukas/docs-on-gh-pages): Sample of deploying docs to gh-pages branch in CI
 * [thlorenz/doctoc](https://github.com/thlorenz/doctoc): 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
+* [sillsdev/docu-notion](https://github.com/sillsdev/docu-notion): Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus.
 * [skanehira/docui](https://github.com/skanehira/docui): TUI Client for Docker
 * [DP-3T/documents](https://github.com/DP-3T/documents): Decentralized Privacy-Preserving Proximity Tracing -- Documents
 * [docuowl/docuowl](https://github.com/docuowl/docuowl): 🦉 A documentation generator
@@ -1542,6 +1550,7 @@
 * [Alexis-benoist/draw-compose](https://github.com/Alexis-benoist/draw-compose): Render Docker compose files.
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
 * [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams): Diagrams for draw.io
+* [ivankahl/drawio-notion-embed](https://github.com/ivankahl/drawio-notion-embed): A super simple project that lets you embed draw.io diagrams directly into Notion. 
 * [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg): Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 * [thiagolioy/dribbbleIos](https://github.com/thiagolioy/dribbbleIos): Client Ios for dribbble API
 * [thiagolioy/dribbleswift](https://github.com/thiagolioy/dribbleswift): dribbleIos
@@ -1665,6 +1674,7 @@
 * [w3c/encrypted-media](https://github.com/w3c/encrypted-media): Encrypted Media Extensions
 * [PacktPublishing/End-to-End-GUI-development-with-Qt5](https://github.com/PacktPublishing/End-to-End-GUI-development-with-Qt5): End to End GUI development with Qt5, published by Packt
 * [artsy/energy-legacy](https://github.com/artsy/energy-legacy): LEGACY - Artsy Folio, The Partner iPhone / iPad app.
+* [vzhd1701/enex2notion](https://github.com/vzhd1701/enex2notion): Import Evernote ENEX files to Notion
 * [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
 * [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders): A framework for Engineering Managers
 * [kubernetes/enhancements](https://github.com/kubernetes/enhancements): Enhancements tracking repo for Kubernetes
@@ -1697,6 +1707,7 @@
 * [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
 * [BoostIO/ever2boost](https://github.com/BoostIO/ever2boost): None
+* [aiqinxuancai/EvernoteToNotionChrome](https://github.com/aiqinxuancai/EvernoteToNotionChrome): Evernote迁移至Notion的工具，Tools for Evernote to Notion migration
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 * [exaile/exaile](https://github.com/exaile/exaile): :notes: Cross-platform music player
 * [oatpp/example-hls-media-stream](https://github.com/oatpp/example-hls-media-stream): Example project how-to build HLS-streaming server using oat++ Async-API.
@@ -1723,6 +1734,7 @@
 * [bookyo/express-ffmpeg](https://github.com/bookyo/express-ffmpeg): nodejs ffmpeg video transcode webui，基于nodejs的云转码系统 https://www.efvcms.com
 * [pNre/ExSwift](https://github.com/pNre/ExSwift): A set of Swift extensions for standard types and classes.
 * [julio641742/extend-panel-menu](https://github.com/julio641742/extend-panel-menu): None
+* [notion-enhancer/extension](https://github.com/notion-enhancer/extension): an enhancer/customiser for the all-in-one productivity workspace notion.so (browser)
 * [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager): A utility for browsing and installing GNOME Shell Extensions.
 * [raindropio/extensions](https://github.com/raindropio/extensions): Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
 * [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns): Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -2090,6 +2102,7 @@
 * [petrpavlik/GeoSwift](https://github.com/petrpavlik/GeoSwift): Location-related APIs intended to be used by server-side Swift applications.
 * [regexident/Gestalt](https://github.com/regexident/Gestalt): An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
+* [wcchristian/gh-action-notion-card](https://github.com/wcchristian/gh-action-notion-card): A github action to build a notion card.
 * [bcochofel/gh-project-cookiecutter](https://github.com/bcochofel/gh-project-cookiecutter): cookiecutter template for GitHub projects
 * [Saif807380/gh-topics-scraper](https://github.com/Saif807380/gh-topics-scraper): Scrape 100 most popular repositories by topic on Github
 * [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars): Displays an interactive and searchable list of your GitHub starred repositories
@@ -2135,6 +2148,7 @@
 * [jeroenoomsNL/github-project-starter](https://github.com/jeroenoomsNL/github-project-starter): A boilerplate for Github frontend projects to save time on creating a build process and a demo pages for Github Pages.
 * [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking): :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 * [soroushchehresa/github-react-native-apollo-graphql](https://github.com/soroushchehresa/github-react-native-apollo-graphql):  📱 A GitHub mobile app built with React-Native and Apollo GraphQL
+* [Reinforz/github-readme-learn-section-notion](https://github.com/Reinforz/github-readme-learn-section-notion): Update your github README with data fetched from a notion database
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [Moin-Islam/Github-Scraper](https://github.com/Moin-Islam/Github-Scraper): A web scraper which scraps github topics and details 
 * [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper): 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
@@ -2230,6 +2244,7 @@
 * [quangngotan95/go-m3u8](https://github.com/quangngotan95/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
 * [abema/go-mp4](https://github.com/abema/go-mp4): Go library for reading and writing MP4 file
 * [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd): Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files
+* [dstotijn/go-notion](https://github.com/dstotijn/go-notion): Go client for the Notion API.
 * [kevholditch/go-pagerduty-slack-sync](https://github.com/kevholditch/go-pagerduty-slack-sync): A small app to sync pagerduty on call groups to slack groups
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms
 * [DataDog/go-python3](https://github.com/DataDog/go-python3): Go bindings to the CPython-3 API
@@ -2515,6 +2530,7 @@
 * [IBDecodable/IBLinter](https://github.com/IBDecodable/IBLinter): A linter tool for Interface Builder
 * [jakeheis/Ice](https://github.com/jakeheis/Ice): ❄️ A developer friendly package manager for Swift; 100% compatible with Swift Package Manager
 * [iced-rs/iced](https://github.com/iced-rs/iced): A cross-platform GUI library for Rust, inspired by Elm
+* [notion-enhancer/icons](https://github.com/notion-enhancer/icons): a collection of custom icons for use with the notion-enhancer's "icon sets" integration
 * [facebook/idb](https://github.com/facebook/idb): idb is a flexible command line interface for automating iOS simulators and devices
 * [yseasony/idea-sql-generator-tool](https://github.com/yseasony/idea-sql-generator-tool): intellij idea sql generator tool
 * [kieranjol/IFIscripts](https://github.com/kieranjol/IFIscripts): Detailed documentation is available here: http://ifiscripts.readthedocs.io/en/latest/index.html
@@ -2680,6 +2696,7 @@
 * [simeji/jid](https://github.com/simeji/jid): json incremental digger
 * [jgillick/jira-changelog](https://github.com/jgillick/jira-changelog): Generates a changelog by matching git commits to Jira tickets.
 * [radibit/jira-dark-theme](https://github.com/radibit/jira-dark-theme): ⚫   A dark theme for Jira
+* [keremkoseoglu/Jira2Notion](https://github.com/keremkoseoglu/Jira2Notion): A small Python app to create Notion pages from Jira issues
 * [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone): A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 * [hackerdude/jiratotaskmanagers](https://github.com/hackerdude/jiratotaskmanagers): Syncs JIRA queries to apps like Omnifocus, Things and Reminders
 * [osy/Jitterbug](https://github.com/osy/Jitterbug): Launch JIT enabled iOS app with a second iOS device
@@ -2765,6 +2782,7 @@
 * [kedacore/keda](https://github.com/kedacore/keda):  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 * [keel-hq/keel](https://github.com/keel-hq/keel): Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 * [andrepolischuk/keep](https://github.com/andrepolischuk/keep): Desktop app for Google Keep packaged with Electron
+* [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown): Convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
@@ -2973,6 +2991,7 @@
 * [intuit/LocationManager](https://github.com/intuit/LocationManager): Easily get the device's current location on iOS.
 * [zhuorantan/LocationPicker](https://github.com/zhuorantan/LocationPicker): A ready for use and fully customizable location picker for your app
 * [sobri909/LocoKit](https://github.com/sobri909/LocoKit): Location, motion, and activity recording framework for iOS
+* [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion): 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
 * [locustio/locust](https://github.com/locustio/locust): Write scalable load tests in plain Python 🚗💨
 * [lvcabral/Lode-Runner-Roku](https://github.com/lvcabral/Lode-Runner-Roku): Remake of the classsic game Lode Runner (1983) for Roku Streaming Box
 * [shogo4405/Logboard](https://github.com/shogo4405/Logboard): Simple logging framework for your framework project.
@@ -2990,6 +3009,7 @@
 * [QMUI/LookinServer](https://github.com/QMUI/LookinServer): Free macOS app for iOS view debugging.
 * [zsiec/loom](https://github.com/zsiec/loom): None
 * [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army knife of lossless video/audio editing
+* [Dashibase/lotion](https://github.com/Dashibase/lotion): An open-source Notion UI built with Vue 3 
 * [puneetsl/lotion](https://github.com/puneetsl/lotion): Unofficial Notion.so app for Linux
 * [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios): An iOS library to natively render After Effects vector animations
 * [airbnb/lottie-web](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
@@ -3069,6 +3089,7 @@
 * [joshlk/many_requests](https://github.com/joshlk/many_requests): Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
 * [JohnSundell/Marathon](https://github.com/JohnSundell/Marathon): [DEPRECATED] Marathon makes it easy to write, run and manage your Swift scripts 🏃
 * [LinusU/Marionette](https://github.com/LinusU/Marionette): 🧸 Swift library which provides a high-level API to control a WKWebView
+* [markboard-io/markboard](https://github.com/markboard-io/markboard): Interact with GPT-4 using images, drawings in addition to text.
 * [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv): a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 * [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt): Like gofmt, but for Markdown.
 * [bmoliveira/MarkdownKit](https://github.com/bmoliveira/MarkdownKit): A simple and customizable Markdown Parser for Swift
@@ -3100,6 +3121,7 @@
 * [openebs/maya](https://github.com/openebs/maya): Manage Container Attached Storage (CAS) - Data Engines in Kubernetes
 * [minio/mc](https://github.com/minio/mc): Simple | Fast tool to manage MinIO clusters :cloud:
 * [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf): Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
+* [Cobertos/md2notion](https://github.com/Cobertos/md2notion): A better Notion.so Markdown importer
 * [ericlink/mdp](https://github.com/ericlink/mdp): markdown preview using marked, highlight.js, mermaid, node-emoji and live reload
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
 * [m-ab-s/media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite): This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
@@ -3201,6 +3223,7 @@
 * [Ventto/mons](https://github.com/Ventto/mons): POSIX Shell script to quickly manage monitors on X
 * [softdevca/mootranscode](https://github.com/softdevca/mootranscode): Local audio and video transcoding for Moodle
 * [mopidy/mopidy](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
+* [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log): A static blog using notion database
 * [acotilla91/Morse-Vision](https://github.com/acotilla91/Morse-Vision): More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text. 
 * [krad/morsel](https://github.com/krad/morsel): 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS.
 * [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell
@@ -3241,6 +3264,7 @@
 * [MPEGDASHPlayer/MPEGDASH-iOS-Player](https://github.com/MPEGDASHPlayer/MPEGDASH-iOS-Player): The MPEG-DASH Player iOS Application
 * [sitkevij/mpi](https://github.com/sitkevij/mpi): Rust-based MPEG-4 box inspector with TOML output.
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
+* [davidde/mpv-autosub](https://github.com/davidde/mpv-autosub): Fully automatic subtitle downloading for the MPV media player
 * [mpv-player/mpv-build](https://github.com/mpv-player/mpv-build): 🔨 Helper scripts to compile mpv on Linux
 * [TheOpponent/mr-otcs](https://github.com/TheOpponent/mr-otcs): Automated video looping, streaming, and schedule generation
 * [pricingassistant/mrq](https://github.com/pricingassistant/mrq): Mr. Queue - A distributed worker task queue in Python using Redis & gevent
@@ -3276,16 +3300,20 @@
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
 * [swl-x/MystiQ](https://github.com/swl-x/MystiQ): Qt5/C++ FFmpeg Media Converter 
 * [Protuhj/myvideobuzz](https://github.com/Protuhj/myvideobuzz): MyVideoBuzz
+* [innolitics/n2y](https://github.com/innolitics/n2y): Notion to YAML (and Markdown)
 * [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 * [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs): n8n Documentation
 * [alibaba/nacos](https://github.com/alibaba/nacos): an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 * [jethrocarr/namedmanager](https://github.com/jethrocarr/namedmanager): AGPL web-based DNS management interface in PHP
+* [narkdown/narkdown-py](https://github.com/narkdown/narkdown-py): A tool to use Notion as a Markdown editor.
 * [NAStool/nas-tools](https://github.com/NAStool/nas-tools): NAS媒体库管理工具
 * [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie): Natalie - Storyboard Code Generator (for Swift)
 * [Palethorn/native-adaptive-streaming](https://github.com/Palethorn/native-adaptive-streaming): Extension that allows native HLS and Mpeg-DASH playback in chrome browser
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [natmlx/NatReader](https://github.com/natmlx/NatReader): Cross-platform video decoding for Unity Engine.
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
+* [phuctm97/nbundle-create-notion-app](https://github.com/phuctm97/nbundle-create-notion-app): Create nbundle-powered Notion apps with one command.
+* [phuctm97/nbundle-notion-themes](https://github.com/phuctm97/nbundle-notion-themes): Make Notion pretty with custom themes and fonts, powered by nbundle.
 * [NVIDIA/nccl](https://github.com/NVIDIA/nccl): Optimized primitives for collective multi-GPU communication
 * [eugene87222/NCTU-Video-Streaming-and-Tracking](https://github.com/eugene87222/NCTU-Video-Streaming-and-Tracking): None
 * [captn3m0/nebula](https://github.com/captn3m0/nebula):  Source Code for the Home Server setup.
@@ -3319,6 +3347,7 @@
 * [postmanlabs/newman](https://github.com/postmanlabs/newman): Newman is a command-line collection runner for Postman
 * [powermobileweb/NewsApp](https://github.com/powermobileweb/NewsApp): NewsApp
 * [codelucas/newspaper](https://github.com/codelucas/newspaper): News, full-text, and article metadata extraction in Python 3. Advanced docs:
+* [BrianRuizy/next-notion-portfolio](https://github.com/BrianRuizy/next-notion-portfolio): 📙 NEXT.js + Notion driven portfolio template. Seamlessly add content with the awesome UX of Notion. Showcase your work through blog format.
 * [christophetd/nextcloud-docker-compose](https://github.com/christophetd/nextcloud-docker-compose): :cloud: Spin up a Nextcloud instance with automatied backups and SSL certificate issuance.
 * [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit): Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 * [NextLevel/NextLevel](https://github.com/NextLevel/NextLevel): ⬆️ Media Capture in Swift
@@ -3360,6 +3389,7 @@
 * [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
+* [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel.
 * [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 * [nodejs/node](https://github.com/nodejs/node): Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 * [michaelkourlas/node-cloudflare-dynamic-dns](https://github.com/michaelkourlas/node-cloudflare-dynamic-dns): Node.js module for updating a Cloudflare DNS address record with an IP address
@@ -3404,31 +3434,93 @@
 * [cpitkin/nomad-openfaas-transcode-video](https://github.com/cpitkin/nomad-openfaas-transcode-video): None
 * [EliverLara/Nordic](https://github.com/EliverLara/Nordic): :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
+* [dragonman225/notablog](https://github.com/dragonman225/notablog): Tell stories of your work with Notion
 * [a7madZ3Dev/Note_app_ddd](https://github.com/a7madZ3Dev/Note_app_ddd): Flutter mobile app made with DDD to take notes and to make To-Do lists.
 * [notea-org/notea](https://github.com/notea-org/notea): 📒 Self hosted note taking app stored on S3
 * [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes): GUI for AV1 (aomenc, rav1e & svt-av1)
+* [soulsam480/noter](https://github.com/soulsam480/noter): realtime note taking and sharing app built with Vuejs + Firebase
 * [owncloud/notes-iOS-App](https://github.com/owncloud/notes-iOS-App): :notebook:
 * [streetwriters/notesnook](https://github.com/streetwriters/notesnook): A fully open source & end-to-end encrypted note taking alternative to Evernote.
+* [zxjlm/NoteTrail](https://github.com/zxjlm/NoteTrail): 将md结构文件夹导入notion \ import markdown folders to notion
 * [jakeswenson/notion](https://github.com/jakeswenson/notion): Notion Offical API client library for rust
+* [noppefoxwolf/notion](https://github.com/noppefoxwolf/notion): noppefoxwolf/notion is a notion.so API library written in swift.
+* [typeoneerror/notion-api-examples](https://github.com/typeoneerror/notion-api-examples): Learn how you might use the Notion API to automate your Notion practice
+* [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker): Notion as CMS with easy API access
 * [jaredallard/notion-app](https://github.com/jaredallard/notion-app): Notion for Linux
 * [sysdrum/notion-app](https://github.com/sysdrum/notion-app): Notion.so desktop application for Linux 
+* [gidoBOSSftw5731/notion-auto-pull](https://github.com/gidoBOSSftw5731/notion-auto-pull): Bash script to automatically download a notion workspace
+* [jckleiner/notion-backup](https://github.com/jckleiner/notion-backup): Automatic Notion workspace backup to Google Drive, Dropbox, pCloud, Nextcloud or to your local machine.
+* [methylDragon/notion-backups](https://github.com/methylDragon/notion-backups): Blazingly fast async multi-user, multi-space Notion backups, invoked manually or with GH actions!
+* [Eomm/notion-board](https://github.com/Eomm/notion-board): Monitor your modules and repositories from Notion
+* [GorvGoyl/Notion-Boost-browser-extension](https://github.com/GorvGoyl/Notion-Boost-browser-extension): Chrome & Firefox extension for Notion to add 20+ features like sticky outline, small text & full width by default, hide comments & help button, bolder text etc. Download here: https://gourav.io/notion-boost
+* [mathix420/notion-charts](https://github.com/mathix420/notion-charts): Create stunning charts for your notion.so databases
+* [kris-hansen/notion-cli](https://github.com/kris-hansen/notion-cli): A CLI for Notion.so (in the tune of Taskbook)
+* [jacksalici/notion-cli-list-manager](https://github.com/jacksalici/notion-cli-list-manager): A simple command-line tool for managing Notion databases.
 * [konstantinmuenster/notion-clone](https://github.com/konstantinmuenster/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
 * [minwook-shin/notion-database](https://github.com/minwook-shin/notion-database): Notion API Database Python Implementation
+* [75asa/notion-database-crawler](https://github.com/75asa/notion-database-crawler): This is a Notion Integration to crawl databases to find a new page
+* [kaedea/notion-down](https://github.com/kaedea/notion-down): Notion >> Markdown. Python utility that converts Notion pages into MD files, along with intergation to build static webpages such as Hexo | 自动从 Notion 笔记生成 MD 文件，并部署到 Hexo 静态博客 | Notion Pages より Markdown Files をコンバートする、更に Hexo Webpages までの自動化も可能
 * [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer): an enhancer/customiser for the all-in-one productivity workspace notion.so
+* [Arsenal591/notion-export](https://github.com/Arsenal591/notion-export): Make it easy to export Notion pages into markdown format.
 * [ravgeetdhillon/notion-feeder](https://github.com/ravgeetdhillon/notion-feeder): 🕸 A Node app for creating a Feed Reader in Notion.
 * [yassenshopov/notion-gcal-sync](https://github.com/yassenshopov/notion-gcal-sync): A Python script to automate the syncing of tasks between Google Calendar and the all-in-one productivity workspace, Notion. It utilizes API and is customizable for your own needs. Free to use.
+* [tryfabric/notion-github-action](https://github.com/tryfabric/notion-github-action): A GitHub Action that syncs new GitHub issues to a Notion database 🤖
+* [noah0316/notion-github-issue-sync](https://github.com/noah0316/notion-github-issue-sync): Github Actions를 사용해 Github issue와 Notion 데이터베이스를 동기화하여 Notion에서 팀원들과 진행상황을 쉽게 공유해보세요🥳
+* [the-guild-org/notion-github-sync](https://github.com/the-guild-org/notion-github-sync): A CloudFlare Worker / script / bot to sync Notion pages publicly as GitHub Discussions.
+* [erajasekar/notion-icons](https://github.com/erajasekar/notion-icons): Icon gallery tool for Notion using icon8 material icons
+* [Vyshnav2255/Notion-Icons-2.0](https://github.com/Vyshnav2255/Notion-Icons-2.0): Create a more vibrant and modern workspace. Use Github Issues to request more Icons.
+* [victornpb/notion-jam](https://github.com/victornpb/notion-jam): Sync pages from Notion to GitHub to be used as a static website (JAM)
+* [YiHeCN/notion-java-sdk](https://github.com/YiHeCN/notion-java-sdk): An Unofficial Java SDK for Notion
 * [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux): Native Notion packages for Linux
+* [JosephDev/notion-linux-wrapper](https://github.com/JosephDev/notion-linux-wrapper): Notion.so desktop application for Linux
+* [yeefun/notion-mark-manager](https://github.com/yeefun/notion-mark-manager): Browser Extension - efficiently manage colored texts and comments in Notion.
+* [konojunya/notion-markdown](https://github.com/konojunya/notion-markdown): Parse the Notion page as a Markdown
+* [dragonman225/notion-page-downloader](https://github.com/dragonman225/notion-page-downloader): Download a Notion page as a HTML file.
+* [binho/notion-pdf](https://github.com/binho/notion-pdf): Convert Notion pages to PDF
+* [ganeshh123/notion-pdf-export](https://github.com/ganeshh123/notion-pdf-export): A tool to allow batch PDF export for free Notion users. You can export as HTML and then use this tool to convert those into PDFs.
+* [arturtamborski/notion-py](https://github.com/arturtamborski/notion-py): (Fork of) Unofficial Python API client for Notion.so
 * [jamalex/notion-py](https://github.com/jamalex/notion-py): Unofficial Python API client for Notion.so
 * [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged): notion executables with the notion-enhancer embedded & a vanilla port of the official app to linux
+* [Jeadie/notion-rss](https://github.com/Jeadie/notion-rss): Get RSS feeds in notion.so
+* [cn-kali-team/notion-rss](https://github.com/cn-kali-team/notion-rss): Build your own RSS Feeds in Notion.
+* [kevinjalbert/notion-scripts](https://github.com/kevinjalbert/notion-scripts): Shared collection of common Notion Scripts used in my projects
+* [getsyncr/notion-sdk](https://github.com/getsyncr/notion-sdk): A simple and easy to use Python client for the Notion API
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
+* [notionsdk/notion-sdk-kotlin-old](https://github.com/notionsdk/notion-sdk-kotlin-old): Unofficial Notion.so API wrapper, written in Kotlin
 * [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
+* [pkwenda/notion-site](https://github.com/pkwenda/notion-site): Automatically build any website with notion 
+* [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites): 发掘Notion好站
 * [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): Custom action to export Notion database to local as markdown files and images.
+* [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md): Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
+* [maaslalani/notion-todo](https://github.com/maaslalani/notion-todo): Command Line Interface for adding notion todo tasks
 * [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox): This is a collection of Notion tools that work in tandem together.
+* [zhuochun/notion-toolset](https://github.com/zhuochun/notion-toolset): 🔩 A set of Notion automation tools using the Notion API
+* [thomashirtz/notion-utilities](https://github.com/thomashirtz/notion-utilities): Tools to manipulate Notion pages and databases using Python.
+* [kathhess/notion-utils](https://github.com/kathhess/notion-utils): A small repository with convenience functions for working with the Notion API.
+* [narkdown/notion2github](https://github.com/narkdown/notion2github): Automatic syncronization from Notion to Github
 * [echo724/notion2md](https://github.com/echo724/notion2md): Notion Markdown Exporter with Python Cli
+* [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever): 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
+* [victoriano/notion_data](https://github.com/victoriano/notion_data): Convert Notion Databases into CSV or Pandas Dataframes for analytics and other useful functions
+* [kontheocharis/notion_scheduler](https://github.com/kontheocharis/notion_scheduler): Allows the creation of recurring tasks in Notion.
 * [a7madZ3Dev/Notion_Tracker](https://github.com/a7madZ3Dev/Notion_Tracker): An easy and light application that connects your data on the Notion website to your mobile phone.
 * [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets): A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
+* [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind): This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
+* [Vaayne/NotionAI-Plus](https://github.com/Vaayne/NotionAI-Plus): NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
 * [kjk/notionapi](https://github.com/kjk/notionapi): Unofficial Go API for Notion.so
 * [dragonman225/notionapi-agent](https://github.com/dragonman225/notionapi-agent): Unofficial Node.js API client for Notion.so
+* [ThallyssonKlein/NotionAutoTagSite](https://github.com/ThallyssonKlein/NotionAutoTagSite): Imagine that your Notion collections create a life of their own and start to organize themselves. If you like it, give it a star please.
+* [5hay/notionbackup](https://github.com/5hay/notionbackup): A small utility command line application that can recursively download Notion pages
+* [Vaayne/NotionBoy](https://github.com/Vaayne/NotionBoy): A note app base on Notion
+* [DavidDeBels/NotionClient](https://github.com/DavidDeBels/NotionClient): Unofficial iOS/macOS SDK for the Notion API.
+* [ngviethoang/notiondb](https://github.com/ngviethoang/notiondb): Python 3 tools for interacting with Notion API
+* [Xheldon/NotionEditor](https://github.com/Xheldon/NotionEditor): A Notion's editor implement based on ProseMirror, just for feasibility studies, IT'S NOT COMPLETED YET AND IN A VERY RAW STATUS.
+* [alessandrobelli/NotionHook](https://github.com/alessandrobelli/NotionHook): Sync your GitHub commits into a Notion Database
+* [ariary/Notionion](https://github.com/ariary/Notionion): Notion as an HTTP proxy
+* [mayneyao/NotionPlus](https://github.com/mayneyao/NotionPlus): Programming in Notion.so
+* [taehoio/notionproxy](https://github.com/taehoio/notionproxy): Notion as a web site, inspired by react-notion-x.
+* [chojnac/NotionSwift](https://github.com/chojnac/NotionSwift): Unofficial Notion API SDK for iOS & macOS
+* [notionblog/NotionThemes](https://github.com/notionblog/NotionThemes): Make your Notion pretty with custom themes
+* [MaaxGr/NotionTodoistSync](https://github.com/MaaxGr/NotionTodoistSync): Synchronisation of Todoist with Notion Database (via official public api)
 * [scarsu/NotionX](https://github.com/scarsu/NotionX): A Browser extension that enhances Notion Web App experience.一个增强 Notion Web端体验的浏览器插件。
 * [leandromoreira/nott](https://github.com/leandromoreira/nott): The New OTT Platform - an excuse to discuss and design a simple edge computing platform
 * [juniorxsound/now](https://github.com/juniorxsound/now): 📼 A slim FFMPEG wrapper to easily transcode videos to multiple resolutions using Nvidia GPUs
@@ -3438,6 +3530,7 @@
 * [numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme): A modern flat theme with a combination of light and dark elements.
 * [nushell/nushell](https://github.com/nushell/nushell): A new type of shell
 * [nuxt/nuxt](https://github.com/nuxt/nuxt): Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+* [aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev): ⚡ A portfolio for developers with a blog powered by Notion
 * [FFmpeg/nv-codec-headers](https://github.com/FFmpeg/nv-codec-headers): automatic mirror of https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
 * [SK-Hardwired/nv_hevc_hdr_patcher](https://github.com/SK-Hardwired/nv_hevc_hdr_patcher): Tiny python script adding/altering basic HDR metadata (SEI and SPS VUI) to raw HEVC streams from NVENC
 * [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView): A collection of awesome loading animations
@@ -3501,6 +3594,7 @@
 * [iheartradio/open-m3u8](https://github.com/iheartradio/open-m3u8): Open Source m3u8 Parser
 * [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps): :iphone: Collaborative List of Open-Source iOS Apps
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+* [MaaxGr/open-source-notionapi-apps](https://github.com/MaaxGr/open-source-notionapi-apps): Collection of Apps, Integrations und Libraries that utilize the Notion API
 * [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate): Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
@@ -3539,6 +3633,7 @@
 * [Yannis4444/Orange-Share](https://github.com/Yannis4444/Orange-Share): A small python server that accepts requests from an Apple shortcut to allow sharing all sorts of media from iOS with any desktop OS. It allows sending content right from the share sheet - similar to AirDrop between Apple Devices
 * [orcasound/orcanode](https://github.com/orcasound/orcanode): Software for live-streaming and recording lossy or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets. :star:
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+* [RadekMolenda/org-notion](https://github.com/RadekMolenda/org-notion): keep notion and org in sync #notion #org-mode
 * [openshift/origin](https://github.com/openshift/origin): Conformance test suite for OpenShift
 * [stoyanovgeorge/origin_server](https://github.com/stoyanovgeorge/origin_server): A simple script for creating an origin server for storing OTT chunks and manifest files using the HTTP PUT method from a remote OTT transcoder
 * [svt/orm](https://github.com/svt/orm): ORM: Origin Routing Machine
@@ -3574,6 +3669,7 @@
 * [DerekTBrown/pacmanity](https://github.com/DerekTBrown/pacmanity): Package List Gist Backup via ALPM-Hooks
 * [pacstall/pacstall](https://github.com/pacstall/pacstall): An AUR-inspired package manager for Ubuntu
 * [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
+* [Lalit2005/pagely](https://github.com/Lalit2005/pagely): Launch beautiful websites straight from your Notion workspace or from your GitHub repo
 * [microsoft/pai](https://github.com/microsoft/pai): Resource scheduling and cluster management for AI
 * [kitsunyan/pakku](https://github.com/kitsunyan/pakku): Pacman wrapper with AUR support
 * [manjaro/pamac](https://github.com/manjaro/pamac): This repo has been archived. Our code is now hosted at
@@ -3693,11 +3789,13 @@
 * [pop-os/popsicle](https://github.com/pop-os/popsicle): Multiple USB File Flasher
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [portainer/portainer-compose](https://github.com/portainer/portainer-compose): Compose setup for Portainer 
+* [Soneji/portfolio](https://github.com/Soneji/portfolio): My Personal Portfolio built with NextJS and GitHub's GraphQL API. Uses SSR to always ensure repo stars and description are always up to date. Uses Notion as a CMS for the blog section. 
 * [scrapinghub/portia](https://github.com/scrapinghub/portia): Visual scraping for Scrapy
 * [apideck-libraries/portman](https://github.com/apideck-libraries/portman): Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
 * [Paxa/postbird](https://github.com/Paxa/postbird): Open source PostgreSQL GUI client for macOS, Linux and Windows
 * [vapor/postgres-kit](https://github.com/vapor/postgres-kit): 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 * [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. 
+* [sailist/potion](https://github.com/sailist/potion): A functional, easy to use Python wrapper of Notion Api.
 * [eliapasquali/power-profile-switcher](https://github.com/eliapasquali/power-profile-switcher): Gnome extension to automatically switch between power profiles based on power supply.
 * [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 * [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback): This repository is used to collect user feedback from PPHub (GitHub third-party client) - 此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
@@ -3720,6 +3818,7 @@
 * [SpongeBobSun/Prodigal-iOS](https://github.com/SpongeBobSun/Prodigal-iOS): Music Player for iOS which looks & feels like classic player
 * [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles): 🌐Dial-up Internet access
 * [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning): Curated list of project-based tutorials
+* [vishwajeetraj11/projectboard](https://github.com/vishwajeetraj11/projectboard): A project management application that allows you to track tasks process while working in a Team. You can choose the priority of the projects, give them suitable labels, put them under various stages in boards (View).
 * [karan/Projects](https://github.com/karan/Projects): :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions): :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
 * [siimon/prom-client](https://github.com/siimon/prom-client): Prometheus client for node.js
@@ -3785,6 +3884,8 @@
 * [scivision/PyLivestream](https://github.com/scivision/PyLivestream): Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more
 * [sbraz/pymediainfo](https://github.com/sbraz/pymediainfo): A Python wrapper around the MediaInfo library
 * [beardypig/pymp4](https://github.com/beardypig/pymp4): A Python MP4 Parser and toolkit
+* [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion): A Python library for simplified access to the Notion API, enabling easier integration and automation of Notion tasks in your Python projects.
+* [bradleyhurley/PyNotion](https://github.com/bradleyhurley/PyNotion): PyNotion is a Python 3 wrapper around the Notion API.
 * [owncloud/pyocclient](https://github.com/owncloud/pyocclient): ownCloud client library for Python
 * [Pylons/pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter): A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
@@ -4001,6 +4102,7 @@
 * [rockstor/rockstor-core](https://github.com/rockstor/rockstor-core): Linux/BTRFS based Network Attached Storage(NAS)
 * [Tubitv/rodash](https://github.com/Tubitv/rodash): Lodash-inspired utility functions for Roku Brightscript
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
+* [mathix420/rofi-notion](https://github.com/mathix420/rofi-notion): Quickly create new Notion pages for your databases with rofi as GUI.
 * [wroberts/rogauracore](https://github.com/wroberts/rogauracore): RGB keyboard control for Asus ROG laptops
 * [stephenbaldwin/roku](https://github.com/stephenbaldwin/roku): Roku Brightscript Development Toolkit in Ruby
 * [trystant/Roku](https://github.com/trystant/Roku): This is a mirror of the Roku SDK download for those who want to use a DVCS
@@ -4247,6 +4349,7 @@
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second 
 * [Ikuyadeu/similar-code-searcher](https://github.com/Ikuyadeu/similar-code-searcher): a GitHub App built with probot that searches files similar with deleted code in Pull Request.
 * [NationalSecurityAgency/SIMP](https://github.com/NationalSecurityAgency/SIMP): A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
+* [LitoMore/simple-icons-cdn](https://github.com/LitoMore/simple-icons-cdn): Simple Icons CDN
 * [Thurinum/simple-media-encoder](https://github.com/Thurinum/simple-media-encoder): Compress your media files quickly and efficiently with this convenient tool. Uses FFMPEG and the Qt toolkit.
 * [electron/simple-samples](https://github.com/electron/simple-samples): Minimal Electron applications with ideas for taking them further
 * [Itiviti/simple-slack-api](https://github.com/Itiviti/simple-slack-api): (simple) Java Slack client library
@@ -4255,6 +4358,7 @@
 * [simplejson/simplejson](https://github.com/simplejson/simplejson): simplejson is a simple, fast, extensible JSON encoder/decoder for Python 
 * [SimpleSSAI/SimpleSSAI](https://github.com/SimpleSSAI/SimpleSSAI): Simple API-driven Server Side Ad Insertion(SSAI). An easy to use solution for stitching Ads into content to protect ad monitization
 * [leixiaohua1020/simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile): ffmpeg examples in Android / IOS / WinPhone
+* [leixiaohua1020/simplest_ffmpeg_streamer](https://github.com/leixiaohua1020/simplest_ffmpeg_streamer): Simplest streamer based on FFmpeg
 * [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM): Sample code for Virtualization framework
 * [apptainer/singularity](https://github.com/apptainer/singularity): Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
 * [sessionboy/sinn](https://github.com/sessionboy/sinn): a blog based on of react,webpack3,dva,redux,material-ui,fetch,generator,markdown,nodejs,koa2,mongoose,docker,shell,and async/await  基于react+koa2技术栈的个人开源博客系统 
@@ -4281,6 +4385,7 @@
 * [rauchg/slackin](https://github.com/rauchg/slackin): Public Slack organizations made easy
 * [pvzig/SlackKit](https://github.com/pvzig/SlackKit): Build Slack apps, in Swift
 * [slackhq/SlackTextViewController](https://github.com/slackhq/SlackTextViewController): ⛔️**DEPRECATED** ⛔️ A drop-in UIViewController subclass with a growing text input view and other useful messaging features
+* [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy): Supercharge Notion with custom commands to record, draw, and more ✍️
 * [slatedocs/slate](https://github.com/slatedocs/slate): Beautiful static documentation for your API
 * [SlatherOrg/slather](https://github.com/SlatherOrg/slather): Generate test coverage reports for Xcode projects & hook it into CI.
 * [ricasiano/slave-api](https://github.com/ricasiano/slave-api): Just another REST API implementation but on a queue based workflow. It runs on python, flask, nginx, gunicorn, rabbitmq, celery & mongodb for database(redis if ram wasn't that expensive =(   ). Test server runs on Vagrant and workers(gunicorn, celery workers) are daemonized via supervisord.
@@ -4495,6 +4600,7 @@
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
 * [supabase/supabase](https://github.com/supabase/supabase): The open source Firebase alternative. Follow to stay updated about our public Beta.
 * [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity): Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+* [dehatanes/super-useful-notion-cli](https://github.com/dehatanes/super-useful-notion-cli): Criando uma comand line interface SÚPER ÚTIL para quem usa Notion :)
 * [spl0k/supysonic](https://github.com/spl0k/supysonic): Supysonic is a Python implementation of the Subsonic server API.
 * [Netflix/sureal](https://github.com/Netflix/sureal): Subjective quality scores recovery from noisy measurements.
 * [tradytics/surpriver](https://github.com/tradytics/surpriver): Find big moving stocks before they move using machine learning and anomaly detection
@@ -4613,6 +4719,7 @@
 * [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
 * [3lvis/Sync](https://github.com/3lvis/Sync): JSON to Core Data and back. Swift Core Data Sync. 
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
+* [bergercookie/syncall](https://github.com/bergercookie/syncall): Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 * [syncany/syncany](https://github.com/syncany/syncany): Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage.
 * [syncany/syncany-plugin-gui](https://github.com/syncany/syncany-plugin-gui): Syncany GUI Plugin
 * [Syncplay/syncplay](https://github.com/Syncplay/syncplay): Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
@@ -4800,6 +4907,7 @@
 * [barkerstuff/treadmill](https://github.com/barkerstuff/treadmill): ffmpeg based bulk transcode tool supporting x265 and AV1
 * [danielchatfield/trello-desktop](https://github.com/danielchatfield/trello-desktop): An unofficial trello desktop app.
 * [kmcclive/tricycle](https://github.com/kmcclive/tricycle): Video transcoding... easier than riding a bike.
+* [dragonman225/trigger-webhook-from-notion](https://github.com/dragonman225/trigger-webhook-from-notion): Add a button that can trigger a POST webhook in Notion.so's table.
 * [thetrime/trimeplay](https://github.com/thetrime/trimeplay): Airplay server for Roku
 * [bdotdub/TriplePlay](https://github.com/bdotdub/TriplePlay): A demo of a better authentication flow for tvOS apps using iOS
 * [apigee/trireme](https://github.com/apigee/trireme): Embed Node.js inside a Java Virtual Machine
@@ -4857,6 +4965,7 @@
 * [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink): Twitch Stream & Video & Clip Downloader.
 * [willemvermeer/typed-actors](https://github.com/willemvermeer/typed-actors): Example code of Typed Actors presentation including GitPitch slides
 * [typhoeus/typhoeus](https://github.com/typhoeus/typhoeus):  Typhoeus wraps libcurl in order to make fast and reliable requests.
+* [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme): A beautiful, Notion-inspired Typora theme
 * [ubports/ubports-installer](https://github.com/ubports/ubports-installer): A simple tool to install Ubuntu Touch on UBports devices
 * [JREAM/ubuntu-cheatsheet](https://github.com/JREAM/ubuntu-cheatsheet): Ubuntu Terminal Cheatsheet
 * [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner): Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.
@@ -5028,6 +5137,7 @@
 * [videojs/videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls): HLS library for video.js
 * [videojs/videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels): None
 * [chrisboustead/videojs-hls-quality-selector](https://github.com/chrisboustead/videojs-hls-quality-selector): Adds a quality selector menu for HLS sources played in videojs.  Requires `videojs-contrib-quality-levels` plugin.
+* [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist): Playlist plugin for videojs
 * [videojs/videojs-playlist-ui](https://github.com/videojs/videojs-playlist-ui): A playlist video picker for video.js
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
@@ -5103,6 +5213,7 @@
 * [coderpair/vscode-live](https://github.com/coderpair/vscode-live): Code server's vscode edition with multi user support and real time collaboration.
 * [dkundel/vscode-ngrok-helper](https://github.com/dkundel/vscode-ngrok-helper): A Visual Studio Code extension that allows you to easily start/stop ngrok
 * [microsoft/vscode-node-debug](https://github.com/microsoft/vscode-node-debug): A VS Code debug adapter for node
+* [frencojobs/vscode-notion](https://github.com/frencojobs/vscode-notion): Browse Notion pages right inside Visual Studio Code.
 * [azemoh/vscode-one-monokai](https://github.com/azemoh/vscode-one-monokai): 🎨 Vscode One Monokai theme.
 * [azemoh/vscode-onedark](https://github.com/azemoh/vscode-onedark): 🎨 One Dark Theme for Visual Studio Code
 * [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient): REST Client Extension for Visual Studio Code
@@ -5121,6 +5232,7 @@
 * [lmxdawn/vue-admin-java](https://github.com/lmxdawn/vue-admin-java): spring boot + mybatis + vue + element-ui 实现后台管理API接口 https://lmxdawn.github.io/vue-admin-java
 * [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template): a vue2.0 minimal admin template 
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+* [janniks/vue-notion](https://github.com/janniks/vue-notion): A fast Vue renderer for Notion pages
 * [soroushchehresa/vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud): 🎧 A simple SoundCloud client built with Vue and Nuxt
 * [savokiss/vue-videojs-demo](https://github.com/savokiss/vue-videojs-demo): Use video.js & vue to play RTMP && HLS streams && playback
 * [alterhu2020/vue-videojs7](https://github.com/alterhu2020/vue-videojs7): A vue hls video player plugin using video.js 7
@@ -5152,6 +5264,7 @@
 * [h2oai/wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python and R
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
 * [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist): Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
+* [wabarc/wayback](https://github.com/wabarc/wayback): A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
