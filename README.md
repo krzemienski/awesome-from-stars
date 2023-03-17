@@ -3089,7 +3089,7 @@
 * [joshlk/many_requests](https://github.com/joshlk/many_requests): Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
 * [JohnSundell/Marathon](https://github.com/JohnSundell/Marathon): [DEPRECATED] Marathon makes it easy to write, run and manage your Swift scripts 🏃
 * [LinusU/Marionette](https://github.com/LinusU/Marionette): 🧸 Swift library which provides a high-level API to control a WKWebView
-* [markboard-io/markboard](https://github.com/markboard-io/markboard): Interact with GPT-4 using images, sketches, in addition to text.
+* [markboard-io/markboard](https://github.com/markboard-io/markboard): Wysiwyg markdown whiteboard for note-taking and building team knowledge base.
 * [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv): a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 * [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt): Like gofmt, but for Markdown.
 * [bmoliveira/MarkdownKit](https://github.com/bmoliveira/MarkdownKit): A simple and customizable Markdown Parser for Swift
