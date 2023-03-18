@@ -482,7 +482,7 @@
 * [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * [dungahk/awesome-cdk8s](https://github.com/dungahk/awesome-cdk8s): None
 * [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
-* [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): Transform your dev game with :cloud: Awesome Chalice - the ultimate Python framework for serverless apps. Join our community & skyrocket your skills!
+* [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): Elevate your Python serverless app development game with AWS Chalice - the ultimate framework for building and managing HTTPS APIs, creating web apps with popular front-end toolkits, serving as the backend for cross-platform desktop and mobile apps written in Qt for Python, and more. Join our community and skyrocket your skills today!
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
@@ -4171,6 +4171,7 @@
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
 * [meienberger/runtipi](https://github.com/meienberger/runtipi): Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+* [meienberger/runtipi-appstore](https://github.com/meienberger/runtipi-appstore): Official repository hosting the Runtipi App Store. Submit apps and updates here. 
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust):  All Algorithms implemented in Rust 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 * [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
