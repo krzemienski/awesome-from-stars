@@ -1402,6 +1402,7 @@
 * [Eyevinn/docker-2dash](https://github.com/Eyevinn/docker-2dash): A Docker container to pre-package MPEG DASH on demand content
 * [puckel/docker-airflow](https://github.com/puckel/docker-airflow): Docker Apache Airflow
 * [delfer/docker-alpine-ftp-server](https://github.com/delfer/docker-alpine-ftp-server): Small and flexible docker image with vsftpd server
+* [imagegenius/docker-amp](https://github.com/imagegenius/docker-amp): CubeCoders AMP in a minimal docker container
 * [l-t-k/docker-autosub](https://github.com/l-t-k/docker-autosub): Autosub docker based on lsiobase/alpine.python
 * [futurevision/docker-aws-s3-sync](https://github.com/futurevision/docker-aws-s3-sync): Docker container to sync a folder to Amazon S3
 * [istepanov/docker-backup-to-s3](https://github.com/istepanov/docker-backup-to-s3): Docker container that periodically backups files to Amazon S3 using s3cmd and cron
