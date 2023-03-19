@@ -3996,7 +3996,7 @@
 * [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2): A Bidirectional Cloud Sync Utility using rclone
 * [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup): Reverse differential backup tool, over a network or locally.
 * [asynchrony/Re-Lax](https://github.com/asynchrony/Re-Lax): Recreating Parallax on tvOS
-* [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces
 * [kkarimi/react-docker-kit](https://github.com/kkarimi/react-docker-kit): Example of using React and SocketIO with Flask and Celery workers in Docker containers
 * [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player): React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 * [foxford/react-hls](https://github.com/foxford/react-hls): React component for HLS player
