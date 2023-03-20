@@ -142,6 +142,7 @@
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 4
 * [basil79/ads-manager](https://github.com/basil79/ads-manager): HTML5 Video Ads Manager based on @dailymotion/vast-client
 * [timdonnelly/Advance](https://github.com/timdonnelly/Advance): Physics-based animations for iOS, tvOS, and macOS.
+* [AgoraIO/Advanced-Interactive-Broadcasting](https://github.com/AgoraIO/Advanced-Interactive-Broadcasting): None
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [Jazqa/adwaita-tweaks](https://github.com/Jazqa/adwaita-tweaks): A compact GTK theme based on Adwaita
 * [Eyevinn/adxchange-engine](https://github.com/Eyevinn/adxchange-engine): Eyevinn Adxchange Engine is a microservice placed between the server-side ad-insertion component and the adserver or SSP
@@ -376,6 +377,7 @@
 * [chrome/atvproxy](https://github.com/chrome/atvproxy): AppleTV content proxy
 * [jacmet/atvtool](https://github.com/jacmet/atvtool): AppleTV utility program
 * [audacity/audacity](https://github.com/audacity/audacity): Audio Editor                                     
+* [mikeroyal/Audio-and-Video-Editing-Guide](https://github.com/mikeroyal/Audio-and-Video-Editing-Guide): Audio and Video Editing Guide
 * [stewartadam/audio-convert-mod](https://github.com/stewartadam/audio-convert-mod): A easy to use audio converter supporting a large range of audio formats
 * [bbc/audio-offset-finder](https://github.com/bbc/audio-offset-finder): Find the offset of an audio file within another audio file
 * [okorach/audio-video-tools](https://github.com/okorach/audio-video-tools): Python based batch tools to transcode audio and video conveniently (leverages FFMpeg)
@@ -1809,6 +1811,7 @@
 * [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter): GUI File Format Converter
 * [FraMecca/ffbench](https://github.com/FraMecca/ffbench): test different ffmpeg trascoding settings
 * [ColorlabMD/FFCommand_Engine](https://github.com/ColorlabMD/FFCommand_Engine): Create and execute FFmpeg commands
+* [tnfe/FFCreator](https://github.com/tnfe/FFCreator): 一个基于node.js的高速视频制作库  A fast video processing library based on node.js
 * [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic): Library with dynamic audio/video composition and runtime control
 * [xiewei-wayne/FFEngine.framework](https://github.com/xiewei-wayne/FFEngine.framework): FFEngine framework is a high performance player sdk for iOS based on ffmpeg.
 * [just-work/fffw](https://github.com/just-work/fffw): ffmpeg command line tool wrapper
@@ -1982,6 +1985,7 @@
 * [e-dard/flask-s3](https://github.com/e-dard/flask-s3): Seamlessly serve your static assets of your Flask app from Amazon S3
 * [ksindi/flask-sqlacodegen](https://github.com/ksindi/flask-sqlacodegen): :sake: Automatic model code generator for SQLAlchemy with Flask support
 * [getsling/flask-swagger](https://github.com/getsling/flask-swagger): A swagger 2.0 spec extractor for flask
+* [ramonus/flask-video-stream](https://github.com/ramonus/flask-video-stream): Simple webcam video streaming python3 script using Flask.
 * [testdrivenio/flask-vue-kubernetes](https://github.com/testdrivenio/flask-vue-kubernetes):  Flask + Vue + Postgres + Docker + Kubernetes
 * [honestbee/flask_app_k8s](https://github.com/honestbee/flask_app_k8s): Sample flask app for kubernetes
 * [stefanondisponibile/flask_celery](https://github.com/stefanondisponibile/flask_celery): Flask with Celery.
@@ -2287,6 +2291,7 @@
 * [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools): Tools for monitoring NVIDIA GPUs on Linux 
 * [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial): None
 * [BradLarson/GPUImage3](https://github.com/BradLarson/GPUImage3): GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
+* [MasayukiSuda/GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android): This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
 * [kevguy/GracenoteSDKSample](https://github.com/kevguy/GracenoteSDKSample): Sample app of GNSDK built with Android Studio
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 * [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator): Generate Grafana dashboards from configuration
@@ -2374,6 +2379,7 @@
 * [MarcAntoine-Arnaud/HEVC](https://github.com/MarcAntoine-Arnaud/HEVC): HEVC reference encoder and decoder
 * [XimingCheng/HEVCAnalyzer](https://github.com/XimingCheng/HEVCAnalyzer): HEVC H.265 stream GUI Analyzer based on wxWidgets
 * [jpetrich/HEVCDemo](https://github.com/jpetrich/HEVCDemo): Small repo to show the file size issues with the new HEVC encoder on iOS 11
+* [virinext/hevcesbrowser](https://github.com/virinext/hevcesbrowser): HEVCESBrowser is a tool for analyzing hevc(h265) bitstreams
 * [sitkevij/hex](https://github.com/sitkevij/hex): 🔮 Futuristic take on hexdump, made in Rust. 
 * [HamzaGhazouani/HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders): Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project
 * [Ptr-srix4k/HID-Cloner](https://github.com/Ptr-srix4k/HID-Cloner): Program to clone 26 bit HID card
@@ -2660,6 +2666,7 @@
 * [pbs/its](https://github.com/pbs/its): image transformation service
 * [svhawks/itunes-sales-client](https://github.com/svhawks/itunes-sales-client): Fastlane sales and analytics client
 * [trulyronak/itunesconnect](https://github.com/trulyronak/itunesconnect): A Mac OS X App That Lets You Access iTunes Connect
+* [nicholaskajoh/ivy](https://github.com/nicholaskajoh/ivy): Video-based object counting software.
 * [kokorin/Jaffree](https://github.com/kokorin/Jaffree): ______ Stop the War in Ukraine!  _______ Java ffmpeg and ffprobe command-line wrapper
 * [james-proxy/james](https://github.com/james-proxy/james): Web Debugging Proxy Application
 * [mpolden/jarvis2](https://github.com/mpolden/jarvis2): Awesome dashboard built with Flask and Mithril
@@ -3017,6 +3024,7 @@
 * [waylybaye/LoveBundle](https://github.com/waylybaye/LoveBundle): None
 * [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform): 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 * [livepeer/lpms](https://github.com/livepeer/lpms): Livepeer media server
+* [iamgmujtaba/LTC-SUM](https://github.com/iamgmujtaba/LTC-SUM): Implementation of  LTC-SUM: Lightweight Client-driven Personalized Video Summarization Framework Using 2D CNN
 * [openwrt/luci](https://github.com/openwrt/luci): LuCI - OpenWrt Configuration Interface
 * [spotify/luigi](https://github.com/spotify/luigi): Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
 * [craigcabrey/luminance](https://github.com/craigcabrey/luminance): A Philips Hue client for Linux written in Python and GTK+.
@@ -3039,6 +3047,7 @@
 * [marceloboeira/m3u8.cr](https://github.com/marceloboeira/m3u8.cr): Generate and parse m3u8 playlists for HLS
 * [huzhenjie/m3u8_downloader](https://github.com/huzhenjie/m3u8_downloader): 基于Python的m3u8下载器
 * [wwwtete/M3u8CacheProxy](https://github.com/wwwtete/M3u8CacheProxy): 一套缓存m3u8视频的lib，第一次播放时将视频切片缓存到本地，第二次播放时直接读取缓存过的切片不需要再次下载！
+* [qq494257084/m3u8Download](https://github.com/qq494257084/m3u8Download): java下载m3u8视频，解密并合并ts  java download m3u8 video,decrypt & merge ts slice
 * [kedpter/M3u8Downloader](https://github.com/kedpter/M3u8Downloader): Python downloader for HTTP Live Streaming (HLS)
 * [M3U8Kit/M3U8Parser](https://github.com/M3U8Kit/M3U8Parser): A light weight M3U8 parser. Support X-Key & X-Session-Key.
 * [Axel-Erfurt/m3uBrowserPlayer](https://github.com/Axel-Erfurt/m3uBrowserPlayer): play m3u TV-Playlist in browser
@@ -3239,6 +3248,7 @@
 * [huhani/mp3-to-hls](https://github.com/huhani/mp3-to-hls): Convert mp3 file to hls streaming specifications.
 * [njh/mp3-to-hls](https://github.com/njh/mp3-to-hls): Ruby script to convert an MP3 file into an HLS stream
 * [alfg/mp4](https://github.com/alfg/mp4): :movie_camera: Basic MP4 reader in Go! CLI + Golang Package for ISO/IEC 14496-12 - ISO Base Media File Format
+* [myersTechnologies/MP4-Extractor](https://github.com/myersTechnologies/MP4-Extractor): Extract videos
 * [alfg/mp4-rust](https://github.com/alfg/mp4-rust): :movie_camera: MP4 reader and writer library in Rust! 🦀
 * [stultus/mp4-to-mpegdash-py](https://github.com/stultus/mp4-to-mpegdash-py): Python Script to convert a MP4 file into onDemand MPEG-DASH
 * [essential61/mp4analyser](https://github.com/essential61/mp4analyser): mp4 file analyser written in Python
@@ -3612,6 +3622,7 @@
 * [OpenHEVC/openHEVC](https://github.com/OpenHEVC/openHEVC): HEVC decoder
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9): Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+* [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
 * [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 * [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 * [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB): Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
@@ -3691,6 +3702,7 @@
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [mxcl/Path.swift](https://github.com/mxcl/Path.swift): Delightful, robust, cross-platform and chainable file-pathing functions.
 * [piemonte/PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer): ▶️ video player, simple way to play and stream media on iOS/tvOS
+* [piemonte/PBJVision](https://github.com/piemonte/PBJVision): 📸 iOS Media Capture – features touch-to-record video, slow motion, and photography
 * [johnlinp/pdf-to-markdown](https://github.com/johnlinp/pdf-to-markdown): Convert PDF files into markdown files
 * [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown): A PDF to Markdown converter
 * [metachris/pdfx](https://github.com/metachris/pdfx): Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
@@ -4518,9 +4530,11 @@
 * [Edward-Wu/srt-live-server](https://github.com/Edward-Wu/srt-live-server): srt live server for low latency 
 * [Eyevinn/srt-metadata-extractor](https://github.com/Eyevinn/srt-metadata-extractor): None
 * [mbugeia/srt2hls](https://github.com/mbugeia/srt2hls):  Simple audio HLS streaming server based on Liquidsoap
+* [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid): Secure Reliable Transport (SRT) Protocol for Android
 * [Haivision/srtgo](https://github.com/Haivision/srtgo): Go bindings for SRT. Advantages of SRT technology for an easy to use programming language
 * [pums974/srtsync](https://github.com/pums974/srtsync): Automatic synchronizer of subtitles based on voice activity in the video
 * [orvice/ss-panel](https://github.com/orvice/ss-panel): rm
+* [SimformSolutionsPvtLtd/SSffmpegVideoOperation](https://github.com/SimformSolutionsPvtLtd/SSffmpegVideoOperation): This is a library of FFmpeg for android... 📸  🎞  🚑 
 * [coder/sshcode](https://github.com/coder/sshcode): Run VS Code on any server over SSH.
 * [oguzhaninan/sshcon](https://github.com/oguzhaninan/sshcon): Quick and simple SSH config management tool
 * [moul/sshportal](https://github.com/moul/sshportal): :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -5131,6 +5145,7 @@
 * [bgrins/videoconverter.js](https://github.com/bgrins/videoconverter.js): [UNMAINTAINED] Convert videos in your browser
 * [apm1467/videocr](https://github.com/apm1467/videocr): Extract hardcoded subtitles from videos using machine learning
 * [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader): A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
+* [videoflow/videoflow](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 * [antiboredom/videogrep](https://github.com/antiboredom/videogrep): automatic video supercuts with python
 * [videogular/videogular](https://github.com/videogular/videogular): The HTML5 video player for AngularJS
 * [MetalPetal/VideoIO](https://github.com/MetalPetal/VideoIO): Video Input/Output Utilities
@@ -5144,12 +5159,14 @@
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
 * [chrisboustead/videojs-vtt-thumbnails](https://github.com/chrisboustead/videojs-vtt-thumbnails): Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.
+* [ruanjx/VideoLab](https://github.com/ruanjx/VideoLab): High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [videomorph-dev/videomorph](https://github.com/videomorph-dev/videomorph): A user-friendly Video Converter based on FFMPEG and written in Python/PyQt5.
 * [rsereda/VideoMultibitrateConverter](https://github.com/rsereda/VideoMultibitrateConverter): Python handler for ffmpeg tool for create mp4 and HLS with AES128 encryption multibitrate stream file
 * [ustwo/videoplayback-ios](https://github.com/ustwo/videoplayback-ios): Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress 
 * [wxxsw/VideoPlayer](https://github.com/wxxsw/VideoPlayer): 📽 A video player for SwiftUI, support for caching, preload and custom control view. SwiftUI 视频播放器，支持边下边播、预加载、自定义控制层
 * [rokudev/videoplayer-channel](https://github.com/rokudev/videoplayer-channel): SceneGraph version of the SDK1 VideoPlayer Channel 
+* [danylovolokh/VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager): This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it.
 * [NVIDIA/VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework): Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions
 * [kevin-corcoran-dev/VideoQuality_PoC](https://github.com/kevin-corcoran-dev/VideoQuality_PoC): None
 * [svhawks/VideoThumbnailViewKit](https://github.com/svhawks/VideoThumbnailViewKit): Video Thumb ScrollView
@@ -5161,6 +5178,7 @@
 * [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear): A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 * [munagekar/vidsleuth](https://github.com/munagekar/vidsleuth): Video Sleuth is a powerful python based video analysis tool under development.  It includes wrappers around ffmpeg and vmaf. Comes with utilities for benchmarking.
 * [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator): ViewAnimator brings your UI to life with just one line
+* [OlivierLeBozec/viewts](https://github.com/OlivierLeBozec/viewts): Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
 * [soroushchehresa/VIF](https://github.com/soroushchehresa/VIF): 💨 A desktop application to convert videos to high-quality GIF built with Electron and React
 * [vitoziv/VIMediaCache](https://github.com/vitoziv/VIMediaCache): Cache media file while play media using AVPlayer
 * [EONRaider/violent-python3](https://github.com/EONRaider/violent-python3): Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.

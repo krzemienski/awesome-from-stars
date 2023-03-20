@@ -137,6 +137,9 @@
     "AgentOak/docker-livestreaming": [
         "Other"
     ],
+    "AgoraIO/Advanced-Interactive-Broadcasting": [
+        "Other"
+    ],
     "Ahmed-Ali/JSONExport": [
         "Other"
     ],
@@ -1961,6 +1964,9 @@
     "Martchus/tageditor": [
         "Other"
     ],
+    "MasayukiSuda/GPUVideo-android": [
+        "Other"
+    ],
     "MasayukiSuda/Mp4Composer-android": [
         "Other"
     ],
@@ -2247,6 +2253,9 @@
         "Other"
     ],
     "OT-CONTAINER-KIT/redis-operator": [
+        "Other"
+    ],
+    "OlivierLeBozec/viewts": [
         "Other"
     ],
     "OmniDB/OmniDB": [
@@ -2744,6 +2753,9 @@
     "SicAlpha/docker-beets": [
         "Other"
     ],
+    "SimformSolutionsPvtLtd/SSffmpegVideoOperation": [
+        "Other"
+    ],
     "SimonHaas/homeserver": [
         "Other"
     ],
@@ -2988,6 +3000,9 @@
         "Other"
     ],
     "ThibaultBee/StreamPack": [
+        "Other"
+    ],
+    "ThibaultBee/srtdroid": [
         "Other"
     ],
     "ThoughtWorksStudios/eb_deployer": [
@@ -5825,6 +5840,9 @@
     "dankogai/swift-sion": [
         "Other"
     ],
+    "danylovolokh/VideoPlayerManager": [
+        "Other"
+    ],
     "dapr/dapr": [
         "Other"
     ],
@@ -8130,6 +8148,9 @@
         "Other"
     ],
     "iamdaiyuan/ios_top_1000": [
+        "Other"
+    ],
+    "iamgmujtaba/LTC-SUM": [
         "Other"
     ],
     "ianyh/Amethyst": [
@@ -10709,6 +10730,9 @@
     "mikeash/iphone-user-performance-tests": [
         "Other"
     ],
+    "mikeroyal/Audio-and-Video-Editing-Guide": [
+        "Other"
+    ],
     "mikeroyal/Perfect-Ubuntu-Guide": [
         "Other"
     ],
@@ -11042,6 +11066,9 @@
     "mxcl/swift-sh": [
         "Other"
     ],
+    "myersTechnologies/MP4-Extractor": [
+        "Other"
+    ],
     "myles/awesome-static-generators": [
         "Other"
     ],
@@ -11220,6 +11247,9 @@
         "Other"
     ],
     "niceit/tabby-cloud-sync-settings": [
+        "Other"
+    ],
+    "nicholaskajoh/ivy": [
         "Other"
     ],
     "nickdesaulniers/combine-mpd": [
@@ -11621,6 +11651,9 @@
     "openHPI/nginx-hls-analyzer": [
         "Other"
     ],
+    "openMEDIADESK/openMEDIADESK": [
+        "Other"
+    ],
     "openSUSE/open-build-service": [
         "Other"
     ],
@@ -12014,6 +12047,9 @@
     "piemonte/PBJVideoPlayer": [
         "Other"
     ],
+    "piemonte/PBJVision": [
+        "Other"
+    ],
     "piemonte/Player": [
         "Other"
     ],
@@ -12380,6 +12416,9 @@
     "qmlbook/qmlbook": [
         "Other"
     ],
+    "qq494257084/m3u8Download": [
+        "Other"
+    ],
     "qt-creator/qt-creator": [
         "Other"
     ],
@@ -12501,6 +12540,9 @@
         "Other"
     ],
     "ramnes/notion-sdk-py": [
+        "Other"
+    ],
+    "ramonus/flask-video-stream": [
         "Other"
     ],
     "rancher-sandbox/rancher-desktop": [
@@ -12882,6 +12924,9 @@
         "Other"
     ],
     "rtlewis1/GTK": [
+        "Other"
+    ],
+    "ruanjx/VideoLab": [
         "Other"
     ],
     "ruanyf/free-books": [
@@ -14504,6 +14549,9 @@
     "tmspzz/Rome": [
         "Other"
     ],
+    "tnfe/FFCreator": [
+        "Other"
+    ],
     "toeverything/AFFiNE": [
         "Other"
     ],
@@ -15032,6 +15080,9 @@
     "video-dev/vtt.js": [
         "Other"
     ],
+    "videoflow/videoflow": [
+        "Other"
+    ],
     "videogular/videogular": [
         "Other"
     ],
@@ -15126,6 +15177,9 @@
         "Other"
     ],
     "virgili0/Virgilio": [
+        "Other"
+    ],
+    "virinext/hevcesbrowser": [
         "Other"
     ],
     "vishnubob/wait-for-it": [
