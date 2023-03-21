@@ -46,7 +46,7 @@
 
 # Docker
 
-* [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for Java (openJDK)
+* [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for EA builds of OpenJDK from Oracle
 
 # Font
 
@@ -972,6 +972,7 @@
 * [Eyevinn/channel-engine-client-tvos](https://github.com/Eyevinn/channel-engine-client-tvos): None
 * [Eyevinn/channel-engine-multiview](https://github.com/Eyevinn/channel-engine-multiview): A multiview frontend for Eyevinn Channel Engine
 * [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade): An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
+* [NiciDieNase/chaosflix](https://github.com/NiciDieNase/chaosflix): AndroidTV/Fire TV client for media.ccc.de
 * [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts): My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
 * [IBM/charts](https://github.com/IBM/charts): The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [danielgindi/Charts](https://github.com/danielgindi/Charts): Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
@@ -1949,6 +1950,7 @@
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk): Firebase SDK for Apple App Development
+* [Debjoy/FireCast](https://github.com/Debjoy/FireCast): A video and image casting android app specially made for FireTV casting using Flutter.
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
 * [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios): Firefox for iOS
 * [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare): Self host your media and share with unique links
@@ -1956,8 +1958,11 @@
 * [patrickclery/firetv](https://github.com/patrickclery/firetv): Tools for Amazon Fire TV
 * [joelpalmer/firetv-controller](https://github.com/joelpalmer/firetv-controller): Control any Fire TV or any Android device on your network via ADB
 * [blank-blank/firetv-pipeline](https://github.com/blank-blank/firetv-pipeline): A pipeline to deliver a Firetv app via jenkins.
+* [ZaneH/firetv-remote](https://github.com/ZaneH/firetv-remote): A web app that can control your Amazon FireTV (Stick). Just startup Node, fill in your device's IP address and use your web browser as a remote. (Enable ADB debugging)
 * [amzn/firetv-sample-touch-app](https://github.com/amzn/firetv-sample-touch-app): This sample Android project demonstrates how to build the main UI of a Fire TV application in order to support both Touch interactions and Remote D-Pad controls.
+* [AnthonyGress/FireTV-Toolkit](https://github.com/AnthonyGress/FireTV-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. FireTV-Toolkit is a GUI for adb and can be used to modify android devices such as firesticks.
 * [rhcp011235/firetv_bootloader_unlock](https://github.com/rhcp011235/firetv_bootloader_unlock): Opensource Amazon FireTv Bootloader Unlock Tool
+* [crelies/FireTVKit](https://github.com/crelies/FireTVKit): Discovering your FireTV and controlling the built-in media player is now easy and reactive
 * [system76/firmware-open](https://github.com/system76/firmware-open): System76 Open Firmware
 * [hanton/Fisheye](https://github.com/hanton/Fisheye): Open Source iOS 360 Degree Panorama Video Player. (HTY360Player is renamed to Fisheye)
 * [jasontbradshaw/flac2mp3](https://github.com/jasontbradshaw/flac2mp3): A multithreaded Python script for converting flac files to mp3 files on Linux and OS X.
@@ -2062,6 +2067,7 @@
 * [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS
 * [Manisso/fsociety](https://github.com/Manisso/fsociety): fsociety Hacking Tools Pack – A Penetration Testing Framework
 * [Eyevinn/ftpdownload](https://github.com/Eyevinn/ftpdownload): Python FTP download client - more stable than FTP.retrbinary
+* [codefaktor/FTVLaunchX](https://github.com/codefaktor/FTVLaunchX): Simple helper application to allow custom launchers on Amazon Fire TV devices.
 * [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql): Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 * [the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate](https://github.com/the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate): 💥 A sophisticated GraphQL with Apollo, Express and PostgreSQL boilerplate project.
 * [Eyevinn/function-probe](https://github.com/Eyevinn/function-probe): Serverless Media Function to obtain Media Info of a video file or video stream
@@ -2903,6 +2909,7 @@
 * [nicklockwood/layout](https://github.com/nicklockwood/layout): A declarative UI framework for iOS
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
+* [linimin/lbry-androidtv](https://github.com/linimin/lbry-androidtv): LBRY app for Android/Fire TV
 * [leedowthwaite/LDOverlayMessage](https://github.com/leedowthwaite/LDOverlayMessage): A native tvOS message overlay, for transient, popup messages.
 * [Lax/Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples): 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
 * [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio): ⛵️ Istio resources 🕸
