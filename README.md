@@ -1374,6 +1374,7 @@
 * [patademahesh/Distributed-Video-Transcoding](https://github.com/patademahesh/Distributed-Video-Transcoding): Distributed Video Transcoding
 * [chn-lee-yumi/distributed_ffmpeg_transcoding_cluster](https://github.com/chn-lee-yumi/distributed_ffmpeg_transcoding_cluster): 分布式FFMpeg转码集群。A FFMpeg transcoding cluster runs in variable CPUs, including ARM, x86, and others which can run linux. You can use it to run a RaspberryPi cluster.
 * [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
+* [django/django](https://github.com/django/django): The Web framework for perfectionists with deadlines.
 * [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface): :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 * [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools): Extends the Django Admin to include a extensible dashboard and navigation menu
 * [zostera/django-bootstrap4](https://github.com/zostera/django-bootstrap4): Bootstrap 4 integration with Django.
@@ -1436,6 +1437,7 @@
 * [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab): Dockerized GitLab
 * [dragoncube/docker-google-domains-ddns](https://github.com/dragoncube/docker-google-domains-ddns): Docker container for No-IP DNS updater
 * [restreamio/docker-gstreamer](https://github.com/restreamio/docker-gstreamer): Ubuntu-based container images with upstream GStreamer pre-installed
+* [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake): Docker container for HandBrake
 * [Eyevinn/docker-hevc](https://github.com/Eyevinn/docker-hevc): Docker container to create HEVC streaming packages
 * [oznu/docker-homebridge](https://github.com/oznu/docker-homebridge): Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac. 
 * [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab): Docker Compose Dateien für Homelabs
@@ -5113,6 +5115,7 @@
 * [michaelcunningham19/video-speech-recognition](https://github.com/michaelcunningham19/video-speech-recognition): Auto-generated video subtitles for the web using machine learning
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
 * [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger): Merge multiple video MediaStreams into one composite.
+* [daspinola/video-stream-sample](https://github.com/daspinola/video-stream-sample): Node.js HTML5 streaming sample
 * [Ragib01/video-streaming](https://github.com/Ragib01/video-streaming): Streaming Live Video and Storing Videos with NGINX
 * [yigiterinc/video-streaming-over-http](https://github.com/yigiterinc/video-streaming-over-http): Video streaming from Webcam with HLS, FFMPEG, NGINX and RTMP
 * [tabvn/video-streaming-service](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
@@ -5289,7 +5292,7 @@
 * [h2oai/wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python and R
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
 * [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist): Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
-* [wabarc/wayback](https://github.com/wabarc/wayback): A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
+* [wabarc/wayback](https://github.com/wabarc/wayback): A self-hosted archiving service integrated with Internet Archive, archive.today, IPFS and beyond.
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.

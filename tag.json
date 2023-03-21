@@ -5873,6 +5873,9 @@
     "daskeyboard/daskeyboard.io": [
         "Other"
     ],
+    "daspinola/video-stream-sample": [
+        "Other"
+    ],
     "dasri7842/tiktok-clone": [
         "Other"
     ],
@@ -6240,6 +6243,9 @@
         "Other"
     ],
     "django-json-api/django-rest-framework-json-api": [
+        "Other"
+    ],
+    "django/django": [
         "Other"
     ],
     "djrobstep/sqlakeyset": [
@@ -8751,6 +8757,9 @@
         "Other"
     ],
     "jlarriba/astounding": [
+        "Other"
+    ],
+    "jlesage/docker-handbrake": [
         "Other"
     ],
     "jlevy/the-art-of-command-line": [
