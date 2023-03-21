@@ -1858,6 +1858,7 @@
 * [BradHeff/ffmpeg-GUI](https://github.com/BradHeff/ffmpeg-GUI): ffmpeg python Gtk GUI 
 * [svpv/ffmpeg-hls](https://github.com/svpv/ffmpeg-hls): None
 * [askrejans/ffmpeg-home-video-tools](https://github.com/askrejans/ffmpeg-home-video-tools): This is a small colection of useful shell scripts that utilize ffmpeg and assist in creating an order in the usual modern format zoo of the home video world.
+* [kewlbear/FFmpeg-iOS](https://github.com/kewlbear/FFmpeg-iOS): Swift package of FFmpeg libraries for iOS
 * [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script): Shell scripts to build FFmpeg for iOS and tvOS
 * [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit): FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 * [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial): FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
@@ -1871,6 +1872,7 @@
 * [SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder](https://github.com/SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder): bash script which will detect video new file in folder  and transcode it to adaprive bitrate
 * [xiguaxigua/ffmpeg-online](https://github.com/xiguaxigua/ffmpeg-online): An online version of ffmpeg built on ffmpeg.wasm
 * [VCDP/FFmpeg-patch](https://github.com/VCDP/FFmpeg-patch): This repository contains a collection of FFmpeg* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg* framework.
+* [czqasngit/ffmpeg-player](https://github.com/czqasngit/ffmpeg-player): A macOS player base on ffmpeg using OC and Swift.
 * [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python): Python bindings for FFmpeg - with complex filtering support
 * [zsiec/ffmpeg-quality](https://github.com/zsiec/ffmpeg-quality): A docker image that contains ffmpeg w/libvmaf
 * [slhck/ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics): Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF, VIF)
@@ -1879,6 +1881,7 @@
 * [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild): Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
 * [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static): Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 * [kevinGodell/ffmpeg-streamer](https://github.com/kevinGodell/ffmpeg-streamer): ffmpeg-streamer is a packaged nodejs express server that wraps ffmpeg to allow easy streaming of video feeds directly to modern browsers for testing purposes. It currently includes 6 different types of output streaming which are mjpeg, jpeg via socket.io, progressive mp4, native hls, hls.js, and mse via socket.io. Video input types supported are rtsp, mp4, mjpeg, and hls.
+* [oozoofrog/ffmpeg-swift-tutorial](https://github.com/oozoofrog/ffmpeg-swift-tutorial): ffmpeg tutorial for swift
 * [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc): Stream video from ffmpeg to web(rtc)
 * [mpenkov/ffmpeg-tutorial](https://github.com/mpenkov/ffmpeg-tutorial): A set of tutorials that demonstrates how to write a video player based on FFmpeg
 * [tottokotkd/ffmpeg-tutorial-with-swift](https://github.com/tottokotkd/ffmpeg-tutorial-with-swift): None
@@ -4654,6 +4657,7 @@
 * [apple/swift-driver](https://github.com/apple/swift-driver): Swift compiler driver reimplementation in Swift
 * [ptrandev/swift-encoder](https://github.com/ptrandev/swift-encoder): A fire-and-forget shell script that encodes multiple video and audio files with ffmpeg.
 * [apple/swift-evolution](https://github.com/apple/swift-evolution): This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+* [kartik-venugopal/swift-ffmpeg-transcode](https://github.com/kartik-venugopal/swift-ffmpeg-transcode): Experimental Swift app to transcode audio using FFmpeg
 * [xmartlabs/Swift-Framework-Template](https://github.com/xmartlabs/Swift-Framework-Template): Swift script to easily create Swift frameworks!
 * [google/swift-integration-tests](https://github.com/google/swift-integration-tests): Automated tests for validating the generated Swift snapshots behave correctly
 * [owensd/swift-langsrv](https://github.com/owensd/swift-langsrv): The language service implementation for VS Code.
@@ -5093,6 +5097,7 @@
 * [cheezos/video-compressor](https://github.com/cheezos/video-compressor): Compress videos to any file size.
 * [leandromoreira/video-containers-debugging-tools](https://github.com/leandromoreira/video-containers-debugging-tools): A set of command lines to debug video streaming files like mp4 (MPEG-4 Part 14), ts (MPEG-2 Part 1), fmp4 in Dash, HLS, or MSS, with or without DRM.
 * [caacuk/video-conversion-app](https://github.com/caacuk/video-conversion-app): Flask Web Application - Video Conversion
+* [dPro-Software/Video-converter](https://github.com/dPro-Software/Video-converter): A GUI for the ffmpeg library written in Swift
 * [IAmBlackHacker/Video-Downloader](https://github.com/IAmBlackHacker/Video-Downloader): This script for download videos from anywhere and live streaming on vlc player
 * [Unrud/video-downloader](https://github.com/Unrud/video-downloader): Download videos from websites like YouTube and many others (based on yt-dlp)
 * [shrimpgo/video-downloader](https://github.com/shrimpgo/video-downloader): Helper to download HLS videos

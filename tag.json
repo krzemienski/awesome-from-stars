@@ -5768,6 +5768,9 @@
     "czellerkonti/massento": [
         "Other"
     ],
+    "czqasngit/ffmpeg-player": [
+        "Other"
+    ],
     "d2-projects/d2-admin": [
         "Other"
     ],
@@ -5776,6 +5779,9 @@
     ],
     "d4nj1/TLPUI": [
         "Linux/Utility"
+    ],
+    "dPro-Software/Video-converter": [
+        "Other"
     ],
     "dabeaz-course/practical-python": [
         "Other"
@@ -9131,6 +9137,9 @@
     "karthikasasanka/fastapi-celery-redis-rabbitmq-k8s-specs": [
         "Other"
     ],
+    "kartik-venugopal/swift-ffmpeg-transcode": [
+        "Other"
+    ],
     "kasketis/netfox": [
         "Other"
     ],
@@ -9231,6 +9240,9 @@
         "Other"
     ],
     "kevinzhow/PNChart-Swift": [
+        "Other"
+    ],
+    "kewlbear/FFmpeg-iOS": [
         "Other"
     ],
     "kewlbear/FFmpeg-iOS-build-script": [
@@ -11643,6 +11655,9 @@
         "Other"
     ],
     "ooyala/iq-sdk-roku-sample": [
+        "Other"
+    ],
+    "oozoofrog/ffmpeg-swift-tutorial": [
         "Other"
     ],
     "open-guides/og-aws": [
