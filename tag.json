@@ -2465,6 +2465,9 @@
     "QMUI/LookinServer": [
         "Other"
     ],
+    "Qballjos/portainer_templates": [
+        "Other"
+    ],
     "Quick/Nimble": [
         "Other"
     ],
@@ -6888,6 +6891,9 @@
         "Other"
     ],
     "evertramos/basescript": [
+        "Other"
+    ],
+    "evertramos/docker-portainer-letsencrypt": [
         "Other"
     ],
     "evertramos/easy-server": [
@@ -12539,6 +12545,9 @@
     "radibit/jira-dark-theme": [
         "Other"
     ],
+    "rafrasenberg/docker-traefik-portainer": [
+        "Other"
+    ],
     "rahul0x24/SwiftFrameworkTemplate": [
         "Other"
     ],
@@ -14559,6 +14568,9 @@
         "Other"
     ],
     "tinyproxy/tinyproxy": [
+        "Other"
+    ],
+    "tiredofit/docker-traefik-cloudflare-companion": [
         "Other"
     ],
     "tiwilliam/istatd": [

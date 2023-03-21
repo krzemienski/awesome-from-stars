@@ -1465,6 +1465,7 @@
 * [ttyS0/docker-other-transcode](https://github.com/ttyS0/docker-other-transcode): None
 * [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole): Pi-hole in a docker container
 * [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex): None
+* [evertramos/docker-portainer-letsencrypt](https://github.com/evertramos/docker-portainer-letsencrypt): Portainer docker container over SSL Certificate using Let's Encrypt automated by our webproxy docker-compose-letsencrypt-nginx-proxy
 * [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
 * [Valian/docker-python-opencv-ffmpeg](https://github.com/Valian/docker-python-opencv-ffmpeg): Repository for clean Dockerfile containing ffmpeg, opencv3 and python2/3, based on Ubuntu
 * [bcardiff/docker-rclone](https://github.com/bcardiff/docker-rclone): Docker image to use rclone to run cron sync with monitoring
@@ -1482,6 +1483,8 @@
 * [Eyevinn/docker-toolbelt](https://github.com/Eyevinn/docker-toolbelt): A Docker container filled with pre-built versions of video streaming related tools
 * [Starttoaster/docker-traefik](https://github.com/Starttoaster/docker-traefik): Script to setup Traefik reverse-proxy in Docker with Compose
 * [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik): Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+* [tiredofit/docker-traefik-cloudflare-companion](https://github.com/tiredofit/docker-traefik-cloudflare-companion): Automatically Create CNAME records for containers served by Traefik
+* [rafrasenberg/docker-traefik-portainer](https://github.com/rafrasenberg/docker-traefik-portainer): Docker container management with Traefik v2 and Portainer.
 * [ttyS0/docker-transcode-vaapi](https://github.com/ttyS0/docker-transcode-vaapi): Docker container for Don Melton's other-transcode tool.
 * [akofman/docker-video-processing](https://github.com/akofman/docker-video-processing): A Docker image intended for video processing and analysing
 * [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav): Docker image for running an Apache WebDAV server
@@ -1939,7 +1942,7 @@
 * [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC): [ECCV 2020] Flow-edge Guided Video Completion 
 * [gofiber/fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go
 * [electron/fiddle](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
-* [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux): Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux and https://spectrum.chat/figma-linux
+* [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux): Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 * [zuruoke/figma-remove-watermark-plugin](https://github.com/zuruoke/figma-remove-watermark-plugin): Remove the watermarks of images automatically
 * [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser
 * [Augustyniak/FileExplorer](https://github.com/Augustyniak/FileExplorer): FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories
@@ -3814,6 +3817,7 @@
 * [pop-os/popsicle](https://github.com/pop-os/popsicle): Multiple USB File Flasher
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [portainer/portainer-compose](https://github.com/portainer/portainer-compose): Compose setup for Portainer 
+* [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates): Template file for new portainer setup
 * [Soneji/portfolio](https://github.com/Soneji/portfolio): My Personal Portfolio built with NextJS and GitHub's GraphQL API. Uses SSR to always ensure repo stars and description are always up to date. Uses Notion as a CMS for the blog section. 
 * [scrapinghub/portia](https://github.com/scrapinghub/portia): Visual scraping for Scrapy
 * [apideck-libraries/portman](https://github.com/apideck-libraries/portman): Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
