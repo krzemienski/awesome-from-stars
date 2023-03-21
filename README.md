@@ -484,7 +484,7 @@
 * [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * [dungahk/awesome-cdk8s](https://github.com/dungahk/awesome-cdk8s): None
 * [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
-* [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): Elevate your Python serverless app development game with AWS Chalice - the ultimate framework for building and managing HTTPS APIs, creating web apps with popular front-end toolkits, serving as the backend for cross-platform desktop and mobile apps written in Qt for Python, and more. Join our community and skyrocket your skills today!
+* [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): Discover the power of AWS Chalice, the ultimate framework for crafting seamless Python serverless applications. With Chalice, you can effortlessly build and manage HTTPS APIs, create web apps using popular front-end toolkits, and serve as the backend for cross-platform desktop and mobile apps developed with Qt for Python. 
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
@@ -3815,9 +3815,13 @@
 * [facebookarchive/pop](https://github.com/facebookarchive/pop): An extensible iOS and OS X animation library, useful for physics-based interactions.
 * [pop-os/pop](https://github.com/pop-os/pop): A project for managing all Pop!_OS sources
 * [pop-os/popsicle](https://github.com/pop-os/popsicle): Multiple USB File Flasher
+* [ntv-one/portainer](https://github.com/ntv-one/portainer): Templates for Portainer
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [portainer/portainer-compose](https://github.com/portainer/portainer-compose): Compose setup for Portainer 
+* [TheLustriVA/portainer-templates-Nov-2022-collection](https://github.com/TheLustriVA/portainer-templates-Nov-2022-collection): A collection of 488 templates for Portainer v2.0 sourced from various repositories
 * [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates): Template file for new portainer setup
+* [mycroftwilde/portainer_templates](https://github.com/mycroftwilde/portainer_templates): Portainer Version 2 Template and Self-Hosting Cookbook. A Series of Tools, Tutorials/Instructions, and Links to help you create your very own Self-Hosting System and Lab Sandbox!
+* [xneo1/portainer_templates](https://github.com/xneo1/portainer_templates): Template file for new portainer setup [Portainer-CE]
 * [Soneji/portfolio](https://github.com/Soneji/portfolio): My Personal Portfolio built with NextJS and GitHub's GraphQL API. Uses SSR to always ensure repo stars and description are always up to date. Uses Notion as a CMS for the blog section. 
 * [scrapinghub/portia](https://github.com/scrapinghub/portia): Visual scraping for Scrapy
 * [apideck-libraries/portman](https://github.com/apideck-libraries/portman): Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
@@ -4313,6 +4317,7 @@
 * [gabek/SegmentIO-Brightscript](https://github.com/gabek/SegmentIO-Brightscript): A BrightScript interface to SegmentIO event tracking
 * [teejee2008/selene](https://github.com/teejee2008/selene): Advanced audio-video converter for Linux with support for modern audio and video formats like HEVC, OPUS, WEBM, etc. Can be used in scripted mode, or by running the GTK frontend.
 * [zntfdr/Selenops](https://github.com/zntfdr/Selenops): A Swift Web Crawler 🕷
+* [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates): Portainer templates for selfhosted services
 * [selinon/selinon](https://github.com/selinon/selinon):  An advanced distributed task flow management on top of Celery 
 * [Shopify/semian](https://github.com/Shopify/semian): :monkey: Resiliency toolkit for Ruby for failing fast
 * [rkoshak/sensorReporter](https://github.com/rkoshak/sensorReporter): A python based service that receives sensor inputs and publishes them over REST (should work with any API but mainly tested with openHAB) or MQTT. It can also receive commands and perform an action (e.g. set a GPIO pin to HIGH). It currently supports Bluetooth, GPIO on Raspberry Pi, Amazon Dash buttons, command line scripts, and Roku IP address discovery.
@@ -5403,6 +5408,7 @@
 * [xhlove/XstreamDL-CLI](https://github.com/xhlove/XstreamDL-CLI): 命令行版本的HLS/DASH流下载器，支持标准AES-128-CBC解密
 * [moshfeu/y2mp3](https://github.com/moshfeu/y2mp3): An Electron app to download youtube playlist
 * [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv): YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
+* [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht): A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 * [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server): Language Server for YAML Files
 * [lukasbach/yana](https://github.com/lukasbach/yana): Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
 * [Muqtxdir/yaru-remix](https://github.com/Muqtxdir/yaru-remix): My Novice approach for yaru-remix

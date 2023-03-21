@@ -2720,6 +2720,12 @@
     "Selenium-H/App-Grid-Tweaks": [
         "Other"
     ],
+    "SelfhostedPro/Yacht": [
+        "Other"
+    ],
+    "SelfhostedPro/selfhosted_templates": [
+        "Other"
+    ],
     "SergioBenitez/Rocket": [
         "Other"
     ],
@@ -3003,6 +3009,9 @@
         "Other"
     ],
     "TheJambo/awesome-testing": [
+        "Other"
+    ],
+    "TheLustriVA/portainer-templates-Nov-2022-collection": [
         "Other"
     ],
     "TheOpponent/mr-otcs": [
@@ -11114,6 +11123,9 @@
     "mxcl/swift-sh": [
         "Other"
     ],
+    "mycroftwilde/portainer_templates": [
+        "Other"
+    ],
     "myersTechnologies/MP4-Extractor": [
         "Other"
     ],
@@ -11490,6 +11502,9 @@
         "Other"
     ],
     "ntop/ntopng": [
+        "Other"
+    ],
+    "ntv-one/portainer": [
         "Other"
     ],
     "nubenetes/awesome-kubernetes": [
@@ -15783,6 +15798,9 @@
         "Other"
     ],
     "xmartlabs/Swift-Framework-Template": [
+        "Other"
+    ],
+    "xneo1/portainer_templates": [
         "Other"
     ],
     "xroche/httrack": [
