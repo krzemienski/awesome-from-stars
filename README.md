@@ -458,7 +458,7 @@
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide): The guide of awesome list about AI
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
-* [aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand): ⚡A curated list of awesome resources related to the Algorand Blockchain ⛓
+* [aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand): ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
 * [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries
