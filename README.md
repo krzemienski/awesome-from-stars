@@ -470,6 +470,7 @@
 * [archivy/awesome-archivy](https://github.com/archivy/awesome-archivy): List of awesome tools / plugins built around archivy
 * [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio): A curated list of awesome Python asyncio frameworks, libraries, software and resources
 * [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom): A curated list of delightful Atom packages and resources.
+* [DolbyIO/awesome-audio](https://github.com/DolbyIO/awesome-audio): A curated list of awesome audio technology resources for developers
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome): A curated list of awesome curated lists of many topics.
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome): :octocat: A a curated list of curated lists of awesome lists.
 * [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws): A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
