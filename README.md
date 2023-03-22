@@ -3975,7 +3975,7 @@
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 * [therecipe/qt](https://github.com/therecipe/qt): Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 * [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator): A cross-platform Qt IDE
-* [RealChuan/Qt-Ffmpeg](https://github.com/RealChuan/Qt-Ffmpeg): 基于Qt和Ffmpeg的音视频播放器。
+* [RealChuan/Qt-Ffmpeg](https://github.com/RealChuan/Qt-Ffmpeg): Qt bing ffmpeg
 * [wang-bin/QtAV](https://github.com/wang-bin/QtAV): A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
 * [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer): Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 * [bbc/qtff-parameter-editor](https://github.com/bbc/qtff-parameter-editor): QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics
