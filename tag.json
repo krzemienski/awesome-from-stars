@@ -110,6 +110,9 @@
     "ASCIIwwdc/asciiwwdc.com": [
         "Other"
     ],
+    "AUTOMATIC1111/stable-diffusion-webui": [
+        "Other"
+    ],
     "AaronFeng753/Waifu2x-Extension-GUI": [
         "Other"
     ],
@@ -159,6 +162,9 @@
         "Other"
     ],
     "Alamofire/Alamofire": [
+        "Other"
+    ],
+    "AlexEidt/Vidio": [
         "Other"
     ],
     "AlexKordic/HLSProxy": [
@@ -2864,6 +2870,9 @@
     "Steams/salmon-media-server": [
         "Other"
     ],
+    "Streampunk/beamcoder": [
+        "Other"
+    ],
     "StreisandEffect/streisand": [
         "Other"
     ],
@@ -5324,6 +5333,9 @@
     "cheezos/video-compressor": [
         "Other"
     ],
+    "chemag/h264nal": [
+        "Other"
+    ],
     "chentsulin/awesome-graphql": [
         "Other"
     ],
@@ -6045,6 +6057,9 @@
         "Other"
     ],
     "deezer/spleeter": [
+        "Other"
+    ],
+    "deforum-art/sd-webui-modelscope-text2video": [
         "Other"
     ],
     "dehatanes/super-useful-notion-cli": [
@@ -7113,6 +7128,9 @@
         "Other"
     ],
     "fatih-yavuz/my-links": [
+        "Other"
+    ],
+    "fauxpilot/fauxpilot": [
         "Other"
     ],
     "fbdesignpro/sweetviz": [
@@ -8547,6 +8565,9 @@
         "Other"
     ],
     "jaimevalero/managing-awesome-lists": [
+        "Other"
+    ],
+    "jaiobs/OptiVideoEditor-for-android": [
         "Other"
     ],
     "jakeboyles/roku-tv-electron-app": [

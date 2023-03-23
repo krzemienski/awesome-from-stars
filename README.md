@@ -792,6 +792,7 @@
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
 * [OSC/bc_k8s_jupyter](https://github.com/OSC/bc_k8s_jupyter): Run a batch connect Jupyter in a kuberentes cluster
 * [mjuhasz/BDSup2Sub](https://github.com/mjuhasz/BDSup2Sub): Blu-Ray/DVD subtitle editor
+* [Streampunk/beamcoder](https://github.com/Streampunk/beamcoder): Node.js native bindings to FFmpeg.
 * [bedrockio/bedrock-core](https://github.com/bedrockio/bedrock-core): Bedrock is a battle-tested template of micro services, components and patterns that tie together Kubernetes, Mongo, Node and React
 * [alibaba/BeeHive](https://github.com/alibaba/BeeHive): :honeybee: BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
 * [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio): Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -1807,6 +1808,7 @@
 * [SandyChapman/fastlane-plugin-jira_versions](https://github.com/SandyChapman/fastlane-plugin-jira_versions): A Fastlane plugin for managing JIRA releases / versions
 * [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center): 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 * [taisukeh/fastlane-plugin-xcode_test_reporter](https://github.com/taisukeh/fastlane-plugin-xcode_test_reporter): Fastlane plugin generates JUnit or HTML report from Xcode plist test report files using.
+* [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an open-source GitHub Copilot server
 * [janselv/fave-button](https://github.com/janselv/fave-button): FaveButton is an iOS cute animated like button written in Swift.
 * [Eyevinn/favorites-api](https://github.com/Eyevinn/favorites-api): Example of a simple implementation to build a favorites api on top of Redis
 * [facebookarchive/FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler): iOS tool that helps with profiling iOS Memory usage.
@@ -2352,6 +2354,7 @@
 * [aizvorski/h264bitstream](https://github.com/aizvorski/h264bitstream): A complete set of functions to read and write H.264 video bitstreams, in particular to examine or modify headers.
 * [latelee/H264BSAnalyzer](https://github.com/latelee/H264BSAnalyzer): H264(AVC) and H265(HEVC) bit stream Analyzer, VS2010 MFC project(Windows 7 x64).
 * [mike1808/h264decoder](https://github.com/mike1808/h264decoder): H.264 decoder for Go written using ffmpeg libraries
+* [chemag/h264nal](https://github.com/chemag/h264nal): Library and Tool to parse H264 NAL units
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
 * [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
@@ -3658,6 +3661,7 @@
 * [dglt1/optimus-switch-gdm](https://github.com/dglt1/optimus-switch-gdm): modified version to work with gdm/gnome. includes install script. made for manjaro linux.
 * [tvarchive/optimus_old](https://github.com/tvarchive/optimus_old): Latest repository has been moved to this location
 * [tvarchive/optimusTemplate](https://github.com/tvarchive/optimusTemplate): This is a cucumber jvm implementation template using the optimus mobile automation framework. If you like it, star it, help spread the word.
+* [jaiobs/OptiVideoEditor-for-android](https://github.com/jaiobs/OptiVideoEditor-for-android): Native Video editor : Video trim, Audio, Video merge, Slow and fast motion, Text and image, etc...
 * [webmproject/opus-dash](https://github.com/webmproject/opus-dash): Specification for Encapsulating Opus Audio in ISO-BMFF Container
 * [Yannis4444/Orange-Share](https://github.com/Yannis4444/Orange-Share): A small python server that accepts requests from an Apple shortcut to allow sharing all sorts of media from iOS with any desktop OS. It allows sending content right from the share sheet - similar to AirDrop between Apple Devices
 * [orcasound/orcanode](https://github.com/orcasound/orcanode): Software for live-streaming and recording lossy or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets. :star:
@@ -4301,6 +4305,7 @@
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
 * [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the industry leading SCTE-35 Decoder.  The highest rated SCTE-35 Parser. 
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
+* [deforum-art/sd-webui-modelscope-text2video](https://github.com/deforum-art/sd-webui-modelscope-text2video): Auto1111 extension consisting of implementation of ModelScope text2video using only Auto1111 webui dependencies
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
 * [rokudev/SDK-Development-Guide](https://github.com/rokudev/SDK-Development-Guide): None
@@ -4563,6 +4568,7 @@
 * [moul/sshportal](https://github.com/moul/sshportal): :tophat: simple, fun and transparent SSH (and telnet) bastion server
 * [nirui/sshwifty](https://github.com/nirui/sshwifty): Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 * [yrutschle/sslh](https://github.com/yrutschle/sslh): Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer): Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 * [elastic/stack-docker](https://github.com/elastic/stack-docker): Project no longer maintained.
 * [mofo7777/Stackoverflow](https://github.com/mofo7777/Stackoverflow): All source codes I've provided on stackoverflow as an answer, usually under tag ms-media-foundation. Mediafoundation, audio, video, 3D, decoder, encoder.
@@ -5202,6 +5208,7 @@
 * [cash2one/VideoTranscoding-Backend](https://github.com/cash2one/VideoTranscoding-Backend): This application transcode a video that you send on all formats what you want and diferent resolutions.
 * [gurrutia/videoxt](https://github.com/gurrutia/videoxt): Extract frames from videos and convert them to images or gifs.
 * [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear): A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
+* [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio): FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
 * [munagekar/vidsleuth](https://github.com/munagekar/vidsleuth): Video Sleuth is a powerful python based video analysis tool under development.  It includes wrappers around ffmpeg and vmaf. Comes with utilities for benchmarking.
 * [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator): ViewAnimator brings your UI to life with just one line
 * [OlivierLeBozec/viewts](https://github.com/OlivierLeBozec/viewts): Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
