@@ -1490,6 +1490,7 @@
 * [akofman/docker-video-processing](https://github.com/akofman/docker-video-processing): A Docker image intended for video processing and analysing
 * [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav): Docker image for running an Apache WebDAV server
 * [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+* [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard): None
 * [mattpaletta/docker-xcbuild](https://github.com/mattpaletta/docker-xcbuild): Using Facebook xcbuild inside docker
 * [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode): Build, ship and run iOS apps like docker containers
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!

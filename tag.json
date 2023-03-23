@@ -9950,6 +9950,9 @@
     "linuxserver/docker-webtop": [
         "Other"
     ],
+    "linuxserver/docker-wireguard": [
+        "Other"
+    ],
     "lionheart/ASPinboard": [
         "Other"
     ],
