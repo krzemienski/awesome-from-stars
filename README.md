@@ -4929,7 +4929,7 @@
 * [drichardson/transcode](https://github.com/drichardson/transcode): batch transcode video files with ffmpeg
 * [gonejack/transcode](https://github.com/gonejack/transcode): This command line do text file encoding converts
 * [kees/transcode](https://github.com/kees/transcode): Video Transcoding Tools
-* [rdavid/transcode](https://github.com/rdavid/transcode): Tool to transcode, inspect and convert videos
+* [rdavid/transcode](https://github.com/rdavid/transcode): Tool to transcode, inspect, and convert video files
 * [monking/transcode-web-video](https://github.com/monking/transcode-web-video): Quickly transcode a source video to MP4, OGV, and WebM, with scale, bitrate, and screengrab options.
 * [amaurypm/transcode2H264](https://github.com/amaurypm/transcode2H264): Unattended video transcoder to H264 and ACC codecs, in MKV containers.
 * [amaurypm/transcode2H265](https://github.com/amaurypm/transcode2H265): Unattended video transcoder to H265 and ACC codecs, in MKV containers.
