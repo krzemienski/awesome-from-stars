@@ -116,6 +116,9 @@
     "AaronFeng753/Waifu2x-Extension-GUI": [
         "Other"
     ],
+    "AbedElazizShe/LightCompressor": [
+        "Other"
+    ],
     "Abhishek-2505/Github_topics_scraper": [
         "Other"
     ],
@@ -365,6 +368,9 @@
     "Blacksuan19/Dotfiles": [
         "Other"
     ],
+    "BlockListed/encodedir": [
+        "Other"
+    ],
     "Boerworz/Gagat": [
         "Other"
     ],
@@ -482,6 +488,9 @@
     "CanvasPod/Canvas": [
         "Other"
     ],
+    "CarGuo/GSYVideoPlayer": [
+        "Other"
+    ],
     "Carleslc/AudioToText": [
         "Other"
     ],
@@ -489,6 +498,9 @@
         "Other"
     ],
     "CassiusPacheco/Swift-CleanArchitecture": [
+        "Other"
+    ],
+    "Casterlabs/Multistream": [
         "Other"
     ],
     "CatchChat/Yep": [
@@ -3134,6 +3146,9 @@
     "Ventto/pug": [
         "Other"
     ],
+    "ViBiOh/vith": [
+        "Other"
+    ],
     "ViacomInc/roku_builder": [
         "Other"
     ],
@@ -3819,12 +3834,6 @@
         "Other"
     ],
     "amilajack/erb-video-example": [
-        "Other"
-    ],
-    "aminyazdanpanah/PHP-FFmpeg-video-streaming": [
-        "Other"
-    ],
-    "aminyazdanpanah/python-ffmpeg-video-streaming": [
         "Other"
     ],
     "amishshah/prism-media": [
@@ -4515,6 +4524,9 @@
         "Other"
     ],
     "aws-samples/immersive-media-refarch": [
+        "Other"
+    ],
+    "aws-solutions/content-localization-on-aws": [
         "Other"
     ],
     "aws-solutions/live-stream-on-aws": [
@@ -5868,6 +5880,9 @@
         "Other"
     ],
     "danielsaidi/Sheeeeeeeeet": [
+        "Other"
+    ],
+    "danielsobrado/ffmpeg-s3": [
         "Other"
     ],
     "danieltahara/k8s-jobs": [
@@ -7334,6 +7349,9 @@
     "francoism90/mediadb-ui": [
         "Other"
     ],
+    "fraunhoferhhi/vvenc": [
+        "Other"
+    ],
     "frenck/awesome-home-assistant": [
         "Other"
     ],
@@ -7592,6 +7610,9 @@
     "gitumarkk/kubernetes_django": [
         "Other"
     ],
+    "gkozlenko/node-media-server": [
+        "Other"
+    ],
     "gkozlenko/node-video-lib": [
         "Other"
     ],
@@ -7599,6 +7620,9 @@
         "Other"
     ],
     "globocom/m3u8": [
+        "Other"
+    ],
+    "glubsy/livestream_saver": [
         "Other"
     ],
     "glushchenko/fsnotes": [
@@ -7898,6 +7922,12 @@
     "hackstoic/golang-open-source-projects": [
         "Other"
     ],
+    "hadronepoch/PHP-FFmpeg-video-streaming": [
+        "Other"
+    ],
+    "hadronepoch/python-ffmpeg-video-streaming": [
+        "Other"
+    ],
     "haikarainen/light": [
         "Other"
     ],
@@ -8145,6 +8175,9 @@
         "Other"
     ],
     "huhani/mp3-to-hls": [
+        "Other"
+    ],
+    "huiping192/BitrateGraphGenerator": [
         "Other"
     ],
     "humiaozuzu/awesome-flask": [
@@ -10319,6 +10352,9 @@
     "manosim/gitify": [
         "Other"
     ],
+    "manti-by/mtools": [
+        "Other"
+    ],
     "manuelescrig/MEVFloatingButton": [
         "Other"
     ],
@@ -11192,6 +11228,9 @@
     "nana-4/materia-theme": [
         "Other"
     ],
+    "nanake/ffmpeg-tinderbox": [
+        "Other"
+    ],
     "naomiaro/waveform-playlist": [
         "Other"
     ],
@@ -11262,6 +11301,9 @@
         "Other"
     ],
     "nerdishbynature/octokit.swift": [
+        "Other"
+    ],
+    "nesorter/nesorter": [
         "Other"
     ],
     "nestproject/Nest": [
@@ -14129,6 +14171,9 @@
     "subnub/myDrive": [
         "Other"
     ],
+    "subvod/examples": [
+        "Other"
+    ],
     "sudheerj/Linux-cheat-sheet": [
         "Other"
     ],
@@ -14307,6 +14352,9 @@
         "Other"
     ],
     "tanersener/mobile-ffmpeg": [
+        "Other"
+    ],
+    "tangxbai/ffmpeg-helper": [
         "Other"
     ],
     "tanhakabir/SwiftAudioPlayer": [
@@ -14892,6 +14940,9 @@
         "Other"
     ],
     "typhoeus/typhoeus": [
+        "Other"
+    ],
+    "u2takey/ffmpeg-go": [
         "Other"
     ],
     "uber-archive/makisu": [

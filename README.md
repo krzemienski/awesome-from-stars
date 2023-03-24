@@ -813,6 +813,7 @@
 * [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
 * [bitmovin/bitmovin-api-sdk-java](https://github.com/bitmovin/bitmovin-api-sdk-java): Java API SDK which enables you to seamlessly integrate the Bitmovin API into your projects
 * [bitmovin/bitmovin-java](https://github.com/bitmovin/bitmovin-java): DEPRECATED: Java client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-api-sdk-java
+* [huiping192/BitrateGraphGenerator](https://github.com/huiping192/BitrateGraphGenerator): Bitrate Graph Generator is a web application that generates graphs of video and audio bitrates from a given video URL using the plotbitrate library.
 * [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine -
 * [toshi0383/Bitrise-iOS](https://github.com/toshi0383/Bitrise-iOS): Client iOS app for bitrise.io 🚀
 * [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor): Bitrise Workflow Editor
@@ -1130,6 +1131,7 @@
 * [bitnami/containers](https://github.com/bitnami/containers): Bitnami container images
 * [aws/containers-roadmap](https://github.com/aws/containers-roadmap): This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
 * [nuxt/content](https://github.com/nuxt/content): The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
+* [aws-solutions/content-localization-on-aws](https://github.com/aws-solutions/content-localization-on-aws): Automatically generate multi-language subtitles using AWS  AI/ML services. Machine generated subtitles can be edited to improve accuracy and downstream tracks will automatically be regenerated based on the edits. Built on Media Insights Engine (https://github.com/awslabs/aws-media-insights-engine)
 * [ebu/content-manager](https://github.com/ebu/content-manager): The Content Manager is a visual production tool which is able to generate on the fly visualisation for DAB slideshow and RadioVIS. .NET framework based, it is developed in C# and is distributed under LGPL licence.
 * [webtor-io/content-transcoder](https://github.com/webtor-io/content-transcoder): Transcodes HTTP-stream to HLS
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
@@ -1678,6 +1680,7 @@
 * [harvard-dce/encode-for-mediasource](https://github.com/harvard-dce/encode-for-mediasource): Encodes a video file so that it can be played as a MediaSource in the browser. Installs ffmpeg and bento, then runs the appropriate commands with them.
 * [CloudNcodeInc/EncodeBox](https://github.com/CloudNcodeInc/EncodeBox): Watch-folder that transcode the input media files to various output formats (adaptive streaming)
 * [facebookresearch/encodec](https://github.com/facebookresearch/encodec): State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
+* [BlockListed/encodedir](https://github.com/BlockListed/encodedir): Encode a dir using ffmpeg
 * [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI): EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 * [kennell/encodeplz](https://github.com/kennell/encodeplz): video transcoding server with a HTTP-based RESTful API
 * [ystv/EncodeSrv](https://github.com/ystv/EncodeSrv): A database-driven ffmpeg based batch video transcoder, used to automate YSTV video distribution
@@ -1731,6 +1734,7 @@
 * [kubeflow/examples](https://github.com/kubeflow/examples): A repository to host extended examples and tutorials
 * [kubernetes/examples](https://github.com/kubernetes/examples): Kubernetes application example tutorials
 * [muxinc/examples](https://github.com/muxinc/examples): Example playground! 
+* [subvod/examples](https://github.com/subvod/examples): Code Snippets, Mostly For Automation
 * [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers): 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 * [weinbergerlab/excess_pi_covid](https://github.com/weinbergerlab/excess_pi_covid): Estimating excess mortality due to P&I in the US related to COVID-19
@@ -1865,7 +1869,9 @@
 * [svt/ffmpeg-filter-proxy](https://github.com/svt/ffmpeg-filter-proxy): FFmpeg video proxy filter
 * [five82/ffmpeg-git](https://github.com/five82/ffmpeg-git): An FFmpeg container compiled from the git master branch.
 * [transitive-bullshit/ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition): FFmpeg filter for applying GLSL transitions between video streams.
+* [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go): golang binding for ffmpeg
 * [BradHeff/ffmpeg-GUI](https://github.com/BradHeff/ffmpeg-GUI): ffmpeg python Gtk GUI 
+* [tangxbai/ffmpeg-helper](https://github.com/tangxbai/ffmpeg-helper): Ffmpeg helper library
 * [svpv/ffmpeg-hls](https://github.com/svpv/ffmpeg-hls): None
 * [askrejans/ffmpeg-home-video-tools](https://github.com/askrejans/ffmpeg-home-video-tools): This is a small colection of useful shell scripts that utilize ffmpeg and assist in creating an order in the usual modern format zoo of the home video world.
 * [kewlbear/FFmpeg-iOS](https://github.com/kewlbear/FFmpeg-iOS): Swift package of FFmpeg libraries for iOS
@@ -1886,12 +1892,14 @@
 * [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python): Python bindings for FFmpeg - with complex filtering support
 * [zsiec/ffmpeg-quality](https://github.com/zsiec/ffmpeg-quality): A docker image that contains ffmpeg w/libvmaf
 * [slhck/ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics): Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF, VIF)
+* [danielsobrado/ffmpeg-s3](https://github.com/danielsobrado/ffmpeg-s3): Execute FFMPEG processes on S3 buckets
 * [Saurabh702/ffmpeg-scale-benchmark](https://github.com/Saurabh702/ffmpeg-scale-benchmark): None
 * [ordinary-dev/ffmpeg-scripts](https://github.com/ordinary-dev/ffmpeg-scripts): My collection of scripts for converting video and audio with ffmpeg
 * [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild): Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
 * [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static): Scripts to build ffmpeg with all the deps statically (webm + h264 included)
 * [kevinGodell/ffmpeg-streamer](https://github.com/kevinGodell/ffmpeg-streamer): ffmpeg-streamer is a packaged nodejs express server that wraps ffmpeg to allow easy streaming of video feeds directly to modern browsers for testing purposes. It currently includes 6 different types of output streaming which are mjpeg, jpeg via socket.io, progressive mp4, native hls, hls.js, and mse via socket.io. Video input types supported are rtsp, mp4, mjpeg, and hls.
 * [oozoofrog/ffmpeg-swift-tutorial](https://github.com/oozoofrog/ffmpeg-swift-tutorial): ffmpeg tutorial for swift
+* [nanake/ffmpeg-tinderbox](https://github.com/nanake/ffmpeg-tinderbox): A script, tinderbox, that automates checking out FFmpeg source and building it include nonfree libraries like libfdk-aac and decklink
 * [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc): Stream video from ffmpeg to web(rtc)
 * [mpenkov/ffmpeg-tutorial](https://github.com/mpenkov/ffmpeg-tutorial): A set of tutorials that demonstrates how to write a video player based on FFmpeg
 * [tottokotkd/ffmpeg-tutorial-with-swift](https://github.com/tottokotkd/ffmpeg-tutorial-with-swift): None
@@ -2336,6 +2344,7 @@
 * [wxxsw/GSPlayer](https://github.com/wxxsw/GSPlayer): ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
 * [ziutek/gst](https://github.com/ziutek/gst): Go bindings for GStreamer (retired: currently I don't use/develop this package)
 * [i4tv/gstreamill](https://github.com/i4tv/gstreamill): encoder with hls output based on gstreamer.
+* [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer): 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 
 * [Tencent/GT](https://github.com/Tencent/GT): GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
 * [rtlewis1/GTK](https://github.com/rtlewis1/GTK): GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon themes
 * [material-ocean/Gtk-Theme](https://github.com/material-ocean/Gtk-Theme): material ocean theme for Gnome and GTK based DE's
@@ -2959,6 +2968,7 @@
 * [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker): Find retain cycles / memory leaks sooner.
 * [haikarainen/light](https://github.com/haikarainen/light): GNU/Linux application to control backlights
 * [networknt/light-4j](https://github.com/networknt/light-4j): A fast, lightweight and more productive microservices framework
+* [AbedElazizShe/LightCompressor](https://github.com/AbedElazizShe/LightCompressor): A powerful and easy-to-use video compression library for android uses MediaCodec API.
 * [emgram769/lighthouse](https://github.com/emgram769/lighthouse): A simple scriptable popup dialog to run on X.
 * [gokselkoksal/Lightning](https://github.com/gokselkoksal/Lightning): Lightning provides components to make Swift development easier.
 * [alibaba/lightproxy](https://github.com/alibaba/lightproxy): 💎 Cross platform Web debugging proxy
@@ -3010,6 +3020,7 @@
 * [kubernetes-csi/livenessprobe](https://github.com/kubernetes-csi/livenessprobe): A sidecar container that can be included in a CSI plugin pod to enable integration with Kubernetes Liveness Probe.
 * [rachit2501/Livepeer-Video-Streaming](https://github.com/rachit2501/Livepeer-Video-Streaming): DApp to stream videos on livepeer protocol.
 * [cupcakearmy/livestream](https://github.com/cupcakearmy/livestream): Dockerized nginx real time streaming with hsl and dash
+* [glubsy/livestream_saver](https://github.com/glubsy/livestream_saver): Download Youtube live-streams from the first segment
 * [chrippa/livestreamer](https://github.com/chrippa/livestreamer): Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 * [fcanas/LiveStreamParser](https://github.com/fcanas/LiveStreamParser): A Parser for HTTP Live Streaming in Objective-C
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
@@ -3303,6 +3314,7 @@
 * [cpearce/mse-eme](https://github.com/cpearce/mse-eme): Demo of ClearKey EME content playing via MSE
 * [msaps/MSSTabbedPageViewController](https://github.com/msaps/MSSTabbedPageViewController): [DEPRECATED] A container UIViewController that provides a simple to implement page view controller with scrolling tab bar.
 * [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream): The easiest music streaming server available
+* [manti-by/mtools](https://github.com/manti-by/mtools): Useful bash shell scripts for converting media files and etc.
 * [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy): None
 * [mallowigi/mtslack](https://github.com/mallowigi/mtslack): Customize your Slack experience with tweaks and themes. Includes the famous Material Themes as well as other popular themes such as Monokai Pro, Dracula, Atom One, GitHub, Solarized, Night Owl...
 * [RonRothman/mtwsgi](https://github.com/RonRothman/mtwsgi): A Multithreaded Python WSGI Implementation
@@ -3312,6 +3324,7 @@
 * [Palethorn/multibitrate-vod](https://github.com/Palethorn/multibitrate-vod): Python ffmpeg utility
 * [Eyevinn/multichoice](https://github.com/Eyevinn/multichoice): multichoice
 * [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances
+* [Casterlabs/Multistream](https://github.com/Casterlabs/Multistream): This is a small little tool for multistreaming without a huge hassle.
 * [jprjr/multistreamer](https://github.com/jprjr/multistreamer): [discontinued] A webapp for publishing video to multiple streaming services at once.
 * [adwardlee/multitask-end-to-end-video-captioning](https://github.com/adwardlee/multitask-end-to-end-video-captioning): with reinforcement learning
 * [videojs/murphy](https://github.com/videojs/murphy): Live Stream error simulator
@@ -3355,6 +3368,7 @@
 * [uber/needle](https://github.com/uber/needle): Compile-time safe Swift dependency injection framework
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [containerd/nerdctl](https://github.com/containerd/nerdctl): contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+* [nesorter/nesorter](https://github.com/nesorter/nesorter): An attempt to sort and stream music in a convenient way ✨
 * [nestproject/Nest](https://github.com/nestproject/Nest): Swift Web Server Gateway Interface
 * [Jigsaw-Code/net-analysis](https://github.com/Jigsaw-Code/net-analysis): Tools, libraries and applications to analyze network measurements and detect interference.
 * [apache/netbeans](https://github.com/apache/netbeans): Apache NetBeans
@@ -3438,6 +3452,7 @@
 * [kanongil/node-hls-tools](https://github.com/kanongil/node-hls-tools): Useful tools to consume and produce Apple™ HTTP Live Streaming (HLS) compatible media streams.
 * [michaelkourlas/node-js2xmlparser](https://github.com/michaelkourlas/node-js2xmlparser): Popular Node.js module for parsing JavaScript objects into XML
 * [fent/node-m3u8stream](https://github.com/fent/node-m3u8stream): Concatenates segments from a m3u8/dash-mpd playlist into a consumable stream.
+* [gkozlenko/node-media-server](https://github.com/gkozlenko/node-media-server): Node.js Media Server / VOD / HLS / DRM
 * [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server): A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 * [illuspas/Node-Media-Server-Admin](https://github.com/illuspas/Node-Media-Server-Admin): None
 * [sindresorhus/node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate): Boilerplate to kickstart creating a Node.js module
@@ -3752,7 +3767,7 @@
 * [j1mmyto9/photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui): 🎨 An image editor using SwifUI & muukii/Pixel
 * [Netflix/photon](https://github.com/Netflix/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
-* [aminyazdanpanah/PHP-FFmpeg-video-streaming](https://github.com/aminyazdanpanah/PHP-FFmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+* [hadronepoch/PHP-FFmpeg-video-streaming](https://github.com/hadronepoch/PHP-FFmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 * [Aufree/PHPHub-iOS](https://github.com/Aufree/PHPHub-iOS): PHPHub for iOS is the universal iPhone and iPad application for PHPHub
 * [studioimaginaire/phue](https://github.com/studioimaginaire/phue): A Python library for the Philips Hue system
 * [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole): A black hole for Internet advertisements
@@ -3946,7 +3961,7 @@
 * [koalalorenzo/python-digitalocean](https://github.com/koalalorenzo/python-digitalocean): 🐍🐳 Python module to manage Digital Ocean droplets
 * [LetsUpgrade/Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials): None
 * [jonghwanhyeon/python-ffmpeg](https://github.com/jonghwanhyeon/python-ffmpeg): A python binding for FFmpeg which provides sync and async APIs
-* [aminyazdanpanah/python-ffmpeg-video-streaming](https://github.com/aminyazdanpanah/python-ffmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+* [hadronepoch/python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 * [happyleavesaoc/python-firetv](https://github.com/happyleavesaoc/python-firetv): None
 * [talkpython/python-for-absolute-beginners-course](https://github.com/talkpython/python-for-absolute-beginners-course): Code samples and other handouts for our course.
 * [kuri65536/python-for-android](https://github.com/kuri65536/python-for-android): Automatically exported from code.google.com/p/python-for-android
@@ -5223,6 +5238,7 @@
 * [twitter/vireo](https://github.com/twitter/vireo): Vireo is a lightweight and versatile video processing library written in C++11
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
 * [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage): Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
+* [ViBiOh/vith](https://github.com/ViBiOh/vith): Video Thumbnailer
 * [digimezzo/vitomu](https://github.com/digimezzo/vitomu): Easy to use video to audio converter
 * [vivictorg/vivict](https://github.com/vivictorg/vivict): An easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.
 * [Netflix/vizceral](https://github.com/Netflix/vizceral): WebGL visualization for displaying animated traffic graphs
@@ -5293,6 +5309,7 @@
 * [vuesion/vuesion](https://github.com/vuesion/vuesion): Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 * [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin): Free and Beautiful Vue 3 Admin Template
 * [vulhub/vulhub](https://github.com/vulhub/vulhub): Pre-Built Vulnerable Environments Based on Docker-Compose
+* [fraunhoferhhi/vvenc](https://github.com/fraunhoferhhi/vvenc): Fraunhofer Versatile Video Encoder (VVenC)
 * [vyos/vyatta-cfg-system](https://github.com/vyos/vyatta-cfg-system): Vyatta system-level configuration templates/scripts
 * [vyos/vyos-build](https://github.com/vyos/vyos-build): VyOS image build scripts
 * [vyos/vyos-documentation](https://github.com/vyos/vyos-documentation): VyOS readthedocs
