@@ -2000,6 +2000,7 @@
 * [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy): Pythonic interface for FFmpeg/FFprobe command line
 * [wchill/ffmpy3](https://github.com/wchill/ffmpy3): Pythonic interface for FFmpeg/FFprobe command line
 * [rust-av/ffms2-rs](https://github.com/rust-av/ffms2-rs): ffms2 bindings
+* [rockcarry/ffplayer](https://github.com/rockcarry/ffplayer): a video player based on ffmpeg for win32 and android platform.
 * [ffplayout/ffplayout](https://github.com/ffplayout/ffplayout): Rust and ffmpeg based playout 
 * [ffplayout/ffplayout-docker](https://github.com/ffplayout/ffplayout-docker): Dockerized playout solution
 * [ffplayout/ffplayout-frontend](https://github.com/ffplayout/ffplayout-frontend): Web based frontend for ffplayout-engine
