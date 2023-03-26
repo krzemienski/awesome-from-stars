@@ -2158,6 +2158,7 @@
 * [fwupd/fwupd](https://github.com/fwupd/fwupd): A system daemon to allow session software to update firmware
 * [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer
 * [fyne-io/fyne](https://github.com/fyne-io/fyne): Cross platform GUI toolkit in Go inspired by Material Design
+* [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite): Google Suite as a desktop app. Made possible with Electron.
 * [MatMoul/g810-led](https://github.com/MatMoul/g810-led): Linux led controller for Logitech G213, G410, G413, G512, G513, G610, G810, g815, G910 and GPRO Keyboards
 * [Comcast/gaad](https://github.com/Comcast/gaad): GAAD (Go Advanced Audio Decoder)
@@ -5049,6 +5050,7 @@
 * [MoshiMoshi0/ttrgbplusapi](https://github.com/MoshiMoshi0/ttrgbplusapi): api for thermaltake rgb plus devices
 * [Tubitv/TubiPlayer](https://github.com/Tubitv/TubiPlayer): A media streaming video player based on ExoPlayer from google, with convenience methods for ad supported content
 * [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi): An Xcode Project Generator For Bazel 
+* [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video): Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 * [agrinman/tunnelto](https://github.com/agrinman/tunnelto): Expose your local web server to the internet with a public URL.
 * [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk): Refined Evernote desktop app
 * [Ovski4/tutorials](https://github.com/Ovski4/tutorials): The code from some of my blog posts
