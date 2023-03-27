@@ -1287,7 +1287,7 @@
 * [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver): Framework for implementing custom metrics support for Kubernetes
 * [rizinorg/cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin
 * [x1wins/CW-OVP](https://github.com/x1wins/CW-OVP): video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (ruby on rails)
-* [corona-warn-app/cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios): Native iOS app using the exposure notification framework from Apple.
+* [corona-warn-app/cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios): Native iOS app using the exposure notification framework from Apple. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 * [cxxpods/cxxpods](https://github.com/cxxpods/cxxpods): Toolchains, tools and dependencies, all in one place, made easy
 * [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck): Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 * [usmannasir/cyberpanel](https://github.com/usmannasir/cyberpanel): Cyber Panel - The hosting control panel for OpenLiteSpeed
@@ -2520,6 +2520,7 @@
 * [muxinc/hls-subtitles-vexillographer](https://github.com/muxinc/hls-subtitles-vexillographer): A simple proxy service which changes subtitles flags in HLS manifests.
 * [Eyevinn/hls-to-dash](https://github.com/Eyevinn/hls-to-dash): Open source packager and tools to rewrap live HLS to live MPEG DASH
 * [egg-bread/hls-to-mp4](https://github.com/egg-bread/hls-to-mp4): Download HLS videos as MP4 (WebVTT for caption download optional)
+* [pluginfactory/HLS-transcoding-nodejs](https://github.com/pluginfactory/HLS-transcoding-nodejs): This is a sample example repository to implement video transcoding for buffered bandwidth based streaming videos in Nodejs using Apple HLS + m3u8 to stream over HTTP.
 * [jordicenzano/hls-trimming-frame-accuracy](https://github.com/jordicenzano/hls-trimming-frame-accuracy): JS Code that given a group of HLS chunks, a start timestamp, and end timestamp it creates one MP4 that contains the original V/A frame accuracy trimmed and perfectly aligned
 * [Eyevinn/hls-ts-analyzer](https://github.com/Eyevinn/hls-ts-analyzer): Example implementation of hls-ts.js library
 * [Eyevinn/hls-ts-js](https://github.com/Eyevinn/hls-ts-js): HLS MPEG-TS parser library in Javascript
@@ -3470,6 +3471,7 @@
 * [rounce/nginx-hls-module](https://github.com/rounce/nginx-hls-module): Smooth Streaming Module fork
 * [SoloSynth1/nginx-hls-server](https://github.com/SoloSynth1/nginx-hls-server): Documentation on how to set up a HLS stream server using ffmpeg & NGINX
 * [skyformat99/nginx-netty-hls](https://github.com/skyformat99/nginx-netty-hls): nginx、netty hls流媒体架构，实现时移和回看功能。nginx负责m3u8的组装，netty负责运算把ts信息返回给nginx。实测m3u8 时移、回看功能长连接下载并发可达4w，ts 3000路跑满网卡，系统瓶颈在网卡
+* [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching): Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the NGINX stats page.
 * [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation): Automated docker nginx proxy integrated with letsencrypt.
 * [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources): A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
@@ -5241,6 +5243,7 @@
 * [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api): Agnostic API to transcode media assets across different cloud services.
 * [donmelton/video-transcoding-scripts](https://github.com/donmelton/video-transcoding-scripts): Utilities to transcode, inspect and convert videos.
 * [yazaldefilimonepinto/video-translator](https://github.com/yazaldefilimonepinto/video-translator): Translate video or audio into multiple languages ​​in video, audio or subtitle file
+* [Ahmedbadereldin/Video-Trimmer-Android](https://github.com/Ahmedbadereldin/Video-Trimmer-Android): Trim the video by adjusting starting point and ending point in Android
 * [SachinKalsi/video-upload-and-video-streaming](https://github.com/SachinKalsi/video-upload-and-video-streaming): Video upload and video streaming using Node JS & Express JS 
 * [videojs/video.js](https://github.com/videojs/video.js): Video.js - open source HTML5 video player
 * [vfdev-5/Video2Frames](https://github.com/vfdev-5/Video2Frames): Simple video to frames converter using Opencv
