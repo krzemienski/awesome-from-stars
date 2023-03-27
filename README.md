@@ -2230,6 +2230,7 @@
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [HR/github-clone](https://github.com/HR/github-clone): :octocat: ⬇️ ⠀git clone repo subdirectories
 * [m42e/github-coup](https://github.com/m42e/github-coup): Clone or Update Your User and Starred Repos
+* [muan/github-dashboard](https://github.com/muan/github-dashboard): [Web extension] Filter events on github.com activity dashboard.
 * [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira): Connect your code with your project management in Jira
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
 * [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts): GitHub scripts
@@ -2565,6 +2566,7 @@
 * [ridhwaans/homehost](https://github.com/ridhwaans/homehost): self-hosted, Netflix-like app made for streaming
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
 * [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A home server for everyone! (both ARM and x86_64) - WIP
+* [benphelps/homepage](https://github.com/benphelps/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [animosity22/homescripts](https://github.com/animosity22/homescripts): My Scripts for Plex / Emby with Dropbox and rclone
 * [SimonHaas/homeserver](https://github.com/SimonHaas/homeserver): homeserver setup with multiple services via docker
