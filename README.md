@@ -2674,6 +2674,7 @@
 * [louisdh/InputAssistant](https://github.com/louisdh/InputAssistant): Provide custom auto-completion options for the iOS keyboard.
 * [macabeus/InputStepByStep](https://github.com/macabeus/InputStepByStep): 📝 A input view for tvOS, useful for testing purposes.
 * [xbmc/inputstream.adaptive](https://github.com/xbmc/inputstream.adaptive): kodi inputstream addon for several manifest types
+* [xbmc/inputstream.ffmpegdirect](https://github.com/xbmc/inputstream.ffmpegdirect): Supports streams opened by FFmpeg's libavformat or Kodi's cURL such as plain TS, HLS and DASH (non-DRM) as well as many others. There is support for Archive/Catchup services where there is a replay window and can timeshift across that span. Also provides timeshift for live streams where rewind/pause and fast-forward would not have been available.
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 * [michaelversus/insomnia-plugin-codegen](https://github.com/michaelversus/insomnia-plugin-codegen): None
 * [benemohamed/insomnia-plugin-json-schema](https://github.com/benemohamed/insomnia-plugin-json-schema): insomnia plugin generated json schema from response
@@ -2771,6 +2772,7 @@
 * [veeta-tv/jasmine-roku](https://github.com/veeta-tv/jasmine-roku): Example jasmine tests using node-roku-test for verifying Roku channel behavior
 * [jasperapp/jasper](https://github.com/jasperapp/jasper): Jasper - A flexible and powerful issue reader for GitHub
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
+* [serezhka/java-airplay-lib](https://github.com/serezhka/java-airplay-lib): This library is intended to easily create AirPlay2 servers acting like Apple TV
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [DataDog/java-dogstatsd-client](https://github.com/DataDog/java-dogstatsd-client): Java statsd client library
 * [richadams/java-gracenote](https://github.com/richadams/java-gracenote): A Java client for the Gracenote Music Web API. Example code to get you started on your own projects using Gracenote's API.
@@ -4714,6 +4716,7 @@
 * [tumtumtum/StreamingKit](https://github.com/tumtumtum/StreamingKit): A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS (iPhone, iPad)
 * [streamlinevideo/streamline](https://github.com/streamlinevideo/streamline): A reference system for end to end live streaming video. Capture, encode, package, uplink, origin, CDN, and player. 
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
+* [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui): A multi platform Twitch.tv browser for Streamlink
 * [Neeraj319/streammmm](https://github.com/Neeraj319/streammmm): A twitch like platform.
 * [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): Android RTMP/RTMPS and SRT live streaming libraries
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads
@@ -5284,6 +5287,7 @@
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
 * [chrisboustead/videojs-vtt-thumbnails](https://github.com/chrisboustead/videojs-vtt-thumbnails): Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.
+* [ant-media/videojs-webrtc-plugin](https://github.com/ant-media/videojs-webrtc-plugin): Webrtc plug-in for videojs
 * [ruanjx/VideoLab](https://github.com/ruanjx/VideoLab): High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 * [videomorph-dev/videomorph](https://github.com/videomorph-dev/videomorph): A user-friendly Video Converter based on FFMPEG and written in Python/PyQt5.
@@ -5387,6 +5391,7 @@
 * [vuesion/vuesion](https://github.com/vuesion/vuesion): Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 * [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin): Free and Beautiful Vue 3 Admin Template
 * [vulhub/vulhub](https://github.com/vulhub/vulhub): Pre-Built Vulnerable Environments Based on Docker-Compose
+* [fraunhoferhhi/vvdec](https://github.com/fraunhoferhhi/vvdec): Fraunhofer Versatile Video Decoder (VVdeC)
 * [fraunhoferhhi/vvenc](https://github.com/fraunhoferhhi/vvenc): Fraunhofer Versatile Video Encoder (VVenC)
 * [vyos/vyatta-cfg-system](https://github.com/vyos/vyatta-cfg-system): Vyatta system-level configuration templates/scripts
 * [vyos/vyos-build](https://github.com/vyos/vyos-build): VyOS image build scripts

@@ -3992,6 +3992,9 @@
     "ant-media/Ant-Media-Server": [
         "Other"
     ],
+    "ant-media/videojs-webrtc-plugin": [
+        "Other"
+    ],
     "antares-sql/antares": [
         "Other"
     ],
@@ -7452,6 +7455,9 @@
         "Other"
     ],
     "francoism90/mediadb-ui": [
+        "Other"
+    ],
+    "fraunhoferhhi/vvdec": [
         "Other"
     ],
     "fraunhoferhhi/vvenc": [
@@ -13610,6 +13616,9 @@
     "serejahh/UnboxedAlamofire": [
         "Other"
     ],
+    "serezhka/java-airplay-lib": [
+        "Other"
+    ],
     "sergree/matchering": [
         "Other"
     ],
@@ -14352,6 +14361,9 @@
         "Other"
     ],
     "streamlink/streamlink": [
+        "Other"
+    ],
+    "streamlink/streamlink-twitch-gui": [
         "Other"
     ],
     "streetwriters/notesnook": [
@@ -16023,6 +16035,9 @@
         "Other"
     ],
     "xbmc/inputstream.adaptive": [
+        "Other"
+    ],
+    "xbmc/inputstream.ffmpegdirect": [
         "Other"
     ],
     "xbmc/xbmc": [
