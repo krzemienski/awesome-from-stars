@@ -1873,7 +1873,7 @@
 * [SandyChapman/fastlane-plugin-jira_versions](https://github.com/SandyChapman/fastlane-plugin-jira_versions): A Fastlane plugin for managing JIRA releases / versions
 * [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center): 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 * [taisukeh/fastlane-plugin-xcode_test_reporter](https://github.com/taisukeh/fastlane-plugin-xcode_test_reporter): Fastlane plugin generates JUnit or HTML report from Xcode plist test report files using.
-* [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an open-source GitHub Copilot server
+* [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an open-source alternative to GitHub Copilot server
 * [janselv/fave-button](https://github.com/janselv/fave-button): FaveButton is an iOS cute animated like button written in Swift.
 * [Eyevinn/favorites-api](https://github.com/Eyevinn/favorites-api): Example of a simple implementation to build a favorites api on top of Redis
 * [facebookarchive/FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler): iOS tool that helps with profiling iOS Memory usage.
