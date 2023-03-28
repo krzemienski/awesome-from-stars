@@ -83,6 +83,9 @@
     "AAChartModel/AAChartKit": [
         "Other"
     ],
+    "AAkira/ExoPlayerManager": [
+        "Other"
+    ],
     "AFNetworking/AFNetworking": [
         "Other"
     ],
@@ -146,6 +149,9 @@
     "AgentOak/docker-livestreaming": [
         "Other"
     ],
+    "AgoraIO-Extensions/Electron-SDK": [
+        "Other"
+    ],
     "AgoraIO/Advanced-Interactive-Broadcasting": [
         "Other"
     ],
@@ -195,6 +201,9 @@
         "Other"
     ],
     "AliSoftware/Reusable": [
+        "Other"
+    ],
+    "Alib234/FFTV": [
         "Other"
     ],
     "Alir3z4/html2text": [
@@ -531,6 +540,9 @@
         "Other"
     ],
     "Chevrotain/chevrotain": [
+        "Other"
+    ],
+    "ChillingVan/compose-exoplayer-LazyColumn-example": [
         "Other"
     ],
     "Chimeejs/chimee": [
@@ -900,6 +912,9 @@
         "Other"
     ],
     "Dimillian/SwiftHN": [
+        "Other"
+    ],
+    "DisplayLink/evdi": [
         "Other"
     ],
     "DivineEngine/Profiles": [
@@ -1403,6 +1418,9 @@
     "Grive/grive": [
         "Other"
     ],
+    "Groovee60/ExoPlayerServiceExample": [
+        "Other"
+    ],
     "Guake/guake": [
         "Other"
     ],
@@ -1437,6 +1455,9 @@
         "Other"
     ],
     "HamidNE/hls-video-api": [
+        "Other"
+    ],
+    "HamidrezaAmz/MagicalExoPlayer": [
         "Other"
     ],
     "HamzaGhazouani/HGPlaceholders": [
@@ -2012,6 +2033,9 @@
     "Martchus/tageditor": [
         "Other"
     ],
+    "MasayukiSuda/ExoPlayerFilter": [
+        "Other"
+    ],
     "MasayukiSuda/GPUVideo-android": [
         "Other"
     ],
@@ -2211,6 +2235,9 @@
         "Other"
     ],
     "NationalSecurityAgency/timely": [
+        "Other"
+    ],
+    "NatsumeReiko/ExoPlayerInRecyclerView": [
         "Other"
     ],
     "Neeraj319/streammmm": [
@@ -2478,6 +2505,9 @@
         "Other"
     ],
     "Ptr-srix4k/HID-Cloner": [
+        "Other"
+    ],
+    "Pulimet/ExoPlayer-Wrapper": [
         "Other"
     ],
     "PureMVC/puremvc-swift-util-asyncproxy": [
@@ -2903,6 +2933,9 @@
     "SquaredTiki/Dringend-Issues": [
         "Other"
     ],
+    "Sriharia/ExoPlayer-StatsForNerds": [
+        "Other"
+    ],
     "StanfordSNR/puffer": [
         "Other"
     ],
@@ -2973,6 +3006,9 @@
         "Other"
     ],
     "TCM-Course-Resources/Practical-Ethical-Hacking-Resources": [
+        "Other"
+    ],
+    "THEOplayer/react-native-theoplayer": [
         "Other"
     ],
     "Taiko2k/TauonMusicBox": [
@@ -3228,6 +3264,9 @@
         "Other"
     ],
     "WWBN/AVideo": [
+        "Other"
+    ],
+    "WWBN/AVideo-Encoder": [
         "Other"
     ],
     "WZMIAOMIAO/deep-learning-for-image-processing": [
@@ -3692,6 +3731,9 @@
     "alessandrobelli/NotionHook": [
         "Other"
     ],
+    "alex8088/EvPlayer": [
+        "Other"
+    ],
     "alexanderepstein/Bash-Snippets": [
         "Other"
     ],
@@ -4124,6 +4166,9 @@
     "apioo/fusio": [
         "Other"
     ],
+    "apivideo/api.video-nodejs-client": [
+        "Other"
+    ],
     "apivideo/bash-upload": [
         "Other"
     ],
@@ -4389,6 +4434,9 @@
         "Other"
     ],
     "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code": [
+        "Other"
+    ],
+    "ashwanijanghu/ExoPlayer-Offline": [
         "Other"
     ],
     "askmeegs/learn-istio": [
@@ -4940,6 +4988,9 @@
     "bitmovin/bitmovin-java": [
         "Other"
     ],
+    "bitmovin/bitmovin-player-react-native": [
+        "Other"
+    ],
     "bitmovin/libdash": [
         "Other"
     ],
@@ -5007,6 +5058,9 @@
         "Other"
     ],
     "bloc97/Anime4K": [
+        "Other"
+    ],
+    "bluenviron/gohlslib": [
         "Other"
     ],
     "bman46/M3U-List-Checker": [
@@ -5246,6 +5300,9 @@
     "canonical/snapcraft.io": [
         "Other"
     ],
+    "caorushizi/m3u8-downloader": [
+        "Other"
+    ],
     "captioning/captioning": [
         "Other"
     ],
@@ -5405,6 +5462,9 @@
     "charmbracelet/bubbletea": [
         "Other"
     ],
+    "charmbracelet/vhs": [
+        "Other"
+    ],
     "cheesecakeufo/komorebi": [
         "Other"
     ],
@@ -5412,6 +5472,9 @@
         "Other"
     ],
     "chemag/h264nal": [
+        "Other"
+    ],
+    "chemicalbird/ExoPlayerTimelineView": [
         "Other"
     ],
     "chentsulin/awesome-graphql": [
@@ -5573,6 +5636,9 @@
     "cli/cli": [
         "Other"
     ],
+    "cliffordkleinsr/DE-SRFREN": [
+        "Other"
+    ],
     "clipable/clipable": [
         "Other"
     ],
@@ -5708,6 +5774,9 @@
     "conjure-up/conjure-up": [
         "Other"
     ],
+    "connervieira/Predator": [
+        "Other"
+    ],
     "containerd/containerd": [
         "Other"
     ],
@@ -5739,6 +5808,9 @@
         "Other"
     ],
     "cookiecutter/cookiecutter-django": [
+        "Other"
+    ],
+    "cookpete/react-player": [
         "Other"
     ],
     "cool-RR/PySnooper": [
@@ -5871,6 +5943,9 @@
         "Other"
     ],
     "cuuupid/awesome-lists": [
+        "Other"
+    ],
+    "cvisionai/tator": [
         "Other"
     ],
     "cwbuecheler/node-tutorial-for-frontend-devs": [
@@ -6518,6 +6593,9 @@
     "dollarshaveclub/ImageButter": [
         "Other"
     ],
+    "dongaba/TVerRec": [
+        "Other"
+    ],
     "dongyg/mildred": [
         "Other"
     ],
@@ -6866,6 +6944,9 @@
     "elmoiv/sdelmo": [
         "Other"
     ],
+    "elonen/clapshot": [
+        "Other"
+    ],
     "elunez/eladmin": [
         "Other"
     ],
@@ -6987,6 +7068,9 @@
         "Other"
     ],
     "erpalma/throttled": [
+        "Other"
+    ],
+    "esaygiver/EVPlayer": [
         "Other"
     ],
     "escaped/django-video-encoding": [
@@ -7688,6 +7772,9 @@
     "git-touch/git-touch": [
         "Other"
     ],
+    "gitanjal/ExoDemo": [
+        "Other"
+    ],
     "gitfu/manifesto": [
         "Other"
     ],
@@ -8078,6 +8165,12 @@
     "halfo/lambda-mod-zsh-theme": [
         "Other"
     ],
+    "halilozel1903/ExoPlayerDemo": [
+        "Other"
+    ],
+    "halilozel1903/ExoPlayerDrm": [
+        "Other"
+    ],
     "halworsen/footgas": [
         "Other"
     ],
@@ -8270,6 +8363,9 @@
     "hoppscotch/hoppscotch": [
         "Other"
     ],
+    "hossein-no1/TvPlayer": [
+        "Other"
+    ],
     "hoya012/awesome-anomaly-detection": [
         "Other"
     ],
@@ -8393,6 +8489,9 @@
     "ianzhao05/textshot": [
         "Other"
     ],
+    "iawia002/lux": [
+        "Other"
+    ],
     "ibc/h264-profile-level-id": [
         "Other"
     ],
@@ -8495,6 +8594,9 @@
     "imgly/pesdk-ios-build": [
         "Other"
     ],
+    "imgly/vesdk-flutter": [
+        "Other"
+    ],
     "imgly/vesdk-ios-build": [
         "Other"
     ],
@@ -8543,6 +8645,9 @@
     "ingest/manifest": [
         "Other"
     ],
+    "inlife/nexrender": [
+        "Other"
+    ],
     "innFactory/akka-cluster-k8s": [
         "Other"
     ],
@@ -8556,6 +8661,9 @@
         "Other"
     ],
     "insidegui/WWDC": [
+        "Other"
+    ],
+    "insight-platform/Savant": [
         "Other"
     ],
     "instantbox/instantbox": [
@@ -8697,6 +8805,9 @@
         "Other"
     ],
     "izqui/Taylor": [
+        "Other"
+    ],
+    "j-min/Adversarial_Video_Summary": [
         "Other"
     ],
     "j0hnm4r5/awesome-creative-technology": [
@@ -8973,6 +9084,9 @@
         "Other"
     ],
     "jinwchoi/awesome-action-recognition": [
+        "Other"
+    ],
+    "jitsi/jitsi-meet": [
         "Other"
     ],
     "jkarthic-akamai/ABR-Broadcaster": [
@@ -9512,6 +9626,9 @@
     "khoren93/SwiftHub": [
         "Other"
     ],
+    "kibotu/FastExoPlayerSeeker": [
+        "Other"
+    ],
     "kickstarter/Kickstarter-Prelude": [
         "Other"
     ],
@@ -9935,6 +10052,9 @@
     "larkinwc/node-express-cookie-cutter": [
         "Other"
     ],
+    "larryaasen/dive": [
+        "Other"
+    ],
     "latelee/H264BSAnalyzer": [
         "Other"
     ],
@@ -10193,6 +10313,9 @@
     "liuyishengalan/ThinkPad-P52-Hackintosh": [
         "Other"
     ],
+    "livekit/livekit": [
+        "Other"
+    ],
     "livepeer/lpms": [
         "Other"
     ],
@@ -10257,6 +10380,9 @@
         "Other"
     ],
     "longhorn/longhorn": [
+        "Other"
+    ],
+    "lopho/sd-video": [
         "Other"
     ],
     "lorey/github-stars-by-topic": [
@@ -10344,6 +10470,9 @@
         "Other"
     ],
     "lutris/ffmpeg-nvenc": [
+        "Other"
+    ],
+    "luwes/playerx": [
         "Other"
     ],
     "lux-org/lux": [
@@ -11228,6 +11357,9 @@
     "mpadge/ubuntu-setup": [
         "Other"
     ],
+    "mpatt3970/HlsExoPlayerDemo": [
+        "Other"
+    ],
     "mpenkov/ffmpeg-tutorial": [
         "Other"
     ],
@@ -11328,6 +11460,9 @@
         "Other"
     ],
     "muxinc/mux-stats-sdk-avplayer": [
+        "Other"
+    ],
+    "muxinc/mux-stats-sdk-exoplayer": [
         "Other"
     ],
     "muxinc/packaging_examples": [
@@ -11672,6 +11807,9 @@
     "nodes-vapor/storage": [
         "Other"
     ],
+    "nodiscc/awesome-linuxaudio": [
+        "Other"
+    ],
     "nogoodusername/fastapi-userless-service": [
         "Other"
     ],
@@ -11730,6 +11868,9 @@
         "Other"
     ],
     "notionsdk/notion-sdk-kotlin-old": [
+        "Other"
+    ],
+    "nova-video-player/aos-Video": [
         "Other"
     ],
     "novareto/messages_manager": [
@@ -12203,6 +12344,9 @@
     "pangyuteng/k8s-celery-autoscale": [
         "Other"
     ],
+    "pankaj89/MasterExoPlayer": [
+        "Other"
+    ],
     "pannal/Sub-Zero.bundle": [
         "Other"
     ],
@@ -12404,6 +12548,9 @@
     "pion/example-webrtc-applications": [
         "Other"
     ],
+    "pion/webrtc": [
+        "Other"
+    ],
     "piotrmski/plaid": [
         "Other"
     ],
@@ -12483,6 +12630,9 @@
         "Other"
     ],
     "ponchio/untrunc": [
+        "Other"
+    ],
+    "ponnamkarthik/RTMP-Exo-Player-Demo": [
         "Other"
     ],
     "pop-os/apt-fetcher": [
@@ -12720,6 +12870,9 @@
         "Other"
     ],
     "pytube/pytube": [
+        "Other"
+    ],
+    "q191201771/lal": [
         "Other"
     ],
     "qarmin/czkawka": [
@@ -13026,6 +13179,9 @@
         "Other"
     ],
     "remirobert/Dotzu": [
+        "Other"
+    ],
+    "remotion-dev/remotion": [
         "Other"
     ],
     "reneargento/algorithms-sedgewick-wayne": [
@@ -13706,6 +13862,9 @@
     "sherlock-project/sherlock": [
         "Other"
     ],
+    "sherlockchou86/video_pipe_c": [
+        "Other"
+    ],
     "shibapm/Komondor": [
         "Other"
     ],
@@ -14264,6 +14423,9 @@
     "starxg/terminus-sync-config": [
         "Other"
     ],
+    "stashapp/stash": [
+        "Other"
+    ],
     "statping/statping": [
         "Other"
     ],
@@ -14367,6 +14529,9 @@
         "Other"
     ],
     "streetwriters/notesnook": [
+        "Other"
+    ],
+    "stroeer/video-on-demand-on-aws": [
         "Other"
     ],
     "strongself/fabricio": [
@@ -14937,6 +15102,9 @@
         "Other"
     ],
     "toeverything/AFFiNE": [
+        "Other"
+    ],
+    "tohodog/QSVideoPlayer": [
         "Other"
     ],
     "tomcool420/SMFramework": [
@@ -15728,6 +15896,9 @@
     "wangyoucao577/ffmpeg-build": [
         "Other"
     ],
+    "wangzmgit/vue-wplayer": [
+        "Other"
+    ],
     "wapznw/docker-ngrokd": [
         "Other"
     ],
@@ -15965,6 +16136,9 @@
     "wireapp/wire-ios": [
         "Other"
     ],
+    "wireapp/wire-ios-mono": [
+        "Other"
+    ],
     "withfig/autocomplete": [
         "Other"
     ],
@@ -16155,6 +16329,9 @@
         "Other"
     ],
     "xyk2/cloud-transcoder": [
+        "Other"
+    ],
+    "xyoye/ExoFFmpegPlayer": [
         "Other"
     ],
     "y13i/aws-eks-example": [
