@@ -298,7 +298,7 @@
 * [electron/apps](https://github.com/electron/apps): A collection of apps built on Electron
 * [aunetx/apps-to-panel](https://github.com/aunetx/apps-to-panel): This extension turns the Activities button into two button with icon or text to select Applications or Workspaces in the Overview.
 * [omz/AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App Sales allows iPhone and Mac App Store developers to download and analyze their daily and weekly sales reports from iTunes Connect.
-* [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+* [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 * [sphinx02/AppStarter](https://github.com/sphinx02/AppStarter): AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
@@ -844,6 +844,7 @@
 * [five82/batchtranscode](https://github.com/five82/batchtranscode): None
 * [batnoter/batnoter](https://github.com/batnoter/batnoter): An open source, markdown-based, self-hosted note taking webapp.
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
+* [Silence-GitHub/BBMetalImage](https://github.com/Silence-GitHub/BBMetalImage): A high performance Swift library for GPU-accelerated image/video processing based on Metal.
 * [OSC/bc_k8s_jupyter](https://github.com/OSC/bc_k8s_jupyter): Run a batch connect Jupyter in a kuberentes cluster
 * [mjuhasz/BDSup2Sub](https://github.com/mjuhasz/BDSup2Sub): Blu-Ray/DVD subtitle editor
 * [Streampunk/beamcoder](https://github.com/Streampunk/beamcoder): Node.js native bindings to FFmpeg.
