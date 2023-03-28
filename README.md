@@ -1489,6 +1489,7 @@
 * [francescou/docker-continuous-deployment](https://github.com/francescou/docker-continuous-deployment): continuous deployment of a microservices application with Docker
 * [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers): Programs to keep Docker login credentials safe by storing in platform keystores
 * [Eyevinn/docker-dash-packager](https://github.com/Eyevinn/docker-dash-packager): Open source MPEG DASH packager for live and VOD
+* [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati): None
 * [alfg/docker-ffmpeg](https://github.com/alfg/docker-ffmpeg): A Dockerfile FFmpeg from source. Built on Alpine Linux.
 * [linuxserver/docker-ffmpeg](https://github.com/linuxserver/docker-ffmpeg): None
 * [singhkays/docker-ffmpeg-av1-libaom](https://github.com/singhkays/docker-ffmpeg-av1-libaom): Weekly build of docker image with latest libaom AV1 + FFmpeg + x265 + VP9 +x264 + libvmaf 
@@ -2384,6 +2385,7 @@
 * [BradLarson/GPUImage3](https://github.com/BradLarson/GPUImage3): GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 * [MasayukiSuda/GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android): This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
 * [kevguy/GracenoteSDKSample](https://github.com/kevguy/GracenoteSDKSample): Sample app of GNSDK built with Android Studio
+* [gradio-app/gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 * [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator): Generate Grafana dashboards from configuration
 * [macoscope/GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard): Hang a TV in your open space or team room to show everyone what's up and get them up to speed.
@@ -3237,6 +3239,7 @@
 * [intel/media-delivery](https://github.com/intel/media-delivery): This collection of samples demonstrates best practices to achieve optimal video quality and performance on Intel GPUs for content delivery networks. Check out our demo, recommended command lines and quality and performance measuring tools.
 * [intel/media-driver](https://github.com/intel/media-driver): None
 * [tjenkinson/media-element-syncer](https://github.com/tjenkinson/media-element-syncer): Synchronise two or more HTML5 media elements.
+* [kaltura/media-framework](https://github.com/kaltura/media-framework): Kaltura Live Media Framework
 * [aws-solutions/media-insights-on-aws](https://github.com/aws-solutions/media-insights-on-aws): A serverless framework to accelerate the development of applications that discover next-generation insights in your video, audio, text, and image resources by utilizing AWS Machine Learning and Media services.
 * [blalelimit/media-processing-python](https://github.com/blalelimit/media-processing-python): Format conversion for image, audio, and video files with additional processing features.
 * [ireader/media-server](https://github.com/ireader/media-server): RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
@@ -5367,6 +5370,7 @@
 * [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform): HashiCorp Terraform VSCode extension
 * [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code. 
 * [sterin/vscode-xcodebuild-tools](https://github.com/sterin/vscode-xcodebuild-tools): Work with Xcode projects from inside Visual Studio Code
+* [clitic/vsd](https://github.com/clitic/vsd): Download video streams served over HTTP from websites, HLS (.m3u8) and DASH (.mpd) playlists
 * [vmware-archive/vsphere-storage-for-kubernetes](https://github.com/vmware-archive/vsphere-storage-for-kubernetes): vSphere Storage for Kubernetes
 * [MrRio/vtop](https://github.com/MrRio/vtop): Wow such top. So stats. More better than regular top.
 * [video-dev/vtt.js](https://github.com/video-dev/vtt.js): A JavaScript implementation of the WebVTT specification

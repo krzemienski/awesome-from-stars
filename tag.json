@@ -5570,6 +5570,9 @@
     "clipable/clipable": [
         "Other"
     ],
+    "clitic/vsd": [
+        "Other"
+    ],
     "cloudalchemy/ansible-prometheus": [
         "Other"
     ],
@@ -7898,6 +7901,9 @@
     "gpouilloux/gnome-shell-extension-docker": [
         "Other"
     ],
+    "gradio-app/gradio": [
+        "Other"
+    ],
     "grafana/grafana": [
         "Other"
     ],
@@ -9302,6 +9308,9 @@
     "kaltura/clients-generator": [
         "Other"
     ],
+    "kaltura/media-framework": [
+        "Other"
+    ],
     "kaltura/nginx-vod-module": [
         "Other"
     ],
@@ -10131,6 +10140,9 @@
         "Other"
     ],
     "linuxserver/docker-code-server": [
+        "Other"
+    ],
+    "linuxserver/docker-duplicati": [
         "Other"
     ],
     "linuxserver/docker-ffmpeg": [
