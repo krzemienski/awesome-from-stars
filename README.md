@@ -4144,6 +4144,7 @@
 * [rancher/rancher](https://github.com/rancher/rancher): Complete container management platform
 * [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop): Container Management and Kubernetes on the Desktop
 * [ranger/ranger](https://github.com/ranger/ranger): A VIM-inspired filemanager for the console
+* [hauxir/rapidbay](https://github.com/hauxir/rapidbay): Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 * [djselbeck/rapl-read-ryzen](https://github.com/djselbeck/rapl-read-ryzen): Quick & dirty hack to read AMD Ryzen rapl counters
 * [ljunkie/rarflix](https://github.com/ljunkie/rarflix): Plex Roku Channel - original source from https://github.com/plexinc/roku-client-public
 * [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os): Learning operating system development using Linux kernel and Raspberry Pi
@@ -5431,7 +5432,7 @@
 * [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform): HashiCorp Terraform VSCode extension
 * [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code. 
 * [sterin/vscode-xcodebuild-tools](https://github.com/sterin/vscode-xcodebuild-tools): Work with Xcode projects from inside Visual Studio Code
-* [clitic/vsd](https://github.com/clitic/vsd): Download video streams served over HTTP from websites, HLS (.m3u8) and DASH (.mpd) playlists
+* [clitic/vsd](https://github.com/clitic/vsd): Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists
 * [vmware-archive/vsphere-storage-for-kubernetes](https://github.com/vmware-archive/vsphere-storage-for-kubernetes): vSphere Storage for Kubernetes
 * [MrRio/vtop](https://github.com/MrRio/vtop): Wow such top. So stats. More better than regular top.
 * [video-dev/vtt.js](https://github.com/video-dev/vtt.js): A JavaScript implementation of the WebVTT specification
