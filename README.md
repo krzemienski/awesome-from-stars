@@ -1010,7 +1010,7 @@
 * [Ramotion/cardslider](https://github.com/Ramotion/cardslider): :octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
 * [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb): A cargo subcommand that generates Debian packages from information in Cargo.toml
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
-* [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+* [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 * [castjs/castjs](https://github.com/castjs/castjs): 📺 Chromecast Sender Library for the Browser
 * [xat/castnow](https://github.com/xat/castnow): commandline chromecast player
 * [googlecast/CastReceiver](https://github.com/googlecast/CastReceiver): Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features.
@@ -5317,7 +5317,7 @@
 * [f11894/video_benchmark](https://github.com/f11894/video_benchmark): None
 * [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter): Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 * [kahache/video_packaging_platform](https://github.com/kahache/video_packaging_platform): Video packaging platform - this will build a Docker with a web API that will let you upload, encrypt and serve videos as MPEG DASH files
-* [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c): a plugin-oriented framework for video structured.
+* [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c): a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流。
 * [paradisec-archive/video_processing-MP4](https://github.com/paradisec-archive/video_processing-MP4): Development of this documentation was generously funded by the ARC Centre of Excellence for the Dynamics of Language (CoEDL): www.dynamicsoflanguage.edu.au
 * [donmelton/video_transcoding](https://github.com/donmelton/video_transcoding): Tools to transcode, inspect and convert videos.
 * [ntodd/video_transcoding_docker](https://github.com/ntodd/video_transcoding_docker): Dockerfiles for ntodd/video-transcoding docker images
