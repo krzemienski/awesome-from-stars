@@ -1114,7 +1114,7 @@
 * [scality/cloudserver](https://github.com/scality/cloudserver): Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 * [cloudstateio/cloudstate](https://github.com/cloudstateio/cloudstate): Distributed State Management for Serverless
 * [bfansports/CloudTranscode](https://github.com/bfansports/CloudTranscode): Distributed videos and images encoding/transcoding using Amazon SFN, FFMpeg and ImageMagic
-* [kvasukib/CloudTranscode](https://github.com/kvasukib/CloudTranscode): Distributed video encoding/transcoding using Amazon Web Services and FFMpeg
+* [rubyrose-aws/CloudTranscode](https://github.com/rubyrose-aws/CloudTranscode): Distributed video encoding/transcoding using Amazon Web Services and FFMpeg
 * [bfansports/CloudTranscode-Lambda](https://github.com/bfansports/CloudTranscode-Lambda): AWS Lambda function for doing FFMpeg transcoding
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter): Metrics exporter for Amazon AWS CloudWatch
 * [Dids/clover-builder](https://github.com/Dids/clover-builder): Automated Clover builds.

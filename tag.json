@@ -10034,9 +10034,6 @@
     "kuu/hls-parser": [
         "Other"
     ],
-    "kvasukib/CloudTranscode": [
-        "Other"
-    ],
     "kwodzicki/video_utils": [
         "Other"
     ],
@@ -13488,6 +13485,9 @@
         "Other"
     ],
     "rubenochiavone/awesomeness": [
+        "Other"
+    ],
+    "rubyrose-aws/CloudTranscode": [
         "Other"
     ],
     "ruffle-rs/ruffle": [
