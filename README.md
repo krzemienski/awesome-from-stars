@@ -366,6 +366,7 @@
 * [async-rs/async-std](https://github.com/async-rs/async-std): Async version of the Rust standard library
 * [jonathanslenders/asyncio-redis](https://github.com/jonathanslenders/asyncio-redis): Redis client for Python asyncio (PEP 3156)
 * [briancoyner/AsyncWorkflow](https://github.com/briancoyner/AsyncWorkflow): Techniques for building "async workflows" using `NSOperation` and `NSOperationQueue`.
+* [hibiken/asynq](https://github.com/hibiken/asynq): Simple, reliable, and efficient distributed task queue in Go
 * [athensresearch/athens](https://github.com/athensresearch/athens): ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 * [YadominJinta/atilo](https://github.com/YadominJinta/atilo): Linux installer for termux
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
@@ -497,6 +498,7 @@
 * [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
 * [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): Discover the power of AWS Chalice, the ultimate framework for crafting seamless Python serverless applications. With Chalice, you can effortlessly build and manage HTTPS APIs, create web apps using popular front-end toolkits, and serve as the backend for cross-platform desktop and mobile apps developed with Qt for Python. 
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
+* [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT): ChatGPT资料汇总学习，持续更新......
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
@@ -1060,6 +1062,7 @@
 * [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls): Extension that allows native hls playback in chrome browser
 * [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew): Package manager for Chrome OS
 * [ajhsu/chromecast-device-emulator](https://github.com/ajhsu/chromecast-device-emulator): Testing your chromecast receiver app, without a real-device needed.
+* [chromedp/chromedp](https://github.com/chromedp/chromedp): A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 * [ste82/ChromeVideoCapture](https://github.com/ste82/ChromeVideoCapture): Chrome extension to capture <video> tag stream and save it to file or transcoding with FFmpeg
 * [mesos/chronos](https://github.com/mesos/chronos): Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 * [muxinc/chunked-transfer-demo](https://github.com/muxinc/chunked-transfer-demo): Webserver that demonstrates delivery of HLS media with HTTP chunked transfer encoding
@@ -1281,6 +1284,7 @@
 * [CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout): UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.
 * [vzhd1701/csv2notion](https://github.com/vzhd1701/csv2notion): Import/Merge CSV files into Notion database
 * [creativetimofficial/ct-black-dashboard-pro-django](https://github.com/creativetimofficial/ct-black-dashboard-pro-django): Black Dashboard PRO - Premium Django Template | Creative-Tim
+* [creativetimofficial/ct-corporate-ui-dashboard-pro](https://github.com/creativetimofficial/ct-corporate-ui-dashboard-pro): Corporate UI Dashboard Pro - Bootstrap 5 Admin Dashboard
 * [mackworth/cTiVo](https://github.com/mackworth/cTiVo): TiVo Show Downloads for MacOS
 * [PJ-Singh-001/Cubic](https://github.com/PJ-Singh-001/Cubic): The Official Web Site for Cubic (Custom Ubuntu ISO Creator) (https://github.com/PJ-Singh-001/Cubic)
 * [NVIDIA/cuda-profiler](https://github.com/NVIDIA/cuda-profiler): Tools and extensions for CUDA profiling

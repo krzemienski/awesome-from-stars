@@ -5561,6 +5561,9 @@
     "chromebrew/chromebrew": [
         "Other"
     ],
+    "chromedp/chromedp": [
+        "Other"
+    ],
     "chubin/awesome-console-services": [
         "Other"
     ],
@@ -5891,6 +5894,9 @@
     "creativetimofficial/ct-black-dashboard-pro-django": [
         "Other"
     ],
+    "creativetimofficial/ct-corporate-ui-dashboard-pro": [
+        "Other"
+    ],
     "creativetimofficial/purity-ui-dashboard": [
         "Other"
     ],
@@ -6012,6 +6018,9 @@
         "Other"
     ],
     "daliansky/Hackintosh": [
+        "Other"
+    ],
+    "dalinvip/Awesome-ChatGPT": [
         "Other"
     ],
     "daltoniam/Starscream": [
@@ -8307,6 +8316,9 @@
         "Other"
     ],
     "hiberbee/themes": [
+        "Other"
+    ],
+    "hibiken/asynq": [
         "Other"
     ],
     "hishamhm/htop": [
