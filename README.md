@@ -1525,6 +1525,7 @@
 * [vdhpieter/docker-letsencrypt-webroot](https://github.com/vdhpieter/docker-letsencrypt-webroot): Letsencrypt cert auto renewal for nginx base image
 * [AgentOak/docker-livestreaming](https://github.com/AgentOak/docker-livestreaming): Containers for RTMP/HLS/DASH/WebM live streaming
 * [mickaelperrin/docker-magic-sync](https://github.com/mickaelperrin/docker-magic-sync): Docker image that provides a portable and easy to configure bi-directionnal sync for Docker with user/uid mapping
+* [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo): Matomo (formerly Piwik) Docker image
 * [spotify/docker-maven-plugin](https://github.com/spotify/docker-maven-plugin): INACTIVE: A maven plugin for Docker
 * [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud): None
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
@@ -1591,6 +1592,7 @@
 * [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin): very currency
 * [didi/DoKit](https://github.com/didi/DoKit): 一款面向泛前端产品研发全生命周期的效率平台。
 * [dokku/dokku](https://github.com/dokku/dokku): A docker-powered PaaS that helps you build and manage the lifecycle of applications
+* [stockmind/dokkupose](https://github.com/stockmind/dokkupose): None
 * [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki): The DokuWiki Open Source Wiki Engine
 * [rokudev/dolby-audio-sample](https://github.com/rokudev/dolby-audio-sample): A collection of Dolby test content available in different streaming protocols.
 * [DolbyLaboratories/dolby-encoding-engine](https://github.com/DolbyLaboratories/dolby-encoding-engine): None
@@ -4974,6 +4976,7 @@
 * [slackapi/template-slash-command-and-dialogs](https://github.com/slackapi/template-slash-command-and-dialogs): Sample Slack app that uses a Slash Command and interactive message to create helpdesk tickets
 * [ContainerSolutions/template-spring-boot](https://github.com/ContainerSolutions/template-spring-boot): Template for a Spring boot project
 * [easypanel-io/templates](https://github.com/easypanel-io/templates): None
+* [portainer/templates](https://github.com/portainer/templates): App Templates used by Portainer
 * [DavidBrightSparc/Tenets-of-IT](https://github.com/DavidBrightSparc/Tenets-of-IT): The Tenets of IT: an accumulation of IT advice, wisdom, and humour.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
@@ -5503,6 +5506,7 @@
 * [dgruber/wfl](https://github.com/dgruber/wfl):  A Simple Way of Creating Job Workflows in Go running in Processes, Containers, Tasks, Pods, or Jobs 
 * [DeskConnect/WFOAuth2](https://github.com/DeskConnect/WFOAuth2): A modern OAuth 2 library for macOS, iOS, tvOS and watchOS.
 * [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer): :ocean: WFPlayer.js is an audio waveform generator
+* [palfrey/wharf](https://github.com/palfrey/wharf): Web UI for Dokku
 * [ole/whats-new-in-swift-4-2](https://github.com/ole/whats-new-in-swift-4-2): An Xcode playground demonstrating the new features in in Swift 4.2.
 * [twostraws/whats-new-in-swift-5-0](https://github.com/twostraws/whats-new-in-swift-5-0): An Xcode playground that demonstrates the new features introduced in Swift 5.0.
 * [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt): Decrypt WhatsApp encrypted media files

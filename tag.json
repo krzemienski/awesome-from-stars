@@ -5879,6 +5879,9 @@
     "crawlab-team/crawlab": [
         "Other"
     ],
+    "crazy-max/docker-matomo": [
+        "Other"
+    ],
     "crazyguitar/pysheeet": [
         "Other"
     ],
@@ -12344,6 +12347,9 @@
     "palazzem/cookiecutter-django-cms": [
         "Other"
     ],
+    "palfrey/wharf": [
+        "Other"
+    ],
     "pallets/flask": [
         "Other"
     ],
@@ -12687,6 +12693,9 @@
         "Other"
     ],
     "portainer/portainer-compose": [
+        "Other"
+    ],
+    "portainer/templates": [
         "Other"
     ],
     "posixninja/libimobiledevice": [
@@ -14505,6 +14514,9 @@
         "Other"
     ],
     "stn1slv/awesome-integration": [
+        "Other"
+    ],
+    "stockmind/dokkupose": [
         "Other"
     ],
     "stockmind/gpd-pocket-screen-indicator": [
