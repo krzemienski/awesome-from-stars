@@ -2218,6 +2218,7 @@
 * [appcoda/GCDSamples](https://github.com/appcoda/GCDSamples): A simple demo for Grand Central Dispatch in Swift 3
 * [swisspol/GCDWebServer](https://github.com/swisspol/GCDWebServer): The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server)
 * [diego3g/gcloud-node-video-transcoding](https://github.com/diego3g/gcloud-node-video-transcoding): 📹🔥 Transcode Google Cloud Storage video files with Node.js and FFmpeg
+* [carousell/GCP-Bill-Analyzer](https://github.com/carousell/GCP-Bill-Analyzer): Compare your GCP bills across months
 * [pendo-io/gcs-s3-sync](https://github.com/pendo-io/gcs-s3-sync): A Google Cloud Function to sync files from a GCS bucket into an S3 bucket
 * [prasmussen/gdrive](https://github.com/prasmussen/gdrive): Google Drive CLI Client
 * [VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote): Console client for Evernote.
@@ -2401,6 +2402,7 @@
 * [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
 * [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
 * [chriskiehl/GooeyExamples](https://github.com/chriskiehl/GooeyExamples): Example programs to Demonstrate Gooey's functionality 
+* [ptagr/google-cloud-storage-analyzer](https://github.com/ptagr/google-cloud-storage-analyzer): Use this tool to monitor the sizes of the Google Cloud Storage Buckets over time.
 * [phillipcaudell/Google-Drive-for-Mac](https://github.com/phillipcaudell/Google-Drive-for-Mac): A standalone macOS app for Google Docs, Sheets and Slides
 * [googleads/google-media-framework-ios](https://github.com/googleads/google-media-framework-ios): The Google Media Framework (GMF) is a lightweight media player designed to make video playback and integration with the Google IMA SDK on iOS easier.
 * [google/google-toolbox-for-mac](https://github.com/google/google-toolbox-for-mac): Google Toolbox for Mac
@@ -2495,6 +2497,7 @@
 * [vinteo/hass-neeo](https://github.com/vinteo/hass-neeo): NEEO custom component for Home Assistant
 * [Samsung/HbbPlayer](https://github.com/Samsung/HbbPlayer): HbbPlayer is HbbTV application which can playback media by using url of media as parameter. It conforms to W3C and HbbTV specification.
 * [ThaCheeseBun/hdr-sucks](https://github.com/ThaCheeseBun/hdr-sucks): libx265 transcoding wrapper with HDR support
+* [quietvoid/hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool): CLI utility to work with HDR10+ in HEVC files.
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox): HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
 * [juzzlin/Heimer](https://github.com/juzzlin/Heimer): Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 * [helloSystem/hello](https://github.com/helloSystem/hello): Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!

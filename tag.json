@@ -5327,6 +5327,9 @@
     "carlspring/s3fs-nio": [
         "Other"
     ],
+    "carousell/GCP-Bill-Analyzer": [
+        "Other"
+    ],
     "carpedm20/awesome-hacking": [
         "Other"
     ],
@@ -12797,6 +12800,9 @@
     "psf/black": [
         "Other"
     ],
+    "ptagr/google-cloud-storage-analyzer": [
+        "Other"
+    ],
     "ptrandev/swift-encoder": [
         "Other"
     ],
@@ -12960,6 +12966,9 @@
         "Other"
     ],
     "quietvoid/dovi_tool": [
+        "Other"
+    ],
+    "quietvoid/hdr10plus_tool": [
         "Other"
     ],
     "quodlibet/mutagen": [
