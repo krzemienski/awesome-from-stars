@@ -5375,7 +5375,7 @@
 * [TrafeX/videotranscoder](https://github.com/TrafeX/videotranscoder): Wrapper around ffmpeg to transcode media to Apple's ProRes codec
 * [wangda8791/VideoTranscoder](https://github.com/wangda8791/VideoTranscoder): VideoTranscoder, desktop video application based on ffmpeg binary
 * [cash2one/VideoTranscoding-Backend](https://github.com/cash2one/VideoTranscoding-Backend): This application transcode a video that you send on all formats what you want and diferent resolutions.
-* [gurrutia/videoxt](https://github.com/gurrutia/videoxt): Extract frames from videos and convert them to images or gifs.
+* [gurrutia/videoxt](https://github.com/gurrutia/videoxt): Extract audio, clips, frames and create gifs from a video.
 * [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear): A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 * [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio): FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
 * [munagekar/vidsleuth](https://github.com/munagekar/vidsleuth): Video Sleuth is a powerful python based video analysis tool under development.  It includes wrappers around ffmpeg and vmaf. Comes with utilities for benchmarking.
