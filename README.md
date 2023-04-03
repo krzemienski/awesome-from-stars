@@ -4420,7 +4420,7 @@
 * [gperdomor/sanitize](https://github.com/gperdomor/sanitize): Powerful model extraction from Vapor JSON requests
 * [louisdh/savanna](https://github.com/louisdh/savanna): A native iOS & macOS IDE for the Cub programming language
 * [louisdh/savannakit](https://github.com/louisdh/savannakit): A high-performance, protocol oriented, framework for creating native IDEs for iOS and macOS, written in Swift
-* [insight-platform/Savant](https://github.com/insight-platform/Savant): Supercharged Video Analytics Framework With Batteries Included
+* [insight-platform/Savant](https://github.com/insight-platform/Savant): Python Streaming Video Analytics Framework With Batteries Included
 * [dkashin/sb-transcoder-vod](https://github.com/dkashin/sb-transcoder-vod): Simple yet powerful automatic VOD transcoder
 * [Seitenbau/SBideo](https://github.com/Seitenbau/SBideo): A simple video archive including video transcoding
 * [dmaccarthy/sc8pr](https://github.com/dmaccarthy/sc8pr): A simple framework for new and experienced Python programmers to create animations, games, and other graphics-based programs. Includes GUI controls, robotics simulator, and video recording and effects. 
