@@ -1072,7 +1072,7 @@
 * [ngs/ci2go](https://github.com/ngs/ci2go): CI2Go is a @CircleCI client for iPhone, iPad, Apple Watch and Mac.
 * [shilgam/ci_tools](https://github.com/shilgam/ci_tools): Popular CI/CD Tools Comparison: Travis, CircleCI, Gitlab CI, Codeship Pro
 * [robertsanseries/ciano](https://github.com/robertsanseries/ciano): A multimedia file converter focused on simplicity.
-* [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which support multiple platform Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is providing a player core which support multi platform, hardware accelerator, customizable and extensible features. Which support WideVine drm and LL-HLS dash.
+* [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which support multiple platform Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is providing a player core which support multi platform, hardware accelerator, customizable and extensible features. Which support WideVine drm, LL-HLS, MPEG-DASH and HDR playback.
 * [cilium/cilium](https://github.com/cilium/cilium): eBPF-based Networking, Security, and Observability
 * [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
@@ -1824,6 +1824,7 @@
 * [xyoye/ExoFFmpegPlayer](https://github.com/xyoye/ExoFFmpegPlayer): 适用于ExoPlayer的FFmpeg扩展
 * [google/ExoPlayer](https://github.com/google/ExoPlayer): An extensible media player for Android
 * [amzn/exoplayer-amazon-port](https://github.com/amzn/exoplayer-amazon-port): Official port of ExoPlayer for Amazon devices
+* [yoobi/exoplayer-kotlin](https://github.com/yoobi/exoplayer-kotlin): Cookbook of multiple feature for Exoplayer
 * [ashwanijanghu/ExoPlayer-Offline](https://github.com/ashwanijanghu/ExoPlayer-Offline): A ExoPlayer demo application changed for Offline Playback of DRM content
 * [Sriharia/ExoPlayer-StatsForNerds](https://github.com/Sriharia/ExoPlayer-StatsForNerds): Demo app to showcase ExoPlayer customisations like Stats-For-Nerds & Improved buffering.
 * [Pulimet/ExoPlayer-Wrapper](https://github.com/Pulimet/ExoPlayer-Wrapper): :tv: Android library, ExoPlayer wrapper (2017)
