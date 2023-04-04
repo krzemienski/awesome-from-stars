@@ -230,6 +230,7 @@
 * [warren-bank/Android-ExoPlayer-AirPlay-Receiver](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver): Android app to run on a set-top box and play video URLs "cast" to it with a stateless HTTP API (based on AirPlay v1).
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
+* [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Exoplayer
 * [EliverLara/Andromeda](https://github.com/EliverLara/Andromeda): :rocket: Dark theme for vscode
 * [albogdano/angular2-para](https://github.com/albogdano/angular2-para): Angular + Para quickstart example
 * [satoshin21/Anima](https://github.com/satoshin21/Anima): Anima is chainable Layer-Based Animation library for Swift5.
@@ -1738,6 +1739,7 @@
 * [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue): An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 * [PanJiaChen/electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin):  vue electron admin template web: http://panjiachen.github.io/vue-admin-template
 * [FormidableLabs/electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard): Electron Desktop GUI for Webpack Dashboard
+* [oscartbeaumont/ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
 * [OwenEdwards/ElephantsDreamHLS](https://github.com/OwenEdwards/ElephantsDreamHLS): Script and manifest files to create an HLS program containing the Elephants Dream video with captions, subtitles, and audio description
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
@@ -2959,6 +2961,7 @@
 * [ethanhuang13/knil](https://github.com/ethanhuang13/knil): Universal Links testing made easy
 * [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo): A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 * [digimezzo/knowte](https://github.com/digimezzo/knowte): Cross platform note taking application
+* [eneim/kohii](https://github.com/eneim/kohii): Android Video Playback made easy.
 * [shibapm/Komondor](https://github.com/shibapm/Komondor): Git Hooks for Swift projects 🐩
 * [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi): A beautiful and customizable wallpapers manager for Linux
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
