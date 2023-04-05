@@ -1289,6 +1289,9 @@
     "Figma-Linux/figma-linux": [
         "Other"
     ],
+    "FirebaseExtended/flutterfire_desktop": [
+        "Other"
+    ],
     "Fizzadar/pyinfra": [
         "Other"
     ],
@@ -8739,9 +8742,6 @@
         "Other"
     ],
     "intuit/LocationManager": [
-        "Other"
-    ],
-    "invertase/flutterfire_desktop": [
         "Other"
     ],
     "ionelmc/cookiecutter-pylibrary": [
