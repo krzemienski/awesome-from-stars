@@ -560,6 +560,7 @@
 * [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management): Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 😱 Falsehoods Programmers Believe in
 * [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi): A curated list of awesome things related to FastAPI
+* [tnfe/awesome-ffcreator](https://github.com/tnfe/awesome-ffcreator): awesome ffcreator projects
 * [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 👻 A curated list of awesome FFmpeg resources.
 * [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask): A curated list of awesome Flask resources and plugins
 * [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask): A curated list of awesome things related to Flask
@@ -1924,7 +1925,10 @@
 * [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter): GUI File Format Converter
 * [FraMecca/ffbench](https://github.com/FraMecca/ffbench): test different ffmpeg trascoding settings
 * [ColorlabMD/FFCommand_Engine](https://github.com/ColorlabMD/FFCommand_Engine): Create and execute FFmpeg commands
+* [miravideo/FFCreator](https://github.com/miravideo/FFCreator): 一个基于node.js的高速短视频制作库  A fast short video processing library based on node.js
 * [tnfe/FFCreator](https://github.com/tnfe/FFCreator): 一个基于node.js的高速视频制作库  A fast video processing library based on node.js
+* [xucz/ffcreator-example](https://github.com/xucz/ffcreator-example): FFCreator Example
+* [drawcall/FFCreatorLite](https://github.com/drawcall/FFCreatorLite): A lightweight and fast short video processing library based on node.js
 * [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic): Library with dynamic audio/video composition and runtime control
 * [xiewei-wayne/FFEngine.framework](https://github.com/xiewei-wayne/FFEngine.framework): FFEngine framework is a high performance player sdk for iOS based on ffmpeg.
 * [just-work/fffw](https://github.com/just-work/fffw): ffmpeg command line tool wrapper
@@ -2713,6 +2717,7 @@
 * [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles): Quickly get your dotfiles up and running
 * [isac322/init-manjaro](https://github.com/isac322/init-manjaro): None
 * [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode): Runtime Code Injection for Objective-C & Swift
+* [drawcall/inkpaint](https://github.com/drawcall/inkpaint): InkPaint is a lightweight node.js canvas graphics library
 * [krzemienski/inlets-traefik-docker](https://github.com/krzemienski/inlets-traefik-docker): Inlets + Traefik 2 + Docker + Docker-Compose
 * [yashodhank/inlets-traefik-docker](https://github.com/yashodhank/inlets-traefik-docker): Inlets + Traefik 2 + Docker + Docker-Compose
 * [louisdh/InputAssistant](https://github.com/louisdh/InputAssistant): Provide custom auto-completion options for the iOS keyboard.
@@ -3172,6 +3177,7 @@
 * [Dashibase/lotion](https://github.com/Dashibase/lotion): An open-source Notion UI built with Vue 3 
 * [puneetsl/lotion](https://github.com/puneetsl/lotion): Unofficial Notion.so app for Linux
 * [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios): An iOS library to natively render After Effects vector animations
+* [drawcall/lottie-node](https://github.com/drawcall/lottie-node): Render AE lottie animations file in Node.js
 * [airbnb/lottie-web](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 * [waylybaye/LoveBundle](https://github.com/waylybaye/LoveBundle): None
 * [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform): 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
@@ -4532,6 +4538,7 @@
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
 * [natelandau/shell-scripting-templates](https://github.com/natelandau/shell-scripting-templates): Shell scripting utility functions and a bash script boilerplate template
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
+* [tnfe/shida](https://github.com/tnfe/shida): 《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 * [a2/shortcuts-swift](https://github.com/a2/shortcuts-swift): Write Shortcuts in Playgrounds
 * [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory): A collection of user-submitted shortcuts for Shortcuts for iOS.

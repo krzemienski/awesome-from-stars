@@ -6701,6 +6701,15 @@
     "dragonman225/trigger-webhook-from-notion": [
         "Other"
     ],
+    "drawcall/FFCreatorLite": [
+        "Other"
+    ],
+    "drawcall/inkpaint": [
+        "Other"
+    ],
+    "drawcall/lottie-node": [
+        "Other"
+    ],
     "drewnoakes/metadata-extractor": [
         "Other"
     ],
@@ -11222,6 +11231,9 @@
     "miquido/futura": [
         "Other"
     ],
+    "miravideo/FFCreator": [
+        "Other"
+    ],
     "mitio/useful-ffmpeg-commands": [
         "Other"
     ],
@@ -15167,6 +15179,12 @@
     "tnfe/FFCreator": [
         "Other"
     ],
+    "tnfe/awesome-ffcreator": [
+        "Other"
+    ],
+    "tnfe/shida": [
+        "Other"
+    ],
     "toeverything/AFFiNE": [
         "Other"
     ],
@@ -16383,6 +16401,9 @@
         "Other"
     ],
     "xuancong84/indicator-cpufreq": [
+        "Other"
+    ],
+    "xucz/ffcreator-example": [
         "Other"
     ],
     "xufuji456/FFmpegAndroid": [
