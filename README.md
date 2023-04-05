@@ -1250,7 +1250,7 @@
 * [Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios): Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.
 * [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios): Countly Product Analytics iOS SDK with macOS, watchOS and tvOS support. 
 * [Countly/countly-sdk-nodejs](https://github.com/Countly/countly-sdk-nodejs): Countly SDK for NodeJS
-* [Countly/countly-server](https://github.com/Countly/countly-server): Countly helps you get insights from your application. Available self-hosted or on private cloud.
+* [Countly/countly-server](https://github.com/Countly/countly-server): Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 * [nychealth/covid-maps](https://github.com/nychealth/covid-maps): Maps of COVID-19 data, as displayed on DOHMH webpages
 * [joswr1ght/cowpatty](https://github.com/joswr1ght/cowpatty): coWPAtty: WPA2-PSK Cracking
 * [Axinom/cpix](https://github.com/Axinom/cpix): .NET library for reading and writing CPIX documents
@@ -3146,7 +3146,7 @@
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
-* [localstack/localstack](https://github.com/localstack/localstack): 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+* [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel): expose yourself
 * [intuit/LocationManager](https://github.com/intuit/LocationManager): Easily get the device's current location on iOS.
 * [zhuorantan/LocationPicker](https://github.com/zhuorantan/LocationPicker): A ready for use and fully customizable location picker for your app
