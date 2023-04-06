@@ -836,6 +836,7 @@
 * [krzemienski/bakery](https://github.com/krzemienski/bakery): HLS and DASH Manifest Service
 * [soldiermoth/bakery](https://github.com/soldiermoth/bakery): HLS and DASH Manifest Service
 * [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo): Next generation Wagtail demo, born in Reykjavik
+* [charleyup/banzou](https://github.com/charleyup/banzou): 伴奏带歌词
 * [LemonBoy/bar](https://github.com/LemonBoy/bar): A featherweight, lemon-scented, bar based on xcb
 * [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter): Dynamically changes status bar style depending on content behind it
 * [evertramos/basescript](https://github.com/evertramos/basescript): Scripts to be used for automation by other scripts
@@ -2507,6 +2508,7 @@
 * [ThaCheeseBun/hdr-sucks](https://github.com/ThaCheeseBun/hdr-sucks): libx265 transcoding wrapper with HDR support
 * [quietvoid/hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool): CLI utility to work with HDR10+ in HEVC files.
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox): HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
+* [stackgl/headless-gl](https://github.com/stackgl/headless-gl): 🎃 Windowless WebGL for node.js
 * [juzzlin/Heimer](https://github.com/juzzlin/Heimer): Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 * [helloSystem/hello](https://github.com/helloSystem/hello): Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 * [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos): Hello LaunchDarkly for tvOS
@@ -2928,6 +2930,7 @@
 * [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for): A simple script that allows to wait for a k8s service, job or pods to enter a desired state
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [devlucky/Kakapo](https://github.com/devlucky/Kakapo): 🐤Dynamically Mock server behaviors and responses in Swift
+* [kinglisky/kakashi](https://github.com/kinglisky/kakashi): None
 * [kaltura/KalturaGeneratedAPIClientsPython](https://github.com/kaltura/KalturaGeneratedAPIClientsPython): Python auto generated clients libs which will then be built and test by Travis CI
 * [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
 * [influxdata/kapacitor](https://github.com/influxdata/kapacitor): Open source framework for processing, monitoring, and alerting on time series data
@@ -3574,6 +3577,7 @@
 * [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel.
 * [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 * [nodejs/node](https://github.com/nodejs/node): Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+* [Automattic/node-canvas](https://github.com/Automattic/node-canvas): Node canvas is a Cairo backed Canvas implementation for NodeJS.
 * [michaelkourlas/node-cloudflare-dynamic-dns](https://github.com/michaelkourlas/node-cloudflare-dynamic-dns): Node.js module for updating a Cloudflare DNS address record with an IP address
 * [openebs/node-disk-manager](https://github.com/openebs/node-disk-manager): Kubernetes Storage Device Management
 * [larkinwc/node-express-cookie-cutter](https://github.com/larkinwc/node-express-cookie-cutter): Simple node express development environment using static pages
@@ -4470,7 +4474,7 @@
 * [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the industry leading SCTE-35 Decoder.  The highest rated SCTE-35 Parser. 
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
-* [deforum-art/sd-webui-modelscope-text2video](https://github.com/deforum-art/sd-webui-modelscope-text2video): Auto1111 extension consisting of implementation of ModelScope text2video using only Auto1111 webui dependencies
+* [deforum-art/sd-webui-text2video](https://github.com/deforum-art/sd-webui-text2video): Auto1111 extension consisting of implementation of text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
 * [rokudev/SDK-Development-Guide](https://github.com/rokudev/SDK-Development-Guide): None

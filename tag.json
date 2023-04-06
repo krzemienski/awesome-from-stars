@@ -317,6 +317,9 @@
     "AutoFixture/AutoFixture": [
         "Other"
     ],
+    "Automattic/node-canvas": [
+        "Other"
+    ],
     "Automattic/pocket-casts-android": [
         "Other"
     ],
@@ -5471,6 +5474,9 @@
     "charjac/gatsby-plugin-linkedin-resume": [
         "Other"
     ],
+    "charleyup/banzou": [
+        "Other"
+    ],
     "charmbracelet/bubbletea": [
         "Other"
     ],
@@ -6263,7 +6269,7 @@
     "deezer/spleeter": [
         "Other"
     ],
-    "deforum-art/sd-webui-modelscope-text2video": [
+    "deforum-art/sd-webui-text2video": [
         "Other"
     ],
     "dehatanes/super-useful-notion-cli": [
@@ -9675,6 +9681,9 @@
         "Other"
     ],
     "kieranjol/IFIscripts": [
+        "Other"
+    ],
+    "kinglisky/kakashi": [
         "Other"
     ],
     "kingslay/KSPlayer": [
@@ -14463,6 +14472,9 @@
         "Other"
     ],
     "srevinsaju/guiscrcpy": [
+        "Other"
+    ],
+    "stackgl/headless-gl": [
         "Other"
     ],
     "stackrock/mediamachinejava": [
