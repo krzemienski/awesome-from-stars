@@ -1440,6 +1440,7 @@
 * [devspace-sh/devspace](https://github.com/devspace-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * [archlinux/devtools](https://github.com/archlinux/devtools): Tools for Arch Linux package maintainers (read-only mirror)
 * [eebean2/DevTools](https://github.com/eebean2/DevTools): Open Source Developer Tools
+* [vuejs/devtools](https://github.com/vuejs/devtools): ⚙️ Browser devtools extension for debugging Vue.js applications.
 * [durfu/DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer): RTSP player for iOS with ffmpeg.
 * [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker): A library to display an interactive editor for any graph-like data.
 * [mingrammer/diagrams](https://github.com/mingrammer/diagrams): :art: Diagram as Code for prototyping cloud system architectures
@@ -5397,6 +5398,7 @@
 * [gurrutia/videoxt](https://github.com/gurrutia/videoxt): Extract audio, clips, frames and create gifs from a video.
 * [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear): A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 * [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio): FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
+* [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger): 📼 Merge video & audio files via CLI
 * [munagekar/vidsleuth](https://github.com/munagekar/vidsleuth): Video Sleuth is a powerful python based video analysis tool under development.  It includes wrappers around ffmpeg and vmaf. Comes with utilities for benchmarking.
 * [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator): ViewAnimator brings your UI to life with just one line
 * [OlivierLeBozec/viewts](https://github.com/OlivierLeBozec/viewts): Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
@@ -5604,6 +5606,7 @@
 * [JackTeam/XHLoadingNavigationItemTitleView](https://github.com/JackTeam/XHLoadingNavigationItemTitleView): XHLoadingNavigationItemTitleView is show title conver to method swizzling display loading HUD.
 * [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac): The xi-editor mac frontend.
 * [Uncommon/Xit](https://github.com/Uncommon/Xit): Mac OS X Git GUI
+* [harlanc/xiu](https://github.com/harlanc/xiu): A simple, high performance and secure live media server in pure Rust (RTMP[cluster]/HTTP-FLV/HLS).🦀
 * [mooz/xkeysnail](https://github.com/mooz/xkeysnail): Yet another keyboard remapping tool for X environment
 * [xlwings/xlwings](https://github.com/xlwings/xlwings): xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web. 
 * [martinblech/xmltodict](https://github.com/martinblech/xmltodict): Python module that makes working with XML feel like you are working with JSON
@@ -5619,6 +5622,7 @@
 * [Muqtxdir/yaru-remix](https://github.com/Muqtxdir/yaru-remix): My Novice approach for yaru-remix
 * [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea): RTMP live streaming client for Android
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
+* [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl): yet another youtube down loader (Git mirror)
 * [wader/ydls](https://github.com/wader/ydls): youtube-dl HTTP download and transcode service
 * [CatchChat/Yep](https://github.com/CatchChat/Yep): Meet Genius
 * [lkzhao/YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary): Designed for gesture-driven animations. Fast, simple, & extensible!
