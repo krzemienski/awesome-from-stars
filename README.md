@@ -454,6 +454,7 @@
 * [WWBN/AVideo](https://github.com/WWBN/AVideo): Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 * [WWBN/AVideo-Encoder](https://github.com/WWBN/AVideo-Encoder): Encoder Server for AVideo Platform Open-Source
 * [mmcloughlin/avo](https://github.com/mmcloughlin/avo): Generate x86 Assembly with Go
+* [mhergon/AVPlayerViewController-Subtitles](https://github.com/mhergon/AVPlayerViewController-Subtitles): Easy way to show SRT files on AVPlayerViewController
 * [marakew/AvProxy](https://github.com/marakew/AvProxy): IPTV transmux proxy for HTTP(S)/HLS(S)(AES128)/UDP/RTP/RTSP + VOD,  MPTS/T2MI(PLP) demux
 * [Telecommunication-Telemedia-Assessment/AVRate](https://github.com/Telecommunication-Telemedia-Assessment/AVRate): An open source modular Audio/Visual subjective evaluation test interface
 * [Telecommunication-Telemedia-Assessment/avrateNG](https://github.com/Telecommunication-Telemedia-Assessment/avrateNG): avrateNG -- next generation of avrate
@@ -4370,6 +4371,7 @@
 * [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX): A macOS GUI for rsync. Compiled for macOS Big Sur and later
 * [ponnamkarthik/RTMP-Exo-Player-Demo](https://github.com/ponnamkarthik/RTMP-Exo-Player-Demo): Demo RTMP Player Using ExoMedia Player
 * [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server): a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
+* [pedroSG94/rtmp-rtsp-stream-client-swift](https://github.com/pedroSG94/rtmp-rtsp-stream-client-swift): Library to stream in rtmp and rtsp for IOS. All code in Swift
 * [xiewei-wayne/rtmp-video-player-for-ios](https://github.com/xiewei-wayne/rtmp-video-player-for-ios): Based on FFEngine framework, a rtmp video player for apple iOS devices.
 * [rapidloop/rtop](https://github.com/rapidloop/rtop): rtop is an interactive, remote system monitoring tool based on SSH
 * [Roverr/rtsp-stream](https://github.com/Roverr/rtsp-stream): Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
@@ -4560,6 +4562,7 @@
 * [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager): "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
 * [klaudiosinani/signale](https://github.com/klaudiosinani/signale): Highly configurable logging utility
 * [uber/signals-ios](https://github.com/uber/signals-ios): Typeful eventing
+* [Tourenathan-G5organisation/SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor): A powerful, flexible and easy to use Video and Image compression library for Android.
 * [a2nt/silverstripe-digitalocean-nginx-backup-scripts](https://github.com/a2nt/silverstripe-digitalocean-nginx-backup-scripts): SilverStripe Digital Ocean + NGINX + Dropbox service sripts
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second 
 * [Ikuyadeu/similar-code-searcher](https://github.com/Ikuyadeu/similar-code-searcher): a GitHub App built with probot that searches files similar with deleted code in Pull Request.
@@ -4713,6 +4716,7 @@
 * [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios): Swift library for choreographing animations on the screen.
 * [LTD-Beget/sprutio](https://github.com/LTD-Beget/sprutio): Beget File Manager App
 * [spotify/SPTPersistentCache](https://github.com/spotify/SPTPersistentCache): Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours.
+* [TuomoKu/SPX-GC](https://github.com/TuomoKu/SPX-GC): SPX is a graphics control client for live video productions and live streams using CasparCG, OBS, vMix, or similar software.
 * [kiorky/spynner](https://github.com/kiorky/spynner): Programmatic web browsing module with AJAX support for Python
 * [aaberg/sql2o](https://github.com/aaberg/sql2o): sql2o is a small library, which makes it easy to convert the result of your sql-statements into objects. No resultset hacking required. Kind of like an orm, but without the sql-generation capabilities. Supports named parameters.
 * [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
@@ -4766,6 +4770,7 @@
 * [davidask/StateViewController](https://github.com/davidask/StateViewController): Stateful view controller containment for iOS and tvOS
 * [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg): Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 * [statping/statping](https://github.com/statping/statping): Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+* [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
 * [slackapi/steno](https://github.com/slackapi/steno): :vhs: Slack app testing companion - Record and Replay your HTTP requests, both incoming and outgoing
 * [bitrise-io/stepman](https://github.com/bitrise-io/stepman): Step collection manager
 * [bitrise-steplib/steps-cocoapods-install](https://github.com/bitrise-steplib/steps-cocoapods-install): None
