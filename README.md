@@ -414,6 +414,7 @@
 * [majamee/auto-dash-hls](https://github.com/majamee/auto-dash-hls): Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder
 * [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
 * [yavorsky/auto-github-topics](https://github.com/yavorsky/auto-github-topics): 📝 Fetch and set topics to github from package.json
+* [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
 * [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
 * [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle): Automatically generate and overlay subtitles for any video.
 * [sunrise2575/AutoAVS](https://github.com/sunrise2575/AutoAVS):  Automated Audio, Video, Subtitle Tool (ffmpeg 벌크 인코딩 툴)
@@ -1008,6 +1009,7 @@
 * [Fyrd/caniuse](https://github.com/Fyrd/caniuse): Raw browser/feature support data from caniuse.com
 * [CanonicalLtd/canonical-kubernetes-demos](https://github.com/CanonicalLtd/canonical-kubernetes-demos): Official repository for Canonical Kubernetes Demos 
 * [CanvasPod/Canvas](https://github.com/CanvasPod/Canvas): Animate in Xcode without code
+* [ilufang/canvas2ffmpeg](https://github.com/ilufang/canvas2ffmpeg): Pipe canvas data to ffmpeg to create videos
 * [mandiant/capa](https://github.com/mandiant/capa): The FLARE team's open-source tool to identify capabilities in executable files.
 * [Comcast/caption-inspector](https://github.com/Comcast/caption-inspector): Caption Inspector is a reference decoder for Closed Captions (CEA-608 and CEA-708).
 * [captioning/captioning](https://github.com/captioning/captioning): A collection of tools made to help you create and edit subtitles in different formats (Subrip, WebVTT, Substation Alpha...)
@@ -1507,7 +1509,7 @@
 * [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server): None
 * [martijnvwezel/docker-compose-gitlab-owncloud](https://github.com/martijnvwezel/docker-compose-gitlab-owncloud): An docker compose file for booting gitlab and owncloud with a postsql database with letsencrypt
 * [francescou/docker-compose-ui](https://github.com/francescou/docker-compose-ui): web interface for Docker Compose
-* [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose
+* [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
 * [francescou/docker-continuous-deployment](https://github.com/francescou/docker-continuous-deployment): continuous deployment of a microservices application with Docker
 * [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers): Programs to keep Docker login credentials safe by storing in platform keystores
 * [Eyevinn/docker-dash-packager](https://github.com/Eyevinn/docker-dash-packager): Open source MPEG DASH packager for live and VOD
@@ -1516,6 +1518,7 @@
 * [linuxserver/docker-ffmpeg](https://github.com/linuxserver/docker-ffmpeg): None
 * [singhkays/docker-ffmpeg-av1-libaom](https://github.com/singhkays/docker-ffmpeg-av1-libaom): Weekly build of docker image with latest libaom AV1 + FFmpeg + x265 + VP9 +x264 + libvmaf 
 * [nuxeo-sandbox/docker-ffmpeg-nvidia](https://github.com/nuxeo-sandbox/docker-ffmpeg-nvidia): docker-ffmpeg-nvidia
+* [rupakg/docker-ffmpeg-thumb](https://github.com/rupakg/docker-ffmpeg-thumb): Docker image for creating thumbnail images from a video file.
 * [leandromoreira/docker-ffmpeg-vmaf](https://github.com/leandromoreira/docker-ffmpeg-vmaf): Docker FFmpeg VMAF usage example / tips / workflow
 * [kevineye/docker-firetv](https://github.com/kevineye/docker-firetv): Container providing a REST interface to Amazon Fire TV devices.
 * [pm990320/docker-flask-celery](https://github.com/pm990320/docker-flask-celery): Running a flask app and celery worker in the same docker container.
@@ -1980,12 +1983,14 @@
 * [BradHeff/ffmpeg-GUI](https://github.com/BradHeff/ffmpeg-GUI): ffmpeg python Gtk GUI 
 * [tangxbai/ffmpeg-helper](https://github.com/tangxbai/ffmpeg-helper): Ffmpeg helper library
 * [svpv/ffmpeg-hls](https://github.com/svpv/ffmpeg-hls): None
+* [pobrejuanito/ffmpeg-hls-factory](https://github.com/pobrejuanito/ffmpeg-hls-factory): Creates HTTP Live Streaming segments through FFMPEG
 * [askrejans/ffmpeg-home-video-tools](https://github.com/askrejans/ffmpeg-home-video-tools): This is a small colection of useful shell scripts that utilize ffmpeg and assist in creating an order in the usual modern format zoo of the home video world.
 * [kewlbear/FFmpeg-iOS](https://github.com/kewlbear/FFmpeg-iOS): Swift package of FFmpeg libraries for iOS
 * [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script): Shell scripts to build FFmpeg for iOS and tvOS
 * [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit): FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 * [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial): FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 * [id3as/ffmpeg-libvpx-HDR-static](https://github.com/id3as/ffmpeg-libvpx-HDR-static): A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
+* [ddragosd/ffmpeg-live-transcoder](https://github.com/ddragosd/ffmpeg-live-transcoder): Docker image for transcoding a live source to another source, optionally creating multiple qualities.
 * [LTNGlobal-opensource/FFmpeg-ltn](https://github.com/LTNGlobal-opensource/FFmpeg-ltn): None
 * [mahyarkarimi/ffmpeg-ms](https://github.com/mahyarkarimi/ffmpeg-ms): None
 * [analyserdmz/ffmpeg-multi-threaded-convert](https://github.com/analyserdmz/ffmpeg-multi-threaded-convert): It will scan a directory and its sub-directories for video files, and if the codecs are not AAC/H264, it will convert them to meet the codecs criteria.
@@ -2023,7 +2028,7 @@
 * [ffmpegwasm/ffmpeg.wasm-core](https://github.com/ffmpegwasm/ffmpeg.wasm-core): Mirror of git://source.ffmpeg.org/ffmpeg.git
 * [Manevolent/ffmpeg4j](https://github.com/Manevolent/ffmpeg4j): A Java OOP FFmpeg wrapper around the JavaCPP FFmpeg native library bindings
 * [nextbreakpoint/ffmpeg4java](https://github.com/nextbreakpoint/ffmpeg4java): FFmpeg4Java provides a JNI wrapper of FFmpeg library
-* [IORoot/ffmpeg__bash-scripts](https://github.com/IORoot/ffmpeg__bash-scripts): 🎞 FFMPEG Utility scripts and video templates to make life simpler. 💡
+* [IORoot/ffmpeg__bash-scripts](https://github.com/IORoot/ffmpeg__bash-scripts): 🎞 FFMPEG Utility scripts and JSON scripter. 💡Run multi-stage ffmpeg workflows using a JSON config.
 * [chinahbcq/ffmpeg_hw_decode](https://github.com/chinahbcq/ffmpeg_hw_decode): video stream hardware decoding and color space conversion by ffmpeg and cuda. thread safe.
 * [Brainiarc7/ffmpeg_libnvenc](https://github.com/Brainiarc7/ffmpeg_libnvenc): This is a build of FFmpeg that supports NVIDIA's NVENC SIP block for H.264 H/W accelerated video encodes.
 * [mehmetgoren/ffmpeg_service](https://github.com/mehmetgoren/ffmpeg_service): Feniks iNVR FFmpeg Service
@@ -3960,6 +3965,7 @@
 * [PlumMediaCenter/PlumMediaCenter.RokuOld](https://github.com/PlumMediaCenter/PlumMediaCenter.RokuOld): Source code for a Roku Application that interfaces with an instance of PlumMediaServer
 * [pluralsh/plural](https://github.com/pluralsh/plural): Deploy open source software on Kubernetes in record time. 🚀
 * [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
+* [Tjatse/pm2-gui](https://github.com/Tjatse/pm2-gui): An elegant web & terminal interface for Unitech/PM2.
 * [alexnzarov/pm2-web-ui](https://github.com/alexnzarov/pm2-web-ui): Modern web interface for PM2
 * [DolbyLaboratories/pmd_tool](https://github.com/DolbyLaboratories/pmd_tool): pmd_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata and Serial ADM metadata. PMD Studio is an authoring tool for such metadata.
 * [kevinzhow/PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift): A simple and beautiful chart lib used in Piner and CoinsMan for iOS(https://github.com/kevinzhow/PNChart) Swift Implementation 
@@ -5395,6 +5401,7 @@
 * [danylovolokh/VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager): This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it.
 * [NVIDIA/VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework): Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions
 * [kevin-corcoran-dev/VideoQuality_PoC](https://github.com/kevin-corcoran-dev/VideoQuality_PoC): None
+* [h2non/videoshow](https://github.com/h2non/videoshow): Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg
 * [svhawks/VideoThumbnailViewKit](https://github.com/svhawks/VideoThumbnailViewKit): Video Thumb ScrollView
 * [modfy/videotranscode.space](https://github.com/modfy/videotranscode.space): A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
 * [TrafeX/videotranscoder](https://github.com/TrafeX/videotranscoder): Wrapper around ffmpeg to transcode media to Apple's ProRes codec

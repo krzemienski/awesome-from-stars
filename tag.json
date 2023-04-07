@@ -3143,6 +3143,9 @@
     "Tim-Barton/gogs-migration": [
         "Other"
     ],
+    "Tjatse/pm2-gui": [
+        "Other"
+    ],
     "Toinane/colorpicker": [
         "Other"
     ],
@@ -3153,6 +3156,9 @@
         "Other"
     ],
     "ToolJet/ToolJet": [
+        "Other"
+    ],
+    "Torantulino/Auto-GPT": [
         "Other"
     ],
     "TorbenCapiau/Twitch-Clips-Downloader": [
@@ -6257,6 +6263,9 @@
     "ddnexus/equilux-theme": [
         "Other"
     ],
+    "ddragosd/ffmpeg-live-transcoder": [
+        "Other"
+    ],
     "ddragosd/ffmpeg-vod-transcoder": [
         "Other"
     ],
@@ -8174,6 +8183,9 @@
     "h2database/h2database": [
         "Other"
     ],
+    "h2non/videoshow": [
+        "Other"
+    ],
     "h2oai/wave": [
         "Other"
     ],
@@ -8637,6 +8649,9 @@
         "Other"
     ],
     "ilstam/FF-Multi-Converter": [
+        "Other"
+    ],
+    "ilufang/canvas2ffmpeg": [
         "Other"
     ],
     "iluwatar/java-design-patterns": [
@@ -12692,6 +12707,9 @@
     "pmusolino/Wormholy": [
         "Other"
     ],
+    "pobrejuanito/ffmpeg-hls-factory": [
+        "Other"
+    ],
     "pockethook/player": [
         "Other"
     ],
@@ -13563,6 +13581,9 @@
         "Other"
     ],
     "runletapp/runlet": [
+        "Other"
+    ],
+    "rupakg/docker-ffmpeg-thumb": [
         "Other"
     ],
     "rupakg/ffmpeg-video-thumb": [
