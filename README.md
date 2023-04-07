@@ -3740,7 +3740,7 @@
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
 * [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast): Audio and video casting system with support for custom applications.
 * [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21): NYU Deep Learning Spring 2021
-* [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt): Nyxt - the hacker's power-browser.
+* [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt): Nyxt - the hacker's browser.
 * [nzbget/nzbget](https://github.com/nzbget/nzbget): Efficient Usenet Downloader
 * [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen): Generate Go client and server boilerplate from OpenAPI 3 specifications
 * [cdwv/oas3-api-snippet-enricher](https://github.com/cdwv/oas3-api-snippet-enricher): Enrich your OpenAPI 3.0 JSON with code samples
