@@ -151,7 +151,7 @@
 * [Ruunyox/aed](https://github.com/Ruunyox/aed): Alacritty Editor
 * [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial): Apple TV Aerial Screensaver for Mac
 * [videojs/aes-decrypter](https://github.com/videojs/aes-decrypter): None
-* [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE):  There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+* [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 * [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking): A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 * [marco-gallegos/after-install](https://github.com/marco-gallegos/after-install): shell scripts para operaciones comunes despues de instalar distros linux
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
