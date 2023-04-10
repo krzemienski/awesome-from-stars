@@ -348,6 +348,7 @@
 * [artilleryio/artillery](https://github.com/artilleryio/artillery):  🌩 Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
 * [artilleryio/artillery-plugin-datadog](https://github.com/artilleryio/artillery-plugin-datadog): Artillery plugin for sending metrics to Datadog
 * [artilleryio/artillery-plugin-hls](https://github.com/artilleryio/artillery-plugin-hls): 🎥 Load test HTTP Live Streaming (HLS) servers with Artillery 
+* [maiwenchang/ArtPlayer](https://github.com/maiwenchang/ArtPlayer): Kotlin实现的视频播放器，将MediaPlayer与VideoView解耦合，支持切换播放器内核（如ExoPlayer和ijkPlayer），支持自定义控制视图，提供MediaPlayerManager实现全屏模式，小屏幕模式等。
 * [AFathi/ARVideoKit](https://github.com/AFathi/ARVideoKit): Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
 * [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer): Asahi Linux installer
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
@@ -1835,6 +1836,7 @@
 * [xyoye/ExoFFmpegPlayer](https://github.com/xyoye/ExoFFmpegPlayer): 适用于ExoPlayer的FFmpeg扩展
 * [google/ExoPlayer](https://github.com/google/ExoPlayer): An extensible media player for Android
 * [amzn/exoplayer-amazon-port](https://github.com/amzn/exoplayer-amazon-port): Official port of ExoPlayer for Amazon devices
+* [googlecodelabs/exoplayer-intro](https://github.com/googlecodelabs/exoplayer-intro): Media Streaming with ExoPlayer codelab
 * [yoobi/exoplayer-kotlin](https://github.com/yoobi/exoplayer-kotlin): Cookbook of multiple feature for Exoplayer
 * [ashwanijanghu/ExoPlayer-Offline](https://github.com/ashwanijanghu/ExoPlayer-Offline): A ExoPlayer demo application changed for Offline Playback of DRM content
 * [Sriharia/ExoPlayer-StatsForNerds](https://github.com/Sriharia/ExoPlayer-StatsForNerds): Demo app to showcase ExoPlayer customisations like Stats-For-Nerds & Improved buffering.
@@ -1844,6 +1846,7 @@
 * [MasayukiSuda/ExoPlayerFilter](https://github.com/MasayukiSuda/ExoPlayerFilter): This library uses OpenGL Shaders to apply effects on ExoPlayer video at Runtime
 * [NatsumeReiko/ExoPlayerInRecyclerView](https://github.com/NatsumeReiko/ExoPlayerInRecyclerView): None
 * [AAkira/ExoPlayerManager](https://github.com/AAkira/ExoPlayerManager): An android library that wraps the ExoPlayer and the IMA Android SDK which plays a video advertisement. This is written in Kotlin.
+* [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample): This project is developed with ExoPlayer 2. You can play audio files and play video files with custom playback controls.
 * [Groovee60/ExoPlayerServiceExample](https://github.com/Groovee60/ExoPlayerServiceExample): Simple and clean Kotlin implementation of the ExoPlayer library within a persistent foregound service with notification support.
 * [chemicalbird/ExoPlayerTimelineView](https://github.com/chemicalbird/ExoPlayerTimelineView): Extracts video frames using ExoPlayer and show as a video timeline(FixedView, ScrollView)
 * [Ramotion/expanding-collection](https://github.com/Ramotion/expanding-collection): :octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion
@@ -2016,6 +2019,7 @@
 * [mpenkov/ffmpeg-tutorial](https://github.com/mpenkov/ffmpeg-tutorial): A set of tutorials that demonstrates how to write a video player based on FFmpeg
 * [tottokotkd/ffmpeg-tutorial-with-swift](https://github.com/tottokotkd/ffmpeg-tutorial-with-swift): None
 * [zhangpengyf/ffmpeg-tutorial-with-swift](https://github.com/zhangpengyf/ffmpeg-tutorial-with-swift): Translate "An ffmpeg and SDL Tutorial" to swift language
+* [bhuvnesh123/FFmpeg-Video-Editor-Android](https://github.com/bhuvnesh123/FFmpeg-Video-Editor-Android): Sample android project using ffmpeg for cutting and compressing video,reversing video,extracting image frames from video,extracting audio from video,add fade in fade out effect,create fast and slow motion video
 * [rambodrahmani/ffmpeg-video-player](https://github.com/rambodrahmani/ffmpeg-video-player): An FFmpeg and SDL Tutorial.
 * [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts): Shell scripts to create video slideshows using images and videos
 * [rupakg/ffmpeg-video-thumb](https://github.com/rupakg/ffmpeg-video-thumb): An end-to-end serverless application that extracts thumbnails from video files using AWS Fargate, AWS Lambda and the Serverless Framework.
@@ -5038,6 +5042,7 @@
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [ianzhao05/textshot](https://github.com/ianzhao05/textshot): Python tool for grabbing text via screenshot
 * [TextureGroup/Texture](https://github.com/TextureGroup/Texture): Smooth asynchronous user interfaces for iOS apps.
@@ -5389,6 +5394,7 @@
 * [videojs/videojs-playlist-ui](https://github.com/videojs/videojs-playlist-ui): A playlist video picker for video.js
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
+* [phloxic/videojs-sprite-thumbnails](https://github.com/phloxic/videojs-sprite-thumbnails): Videojs plugin to display thumbnails from a sprite image when hovering over the progress bar
 * [chrisboustead/videojs-vtt-thumbnails](https://github.com/chrisboustead/videojs-vtt-thumbnails): Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.
 * [ant-media/videojs-webrtc-plugin](https://github.com/ant-media/videojs-webrtc-plugin): Webrtc plug-in for videojs
 * [ruanjx/VideoLab](https://github.com/ruanjx/VideoLab): High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.
@@ -5635,6 +5641,7 @@
 * [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea): RTMP live streaming client for Android
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl): yet another youtube down loader (Git mirror)
+* [Totonyus/ydl_api_ng](https://github.com/Totonyus/ydl_api_ng): None
 * [wader/ydls](https://github.com/wader/ydls): youtube-dl HTTP download and transcode service
 * [CatchChat/Yep](https://github.com/CatchChat/Yep): Meet Genius
 * [lkzhao/YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary): Designed for gesture-driven animations. Fast, simple, & extensible!
