@@ -1656,7 +1656,7 @@
 * [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg): Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 * [thiagolioy/dribbbleIos](https://github.com/thiagolioy/dribbbleIos): Client Ios for dribbble API
 * [thiagolioy/dribbleswift](https://github.com/thiagolioy/dribbleswift): dribbleIos
-* [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift): Drift is a self-hostable Gist and paste service. Built with Next.js 13.
+* [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift): Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 * [ankur4u007/drift](https://github.com/ankur4u007/drift): Drift: A Websocket-Http Tunnel written in kotlin that lets you access any HTTP Api on servers deployed behind firewall(s)/Nat(s)/Proxy
 * [SquaredTiki/Dringend-Issues](https://github.com/SquaredTiki/Dringend-Issues): Public issue tracker for the Dringend app, an iPad dev environment
 * [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
