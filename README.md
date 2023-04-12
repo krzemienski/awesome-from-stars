@@ -501,7 +501,6 @@
 * [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * [dungahk/awesome-cdk8s](https://github.com/dungahk/awesome-cdk8s): None
 * [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
-* [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice): Discover the power of AWS Chalice, the ultimate framework for crafting seamless Python serverless applications. With Chalice, you can effortlessly build and manage HTTPS APIs, create web apps using popular front-end toolkits, and serve as the backend for cross-platform desktop and mobile apps developed with Qt for Python. 
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
 * [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT): ChatGPT资料汇总学习，持续更新......
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
