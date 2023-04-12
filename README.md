@@ -229,6 +229,7 @@
 * [segment-boneyard/analytics-swift](https://github.com/segment-boneyard/analytics-swift): The hassle-free way to add analytics to your Swift app.
 * [warren-bank/Android-ExoPlayer-AirPlay-Receiver](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver): Android app to run on a set-top box and play video URLs "cast" to it with a stateless HTTP API (based on AirPlay v1).
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
+* [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
 * [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Exoplayer
 * [EliverLara/Andromeda](https://github.com/EliverLara/Andromeda): :rocket: Dark theme for vscode
@@ -726,6 +727,7 @@
 * [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift): A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 * [hsavit1/Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education): :fire: Learn some Swift
 * [uraimo/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds): A List of Awesome Swift Playgrounds
+* [chinsyo/awesome-swiftui](https://github.com/chinsyo/awesome-swiftui): A curated list of awesome SwiftUI tutorials, libraries, videos and articles.
 * [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources.
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design): A curated list of awesome System Design (A.K.A. Distributed Systems) resources. 
@@ -3179,6 +3181,7 @@
 * [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter): An animated avatar that responds to text field interactions
 * [IcaliaLabs/LoginKit](https://github.com/IcaliaLabs/LoginKit): LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 * [NAStools/logitechmediaserver](https://github.com/NAStools/logitechmediaserver): Streaming Audio Server (for ReadyNAS)
+* [logseq/logseq](https://github.com/logseq/logseq): A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 * [etsy/logster](https://github.com/etsy/logster): Parse log files, generate metrics for Graphite and Ganglia
 * [adhorn/logtoes](https://github.com/adhorn/logtoes): Demo of Asynchronous pattern (worker) using Python Flask & Celery 
 * [Delgan/loguru](https://github.com/Delgan/loguru): Python logging made (stupidly) simple
@@ -3524,6 +3527,7 @@
 * [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi): 网易云音乐 Node.js API service
 * [nickdesaulniers/netfix](https://github.com/nickdesaulniers/netfix): Let's build a Netflix
 * [RestComm/netflix-oss-tracker-infra](https://github.com/RestComm/netflix-oss-tracker-infra): Hosts infrastructure-as-code (Terraform) and configuration management (Ansible) scripts for deploying the Netflix OSS Tracker.
+* [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt): Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 * [kasketis/netfox](https://github.com/kasketis/netfox): A lightweight, one line setup, iOS / OSX network debugging library! 🦊
 * [ktbyers/netmiko](https://github.com/ktbyers/netmiko): Multi-vendor library to simplify Paramiko SSH connections to network devices
 * [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS.
@@ -3924,6 +3928,7 @@
 * [Aufree/PHPHub-iOS](https://github.com/Aufree/PHPHub-iOS): PHPHub for iOS is the universal iPhone and iPad application for PHPHub
 * [studioimaginaire/phue](https://github.com/studioimaginaire/phue): A Python library for the Philips Hue system
 * [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole): A black hole for Internet advertisements
+* [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted): Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 * [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo): A fast, user friendly ORM and query builder which supports asyncio.
 * [spring-media/PiedPiper](https://github.com/spring-media/PiedPiper): A small set of classes and functions to make easy use of Futures, Promises and async computation in general. All written in Swift for iOS 10+, WatchOS 3, tvOS and Mac OS X apps.
 * [agconti/piedpiper-web](https://github.com/agconti/piedpiper-web): A sample scaffolded project from https://github.com/agconti/cookiecutter-django-rest
@@ -5544,6 +5549,7 @@
 * [vapor/websocket-kit](https://github.com/vapor/websocket-kit): WebSocket client library built on SwiftNIO
 * [glut23/webvtt-py](https://github.com/glut23/webvtt-py): Read, write and segment WebVTT caption files in Python.
 * [opencoconut/webvtt-ruby](https://github.com/opencoconut/webvtt-ruby): WebVTT Ruby parser and segmenter
+* [w3c/webvtt.js](https://github.com/w3c/webvtt.js): WebVTT parser and validator
 * [alibaba/weex](https://github.com/alibaba/weex): A framework for building Mobile cross-platform UI
 * [pallets/werkzeug](https://github.com/pallets/werkzeug): The comprehensive WSGI web application library.
 * [WeTransfer/WeScan](https://github.com/WeTransfer/WeScan): Document Scanning Made Easy for iOS
