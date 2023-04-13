@@ -8222,6 +8222,9 @@
     "guidomb/ios-scripts": [
         "Other"
     ],
+    "guitarcade/piper": [
+        "Other"
+    ],
     "gumslone/gum_hls": [
         "Other"
     ],
@@ -12234,9 +12237,6 @@
         "Other"
     ],
     "ohoachuck/wwdc-downloader": [
-        "Other"
-    ],
-    "okayrunner/piper": [
         "Other"
     ],
     "okorach/audio-video-tools": [
