@@ -466,11 +466,16 @@
 * [senko/avtk](https://github.com/senko/avtk): Audio/Video toolkit for Python
 * [avTranscoder/avTranscoder](https://github.com/avTranscoder/avTranscoder): C++ API for LibAV / FFMpeg
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+* [MrWillCom/awesome](https://github.com/MrWillCom/awesome): 😎 Automatically generated list of ordered projects I've starred over the years!
+* [erbanku/awesome](https://github.com/erbanku/awesome): 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
+* [icopy-site/awesome](https://github.com/icopy-site/awesome): collection of awesome lists
 * [simonecorsi/awesome](https://github.com/simonecorsi/awesome): 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition): A curated list of action recognition and related area resources
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
+* [aigc-studio/awesome-ai](https://github.com/aigc-studio/awesome-ai): Amazing AI technologies and products compilation. 令人惊叹的AI技术和产品收录
 * [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide): The guide of awesome list about AI
+* [JMcrafter26/awesome-ai-tools](https://github.com/JMcrafter26/awesome-ai-tools): A list of AWESOME AI tools on Github
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
 * [aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand): ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
 * [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
@@ -479,6 +484,7 @@
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries
 * [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular): :page_facing_up: A curated list of awesome Angular resources
 * [hoya012/awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection): A curated list of awesome anomaly detection resources
+* [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything): AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask
 * [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow): Curated list of resources about Apache Airflow
 * [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api): A curated list of awesome resources for design and implement RESTful API's.
 * [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage): Lovingly crafted AppImage tools and resources 
@@ -504,16 +510,20 @@
 * [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
 * [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT): ChatGPT资料汇总学习，持续更新......
+* [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt): 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+* [itsuka-dev/awesome-chatgpt-ui](https://github.com/itsuka-dev/awesome-chatgpt-ui): List of open source UIs for ChatGPT API
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 * [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools): Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd): continuous integration and continuous delivery
+* [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl): A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 * [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 * [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
 * [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native): A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 * [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare): ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
+* [unskript/Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation): Ready to use cloud-ops templates, organized by connectors to jumpstart your runbook automation in minutes. 😎 published by the unSkript community.
 * [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake): A curated list of awesome CMake resources, scripts, modules and examples.
 * [joho/awesome-code-review](https://github.com/joho/awesome-code-review): An "Awesome" list of code review resources - articles, papers, tools, etc
 * [coder/awesome-code-server](https://github.com/coder/awesome-code-server): Projects, resources, and tutorials that take code-server to the next level
@@ -545,11 +555,14 @@
 * [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns): A curated list of software and architecture related design patterns.
 * [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems): 💅🏻 ⚒ A collection of awesome design systems
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
+* [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog): 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).
 * [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first): A curated list of awesome developer-first tools products.
 * [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams): 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
+* [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops): A curated list of awesome DevOps platforms, tools, practices and resources
 * [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems): Awesome list of distributed systems resources
 * [shahraizali/awesome-django](https://github.com/shahraizali/awesome-django): The Best Django Resource, Awesome Django for mature packages.
 * [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django): A curated list of awesome things related to Django
+* [michal-michalak/awesome-django-projects](https://github.com/michal-michalak/awesome-django-projects): List of awesome Django Projects
 * [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework):  💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): :whale: A curated list of Docker resources and projects
 * [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify): 💖 A curated list of awesome things related to docsify
@@ -561,21 +574,27 @@
 * [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded): A curated list of awesome embedded programming.
 * [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust): Curated list of resources for Embedded and Low-level development in the Rust programming language
 * [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management): Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+* [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy): 🎉 How to design and execute engineering strategies for tech leadership.
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 😱 Falsehoods Programmers Believe in
 * [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi): A curated list of awesome things related to FastAPI
+* [wang1212/awesome-favorites-list](https://github.com/wang1212/awesome-favorites-list): :lollipop: Favorites list - awesome open source projects, websites, books, software etc. | 收藏列表，非常棒的开源项目、网站、书籍、软件等。
 * [tnfe/awesome-ffcreator](https://github.com/tnfe/awesome-ffcreator): awesome ffcreator projects
 * [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg): 👻 A curated list of awesome FFmpeg resources.
 * [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask): A curated list of awesome Flask resources and plugins
 * [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask): A curated list of awesome things related to Flask
+* [michal-michalak/awesome-flask-projects](https://github.com/michal-michalak/awesome-flask-projects): List of awesome Flask Projects
 * [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero): 🐬 A collection of awesome resources for the Flipper Zero device.
 * [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter): An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 * [simc/awesome-flutter-packages](https://github.com/simc/awesome-flutter-packages): A curated list of awesome Flutter packages.
 * [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts): Curated list of fonts and everything
 * [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
 * [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers): None
+* [Horhorist/awesome-free-software](https://github.com/Horhorist/awesome-free-software): Curated list of free as in freedom software
 * [krzemienski/awesome-from-stars](https://github.com/krzemienski/awesome-from-stars): None
 * [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
 * [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing): A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
+* [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai): A curated list of Generative AI tools, works, models, and references
+* [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 * [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator): Generate awesome list over Github API
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 * [opendigg/awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui): 安卓UI相关开源项目库汇总 
@@ -601,6 +620,7 @@
 * [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response): A curated list of tools for incident response
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie): Resources for independent developers to make money
 * [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration): A curated list of awesome system integration software and resources.
+* [dfinity/awesome-internet-computer](https://github.com/dfinity/awesome-internet-computer): A curated list of awesome projects and resources relating to the Internet Computer Protocol
 * [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions): :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 * [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios): A collaborative list of awesome for iOS developers. Include quick preview.
 * [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios): A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
@@ -625,6 +645,7 @@
 * [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software): 🐧 A list of awesome Linux softwares 
 * [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio): [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 * [cuuupid/awesome-lists](https://github.com/cuuupid/awesome-lists): A curated list of curated lists.
+* [wx-chevalier/Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists): :books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好
 * [liwf616/awesome-live-stream](https://github.com/liwf616/awesome-live-stream): Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中
 * [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding): All things livecoding
 * [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code): Awesome Low Code platforms, vendors, tools and resources
@@ -663,6 +684,7 @@
 * [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets): Collection of the cheat sheets useful for pentesting
 * [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists): 📌✨ A collection of awesome dynamic pinned gists for GitHub
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
+* [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design): A collection of bookmarks, resources, articles for product designers.
 * [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning): A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity): A curated list of delightful productivity resources.
@@ -687,6 +709,7 @@
 * [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks): Awesome React Hooks
 * [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native): Awesome React Native components, news, tools, and learning material!
 * [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme): A curated list of awesome READMEs
+* [indiscipline/awesome-reaper](https://github.com/indiscipline/awesome-reaper): A curated list of Reaper resources, scripts, extensions, JSFX, software and community links
 * [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux): Awesome list of Redux examples and middlewares
 * [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing): 🕶️ A curated list of resources around the topic: visual regression testing
 * [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable): A curated list of projects related to the reMarkable tablet
@@ -702,6 +725,7 @@
 * [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
 * [lauris/awesome-scala](https://github.com/lauris/awesome-scala): A community driven list of useful Scala libraries, frameworks and software.
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+* [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing): :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 * [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable): A curated list of awesome Scriptable scripts and widgets.
 * [Wekoi/awesome-scripts](https://github.com/Wekoi/awesome-scripts): useful scripts for Linux op
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
@@ -718,8 +742,11 @@
 * [moul/awesome-ssh](https://github.com/moul/awesome-ssh): :computer: A curated list of SSH resources.
 * [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks): A curated list of tech stacks for building different applications & features
 * [ptrkrlsrd/Awesome-Starred](https://github.com/ptrkrlsrd/Awesome-Starred): Awesome automated list of my starred repositories. Made using Golang and a Github scheduled action
+* [Zo-Bro-23/awesome-stars](https://github.com/Zo-Bro-23/awesome-stars): My stars - generated by @maguowei/starred!
 * [arbal/awesome-stars](https://github.com/arbal/awesome-stars): Top 12K of GitHub's finest.
 * [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
+* [matyo91/awesome-stars](https://github.com/matyo91/awesome-stars): 🌟 A curated list of my GitHub stars!
+* [ntk148v/awesome-stars](https://github.com/ntk148v/awesome-stars): A curated list of my GitHub stars
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators): A curated list of static web site generators.
 * [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources): :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming): a curated list of awesome streaming frameworks, applications, etc
@@ -731,6 +758,7 @@
 * [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources.
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design): A curated list of awesome System Design (A.K.A. Distributed Systems) resources. 
+* [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
 * [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs): A list of Tech Blogs.
 * [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals): Terminal Emulators
 * [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform): Curated list of resources on HashiCorp's Terraform
@@ -739,6 +767,7 @@
 * [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science): The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 * [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence): A curated list of Awesome Threat Intelligence resources
 * [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux): A list of awesome resources for tmux
+* [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt): A list of totally open alternatives to ChatGPT
 * [CUTR-at-USF/awesome-transit](https://github.com/CUTR-at-USF/awesome-transit): Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 * [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations): 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 * [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling): List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
@@ -763,6 +792,7 @@
 * [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack): A curated list of awesome Webpack resources, libraries and tools
 * [thinkvivek/awesome-websites](https://github.com/thinkvivek/awesome-websites): List of some really cool websites
 * [msub2/awesome-webxr](https://github.com/msub2/awesome-webxr): All things WebXR.
+* [WhatTheFar/awesome-whatthefar](https://github.com/WhatTheFar/awesome-whatthefar): 😎 Curated list of awesome WhatTheFar
 * [PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket): A curated list of awesome projects powered by Apache Wicket 
 * [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard): A curated list of WireGuard tools, projects, and resources.
 * [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -1278,6 +1308,7 @@
 * [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 * [openshift-evangelists/crd-code-generation](https://github.com/openshift-evangelists/crd-code-generation): None
 * [matmoi/create-DASH-HLS](https://github.com/matmoi/create-DASH-HLS): A tutorial to generate fMp4 files compatible with dash and HLS
+* [int128/create-ecr-repository-action](https://github.com/int128/create-ecr-repository-action): Action to create Amazon ECR or ECR Public repository and put lifecycle policy
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 * [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app): Rapidly scaffold out a new tauri app project.
 * [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme): A Collection of GitHub Profiles with awesome readme
@@ -1460,6 +1491,7 @@
 * [Netflix/dispatch](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 * [AdnanHodzic/displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian): DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
 * [sunrise2575/dist-ffmpeg](https://github.com/sunrise2575/dist-ffmpeg): Distributed & Parallel FFmpeg Transcoder
+* [adalkiran/distributed-inference](https://github.com/adalkiran/distributed-inference): A project to demonstrate an approach to designing cross-language and distributed pipeline in deep learning/machine learning domain, using WebRTC and Redis Streams.
 * [patademahesh/Distributed-Video-Transcoding](https://github.com/patademahesh/Distributed-Video-Transcoding): Distributed Video Transcoding
 * [chn-lee-yumi/distributed_ffmpeg_transcoding_cluster](https://github.com/chn-lee-yumi/distributed_ffmpeg_transcoding_cluster): 分布式FFMpeg转码集群。A FFMpeg transcoding cluster runs in variable CPUs, including ARM, x86, and others which can run linux. You can use it to run a RaspberryPi cluster.
 * [larryaasen/dive](https://github.com/larryaasen/dive): Dive is a Flutter toolkit for video recording and streaming. A complete set of packages to build the next generation of Flutter media apps.
@@ -2499,6 +2531,7 @@
 * [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu): Hacker News Delivered to Desktop :dancers:
 * [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): A collection of hacking tools, resources and references to practice ethical hacking.
 * [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts): Based on a true story
+* [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud): An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 * [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers
 * [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift): The project source code for hackingwithswift.com
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
@@ -2873,6 +2906,7 @@
 * [hackerdude/jiratotaskmanagers](https://github.com/hackerdude/jiratotaskmanagers): Syncs JIRA queries to apps like Omnifocus, Things and Reminders
 * [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 * [osy/Jitterbug](https://github.com/osy/Jitterbug): Launch JIT enabled iOS app with a second iOS device
+* [kevinadhiguna/jiyu](https://github.com/kevinadhiguna/jiyu): A repo for... whatever 🤷
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * [zthxxx/jovial](https://github.com/zthxxx/jovial): Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
@@ -3257,6 +3291,7 @@
 * [Comcast/mamba](https://github.com/Comcast/mamba): Mamba is a Swift iOS, tvOS and macOS framework to parse, validate and write HTTP Live Streaming (HLS) data.
 * [mautilus/MAMUT](https://github.com/mautilus/MAMUT): #1 Roku Unit Testing System by Mautilus
 * [jaimevalero/managing-awesome-lists](https://github.com/jaimevalero/managing-awesome-lists): Utilities to find awesome resources
+* [manasesjesus/manasesjesus](https://github.com/manasesjesus/manasesjesus): Awesome readme profile automatically updated by GitHub Actions
 * [coreos/manifest](https://github.com/coreos/manifest): repo tool manifest for Container Linux sdk
 * [ingest/manifest](https://github.com/ingest/manifest): Video Manifest Parsers and Generators, supporting multiple formats such as HLS and DASH
 * [mauricioabreu/manifest-modifier](https://github.com/mauricioabreu/manifest-modifier): Video manifest modifier written in Rust
@@ -3485,6 +3520,7 @@
 * [davedelong/MVCTodo](https://github.com/davedelong/MVCTodo): A very simple "To Do" app to illustrate the principles from my "A Better MVC" talk
 * [maxep/MXParallaxHeader](https://github.com/maxep/MXParallaxHeader): Simple parallax header for UIScrollView
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+* [zoroqi/my-awesome](https://github.com/zoroqi/my-awesome): My Awesome List
 * [vaporberlin/my-first-route](https://github.com/vaporberlin/my-first-route): This project is as simple as possible to make it as beginner friendly as possible.
 * [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios): List of applications and tools that make my iOS experience even more amazing
 * [fatih-yavuz/my-links](https://github.com/fatih-yavuz/my-links): My personal page for links.dev
@@ -3804,6 +3840,8 @@
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [ErikWittern/openapi-snippet](https://github.com/ErikWittern/openapi-snippet): Generates code snippets for given Swagger / Open API documents
 * [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
+* [opencast/opencast](https://github.com/opencast/opencast): The free and open source solution for automated video capture and distribution at scale.
+* [opencast/opencast-docker](https://github.com/opencast/opencast-docker): Dockerfiles for Opencast
 * [opencv/opencv](https://github.com/opencv/opencv): Open Source Computer Vision Library
 * [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream): OpenCV FFMpeg Live Video Stream over RTMP protocol.
 * [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader): Indexes open directories
@@ -4033,6 +4071,7 @@
 * [ProcedureKit/ProcedureKit](https://github.com/ProcedureKit/ProcedureKit): Advanced Operations in Swift
 * [SpongeBobSun/Prodigal-iOS](https://github.com/SpongeBobSun/Prodigal-iOS): Music Player for iOS which looks & feels like classic player
 * [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles): 🌐Dial-up Internet access
+* [whoisdsmith/project-awesome](https://github.com/whoisdsmith/project-awesome): My collection of Awesome Stars
 * [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning): Curated list of project-based tutorials
 * [vishwajeetraj11/projectboard](https://github.com/vishwajeetraj11/projectboard): A project management application that allows you to track tasks process while working in a Team. You can choose the priority of the projects, give them suitable labels, put them under various stages in boards (View).
 * [karan/Projects](https://github.com/karan/Projects): :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -4420,6 +4459,7 @@
 * [Rightpoint/RZTransitions](https://github.com/Rightpoint/RZTransitions): A library of custom iOS View Controller Animations and Interactions.
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 * [LiveUI/S3](https://github.com/LiveUI/S3): S3 Client written in Swift
+* [Noelware/s3-action](https://github.com/Noelware/s3-action): ☕ Simple GitHub action to upload contents from a GitHub repository to a S3 bucket, supports AWS and Wasabi
 * [dvonlehman/s3-proxy](https://github.com/dvonlehman/s3-proxy): 4front plugin to proxy read calls to S3
 * [robhowley/s3-streaming](https://github.com/robhowley/s3-streaming): stream and (de)serialize s3 streams
 * [s3tools/s3cmd](https://github.com/s3tools/s3cmd): Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
@@ -4606,6 +4646,7 @@
 * [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Reliably run any Linux distribution on any hardware with a cross-compiled host OS for containerized environments.
 * [scrapinghub/skinfer](https://github.com/scrapinghub/skinfer): Skinfer is a tool for inferring and merging JSON schemas
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
+* [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥 Blazing fast bulk data transfers between any cloud 🔥
 * [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
 * [lonelyclaud/slack-api-postman](https://github.com/lonelyclaud/slack-api-postman): Repo of Slack API Postman collection
 * [seratch/slack-app-examples](https://github.com/seratch/slack-app-examples): A collection of Slack App examples
@@ -4770,7 +4811,9 @@
 * [timqian/star-history-plugin](https://github.com/timqian/star-history-plugin): [Deprecated] project moved to https://github.com/timqian/star-history as a mono repo
 * [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
 * [ryanmcdermott/starmark](https://github.com/ryanmcdermott/starmark): :octocat: Turn your GitHub stars into Chrome bookmarks
+* [fluteds/starred](https://github.com/fluteds/starred): All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
 * [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
+* [berryes/stars](https://github.com/berryes/stars): my github stars in a collection
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [daltoniam/Starscream](https://github.com/daltoniam/Starscream): Websockets in swift for iOS and OSX
 * [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -5275,6 +5318,7 @@
 * [dhairav/URLSessionHLSDownload](https://github.com/dhairav/URLSessionHLSDownload): A swift 3 implementation for downloading HLS content and play it back using native AVPlayer
 * [corpnewt/USB-Installer-Creator](https://github.com/corpnewt/USB-Installer-Creator): A subset of commands from Mac Multi-Tool that *only* build USB installers.
 * [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd): A socket daemon to multiplex connections from and to iOS devices
+* [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions): Curated list of useful Github actions with workflows examples 💡
 * [mitio/useful-ffmpeg-commands](https://github.com/mitio/useful-ffmpeg-commands): A collection of FFmpeg commands taken from practice
 * [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links): A list of useful Java frameworks, libraries, software and hello worlds examples
 * [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts): 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
