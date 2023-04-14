@@ -484,7 +484,7 @@
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries
 * [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular): :page_facing_up: A curated list of awesome Angular resources
 * [hoya012/awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection): A curated list of awesome anomaly detection resources
-* [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything): AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask
+* [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything): General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 * [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow): Curated list of resources about Apache Airflow
 * [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api): A curated list of awesome resources for design and implement RESTful API's.
 * [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage): Lovingly crafted AppImage tools and resources 
