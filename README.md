@@ -1470,6 +1470,7 @@
 * [InderKumarRathore/DeviceUtil](https://github.com/InderKumarRathore/DeviceUtil): For Swift please visit DeviceGuru(https://github.com/InderKumarRathore/DeviceGuru)
 * [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools
 * [starchx/devlab-eks-alb-2048game](https://github.com/starchx/devlab-eks-alb-2048game): DevLab prepared for AWS Submit
+* [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools): 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
 * [int128/devops-compose](https://github.com/int128/devops-compose): DevOps tools on Docker Compose
 * [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 * [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources): DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -1792,6 +1793,7 @@
 * [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth): Darktooth : From the darkness... it watches.
 * [envoy/Embassy](https://github.com/envoy/Embassy): Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
 * [Start9Labs/embassy-os](https://github.com/Start9Labs/embassy-os): Browser-based, graphical operating system for a personal server.
+* [spikeekips/embedding-python-in-golang](https://github.com/spikeekips/embedding-python-in-golang): proff of concept for embedding python in golang
 * [MediaBrowser/Emby.Roku](https://github.com/MediaBrowser/Emby.Roku): Emby for Roku
 * [shaka-project/eme_logger](https://github.com/shaka-project/eme_logger): Logs Encrypted Media Extension (EME) events and calls to help investigate issues in premium media sites.
 * [artsy/Emergence](https://github.com/artsy/Emergence): TV. Shows.
@@ -2436,6 +2438,7 @@
 * [dstotijn/go-notion](https://github.com/dstotijn/go-notion): Go client for the Notion API.
 * [kevholditch/go-pagerduty-slack-sync](https://github.com/kevholditch/go-pagerduty-slack-sync): A small app to sync pagerduty on call groups to slack groups
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms
+* [sbinet/go-python](https://github.com/sbinet/go-python): naive go bindings to the CPython2 C-API
 * [DataDog/go-python3](https://github.com/DataDog/go-python3): Go bindings to the CPython-3 API
 * [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes): 🦩 Tools for Go projects
 * [cwinging/go-segment](https://github.com/cwinging/go-segment): golang video segment tool, convert mp4 to hls format
@@ -2452,6 +2455,8 @@
 * [Tim-Barton/gogs-migration](https://github.com/Tim-Barton/gogs-migration): Migrating projects from Gitlab to Gogs - both repos and wikis
 * [shimberger/gohls](https://github.com/shimberger/gohls): A server that exposes a directory for video streaming via web interface
 * [bluenviron/gohlslib](https://github.com/bluenviron/gohlslib): HLS client and muxer library for the Go programming language
+* [jmcvetta/golang-for-python-programmers](https://github.com/jmcvetta/golang-for-python-programmers): work in progress
+* [aodin/golang-for-pythonistas](https://github.com/aodin/golang-for-pythonistas): Advanced topics for Python programmers looking to use Go
 * [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects): 为互联网IT人打造的中文版awesome-go
 * [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script): Simple Bash script to automate Go language tools single user installation or even removal.
 * [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
@@ -2478,6 +2483,7 @@
 * [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial): None
 * [BradLarson/GPUImage3](https://github.com/BradLarson/GPUImage3): GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 * [MasayukiSuda/GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android): This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
+* [go-python/gpython](https://github.com/go-python/gpython): gpython is a python interpreter written in go "batteries not included"
 * [kevguy/GracenoteSDKSample](https://github.com/kevguy/GracenoteSDKSample): Sample app of GNSDK built with Android Studio
 * [gradio-app/gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -4324,6 +4330,7 @@
 * [RepositoryStream/RepositoryStream](https://github.com/RepositoryStream/RepositoryStream): None
 * [thedillonb/RepoStumble](https://github.com/thedillonb/RepoStumble): A mobile application for viewing GitHub repositories in a fashion similar to StumbleUpon
 * [requestly/requestly](https://github.com/requestly/requestly): 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Report Bugs with debugging sessions.
+* [asmcos/requests](https://github.com/asmcos/requests): A golang HTTP client library. Salute to python requests.
 * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest): An easy and powerful Rust HTTP Client
 * [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor): Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
 * [AMD-OSX/Resources](https://github.com/AMD-OSX/Resources): AMD OS X Resources.
@@ -4580,6 +4587,7 @@
 * [ubuntu-flutter-community/settings](https://github.com/ubuntu-flutter-community/settings): :penguin: :orange_heart: :blue_heart: An Ubuntu Desktop system settings app made with Flutter.
 * [sauce-archives/setups](https://github.com/sauce-archives/setups): None
 * [pypa/setuptools](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
+* [asottile/setuptools-golang](https://github.com/asottile/setuptools-golang): A setuptools extension for building cpython extensions written in golang.
 * [kubatruhlar/SFDraggableDialogView](https://github.com/kubatruhlar/SFDraggableDialogView): Beautiful dialog view with UIDynamics.
 * [Showmax/sffmpeg](https://github.com/Showmax/sffmpeg): Full-featured static FFmpeg build helper
 * [pyke369/sffmpeg](https://github.com/pyke369/sffmpeg): full-featured static ffmpeg build helper

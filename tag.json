@@ -1499,6 +1499,9 @@
     "Hari-Nagarajan/fairgame": [
         "Other"
     ],
+    "HariSekhon/DevOps-Bash-tools": [
+        "Other"
+    ],
     "HaujetZhao/QuickCut": [
         "Other"
     ],
@@ -4160,6 +4163,9 @@
     "anuraghazra/github-readme-stats": [
         "Other"
     ],
+    "aodin/golang-for-pythonistas": [
+        "Other"
+    ],
     "aorumbayev/awesome-algorand": [
         "Other"
     ],
@@ -4521,6 +4527,12 @@
         "Other"
     ],
     "aslanyanhaik/youtube-iOS": [
+        "Other"
+    ],
+    "asmcos/requests": [
+        "Other"
+    ],
+    "asottile/setuptools-golang": [
         "Other"
     ],
     "assembl/url_metadata": [
@@ -7991,6 +8003,9 @@
     "go-python/gopy": [
         "Other"
     ],
+    "go-python/gpython": [
+        "Other"
+    ],
     "go-shiori/shiori": [
         "Other"
     ],
@@ -9288,6 +9303,9 @@
         "Other"
     ],
     "jmcantrell/bashful": [
+        "Other"
+    ],
+    "jmcvetta/golang-for-python-programmers": [
         "Other"
     ],
     "jmdacruz/celery-k8s-operator": [
@@ -13901,6 +13919,9 @@
     "sb2nov/resume": [
         "Other"
     ],
+    "sbinet/go-python": [
+        "Other"
+    ],
     "sbraz/pymediainfo": [
         "Other"
     ],
@@ -14577,6 +14598,9 @@
         "Other"
     ],
     "sphinx02/AppStarter": [
+        "Other"
+    ],
+    "spikeekips/embedding-python-in-golang": [
         "Other"
     ],
     "spin83/multi-monitors-add-on": [
