@@ -5450,6 +5450,9 @@
     "cats-oss/cujira": [
         "Other"
     ],
+    "causefx/Organizr": [
+        "Other"
+    ],
     "cbbrowne/autodoc": [
         "Other"
     ],
@@ -10451,6 +10454,9 @@
     "linuxserver/docker-ffmpeg": [
         "Other"
     ],
+    "linuxserver/docker-mstream": [
+        "Other"
+    ],
     "linuxserver/docker-nextcloud": [
         "Other"
     ],
@@ -11172,6 +11178,12 @@
         "Other"
     ],
     "messeb/ios-project-env-setup": [
+        "Other"
+    ],
+    "metabrainz/musicbrainz-docker": [
+        "Other"
+    ],
+    "metabrainz/musicbrainz-server": [
         "Other"
     ],
     "metachris/pdfx": [

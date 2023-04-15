@@ -1575,6 +1575,7 @@
 * [mickaelperrin/docker-magic-sync](https://github.com/mickaelperrin/docker-magic-sync): Docker image that provides a portable and easy to configure bi-directionnal sync for Docker with user/uid mapping
 * [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo): Matomo (formerly Piwik) Docker image
 * [spotify/docker-maven-plugin](https://github.com/spotify/docker-maven-plugin): INACTIVE: A maven plugin for Docker
+* [linuxserver/docker-mstream](https://github.com/linuxserver/docker-mstream): None
 * [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud): None
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 * [alfg/docker-nginx-vod-module](https://github.com/alfg/docker-nginx-vod-module): A Dockerized NGINX build of the nginx-vod-module
@@ -3512,6 +3513,8 @@
 * [adwardlee/multitask-end-to-end-video-captioning](https://github.com/adwardlee/multitask-end-to-end-video-captioning): with reinforcement learning
 * [videojs/murphy](https://github.com/videojs/murphy): Live Stream error simulator
 * [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader): ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱
+* [metabrainz/musicbrainz-docker](https://github.com/metabrainz/musicbrainz-docker): Docker Compose project for the MusicBrainz Server with replication, search, and development setup
+* [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server): Server for the MusicBrainz project (website, API, database tools)
 * [ethaden/MusicLibraryConverter](https://github.com/ethaden/MusicLibraryConverter): MusicLibraryConverter is a software written in Python 3 for batch converting of a music library containing flac files to mp3. It retains all meta tags and can be used iteratively. It uses multi-threading and is based on ffmpeg (Windows) or avconv (Linux) as conversion backend and mutagenx as tagging library. Note that ffmpeg.exe/avconv must be available and it must be possible to find them via the PATH environment. The Python 3 library mutagenx (https://pypi.python.org/pypi/mutagenx/1.22.1) must be installed.
 * [quodlibet/mutagen](https://github.com/quodlibet/mutagen): Python module for handling audio metadata
 * [muxinc/mux-stats-sdk-avplayer](https://github.com/muxinc/mux-stats-sdk-avplayer): Mux integration with `AVPlayer` for iOS Native Applications
@@ -3878,6 +3881,7 @@
 * [orcasound/orcanode](https://github.com/orcasound/orcanode): Software for live-streaming and recording lossy or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets. :star:
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [RadekMolenda/org-notion](https://github.com/RadekMolenda/org-notion): keep notion and org in sync #notion #org-mode
+* [causefx/Organizr](https://github.com/causefx/Organizr): HTPC/Homelab Services Organizer - Written in PHP
 * [openshift/origin](https://github.com/openshift/origin): Conformance test suite for OpenShift
 * [stoyanovgeorge/origin_server](https://github.com/stoyanovgeorge/origin_server): A simple script for creating an origin server for storing OTT chunks and manifest files using the HTTP PUT method from a remote OTT transcoder
 * [svt/orm](https://github.com/svt/orm): ORM: Origin Routing Machine
