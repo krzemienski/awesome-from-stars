@@ -1713,7 +1713,7 @@
 * [christophetd/duplicacy-autobackup](https://github.com/christophetd/duplicacy-autobackup): :floppy_disk: Painless automated backups to multiple storage providers with Docker and duplicacy.
 * [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 * [philhansen/dvbsubrip](https://github.com/philhansen/dvbsubrip): A python script for extracting DVB image based subtitles from TS recordings.
-* [iterative/dvc](https://github.com/iterative/dvc): 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+* [iterative/dvc](https://github.com/iterative/dvc): 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 * [LA1TV/DVR-Bridge-Service](https://github.com/LA1TV/DVR-Bridge-Service): A service which records one or more hls streams simultaneously and re-serves them as a different hls streams.
 * [Aniket965/Dynamic-Github-Profile](https://github.com/Aniket965/Dynamic-Github-Profile): Show dynamic Images on our GitHub profile special repository
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
@@ -4543,7 +4543,7 @@
 * [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the industry leading SCTE-35 Decoder.  The highest rated SCTE-35 Parser. 
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
-* [deforum-art/sd-webui-text2video](https://github.com/deforum-art/sd-webui-text2video): Auto1111 extension consisting of implementation of text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
+* [deforum-art/sd-webui-text2video](https://github.com/deforum-art/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
 * [rokudev/SDK-Development-Guide](https://github.com/rokudev/SDK-Development-Guide): None
