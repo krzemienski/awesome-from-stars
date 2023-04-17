@@ -1787,7 +1787,7 @@
 * [oscartbeaumont/ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
 * [OwenEdwards/ElephantsDreamHLS](https://github.com/OwenEdwards/ElephantsDreamHLS): Script and manifest files to create an HLS program containing the Elephants Dream video with captions, subtitles, and audio description
-* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system that tells you *why* it happened
 * [FSecureLABS/Ellume-COVID-Test_Research-Files](https://github.com/FSecureLABS/Ellume-COVID-Test_Research-Files): None
 * [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth): Darktooth : From the darkness... it watches.
@@ -5589,7 +5589,7 @@
 * [h2oai/wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python and R
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
 * [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist): Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
-* [wabarc/wayback](https://github.com/wabarc/wayback): A self-hosted archiving service integrated with Internet Archive, archive.today, IPFS and beyond.
+* [wabarc/wayback](https://github.com/wabarc/wayback): A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
