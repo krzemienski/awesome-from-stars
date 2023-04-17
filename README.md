@@ -3736,7 +3736,7 @@
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
 * [notionsdk/notion-sdk-kotlin-old](https://github.com/notionsdk/notion-sdk-kotlin-old): Unofficial Notion.so API wrapper, written in Kotlin
 * [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
-* [pkwenda/notion-site](https://github.com/pkwenda/notion-site): Automatically build any website with notion 
+* [pkwenda/notion-site](https://github.com/pkwenda/notion-site): Build any website for free with Notion automation | 使用 Notion 免费自动化构建任何网站
 * [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites): 发掘Notion好站
 * [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): Custom action to export Notion database to local as markdown files and images.
 * [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md): Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
