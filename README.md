@@ -316,7 +316,7 @@
 * [teejee2008/aptik-gtk](https://github.com/teejee2008/aptik-gtk): The free version of Aptik is no longer maintained  A paid version is available with more features
 * [aptly-dev/aptly](https://github.com/aptly-dev/aptly): aptly - Debian repository management tool
 * [davidfoerster/aptsources-cleanup](https://github.com/davidfoerster/aptsources-cleanup): Detects and interactively deactivates duplicate Apt source entries and deletes sources list files without valid enabled source entries (as requested in https://askubuntu.com/a/762815/175814).
-* [davidcralph2/AquaDL](https://github.com/davidcralph2/AquaDL): A better way to download online media, fast and safe. Supports YouTube, Vimeo and more!
+* [davidcralph/AquaDL](https://github.com/davidcralph/AquaDL): A better way to download online media, fast and safe. Supports YouTube, Vimeo and more!
 * [IBM/ar-resume-with-visual-recognition](https://github.com/IBM/ar-resume-with-visual-recognition): An augmented reality based résumé with Face recognition. The iOS app recognizes the face and presents you with the AR view that contains 3D mock face and details of your resume.
 * [orta/ARAnalytics](https://github.com/orta/ARAnalytics): Simplify your iOS/Mac analytics
 * [diegohaz/arc](https://github.com/diegohaz/arc): React starter kit based on Atomic Design
