@@ -512,7 +512,7 @@
 * [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT): ChatGPT资料汇总学习，持续更新......
 * [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt): 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 * [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-* [itsuka-dev/awesome-chatgpt-ui](https://github.com/itsuka-dev/awesome-chatgpt-ui): List of open source UIs for ChatGPT API
+* [itsuka-dev/awesome-chatgpt-ui](https://github.com/itsuka-dev/awesome-chatgpt-ui): A cornucopia of open source UIs for ChatGPT API.
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 * [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools): Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -3759,7 +3759,6 @@
 * [dragonman225/notionapi-agent](https://github.com/dragonman225/notionapi-agent): Unofficial Node.js API client for Notion.so
 * [ThallyssonKlein/NotionAutoTagSite](https://github.com/ThallyssonKlein/NotionAutoTagSite): Imagine that your Notion collections create a life of their own and start to organize themselves. If you like it, give it a star please.
 * [5hay/notionbackup](https://github.com/5hay/notionbackup): A small utility command line application that can recursively download Notion pages
-* [Vaayne/NotionBoy](https://github.com/Vaayne/NotionBoy): A note app base on Notion
 * [DavidDeBels/NotionClient](https://github.com/DavidDeBels/NotionClient): Unofficial iOS/macOS SDK for the Notion API.
 * [ngviethoang/notiondb](https://github.com/ngviethoang/notiondb): Python 3 tools for interacting with Notion API
 * [Xheldon/NotionEditor](https://github.com/Xheldon/NotionEditor): A Notion's editor implement based on ProseMirror, just for feasibility studies, IT'S NOT COMPLETED YET AND IN A VERY RAW STATUS.
