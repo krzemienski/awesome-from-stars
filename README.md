@@ -1111,7 +1111,7 @@
 * [ngs/ci2go](https://github.com/ngs/ci2go): CI2Go is a @CircleCI client for iPhone, iPad, Apple Watch and Mac.
 * [shilgam/ci_tools](https://github.com/shilgam/ci_tools): Popular CI/CD Tools Comparison: Travis, CircleCI, Gitlab CI, Codeship Pro
 * [robertsanseries/ciano](https://github.com/robertsanseries/ciano): A multimedia file converter focused on simplicity.
-* [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which support multiple platform Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is providing a player core which support multi platform, hardware accelerator, customizable and extensible features. Which support WideVine drm, LL-HLS, MPEG-DASH and HDR playback.
+* [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which supports multiple platforms Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is to provide a player core which supports multi-platform, hardware accelerator, and customizable and extensible features. Which supports WideVine drm, LL-HLS, MPEG-DASH and HDR playback.
 * [cilium/cilium](https://github.com/cilium/cilium): eBPF-based Networking, Security, and Observability
 * [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
