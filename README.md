@@ -848,6 +848,7 @@
 * [ade21/awsome-dns](https://github.com/ade21/awsome-dns): Use AWS Route53 with your own domains as your private dynamic dns service.
 * [mekhti/awsome-live-streamin](https://github.com/mekhti/awsome-live-streamin): All about live streaming & video processing
 * [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+* [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline):  The Pipeline example based on AXear-Pi (AX620A) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own multimedia applications.
 * [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom): An FFmpeg GUI for Windows
 * [monadgroup/axiom](https://github.com/monadgroup/axiom): A powerful realtime node-based audio synthesizer.
 * [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
@@ -1220,6 +1221,7 @@
 * [ossu/computer-science](https://github.com/ossu/computer-science): :mortar_board: Path to a free self-taught education in Computer Science!
 * [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
 * [Netflix/concurrency-limits](https://github.com/Netflix/concurrency-limits): None
+* [intel-iot-devkit/concurrent-video-analytic-pipeline-optimization-sample-w](https://github.com/intel-iot-devkit/concurrent-video-analytic-pipeline-optimization-sample-w): Create a concurrent video analysis pipeline featuring multistream face and human pose detection, vehicle attribute detection, and the ability to encode multiple videos to local storage in a single stream.
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [tmcdonell/config-alacritty](https://github.com/tmcdonell/config-alacritty): Alacrity configuration
 * [Dash-Industry-Forum/Conformance-Frontend](https://github.com/Dash-Industry-Forum/Conformance-Frontend): Sub-module for the Integrated Conformance Software Tool
@@ -1977,6 +1979,7 @@
 * [drawcall/FFCreatorLite](https://github.com/drawcall/FFCreatorLite): A lightweight and fast short video processing library based on node.js
 * [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic): Library with dynamic audio/video composition and runtime control
 * [xiewei-wayne/FFEngine.framework](https://github.com/xiewei-wayne/FFEngine.framework): FFEngine framework is a high performance player sdk for iOS based on ffmpeg.
+* [george-avn/ffenmass](https://github.com/george-avn/ffenmass): Encoding whole directories with FFmpeg made easy.
 * [just-work/fffw](https://github.com/just-work/fffw): ffmpeg command line tool wrapper
 * [ericgriffin/fflock](https://github.com/ericgriffin/fflock): Distributed video transcoding.
 * [bcoudurier/FFmbc](https://github.com/bcoudurier/FFmbc): FFmpeg customized for broadcast and professional usage
@@ -2575,6 +2578,7 @@
 * [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero): Elegant transition library for iOS & tvOS
 * [rokudev/hero-grid-channel](https://github.com/rokudev/hero-grid-channel): Sample channel with sliding hero row and a grid of content below.
 * [MarcAntoine-Arnaud/HEVC](https://github.com/MarcAntoine-Arnaud/HEVC): HEVC reference encoder and decoder
+* [wolverinn/HEVC-deep-learning-pipeline](https://github.com/wolverinn/HEVC-deep-learning-pipeline): Integrating neural network models in HEVC encoder, to test the complexity reduction using deep learning in HEVC intra-prediction.
 * [XimingCheng/HEVCAnalyzer](https://github.com/XimingCheng/HEVCAnalyzer): HEVC H.265 stream GUI Analyzer based on wxWidgets
 * [jpetrich/HEVCDemo](https://github.com/jpetrich/HEVCDemo): Small repo to show the file size issues with the new HEVC encoder on iOS 11
 * [virinext/hevcesbrowser](https://github.com/virinext/hevcesbrowser): HEVCESBrowser is a tool for analyzing hevc(h265) bitstreams
@@ -3988,6 +3992,7 @@
 * [pypa/pip](https://github.com/pypa/pip): The Python package installer
 * [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream): Connect APIs, remarkably fast.  Free for developers.
 * [tektoncd/pipeline](https://github.com/tektoncd/pipeline): A cloud-native Pipeline resource.
+* [ENCODE-DCC/pipeline-container](https://github.com/ENCODE-DCC/pipeline-container): Containerization infrastructure for ENCODE analysis pipelines
 * [dkashin/pipencoder-base](https://github.com/dkashin/pipencoder-base): GUI and automation for media transcoding and streaming CLI tools
 * [guitarcade/piper](https://github.com/guitarcade/piper): piper - a distributed workflow engine
 * [libratbag/piper](https://github.com/libratbag/piper): GTK application to configure gaming devices
@@ -4116,6 +4121,7 @@
 * [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired database library for Python
 * [sturob/pullstar](https://github.com/sturob/pullstar): Pull all the repos you've starred from GitHub
 * [apache/pulsar](https://github.com/apache/pulsar): Apache Pulsar - distributed pub-sub messaging system
+* [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 * [krad/pupil](https://github.com/krad/pupil): 👁️Video Ingest Server that creates & syncs HLS assets to the cloud
 * [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
@@ -5396,6 +5402,7 @@
 * [CrypticSignal/video-quality-metrics](https://github.com/CrypticSignal/video-quality-metrics): Test specified presets/CRF values for the x264 or x265 encoder. Compares VMAF/SSIM/PSNR numerically & via graphs.
 * [Xilinx/video-sdk](https://github.com/Xilinx/video-sdk): None
 * [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples): Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
+* [vogler/video-server](https://github.com/vogler/video-server): Video server with advanced player features and history/tracking.
 * [mojtaba-arvin/video-service](https://github.com/mojtaba-arvin/video-service): Python Video Streaming microervice | supports HLS, MPEG-DASH and HLS with fmp4 segments (CMAF), this project uses gRPC protocol for communication and S3-compatible object storage. The multi-stage dockerfile of project uses Python3.9.2 and FFmpeg4.1
 * [michaelcunningham19/video-speech-recognition](https://github.com/michaelcunningham19/video-speech-recognition): Auto-generated video subtitles for the web using machine learning
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
@@ -5434,6 +5441,7 @@
 * [kwodzicki/video_utils](https://github.com/kwodzicki/video_utils): Python package containing many tools useful for converting video files to h264/h265 encoded MP4 or MKV files
 * [Eyevinn/videobench](https://github.com/Eyevinn/videobench): VMAF PSNR Bitrate Analyzer
 * [JNoDuq/videobench](https://github.com/JNoDuq/videobench): VMAF PSNR Bitrate Analyzer
+* [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress):  Compress videos, remove audio, manipulate thumbnails, and make your video compatible with all platforms through this lightweight and efficient library.
 * [Anuradha2018/VideoContentPlatformwithAngular](https://github.com/Anuradha2018/VideoContentPlatformwithAngular): Video Content Platform for Web with Angular 6
 * [bbc/VideoContext](https://github.com/bbc/VideoContext): An experimental HTML5 & WebGL video composition and rendering API.
 * [Sciencentistguy/videoconverter](https://github.com/Sciencentistguy/videoconverter): A program to convert video files to a uniform format and codec.

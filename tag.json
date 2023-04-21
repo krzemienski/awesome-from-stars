@@ -119,6 +119,9 @@
     "AUTOMATIC1111/stable-diffusion-webui": [
         "Other"
     ],
+    "AXERA-TECH/ax-pipeline": [
+        "Other"
+    ],
     "AaronFeng753/Waifu2x-Extension-GUI": [
         "Other"
     ],
@@ -981,6 +984,9 @@
         "Other"
     ],
     "EG-BRS/cookiecutter-java-service": [
+        "Other"
+    ],
+    "ENCODE-DCC/pipeline-container": [
         "Other"
     ],
     "EONRaider/blackhat-python3": [
@@ -7817,6 +7823,9 @@
     "generate/generate": [
         "Other"
     ],
+    "george-avn/ffenmass": [
+        "Other"
+    ],
     "georgejecook/brsxmlc": [
         "Other"
     ],
@@ -8855,6 +8864,9 @@
     "int128/devops-compose": [
         "Other"
     ],
+    "intel-iot-devkit/concurrent-video-analytic-pipeline-optimization-sample-w": [
+        "Other"
+    ],
     "intel-media-ci/ffmpeg": [
         "Other"
     ],
@@ -9378,6 +9390,9 @@
         "Other"
     ],
     "jonashackt/spring-boot-vuejs": [
+        "Other"
+    ],
+    "jonataslaw/VideoCompress": [
         "Other"
     ],
     "jonathanpenn/ui-auto-monkey": [
@@ -13070,6 +13085,9 @@
     "puemos/hls-downloader": [
         "Other"
     ],
+    "pulumi/pulumi": [
+        "Other"
+    ],
     "pums974/srtsync": [
         "Other"
     ],
@@ -16136,6 +16154,9 @@
     "voc/voctomix": [
         "Other"
     ],
+    "vogler/video-server": [
+        "Other"
+    ],
     "voila-dashboards/voila": [
         "Other"
     ],
@@ -16497,6 +16518,9 @@
         "Other"
     ],
     "wolverdude/GenSON": [
+        "Other"
+    ],
+    "wolverinn/HEVC-deep-learning-pipeline": [
         "Other"
     ],
     "workpieces/etcdwp": [
