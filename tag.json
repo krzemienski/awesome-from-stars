@@ -5315,6 +5315,9 @@
     "bstiel/loggerutils": [
         "Other"
     ],
+    "btw-so/btw": [
+        "Other"
+    ],
     "buger/goreplay": [
         "Other"
     ],
@@ -7608,6 +7611,9 @@
         "Other"
     ],
     "flowkey/UIKit-cross-platform": [
+        "Other"
+    ],
+    "flowplayer/flowplayer": [
         "Other"
     ],
     "fluendo/fluster": [
@@ -14462,6 +14468,9 @@
     "slikdijit/Ubuntu-Swift-Installer": [
         "Other"
     ],
+    "slint-ui/slint": [
+        "Other"
+    ],
     "slugh23/hid-rfid-reader": [
         "Other"
     ],
@@ -16020,6 +16029,9 @@
         "Other"
     ],
     "videojs/videojs-contrib-dash": [
+        "Other"
+    ],
+    "videojs/videojs-contrib-eme": [
         "Other"
     ],
     "videojs/videojs-contrib-hls": [

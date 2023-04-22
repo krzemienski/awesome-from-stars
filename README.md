@@ -1003,6 +1003,7 @@
 * [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance): Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
+* [btw-so/btw](https://github.com/btw-so/btw): Open source personal website builder. Set up your website within minutes.
 * [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea): A powerful little TUI framework 🏗
 * [facebook/buck](https://github.com/facebook/buck): A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 * [airbnb/BuckSample](https://github.com/airbnb/BuckSample): An example app showing how Buck can be used to build a simple iOS app.
@@ -2195,6 +2196,7 @@
 * [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun): Easily generate flowcharts and diagrams from text ⿻
 * [adrai/flowchart.js](https://github.com/adrai/flowchart.js): Draws simple SVG flow chart diagrams from textual representation of the diagram
 * [mher/flower](https://github.com/mher/flower): Real-time monitor and web admin for Celery distributed task queue
+* [flowplayer/flowplayer](https://github.com/flowplayer/flowplayer): The HTML5 video player for the web
 * [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme): Fluent design gtk theme for linux desktops
 * [MihaelIsaev/FluentQuery](https://github.com/MihaelIsaev/FluentQuery): 🗃 Powerful and easy to use Swift Query Builder for Vapor 3.
 * [nathangitter/fluid-interfaces](https://github.com/nathangitter/fluid-interfaces): Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces"
@@ -3571,7 +3573,7 @@
 * [nestproject/Nest](https://github.com/nestproject/Nest): Swift Web Server Gateway Interface
 * [Jigsaw-Code/net-analysis](https://github.com/Jigsaw-Code/net-analysis): Tools, libraries and applications to analyze network measurements and detect interference.
 * [apache/netbeans](https://github.com/apache/netbeans): Apache NetBeans
-* [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+* [netbox-community/netbox](https://github.com/netbox-community/netbox): The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 * [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://www.netdata.cloud
 * [arjunkomath/netdata-ios](https://github.com/arjunkomath/netdata-ios): Unofficial Netdata client for iOS, iPadOS & macOS
 * [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi): 网易云音乐 Node.js API service
@@ -4684,6 +4686,7 @@
 * [maaslalani/slides](https://github.com/maaslalani/slides): Terminal based presentation tool
 * [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
 * [slidevjs/slidev-vscode](https://github.com/slidevjs/slidev-vscode): VS Code extension for Slidev
+* [slint-ui/slint](https://github.com/slint-ui/slint): Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.
 * [mergesort/Slope](https://github.com/mergesort/Slope): A simpler way to implement gradients on iOS.
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 * [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast): PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
@@ -5454,6 +5457,7 @@
 * [MetalPetal/VideoIO](https://github.com/MetalPetal/VideoIO): Video Input/Output Utilities
 * [contently/videojs-annotation-comments](https://github.com/contently/videojs-annotation-comments): A plugin for video.js to add support for timeline moment/range comments and annotations
 * [videojs/videojs-contrib-dash](https://github.com/videojs/videojs-contrib-dash): Video.js plugin for supporting the MPEG-DASH playback through a video.js player
+* [videojs/videojs-contrib-eme](https://github.com/videojs/videojs-contrib-eme): Supports Encrypted Media Extensions for playback of encrypted content in Video.js
 * [videojs/videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls): HLS library for video.js
 * [videojs/videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels): None
 * [chrisboustead/videojs-hls-quality-selector](https://github.com/chrisboustead/videojs-hls-quality-selector): Adds a quality selector menu for HLS sources played in videojs.  Requires `videojs-contrib-quality-levels` plugin.
