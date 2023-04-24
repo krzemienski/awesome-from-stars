@@ -858,7 +858,7 @@
 * [dempfi/ayu](https://github.com/dempfi/ayu): 🎨🖌 Modern Sublime Text theme
 * [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates): Azure Quickstart Templates
 * [microsoft/azure-spring-apps-training](https://github.com/microsoft/azure-spring-apps-training): Guides and tutorials to make the most out of Azure Spring Apps 
-* [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio): Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+* [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio): Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostreSQL, and MongoDB.
 * [microsoft/azuredatastudio-postgresql](https://github.com/microsoft/azuredatastudio-postgresql): azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
 * [andeaseme/backbeat](https://github.com/andeaseme/backbeat): Automated video transcoding over S3 buckets
 * [scality/backbeat](https://github.com/scality/backbeat): Zenko Backbeat is the core engine for asynchronous replication, optimized for queuing metadata updates and dispatching work to long-running tasks in the background.
@@ -4459,6 +4459,7 @@
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust):  All Algorithms implemented in Rust 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 * [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
+* [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice): Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 * [meh/rust-ffmpeg](https://github.com/meh/rust-ffmpeg): Safe FFmpeg wrapper.
 * [sjy-dv/rust-ffmpeg](https://github.com/sjy-dv/rust-ffmpeg): ffmpeg mp4, hls, hls-streaming, live-streaming
 * [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg): Safe FFmpeg wrapper.
