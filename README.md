@@ -2959,6 +2959,7 @@
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [juju/juju](https://github.com/juju/juju): Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux apps, with declarative integration between operators for automated microservice integration.
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
+* [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
 * [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab): JupyterLab computational environment.
 * [casey/just](https://github.com/casey/just): 🤖 Just a command runner
@@ -3977,6 +3978,8 @@
 * [photonstorm/phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [philcluff/phils-players](https://github.com/philcluff/phils-players): A collection of video players with vaguely simple GUIs for video engineers.
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
+* [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh): Manjaro Phosh
+* [manjaro-pinephone/phosh-dev](https://github.com/manjaro-pinephone/phosh-dev): Development Builds of Phosh for the Pinephone
 * [j1mmyto9/photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui): 🎨 An image editor using SwifUI & muukii/Pixel
 * [Netflix/photon](https://github.com/Netflix/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -5177,6 +5180,7 @@
 * [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind
 * [JoseExposito/touche](https://github.com/JoseExposito/touche): The desktop application to configure Touchégg
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
+* [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot): An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
 * [towhee-io/towhee](https://github.com/towhee-io/towhee): Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
 * [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy): :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 * [taphouseio/TPHCloudAnalytics](https://github.com/taphouseio/TPHCloudAnalytics): None

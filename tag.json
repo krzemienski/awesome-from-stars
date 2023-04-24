@@ -3203,6 +3203,9 @@
     "Tourenathan-G5organisation/SiliCompressor": [
         "Other"
     ],
+    "Tow-Boot/Tow-Boot": [
+        "Other"
+    ],
     "TrafeX/videotranscoder": [
         "Other"
     ],
@@ -6816,6 +6819,9 @@
         "Other"
     ],
     "drawcall/lottie-node": [
+        "Other"
+    ],
+    "dreemurrs-embedded/Jumpdrive": [
         "Other"
     ],
     "drewnoakes/metadata-extractor": [
@@ -10863,6 +10869,12 @@
         "Other"
     ],
     "mandiant/capa": [
+        "Other"
+    ],
+    "manjaro-pinephone/phosh": [
+        "Other"
+    ],
+    "manjaro-pinephone/phosh-dev": [
         "Other"
     ],
     "manjaro/manjaro-docker": [
