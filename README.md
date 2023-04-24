@@ -360,6 +360,7 @@
 * [e7711bbear/Assets](https://github.com/e7711bbear/Assets): macOS app that manages assets for your development projects (Xcode, web, etc)
 * [DragonCherry/AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController): Powerfully Customizable - Multiple Photo & Video Picker Controller
 * [jlarriba/astounding](https://github.com/jlarriba/astounding): A multiplatform GUI for the reMarkable tablet
+* [withastro/astro](https://github.com/withastro/astro): The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 * [otoyo/astro-notion-blog](https://github.com/otoyo/astro-notion-blog): 🚀 Begin building your very own Notion Blog with Astro.
 * [electrified/asus-wmi-sensors](https://github.com/electrified/asus-wmi-sensors): Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards
 * [crt0mega/asus-wmi-sensors-dkms](https://github.com/crt0mega/asus-wmi-sensors-dkms): Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards (Debian DKMS package)
@@ -2804,6 +2805,7 @@
 * [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins): Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 * [JetBrains/intellij-samples](https://github.com/JetBrains/intellij-samples): Code that demonstrates various IntelliJ IDEA features
 * [Koushikphy/Interactive_Data_Editor](https://github.com/Koushikphy/Interactive_Data_Editor): A Software to interactively edit data in a graphical manner
+* [okikio/inthistweet](https://github.com/okikio/inthistweet): ✨ Futuristic ✨ twitter image, gif and video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 * [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting): Free Introduction to Bash Scripting eBook
 * [Pmant/ioBroker.fakeroku](https://github.com/Pmant/ioBroker.fakeroku): ioBroker.fakeroku
 * [dennisreimann/ioctocat](https://github.com/dennisreimann/ioctocat): iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch)
