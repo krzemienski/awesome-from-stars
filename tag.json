@@ -128,6 +128,9 @@
     "AbedElazizShe/LightCompressor": [
         "Other"
     ],
+    "AbedElazizShe/LightCompressor_iOS": [
+        "Other"
+    ],
     "Abhishek-2505/Github_topics_scraper": [
         "Other"
     ],
@@ -2426,6 +2429,9 @@
     "Orange-Cyberdefense/arsenal": [
         "Other"
     ],
+    "Orange-OpenSource/hurl": [
+        "Other"
+    ],
     "Otbivnoe/CodableAlamofire": [
         "Other"
     ],
@@ -4227,6 +4233,9 @@
         "Other"
     ],
     "apache/trafficcontrol": [
+        "Other"
+    ],
+    "apache/tvm": [
         "Other"
     ],
     "apache/wicket": [
@@ -7142,6 +7151,9 @@
     "encode/httpx": [
         "Other"
     ],
+    "encode/requests-async": [
+        "Other"
+    ],
     "encode/uvicorn": [
         "Other"
     ],
@@ -9840,6 +9852,9 @@
         "Other"
     ],
     "kholia/OSX-KVM": [
+        "Other"
+    ],
+    "khoren93/FlutterHub": [
         "Other"
     ],
     "khoren93/SwiftHub": [

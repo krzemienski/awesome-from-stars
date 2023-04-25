@@ -2205,6 +2205,7 @@
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
 * [flutter/flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): A pure Dart implementation of Firebase with initial support aimed at FlutterFire for Linux & Windows.
+* [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
 * [tonydeng/fmj](https://github.com/tonydeng/fmj): FMJ (FFMpeg for Java)。通过Java调用FFMpeg命令的方式来对音视频进行处理（获取信息、截图等等）。
 * [unifiedstreaming/fmp4-ingest](https://github.com/unifiedstreaming/fmp4-ingest): Repository on shared work on developing a fragmented MPEG-4 ingest specification
@@ -2716,6 +2717,7 @@
 * [spotify/HubFramework](https://github.com/spotify/HubFramework): DEPRECATED – Spotify’s component-driven UI framework for iOS
 * [coleifer/huey](https://github.com/coleifer/huey): a little task queue for python
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
+* [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run and test HTTP requests with plain text.
 * [dromara/hutool](https://github.com/dromara/hutool): 🍬A set of tools that keep Java sweet.
 * [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe): Probe for hardware, check operability and find drivers
 * [rinsuki/HWAcceleratedVP9Player](https://github.com/rinsuki/HWAcceleratedVP9Player): Hardware Accelerated VP9 Player in macOS 11.0 Big Sur beta 4+
@@ -3159,6 +3161,7 @@
 * [haikarainen/light](https://github.com/haikarainen/light): GNU/Linux application to control backlights
 * [networknt/light-4j](https://github.com/networknt/light-4j): A fast, lightweight and more productive microservices framework
 * [AbedElazizShe/LightCompressor](https://github.com/AbedElazizShe/LightCompressor): A powerful and easy-to-use video compression library for android uses MediaCodec API.
+* [AbedElazizShe/LightCompressor_iOS](https://github.com/AbedElazizShe/LightCompressor_iOS): A powerful and easy-to-use video compression swift package for iOS.
 * [emgram769/lighthouse](https://github.com/emgram769/lighthouse): A simple scriptable popup dialog to run on X.
 * [gokselkoksal/Lightning](https://github.com/gokselkoksal/Lightning): Lightning provides components to make Swift development easier.
 * [alibaba/lightproxy](https://github.com/alibaba/lightproxy): 💎 Cross platform Web debugging proxy
@@ -4345,6 +4348,7 @@
 * [thedillonb/RepoStumble](https://github.com/thedillonb/RepoStumble): A mobile application for viewing GitHub repositories in a fashion similar to StumbleUpon
 * [requestly/requestly](https://github.com/requestly/requestly): 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Report Bugs with debugging sessions.
 * [asmcos/requests](https://github.com/asmcos/requests): A golang HTTP client library. Salute to python requests.
+* [encode/requests-async](https://github.com/encode/requests-async): async-await support for `requests`. ✨ 🍰 ✨
 * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest): An easy and powerful Rust HTTP Client
 * [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor): Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
 * [AMD-OSX/Resources](https://github.com/AMD-OSX/Resources): AMD OS X Resources.
@@ -5255,6 +5259,7 @@
 * [Saentist/tvheadend](https://github.com/Saentist/tvheadend): Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
 * [jinSasaki/TVKit](https://github.com/jinSasaki/TVKit): UI components for tvOS
 * [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+* [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack for cpu, gpu and specialized accelerators
 * [bwhiteley/TVMediaPlayer](https://github.com/bwhiteley/TVMediaPlayer): A media player view controller for tvOS similar to AVPlayerViewController, but not limited to AVPlayer.
 * [sanketfirodiya/tvOS](https://github.com/sanketfirodiya/tvOS): Curated list of tutorials and sample apps for tvOS
 * [toshi0383/tvOS-10-Sampler](https://github.com/toshi0383/tvOS-10-Sampler): Some new stuff for tvOS 10...
