@@ -1651,7 +1651,7 @@
 * [rokudev/dolby-audio-sample](https://github.com/rokudev/dolby-audio-sample): A collection of Dolby test content available in different streaming protocols.
 * [DolbyLaboratories/dolby-encoding-engine](https://github.com/DolbyLaboratories/dolby-encoding-engine): None
 * [DolbyLaboratories/dolby_vision_professional_decoder_plugin](https://github.com/DolbyLaboratories/dolby_vision_professional_decoder_plugin): None
-* [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler): Apache DolphinScheduler is the modern data workflow orchestration platform with powerful user interface, dedicated to solving complex task dependencies in the data pipeline and providing various types of jobs available `out of the box`
+* [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler): Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 * [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io): 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 * [kraanzu/dooit](https://github.com/kraanzu/dooit): A TUI todo manager
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
@@ -3632,6 +3632,7 @@
 * [JoaquimLey/ngrok-install](https://github.com/JoaquimLey/ngrok-install): A simple self-sufficient script that installs a ngrok ssh tunnel service that runs on boot for the raspberry pi
 * [Eitol/ngrok-linux-service](https://github.com/Eitol/ngrok-linux-service): ngrok linux systemd service installer
 * [zufardhiyaulhaq/ngrok-operator](https://github.com/zufardhiyaulhaq/ngrok-operator): Expose your service in Kubernetes to the Internet with Ngrok easily! Automatically reload ngrok sessions after expired!
+* [ngrok/ngrok-rs](https://github.com/ngrok/ngrok-rs): Embed ngrok secure ingress into your Rust apps with a single line of code.
 * [krzemienski/ngrok-setup](https://github.com/krzemienski/ngrok-setup): None
 * [ngrok/ngrok-systemd](https://github.com/ngrok/ngrok-systemd): None
 * [jimklimov/ngrok2-systemd](https://github.com/jimklimov/ngrok2-systemd): Yet another setup to wrap ngrok v2 with systemd and chroot jail
