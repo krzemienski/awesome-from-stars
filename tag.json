@@ -9140,6 +9140,9 @@
     "jaskie/PlayoutAutomation": [
         "Other"
     ],
+    "jasongdove/ErsatzTV": [
+        "Other"
+    ],
     "jasonheecs/ubuntu-server-setup": [
         "Other"
     ],
@@ -9255,6 +9258,9 @@
         "Other"
     ],
     "jfreeland/mpdq": [
+        "Other"
+    ],
+    "jfujita/videojs-http-source-selector": [
         "Other"
     ],
     "jghoman/awesome-apache-airflow": [
@@ -13959,6 +13965,9 @@
         "Other"
     ],
     "saoudrizwan/DynamicJSON": [
+        "Other"
+    ],
+    "sashabaranov/go-openai": [
         "Other"
     ],
     "satoshin21/Anima": [

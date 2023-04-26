@@ -524,7 +524,7 @@
 * [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
 * [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native): A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 * [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare): ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
-* [unskript/Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation): Ready to use cloud-ops templates, organized by connectors to jumpstart your runbook automation in minutes. 😎 published by the unSkript community.
+* [unskript/Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation): Cloud-ops automation runbooks that are ready to use. Build your own automations using the hundreds of drag and drop actions included in the repository.  Built on Jupyter Notebooks, our automation platform jumpstarts your SRE RunBook creation. 😎 published by the unSkript community.
 * [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake): A curated list of awesome CMake resources, scripts, modules and examples.
 * [joho/awesome-code-review](https://github.com/joho/awesome-code-review): An "Awesome" list of code review resources - articles, papers, tools, etc
 * [coder/awesome-code-server](https://github.com/coder/awesome-code-server): Projects, resources, and tutorials that take code-server to the next level
@@ -1835,6 +1835,7 @@
 * [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme): A Material Design-like theme for GNOME/GTK+ based desktop environments.
 * [amilajack/erb-express-example](https://github.com/amilajack/erb-express-example): None
 * [amilajack/erb-video-example](https://github.com/amilajack/erb-video-example): None
+* [jasongdove/ErsatzTV](https://github.com/jasongdove/ErsatzTV): Stream custom live channels using your own media
 * [atlassian/escalator](https://github.com/atlassian/escalator): Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 * [RokuRoad/eslint-plugin-roku](https://github.com/RokuRoad/eslint-plugin-roku): ESLint plugin to parse and lint BrightScript files
 * [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther): Affordable WiFi hacking platform for testing and learning
@@ -2443,6 +2444,7 @@
 * [abema/go-mp4](https://github.com/abema/go-mp4): Go library for reading and writing MP4 file
 * [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd): Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files
 * [dstotijn/go-notion](https://github.com/dstotijn/go-notion): Go client for the Notion API.
+* [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai): OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 * [kevholditch/go-pagerduty-slack-sync](https://github.com/kevholditch/go-pagerduty-slack-sync): A small app to sync pagerduty on call groups to slack groups
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms
 * [sbinet/go-python](https://github.com/sbinet/go-python): naive go bindings to the CPython2 C-API
@@ -5474,6 +5476,7 @@
 * [videojs/videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls): HLS library for video.js
 * [videojs/videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels): None
 * [chrisboustead/videojs-hls-quality-selector](https://github.com/chrisboustead/videojs-hls-quality-selector): Adds a quality selector menu for HLS sources played in videojs.  Requires `videojs-contrib-quality-levels` plugin.
+* [jfujita/videojs-http-source-selector](https://github.com/jfujita/videojs-http-source-selector): VideoJS plugin that leverages videojs-contrib-quality-levels plugin to offer manual user-select able level selection options for adaptive http streams.
 * [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist): Playlist plugin for videojs
 * [videojs/videojs-playlist-ui](https://github.com/videojs/videojs-playlist-ui): A playlist video picker for video.js
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
