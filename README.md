@@ -1582,6 +1582,7 @@
 * [spotify/docker-maven-plugin](https://github.com/spotify/docker-maven-plugin): INACTIVE: A maven plugin for Docker
 * [linuxserver/docker-mstream](https://github.com/linuxserver/docker-mstream): None
 * [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud): None
+* [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager): Docker container for Nginx Proxy Manager
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 * [alfg/docker-nginx-vod-module](https://github.com/alfg/docker-nginx-vod-module): A Dockerized NGINX build of the nginx-vod-module
 * [shkoliar/docker-ngrok](https://github.com/shkoliar/docker-ngrok): Expose a local web server or docker environment to the internet

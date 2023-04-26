@@ -9335,6 +9335,9 @@
     "jlesage/docker-handbrake": [
         "Other"
     ],
+    "jlesage/docker-nginx-proxy-manager": [
+        "Other"
+    ],
     "jlevy/the-art-of-command-line": [
         "Other"
     ],
