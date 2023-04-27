@@ -5502,7 +5502,7 @@
 * [kevin-corcoran-dev/VideoQuality_PoC](https://github.com/kevin-corcoran-dev/VideoQuality_PoC): None
 * [h2non/videoshow](https://github.com/h2non/videoshow): Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg
 * [svhawks/VideoThumbnailViewKit](https://github.com/svhawks/VideoThumbnailViewKit): Video Thumb ScrollView
-* [modfy/videotranscode.space](https://github.com/modfy/videotranscode.space): A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
+* [scalarhq/videotranscode.space](https://github.com/scalarhq/videotranscode.space): A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
 * [TrafeX/videotranscoder](https://github.com/TrafeX/videotranscoder): Wrapper around ffmpeg to transcode media to Apple's ProRes codec
 * [wangda8791/VideoTranscoder](https://github.com/wangda8791/VideoTranscoder): VideoTranscoder, desktop video application based on ffmpeg binary
 * [cash2one/VideoTranscoding-Backend](https://github.com/cash2one/VideoTranscoding-Backend): This application transcode a video that you send on all formats what you want and diferent resolutions.
