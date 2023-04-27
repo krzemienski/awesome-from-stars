@@ -908,6 +908,9 @@
     "DevzoneCommunity/PyNotion": [
         "Other"
     ],
+    "Dhamova/Pineapple-Xcode": [
+        "Other"
+    ],
     "Dhghomon/easy_rust": [
         "Other"
     ],
@@ -4125,6 +4128,9 @@
         "Other"
     ],
     "ant-media/Ant-Media-Server": [
+        "Other"
+    ],
+    "ant-media/LiveVideoBroadcaster": [
         "Other"
     ],
     "ant-media/videojs-webrtc-plugin": [
@@ -14129,6 +14135,9 @@
     "senko/python-video-converter": [
         "Other"
     ],
+    "sentriz/gonic": [
+        "Other"
+    ],
     "sequenceiq/docker-ngrokd": [
         "Other"
     ],
@@ -16746,6 +16755,9 @@
         "Other"
     ],
     "xtangle/zoundcloud": [
+        "Other"
+    ],
+    "xtekky/chatgpt-clone": [
         "Other"
     ],
     "xtranophilist/gnome-shell-extension-sensors": [
