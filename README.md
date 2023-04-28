@@ -2998,6 +2998,7 @@
 * [KubeOperator/k8s-package](https://github.com/KubeOperator/k8s-package): KubeOpererator 2.0 离线安装包工程。
 * [onfido/k8s-rabbit-pod-autoscaler](https://github.com/onfido/k8s-rabbit-pod-autoscaler): Kubernetes autoscaler for pods that consume RabbitMQ
 * [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for): A simple script that allows to wait for a k8s service, job or pods to enter a desired state
+* [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt): Giving Kubernetes Superpowers to everyone
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [devlucky/Kakapo](https://github.com/devlucky/Kakapo): 🐤Dynamically Mock server behaviors and responses in Swift
 * [kinglisky/kakashi](https://github.com/kinglisky/kakashi): None
