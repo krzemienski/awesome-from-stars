@@ -1569,7 +1569,7 @@
 * [restreamio/docker-gstreamer](https://github.com/restreamio/docker-gstreamer): Ubuntu-based container images with upstream GStreamer pre-installed
 * [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake): Docker container for HandBrake
 * [Eyevinn/docker-hevc](https://github.com/Eyevinn/docker-hevc): Docker container to create HEVC streaming packages
-* [oznu/docker-homebridge](https://github.com/oznu/docker-homebridge): Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac. 
+* [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge): Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac. 
 * [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab): Docker Compose Dateien für Homelabs
 * [Eyevinn/docker-html5player](https://github.com/Eyevinn/docker-html5player): A Docker containerized HTML5 player based on Shaka Player
 * [docker/docker-install](https://github.com/docker/docker-install): Docker installation script

@@ -8558,6 +8558,9 @@
     "home-sweet-gnome/dash-to-panel": [
         "Other"
     ],
+    "homebridge/docker-homebridge": [
+        "Other"
+    ],
     "homebridge/homebridge": [
         "Other"
     ],
@@ -12624,9 +12627,6 @@
         "Other"
     ],
     "oznu/docker-cloudflare-ddns": [
-        "Other"
-    ],
-    "oznu/docker-homebridge": [
         "Other"
     ],
     "p-e-w/argos": [
