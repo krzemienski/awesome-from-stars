@@ -3777,7 +3777,6 @@
 * [Vaayne/NotionAI-Plus](https://github.com/Vaayne/NotionAI-Plus): NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
 * [kjk/notionapi](https://github.com/kjk/notionapi): Unofficial Go API for Notion.so
 * [dragonman225/notionapi-agent](https://github.com/dragonman225/notionapi-agent): Unofficial Node.js API client for Notion.so
-* [ThallyssonKlein/NotionAutoTagSite](https://github.com/ThallyssonKlein/NotionAutoTagSite): Imagine that your Notion collections create a life of their own and start to organize themselves. If you like it, give it a star please.
 * [5hay/notionbackup](https://github.com/5hay/notionbackup): A small utility command line application that can recursively download Notion pages
 * [DavidDeBels/NotionClient](https://github.com/DavidDeBels/NotionClient): Unofficial iOS/macOS SDK for the Notion API.
 * [ngviethoang/notiondb](https://github.com/ngviethoang/notiondb): Python 3 tools for interacting with Notion API
