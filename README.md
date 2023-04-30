@@ -2288,7 +2288,7 @@
 * [carousell/GCP-Bill-Analyzer](https://github.com/carousell/GCP-Bill-Analyzer): Compare your GCP bills across months
 * [pendo-io/gcs-s3-sync](https://github.com/pendo-io/gcs-s3-sync): A Google Cloud Function to sync files from a GCS bucket into an S3 bucket
 * [prasmussen/gdrive](https://github.com/prasmussen/gdrive): Google Drive CLI Client
-* [VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote): Console client for Evernote.
+* [vitalyrodnenko/geeknote](https://github.com/vitalyrodnenko/geeknote): Console client for Evernote.
 * [generate/generate](https://github.com/generate/generate): A new command line tool and developer framework for scaffolding out GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either.
 * [centic9/generate-and-send-ssh-key](https://github.com/centic9/generate-and-send-ssh-key): Script to automate the setup of ssh-public/private-key authentication to avoid some common pitfalls
 * [expressjs/generator](https://github.com/expressjs/generator): Express' application generator
