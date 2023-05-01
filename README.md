@@ -2800,6 +2800,7 @@
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: My install.md with dotfiles and etc
 * [lmlsna/install-scripts](https://github.com/lmlsna/install-scripts): Ubuntu install scripts
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
+* [ubports/installer-configs](https://github.com/ubports/installer-configs): Install configurations for the UBports Installer
 * [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
 * [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api): Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 * [instantbox/instantbox](https://github.com/instantbox/instantbox): 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -3806,6 +3807,7 @@
 * [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime): NVIDIA container runtime
 * [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 * [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer): NVIDIA driver installer
+* [wildtruc/nvidia-prime-select](https://github.com/wildtruc/nvidia-prime-select): This a fork of FedoraPrime enhanced for all linux distributions
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA 
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
@@ -4093,6 +4095,7 @@
 * [RokuRoad/prettier-plugin](https://github.com/RokuRoad/prettier-plugin): Prettier plugin for BrightScript
 * [Ramotion/preview-transition](https://github.com/Ramotion/preview-transition): :octocat: PreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library made by @Ramotion
 * [marty-suzuki/Prex](https://github.com/marty-suzuki/Prex): 🔁Unidirectional data flow architecture with MVP and Flux combination for Swift 
+* [alexispurslane/PRIME-GPU-Profile-Selector](https://github.com/alexispurslane/PRIME-GPU-Profile-Selector): A GNOME Extension for GNOME 43 and above to allow you to switch between integrated, discrete, and offloading hybrid graphics from the control panel.
 * [lvcabral/Prince-of-Persia-Roku](https://github.com/lvcabral/Prince-of-Persia-Roku): A port of the classic game Prince of Persia (1989) to Roku
 * [PrismJS/prism](https://github.com/PrismJS/prism): Lightweight, robust, elegant syntax highlighting.
 * [stoplightio/prism](https://github.com/stoplightio/prism): Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.

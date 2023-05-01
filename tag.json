@@ -3833,6 +3833,9 @@
     "alexisakers/BulletinBoard": [
         "Other"
     ],
+    "alexispurslane/PRIME-GPU-Profile-Selector": [
+        "Other"
+    ],
     "alexkim205/G-Desktop-Suite": [
         "Other"
     ],
@@ -15779,6 +15782,9 @@
     "uber/swift-concurrency": [
         "Other"
     ],
+    "ubports/installer-configs": [
+        "Other"
+    ],
     "ubports/ubports-installer": [
         "Other"
     ],
@@ -16494,6 +16500,9 @@
         "Other"
     ],
     "wikimedia/wikipedia-ios": [
+        "Other"
+    ],
+    "wildtruc/nvidia-prime-select": [
         "Other"
     ],
     "willemvermeer/typed-actors": [
