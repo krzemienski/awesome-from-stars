@@ -307,7 +307,7 @@
 * [sphinx02/AppStarter](https://github.com/sphinx02/AppStarter): AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 * [pop-os/apt-fetcher](https://github.com/pop-os/apt-fetcher): Rust crate for asynchronous and parallel fetching of apt repo files from apt repos. This can be used for updating apt lists and fetching packages from a pool.
 * [martin68/apt-smart](https://github.com/martin68/apt-smart): apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 * [dvershinin/apt-to-dnf](https://github.com/dvershinin/apt-to-dnf): Aliases for creating "apt" CLI interface for RPM based distros
