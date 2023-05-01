@@ -3851,7 +3851,7 @@
 * [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB): Web tool for database management
 * [balopez83/One-Mix-3-Hackintosh](https://github.com/balopez83/One-Mix-3-Hackintosh): This project attempts to bring MacOS to the One-Mix 3 & 2s with Full Support
 * [theonedev/onedev](https://github.com/theonedev/onedev): Self-hosted Git Server with CI/CD and Kanban
-* [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub): 2.5k code solutions with clear explanation @ onelinerhub.com
+* [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub): Thousands of code solutions with clear explanation @ onelinerhub.com
 * [tjf801/oneliners](https://github.com/tjf801/oneliners): one line of python code to impliment algorithms
 * [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 * [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
