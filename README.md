@@ -5495,6 +5495,7 @@
 * [rsereda/VideoMultibitrateConverter](https://github.com/rsereda/VideoMultibitrateConverter): Python handler for ffmpeg tool for create mp4 and HLS with AES128 encryption multibitrate stream file
 * [ustwo/videoplayback-ios](https://github.com/ustwo/videoplayback-ios): Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress 
 * [wxxsw/VideoPlayer](https://github.com/wxxsw/VideoPlayer): 📽 A video player for SwiftUI, support for caching, preload and custom control view. SwiftUI 视频播放器，支持边下边播、预加载、自定义控制层
+* [yundiantech/VideoPlayer](https://github.com/yundiantech/VideoPlayer): Qt+ffmpeg实现的视频播放器
 * [rokudev/videoplayer-channel](https://github.com/rokudev/videoplayer-channel): SceneGraph version of the SDK1 VideoPlayer Channel 
 * [MostafaAnter/VideoPlayerInsideRecyclerView](https://github.com/MostafaAnter/VideoPlayerInsideRecyclerView): Integrate RecyclerView with ExoPlayer — The clean way — and customization
 * [danylovolokh/VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager): This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it.
