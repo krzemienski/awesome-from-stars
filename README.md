@@ -1829,6 +1829,7 @@
 * [entropic-dev/entropic](https://github.com/entropic-dev/entropic): 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 * [Entware/Entware](https://github.com/Entware/Entware): Ultimate repo for embedded devices
 * [envoyproxy/envoy](https://github.com/envoyproxy/envoy): Cloud-native high-performance edge/middle/service proxy
+* [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol): Easy GPU switching for Nvidia Optimus laptops under Linux
 * [ALLATRA-IT/ephyr](https://github.com/ALLATRA-IT/ephyr): Self-hosted server solution for video streaming powered by Rust, SRS ad FFmpeg
 * [epiclabs-io/epic-video-comparator](https://github.com/epiclabs-io/epic-video-comparator): Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
 * [epiclabs-io/epic-video-player](https://github.com/epiclabs-io/epic-video-player): JS library to wrap different video libraries.
