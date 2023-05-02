@@ -138,6 +138,12 @@
 * [PapirusDevelopmentTeam/adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde): Adapta KDE customization
 * [IvanoBilenchi/Adaptive-Video-Player](https://github.com/IvanoBilenchi/Adaptive-Video-Player): HLS player for iOS that supports manual selection for the quality of adaptive streams
 * [JakeWharton/adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror): Mirror the touch/key/button events of one device onto one or more other devices in real-time
+* [BeboKhouja/ADB-GUI](https://github.com/BeboKhouja/ADB-GUI): ADB GUI is a Java based GUI addon for ADB.
+* [yapplications/ADB-GUI](https://github.com/yapplications/ADB-GUI): None
+* [TheConsciousBone/adb-tools](https://github.com/TheConsciousBone/adb-tools): A simple GUI made in Python for easy use of ADB
+* [neXenio/adb-util](https://github.com/neXenio/adb-util): Electron app for Android developers, providing a GUI for common ADB operations
+* [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit): 使用 Flutter 开发的 ADB GUI 客户端
+* [sunwicked/adbGUI](https://github.com/sunwicked/adbGUI): Desktop client for adb commands inspired from adb idea plugin for android studio 
 * [s3h10r/AddToReminiscence-Chromium-Extension](https://github.com/s3h10r/AddToReminiscence-Chromium-Extension): This extension adds a button to your toolbar which lets you add the current page you're browsing to your Reminiscence instance.
 * [adminfaces/admin-template](https://github.com/adminfaces/admin-template): JSF responsive admin template based on Bootstrap and AdminLTE 
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 4
@@ -156,6 +162,7 @@
 * [marco-gallegos/after-install](https://github.com/marco-gallegos/after-install): shell scripts para operaciones comunes despues de instalar distros linux
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
+* [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
 * [terrycain/aioboto3](https://github.com/terrycain/aioboto3): Wrapper to use boto3 resources with the aiobotocore async backend
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
 * [aio-libs/aiodocker](https://github.com/aio-libs/aiodocker): Python Docker API client based on asyncio and aiohttp
@@ -371,6 +378,7 @@
 * [jonathanslenders/asyncio-redis](https://github.com/jonathanslenders/asyncio-redis): Redis client for Python asyncio (PEP 3156)
 * [briancoyner/AsyncWorkflow](https://github.com/briancoyner/AsyncWorkflow): Techniques for building "async workflows" using `NSOperation` and `NSOperationQueue`.
 * [hibiken/asynq](https://github.com/hibiken/asynq): Simple, reliable, and efficient distributed task queue in Go
+* [msartore/ATA-GUI](https://github.com/msartore/ATA-GUI): ATA GUI is a project to make ATA available to all the users. ATA GUI is an Advance Tool for Android™ powered by SDK Platform Tools.
 * [athensresearch/athens](https://github.com/athensresearch/athens): ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 * [YadominJinta/atilo](https://github.com/YadominJinta/atilo): Linux installer for termux
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
@@ -2531,6 +2539,7 @@
 * [aksakalli/gtop](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
 * [google/guava](https://github.com/google/guava): Google core libraries for Java
+* [ckotch47/gui_for_adb](https://github.com/ckotch47/gui_for_adb): None
 * [hobby-kube/guide](https://github.com/hobby-kube/guide):  Kubernetes clusters for the hobbyist.
 * [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta): None
 * [Yalantis/GuillotineMenu](https://github.com/Yalantis/GuillotineMenu): Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
@@ -2576,6 +2585,7 @@
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox): HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
 * [stackgl/headless-gl](https://github.com/stackgl/headless-gl): 🎃 Windowless WebGL for node.js
 * [juzzlin/Heimer](https://github.com/juzzlin/Heimer): Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
+* [ElisaMin/Heizi-Flashing-Tools](https://github.com/ElisaMin/Heizi-Flashing-Tools): GUI Tools developed for adb and fastboot operate eg fastboot boot image. fastboot reboot, adb reboot recovery .........
 * [helloSystem/hello](https://github.com/helloSystem/hello): Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 * [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos): Hello LaunchDarkly for tvOS
 * [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
@@ -3460,6 +3470,7 @@
 * [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg): FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
 * [sahin/mobileplayer-ios](https://github.com/sahin/mobileplayer-ios): :iphone: :movie_camera: A powerful and completely customizable media player for iOS
 * [moby/moby](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+* [ibilux/MobyDroid](https://github.com/ibilux/MobyDroid): Android Device Manager with a Graphic User Interface (GUI) – Manage Android on Linux, Windows and MacOS.
 * [tjenkinson/mock-hls-server](https://github.com/tjenkinson/mock-hls-server): Fake a live/event HLS stream from a VOD one. Useful for testing. Supports looping.
 * [kylef/Mockingjay](https://github.com/kylef/Mockingjay): An elegant library for stubbing HTTP requests with ease in Swift
 * [LanceGin/Mockman](https://github.com/LanceGin/Mockman): Manage and start the mock servers on your local platform easily
@@ -4020,6 +4031,7 @@
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
 * [beyondmeh/piu](https://github.com/beyondmeh/piu): Cross platform package manager wrapper
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
+* [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher): Pixel™ phone flashing GUI utility with features.
 * [GottaYotta/PixelSDK](https://github.com/GottaYotta/PixelSDK): The modern photo and video editor for your iPhone / iPad app. A fully customizable image & video editing iOS Swift framework.
 * [antoinehng/pixelwalker](https://github.com/antoinehng/pixelwalker): Video encoding quality assessment platform
 * [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability
@@ -4563,6 +4575,7 @@
 * [scrapy/scrapyd-client](https://github.com/scrapy/scrapyd-client): Command line client for Scrapyd server
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui): 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
+* [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus): A simple GUI for SCRCPY and other ADB functions
 * [itforgeuk/Script-Actions](https://github.com/itforgeuk/Script-Actions): Script Examples for Script Actions App
 * [bensuperpc/scripts](https://github.com/bensuperpc/scripts): Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 * [reHackable/scripts](https://github.com/reHackable/scripts): [ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience
@@ -4662,6 +4675,7 @@
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second 
 * [Ikuyadeu/similar-code-searcher](https://github.com/Ikuyadeu/similar-code-searcher): a GitHub App built with probot that searches files similar with deleted code in Pull Request.
 * [NationalSecurityAgency/SIMP](https://github.com/NationalSecurityAgency/SIMP): A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
+* [mhashim6/Simple-ADB](https://github.com/mhashim6/Simple-ADB): ADB/Fastboot. With a GUI.
 * [LitoMore/simple-icons-cdn](https://github.com/LitoMore/simple-icons-cdn): Simple Icons CDN
 * [Thurinum/simple-media-encoder](https://github.com/Thurinum/simple-media-encoder): Compress your media files quickly and efficiently with this convenient tool. Uses FFMPEG and the Qt toolkit.
 * [electron/simple-samples](https://github.com/electron/simple-samples): Minimal Electron applications with ideas for taking them further
@@ -5348,6 +5362,7 @@
 * [rokudev/unit-testing-framework](https://github.com/rokudev/unit-testing-framework): Tool for automating and testing Roku channels
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [ubports/unity8](https://github.com/ubports/unity8): The operating environment for everywhere.
+* [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux

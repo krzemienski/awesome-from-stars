@@ -2,6 +2,9 @@
     "0ry0n/Resource_Monitor": [
         "Other"
     ],
+    "0x192/universal-android-debloater": [
+        "Other"
+    ],
     "0xAX/linux-insides": [
         "Other"
     ],
@@ -378,6 +381,9 @@
         "Other"
     ],
     "Bash-it/bash-it": [
+        "Other"
+    ],
+    "BeboKhouja/ADB-GUI": [
         "Other"
     ],
     "BellAppLab/Backgroundable": [
@@ -1022,6 +1028,9 @@
     "Electron-Store/electron-app-store": [
         "Other"
     ],
+    "ElisaMin/Heizi-Flashing-Tools": [
+        "Other"
+    ],
     "EliverLara/Andromeda": [
         "Other"
     ],
@@ -1350,6 +1359,9 @@
         "Other"
     ],
     "FrontendMasters/front-end-handbook-2017": [
+        "Other"
+    ],
+    "Frontesque/scrcpy-plus": [
         "Other"
     ],
     "FrozenIronSoftware/Twitched": [
@@ -3152,6 +3164,9 @@
     "TheAssassin/AppImageLauncher": [
         "Other"
     ],
+    "TheConsciousBone/adb-tools": [
+        "Other"
+    ],
     "TheGreatMcPain/python-media-scripts": [
         "Other"
     ],
@@ -4862,6 +4877,9 @@
     "backuppc/backuppc": [
         "Other"
     ],
+    "badabing2005/PixelFlasher": [
+        "Other"
+    ],
     "badoo/Chatto": [
         "Other"
     ],
@@ -5733,6 +5751,9 @@
         "Other"
     ],
     "ckeditor/github-writer": [
+        "Other"
+    ],
+    "ckotch47/gui_for_adb": [
         "Other"
     ],
     "claffin/cloudproxy": [
@@ -8711,6 +8732,9 @@
     "iberianpig/fusuma": [
         "Other"
     ],
+    "ibilux/MobyDroid": [
+        "Other"
+    ],
     "ibireme/YYCache": [
         "Other"
     ],
@@ -11309,6 +11333,9 @@
     "mhart/alpine-node": [
         "Other"
     ],
+    "mhashim6/Simple-ADB": [
+        "Other"
+    ],
     "mher/flower": [
         "Other"
     ],
@@ -11699,6 +11726,9 @@
     "msaps/MSSTabbedPageViewController": [
         "Other"
     ],
+    "msartore/ATA-GUI": [
+        "Other"
+    ],
     "msdeep14/trackGitHubStars": [
         "Other"
     ],
@@ -11879,6 +11909,9 @@
     "nccgroup/ScoutSuite": [
         "Other"
     ],
+    "neXenio/adb-util": [
+        "Other"
+    ],
     "nebulabroadcast/nebula": [
         "Other"
     ],
@@ -12024,6 +12057,9 @@
         "Other"
     ],
     "nielstenboom/recurring-content-detector": [
+        "Other"
+    ],
+    "nightmare-space/adb_kit": [
         "Other"
     ],
     "nikhilm/node-taglib": [
@@ -15002,6 +15038,9 @@
     "sunrise2575/dist-ffmpeg": [
         "Other"
     ],
+    "sunwicked/adbGUI": [
+        "Other"
+    ],
     "sunwxg/gnome-shell-extension-arrangeWindows": [
         "Other"
     ],
@@ -15333,6 +15372,9 @@
         "Other"
     ],
     "theonedev/onedev": [
+        "Other"
+    ],
+    "theorlan2/AIDB-APP": [
         "Other"
     ],
     "theos/theos": [
@@ -16812,6 +16854,9 @@
         "Other"
     ],
     "yangjie10930/EpMedia": [
+        "Other"
+    ],
+    "yapplications/ADB-GUI": [
         "Other"
     ],
     "yard-turkey/aws-s3-provisioner": [
