@@ -1106,6 +1106,12 @@
     "ExistentialAudio/SwiftOSC": [
         "Other"
     ],
+    "Eyevinn/AutoVMAF-Excel-Accel": [
+        "Other"
+    ],
+    "Eyevinn/EXJOBB": [
+        "Other"
+    ],
     "Eyevinn/ListenUp": [
         "Other"
     ],
@@ -1118,10 +1124,31 @@
     "Eyevinn/adxchange-engine": [
         "Other"
     ],
+    "Eyevinn/android-player": [
+        "Other"
+    ],
+    "Eyevinn/auto-subtitles": [
+        "Other"
+    ],
+    "Eyevinn/autovmaf": [
+        "Other"
+    ],
+    "Eyevinn/autovmaf-api": [
+        "Other"
+    ],
+    "Eyevinn/autovmaf-preprocessing": [
+        "Other"
+    ],
     "Eyevinn/av1-player": [
         "Other"
     ],
     "Eyevinn/awmanager": [
+        "Other"
+    ],
+    "Eyevinn/bitmovin-player-ios-analytics-conviva": [
+        "Other"
+    ],
+    "Eyevinn/breaking-news-vc": [
         "Other"
     ],
     "Eyevinn/channel-engine": [
@@ -1130,7 +1157,16 @@
     "Eyevinn/channel-engine-client-tvos": [
         "Other"
     ],
+    "Eyevinn/channel-engine-docs": [
+        "Other"
+    ],
+    "Eyevinn/channel-engine-mosaic": [
+        "Other"
+    ],
     "Eyevinn/channel-engine-multiview": [
+        "Other"
+    ],
+    "Eyevinn/chaos-stream-proxy": [
         "Other"
     ],
     "Eyevinn/codem-client": [
@@ -1139,13 +1175,40 @@
     "Eyevinn/continue-watching-api": [
         "Other"
     ],
+    "Eyevinn/csai-manager": [
+        "Other"
+    ],
+    "Eyevinn/dash-mpd": [
+        "Other"
+    ],
     "Eyevinn/dash-validator-js": [
+        "Other"
+    ],
+    "Eyevinn/dash.js": [
+        "Other"
+    ],
+    "Eyevinn/demand-side-platform": [
+        "Other"
+    ],
+    "Eyevinn/detect-viewer-poc": [
+        "Other"
+    ],
+    "Eyevinn/dev-lambda": [
         "Other"
     ],
     "Eyevinn/docker-2dash": [
         "Other"
     ],
+    "Eyevinn/docker-collectd": [
+        "Other"
+    ],
     "Eyevinn/docker-dash-packager": [
+        "Other"
+    ],
+    "Eyevinn/docker-ecs-unified": [
+        "Other"
+    ],
+    "Eyevinn/docker-fast": [
         "Other"
     ],
     "Eyevinn/docker-hevc": [
@@ -1157,10 +1220,28 @@
     "Eyevinn/docker-jit-capture": [
         "Other"
     ],
+    "Eyevinn/docker-s3-mp4split": [
+        "Other"
+    ],
     "Eyevinn/docker-serve": [
         "Other"
     ],
     "Eyevinn/docker-toolbelt": [
+        "Other"
+    ],
+    "Eyevinn/docker-wrtc-origin": [
+        "Other"
+    ],
+    "Eyevinn/docker-wrtc-whep": [
+        "Other"
+    ],
+    "Eyevinn/easyvmaf_s3": [
+        "Other"
+    ],
+    "Eyevinn/elemental": [
+        "Other"
+    ],
+    "Eyevinn/enigma.io": [
         "Other"
     ],
     "Eyevinn/eye-recommender": [
@@ -1184,10 +1265,22 @@
     "Eyevinn/function-scenes": [
         "Other"
     ],
+    "Eyevinn/go-origin": [
+        "Other"
+    ],
+    "Eyevinn/hls-cmcd": [
+        "Other"
+    ],
     "Eyevinn/hls-cutsegment": [
         "Other"
     ],
     "Eyevinn/hls-download": [
+        "Other"
+    ],
+    "Eyevinn/hls-duration": [
+        "Other"
+    ],
+    "Eyevinn/hls-id3-trigger": [
         "Other"
     ],
     "Eyevinn/hls-monitor": [
@@ -1202,10 +1295,28 @@
     "Eyevinn/hls-proxy": [
         "Other"
     ],
+    "Eyevinn/hls-pull-push": [
+        "Other"
+    ],
+    "Eyevinn/hls-query": [
+        "Other"
+    ],
+    "Eyevinn/hls-recorder": [
+        "Other"
+    ],
     "Eyevinn/hls-relay": [
         "Other"
     ],
+    "Eyevinn/hls-repeat": [
+        "Other"
+    ],
+    "Eyevinn/hls-splice": [
+        "Other"
+    ],
     "Eyevinn/hls-to-dash": [
+        "Other"
+    ],
+    "Eyevinn/hls-truncate": [
         "Other"
     ],
     "Eyevinn/hls-ts-analyzer": [
@@ -1214,16 +1325,103 @@
     "Eyevinn/hls-ts-js": [
         "Other"
     ],
+    "Eyevinn/hls-vodtolive": [
+        "Other"
+    ],
+    "Eyevinn/hls-vodtovod": [
+        "Other"
+    ],
+    "Eyevinn/hlsparser": [
+        "Other"
+    ],
     "Eyevinn/html-player": [
+        "Other"
+    ],
+    "Eyevinn/html5-hls-player": [
+        "Other"
+    ],
+    "Eyevinn/http-streaming-samples": [
+        "Other"
+    ],
+    "Eyevinn/iaf-plugin-aws": [
+        "Other"
+    ],
+    "Eyevinn/iaf-plugin-aws-mediapackage": [
+        "Other"
+    ],
+    "Eyevinn/iaf-plugin-aws-s3": [
+        "Other"
+    ],
+    "Eyevinn/iaf-plugin-encore-local": [
+        "Other"
+    ],
+    "Eyevinn/id3.js": [
+        "Other"
+    ],
+    "Eyevinn/ingest-application-framework": [
+        "Other"
+    ],
+    "Eyevinn/is-drm-supported": [
+        "Other"
+    ],
+    "Eyevinn/lambda-adxengine-mockup": [
+        "Other"
+    ],
+    "Eyevinn/lambda-hls-rewrite": [
+        "Other"
+    ],
+    "Eyevinn/lambda-protect-hls": [
         "Other"
     ],
     "Eyevinn/lambda-stitch": [
         "Other"
     ],
+    "Eyevinn/lambda-vast-transformer": [
+        "Other"
+    ],
+    "Eyevinn/lambda-vodtovod": [
+        "Other"
+    ],
+    "Eyevinn/manifestparser": [
+        "Other"
+    ],
+    "Eyevinn/media-event-filter": [
+        "Other"
+    ],
+    "Eyevinn/media-session-manager": [
+        "Other"
+    ],
     "Eyevinn/mp4ff": [
         "Other"
     ],
+    "Eyevinn/mpd-whep": [
+        "Other"
+    ],
     "Eyevinn/multichoice": [
+        "Other"
+    ],
+    "Eyevinn/multiview-sync": [
+        "Other"
+    ],
+    "Eyevinn/nalu-chunker": [
+        "Other"
+    ],
+    "Eyevinn/node-cmcd": [
+        "Other"
+    ],
+    "Eyevinn/node-fluent-ffmpeg": [
+        "Other"
+    ],
+    "Eyevinn/node-go-live": [
+        "Other"
+    ],
+    "Eyevinn/node-m3u8": [
+        "Other"
+    ],
+    "Eyevinn/node-srt": [
+        "Other"
+    ],
+    "Eyevinn/node-webrtc": [
         "Other"
     ],
     "Eyevinn/ott-multiview": [
@@ -1232,31 +1430,109 @@
     "Eyevinn/ottmeasure": [
         "Other"
     ],
+    "Eyevinn/photon": [
+        "Other"
+    ],
+    "Eyevinn/player-analytics-client-sdk-web": [
+        "Other"
+    ],
+    "Eyevinn/player-analytics-eventsink": [
+        "Other"
+    ],
+    "Eyevinn/player-analytics-session-validator": [
+        "Other"
+    ],
+    "Eyevinn/player-analytics-specification": [
+        "Other"
+    ],
+    "Eyevinn/player-analytics-worker": [
+        "Other"
+    ],
+    "Eyevinn/preview-hls-service": [
+        "Other"
+    ],
     "Eyevinn/pseudo-live-playout": [
         "Other"
     ],
     "Eyevinn/ratings-api": [
         "Other"
     ],
+    "Eyevinn/safari-bitrate-monitor": [
+        "Other"
+    ],
+    "Eyevinn/schedule-service": [
+        "Other"
+    ],
+    "Eyevinn/schedule-service-adapter": [
+        "Other"
+    ],
+    "Eyevinn/scte35-inserter": [
+        "Other"
+    ],
     "Eyevinn/srt-metadata-extractor": [
+        "Other"
+    ],
+    "Eyevinn/srt-to-mpd-whep-reference": [
+        "Other"
+    ],
+    "Eyevinn/srt-webrtc": [
         "Other"
     ],
     "Eyevinn/stream-limit-api": [
         "Other"
     ],
+    "Eyevinn/stream-tsdemux": [
+        "Other"
+    ],
     "Eyevinn/streaming-onboarding": [
+        "Other"
+    ],
+    "Eyevinn/supply-side-platform": [
+        "Other"
+    ],
+    "Eyevinn/swift-srt": [
+        "Other"
+    ],
+    "Eyevinn/test-adserver": [
         "Other"
     ],
     "Eyevinn/toolbox": [
         "Other"
     ],
+    "Eyevinn/tsgen-svc": [
+        "Other"
+    ],
     "Eyevinn/tv.eyevinn.technology": [
+        "Other"
+    ],
+    "Eyevinn/twitter-sentiment-analysis": [
+        "Other"
+    ],
+    "Eyevinn/udpproxy": [
+        "Other"
+    ],
+    "Eyevinn/user-segmentation-api": [
         "Other"
     ],
     "Eyevinn/vast-info": [
         "Other"
     ],
+    "Eyevinn/video-daterange-monitor": [
+        "Other"
+    ],
+    "Eyevinn/video-event-filter": [
+        "Other"
+    ],
+    "Eyevinn/video-quality-monitor": [
+        "Other"
+    ],
     "Eyevinn/videobench": [
+        "Other"
+    ],
+    "Eyevinn/videomapp": [
+        "Other"
+    ],
+    "Eyevinn/vmaf-analyze": [
         "Other"
     ],
     "Eyevinn/vmapproxy": [
@@ -1271,10 +1547,22 @@
     "Eyevinn/web-player": [
         "Other"
     ],
+    "Eyevinn/webrtc-http-playback-protocol": [
+        "Other"
+    ],
     "Eyevinn/webrtc-player": [
         "Other"
     ],
     "Eyevinn/whip": [
+        "Other"
+    ],
+    "Eyevinn/whpp-client": [
+        "Other"
+    ],
+    "Eyevinn/wrtc-egress": [
+        "Other"
+    ],
+    "Eyevinn/wrtc-mpd-simulator": [
         "Other"
     ],
     "FDH2/UxPlay": [
@@ -1635,6 +1923,9 @@
         "Other"
     ],
     "IvanoBilenchi/Adaptive-Video-Player": [
+        "Other"
+    ],
+    "J-F-Liu/lopdf": [
         "Other"
     ],
     "J0hnbX/RedTeam-Resources": [
@@ -4553,6 +4844,9 @@
     "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code": [
         "Other"
     ],
+    "ashphy/jsonpath-online-evaluator": [
+        "Other"
+    ],
     "ashwanijanghu/ExoPlayer-Offline": [
         "Other"
     ],
@@ -5801,6 +6095,9 @@
     "cloudalchemy/ansible-prometheus": [
         "Other"
     ],
+    "cloudec/udpproxy": [
+        "Other"
+    ],
     "cloudflare/cloudflared": [
         "Other"
     ],
@@ -6503,6 +6800,9 @@
     "devCharles/gitRepoUpdater": [
         "Other"
     ],
+    "devcshort/react-hls": [
+        "Other"
+    ],
     "devhotteok/TwitchLink": [
         "Other"
     ],
@@ -7140,6 +7440,9 @@
         "Other"
     ],
     "emarsden/dash-mpd-cli": [
+        "Other"
+    ],
+    "emarsden/dash-mpd-rs": [
         "Other"
     ],
     "embedly/player.js": [
@@ -12774,6 +13077,9 @@
         "Other"
     ],
     "pbs/pycaption": [
+        "Other"
+    ],
+    "pdf-rs/pdf": [
         "Other"
     ],
     "peak/s5cmd": [
