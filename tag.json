@@ -3209,6 +3209,9 @@
     "Significant-Gravitas/Auto-GPT": [
         "Other"
     ],
+    "Significant-Gravitas/Auto-GPT-Plugins": [
+        "Other"
+    ],
     "Silence-GitHub/BBMetalImage": [
         "Other"
     ],
@@ -12470,7 +12473,7 @@
     "nolte/cookiecutter-gh-project": [
         "Other"
     ],
-    "nomad/venice": [
+    "nomad-cli/venice": [
         "Other"
     ],
     "nonameplum/Changeable": [
@@ -14174,6 +14177,9 @@
     "rust-embedded/awesome-embedded-rust": [
         "Other"
     ],
+    "rust-lang/cargo": [
+        "Other"
+    ],
     "rust-lang/rust": [
         "Other"
     ],
@@ -14289,6 +14295,9 @@
         "Other"
     ],
     "samuelmaddock/metastream": [
+        "Other"
+    ],
+    "samwize/wwdc-dl": [
         "Other"
     ],
     "sanathb/go-HLS": [
@@ -16653,6 +16662,9 @@
         "Other"
     ],
     "wagtail/wagtail": [
+        "Other"
+    ],
+    "wailsapp/wails": [
         "Other"
     ],
     "waleedahmad/node-stream": [

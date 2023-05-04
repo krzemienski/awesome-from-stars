@@ -427,6 +427,7 @@
 * [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
 * [yavorsky/auto-github-topics](https://github.com/yavorsky/auto-github-topics): 📝 Fetch and set topics to github from package.json
 * [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous.
+* [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins): Plugins for Auto-GPT
 * [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
 * [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle): Automatically generate and overlay subtitles for any video.
 * [Eyevinn/auto-subtitles](https://github.com/Eyevinn/auto-subtitles): Automatically generate subtitles from an input audio or video file using Open AI Whisper
@@ -1068,6 +1069,7 @@
 * [intuit/CardParts](https://github.com/intuit/CardParts): A reactive, card-based UI framework built on UIKit for iOS developers.
 * [radianttap/CardPresentationController](https://github.com/radianttap/CardPresentationController): Custom UIPresentationController which mimics the behavior of Apple Music UI
 * [Ramotion/cardslider](https://github.com/Ramotion/cardslider): :octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
+* [rust-lang/cargo](https://github.com/rust-lang/cargo): The Rust package manager
 * [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb): A cargo subcommand that generates Debian packages from information in Cargo.toml
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
 * [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -5507,7 +5509,7 @@
 * [vectordotdev/vector](https://github.com/vectordotdev/vector): A high-performance observability data pipeline.
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
 * [Zewo/Venice](https://github.com/Zewo/Venice): Coroutines, structured concurrency and CSP for Swift on macOS and Linux.
-* [nomad/venice](https://github.com/nomad/venice): Ruby Gem for In-App Purchase Receipt Verification
+* [nomad-cli/venice](https://github.com/nomad-cli/venice): Ruby Gem for In-App Purchase Receipt Verification
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [josejuanqm/VersaPlayer](https://github.com/josejuanqm/VersaPlayer): Versatile Video Player implementation for iOS, macOS, and tvOS
 * [JoniVR/VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper): A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
@@ -5721,6 +5723,7 @@
 * [vyos/vyos-documentation](https://github.com/vyos/vyos-documentation): VyOS readthedocs
 * [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content management system focused on flexibility and user experience
 * [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+* [wailsapp/wails](https://github.com/wailsapp/wails): Create beautiful applications using Go
 * [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it): Pure bash script to test and wait on the availability of a TCP host and port
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [elementary/wallpapers](https://github.com/elementary/wallpapers): Collection of wallpapers for elementary OS
@@ -5814,6 +5817,7 @@
 * [microsoftarchive/wunderlist.js](https://github.com/microsoftarchive/wunderlist.js): Wunderlist Javascript SDK
 * [edipox/wunderlistux](https://github.com/edipox/wunderlistux): An electron wrapper for wunderlist made with :heart: for Linux (specially for elementary OS)
 * [insidegui/WWDC](https://github.com/insidegui/WWDC): The unofficial WWDC app for macOS
+* [samwize/wwdc-dl](https://github.com/samwize/wwdc-dl): Download WWDC videos and PDF easily
 * [ohoachuck/wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader): WWDC 2019 video downloader script written in Swift - no external dependency.
 * [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh): READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh 
 * [videolan/x265](https://github.com/videolan/x265): https://bitbucket.org/multicoreware/x265/ git mirror
