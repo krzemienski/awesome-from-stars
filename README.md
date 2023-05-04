@@ -403,6 +403,8 @@
 * [okorach/audio-video-tools](https://github.com/okorach/audio-video-tools): Python based batch tools to transcode audio and video conveniently (leverages FFMpeg)
 * [shinobizero/audio_transcriber](https://github.com/shinobizero/audio_transcriber): Transcodes audio & video files to text, supports MP3, M4A, WAV, MP4, MKV, AVI, MPG & MPEG. No Online API's. Python 3
 * [yermak/AudioBookConverter](https://github.com/yermak/AudioBookConverter): Improved AudioBookConverter based on freeipodsoftware release (mp3 to m4b converter)
+* [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT): AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+* [AIGC-Audio/AudioGPT.github.io](https://github.com/AIGC-Audio/AudioGPT.github.io): The demo page of AudioGPT
 * [kolber/audiojs](https://github.com/kolber/audiojs): A cross-browser javascript wrapper for the html5 audio tag
 * [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit): Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 * [AudioKit/AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): AudioKit Synth One: Open-Source iOS Synthesizer App
@@ -3979,6 +3981,7 @@
 * [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager): A management framework for extending Kubernetes with Operators
 * [ContainerSolutions/operator-workshop](https://github.com/ContainerSolutions/operator-workshop): None
 * [kudobuilder/operators](https://github.com/kudobuilder/operators): Collection of Kubernetes Operators built with KUDO.
+* [shiyiya/oplayer](https://github.com/shiyiya/oplayer): :zap: Another HTM5 video player.
 * [fastred/Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times): Collection of advice on optimizing compile times of Swift projects.
 * [objcio/OptimizingCollections](https://github.com/objcio/OptimizingCollections): Home of my talk about Optimizing Collections in Swift
 * [dglt1/optimus-switch-gdm](https://github.com/dglt1/optimus-switch-gdm): modified version to work with gdm/gnome. includes install script. made for manjaro linux.
@@ -5011,6 +5014,7 @@
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
 * [cemolcay/StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView): uiscrollview with strechy and parallax top view
 * [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand): Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+* [azgaresncf/strm2hls](https://github.com/azgaresncf/strm2hls): convert [some] streaming links to HLS (HTTP Live Streaming)
 * [hynek/structlog](https://github.com/hynek/structlog): Simple, powerful, and fast logging for Python.
 * [keesun/study](https://github.com/keesun/study): Learn, Share and Grow
 * [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome): ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.

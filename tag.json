@@ -98,6 +98,12 @@
     "AFathi/ARVideoKit": [
         "Other"
     ],
+    "AIGC-Audio/AudioGPT": [
+        "Other"
+    ],
+    "AIGC-Audio/AudioGPT.github.io": [
+        "Other"
+    ],
     "AK1194/Video-Compression-motion-estimation-block-video-encoder": [
         "Other"
     ],
@@ -5157,6 +5163,9 @@
         "Other"
     ],
     "azemoh/vscode-onedark": [
+        "Other"
+    ],
+    "azgaresncf/strm2hls": [
         "Other"
     ],
     "azimjohn/jprq": [
@@ -14619,6 +14628,9 @@
         "Other"
     ],
     "shinyfrog/mercury-parser": [
+        "Other"
+    ],
+    "shiyiya/oplayer": [
         "Other"
     ],
     "shkoliar/docker-ngrok": [
