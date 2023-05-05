@@ -2268,8 +2268,8 @@
 * [omochi/ForceHTTPExample](https://github.com/omochi/ForceHTTPExample): None
 * [forem/forem](https://github.com/forem/forem): For empowering community 🌱
 * [electron/forge](https://github.com/electron/forge): :electron: A complete tool for building and publishing Electron applications
+* [forge-ext/forge](https://github.com/forge-ext/forge): Forge - Tiling and Window Manager for Gnome-Shell
 * [jackrobertscott/forge](https://github.com/jackrobertscott/forge): 🏹 Free and open source developer tool.
-* [jmmaranan/forge](https://github.com/jmmaranan/forge): Forge - Tiling and Window Manager for Gnome-Shell
 * [jonan/ForkHub](https://github.com/jonan/ForkHub): GitHub client for Android based on the abandoned official app
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
 * [fethica/FRadioPlayer](https://github.com/fethica/FRadioPlayer): A simple radio player framework for iOS, macOS, tvOS.
