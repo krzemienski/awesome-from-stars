@@ -849,7 +849,7 @@
 * [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller): A Kubernetes controller for Elastic Load Balancers
 * [CanonicalLtd/aws-marketplace-ubuntu-scraper](https://github.com/CanonicalLtd/aws-marketplace-ubuntu-scraper): CLI to return the Ubuntu AMIs in AWS marketplace
 * [awslabs/aws-media-replay-engine](https://github.com/awslabs/aws-media-replay-engine): Media Replay Engine (MRE) is a framework to build automated video clipping and replay (highlight) generation pipelines for live and video-on-demand content.
-* [aws-samples/aws-media-replay-engine-samples](https://github.com/aws-samples/aws-media-replay-engine-samples): This repository contains sample Plugins and ML Model Notebooks that can be used in the process of building automated video clipping pipelines using the Media Replay Engine (MRE) framework.
+* [aws-samples/aws-media-replay-engine-samples](https://github.com/aws-samples/aws-media-replay-engine-samples): ** DEPRECATED: Moved to aws-media-replay-engine/samples/ **
 * [aeksco/aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline): :mag: Data pipeline for crawling PDFs from the Web and transforming their contents into structured data using AWS textract. Built with AWS CDK + TypeScript 
 * [CircleCI-Public/aws-s3-orb](https://github.com/CircleCI-Public/aws-s3-orb): Integrate Amazon AWS S3 with your CircleCI CI/CD pipeline easily with the aws-s3 orb.
 * [yard-turkey/aws-s3-provisioner](https://github.com/yard-turkey/aws-s3-provisioner): None
