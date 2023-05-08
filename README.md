@@ -1422,7 +1422,7 @@
 * [daskeyboard/daskeyboard-applet](https://github.com/daskeyboard/daskeyboard-applet): A library for handling signals and events in Das Keyboard Q Cloud
 * [daskeyboard/daskeyboard-applet--cpu-usage](https://github.com/daskeyboard/daskeyboard-applet--cpu-usage): Displays CPU usage.
 * [daskeyboard/daskeyboard.io](https://github.com/daskeyboard/daskeyboard.io): Q - Das Keyboard Q documentation website for REST API and more.
-* [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat): :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ] 
+* [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat): :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 * [washingtonpost/data-police-shootings](https://github.com/washingtonpost/data-police-shootings): The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since 2015.
 * [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 * [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws): AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
