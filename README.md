@@ -2248,7 +2248,7 @@
 * [fluid-player/fluid-player](https://github.com/fluid-player/fluid-player): Fluid Player - an open source VAST compliant HTML5 video player
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
 * [flutter/flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-* [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): A pure Dart implementation of Firebase with initial support aimed at FlutterFire for Linux & Windows.
+* [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
 * [tonydeng/fmj](https://github.com/tonydeng/fmj): FMJ (FFMpeg for Java)。通过Java调用FFMpeg命令的方式来对音视频进行处理（获取信息、截图等等）。
@@ -5432,7 +5432,7 @@
 * [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB): Create an ultimate multiboot USB flash drive with Grub2 bootloader
 * [jonathanpenn/ui-auto-monkey](https://github.com/jonathanpenn/ui-auto-monkey): UI AutoMonkey is a simple stress testing script for iOS applications that runs in UI Automation and Instruments. Grass fed. Free range.
 * [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker): A web interface for Docker, formerly known as DockerUI. This repo is not maintained
-* [jVirus/uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit): 📐Custom layouts for UICollectionView with examples [Swift 5.8+, iOS 12+].
+* [jVirus/uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit): 📐Custom layouts for UICollectionView with examples [iOS 12+].
 * [yahoojapan/UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout): UICollectionViewSplitLayout makes collection view more responsive.
 * [flowkey/UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform): Cross-platform Swift implementation of UIKit, mostly for Android
 * [Kilograpp/UITableView-Cache](https://github.com/Kilograpp/UITableView-Cache): UITableView cell cache that cures scroll-lags on cell instantiating
