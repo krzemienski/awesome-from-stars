@@ -1505,7 +1505,7 @@
 * [InderKumarRathore/DeviceUtil](https://github.com/InderKumarRathore/DeviceUtil): For Swift please visit DeviceGuru(https://github.com/InderKumarRathore/DeviceGuru)
 * [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools
 * [starchx/devlab-eks-alb-2048game](https://github.com/starchx/devlab-eks-alb-2048game): DevLab prepared for AWS Submit
-* [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools): 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
+* [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools): 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 * [int128/devops-compose](https://github.com/int128/devops-compose): DevOps tools on Docker Compose
 * [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 * [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources): DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -3491,7 +3491,7 @@
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
-* [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
+* [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server): Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 * [Yamazaki93/MetroGit](https://github.com/Yamazaki93/MetroGit): A git visualization tool that's more than just git
@@ -4670,7 +4670,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the industry leading SCTE-35 Decoder.  The highest rated SCTE-35 Parser. 
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): SCTE-35 that sucks less. threefive is the industry leading SCTE-35 tool. Decoder, Encoder. 
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [deforum-art/sd-webui-text2video](https://github.com/deforum-art/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
@@ -4928,7 +4928,7 @@
 * [GitHawkApp/Squawk](https://github.com/GitHawkApp/Squawk): Quick & interactive iOS alerts in Swift.
 * [squid-cache/squid](https://github.com/squid-cache/squid): Squid Web Proxy Cache
 * [SRGSSR/srgmediaplayer-apple](https://github.com/SRGSSR/srgmediaplayer-apple): An advanced media player library, simple and reliable
-* [ossrs/srs](https://github.com/ossrs/srs): SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH and GB28181.
+* [ossrs/srs](https://github.com/ossrs/srs): SRS is a simple, high efficiency, and realtime video server, supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 * [Haivision/srt](https://github.com/Haivision/srt): Secure, Reliable, Transport
 * [SLIB53/srt-broadcaster](https://github.com/SLIB53/srt-broadcaster): This is a simple Docker setup for broadcasting a video stream using SRT and HLS.
 * [Edward-Wu/srt-live-server](https://github.com/Edward-Wu/srt-live-server): srt live server for low latency 
