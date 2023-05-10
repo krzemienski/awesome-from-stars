@@ -315,7 +315,7 @@
 * [sphinx02/AppStarter](https://github.com/sphinx02/AppStarter): AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): Build Fast. Scale Big. All in One Place.
 * [pop-os/apt-fetcher](https://github.com/pop-os/apt-fetcher): Rust crate for asynchronous and parallel fetching of apt repo files from apt repos. This can be used for updating apt lists and fetching packages from a pool.
 * [martin68/apt-smart](https://github.com/martin68/apt-smart): apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 * [dvershinin/apt-to-dnf](https://github.com/dvershinin/apt-to-dnf): Aliases for creating "apt" CLI interface for RPM based distros
@@ -2897,7 +2897,7 @@
 * [thoughtbot/ios-framework-template](https://github.com/thoughtbot/ios-framework-template): Template iOS framework project to be used with Cookiecutter.
 * [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices): Good ideas for iOS development, by Futurice developers.
 * [liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection): iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
-* [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials): 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
+* [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials): 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
 * [sanketfirodiya/iOS-learning-resources](https://github.com/sanketfirodiya/iOS-learning-resources): Collection of high quality iOS tutorial sites
 * [aozhimin/iOS-Monitor-Platform](https://github.com/aozhimin/iOS-Monitor-Platform): :books: iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理
 * [AlexanderKaraberov/iOS-Network-Architecture-Demo](https://github.com/AlexanderKaraberov/iOS-Network-Architecture-Demo): Sample project to demonstrate an opinionated architectural approach for building Objective-C iOS apps using functional reactive programming.
