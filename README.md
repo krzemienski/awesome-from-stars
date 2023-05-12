@@ -235,6 +235,7 @@
 * [segment-integrations/analytics-ios-integration-amplitude](https://github.com/segment-integrations/analytics-ios-integration-amplitude): The Amplitude analytics-ios integration.
 * [segment-boneyard/analytics-swift](https://github.com/segment-boneyard/analytics-swift): The hassle-free way to add analytics to your Swift app.
 * [warren-bank/Android-ExoPlayer-AirPlay-Receiver](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver): Android app to run on a set-top box and play video URLs "cast" to it with a stateless HTTP API (based on AirPlay v1).
+* [wada811/Android-Paint](https://github.com/wada811/Android-Paint): wada811/Android-Paint
 * [Eyevinn/android-player](https://github.com/Eyevinn/android-player): None
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
@@ -303,7 +304,7 @@
 * [appium/appium-event-parser](https://github.com/appium/appium-event-parser): Node CLI script to help parse event timing output from Appium scripts
 * [appium/appium-ios-simulator](https://github.com/appium/appium-ios-simulator): Module for interacting with iOS simulators
 * [appium/appium-xcode](https://github.com/appium/appium-xcode): Xcode related utilities. Get version number and path to executable.
-* [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver): Appium iOS driver, backed by Apple XCUITest 
+* [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver): Appium iOS driver, backed by Apple XCTest 
 * [faithfracture/Apple-Boost-BuildScript](https://github.com/faithfracture/Apple-Boost-BuildScript): Script for building Boost for Apple platforms (iOS, iOS Simulator, tvOS, tvOS Simulator, OS X)
 * [rocketinsights/appletv-design-templates](https://github.com/rocketinsights/appletv-design-templates): A set of design templates for the Apple TV platform. In Sketch format. 
 * [AppOutlet/AppOutlet](https://github.com/AppOutlet/AppOutlet): A Universal linux app store
@@ -1728,6 +1729,7 @@
 * [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): :lollipop: Wow, such a lovely HTML5 danmaku video player
 * [dracula/dracula-theme](https://github.com/dracula/dracula-theme): 🧛🏻‍♂️ One theme. All platforms.
 * [Alexis-benoist/draw-compose](https://github.com/Alexis-benoist/draw-compose): Render Docker compose files.
+* [PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView): A view that allows to paint and saves the result as a bitmap
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
 * [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams): Diagrams for draw.io
 * [ivankahl/drawio-notion-embed](https://github.com/ivankahl/drawio-notion-embed): A super simple project that lets you embed draw.io diagrams directly into Notion. 
