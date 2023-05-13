@@ -1839,7 +1839,6 @@
 * [FSecureLABS/Ellume-COVID-Test_Research-Files](https://github.com/FSecureLABS/Ellume-COVID-Test_Research-Files): None
 * [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth): Darktooth : From the darkness... it watches.
 * [envoy/Embassy](https://github.com/envoy/Embassy): Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux
-* [Start9Labs/embassy-os](https://github.com/Start9Labs/embassy-os): Browser-based, graphical operating system for a personal server.
 * [spikeekips/embedding-python-in-golang](https://github.com/spikeekips/embedding-python-in-golang): proff of concept for embedding python in golang
 * [MediaBrowser/Emby.Roku](https://github.com/MediaBrowser/Emby.Roku): Emby for Roku
 * [shaka-project/eme_logger](https://github.com/shaka-project/eme_logger): Logs Encrypted Media Extension (EME) events and calls to help investigate issues in premium media sites.
@@ -4971,6 +4970,7 @@
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [daltoniam/Starscream](https://github.com/daltoniam/Starscream): Websockets in swift for iOS and OSX
 * [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [Start9Labs/start-os](https://github.com/Start9Labs/start-os): Browser-based, graphical operating system for a personal server.
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
 * [kerycdiaz/starters-swarm](https://github.com/kerycdiaz/starters-swarm): Project generator Django + Celery, Angular or Stenciljs for Docker Compose (Dev), Docker Swarm, Kubernetes, Rancher Etc
 * [Yalantis/StarWars.iOS](https://github.com/Yalantis/StarWars.iOS): This component implements transition animation to crumble view-controller into tiny pieces.
