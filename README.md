@@ -3818,7 +3818,7 @@
 * [kris-hansen/notion-cli](https://github.com/kris-hansen/notion-cli): A CLI for Notion.so (in the tune of Taskbook)
 * [jacksalici/notion-cli-list-manager](https://github.com/jacksalici/notion-cli-list-manager): A simple command-line tool for managing Notion databases.
 * [konstantinmuenster/notion-clone](https://github.com/konstantinmuenster/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
-* [minwook-shin/notion-database](https://github.com/minwook-shin/notion-database): Notion API Database Python Implementation
+* [minwook-shin/notion-database](https://github.com/minwook-shin/notion-database): Database of Pythonic Notion API
 * [75asa/notion-database-crawler](https://github.com/75asa/notion-database-crawler): This is a Notion Integration to crawl databases to find a new page
 * [kaedea/notion-down](https://github.com/kaedea/notion-down): Notion >> Markdown. Python utility that converts Notion pages into MD files, along with intergation to build static webpages such as Hexo | 自动从 Notion 笔记生成 MD 文件，并部署到 Hexo 静态博客 | Notion Pages より Markdown Files をコンバートする、更に Hexo Webpages までの自動化も可能
 * [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer): an enhancer/customiser for the all-in-one productivity workspace notion.so
@@ -5617,7 +5617,7 @@
 * [videojs/videojs-playlist-ui](https://github.com/videojs/videojs-playlist-ui): A playlist video picker for video.js
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
-* [phloxic/videojs-sprite-thumbnails](https://github.com/phloxic/videojs-sprite-thumbnails): Videojs plugin to display thumbnails from a sprite image when hovering over the progress bar
+* [phloxic/videojs-sprite-thumbnails](https://github.com/phloxic/videojs-sprite-thumbnails): Video.js plugin to display thumbnails from a sprite image when hovering over the progress bar
 * [chrisboustead/videojs-vtt-thumbnails](https://github.com/chrisboustead/videojs-vtt-thumbnails): Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.
 * [ant-media/videojs-webrtc-plugin](https://github.com/ant-media/videojs-webrtc-plugin): Webrtc plug-in for videojs
 * [ruanjx/VideoLab](https://github.com/ruanjx/VideoLab): High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.
