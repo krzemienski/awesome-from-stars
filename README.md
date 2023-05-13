@@ -4100,6 +4100,8 @@
 * [agconti/piedpiper-web](https://github.com/agconti/piedpiper-web): A sample scaffolded project from https://github.com/agconti/cookiecutter-django-rest
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [lukakerr/Pine](https://github.com/lukakerr/Pine): A modern, native macOS markdown editor
+* [pineappleEA/Pineapple-Linux](https://github.com/pineappleEA/Pineapple-Linux): A Yuzu compiler and updater for Linux
+* [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src): yuzu Early Access source code
 * [Dhamova/Pineapple-Xcode](https://github.com/Dhamova/Pineapple-Xcode): Open-source extension for Xcode that enhances development on Apple platforms with OpenAI's ChatGPT functionalities.
 * [pingostack/pingos](https://github.com/pingostack/pingos): Based on the NGINX/RTMP/HTTP-FLV/HTTP-TS/HLS/HLS+/DASH/H.264/H.265/AAC/MP3/Live/Record/VOD/Push/Pull/Multiple Processes/Dynamic Configuration/Configuration Variables/Console Interface/Notify
 * [layoutBox/PinLayout](https://github.com/layoutBox/PinLayout): Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]
