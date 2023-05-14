@@ -1011,7 +1011,7 @@
 * [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life): Bringing Old Photo Back to Life (CVPR 2020 oral)
 * [britecharts/britecharts](https://github.com/britecharts/britecharts): Composable Charting Library based on reusable D3.js components.
 * [22bulbs/brom](https://github.com/22bulbs/brom): Highly configurable, local auditing of HTTP transactions
-* [txthinking/brook](https://github.com/txthinking/brook): A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
+* [txthinking/brook](https://github.com/txthinking/brook): A cross-platform network tool. 一个跨平台网络工具.
 * [apivideo/browserLiveStream](https://github.com/apivideo/browserLiveStream): Use webcam, browser and Node to stream live video. From api.video (https://api.video)
 * [sjbarag/brs](https://github.com/sjbarag/brs): An interpreter for the BrightScript language that runs on non-Roku platforms.
 * [sjbarag/brs-testbed](https://github.com/sjbarag/brs-testbed): A simple, buildable Roku channel that executes arbitrary BrightScript files.
