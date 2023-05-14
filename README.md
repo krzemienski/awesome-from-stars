@@ -4995,7 +4995,7 @@
 * [storybookjs/storybook](https://github.com/storybookjs/storybook): Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
 * [Marcos-A/STRCleaner](https://github.com/Marcos-A/STRCleaner): Script that extracts all the text from a subtitles file ignoring time indications, HTML tags and other alien info.
 * [mdellavo/stream](https://github.com/mdellavo/stream): HLS server implementation in python
-* [rowrawer/stream-detector](https://github.com/rowrawer/stream-detector): A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files.
+* [54ac/stream-detector](https://github.com/54ac/stream-detector): A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files.
 * [Eyevinn/stream-limit-api](https://github.com/Eyevinn/stream-limit-api): Example of a simple implementation to build a stream limit api on top of Redis
 * [vbence/stream-m](https://github.com/vbence/stream-m): An HTML5-compatible live streaming server supporting the WebM and H.264 formats.
 * [cloudflare/stream-react](https://github.com/cloudflare/stream-react): None
