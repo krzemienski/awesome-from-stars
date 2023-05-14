@@ -4974,7 +4974,7 @@
 * [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [Start9Labs/start-os](https://github.com/Start9Labs/start-os): Browser-based, graphical operating system for a personal server.
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
-* [kerycdiaz/starters-swarm](https://github.com/kerycdiaz/starters-swarm): Project generator Django + Celery, Angular or Stenciljs for Docker Compose (Dev), Docker Swarm, Kubernetes, Rancher Etc
+* [keryc/starters-swarm](https://github.com/keryc/starters-swarm): Project generator Django + Celery, Angular or Stenciljs for Docker Compose (Dev), Docker Swarm, Kubernetes, Rancher Etc
 * [Yalantis/StarWars.iOS](https://github.com/Yalantis/StarWars.iOS): This component implements transition animation to crumble view-controller into tiny pieces.
 * [stashapp/stash](https://github.com/stashapp/stash): An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 * [ywangd/stash](https://github.com/ywangd/stash): StaSh - Shell for Pythonista
