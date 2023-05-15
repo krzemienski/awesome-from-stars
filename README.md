@@ -4787,7 +4787,7 @@
 * [sessionboy/sinn](https://github.com/sessionboy/sinn): a blog based on of react,webpack3,dva,redux,material-ui,fetch,generator,markdown,nodejs,koa2,mongoose,docker,shell,and async/await  基于react+koa2技术栈的个人开源博客系统 
 * [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren): Notify users when a new version of your app is available and prompt them to upgrade.
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): Build Your Eternal Digital Garden
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
 * [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes 
 * [changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer): video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.
 * [changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer): A HTTP Media Caching Framework. It can cache FILE or HLS media. 音视频边播边缓存框架, 支持 HLS(m3u8) 和 FILE(mp4, mp3等).
