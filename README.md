@@ -2901,7 +2901,7 @@
 * [thoughtbot/ios-framework-template](https://github.com/thoughtbot/ios-framework-template): Template iOS framework project to be used with Cookiecutter.
 * [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices): Good ideas for iOS development, by Futurice developers.
 * [liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection): iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
-* [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials): 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
+* [eleev/ios-learning-materials](https://github.com/eleev/ios-learning-materials): 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
 * [sanketfirodiya/iOS-learning-resources](https://github.com/sanketfirodiya/iOS-learning-resources): Collection of high quality iOS tutorial sites
 * [aozhimin/iOS-Monitor-Platform](https://github.com/aozhimin/iOS-Monitor-Platform): :books: iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理
 * [AlexanderKaraberov/iOS-Network-Architecture-Demo](https://github.com/AlexanderKaraberov/iOS-Network-Architecture-Demo): Sample project to demonstrate an opinionated architectural approach for building Objective-C iOS apps using functional reactive programming.
@@ -5442,7 +5442,7 @@
 * [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB): Create an ultimate multiboot USB flash drive with Grub2 bootloader
 * [jonathanpenn/ui-auto-monkey](https://github.com/jonathanpenn/ui-auto-monkey): UI AutoMonkey is a simple stress testing script for iOS applications that runs in UI Automation and Instruments. Grass fed. Free range.
 * [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker): A web interface for Docker, formerly known as DockerUI. This repo is not maintained
-* [jVirus/uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit): 📐Custom layouts for UICollectionView with examples [iOS 12+].
+* [eleev/uicollectionview-layouts-kit](https://github.com/eleev/uicollectionview-layouts-kit): 📐Custom layouts for UICollectionView with examples [iOS 12+].
 * [yahoojapan/UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout): UICollectionViewSplitLayout makes collection view more responsive.
 * [flowkey/UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform): Cross-platform Swift implementation of UIKit, mostly for Android
 * [Kilograpp/UITableView-Cache](https://github.com/Kilograpp/UITableView-Cache): UITableView cell cache that cures scroll-lags on cell instantiating
