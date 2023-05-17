@@ -2427,7 +2427,7 @@
 * [vmarkovtsev/GitHubStars](https://github.com/vmarkovtsev/GitHubStars): Python script to fetch GitHub repos metadata.
 * [kujian/githubTrending](https://github.com/kujian/githubTrending): Github前端趋势榜，每日更新前端热门项目。Tracking the most popular Github repos of frontend, updated daily
 * [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt): Hunt the most starred projects on any date on GitHub
-* [manosim/gitify](https://github.com/manosim/gitify): GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+* [gitify-app/gitify](https://github.com/gitify-app/gitify): GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 * [hasura/gitkube](https://github.com/hasura/gitkube): Build and deploy docker images to Kubernetes using git push
 * [Roche/gitlab-configuration-as-code](https://github.com/Roche/gitlab-configuration-as-code): Manage GitLab configuration as code to make GitLab easily managable, traceable and reproducible.
 * [leandromoreira/GitlHEVCAnalyzer](https://github.com/leandromoreira/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
