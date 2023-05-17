@@ -902,6 +902,9 @@
     "Delgan/loguru": [
         "Other"
     ],
+    "Depado/parakeet": [
+        "Other"
+    ],
     "DerekTBrown/pacmanity": [
         "Other"
     ],
@@ -3302,6 +3305,9 @@
     "Spark-NF/hls-downloader": [
         "Other"
     ],
+    "Spiderpig86/Nimbus": [
+        "Other"
+    ],
     "Split82/iOSMemoryBudgetTest": [
         "Other"
     ],
@@ -4295,6 +4301,9 @@
     "alrra/dotfiles": [
         "Other"
     ],
+    "alspore/ttsmp3": [
+        "Other"
+    ],
     "altair-viz/schemapi": [
         "Other"
     ],
@@ -4344,6 +4353,9 @@
         "Other"
     ],
     "amitshekhariitbhu/Fast-Android-Networking": [
+        "Other"
+    ],
+    "amriteya/tts": [
         "Other"
     ],
     "amureki/things-cli": [
@@ -5219,6 +5231,9 @@
     "baowenbo/DAIN": [
         "Other"
     ],
+    "barenddt/soundify": [
+        "Other"
+    ],
     "barkerstuff/treadmill": [
         "Other"
     ],
@@ -5655,6 +5670,9 @@
         "Other"
     ],
     "bspauld/runBENrun": [
+        "Other"
+    ],
+    "bspst/soundground": [
         "Other"
     ],
     "bstiel/celery-docker": [
@@ -7367,6 +7385,9 @@
     "ehrishirajsharma/SwiftnessX": [
         "Other"
     ],
+    "eisneim/cytron_tts_gui": [
+        "Other"
+    ],
     "ekalinin/github-markdown-toc": [
         "Other"
     ],
@@ -7929,6 +7950,9 @@
         "Other"
     ],
     "ffplayout/ffplayout-frontend": [
+        "Other"
+    ],
+    "ffps/gtts": [
         "Other"
     ],
     "ffvvc/FFmpeg": [
@@ -8603,6 +8627,9 @@
     "greeneca/roku_builder_plugin_sample": [
         "Other"
     ],
+    "greenteabots/Ai-Soundcloudviewer-written-by-chatGPT": [
+        "Other"
+    ],
     "gregheo/gruvbox-theme-for-xcode": [
         "Other"
     ],
@@ -8625,6 +8652,9 @@
         "Other"
     ],
     "gsantiago/subtitle.js": [
+        "Other"
+    ],
+    "gsfalcon/tts_python": [
         "Other"
     ],
     "gsingers/slack-jira-plugin": [
@@ -8706,6 +8736,9 @@
         "Other"
     ],
     "haikarainen/light": [
+        "Other"
+    ],
+    "haikelfazzani/soundme": [
         "Other"
     ],
     "haiwen/seadrive-gui": [
@@ -8985,6 +9018,9 @@
         "Other"
     ],
     "humiaozuzu/awesome-flask": [
+        "Other"
+    ],
+    "hungtruong/Google-Translate-TTS": [
         "Other"
     ],
     "huri000/SwiftEntryKit": [
@@ -9750,6 +9786,9 @@
         "Other"
     ],
     "joelpalmer/firetv-controller": [
+        "Other"
+    ],
+    "joepdooper/p5js-soundcloud-player": [
         "Other"
     ],
     "joeyespo/grip": [
@@ -11729,6 +11768,12 @@
     "microsoft/Bringing-Old-Photos-Back-to-Life": [
         "Other"
     ],
+    "microsoft/FluentUIEditableDetailsList": [
+        "Other"
+    ],
+    "microsoft/appcenter": [
+        "Other"
+    ],
     "microsoft/azure-spring-apps-training": [
         "Other"
     ],
@@ -11739,6 +11784,21 @@
         "Other"
     ],
     "microsoft/ethr": [
+        "Other"
+    ],
+    "microsoft/fluentui": [
+        "Other"
+    ],
+    "microsoft/fluentui-android": [
+        "Other"
+    ],
+    "microsoft/fluentui-apple": [
+        "Other"
+    ],
+    "microsoft/fluentui-react-native": [
+        "Other"
+    ],
+    "microsoft/fluentui-token-pipeline": [
         "Other"
     ],
     "microsoft/nodejstools": [
@@ -11760,6 +11820,9 @@
         "Other"
     ],
     "microsoft/vscode": [
+        "Other"
+    ],
+    "microsoft/vscode-appcenter": [
         "Other"
     ],
     "microsoft/vscode-node-debug": [
@@ -13427,6 +13490,9 @@
     "pqrs-org/Karabiner-Elements": [
         "Other"
     ],
+    "pqyptixa/tts2media": [
+        "Other"
+    ],
     "practical-tutorials/project-based-learning": [
         "Other"
     ],
@@ -14117,6 +14183,9 @@
     "rootsongjc/awesome-cloud-native": [
         "Other"
     ],
+    "rorpage/openfaas-text-to-speech": [
+        "Other"
+    ],
     "rorydavidson/owncloud-nginx-letsencrypt-docker": [
         "Other"
     ],
@@ -14358,6 +14427,9 @@
         "Other"
     ],
     "saoudrizwan/DynamicJSON": [
+        "Other"
+    ],
+    "saravanakumarjsk/Text-to-speach-with-gTTS": [
         "Other"
     ],
     "sashabaranov/go-openai": [
@@ -15044,6 +15116,12 @@
     "soumanpaul/Video-streaming-web-app": [
         "Other"
     ],
+    "soundcloud-py/client-api": [
+        "Other"
+    ],
+    "soundcloud-py/soundcloud": [
+        "Other"
+    ],
     "souporserious/react-media-player": [
         "Other"
     ],
@@ -15366,6 +15444,9 @@
         "Other"
     ],
     "sukeesh/k8s-job-notify": [
+        "Other"
+    ],
+    "sumanthratna/soundcloud9000": [
         "Other"
     ],
     "sumatrapdfreader/sumatrapdf": [

@@ -162,6 +162,7 @@
 * [marco-gallegos/after-install](https://github.com/marco-gallegos/after-install): shell scripts para operaciones comunes despues de instalar distros linux
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
+* [greenteabots/Ai-Soundcloudviewer-written-by-chatGPT](https://github.com/greenteabots/Ai-Soundcloudviewer-written-by-chatGPT): Soundcloud ViewBot written by ChatGPT
 * [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
 * [terrycain/aioboto3](https://github.com/terrycain/aioboto3): Wrapper to use boto3 resources with the aiobotocore async backend
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
@@ -290,6 +291,7 @@
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
 * [pietropizzi/app-talk](https://github.com/pietropizzi/app-talk): Let iOS apps talk - A user contributable directory of iOS apps with x-callback-urls.
 * [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation): AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Check WebServices Status - https://status.getappbox.com/status/web
+* [microsoft/appcenter](https://github.com/microsoft/appcenter): Central repository for App Center open source resources and planning.
 * [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit): AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 * [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * [dreymonde/AppFolder](https://github.com/dreymonde/AppFolder): 🗂 Never use NSSearchPathForDirectoriesInDomains again
@@ -1166,6 +1168,7 @@
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
 * [docker/cli](https://github.com/docker/cli): The Docker CLI
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
+* [soundcloud-py/client-api](https://github.com/soundcloud-py/client-api): Official web api for the SoundCloud Python service.
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms
 * [clipable/clipable](https://github.com/clipable/clipable): A simple, self-hosted, alternative to Streamable
 * [tfoldi/clj-slack-sql](https://github.com/tfoldi/clj-slack-sql): Post SQL Statements results to Slack channels (JDBC)
@@ -1377,6 +1380,7 @@
 * [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck): Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 * [usmannasir/cyberpanel](https://github.com/usmannasir/cyberpanel): Cyber Panel - The hosting control panel for OpenLiteSpeed
 * [cython/cython](https://github.com/cython/cython): The most widely used Python to C compiler
+* [eisneim/cytron_tts_gui](https://github.com/eisneim/cytron_tts_gui): TTS(Text to speech) GUI using Baidu TTS api, currently only support Chinese; 将文字转换为语音mp3文件，自动拆分较长文本文件，适合用于生成有声小说
 * [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
 * [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin): An elegant dashboard
 * [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -2246,6 +2250,12 @@
 * [flowplayer/flowplayer](https://github.com/flowplayer/flowplayer): The HTML5 video player for the web
 * [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme): Fluent design gtk theme for linux desktops
 * [MihaelIsaev/FluentQuery](https://github.com/MihaelIsaev/FluentQuery): 🗃 Powerful and easy to use Swift Query Builder for Vapor 3.
+* [microsoft/fluentui](https://github.com/microsoft/fluentui): Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+* [microsoft/fluentui-android](https://github.com/microsoft/fluentui-android): None
+* [microsoft/fluentui-apple](https://github.com/microsoft/fluentui-apple): UIKit and AppKit controls for building native Microsoft experiences
+* [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native): A react-native component library that implements the Fluent Design System.
+* [microsoft/fluentui-token-pipeline](https://github.com/microsoft/fluentui-token-pipeline): The Fluent UI token pipeline generates source code for Fluent UI libraries.
+* [microsoft/FluentUIEditableDetailsList](https://github.com/microsoft/FluentUIEditableDetailsList): Wrapper over Fluent UI DetailsList in React that allows in-place editability among other features
 * [nathangitter/fluid-interfaces](https://github.com/nathangitter/fluid-interfaces): Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces"
 * [fluid-player/fluid-player](https://github.com/fluid-player/fluid-player): Fluid Player - an open source VAST compliant HTML5 video player
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
@@ -2523,6 +2533,7 @@
 * [phillipcaudell/Google-Drive-for-Mac](https://github.com/phillipcaudell/Google-Drive-for-Mac): A standalone macOS app for Google Docs, Sheets and Slides
 * [googleads/google-media-framework-ios](https://github.com/googleads/google-media-framework-ios): The Google Media Framework (GMF) is a lightweight media player designed to make video playback and integration with the Google IMA SDK on iOS easier.
 * [google/google-toolbox-for-mac](https://github.com/google/google-toolbox-for-mac): Google Toolbox for Mac
+* [hungtruong/Google-Translate-TTS](https://github.com/hungtruong/Google-Translate-TTS): A python script for using Google's undocumented TTS api to save text to an MP3 file.
 * [go-python/gopy](https://github.com/go-python/gopy): gopy generates a CPython extension module from a go package.
 * [buger/goreplay](https://github.com/buger/goreplay): GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * [datarhei/gosrt](https://github.com/datarhei/gosrt): Implementation of the SRT protocol in pure Go
@@ -2574,6 +2585,7 @@
 * [material-ocean/Gtk-Theme](https://github.com/material-ocean/Gtk-Theme): material ocean theme for Gnome and GTK based DE's
 * [google/GTMAppAuth](https://github.com/google/GTMAppAuth): Apple platforms SDK for using AppAuth with Google libraries.
 * [aksakalli/gtop](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal
+* [ffps/gtts](https://github.com/ffps/gtts): Encoding text to mp3 with using free Google TTS engine
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
 * [google/guava](https://github.com/google/guava): Google core libraries for Java
 * [ckotch47/gui_for_adb](https://github.com/ckotch47/gui_for_adb): None
@@ -3737,6 +3749,7 @@
 * [twilio-labs/NgrokExtensions](https://github.com/twilio-labs/NgrokExtensions): Visual Studio integration with ngrok
 * [Quick/Nimble](https://github.com/Quick/Nimble): A Matcher Framework for Swift and Objective-C
 * [ashfurrow/Nimble-Snapshots](https://github.com/ashfurrow/Nimble-Snapshots): Nimble matchers for FBSnapshotTestCase.
+* [Spiderpig86/Nimbus](https://github.com/Spiderpig86/Nimbus): :notes: A new way to discover songs and artists on SoundCloud.
 * [jverkoey/nimbus](https://github.com/jverkoey/nimbus): The iOS framework that grows only as fast as its documentation
 * [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
@@ -3970,6 +3983,7 @@
 * [ouropencode/OpenDocumenter](https://github.com/ouropencode/OpenDocumenter): OpenDocumenter is a automatic documentation generator for OpenAPI v3 schemas. Simply provide your schema file in JSON or YAML, then sit back and enjoy the documentation.
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [alfg/openencoder](https://github.com/alfg/openencoder): :movie_camera: Cloud Encoding Platform for FFmpeg.
+* [rorpage/openfaas-text-to-speech](https://github.com/rorpage/openfaas-text-to-speech): Generate an MP3 of text using Google's Text-to-Speech
 * [cpitkin/openfaas-transcode](https://github.com/cpitkin/openfaas-transcode): OpenFaaS transcode pipeline
 * [OpenHEVC/openHEVC](https://github.com/OpenHEVC/openHEVC): HEVC decoder
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
@@ -4030,6 +4044,7 @@
 * [hooram/ownphotos](https://github.com/hooram/ownphotos): Self hosted alternative to Google Photos 
 * [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide): A desktop environment for the reMarkable tablet
 * [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader): An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
+* [joepdooper/p5js-soundcloud-player](https://github.com/joepdooper/p5js-soundcloud-player): P5.js Soundcloud music player with visualisation
 * [bensuperpc/Package_installer](https://github.com/bensuperpc/Package_installer): Automatic package installer for ArchLinux and Manjaro
 * [muxinc/packaging_examples](https://github.com/muxinc/packaging_examples): Samples files packaged by mux
 * [evertiro/packup](https://github.com/evertiro/packup): A simple backup & restore script for pacman.
@@ -4049,6 +4064,7 @@
 * [jdisho/Papr](https://github.com/jdisho/Papr): 🌁 An Unsplash app for iOS
 * [Erudika/para](https://github.com/Erudika/para): Multitenant backend server for building web and mobile apps rapidly. The backend for busy developers. (self-hosted or hosted)
 * [HelloElephant/Parade](https://github.com/HelloElephant/Parade): Parallax Scroll-Jacking Effects Engine for iOS / tvOS
+* [Depado/parakeet](https://github.com/Depado/parakeet): A SoundCloud player in your terminal
 * [PGSSoft/ParallaxView](https://github.com/PGSSoft/ParallaxView): tvOS controls and extensions that add parallax effect to your application.
 * [pillarjs/parseurl](https://github.com/pillarjs/parseurl): parse a url with memoization
 * [hjmangalam/parsyncfp](https://github.com/hjmangalam/parsyncfp): follow-on to parsync (parallel rsync) with better startup perf
@@ -4863,18 +4879,23 @@
 * [timoknapp/sound-on-fire](https://github.com/timoknapp/sound-on-fire): 🔊☁️ 🔥📺 A Flutter based SoundCloud App for your Fire TV
 * [salomvary/soundcleod](https://github.com/salomvary/soundcleod): SoundCloud for macOS and Windows
 * [hatienl0i261299/Soundcloud](https://github.com/hatienl0i261299/Soundcloud): Soundcloud - A tool for download track Soundcloud.
+* [soundcloud-py/soundcloud](https://github.com/soundcloud-py/soundcloud): A Soundcloud Desktop Application (GUI/Terminal)
 * [Suyash458/soundcloud-dl](https://github.com/Suyash458/soundcloud-dl): A Python project that downloads tracks from soundcloud.com, complete with metadata and album art
 * [linnit/Soundcloud-Downloader](https://github.com/linnit/Soundcloud-Downloader): Download songs from SoundCloud, even if the song is not available for download
 * [drivelous/soundcloud-likes](https://github.com/drivelous/soundcloud-likes): download all the songs from your SoundCloud Likes
 * [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx): SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 * [nikp123/soundcloud-syncer](https://github.com/nikp123/soundcloud-syncer): Downloads tracks from SoundCloud
 * [grobie/soundcloud2000](https://github.com/grobie/soundcloud2000): A terminal client for https://soundcloud.com
+* [sumanthratna/soundcloud9000](https://github.com/sumanthratna/soundcloud9000): A terminal client for https://soundcloud.com.
 * [abdes-zakari/SoundCloudDownloader](https://github.com/abdes-zakari/SoundCloudDownloader): Download songs directly from SoundCloud(Windows)
 * [shreysamdani/soundcloudPlaylist](https://github.com/shreysamdani/soundcloudPlaylist): downloads Soundcloud playlists as mp3
 * [kassoulet/soundconverter](https://github.com/kassoulet/soundconverter): GNOME powered sound conversion
 * [MGF15/SoundGrab](https://github.com/MGF15/SoundGrab): Download MP3 tracks from SoundCloud
+* [bspst/soundground](https://github.com/bspst/soundground): Native soundcloud client built on Python and curses
+* [barenddt/soundify](https://github.com/barenddt/soundify): Soundcloud Client built using React & Redux
 * [scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2): A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.
 * [creativeprogramming/soundmanager2-livem3u](https://github.com/creativeprogramming/soundmanager2-livem3u): Soundmanager2 lightweight live audio streaming with .M3U (inspired by Cupertino Streaming - HLS / .M3U8)
+* [haikelfazzani/soundme](https://github.com/haikelfazzani/soundme): 🔥 Search for lyrics and listen to your favorite music from SoundCloud
 * [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app): Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 * [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape): SoundCloud (and Bandcamp and Mixcloud) downloader in Python. 
 * [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
@@ -5250,6 +5271,7 @@
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
 * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+* [saravanakumarjsk/Text-to-speach-with-gTTS](https://github.com/saravanakumarjsk/Text-to-speach-with-gTTS): Converting text file to mp3 speach format using gTTS
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [ianzhao05/textshot](https://github.com/ianzhao05/textshot): Python tool for grabbing text via screenshot
 * [TextureGroup/Texture](https://github.com/TextureGroup/Texture): Smooth asynchronous user interfaces for iOS apps.
@@ -5370,6 +5392,10 @@
 * [justdan96/tsMuxer](https://github.com/justdan96/tsMuxer): tsMuxer is a transport stream muxer for remuxing/muxing elementary streams, EVO/VOB/MPG, MKV/MKA, MP4/MOV, TS, M2TS to TS to M2TS. Supported video codecs H.264/AVC, H.265/HEVC, VC-1, MPEG2. Supported audio codecs AAC, AC3 / E-AC3(DD+), DTS/ DTS-HD. 
 * [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 * [MoshiMoshi0/ttrgbplusapi](https://github.com/MoshiMoshi0/ttrgbplusapi): api for thermaltake rgb plus devices
+* [amriteya/tts](https://github.com/amriteya/tts): Convert words to mp3 files to be played anytime.
+* [pqyptixa/tts2media](https://github.com/pqyptixa/tts2media): Go library to run TTS engines, convert their output to mp3/ogg, and make videos from images or other videos
+* [gsfalcon/tts_python](https://github.com/gsfalcon/tts_python): Converter texto em .mp3
+* [alspore/ttsmp3](https://github.com/alspore/ttsmp3): A node.js script used to download text-to-speech mp3 files.
 * [Tubitv/TubiPlayer](https://github.com/Tubitv/TubiPlayer): A media streaming video player based on ExoPlayer from google, with convenience methods for ad supported content
 * [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi): An Xcode Project Generator For Bazel 
 * [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video): Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
@@ -5691,6 +5717,7 @@
 * [matt-42/vpp](https://github.com/matt-42/vpp): Video++, a C++14 high performance video and image processing library.
 * [rolinh/VQMT](https://github.com/rolinh/VQMT): VQMT: Video Quality Measurement Tool. Fast implementations of the following objective image quality metrics: PSNR, SSIM,  MS-SSIM, VIFp, PSNR-HVS and PSNR-HVS-M.
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
+* [microsoft/vscode-appcenter](https://github.com/microsoft/vscode-appcenter): App Center extension for VS Code
 * [code-vicar/vscode-brightscript](https://github.com/code-vicar/vscode-brightscript): Brightscript tmLanguage grammar (colorizer)
 * [rokucommunity/vscode-brightscript-language](https://github.com/rokucommunity/vscode-brightscript-language): A Visual Studio Code extension for Roku's BrightScript language
 * [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview): A real browser preview inside your editor that you can debug.
