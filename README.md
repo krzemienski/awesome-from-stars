@@ -447,6 +447,7 @@
 * [saurabh0719/automate-mediaconvert](https://github.com/saurabh0719/automate-mediaconvert): Automate video transcoding and generate thumbnails with AWS Elemental Mediaconvert and S3 :zap:
 * [rokudev/automated-channel-testing](https://github.com/rokudev/automated-channel-testing): Roku Automated Channel Testing: Selenium-based WebDriver + Robot Framework + JS Framework + Samples
 * [disneystreaming/automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor): Automated Cloud Advisor is a extensible tool that aims at facilitating cost optimization in AWS, by collecting data for resources that are under utilized. In addition, this is a great learning tool for new DevOps/Cloud engineers that want to start automating things in AWS. 
+* [shockz-offsec/Automatic-Notion-Backup](https://github.com/shockz-offsec/Automatic-Notion-Backup): This script automates the backup process of Notion data into Markdown and CSV formats. Additionally, the script processes the data to remove any AWS identifiers that may be present in the Markdown files, folders, and internal references to other files in the backup
 * [1337-server/automatic-ripping-machine](https://github.com/1337-server/automatic-ripping-machine): Automatic Ripping Machine (ARM) Scripts
 * [Sukhdip-Sandhu/Automatic-Watermark-Removal](https://github.com/Sukhdip-Sandhu/Automatic-Watermark-Removal): Python computer vision project that aims to automatically remove the watermarks of stock images. The algorithm is designed off of those of Google researchers
 * [aws-samples/automating-livestream-video-monitoring](https://github.com/aws-samples/automating-livestream-video-monitoring): This repo presents a demo application for realtime livestream video quality monitoring using AWS serverless and AI/ML services.
@@ -3939,6 +3940,7 @@
 * [obsproject/obs-amd-encoder](https://github.com/obsproject/obs-amd-encoder): AMD Advanced Media Framework Encoder Plugin for Open Broadcaster Studio
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio): OBS Studio - Free and open source software for live streaming and screen recording
 * [openbroadcaster/observer](https://github.com/openbroadcaster/observer):  :radio: OBServer Automation, Scheduler, Media Library and Player Manager
+* [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases): Community plugins list, theme list, and releases of Obsidian.
 * [obuseme/OCMockSample](https://github.com/obuseme/OCMockSample): None
 * [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [vmware-archive/octant](https://github.com/vmware-archive/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -4682,6 +4684,7 @@
 * [ericfourrier/scrape-linkedin](https://github.com/ericfourrier/scrape-linkedin): Scrape a public LinkedIn profile.
 * [restyler/scrapeninja-api-php-client](https://github.com/restyler/scrapeninja-api-php-client): Web scraper with proxy rotation, retries, and with Chrome TLS fingerprint emulation. PHP Client
 * [tonhati/Scraper](https://github.com/tonhati/Scraper): Scrapes GitHub Topics , Creates a CSV file for each of the top 30 Topics containing top 25 repositories for each topic, their name, username, stars, and URL
+* [shockz-offsec/Scraping-Notion-Backup](https://github.com/shockz-offsec/Scraping-Notion-Backup): This script automates the backup process of Notion data into Markdown and CSV formats, removing the need for tokens and private Notion APIs. It also removes AWS identifiers in the markdown files, folders, and internal references in the backup.
 * [scrapy/scrapy](https://github.com/scrapy/scrapy): Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [scrapy/scrapyd](https://github.com/scrapy/scrapyd): A service daemon to run Scrapy spiders
 * [scrapy/scrapyd-client](https://github.com/scrapy/scrapyd-client): Command line client for Scrapyd server

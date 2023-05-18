@@ -12743,6 +12743,9 @@
     "objective-see/BlockBlock": [
         "Other"
     ],
+    "obsidianmd/obsidian-releases": [
+        "Other"
+    ],
     "obsproject/obs-amd-encoder": [
         "Other"
     ],
@@ -14736,6 +14739,12 @@
         "Other"
     ],
     "shobrook/ChatOverflow": [
+        "Other"
+    ],
+    "shockz-offsec/Automatic-Notion-Backup": [
+        "Other"
+    ],
+    "shockz-offsec/Scraping-Notion-Backup": [
         "Other"
     ],
     "shogo4405/HaishinKit.swift": [
