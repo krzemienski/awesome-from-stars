@@ -10364,6 +10364,9 @@
     "kmcclive/tricycle": [
         "Other"
     ],
+    "kmmbvnr/django-material": [
+        "Other"
+    ],
     "knot2afrayed/Focus-Notes": [
         "Other"
     ],
@@ -16614,9 +16617,6 @@
         "Other"
     ],
     "videomorph-dev/videomorph": [
-        "Other"
-    ],
-    "viewflow/django-material": [
         "Other"
     ],
     "vimagick/dockerfiles": [

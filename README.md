@@ -1546,7 +1546,7 @@
 * [just-work/django-celery-rpc](https://github.com/just-work/django-celery-rpc): Remote access from one system to models of another one using Celery machinery.
 * [NorakGithub/django-docker-alpine](https://github.com/NorakGithub/django-docker-alpine): Example building Django docker image with Alpine
 * [jazzband/django-downloadview](https://github.com/jazzband/django-downloadview): Serve files with Django.
-* [viewflow/django-material](https://github.com/viewflow/django-material): Material Design for Django
+* [kmmbvnr/django-material](https://github.com/kmmbvnr/django-material): Material Design for Django
 * [encode/django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸
 * [django-json-api/django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api): JSON:API support for Django REST framework
 * [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger): Swagger Documentation Generator for Django REST Framework: deprecated
@@ -5044,7 +5044,7 @@
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui): A multi platform Twitch.tv browser for Streamlink
 * [Neeraj319/streammmm](https://github.com/Neeraj319/streammmm): A twitch like platform.
-* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): Android RTMP/RTMPS and SRT live streaming libraries
+* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): RTMP/RTMPS and SRT live streaming libraries for Android
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
 * [cemolcay/StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView): uiscrollview with strechy and parallax top view
