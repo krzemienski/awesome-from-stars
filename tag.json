@@ -2012,6 +2012,24 @@
     "JetBrains/JetBrainsMono": [
         "Other"
     ],
+    "JetBrains/awesome-pycharm": [
+        "Other"
+    ],
+    "JetBrains/compose-multiplatform": [
+        "Other"
+    ],
+    "JetBrains/compose-multiplatform-desktop-template": [
+        "Other"
+    ],
+    "JetBrains/compose-multiplatform-html-library-template": [
+        "Other"
+    ],
+    "JetBrains/compose-multiplatform-ios-android-template": [
+        "Other"
+    ],
+    "JetBrains/compose-multiplatform-template": [
+        "Other"
+    ],
     "JetBrains/intellij-community": [
         "Other"
     ],
@@ -2019,6 +2037,12 @@
         "Other"
     ],
     "JetBrains/intellij-samples": [
+        "Other"
+    ],
+    "JetBrains/kotlin": [
+        "Other"
+    ],
+    "JetBrains/kotlin-playground": [
         "Other"
     ],
     "Jguer/yay": [
@@ -11495,6 +11519,9 @@
     "matmoi/create-DASH-HLS": [
         "Other"
     ],
+    "matomo-org/device-detector": [
+        "Other"
+    ],
     "matomo-org/matomo": [
         "Other"
     ],
@@ -11982,6 +12009,9 @@
         "Other"
     ],
     "mmstick/cargo-deb": [
+        "Other"
+    ],
+    "mngsk/device-detector": [
         "Other"
     ],
     "mobile-dev-inc/maestro": [

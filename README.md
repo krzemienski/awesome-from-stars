@@ -716,6 +716,7 @@
 * [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas): Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 * [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus): A curated list of awesome Prometheus resources, projects and tools.
 * [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts): 🚨 Collection of Prometheus alerting rules
+* [JetBrains/awesome-pycharm](https://github.com/JetBrains/awesome-pycharm): A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
 * [vinta/awesome-python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources
 * [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): 💿 Free software that works great, and also happens to be open-source Python. 
 * [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
@@ -1246,6 +1247,11 @@
 * [facebook/componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS.
 * [docker/compose](https://github.com/docker/compose): Define and run multi-container applications with Docker
 * [ChillingVan/compose-exoplayer-LazyColumn-example](https://github.com/ChillingVan/compose-exoplayer-LazyColumn-example): A video player of Exoplayer on LazyColumn(list view) of Jetpack Compose. Codes are structured with MVVM and modularization. 
+* [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+* [JetBrains/compose-multiplatform-desktop-template](https://github.com/JetBrains/compose-multiplatform-desktop-template): Compose Multiplatform Desktop Application project template
+* [JetBrains/compose-multiplatform-html-library-template](https://github.com/JetBrains/compose-multiplatform-html-library-template): Web application project template (using the Compose HTML library)
+* [JetBrains/compose-multiplatform-ios-android-template](https://github.com/JetBrains/compose-multiplatform-ios-android-template): Compose Multiplatform iOS+Android Application project template
+* [JetBrains/compose-multiplatform-template](https://github.com/JetBrains/compose-multiplatform-template): Compose Multiplatform Application project template
 * [libresh/compose-owncloud](https://github.com/libresh/compose-owncloud): ownCloud docker-compose for libre.sh v1
 * [owncloud-docker/compose-playground](https://github.com/owncloud-docker/compose-playground): Docker Compose dev environment
 * [magicmark/composerize](https://github.com/magicmark/composerize): 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
@@ -1507,6 +1513,8 @@
 * [raindropio/developer-site](https://github.com/raindropio/developer-site): Official documentation for Raindrop.io API
 * [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script): Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
 * [devhubapp/devhub](https://github.com/devhubapp/devhub): TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+* [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
+* [mngsk/device-detector](https://github.com/mngsk/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 * [InderKumarRathore/DeviceGuru](https://github.com/InderKumarRathore/DeviceGuru): DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s. Please ⭐️ this repo on the top right corner to make this repo popular.
 * [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit): DeviceKit is a value-type replacement of UIDevice.
 * [InderKumarRathore/DeviceUtil](https://github.com/InderKumarRathore/DeviceUtil): For Swift please visit DeviceGuru(https://github.com/InderKumarRathore/DeviceGuru)
@@ -3136,6 +3144,8 @@
 * [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
 * [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf): A Python framework to write Kubernetes operators in just few lines of code.
 * [kubernetes/kops](https://github.com/kubernetes/kops): Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+* [JetBrains/kotlin](https://github.com/JetBrains/kotlin): The Kotlin Programming Language. 
+* [JetBrains/kotlin-playground](https://github.com/JetBrains/kotlin-playground): Self-contained component to embed in websites for running Kotlin code
 * [willhains/Kotoba](https://github.com/willhains/Kotoba): Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
 * [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew): 📦 Find and install kubectl plugins
 * [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index): Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
