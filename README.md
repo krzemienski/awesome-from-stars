@@ -1977,6 +1977,7 @@
 * [ClearSlide/Fantastic-Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder): Fantastic transcoder is a video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
 * [amitshekhariitbhu/Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking): 🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
 * [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli): Test your download and upload speed using fast.com
+* [dromara/fast-request](https://github.com/dromara/fast-request): IntelliJ IDEA plugin Restful Fast Request
 * [tiangolo/fastapi](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin): A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 * [Aeternalis-Ingenium/FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template): A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
