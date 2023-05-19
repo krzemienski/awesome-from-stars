@@ -149,6 +149,7 @@
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 4
 * [basil79/ads-manager](https://github.com/basil79/ads-manager): HTML5 Video Ads Manager based on @dailymotion/vast-client
 * [timdonnelly/Advance](https://github.com/timdonnelly/Advance): Physics-based animations for iOS, tvOS, and macOS.
+* [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher): Gnome Shell extension, a highly customizable replacement for the Alt-Tab window and app switchers.
 * [AgoraIO/Advanced-Interactive-Broadcasting](https://github.com/AgoraIO/Advanced-Interactive-Broadcasting): None
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [j-min/Adversarial_Video_Summary](https://github.com/j-min/Adversarial_Video_Summary): Unofficial PyTorch Implementation of SUM-GAN from "Unsupervised Video Summarization with Adversarial LSTM Networks" (CVPR 2017)
@@ -265,6 +266,7 @@
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
 * [klaudiosinani/ao](https://github.com/klaudiosinani/ao): Elegant Microsoft To-Do desktop app
 * [xiph/aomanalyzer](https://github.com/xiph/aomanalyzer): AV1 / VP9 Bitstream Analyzer
+* [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP): NOVA opeN sOurce Video plAyer: main repository to build them all
 * [nova-video-player/aos-Video](https://github.com/nova-video-player/aos-Video): NOVA opeN sOurce Video plAyer: player frontend main UI
 * [Alterplay/APAddressBook](https://github.com/Alterplay/APAddressBook): Easy access to iOS address book
 * [JeanLebrument/APContact-EasyMapping](https://github.com/JeanLebrument/APContact-EasyMapping): Category to easily map APContact model with EasyMapping
@@ -541,6 +543,7 @@
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd): continuous integration and continuous delivery
 * [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl): A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+* [lebensterben/awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux): Let's make Clear Linux distribution great
 * [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 * [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
 * [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native): A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
@@ -1028,7 +1031,7 @@
 * [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance): Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
-* [btw-so/btw](https://github.com/btw-so/btw): Open source personal website builder. Set up your website within minutes.
+* [btw-so/btw](https://github.com/btw-so/btw): Open source Medium alternative. 
 * [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea): A powerful little TUI framework 🏗
 * [facebook/buck](https://github.com/facebook/buck): A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 * [airbnb/BuckSample](https://github.com/airbnb/BuckSample): An example app showing how Buck can be used to build a simple iOS app.
@@ -1145,6 +1148,7 @@
 * [shilgam/ci_tools](https://github.com/shilgam/ci_tools): Popular CI/CD Tools Comparison: Travis, CircleCI, Gitlab CI, Codeship Pro
 * [robertsanseries/ciano](https://github.com/robertsanseries/ciano): A multimedia file converter focused on simplicity.
 * [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which supports multiple platforms Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is to provide a player core which supports multi-platform, hardware accelerator, and customizable and extensible features. Which supports WideVine drm, LL-HLS, MPEG-DASH and HDR playback.
+* [wa2c/cifs-documents-provider](https://github.com/wa2c/cifs-documents-provider): CIFS Documents Provider
 * [cilium/cilium](https://github.com/cilium/cilium): eBPF-based Networking, Security, and Observability
 * [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
@@ -2022,6 +2026,8 @@
 * [SandyChapman/fastlane-plugin-jira_versions](https://github.com/SandyChapman/fastlane-plugin-jira_versions): A Fastlane plugin for managing JIRA releases / versions
 * [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center): 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 * [taisukeh/fastlane-plugin-xcode_test_reporter](https://github.com/taisukeh/fastlane-plugin-xcode_test_reporter): Fastlane plugin generates JUnit or HTML report from Xcode plist test report files using.
+* [fastogt/fastocloud](https://github.com/fastogt/fastocloud): FastoCloud Media Service Community Edition
+* [fastogt/fastonosql](https://github.com/fastogt/fastonosql): FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 * [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an open-source alternative to GitHub Copilot server
 * [janselv/fave-button](https://github.com/janselv/fave-button): FaveButton is an iOS cute animated like button written in Swift.
 * [Eyevinn/favorites-api](https://github.com/Eyevinn/favorites-api): Example of a simple implementation to build a favorites api on top of Redis
@@ -2030,6 +2036,7 @@
 * [Dash-Industry-Forum/FeatureTest](https://github.com/Dash-Industry-Forum/FeatureTest): Issues corresponsing to each feature at http://testassets.dashif.org/
 * [dschier-wtd/fedora-homeserver](https://github.com/dschier-wtd/fedora-homeserver): Kickstart and Ansible setup of my homeserver.
 * [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix):  ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
+* [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata): None
 * [TryFetch/Fetch](https://github.com/TryFetch/Fetch): :movie_camera: The best way to watch Put.io on iPhone and iPad
 * [neurospeech/ff-lambda-container](https://github.com/neurospeech/ff-lambda-container): FFmpeg AWS Lambda Container
 * [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter): GUI File Format Converter
@@ -2463,13 +2470,18 @@
 * [muflone/gnome-appfolders-manager](https://github.com/muflone/gnome-appfolders-manager): Manage GNOME Shell applications folders
 * [GNOME/gnome-applets](https://github.com/GNOME/gnome-applets): Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-applets
 * [yomun/gnome-backup-tools](https://github.com/yomun/gnome-backup-tools): GNOME Shell Extensions - Backup Tools / 备份工具
+* [arunk140/gnome-command-menu](https://github.com/arunk140/gnome-command-menu): A GNOME Shell Extension to manage shortcuts in Top Bar (Inspired by Shuttle and SSHMenu)
 * [CharlieQLe/gnome-extension-gtk3-theme-switcher](https://github.com/CharlieQLe/gnome-extension-gtk3-theme-switcher): None
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [hardpixel/gnome-hud](https://github.com/hardpixel/gnome-hud): Unity like HUD menu for the GNOME Desktop Environment using rofi menu.
+* [vmavromatis/gnome-layout-manager](https://github.com/vmavromatis/gnome-layout-manager): A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.
 * [ethanwharris/gnome-nvidia-extension](https://github.com/ethanwharris/gnome-nvidia-extension): A Gnome extension to show NVIDIA GPU information
 * [Schneegans/Gnome-Pie](https://github.com/Schneegans/Gnome-Pie): A pie menu launcher for linux. Read the release announcement of version 0.7.2 at https://schneegans.github.io/news/2018/10/30/gnome-pie-072 Or have a look at the homepage!
+* [nlpsuge/gnome-shell-extension-another-window-session-manager](https://github.com/nlpsuge/gnome-shell-extension-another-window-session-manager): A Gnome shell extension to close open windows gracefully and save them as a session. The previous session can be restored at startup. Most importantly, it supports both X11 and Wayland!
 * [sunwxg/gnome-shell-extension-arrangeWindows](https://github.com/sunwxg/gnome-shell-extension-arrangeWindows): None
+* [Rafostar/gnome-shell-extension-cast-to-tv](https://github.com/Rafostar/gnome-shell-extension-cast-to-tv): Cast files to Chromecast, web browser or media player app over local network.
 * [Nova1545/gnome-shell-extension-customreboot](https://github.com/Nova1545/gnome-shell-extension-customreboot): None
+* [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm): Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively
 * [gpouilloux/gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker): An extension for managing docker containers
 * [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon): Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 * [kaiseracm/gnome-shell-extension-maximize-to-empty-workspace](https://github.com/kaiseracm/gnome-shell-extension-maximize-to-empty-workspace): New and maximized windows will be moved to empty workspaces. Supports multiple monitors.
@@ -2481,8 +2493,13 @@
 * [paysonwallach/gnome-shell-extension-spruce](https://github.com/paysonwallach/gnome-shell-extension-spruce): Easily arrange windows from the comfort of your keyboard.
 * [elvetemedve/gnome-shell-extension-system-monitor](https://github.com/elvetemedve/gnome-shell-extension-system-monitor): Gnome Shell extension for displaying resource usage
 * [c0ldplasma/gnome-shell-extension-taskbar](https://github.com/c0ldplasma/gnome-shell-extension-taskbar): Development stopped - GNOME Shell Extension TaskBar 2020 (GNOME 3.30-(3.)40)
+* [zhanghai/gnome-shell-extension-transparent-top-bar](https://github.com/zhanghai/gnome-shell-extension-transparent-top-bar): GNOME Shell extension that brings back the transparent top bar when free-floating in GNOME Shell 3.32
+* [johannesjo/gnome-shell-extension-window-session-manager](https://github.com/johannesjo/gnome-shell-extension-window-session-manager): An indicator that let's you save and restore your open apps and the window positions and arrangements over multiple real and virtual displays.
 * [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures): Enable GNOME Shell multi-touch gestures on X11 with this extension
 * [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync): Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
+* [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps): For aesthetic purposes adds useless gaps around tiled and maximized windows
+* [oae/gnome-shell-minimize-to-tray](https://github.com/oae/gnome-shell-minimize-to-tray): Minimize any app to tray
+* [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano): Next-gen Clipboard Manager for Gnome Shell
 * [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot): Gnome Shell extension for making and uploading screenshots
 * [mgalgs/gnome-shell-system-monitor-applet](https://github.com/mgalgs/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [mzur/gnome-shell-wsmatrix](https://github.com/mzur/gnome-shell-wsmatrix): GNOME shell extension to arrange workspaces in a two-dimensional grid with workspace thumbnails
@@ -2586,6 +2603,7 @@
 * [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme): A GTK theme based on the Gruvbox colour palette. 
 * [Vincent-P/gruvbox-intellij-theme](https://github.com/Vincent-P/gruvbox-intellij-theme): An IDE theme based on the gruvbox color scheme. ⛺
 * [gregheo/gruvbox-theme-for-xcode](https://github.com/gregheo/gruvbox-theme-for-xcode): An Xcode theme based on the very popular gruvbox vim theme!
+* [eexpress/gs-m3u8-play](https://github.com/eexpress/gs-m3u8-play): None
 * [wxxsw/GSPlayer](https://github.com/wxxsw/GSPlayer): ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
 * [ziutek/gst](https://github.com/ziutek/gst): Go bindings for GStreamer (retired: currently I don't use/develop this package)
 * [i4tv/gstreamill](https://github.com/i4tv/gstreamill): encoder with hls output based on gstreamer.
@@ -2756,6 +2774,7 @@
 * [muxinc/hlstools](https://github.com/muxinc/hlstools): Tools for analyzing and processing hls streams
 * [faryon93/hlswatch](https://github.com/faryon93/hlswatch): keep track of hls viewer stats
 * [bcl/HMS](https://github.com/bcl/HMS): Roku application for streaming home media from a basic http server.
+* [HoloISO/holoiso](https://github.com/HoloISO/holoiso): SteamOS 3 (Holo) archiso configuration
 * [ajnart/homarr](https://github.com/ajnart/homarr): Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 * [go-gitea/homebrew-gitea](https://github.com/go-gitea/homebrew-gitea): Gitea: Homebrew, moved to https://gitea.com/gitea/homebrew-gitea
 * [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk): AdoptOpenJDK HomeBrew Tap
@@ -3207,6 +3226,7 @@
 * [pld-linux/kvazaar](https://github.com/pld-linux/kvazaar): Kvazaar - open-source HEVC encoder
 * [ultravideo/kvazaar](https://github.com/ultravideo/kvazaar): An open-source HEVC encoder
 * [giovtorres/kvm-install-vm](https://github.com/giovtorres/kvm-install-vm): Bash script to build local virtual machines using KVM/libvirt and cloud-init.
+* [kolyvan/kxmovie](https://github.com/kolyvan/kxmovie): movie player for iOS using ffmpeg
 * [q191201771/lal](https://github.com/q191201771/lal): 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711, relay, cluster, record, HTTP Notify/API/UI. 直播
 * [Eyevinn/lambda-adxengine-mockup](https://github.com/Eyevinn/lambda-adxengine-mockup): Lambda function for AdxEngine Mockup
 * [Eyevinn/lambda-hls-rewrite](https://github.com/Eyevinn/lambda-hls-rewrite): Lambda function for rewriting HLS manifests
@@ -3221,6 +3241,7 @@
 * [ezeoleaf/larry](https://github.com/ezeoleaf/larry): Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 * [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave): A retro outrun / cyberpunk inspired VS Code theme
 * [system76/launch](https://github.com/system76/launch): System76 Launch Configurable Keyboard
+* [hedgieinsocks/launcher](https://github.com/hedgieinsocks/launcher): GNOME Extension: Run scripts from a Panel Indicator
 * [Laverna/laverna](https://github.com/Laverna/laverna): Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 * [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair): No clever tagline needed.
 * [nicklockwood/layout](https://github.com/nicklockwood/layout): A declarative UI framework for iOS
@@ -3298,6 +3319,7 @@
 * [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface): Linux Kernel for Surface Devices
 * [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation): This project provides all you need to create an unattended installation of a minimal setup of Linux.
 * [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot): Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10). 
+* [johannesjo/linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager): A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 * [chestm007/linux_thermaltake_riing](https://github.com/chestm007/linux_thermaltake_riing): Python driver and daemon to control thermaltake Riing fans and pumps
 * [Kthulu120/liquid-dl-chrome](https://github.com/Kthulu120/liquid-dl-chrome): A Chrome Extension For Liquid-dl
 * [Kthulu120/liquid_dl](https://github.com/Kthulu120/liquid_dl): Liquid-dl is a simple tool for utlities such as FFMPEG, youtube-dl, and scdl. It provides a simple framework with simple point and click options allowing users to just click on what they need and use the bare minimum commands to get the results needed.
@@ -3462,6 +3484,7 @@
 * [sergree/matchering](https://github.com/sergree/matchering): 🎚️ Open Source Audio Matching and Mastering
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
 * [CosmicMind/Material](https://github.com/CosmicMind/Material): A UI/UX framework for creating beautiful applications.
+* [material-shell/material-awesome](https://github.com/material-shell/material-awesome): Material and Mouse driven config for AwesomeWM 4.3
 * [Fausto-Korpsvart/Material-GTK-Themes](https://github.com/Fausto-Korpsvart/Material-GTK-Themes): Material GTK Themes
 * [material-ocean/Material-Ocean](https://github.com/material-ocean/Material-Ocean):  A blueish oceanic color scheme for various applications
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
@@ -3625,6 +3648,7 @@
 * [MPEGDASHPlayer/MPEGDASH-iOS-Player](https://github.com/MPEGDASHPlayer/MPEGDASH-iOS-Player): The MPEG-DASH Player iOS Application
 * [sitkevij/mpi](https://github.com/sitkevij/mpi): Rust-based MPEG-4 box inspector with TOML output.
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
+* [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android): #mpv-android @ libera.chat
 * [davidde/mpv-autosub](https://github.com/davidde/mpv-autosub): Fully automatic subtitle downloading for the MPV media player
 * [mpv-player/mpv-build](https://github.com/mpv-player/mpv-build): 🔨 Helper scripts to compile mpv on Linux
 * [TheOpponent/mr-otcs](https://github.com/TheOpponent/mr-otcs): Automated video looping, streaming, and schedule generation
@@ -3753,7 +3777,7 @@
 * [JoaquimLey/ngrok-install](https://github.com/JoaquimLey/ngrok-install): A simple self-sufficient script that installs a ngrok ssh tunnel service that runs on boot for the raspberry pi
 * [Eitol/ngrok-linux-service](https://github.com/Eitol/ngrok-linux-service): ngrok linux systemd service installer
 * [zufardhiyaulhaq/ngrok-operator](https://github.com/zufardhiyaulhaq/ngrok-operator): Expose your service in Kubernetes to the Internet with Ngrok easily! Automatically reload ngrok sessions after expired!
-* [ngrok/ngrok-rs](https://github.com/ngrok/ngrok-rs): Embed ngrok secure ingress into your Rust apps with a single line of code.
+* [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust): Embed ngrok secure ingress into your Rust apps with a single line of code.
 * [krzemienski/ngrok-setup](https://github.com/krzemienski/ngrok-setup): None
 * [ngrok/ngrok-systemd](https://github.com/ngrok/ngrok-systemd): None
 * [jimklimov/ngrok2-systemd](https://github.com/jimklimov/ngrok2-systemd): Yet another setup to wrap ngrok v2 with systemd and chroot jail
@@ -3767,6 +3791,7 @@
 * [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
+* [franglais125/no-title-bar](https://github.com/franglais125/no-title-bar): Integrates maximized windows with the top panel
 * [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel.
 * [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 * [nodejs/node](https://github.com/nodejs/node): Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -3925,6 +3950,7 @@
 * [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 * [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer): NVIDIA driver installer
 * [wildtruc/nvidia-prime-select](https://github.com/wildtruc/nvidia-prime-select): This a fork of FedoraPrime enhanced for all linux distributions
+* [Scotchman0/NVIDIA_Drivers](https://github.com/Scotchman0/NVIDIA_Drivers): A simple bash script for automatic install of the proper nvidia drivers on Debian/ubuntu
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA 
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
@@ -3979,6 +4005,7 @@
 * [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant): OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 * [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service): Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 * [fossasia/open-event-server](https://github.com/fossasia/open-event-server): The Open Event Organizer Server to Manage Events https://test-api.eventyay.com
+* [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
 * [iheartradio/open-m3u8](https://github.com/iheartradio/open-m3u8): Open Source m3u8 Parser
 * [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps): :iphone: Collaborative List of Open-Source iOS Apps
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -4146,6 +4173,7 @@
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
 * [beyondmeh/piu](https://github.com/beyondmeh/piu): Cross platform package manager wrapper
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
+* [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
 * [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher): Pixel™ phone flashing GUI utility with features.
 * [GottaYotta/PixelSDK](https://github.com/GottaYotta/PixelSDK): The modern photo and video editor for your iPhone / iPad app. A fully customizable image & video editing iOS Swift framework.
 * [antoinehng/pixelwalker](https://github.com/antoinehng/pixelwalker): Video encoding quality assessment platform
@@ -4158,6 +4186,7 @@
 * [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages): Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers
 * [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker): You know it, you use it, now it's time to improve it. PWD!.
 * [mafintosh/playback](https://github.com/mafintosh/playback): Video player built using electron and node.js
+* [moneytoo/Player](https://github.com/moneytoo/Player): ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 * [piemonte/Player](https://github.com/piemonte/Player): ▶️ Play and stream media in Swift
 * [pockethook/player](https://github.com/pockethook/player): FFmpeg and SDL2 video player
 * [Eyevinn/player-analytics-client-sdk-web](https://github.com/Eyevinn/player-analytics-client-sdk-web): EPAS Client SDK for Web
@@ -4853,6 +4882,7 @@
 * [mergesort/Slope](https://github.com/mergesort/Slope): A simpler way to implement gradients on iOS.
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 * [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast): PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
+* [khimaros/smart-auto-move](https://github.com/khimaros/smart-auto-move): Smart Auto Move learns the size and position of your application windows and restores them to the correct place on subsequent launches. Supports GNOME Wayland.
 * [OpenVisualCloud/Smart-City-Sample](https://github.com/OpenVisualCloud/Smart-City-Sample): The smart city reference pipeline shows how to integrate various media building blocks, with analytics powered by the OpenVINO™ Toolkit, for traffic or stadium sensing, analytics and management tasks.
 * [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open): Utils for streaming large files (S3, HDFS, gzip, bz2...)
 * [SebastianLuebke/smbios-thermal-ctl-gnome-ext](https://github.com/SebastianLuebke/smbios-thermal-ctl-gnome-ext): Gnome-Shell Extension for setting smbios thermal modes.
@@ -5218,6 +5248,7 @@
 * [pop-os/system76-power](https://github.com/pop-os/system76-power): System76 Power Management
 * [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler): Auto-configure CFS and process priorities for improved desktop responsiveness
 * [GuillaumeGomez/systemd-manager](https://github.com/GuillaumeGomez/systemd-manager): A systemd service manager written in Rust with the GTK-rs wrapper and direct integration with dbus
+* [hardpixel/systemd-manager](https://github.com/hardpixel/systemd-manager): GNOME Shell extension to manage systemd services.
 * [vincenthsu/systemd-ngrok](https://github.com/vincenthsu/systemd-ngrok): Automatically start ngrok by systemd
 * [dorkbox/SystemTray](https://github.com/dorkbox/SystemTray): Cross-platform SystemTray support for Swing/AWT, macOS, GtkStatusIcon, and AppIndicator on Java 8+
 * [eroscai/SZAVPlayer](https://github.com/eroscai/SZAVPlayer): SZAVPlayer is a lightweight audio/video player library, based on AVPlayer and AVAssetResourceLoaderDelegate, pure-Swift. Support cache and video image output.
@@ -5521,6 +5552,7 @@
 * [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 * [railsware/upterm](https://github.com/railsware/upterm): A terminal emulator for the 21st century.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
+* [upx/upx](https://github.com/upx/upx): UPX - the Ultimate Packer for eXecutables
 * [lucamattiazzi/url-decorator](https://github.com/lucamattiazzi/url-decorator): Decorate URL adding some og metadata so that they appear cool on Slack
 * [webhacking/url-metadata-parser](https://github.com/webhacking/url-metadata-parser): Request an http(s) url and scrape its metadata
 * [assembl/url_metadata](https://github.com/assembl/url_metadata): An URL metadata getter Flask micro website
@@ -5567,6 +5599,7 @@
 * [nomad-cli/venice](https://github.com/nomad-cli/venice): Ruby Gem for In-App Purchase Receipt Verification
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [josejuanqm/VersaPlayer](https://github.com/josejuanqm/VersaPlayer): Versatile Video Player implementation for iOS, macOS, and tvOS
+* [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces): V-Shell is a GNOME Shell extension that allows you to customize the layout and behavior of the Shell UI.
 * [JoniVR/VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper): A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 * [imgly/vesdk-flutter](https://github.com/imgly/vesdk-flutter): Flutter plugin for VideoEditor SDK
 * [imgly/vesdk-ios-build](https://github.com/imgly/vesdk-ios-build): VideoEditor SDK: A fully customizable video editor for your app.
@@ -5673,6 +5706,7 @@
 * [MostafaAnter/VideoPlayerInsideRecyclerView](https://github.com/MostafaAnter/VideoPlayerInsideRecyclerView): Integrate RecyclerView with ExoPlayer — The clean way — and customization
 * [danylovolokh/VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager): This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it.
 * [NVIDIA/VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework): Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions
+* [yellowcath/VideoProcessor](https://github.com/yellowcath/VideoProcessor): process video(cut & scale & increase & decrease & reverse) with mediacodec
 * [kevin-corcoran-dev/VideoQuality_PoC](https://github.com/kevin-corcoran-dev/VideoQuality_PoC): None
 * [h2non/videoshow](https://github.com/h2non/videoshow): Simple node.js utility to create video slideshows from images with optional audio and visual effects using ffmpeg
 * [svhawks/VideoThumbnailViewKit](https://github.com/svhawks/VideoThumbnailViewKit): Video Thumb ScrollView
@@ -5844,6 +5878,7 @@
 * [wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios):  📱The official Wikipedia iOS app.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [mriza/winbox-installer](https://github.com/mriza/winbox-installer): Install winbox in fedora/ubuntu linux, using wine
+* [lepa22/window-app-switcher-on-active-monitor](https://github.com/lepa22/window-app-switcher-on-active-monitor): GNOME shell extension to improve dual (or more) monitor experience
 * [medenagan/window-corner-preview](https://github.com/medenagan/window-corner-preview): GNOME Shell extension showing a video preview on the corner of the screen
 * [Vityacv/window-list-mod](https://github.com/Vityacv/window-list-mod): None
 * [wireapp/wire-ios](https://github.com/wireapp/wire-ios): 📱 Wire for iOS (iPhone and iPad)
@@ -5878,6 +5913,7 @@
 * [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh): READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh 
 * [videolan/x265](https://github.com/videolan/x265): https://bitbucket.org/multicoreware/x265/ git mirror
 * [futzu/x9k3](https://github.com/futzu/x9k3): HLS and SCTE-35   x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
+* [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
 * [xbmc/xbmc](https://github.com/xbmc/xbmc): Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 * [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild): Xcode-compatible build tool.

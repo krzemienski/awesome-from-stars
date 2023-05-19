@@ -254,6 +254,9 @@
     "AmruthPillai/Reactive-Resume": [
         "Other"
     ],
+    "AndreyPavlenko/Fermata": [
+        "Other"
+    ],
     "Aniket965/Dynamic-Github-Profile": [
         "Other"
     ],
@@ -1682,6 +1685,12 @@
     "Fyrd/caniuse": [
         "Other"
     ],
+    "G-dH/advanced-alttab-window-switcher": [
+        "Other"
+    ],
+    "G-dH/vertical-workspaces": [
+        "Other"
+    ],
     "G-dH/workspace-switcher-manager": [
         "Other"
     ],
@@ -1866,6 +1875,9 @@
         "Other"
     ],
     "HirokiUmatani/PEAR-ZoomingView-iOS": [
+        "Other"
+    ],
+    "HoloISO/holoiso": [
         "Other"
     ],
     "Horhorist/awesome-free-software": [
@@ -2609,6 +2621,9 @@
     "NVIDIA/nvidia-installer": [
         "Other"
     ],
+    "NVIDIA/open-gpu-kernel-modules": [
+        "Other"
+    ],
     "NVIDIA/proxyfs": [
         "Other"
     ],
@@ -2981,6 +2996,9 @@
     "Radweb/react-native-audio-transcoder": [
         "Other"
     ],
+    "Rafostar/gnome-shell-extension-cast-to-tv": [
+        "Other"
+    ],
     "Ragib01/video-streaming": [
         "Other"
     ],
@@ -3189,6 +3207,9 @@
         "Other"
     ],
     "Sciencentistguy/videoconverter": [
+        "Other"
+    ],
+    "Scotchman0/NVIDIA_Drivers": [
         "Other"
     ],
     "ScottAtBlankCanvas/hls-live2vod": [
@@ -4878,6 +4899,9 @@
         "Other"
     ],
     "artxia/Action-NotionSite": [
+        "Other"
+    ],
+    "arunk140/gnome-command-menu": [
         "Other"
     ],
     "arut/nginx-rtmp-module": [
@@ -6752,6 +6776,9 @@
     "ddragosd/ffmpeg-vod-transcoder": [
         "Other"
     ],
+    "ddterm/gnome-shell-extension-ddterm": [
+        "Other"
+    ],
     "ddz/whatsapp-media-decrypt": [
         "Other"
     ],
@@ -7403,6 +7430,9 @@
     "eendroroy/alacritty-theme": [
         "Other"
     ],
+    "eexpress/gs-m3u8-play": [
+        "Other"
+    ],
     "ega4432/notion-to-markdown-action": [
         "Other"
     ],
@@ -7910,6 +7940,12 @@
     "fastlane/fastlane": [
         "Other"
     ],
+    "fastogt/fastocloud": [
+        "Other"
+    ],
+    "fastogt/fastonosql": [
+        "Other"
+    ],
     "fastred/Optimizing-Swift-Build-Times": [
         "Other"
     ],
@@ -8139,6 +8175,9 @@
         "Other"
     ],
     "francoism90/mediadb-ui": [
+        "Other"
+    ],
+    "franglais125/no-title-bar": [
         "Other"
     ],
     "fraunhoferhhi/vvdec": [
@@ -8828,6 +8867,9 @@
     "hardpixel/gnome-hud": [
         "Other"
     ],
+    "hardpixel/systemd-manager": [
+        "Other"
+    ],
     "hardpixel/unite-shell": [
         "Other"
     ],
@@ -8895,6 +8937,9 @@
         "Other"
     ],
     "hdoria/xcode-themes": [
+        "Other"
+    ],
+    "hedgieinsocks/launcher": [
         "Other"
     ],
     "hediet/vscode-drawio": [
@@ -9830,6 +9875,12 @@
     "joeyism/linkedin_scraper": [
         "Other"
     ],
+    "johannesjo/gnome-shell-extension-window-session-manager": [
+        "Other"
+    ],
+    "johannesjo/linux-window-session-manager": [
+        "Other"
+    ],
     "johannesjo/super-productivity": [
         "Other"
     ],
@@ -10301,6 +10352,9 @@
     "kgryte/awesome-peer-to-peer": [
         "Other"
     ],
+    "khimaros/smart-auto-move": [
+        "Other"
+    ],
     "kholia/OSX-KVM": [
         "Other"
     ],
@@ -10419,6 +10473,9 @@
         "Other"
     ],
     "kolber/audiojs": [
+        "Other"
+    ],
+    "kolyvan/kxmovie": [
         "Other"
     ],
     "konkor/cpufreq": [
@@ -10820,6 +10877,9 @@
     "learn-anything/ios-apps": [
         "Other"
     ],
+    "lebensterben/awesome-clear-linux": [
+        "Other"
+    ],
     "lebougui/hls-creator": [
         "Other"
     ],
@@ -10839,6 +10899,9 @@
         "Other"
     ],
     "leoncvlt/loconotion": [
+        "Other"
+    ],
+    "lepa22/window-app-switcher-on-active-monitor": [
         "Other"
     ],
     "leptonyu/ngrokd-in-docker": [
@@ -11495,6 +11558,9 @@
     "material-ocean/Material-Ocean": [
         "Other"
     ],
+    "material-shell/material-awesome": [
+        "Other"
+    ],
     "material-shell/material-shell": [
         "Other"
     ],
@@ -11526,6 +11592,9 @@
         "Other"
     ],
     "matrix-org/synapse": [
+        "Other"
+    ],
+    "matryer/xbar": [
         "Other"
     ],
     "matryer/xbar-plugins": [
@@ -11945,6 +12014,9 @@
     "minwook-shin/notion-database": [
         "Other"
     ],
+    "mipmip/gnome-shell-extensions-useless-gaps": [
+        "Other"
+    ],
     "miquido/futura": [
         "Other"
     ],
@@ -12056,6 +12128,9 @@
     "monero-project/monero": [
         "Other"
     ],
+    "moneytoo/Player": [
+        "Other"
+    ],
     "mongodb/mongo-swift-driver": [
         "Other"
     ],
@@ -12129,6 +12204,9 @@
         "Other"
     ],
     "mpromonet/v4l2rtspserver": [
+        "Other"
+    ],
+    "mpv-android/mpv-android": [
         "Other"
     ],
     "mpv-player/mpv": [
@@ -12449,7 +12527,7 @@
     "ngrok/ngrok-go": [
         "Other"
     ],
-    "ngrok/ngrok-rs": [
+    "ngrok/ngrok-rust": [
         "Other"
     ],
     "ngrok/ngrok-systemd": [
@@ -12540,6 +12618,9 @@
         "Other"
     ],
     "nkanaev/imgspy": [
+        "Other"
+    ],
+    "nlpsuge/gnome-shell-extension-another-window-session-manager": [
         "Other"
     ],
     "nm-l2tp/NetworkManager-l2tp": [
@@ -12650,6 +12731,9 @@
     "notionsdk/notion-sdk-kotlin-old": [
         "Other"
     ],
+    "nova-video-player/aos-AVP": [
+        "Other"
+    ],
     "nova-video-player/aos-Video": [
         "Other"
     ],
@@ -12747,6 +12831,12 @@
         "Other"
     ],
     "oae/gnome-shell-extensions-sync": [
+        "Other"
+    ],
+    "oae/gnome-shell-minimize-to-tray": [
+        "Other"
+    ],
+    "oae/gnome-shell-pano": [
         "Other"
     ],
     "oatpp/example-hls-media-stream": [
@@ -13380,6 +13470,9 @@
         "Other"
     ],
     "pixel-point/kube-forwarder": [
+        "Other"
+    ],
+    "pixel-saver/pixel-saver": [
         "Other"
     ],
     "pixie-io/pixie": [
@@ -16409,6 +16502,9 @@
     "upscayl/upscayl": [
         "Other"
     ],
+    "upx/upx": [
+        "Other"
+    ],
     "uraimo/Awesome-Swift-Playgrounds": [
         "Other"
     ],
@@ -16724,6 +16820,9 @@
     "vmarkovtsev/GitHubStars": [
         "Other"
     ],
+    "vmavromatis/gnome-layout-manager": [
+        "Other"
+    ],
     "vmf/transcode2resolve": [
         "Other"
     ],
@@ -16806,6 +16905,9 @@
         "Other"
     ],
     "w3c/webvtt.js": [
+        "Other"
+    ],
+    "wa2c/cifs-documents-provider": [
         "Other"
     ],
     "wabarc/wayback": [
@@ -17372,6 +17474,9 @@
     "yeefun/notion-mark-manager": [
         "Other"
     ],
+    "yellowcath/VideoProcessor": [
+        "Other"
+    ],
     "yenbekbay/AYGestureHelpView": [
         "Other"
     ],
@@ -17496,6 +17601,9 @@
         "Other"
     ],
     "zeshuaro/LinkedRW": [
+        "Other"
+    ],
+    "zhanghai/gnome-shell-extension-transparent-top-bar": [
         "Other"
     ],
     "zhangpengyf/ffmpeg-tutorial-with-swift": [
