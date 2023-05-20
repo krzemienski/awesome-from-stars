@@ -3020,6 +3020,7 @@
 * [a-schild/jave2](https://github.com/a-schild/jave2): The JAVE (Java Audio Video Encoder) library is Java wrapper on the ffmpeg project
 * [realm/jazzy](https://github.com/realm/jazzy): Soulful docs for Swift & Objective-C
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
+* [openjdk/jdk](https://github.com/openjdk/jdk): JDK main-line development https://openjdk.org/projects/jdk
 * [davidhalter/jedi](https://github.com/davidhalter/jedi): Awesome autocompletion, static analysis and refactoring library for python
 * [contentful/jekyll-contentful-data-import](https://github.com/contentful/jekyll-contentful-data-import): Contentful Plugin for the Jekyll Static Site Generator
 * [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly): 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
@@ -3031,6 +3032,7 @@
 * [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme): One Dark theme for JetBrains.
 * [nagygergo/jetbrains-toolbox-install](https://github.com/nagygergo/jetbrains-toolbox-install): Installer for jetbrains toolbox
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
+* [lipangit/JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer): MediaPlayer exoplayer ijkplayer ffmpeg
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib): 🏗 Build container images for your Java applications.
 * [simeji/jid](https://github.com/simeji/jid): json incremental digger
 * [jgillick/jira-changelog](https://github.com/jgillick/jira-changelog): Generates a changelog by matching git commits to Jira tickets.
@@ -3859,7 +3861,6 @@
 * [typeoneerror/notion-api-examples](https://github.com/typeoneerror/notion-api-examples): Learn how you might use the Notion API to automate your Notion practice
 * [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker): Notion as CMS with easy API access
 * [jaredallard/notion-app](https://github.com/jaredallard/notion-app): Notion for Linux
-* [sysdrum/notion-app](https://github.com/sysdrum/notion-app): Notion.so desktop application for Linux 
 * [gidoBOSSftw5731/notion-auto-pull](https://github.com/gidoBOSSftw5731/notion-auto-pull): Bash script to automatically download a notion workspace
 * [jckleiner/notion-backup](https://github.com/jckleiner/notion-backup): Automatic Notion workspace backup to Google Drive, Dropbox, pCloud, Nextcloud or to your local machine.
 * [methylDragon/notion-backups](https://github.com/methylDragon/notion-backups): Blazingly fast async multi-user, multi-space Notion backups, invoked manually or with GH actions!
@@ -4171,6 +4172,8 @@
 * [guitarcade/piper](https://github.com/guitarcade/piper): piper - a distributed workflow engine
 * [libratbag/piper](https://github.com/libratbag/piper): GTK application to configure gaming devices
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
+* [alexander0042/pirate-weather-ha](https://github.com/alexander0042/pirate-weather-ha): Replacement for the default Dark Sky Home Assistant integration using Pirate Weather 
+* [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather): Code and documentation for the Pirate Weather API
 * [beyondmeh/piu](https://github.com/beyondmeh/piu): Cross platform package manager wrapper
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
