@@ -2480,7 +2480,7 @@
 * [nlpsuge/gnome-shell-extension-another-window-session-manager](https://github.com/nlpsuge/gnome-shell-extension-another-window-session-manager): A Gnome shell extension to close open windows gracefully and save them as a session. The previous session can be restored at startup. Most importantly, it supports both X11 and Wayland!
 * [sunwxg/gnome-shell-extension-arrangeWindows](https://github.com/sunwxg/gnome-shell-extension-arrangeWindows): None
 * [Rafostar/gnome-shell-extension-cast-to-tv](https://github.com/Rafostar/gnome-shell-extension-cast-to-tv): Cast files to Chromecast, web browser or media player app over local network.
-* [Nova1545/gnome-shell-extension-customreboot](https://github.com/Nova1545/gnome-shell-extension-customreboot): None
+* [Nova1545/gnome-shell-extension-customreboot](https://github.com/Nova1545/gnome-shell-extension-customreboot): A gnome-shell extension to add a "Custom Restart..." option to the shell system panel that allows you to choose what OS you want to boot into, after which it triggers the typical end session dialog for restart.
 * [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm): Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively
 * [gpouilloux/gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker): An extension for managing docker containers
 * [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon): Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
