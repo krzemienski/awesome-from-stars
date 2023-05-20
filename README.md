@@ -258,7 +258,7 @@
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [ant-design/ant-design](https://github.com/ant-design/ant-design): An enterprise-class UI design language and React UI library
 * [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro): 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-* [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server): Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is highly scalable both horizontally and vertically. It can run on-premise or on-cloud.
+* [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server): Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it can run on-premise or on-cloud.
 * [antares-sql/antares](https://github.com/antares-sql/antares): A modern, fast and productivity driven SQL client with a focus in UX.
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
@@ -3298,7 +3298,7 @@
 * [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
 * [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev): Lightweight Google-searchable Slack alternative for Communities
 * [talhasch/ling](https://github.com/talhasch/ling): REST client
-* [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
+* [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * [krzysztofzablocki/LinkedConsole](https://github.com/krzysztofzablocki/LinkedConsole): Clickable links in your Xcode console, so you never wonder which class logged the message.
 * [hellpanderrr/linkedin-pdf-parsing](https://github.com/hellpanderrr/linkedin-pdf-parsing): Parsing resumes in a PDF format from linkedIn 
 * [akitten/linkedin-public-profile-parser](https://github.com/akitten/linkedin-public-profile-parser): :innocent: Parse a *Public* LinkedIn Profile Page
