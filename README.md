@@ -133,6 +133,7 @@
 * [Eyevinn/action-eks-kubectl](https://github.com/Eyevinn/action-eks-kubectl): GitHub Action for interacting with EKS vended kubectl (k8s) 
 * [LucaFeger/action-maven-cli](https://github.com/LucaFeger/action-maven-cli): None
 * [artxia/Action-NotionSite](https://github.com/artxia/Action-NotionSite): loconotion + Github Actions + Notion + GitHub Pages + Cloudflare Workers, Create a free website or build a blog.
+* [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller): Kubernetes controller for GitHub Actions self-hosted runners
 * [optonaut/ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift): UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 * [OpenVisualCloud/Ad-Insertion-Sample](https://github.com/OpenVisualCloud/Ad-Insertion-Sample): The ad-insertion reference pipeline shows how to integrate various media building blocks, with analytics powered by the OpenVINO™ Toolkit, for intelligent server-side ad insertion.
 * [PapirusDevelopmentTeam/adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde): Adapta KDE customization
