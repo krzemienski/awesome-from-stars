@@ -3059,6 +3059,12 @@
     "RealChuan/Qt-Ffmpeg": [
         "Other"
     ],
+    "RealOrangeOne/dotfiles": [
+        "Other"
+    ],
+    "RealOrangeOne/infrastructure": [
+        "Other"
+    ],
     "Red5/red5-server": [
         "Other"
     ],
@@ -3759,6 +3765,9 @@
         "Other"
     ],
     "XCTEQ/iOS-Dev-Ansible": [
+        "Other"
+    ],
+    "Xaero252/unraid-plex-nvdec": [
         "Other"
     ],
     "Xheldon/NotionEditor": [

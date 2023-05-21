@@ -1716,6 +1716,7 @@
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
 * [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles): KDE Plasma for twm users.
 * [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles): My personal dotfiles for bspwm, i3-gaps and kde plasma
+* [RealOrangeOne/dotfiles](https://github.com/RealOrangeOne/dotfiles): Settings and Preferences for transfer between machines
 * [YazdanZ/dotfiles](https://github.com/YazdanZ/dotfiles): Repository to manage and share personal dotfiles 
 * [alrra/dotfiles](https://github.com/alrra/dotfiles): 💻 macOS / Ubuntu dotfiles
 * [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles): My personal linux dotfiles
@@ -2889,6 +2890,7 @@
 * [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker): Official docker images for the influxdata stack
 * [get-set/infra-docker-compose](https://github.com/get-set/infra-docker-compose): 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
 * [dockup/infrahub](https://github.com/dockup/infrahub): An example starter template that contains terraform scripts and kubernetes configuration files to deploy a simple web application to AWS EKS Cluster
+* [RealOrangeOne/infrastructure](https://github.com/RealOrangeOne/infrastructure): Servers, containers and stuff
 * [IngeoSDK/ingeo-ios-sdk](https://github.com/IngeoSDK/ingeo-ios-sdk): The most power-efficient and lightweight iOS location manager for Swift and ObjC
 * [Dash-Industry-Forum/Ingest](https://github.com/Dash-Industry-Forum/Ingest): None
 * [Eyevinn/ingest-application-framework](https://github.com/Eyevinn/ingest-application-framework): A framework to simplify building VOD ingest applications
@@ -5549,6 +5551,7 @@
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
+* [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
