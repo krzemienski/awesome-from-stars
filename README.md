@@ -241,6 +241,7 @@
 * [wada811/Android-Paint](https://github.com/wada811/Android-Paint): wada811/Android-Paint
 * [Eyevinn/android-player](https://github.com/Eyevinn/android-player): None
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
+* [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as firesticks and google TVs.
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
 * [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Exoplayer
@@ -2203,7 +2204,6 @@
 * [blank-blank/firetv-pipeline](https://github.com/blank-blank/firetv-pipeline): A pipeline to deliver a Firetv app via jenkins.
 * [ZaneH/firetv-remote](https://github.com/ZaneH/firetv-remote): A web app that can control your Amazon FireTV (Stick). Just startup Node, fill in your device's IP address and use your web browser as a remote. (Enable ADB debugging)
 * [amzn/firetv-sample-touch-app](https://github.com/amzn/firetv-sample-touch-app): This sample Android project demonstrates how to build the main UI of a Fire TV application in order to support both Touch interactions and Remote D-Pad controls.
-* [AnthonyGress/FireTV-Toolkit](https://github.com/AnthonyGress/FireTV-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. FireTV-Toolkit is a GUI for adb and can be used to modify android devices such as firesticks.
 * [rhcp011235/firetv_bootloader_unlock](https://github.com/rhcp011235/firetv_bootloader_unlock): Opensource Amazon FireTv Bootloader Unlock Tool
 * [crelies/FireTVKit](https://github.com/crelies/FireTVKit): Discovering your FireTV and controlling the built-in media player is now easy and reactive
 * [system76/firmware-open](https://github.com/system76/firmware-open): System76 Open Firmware
