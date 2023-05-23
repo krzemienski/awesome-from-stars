@@ -1784,6 +1784,9 @@
     "GuillaumeGomez/systemd-manager": [
         "Other"
     ],
+    "GyulyVGC/sniffnet": [
+        "Other"
+    ],
     "HHK1/PryntTrimmerView": [
         "Other"
     ],
@@ -1923,6 +1926,9 @@
         "Other"
     ],
     "IcaliaLabs/LoginKit": [
+        "Other"
+    ],
+    "IcaliaLabs/Presentr": [
         "Other"
     ],
     "IceWhaleTech/CasaOS": [
@@ -2345,6 +2351,9 @@
     "LetsUpgrade/Python-Essentials": [
         "Other"
     ],
+    "LiLittleCat/awesome-free-chatgpt": [
+        "Other"
+    ],
     "Linen-dev/linen.dev": [
         "Other"
     ],
@@ -2706,6 +2715,9 @@
         "Other"
     ],
     "NirantK/awesome-project-ideas": [
+        "Other"
+    ],
+    "NixOS/nix": [
         "Other"
     ],
     "NixOS/patchelf": [
@@ -3375,6 +3387,9 @@
         "Other"
     ],
     "Sriharia/ExoPlayer-StatsForNerds": [
+        "Other"
+    ],
+    "StanGirard/quivr": [
         "Other"
     ],
     "StanfordSNR/puffer": [
@@ -5486,6 +5501,9 @@
     "bharathgs/Awesome-pytorch-list": [
         "Other"
     ],
+    "bhaskatripathi/pdfGPT": [
+        "Other"
+    ],
     "bhavaniravi/airflow-kube-setup": [
         "Other"
     ],
@@ -5766,6 +5784,9 @@
         "Other"
     ],
     "bugsnag/bugsnag-cocoa": [
+        "Other"
+    ],
+    "bulletmark/libinput-gestures": [
         "Other"
     ],
     "bup/bup": [
@@ -9230,6 +9251,9 @@
     "iced-rs/iced": [
         "Other"
     ],
+    "icedman/dash2dock-lite": [
+        "Other"
+    ],
     "icopy-site/awesome": [
         "Other"
     ],
@@ -11810,6 +11834,9 @@
     "mezod/awesome-indie": [
         "Other"
     ],
+    "mfkl/awesome-vlc": [
+        "Other"
+    ],
     "mfornos/awesome-microservices": [
         "Other"
     ],
@@ -13229,6 +13256,9 @@
     "p2/OAuth2": [
         "Other"
     ],
+    "p2rkw/xf86-input-mtrack": [
+        "Other"
+    ],
     "p8952/bocker": [
         "Other"
     ],
@@ -14196,6 +14226,9 @@
         "Other"
     ],
     "richeymichael/remarkable-assistant": [
+        "Other"
+    ],
+    "ricklamers/gpt-code-ui": [
         "Other"
     ],
     "ridhwaans/homehost": [
@@ -15497,6 +15530,9 @@
     "steve228uk/YouTube-Music": [
         "Other"
     ],
+    "steven-tey/dub": [
+        "Other"
+    ],
     "steven2358/awesome-generative-ai": [
         "Other"
     ],
@@ -15630,6 +15666,9 @@
         "Other"
     ],
     "sunlubo/SwiftFFmpeg": [
+        "Other"
+    ],
+    "suno-ai/bark": [
         "Other"
     ],
     "sunrise2575/AutoAVS": [

@@ -616,6 +616,7 @@
 * [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts): Curated list of fonts and everything
 * [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
 * [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers): None
+* [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 * [Horhorist/awesome-free-software](https://github.com/Horhorist/awesome-free-software): Curated list of free as in freedom software
 * [krzemienski/awesome-from-stars](https://github.com/krzemienski/awesome-from-stars): None
 * [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
@@ -810,6 +811,7 @@
 * [tgc1997/Awesome-Video-Captioning](https://github.com/tgc1997/Awesome-Video-Captioning): A curated list of research papers in Video Captioning
 * [forence/Awesome-Visual-Captioning](https://github.com/forence/Awesome-Visual-Captioning): This repository focus on Image Captioning & Video Captioning & Seq-to-Seq Learning & NLP
 * [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite): ⚡️ A curated list of awesome things related to Vite.js
+* [mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc): 👻 A curated list of awesome VLC and LibVLC resources. 
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm): 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 * [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving): An Awesome List for getting started with web archiving
@@ -901,6 +903,7 @@
 * [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo): Next generation Wagtail demo, born in Reykjavik
 * [charleyup/banzou](https://github.com/charleyup/banzou): 伴奏带歌词
 * [LemonBoy/bar](https://github.com/LemonBoy/bar): A featherweight, lemon-scented, bar based on xcb
+* [suno-ai/bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative Audio Model
 * [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter): Dynamically changes status bar style depending on content behind it
 * [evertramos/basescript](https://github.com/evertramos/basescript): Scripts to be used for automation by other scripts
 * [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
@@ -1430,6 +1433,7 @@
 * [Eyevinn/dash-validator-js](https://github.com/Eyevinn/dash-validator-js): MPEG DASH validator JS library
 * [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js): A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Eyevinn/dash.js](https://github.com/Eyevinn/dash.js): A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* [icedman/dash2dock-lite](https://github.com/icedman/dash2dock-lite): A minimal and animated implementation of dash to dock
 * [pokey909/dash_adaptation_simulator](https://github.com/pokey909/dash_adaptation_simulator): Simulate bitrate switching algorithms based on real data traces
 * [kubernetes/dashboard](https://github.com/kubernetes/dashboard): General-purpose web UI for Kubernetes clusters
 * [salimhamed/dashboard](https://github.com/salimhamed/dashboard): A simple dashboarding web application built using Flask and Bootstrap.
@@ -1771,6 +1775,7 @@
 * [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn): A Dead Simple VPN.
 * [eebean2/DTConsole](https://github.com/eebean2/DTConsole): An on-device console for debugging purpose
 * [ebu/dtt2ip](https://github.com/ebu/dtt2ip): Broadcast to IP conversion for Wifi indoor coverage
+* [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains.
 * [apache/dubbo](https://github.com/apache/dubbo): Apache Dubbo is a high-performance, java based, open source RPC framework.
 * [apache/dubbo-samples](https://github.com/apache/dubbo-samples): samples for Apache Dubbo
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
@@ -2453,7 +2458,7 @@
 * [lheric/GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer): Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
 * [zhaopengme/gitnote](https://github.com/zhaopengme/gitnote): A modern note taking app based on GIT that does not require a local GIT environment.
 * [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch): Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): Gitpod automates the provisioning of ready-to-code cloud development environments.
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod): The developer platform for on-demand cloud development environments to create software faster and more securely.
 * [CCristi/GitPR](https://github.com/CCristi/GitPR): None
 * [JadedTuna/gitrepo](https://github.com/JadedTuna/gitrepo): Lightweight Pythonista utility to easily download repos, releases and gists from GitHub
 * [devCharles/gitRepoUpdater](https://github.com/devCharles/gitRepoUpdater): This shell script update all the git repositories that you have in a folder
@@ -2575,6 +2580,7 @@
 * [stockmind/gpd-pocket-screen-indicator](https://github.com/stockmind/gpd-pocket-screen-indicator): Screen and touch rotation helper and indicator for GPD Pocket
 * [stockmind/gpd-pocket-ubuntu-respin](https://github.com/stockmind/gpd-pocket-ubuntu-respin): Collection of scripts and tweaks to adapt Ubuntu and Linux Mint ISO images to let them run smooth on GPD Pocket
 * [jibsaramnim/gpd-pocket2-hackintosh](https://github.com/jibsaramnim/gpd-pocket2-hackintosh): Clover configuration and required/related Kexts to run macOS on your GPD Pocket 2.
+* [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui): An open source implementation of OpenAI's ChatGPT Code interpreter
 * [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox): An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 * [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu): Dissecting the M1's GPU for 3D acceleration
 * [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools): Tools for monitoring NVIDIA GPUs on Linux 
@@ -3280,6 +3286,7 @@
 * [ithewei/libhv](https://github.com/ithewei/libhv): 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
 * [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice): A cross-platform protocol library to communicate with iOS devices
 * [posixninja/libimobiledevice](https://github.com/posixninja/libimobiledevice): A protocol library to access an iPhone or iPod Touch in Linux
+* [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures): Actions gestures on your touchpad using libinput
 * [Matroska-Org/libmatroska](https://github.com/Matroska-Org/libmatroska): a C++ libary to parse Matroska files (.mkv and .mka)
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
 * [ddd-by-examples/library](https://github.com/ddd-by-examples/library): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
@@ -3794,6 +3801,7 @@
 * [Spiderpig86/Nimbus](https://github.com/Spiderpig86/Nimbus): :notes: A new way to discover songs and artists on SoundCloud.
 * [jverkoey/nimbus](https://github.com/jverkoey/nimbus): The iOS framework that grows only as fast as its documentation
 * [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed
+* [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
 * [franglais125/no-title-bar](https://github.com/franglais125/no-title-bar): Integrates maximized windows with the top panel
@@ -4123,6 +4131,7 @@
 * [pdf-rs/pdf](https://github.com/pdf-rs/pdf): Rust library to read, manipulate and write PDF files.
 * [johnlinp/pdf-to-markdown](https://github.com/johnlinp/pdf-to-markdown): Convert PDF files into markdown files
 * [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown): A PDF to Markdown converter
+* [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT): PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 * [metachris/pdfx](https://github.com/metachris/pdfx): Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 * [HirokiUmatani/PEAR-ZoomingView-iOS](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS): None
 * [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
@@ -4260,6 +4269,7 @@
 * [connervieira/Predator](https://github.com/connervieira/Predator): A multipurpose computer vision system focused on offline, privacy focused license plate recognition
 * [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to orchestrate and observe your data pipelines
 * [kean/Preheat](https://github.com/kean/Preheat): Automates prefetching of content in UITableView and UICollectionView
+* [IcaliaLabs/Presentr](https://github.com/IcaliaLabs/Presentr): Swift wrapper for custom ViewController presentations on iOS
 * [RokuRoad/prettier-plugin](https://github.com/RokuRoad/prettier-plugin): Prettier plugin for BrightScript
 * [Eyevinn/preview-hls-service](https://github.com/Eyevinn/preview-hls-service): Service to generate preview assets from HLS
 * [Ramotion/preview-transition](https://github.com/Ramotion/preview-transition): :octocat: PreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library made by @Ramotion
@@ -4423,6 +4433,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4910,6 +4921,7 @@
 * [reportmill/SnapKit](https://github.com/reportmill/SnapKit): A Java UI toolkit
 * [parski/SnapshotTest](https://github.com/parski/SnapshotTest): Snapshot testing tool for iOS and tvOS
 * [snickers/snickers](https://github.com/snickers/snickers): :chocolate_bar: An open source alternative to the video cloud encoding services.
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Application to comfortably monitor your Internet traffic
 * [gurayyarar/SnipCommand](https://github.com/gurayyarar/SnipCommand): A free and open source command snippets manager for organize and copy fast.
 * [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja): Code snippets manager for developers. PWA. 
 * [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore): :tada: A snippet management app for developers :rocket:
@@ -5938,6 +5950,7 @@
 * [QuickBirdEng/XCoordinator](https://github.com/QuickBirdEng/XCoordinator): 🎌 Powerful navigation library for iOS based on the coordinator pattern
 * [google/xctestrunner](https://github.com/google/xctestrunner): A executable binary to run prebuilt iOS tests on iOS simulator/real device.
 * [facebookarchive/xctool](https://github.com/facebookarchive/xctool): An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
+* [p2rkw/xf86-input-mtrack](https://github.com/p2rkw/xf86-input-mtrack): Xorg Multitouch Trackpad Driver
 * [JohnSundell/Xgen](https://github.com/JohnSundell/Xgen): A Swift package for generating Xcode workspaces & playgrounds
 * [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic
 * [JackTeam/XHLoadingNavigationItemTitleView](https://github.com/JackTeam/XHLoadingNavigationItemTitleView): XHLoadingNavigationItemTitleView is show title conver to method swizzling display loading HUD.
