@@ -423,6 +423,7 @@
 * [syedhali/AudioStreamer](https://github.com/syedhali/AudioStreamer): A Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine
 * [dimitris-c/AudioStreaming](https://github.com/dimitris-c/AudioStreaming): An AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
 * [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText): Transcribe and translate audio to text using Whisper and DeepL.
+* [saki4510t/AudioVideoRecordingSample](https://github.com/saki4510t/AudioVideoRecordingSample): Simultaneous audio and video recording sample using MediaCodec/MediaMuxer
 * [facebookarchive/augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control): Augmented Traffic Control: A tool to simulate network conditions
 * [simon04/aur-out-of-date](https://github.com/simon04/aur-out-of-date): Determines out-of-date AUR packages w.r.t. upstream version
 * [erikdubois/Aureola](https://github.com/erikdubois/Aureola): A conky collection of great conky's following the lua syntax
@@ -1023,7 +1024,7 @@
 * [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life): Bringing Old Photo Back to Life (CVPR 2020 oral)
 * [britecharts/britecharts](https://github.com/britecharts/britecharts): Composable Charting Library based on reusable D3.js components.
 * [22bulbs/brom](https://github.com/22bulbs/brom): Highly configurable, local auditing of HTTP transactions
-* [txthinking/brook](https://github.com/txthinking/brook): A cross-platform network tool. 一个跨平台网络工具.
+* [txthinking/brook](https://github.com/txthinking/brook): A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 * [apivideo/browserLiveStream](https://github.com/apivideo/browserLiveStream): Use webcam, browser and Node to stream live video. From api.video (https://api.video)
 * [sjbarag/brs](https://github.com/sjbarag/brs): An interpreter for the BrightScript language that runs on non-Roku platforms.
 * [sjbarag/brs-testbed](https://github.com/sjbarag/brs-testbed): A simple, buildable Roku channel that executes arbitrary BrightScript files.
@@ -1798,6 +1799,7 @@
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
+* [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
 * [marcosgriselli/EasyTransitions](https://github.com/marcosgriselli/EasyTransitions): A simple way to create custom interactive UIViewController transitions
 * [gdavila/easyVmaf](https://github.com/gdavila/easyVmaf): Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically
 * [Eyevinn/easyvmaf_s3](https://github.com/Eyevinn/easyvmaf_s3): A modification of easyVmaf to run on files from an S3-bucket
@@ -5391,7 +5393,7 @@
 * [Eyevinn/toolbox](https://github.com/Eyevinn/toolbox): A set of Docker containers with Streaming tools
 * [vapor/toolbox](https://github.com/vapor/toolbox): Simplifies common command line tasks when using Vapor
 * [adamlatchem/toolchest](https://github.com/adamlatchem/toolchest): Useful Tools
-* [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+* [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 * [actions/toolkit](https://github.com/actions/toolkit): The GitHub ToolKit for developing GitHub Actions.
 * [app-developers/top](https://github.com/app-developers/top): Top App Developers - September 2022
 * [fflewddur/tophat](https://github.com/fflewddur/tophat): View CPU, memory, disk, and network activity in the GNOME top bar.
@@ -5770,6 +5772,7 @@
 * [bbayles/vod_metadata](https://github.com/bbayles/vod_metadata): CableLabs VOD Metadata 1.1 Generator
 * [zsiec/vodmodule-stats](https://github.com/zsiec/vodmodule-stats): None
 * [Shishkebaboo/VodRecovery](https://github.com/Shishkebaboo/VodRecovery): The purpose of this script is to obtain videos or clips that are either marked as "sub-only" or have been deleted on Twitch.
+* [w-okada/voice-changer](https://github.com/w-okada/voice-changer): リアルタイムボイスチェンジャー Realtime Voice Changer
 * [abinashmeher999/voice-data-extract](https://github.com/abinashmeher999/voice-data-extract): A command line interface to combine text information from subtitles with voice data in the video. Provides a convenient way to generate training data for speech-recognition purposes.
 * [voila-dashboards/voila](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
 * [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen): :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
