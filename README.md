@@ -785,7 +785,7 @@
 * [hsavit1/Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education): :fire: Learn some Swift
 * [uraimo/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds): A List of Awesome Swift Playgrounds
 * [chinsyo/awesome-swiftui](https://github.com/chinsyo/awesome-swiftui): A curated list of awesome SwiftUI tutorials, libraries, videos and articles.
-* [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources.
+* [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open-source sysadmin resources.
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin): A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design): A curated list of awesome System Design (A.K.A. Distributed Systems) resources. 
 * [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -3192,7 +3192,7 @@
 * [ChangbaDevs/KTVVideoProcess](https://github.com/ChangbaDevs/KTVVideoProcess): A High-Performance video effects processing framework.
 * [mbogus/kube-amqp-autoscale](https://github.com/mbogus/kube-amqp-autoscale): Dynamically scale kubernetes resources using the length of an AMQP queue (number of messages available for retrieval from the queue) to determine the load
 * [kubernetes-retired/kube-aws](https://github.com/kubernetes-retired/kube-aws): [EOL] A command-line tool to declaratively manage Kubernetes clusters on AWS
-* [kubernetes-sigs/kube-batch](https://github.com/kubernetes-sigs/kube-batch): A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
+* [kubernetes-retired/kube-batch](https://github.com/kubernetes-retired/kube-batch): A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
 * [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder): Easy to use Kubernetes port forwarding manager
 * [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view): Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 * [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes
@@ -4673,7 +4673,7 @@
 * [CCecilia/rusty-hls](https://github.com/CCecilia/rusty-hls): HLS utility written in rust
 * [kevincox/rustymedia](https://github.com/kevincox/rustymedia): A Transcoding DLNA Server
 * [canalplus/rx-player](https://github.com/canalplus/rx-player): DASH/Smooth HTML5 Video Player
-* [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
+* [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 * [microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg): 🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片，抖音首页，视频播放器及支持 OpenSSL https 等主流特色功能
 * [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp):  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
