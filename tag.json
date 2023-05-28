@@ -10040,6 +10040,9 @@
     "jprjr/multistreamer": [
         "Other"
     ],
+    "jqlang/jq": [
+        "Other"
+    ],
     "jronallo/abrizer": [
         "Other"
     ],
@@ -15495,9 +15498,6 @@
         "Other"
     ],
     "steckdenis/threadripper-monitor": [
-        "Other"
-    ],
-    "stedolan/jq": [
         "Other"
     ],
     "stefan-jansen/machine-learning-for-trading": [

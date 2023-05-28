@@ -3061,7 +3061,7 @@
 * [nareix/joy5](https://github.com/nareix/joy5): AV toolkit
 * [jplayer/jPlayer](https://github.com/jplayer/jPlayer): jPlayer : HTML5 Audio & Video for jQuery
 * [azimjohn/jprq](https://github.com/azimjohn/jprq): join public router. quickly.
-* [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
+* [jqlang/jq](https://github.com/jqlang/jq): Command-line JSON processor
 * [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin): jq zsh plugin
 * [noahgorstein/jqp](https://github.com/noahgorstein/jqp): A TUI playground to experiment with jq
 * [jcsalterego/jqq](https://github.com/jcsalterego/jqq): jq Querier: an interactive wrapper around jq
