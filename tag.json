@@ -6842,9 +6842,6 @@
     "deezer/spleeter": [
         "Other"
     ],
-    "deforum-art/sd-webui-text2video": [
-        "Other"
-    ],
     "dehatanes/super-useful-notion-cli": [
         "Other"
     ],
@@ -10178,6 +10175,9 @@
     "k8sgpt-ai/k8sgpt": [
         "Other"
     ],
+    "kabachuha/sd-webui-text2video": [
+        "Other"
+    ],
     "kaedea/notion-down": [
         "Other"
     ],
@@ -11247,6 +11247,9 @@
         "Other"
     ],
     "lucide-icons/lucide": [
+        "Other"
+    ],
+    "lucidrains/soundstorm-pytorch": [
         "Other"
     ],
     "luckymarmot/API-Flow": [
