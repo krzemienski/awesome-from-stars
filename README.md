@@ -1799,7 +1799,7 @@
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
-* [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
+* [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 * [marcosgriselli/EasyTransitions](https://github.com/marcosgriselli/EasyTransitions): A simple way to create custom interactive UIViewController transitions
 * [gdavila/easyVmaf](https://github.com/gdavila/easyVmaf): Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically
 * [Eyevinn/easyvmaf_s3](https://github.com/Eyevinn/easyvmaf_s3): A modification of easyVmaf to run on files from an S3-bucket
