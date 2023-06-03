@@ -1,4 +1,7 @@
 {
+    "0oljyo0/EZRclone": [
+        "Other"
+    ],
     "0ry0n/Resource_Monitor": [
         "Other"
     ],
@@ -3857,6 +3860,9 @@
     "ZeroX-DG/SnippetStore": [
         "Other"
     ],
+    "ZetaoYang/RcloneBrowser": [
+        "Other"
+    ],
     "Zettlr/Zettlr": [
         "Other"
     ],
@@ -3942,6 +3948,9 @@
         "Other"
     ],
     "academic/awesome-datascience": [
+        "Other"
+    ],
+    "acamposxp/RcloneLab": [
         "Other"
     ],
     "acaudwell/Gource": [
@@ -7064,6 +7073,9 @@
     "dimitris-c/AudioStreaming": [
         "Other"
     ],
+    "dimitrov-adrian/RcloneTray": [
+        "Other"
+    ],
     "dineshabe/RemoteMedia": [
         "Other"
     ],
@@ -9159,6 +9171,9 @@
         "Other"
     ],
     "hwayne/awesome-cold-showers": [
+        "Other"
+    ],
+    "hwittenborn/celeste": [
         "Other"
     ],
     "hybrik/hybrik-samples": [
@@ -14220,6 +14235,9 @@
         "Other"
     ],
     "restyler/scrapeninja-api-php-client": [
+        "Other"
+    ],
+    "retifrav/rclone-rc-web-gui": [
         "Other"
     ],
     "rfmoz/keepconf": [

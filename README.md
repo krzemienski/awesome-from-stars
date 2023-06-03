@@ -1109,6 +1109,7 @@
 * [jmdacruz/celery-k8s-operator](https://github.com/jmdacruz/celery-k8s-operator): Kubernetes operator for deploying Python Celery applications
 * [bstiel/celery-kubernetes](https://github.com/bstiel/celery-kubernetes): None
 * [matiaslindgren/celery-kubernetes-example](https://github.com/matiaslindgren/celery-kubernetes-example): Small Flask app with scalable, asynchronous backend workers deployed on Kubernetes.
+* [hwittenborn/celeste](https://github.com/hwittenborn/celeste): GUI file synchronization client that can sync with any cloud provider
 * [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro): 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 * [certbot/certbot](https://github.com/certbot/certbot): Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 * [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course): Certified Kubernetes Administrator - CKA Course
@@ -1986,6 +1987,7 @@
 * [Eyevinn/eye-recommender](https://github.com/Eyevinn/eye-recommender): A simple similarity based recommendation engine and NPM module built on top of Node.js and Redis.
 * [Eyevinn/eyevinn-player](https://github.com/Eyevinn/eyevinn-player): Throttled video player to test video streams
 * [syedhali/EZAudio](https://github.com/syedhali/EZAudio): An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
+* [0oljyo0/EZRclone](https://github.com/0oljyo0/EZRclone): A PyQt-based rclone gui
 * [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 * [strongself/fabricio](https://github.com/strongself/fabricio): Fetch Fabric.io statistics like never before
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
@@ -4464,12 +4466,16 @@
 * [Lakr233/Rayon](https://github.com/Lakr233/Rayon): yet another SSH machine manager
 * [rolandguelle/razer-blade-stealth-linux](https://github.com/rolandguelle/razer-blade-stealth-linux): Install and run Linux on a Razer Blade Stealth (late 2016) and Razer Core.
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+* [retifrav/rclone-rc-web-gui](https://github.com/retifrav/rclone-rc-web-gui): Web GUI for rclone rc
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
 * [vncloudsco/rclonebackup](https://github.com/vncloudsco/rclonebackup): Script Auto Backup To Cloud Using Rclone
+* [ZetaoYang/RcloneBrowser](https://github.com/ZetaoYang/RcloneBrowser): Mirror | Simple cross platform GUI for rclone 
 * [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser): Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 * [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser): Simple cross platform GUI for rclone
 * [romancin/rclonebrowser-docker](https://github.com/romancin/rclonebrowser-docker): A repository for creating a docker container including RClone Browser with GUI interface.
+* [acamposxp/RcloneLab](https://github.com/acamposxp/RcloneLab): rclone GUI, qBittorrent and rTorrent on Google Colaboratory
 * [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2): A Bidirectional Cloud Sync Utility using rclone
+* [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray): Simple cross-platform GUI for Rclone
 * [rdesktop/rdesktop](https://github.com/rdesktop/rdesktop): 🚨 rdesktop is in need of a new maintainter. Please see the home page for more details. 🚨
 * [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup): Reverse differential backup tool, over a network or locally.
 * [asynchrony/Re-Lax](https://github.com/asynchrony/Re-Lax): Recreating Parallax on tvOS
