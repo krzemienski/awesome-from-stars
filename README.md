@@ -1805,7 +1805,7 @@
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
-* [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+* [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 * [marcosgriselli/EasyTransitions](https://github.com/marcosgriselli/EasyTransitions): A simple way to create custom interactive UIViewController transitions
 * [gdavila/easyVmaf](https://github.com/gdavila/easyVmaf): Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically
 * [Eyevinn/easyvmaf_s3](https://github.com/Eyevinn/easyvmaf_s3): A modification of easyVmaf to run on files from an S3-bucket
@@ -5557,6 +5557,7 @@
 * [thomseddon/udp-replicator](https://github.com/thomseddon/udp-replicator): A tiny UDP proxy that can replicate traffic to one or more endpoints.
 * [Eyevinn/udpproxy](https://github.com/Eyevinn/udpproxy): Udp Proxy util for proxy udp unicast to multicast and vice versa.
 * [cloudec/udpproxy](https://github.com/cloudec/udpproxy): Udp Proxy util for proxy udp unicast to multicast and vice versa.
+* [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool): UEFI firmware image viewer and editor
 * [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB): Create an ultimate multiboot USB flash drive with Grub2 bootloader
 * [jonathanpenn/ui-auto-monkey](https://github.com/jonathanpenn/ui-auto-monkey): UI AutoMonkey is a simple stress testing script for iOS applications that runs in UI Automation and Instruments. Grass fed. Free range.
 * [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker): A web interface for Docker, formerly known as DockerUI. This repo is not maintained
