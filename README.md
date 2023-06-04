@@ -918,6 +918,7 @@
 * [avleen/bashttpd](https://github.com/avleen/bashttpd): A web server written in bash
 * [ZaifSenpai/Batch-Py-Remux](https://github.com/ZaifSenpai/Batch-Py-Remux): Convert mkv video to hevc (h.265)
 * [Azure-Samples/batch-python-ffmpeg-tutorial](https://github.com/Azure-Samples/batch-python-ffmpeg-tutorial): A Python application that uses Batch to process media files in parallel with the ffmpeg open-source tool.
+* [Tohrusky/batch-video-encoder](https://github.com/Tohrusky/batch-video-encoder): An interactive Batch Video Encoder using FFmpeg with Progress Restore.
 * [wieslawsoltes/BatchEncoder](https://github.com/wieslawsoltes/BatchEncoder): BatchEncoder is an audio files conversion software.
 * [five82/batchtranscode](https://github.com/five82/batchtranscode): None
 * [batnoter/batnoter](https://github.com/batnoter/batnoter): An open source, markdown-based, self-hosted note taking webapp.
@@ -1236,6 +1237,7 @@
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [brandonsaldan/codex](https://github.com/brandonsaldan/codex): A minimal genetic data explorer that processes all genetic information locally.
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
+* [rokibulislaam/colab-ffmpeg-cuda](https://github.com/rokibulislaam/colab-ffmpeg-cuda): FFmpeg build with CUDA support for Linux (especially for  Google Colab)
 * [abiosoft/colima](https://github.com/abiosoft/colima): Container runtimes on macOS (and Linux) with minimal setup
 * [SoySauceLab/CollectionKit](https://github.com/SoySauceLab/CollectionKit): Reimagining UICollectionView
 * [tumblr/collins](https://github.com/tumblr/collins): groovy kind of love
@@ -1618,6 +1620,8 @@
 * [alfg/docker-ffmpeg](https://github.com/alfg/docker-ffmpeg): A Dockerfile FFmpeg from source. Built on Alpine Linux.
 * [linuxserver/docker-ffmpeg](https://github.com/linuxserver/docker-ffmpeg): None
 * [singhkays/docker-ffmpeg-av1-libaom](https://github.com/singhkays/docker-ffmpeg-av1-libaom): Weekly build of docker image with latest libaom AV1 + FFmpeg + x265 + VP9 +x264 + libvmaf 
+* [outlyer-net/docker-ffmpeg-nonfree](https://github.com/outlyer-net/docker-ffmpeg-nonfree): A dockerized FFmpeg compiled with non-free codecs in.
+* [Allan-Nava/Docker-FFmpeg-Nvenc](https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc): Base Docker image with ffmpeg nvenc
 * [nuxeo-sandbox/docker-ffmpeg-nvidia](https://github.com/nuxeo-sandbox/docker-ffmpeg-nvidia): docker-ffmpeg-nvidia
 * [rupakg/docker-ffmpeg-thumb](https://github.com/rupakg/docker-ffmpeg-thumb): Docker image for creating thumbnail images from a video file.
 * [leandromoreira/docker-ffmpeg-vmaf](https://github.com/leandromoreira/docker-ffmpeg-vmaf): Docker FFmpeg VMAF usage example / tips / workflow
@@ -1885,6 +1889,7 @@
 * [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI): EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 * [kennell/encodeplz](https://github.com/kennell/encodeplz): video transcoding server with a HTTP-based RESTful API
 * [ystv/EncodeSrv](https://github.com/ystv/EncodeSrv): A database-driven ffmpeg based batch video transcoder, used to automate YSTV video distribution
+* [Xaymar/encoding-samples](https://github.com/Xaymar/encoding-samples): An attempt at an automated tool for finding the best possible media quality an encoder and codec can give.
 * [AcademySoftwareFoundation/EncodingGuidelines](https://github.com/AcademySoftwareFoundation/EncodingGuidelines): This site provides guidelines for encoding frames to movie files for review.
 * [svt/encore](https://github.com/svt/encore): Transcode media files in an epic manner
 * [w3c/encrypted-media](https://github.com/w3c/encrypted-media): Encrypted Media Extensions
@@ -2022,6 +2027,7 @@
 * [dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client): FastAPI client generator
 * [fastai/fastbook](https://github.com/fastai/fastbook): The fastai book, published as Jupyter Notebooks
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
+* [BERNARDO31P/FastDownloader](https://github.com/BERNARDO31P/FastDownloader): A fast video/audio downloader in electron.js
 * [kibotu/FastExoPlayerSeeker](https://github.com/kibotu/FastExoPlayerSeeker): Fast Seek for ExoPlayer
 * [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix): FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP/AVIF creation, and more!
 * [alibaba/fastjson](https://github.com/alibaba/fastjson): FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
@@ -2122,6 +2128,7 @@
 * [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize): Audio Normalization for Python/ffmpeg
 * [divyam234/ffmpeg-NVEnc](https://github.com/divyam234/ffmpeg-NVEnc): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 * [lutris/ffmpeg-nvenc](https://github.com/lutris/ffmpeg-nvenc): Build script for FFmpeg with nvenc support
+* [rustmn/FFMPEG-NVENC-Docker-build](https://github.com/rustmn/FFMPEG-NVENC-Docker-build): Dockerfile & installation instructions for FFMPEG with NVENC. Supported encoders: av1_nvenc, hevc_nvenc, h264_nvenc.
 * [SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder](https://github.com/SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder): bash script which will detect video new file in folder  and transcode it to adaprive bitrate
 * [xiguaxigua/ffmpeg-online](https://github.com/xiguaxigua/ffmpeg-online): An online version of ffmpeg built on ffmpeg.wasm
 * [VCDP/FFmpeg-patch](https://github.com/VCDP/FFmpeg-patch): This repository contains a collection of FFmpeg* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg* framework.
@@ -2155,6 +2162,7 @@
 * [Manevolent/ffmpeg4j](https://github.com/Manevolent/ffmpeg4j): A Java OOP FFmpeg wrapper around the JavaCPP FFmpeg native library bindings
 * [nextbreakpoint/ffmpeg4java](https://github.com/nextbreakpoint/ffmpeg4java): FFmpeg4Java provides a JNI wrapper of FFmpeg library
 * [IORoot/ffmpeg__bash-scripts](https://github.com/IORoot/ffmpeg__bash-scripts): 🎞 FFMPEG Utility scripts and JSON scripter. 💡Run multi-stage ffmpeg workflows using a JSON config.
+* [eibol/ffmpeg_batch](https://github.com/eibol/ffmpeg_batch): FFmpeg Batch AV Converter
 * [chinahbcq/ffmpeg_hw_decode](https://github.com/chinahbcq/ffmpeg_hw_decode): video stream hardware decoding and color space conversion by ffmpeg and cuda. thread safe.
 * [Brainiarc7/ffmpeg_libnvenc](https://github.com/Brainiarc7/ffmpeg_libnvenc): This is a build of FFmpeg that supports NVIDIA's NVENC SIP block for H.264 H/W accelerated video encodes.
 * [mehmetgoren/ffmpeg_service](https://github.com/mehmetgoren/ffmpeg_service): Feniks iNVR FFmpeg Service
@@ -3972,7 +3980,9 @@
 * [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime): NVIDIA container runtime
 * [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 * [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer): NVIDIA driver installer
+* [Snawoot/nvidia-patch](https://github.com/Snawoot/nvidia-patch):   This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 * [wildtruc/nvidia-prime-select](https://github.com/wildtruc/nvidia-prime-select): This a fork of FedoraPrime enhanced for all linux distributions
+* [rust-av/nvidia-video-codec-rs](https://github.com/rust-av/nvidia-video-codec-rs): Bindings for the NVIDIA Video Codec SDK
 * [Scotchman0/NVIDIA_Drivers](https://github.com/Scotchman0/NVIDIA_Drivers): A simple bash script for automatic install of the proper nvidia drivers on Debian/ubuntu
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA 
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
@@ -4476,7 +4486,7 @@
 * [retifrav/rclone-rc-web-gui](https://github.com/retifrav/rclone-rc-web-gui): Web GUI for rclone rc
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
 * [vncloudsco/rclonebackup](https://github.com/vncloudsco/rclonebackup): Script Auto Backup To Cloud Using Rclone
-* [ZetaoYang/RcloneBrowser](https://github.com/ZetaoYang/RcloneBrowser): Mirror | Simple cross platform GUI for rclone 
+* [ZetaoYang/RcloneBrowser](https://github.com/ZetaoYang/RcloneBrowser): Simple cross platform GUI for rclone | Mirror of https://github.com/JanHellwig/RcloneBrowser
 * [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser): Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 * [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser): Simple cross platform GUI for rclone
 * [romancin/rclonebrowser-docker](https://github.com/romancin/rclonebrowser-docker): A repository for creating a docker container including RClone Browser with GUI interface.
@@ -4817,6 +4827,7 @@
 * [lafleurdeboum/servicewall](https://github.com/lafleurdeboum/servicewall): moved to https://git.relatif.moi/lafleur/servicewall
 * [coreybobco/setlistspy-api](https://github.com/coreybobco/setlistspy-api): None
 * [ubuntu-flutter-community/settings](https://github.com/ubuntu-flutter-community/settings): :penguin: :orange_heart: :blue_heart: An Ubuntu Desktop system settings app made with Flutter.
+* [FedericoCarboni/setup-ffmpeg](https://github.com/FedericoCarboni/setup-ffmpeg): Setup FFmpeg in GitHub Actions
 * [sauce-archives/setups](https://github.com/sauce-archives/setups): None
 * [pypa/setuptools](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
 * [asottile/setuptools-golang](https://github.com/asottile/setuptools-golang): A setuptools extension for building cpython extensions written in golang.
@@ -5948,6 +5959,7 @@
 * [ohoachuck/wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader): WWDC 2019 video downloader script written in Swift - no external dependency.
 * [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh): READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh 
 * [videolan/x265](https://github.com/videolan/x265): https://bitbucket.org/multicoreware/x265/ git mirror
+* [staxrip/x265-encoding-tutorial](https://github.com/staxrip/x265-encoding-tutorial): Beginner friendly guide for StaxRip, the x265 video encoder and H.265 video codec.
 * [futzu/x9k3](https://github.com/futzu/x9k3): HLS and SCTE-35   x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
 * [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)

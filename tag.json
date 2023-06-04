@@ -245,6 +245,9 @@
     "AllToMP3/alltomp3-app": [
         "Other"
     ],
+    "Allan-Nava/Docker-FFmpeg-Nvenc": [
+        "Other"
+    ],
     "Alluxio/alluxio": [
         "Other"
     ],
@@ -396,6 +399,9 @@
         "Other"
     ],
     "Azure/azure-quickstart-templates": [
+        "Other"
+    ],
+    "BERNARDO31P/FastDownloader": [
         "Other"
     ],
     "Bash-it/bash-it": [
@@ -1626,6 +1632,9 @@
         "Other"
     ],
     "Fausto-Korpsvart/Material-GTK-Themes": [
+        "Other"
+    ],
+    "FedericoCarboni/setup-ffmpeg": [
         "Other"
     ],
     "Figma-Linux/figma-linux": [
@@ -3350,6 +3359,9 @@
     "SnapKit/SnapKit": [
         "Other"
     ],
+    "Snawoot/nvidia-patch": [
+        "Other"
+    ],
     "SofianeHamlaoui/ArchI0": [
         "Other"
     ],
@@ -3605,6 +3617,9 @@
     "Tjatse/pm2-gui": [
         "Other"
     ],
+    "Tohrusky/batch-video-encoder": [
+        "Other"
+    ],
     "Toinane/colorpicker": [
         "Other"
     ],
@@ -3795,6 +3810,9 @@
         "Other"
     ],
     "Xaero252/unraid-plex-nvdec": [
+        "Other"
+    ],
+    "Xaymar/encoding-samples": [
         "Other"
     ],
     "Xheldon/NotionEditor": [
@@ -7506,6 +7524,9 @@
         "Other"
     ],
     "ehrishirajsharma/SwiftnessX": [
+        "Other"
+    ],
+    "eibol/ffmpeg_batch": [
         "Other"
     ],
     "eisneim/cytron_tts_gui": [
@@ -13253,6 +13274,9 @@
     "outline/outline": [
         "Other"
     ],
+    "outlyer-net/docker-ffmpeg-nonfree": [
+        "Other"
+    ],
     "ovity/octotree": [
         "Other"
     ],
@@ -14348,6 +14372,9 @@
     "roidrage/s3itch": [
         "Other"
     ],
+    "rokibulislaam/colab-ffmpeg-cuda": [
+        "Other"
+    ],
     "rokucommunity/brighterscript-formatter": [
         "Other"
     ],
@@ -14513,6 +14540,9 @@
     "rust-av/ffms2-rs": [
         "Other"
     ],
+    "rust-av/nvidia-video-codec-rs": [
+        "Other"
+    ],
     "rust-embedded/awesome-embedded-rust": [
         "Other"
     ],
@@ -14535,6 +14565,9 @@
         "Other"
     ],
     "rustdesk/rustdesk": [
+        "Other"
+    ],
+    "rustmn/FFMPEG-NVENC-Docker-build": [
         "Other"
     ],
     "ruzickap/k8s-harbor": [
@@ -15537,6 +15570,9 @@
         "Other"
     ],
     "statping/statping": [
+        "Other"
+    ],
+    "staxrip/x265-encoding-tutorial": [
         "Other"
     ],
     "ste82/ChromeVideoCapture": [
