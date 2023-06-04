@@ -4486,7 +4486,7 @@
 * [retifrav/rclone-rc-web-gui](https://github.com/retifrav/rclone-rc-web-gui): Web GUI for rclone rc
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
 * [vncloudsco/rclonebackup](https://github.com/vncloudsco/rclonebackup): Script Auto Backup To Cloud Using Rclone
-* [ZetaoYang/RcloneBrowser](https://github.com/ZetaoYang/RcloneBrowser): Simple cross platform GUI for rclone | Mirror of https://github.com/JanHellwig/RcloneBrowser
+* [ZetaoYang/RcloneBrowser](https://github.com/ZetaoYang/RcloneBrowser): Simple cross platform GUI for rclone | Mirror of https://github.com/JanHellwig/RcloneBrowser and https://github.com/kapitainsky/RcloneBrowser
 * [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser): Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 * [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser): Simple cross platform GUI for rclone
 * [romancin/rclonebrowser-docker](https://github.com/romancin/rclonebrowser-docker): A repository for creating a docker container including RClone Browser with GUI interface.
