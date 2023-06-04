@@ -2483,6 +2483,7 @@
 * [GNOME/gnome-applets](https://github.com/GNOME/gnome-applets): Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-applets
 * [yomun/gnome-backup-tools](https://github.com/yomun/gnome-backup-tools): GNOME Shell Extensions - Backup Tools / 备份工具
 * [arunk140/gnome-command-menu](https://github.com/arunk140/gnome-command-menu): A GNOME Shell Extension to manage shortcuts in Top Bar (Inspired by Shuttle and SSHMenu)
+* [phavekes/gnome-extension-all-ip-addresses](https://github.com/phavekes/gnome-extension-all-ip-addresses): This is the code behind the GNOME Shell Extension called ALL IP Addresses, available in the GNOME Shell Extension store.
 * [CharlieQLe/gnome-extension-gtk3-theme-switcher](https://github.com/CharlieQLe/gnome-extension-gtk3-theme-switcher): None
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [hardpixel/gnome-hud](https://github.com/hardpixel/gnome-hud): Unity like HUD menu for the GNOME Desktop Environment using rofi menu.
@@ -2496,6 +2497,7 @@
 * [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm): Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively
 * [gpouilloux/gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker): An extension for managing docker containers
 * [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon): Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
+* [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
 * [kaiseracm/gnome-shell-extension-maximize-to-empty-workspace](https://github.com/kaiseracm/gnome-shell-extension-maximize-to-empty-workspace): New and maximized windows will be moved to empty workspaces. Supports multiple monitors.
 * [germanztz/gnome-shell-extension-rclone-manager](https://github.com/germanztz/gnome-shell-extension-rclone-manager): Is like Dropbox sync client but for more than 30 services, adds an indicator to the top panel so you can manage the rclone profiles configured in your system, perform operations such as mount as remote, watch for file modifications, sync with remote storage, navigate it's main folder. Also, it shows the status of each profile so you can supervise the operations, and provides an easy access log of events. Backup and restore the rclone configuration file, so you won't have to configure all your devices one by one
 * [mrEDitor/gnome-shell-extension-scroll-panel](https://github.com/mrEDitor/gnome-shell-extension-scroll-panel): Gnome Shell extension that allows to switch between workspaces and applications by scrolling mouse wheel above the top panel.
@@ -2952,6 +2954,7 @@
 * [BohdanOrlov/iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap): Roadmap to becoming an iOS developer in 2018.
 * [LeoMobileDeveloper/ios-developer-tools](https://github.com/LeoMobileDeveloper/ios-developer-tools): Tools that every iOS developer should know.
 * [iGhibli/iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport): This repository holds the device support files for the iOS, and I will update it regularly.
+* [ios-driver/ios-driver](https://github.com/ios-driver/ios-driver): Selenium server to test native, hybrid and web apps on IOS. Join us on IRC #ios-driver on freenode
 * [jverkoey/iOS-Framework](https://github.com/jverkoey/iOS-Framework): How to create, develop, and distribute iOS Static Frameworks quickly and efficiently
 * [thoughtbot/ios-framework-template](https://github.com/thoughtbot/ios-framework-template): Template iOS framework project to be used with Cookiecutter.
 * [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices): Good ideas for iOS development, by Futurice developers.
@@ -3157,6 +3160,7 @@
 * [Showmax/kinetics-downloader](https://github.com/Showmax/kinetics-downloader): Download DeepMind's Kinetics dataset.
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [Kinto/kinto](https://github.com/Kinto/kinto): A generic JSON document store with sharing and synchronisation capabilities.
+* [JonathanBeck/kio_afc](https://github.com/JonathanBeck/kio_afc): a KIOSlave implementation wrapping the AFC protocol
 * [gitpitch/kitchen-sink](https://github.com/gitpitch/kitchen-sink): GitPitch Live Slideshow Presentation Feature Demo 
 * [docker/kitematic](https://github.com/docker/kitematic): Visual Docker Container Management on Mac & Windows
 * [noppefoxwolf/Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi): Overlay alpha channel video animation player view using Metal.
@@ -3761,6 +3765,7 @@
 * [powermobileweb/NewsApp](https://github.com/powermobileweb/NewsApp): NewsApp
 * [AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine): Used: SwiftUI and Combine
 * [codelucas/newspaper](https://github.com/codelucas/newspaper): News, full-text, and article metadata extraction in Python 3. Advanced docs:
+* [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon): The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 * [inlife/nexrender](https://github.com/inlife/nexrender): 📹  Data-driven render automation for After Effects
 * [BrianRuizy/next-notion-portfolio](https://github.com/BrianRuizy/next-notion-portfolio): 📙 NEXT.js + Notion driven portfolio template. Seamlessly add content with the awesome UX of Notion. Showcase your work through blog format.
 * [christophetd/nextcloud-docker-compose](https://github.com/christophetd/nextcloud-docker-compose): :cloud: Spin up a Nextcloud instance with automatied backups and SSL certificate issuance.
@@ -4095,6 +4100,7 @@
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
 * [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine): OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 * [AirenSoft/OvenPlayer](https://github.com/AirenSoft/OvenPlayer): OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
+* [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [owncast/owncast](https://github.com/owncast/owncast): Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 * [maudy2u/owncloud-letsencrypt-docker-compose](https://github.com/maudy2u/owncloud-letsencrypt-docker-compose): A docker-compose.yml and supporting files making using of letsencrypt and enabling Big File Uploads support
 * [rorydavidson/owncloud-nginx-letsencrypt-docker](https://github.com/rorydavidson/owncloud-nginx-letsencrypt-docker): Docker compose and information to run ownCloud with an Nginx proxy and LetsEncrypt

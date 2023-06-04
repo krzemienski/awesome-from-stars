@@ -1706,6 +1706,9 @@
     "GSA/resources.data.gov": [
         "Other"
     ],
+    "GSConnect/gnome-shell-extension-gsconnect": [
+        "Other"
+    ],
     "Galeas/CocoaPodUI": [
         "Other"
     ],
@@ -2139,6 +2142,9 @@
         "Other"
     ],
     "JohnSundell/Xgen": [
+        "Other"
+    ],
+    "JonathanBeck/kio_afc": [
         "Other"
     ],
     "JoniVR/VerticalCardSwiper": [
@@ -9485,6 +9491,9 @@
     "ionic-team/ionic-framework": [
         "Other"
     ],
+    "ios-driver/ios-driver": [
+        "Other"
+    ],
     "ios-utils/XRouter": [
         "Other"
     ],
@@ -13445,6 +13454,9 @@
     "phaux/node-ffmpeg-stream": [
         "Other"
     ],
+    "phavekes/gnome-extension-all-ip-addresses": [
+        "Other"
+    ],
     "phil-opp/blog_os": [
         "Other"
     ],
@@ -14780,7 +14792,13 @@
     "sedwards2009/extraterm": [
         "Other"
     ],
+    "seemoo-lab/nexmon": [
+        "Other"
+    ],
     "seemoo-lab/opendrop": [
+        "Other"
+    ],
+    "seemoo-lab/owl": [
         "Other"
     ],
     "segment-boneyard/analytics-swift": [
