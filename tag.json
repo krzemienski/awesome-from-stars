@@ -1670,6 +1670,9 @@
     "Free-TV/IPTV": [
         "Other"
     ],
+    "FreeMasen/mdbook-presentation-preprocessor": [
+        "Other"
+    ],
     "Freelander/Android_Data": [
         "Other"
     ],
@@ -2022,6 +2025,9 @@
         "Other"
     ],
     "Jaredk3nt/laserwave": [
+        "Other"
+    ],
+    "Jayapraveen/Drm-Dash-stream-downloader": [
         "Other"
     ],
     "Jazqa/adwaita-tweaks": [
@@ -8636,7 +8642,16 @@
     "google/GTMAppAuth": [
         "Other"
     ],
+    "google/ai_video_dubbing": [
+        "Other"
+    ],
     "google/auto": [
+        "Other"
+    ],
+    "google/boringssl": [
+        "Other"
+    ],
+    "google/comprehensive-rust": [
         "Other"
     ],
     "google/cpix_cc": [
@@ -8676,6 +8691,9 @@
         "Other"
     ],
     "google/xctestrunner": [
+        "Other"
+    ],
+    "google/yapf": [
         "Other"
     ],
     "google/zx": [

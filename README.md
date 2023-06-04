@@ -165,6 +165,7 @@
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
 * [greenteabots/Ai-Soundcloudviewer-written-by-chatGPT](https://github.com/greenteabots/Ai-Soundcloudviewer-written-by-chatGPT): Soundcloud ViewBot written by ChatGPT
+* [google/ai_video_dubbing](https://github.com/google/ai_video_dubbing): None
 * [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
 * [terrycain/aioboto3](https://github.com/terrycain/aioboto3): Wrapper to use boto3 resources with the aiobotocore async backend
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
@@ -992,6 +993,7 @@
 * [kubernetes-retired/bootkube](https://github.com/kubernetes-retired/bootkube): This project now lives at https://github.com/kinvolk/bootkube
 * [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool for making tunnels to localhost
 * [philpax/borealis](https://github.com/philpax/borealis): Asus Aura Sync driver application for Linux
+* [google/boringssl](https://github.com/google/boringssl): Mirror of BoringSSL
 * [boto/boto3](https://github.com/boto/boto3): AWS SDK for Python
 * [bottlepy/bottle](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications.
 * [raisoblast/bottle-pgsql](https://github.com/raisoblast/bottle-pgsql): PostgreSQL Plugin for Bottle.py
@@ -1269,6 +1271,7 @@
 * [libresh/compose-owncloud](https://github.com/libresh/compose-owncloud): ownCloud docker-compose for libre.sh v1
 * [owncloud-docker/compose-playground](https://github.com/owncloud-docker/compose-playground): Docker Compose dev environment
 * [magicmark/composerize](https://github.com/magicmark/composerize): 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
+* [google/comprehensive-rust](https://github.com/google/comprehensive-rust): This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 * [dim-geo/compressibility](https://github.com/dim-geo/compressibility): vapoursynth compressibility function & vmaf comparison
 * [ossu/computer-science](https://github.com/ossu/computer-science): :mortar_board: Path to a free self-taught education in Computer Science!
 * [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
@@ -1771,6 +1774,7 @@
 * [ankur4u007/drift](https://github.com/ankur4u007/drift): Drift: A Websocket-Http Tunnel written in kotlin that lets you access any HTTP Api on servers deployed behind firewall(s)/Nat(s)/Proxy
 * [SquaredTiki/Dringend-Issues](https://github.com/SquaredTiki/Dringend-Issues): Public issue tracker for the Dringend app, an iPad dev environment
 * [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
+* [Jayapraveen/Drm-Dash-stream-downloader](https://github.com/Jayapraveen/Drm-Dash-stream-downloader): This script helps to download drm protected dash stream [if key is known] and output to a video mp4 file
 * [Axinom/drm-quick-start](https://github.com/Axinom/drm-quick-start): Quick start for Axinom DRM
 * [feedsbrain/drm-tools](https://github.com/feedsbrain/drm-tools): Tools for Widevine and Playready
 * [samrath/DRMKeyFetcher-Android](https://github.com/samrath/DRMKeyFetcher-Android): DRMKeyFetcher can be used to fetch the license keys for both DASH and HLS media files in android using Exoplayer library.
@@ -3529,6 +3533,7 @@
 * [minio/mc](https://github.com/minio/mc): Simple | Fast tool to manage MinIO clusters :cloud:
 * [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf): Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 * [Cobertos/md2notion](https://github.com/Cobertos/md2notion): A better Notion.so Markdown importer
+* [FreeMasen/mdbook-presentation-preprocessor](https://github.com/FreeMasen/mdbook-presentation-preprocessor): A preprocessor for utilizing an MDBook as slides for a presentation.
 * [ericlink/mdp](https://github.com/ericlink/mdp): markdown preview using marked, highlight.js, mermaid, node-emoji and live reload
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
 * [m-ab-s/media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite): This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
@@ -4455,7 +4460,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -5503,7 +5508,7 @@
 * [rokudev/tv-safe-zone-overlay](https://github.com/rokudev/tv-safe-zone-overlay): This brightscript file contains a function to overlay your current UI in your SceneGraph scene with a transparent safetyzone overlay
 * [kb-dk/tv-subtitle-extraction](https://github.com/kb-dk/tv-subtitle-extraction): System for extraction of subtitles from TV broadcasts.
 * [Eyevinn/tv.eyevinn.technology](https://github.com/Eyevinn/tv.eyevinn.technology): None
-* [dongaba/TVerRec](https://github.com/dongaba/TVerRec): TVerRecは、TVerの番組をダウンロード保存するためのダウンロードツールです。番組のジャンルや出演タレント、番組名などを指定して一括ダウンロードします。CMは入っていないため気に入った番組を配信終了後も残しておくことができます。1回起動すれば新しい番組が配信される度にダウンロードされます。
+* [dongaba/TVerRec](https://github.com/dongaba/TVerRec): TVerRecは、TVerの番組をダウンロード保存するためのダウンロード支援ツールです。番組のジャンルや出演タレント、番組名などを指定して一括ダウンロードする支援をします。CMは入っていないため気に入った番組を配信終了後も残しておくことができます。1回起動すれば新しい番組が配信される度にダウンロードされます。
 * [Saentist/tvheadend](https://github.com/Saentist/tvheadend): Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
 * [jinSasaki/TVKit](https://github.com/jinSasaki/TVKit): UI components for tvOS
 * [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
@@ -5535,7 +5540,7 @@
 * [ancalentari/twitch-stream-recorder](https://github.com/ancalentari/twitch-stream-recorder): Record twitch streams live!
 * [ilyalissoboi/twitch_downloader](https://github.com/ilyalissoboi/twitch_downloader): A universal twitch.tv VOD download script. Compatible with both old- and new-style VODs.
 * [FrozenIronSoftware/Twitched](https://github.com/FrozenIronSoftware/Twitched): Unofficial Twitch app for the Roku
-* [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink): Twitch Stream & Video & Clip Downloader.
+* [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink): Twitch Stream & Video & Clip Downloader/Recorder. The best GUI utility to download/record Broadcasts/VODs/Clips.
 * [Eyevinn/twitter-sentiment-analysis](https://github.com/Eyevinn/twitter-sentiment-analysis): None
 * [willemvermeer/typed-actors](https://github.com/willemvermeer/typed-actors): Example code of Typed Actors presentation including GitPitch slides
 * [typhoeus/typhoeus](https://github.com/typhoeus/typhoeus):  Typhoeus wraps libcurl in order to make fast and reliable requests.
@@ -5999,6 +6004,7 @@
 * [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht): A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 * [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server): Language Server for YAML Files
 * [lukasbach/yana](https://github.com/lukasbach/yana): Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
+* [google/yapf](https://github.com/google/yapf): A formatter for Python files
 * [Muqtxdir/yaru-remix](https://github.com/Muqtxdir/yaru-remix): My Novice approach for yaru-remix
 * [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea): RTMP live streaming client for Android
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
