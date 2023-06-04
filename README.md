@@ -1234,6 +1234,7 @@
 * [coder/coder](https://github.com/coder/coder): A tool that provisions remote development environments via Terraform
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
+* [brandonsaldan/codex](https://github.com/brandonsaldan/codex): A minimal genetic data explorer that processes all genetic information locally.
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
 * [abiosoft/colima](https://github.com/abiosoft/colima): Container runtimes on macOS (and Linux) with minimal setup
 * [SoySauceLab/CollectionKit](https://github.com/SoySauceLab/CollectionKit): Reimagining UICollectionView
