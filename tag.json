@@ -3728,6 +3728,18 @@
     "Ventto/pug": [
         "Other"
     ],
+    "ViBiOh/dotfiles": [
+        "Other"
+    ],
+    "ViBiOh/dyndns": [
+        "Other"
+    ],
+    "ViBiOh/fibr": [
+        "Other"
+    ],
+    "ViBiOh/hue": [
+        "Other"
+    ],
     "ViBiOh/vith": [
         "Other"
     ],
@@ -9158,6 +9170,9 @@
     "hossein-no1/TvPlayer": [
         "Other"
     ],
+    "howardchung/watchparty": [
+        "Other"
+    ],
     "hoya012/awesome-anomaly-detection": [
         "Other"
     ],
@@ -12731,6 +12746,9 @@
     "ninjaprox/NVActivityIndicatorView": [
         "Other"
     ],
+    "nintha/river": [
+        "Other"
+    ],
     "nioperas06/awesome-django-rest-framework": [
         "Other"
     ],
@@ -13778,6 +13796,9 @@
     "prasmussen/gdrive": [
         "Other"
     ],
+    "prateek54/ExoPlayer-Demo": [
+        "Other"
+    ],
     "prateekmedia/appimagepool": [
         "Other"
     ],
@@ -13830,6 +13851,9 @@
         "Other"
     ],
     "psf/black": [
+        "Other"
+    ],
+    "pshanmu3/dailymotion_to_m3u8": [
         "Other"
     ],
     "ptagr/google-cloud-storage-analyzer": [
@@ -14274,6 +14298,9 @@
         "Other"
     ],
     "reorx/awesome-chatgpt-api": [
+        "Other"
+    ],
+    "replayio/devtools": [
         "Other"
     ],
     "reportmill/SnapKit": [

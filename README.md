@@ -1412,6 +1412,7 @@
 * [dagostini/DADependencyInjection](https://github.com/dagostini/DADependencyInjection): An example project on how to use dependency injection.
 * [jaysgrant/dadjoke-ui](https://github.com/jaysgrant/dadjoke-ui): A Python 3 Flask project which provides a simple web ui for an open source dadjokes generator
 * [rainyear/dailybot](https://github.com/rainyear/dailybot): 赛博传达室老大爷
+* [pshanmu3/dailymotion_to_m3u8](https://github.com/pshanmu3/dailymotion_to_m3u8): DailyMotion IPTV News Channels .m3u8 file
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -1545,6 +1546,7 @@
 * [devspace-sh/devspace](https://github.com/devspace-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * [archlinux/devtools](https://github.com/archlinux/devtools): Tools for Arch Linux package maintainers (read-only mirror)
 * [eebean2/DevTools](https://github.com/eebean2/DevTools): Open Source Developer Tools
+* [replayio/devtools](https://github.com/replayio/devtools): Replay.io DevTools
 * [vuejs/devtools](https://github.com/vuejs/devtools): ⚙️ Browser devtools extension for debugging Vue.js applications.
 * [durfu/DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer): RTSP player for iOS with ffmpeg.
 * [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker): A library to display an interactive editor for any graph-like data.
@@ -1732,6 +1734,7 @@
 * [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles): KDE Plasma for twm users.
 * [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles): My personal dotfiles for bspwm, i3-gaps and kde plasma
 * [RealOrangeOne/dotfiles](https://github.com/RealOrangeOne/dotfiles): Settings and Preferences for transfer between machines
+* [ViBiOh/dotfiles](https://github.com/ViBiOh/dotfiles): Dotfiles for configuring my terminal environment
 * [YazdanZ/dotfiles](https://github.com/YazdanZ/dotfiles): Repository to manage and share personal dotfiles 
 * [alrra/dotfiles](https://github.com/alrra/dotfiles): 💻 macOS / Ubuntu dotfiles
 * [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles): My personal linux dotfiles
@@ -1801,6 +1804,7 @@
 * [maoschanz/dynamic-wallpaper-editor](https://github.com/maoschanz/dynamic-wallpaper-editor): A little utility for creation or edition of GNOME desktop's XML wallpapers 
 * [saoudrizwan/DynamicJSON](https://github.com/saoudrizwan/DynamicJSON): Access JSON properties dynamically like JavaScript using Swift 4.2's new @dynamicMemberLookup feature
 * [Dash-Industry-Forum/DynamicServiceValidator](https://github.com/Dash-Industry-Forum/DynamicServiceValidator): None
+* [ViBiOh/dyndns](https://github.com/ViBiOh/dyndns): DynDNS for Cloudflare
 * [google/EarlGrey](https://github.com/google/EarlGrey): :tea: iOS UI Automation Test Framework
 * [roberthein/Ease](https://github.com/roberthein/Ease): It's magic.
 * [otoyo/easy-notion-blog](https://github.com/otoyo/easy-notion-blog): ✍️ Let's start your own Notion Blog easily. / Notion Blogを始めましょう！
@@ -1960,6 +1964,7 @@
 * [xyoye/ExoFFmpegPlayer](https://github.com/xyoye/ExoFFmpegPlayer): 适用于ExoPlayer的FFmpeg扩展
 * [google/ExoPlayer](https://github.com/google/ExoPlayer): An extensible media player for Android
 * [amzn/exoplayer-amazon-port](https://github.com/amzn/exoplayer-amazon-port): Official port of ExoPlayer for Amazon devices
+* [prateek54/ExoPlayer-Demo](https://github.com/prateek54/ExoPlayer-Demo): This is basic exo player demo
 * [googlecodelabs/exoplayer-intro](https://github.com/googlecodelabs/exoplayer-intro): Media Streaming with ExoPlayer codelab
 * [yoobi/exoplayer-kotlin](https://github.com/yoobi/exoplayer-kotlin): Cookbook of multiple feature for Exoplayer
 * [ashwanijanghu/ExoPlayer-Offline](https://github.com/ashwanijanghu/ExoPlayer-Offline): A ExoPlayer demo application changed for Offline Playback of DRM content
@@ -2205,6 +2210,7 @@
 * [radek-senfeld/ffvideo](https://github.com/radek-senfeld/ffvideo): Python FFmpeg extension
 * [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC): [ECCV 2020] Flow-edge Guided Video Completion 
 * [gofiber/fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go
+* [ViBiOh/fibr](https://github.com/ViBiOh/fibr): Web FIleBRowser
 * [electron/fiddle](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux): Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 * [zuruoke/figma-remove-watermark-plugin](https://github.com/zuruoke/figma-remove-watermark-plugin): Remove the watermarks of images automatically
@@ -2851,6 +2857,7 @@
 * [github/hub](https://github.com/github/hub): A command-line tool that makes git easier to use with GitHub.
 * [kaiser-9527/hubble](https://github.com/kaiser-9527/hubble): Find your github star ezsier
 * [spotify/HubFramework](https://github.com/spotify/HubFramework): DEPRECATED – Spotify’s component-driven UI framework for iOS
+* [ViBiOh/hue](https://github.com/ViBiOh/hue): Managing my home Hue installation
 * [coleifer/huey](https://github.com/coleifer/huey): a little task queue for python
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run and test HTTP requests with plain text.
@@ -4598,6 +4605,7 @@
 * [tophat/RichTextView](https://github.com/tophat/RichTextView): iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links
 * [rancher/rio](https://github.com/rancher/rio): Application Deployment Engine for Kubernetes
 * [fwkz/riposte](https://github.com/fwkz/riposte): Python package for wrapping applications inside a tailored interactive shell
+* [nintha/river](https://github.com/nintha/river): Pure Rust Implementation of RTMP Live Streaming Server
 * [rancher/rke](https://github.com/rancher/rke): Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 * [simonschllng/rm-sync](https://github.com/simonschllng/rm-sync): Sync script for reMarkable paper tablet.
 * [radiantmediaplayer/rmp-vast](https://github.com/radiantmediaplayer/rmp-vast): A client-side JavaScript solution to load, parse and display VAST 2, 3 & 4 resources with HTML5 video
@@ -5876,6 +5884,7 @@
 * [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 * [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
+* [howardchung/watchparty](https://github.com/howardchung/watchparty): Watch anything together in-sync with your friends
 * [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal): a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image 
 * [zerozhoujie/watermark-remove](https://github.com/zerozhoujie/watermark-remove): Using depth learning to remove watermark from image
 * [ArconWell/Watermark-Remover](https://github.com/ArconWell/Watermark-Remover): Can remove watermarks from your images. It works well for images with text (i.e. scans etc)
