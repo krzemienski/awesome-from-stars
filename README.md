@@ -1411,7 +1411,7 @@
 * [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet): An interactive CSS playground
 * [dagostini/DADependencyInjection](https://github.com/dagostini/DADependencyInjection): An example project on how to use dependency injection.
 * [jaysgrant/dadjoke-ui](https://github.com/jaysgrant/dadjoke-ui): A Python 3 Flask project which provides a simple web ui for an open source dadjokes generator
-* [rainyear/dailybot](https://github.com/rainyear/dailybot): 赛博传达室老大爷
+* [rainyear/dailybot](https://github.com/rainyear/dailybot): Daily Bot - Parse RSS and ChatGPT it.
 * [pshanmu3/dailymotion_to_m3u8](https://github.com/pshanmu3/dailymotion_to_m3u8): DailyMotion IPTV News Channels .m3u8 file
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
@@ -5192,6 +5192,7 @@
 * [wabzqem/swift-api-k8s](https://github.com/wabzqem/swift-api-k8s): Swift + K8s
 * [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser): Straightforward, type-safe argument parsing for Swift
 * [Mybridge/swift-articles](https://github.com/Mybridge/swift-articles): Monthly Series - Top 10 Angular Articles
+* [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms): Async Algorithms for Swift
 * [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime): Swift implementation of AWS Lambda Runtime
 * [apple/swift-book](https://github.com/apple/swift-book): The Swift Programming Language book
 * [CassiusPacheco/Swift-CleanArchitecture](https://github.com/CassiusPacheco/Swift-CleanArchitecture): Simple Swift project applying concepts inspired on the Clean Architecture
