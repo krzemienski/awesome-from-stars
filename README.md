@@ -1067,6 +1067,7 @@
 * [hyperoslo/Cache](https://github.com/hyperoslo/Cache): :package: Nothing but Cache.
 * [CacherApp/cacher-cli](https://github.com/CacherApp/cacher-cli): The command line interface to Cacher.
 * [neekeetab/CachingPlayerItem](https://github.com/neekeetab/CachingPlayerItem): Play and cache media content simultaneously on your iOS device
+* [sukov/CachingPlayerItem](https://github.com/sukov/CachingPlayerItem): An AVPlayerItem subclass that lets you stream and cache media content on iOS
 * [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [ben-manes/caffeine](https://github.com/ben-manes/caffeine): A high performance caching library for Java
 * [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng):  ⚠ This project has migrated to codeberg.org
