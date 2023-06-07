@@ -880,7 +880,7 @@
 * [ade21/awsome-dns](https://github.com/ade21/awsome-dns): Use AWS Route53 with your own domains as your private dynamic dns service.
 * [mekhti/awsome-live-streamin](https://github.com/mekhti/awsome-live-streamin): All about live streaming & video processing
 * [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-* [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline):  The Pipeline example based on AXear-Pi (AX620A) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own multimedia applications.
+* [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline):  The Pipeline example based on AXear-Pi (AX620A) and AXera-Pi Pro (AX650N) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own multimedia applications.
 * [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom): An FFmpeg GUI for Windows
 * [monadgroup/axiom](https://github.com/monadgroup/axiom): A powerful realtime node-based audio synthesizer.
 * [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
@@ -1171,6 +1171,7 @@
 * [ecnepsnai/Cirrus](https://github.com/ecnepsnai/Cirrus): Archive of the Cirrus iOS App Source Code.
 * [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next): RGB Driver for Linux
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+* [Rafostar/clapper](https://github.com/Rafostar/clapper): A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 * [clappr/clappr](https://github.com/clappr/clappr): :clapper: An extensible media player for the web.
 * [clappr/clappr-core](https://github.com/clappr/clappr-core): Core components of the Clappr player architecture
 * [clappr/clappr-ios](https://github.com/clappr/clappr-ios): An extensible media player for iOS [deprecated]
@@ -1471,6 +1472,7 @@
 * [aferrandi/dbtarzan](https://github.com/aferrandi/dbtarzan): To explore the tables of a database following their relations as defined in their foreign keys.
 * [rianhunter/dbxfs](https://github.com/rianhunter/dbxfs): User-space file system for Dropbox
 * [DataDog/dd-trace-java](https://github.com/DataDog/dd-trace-java): Datadog APM client for Java
+* [ddclient/ddclient](https://github.com/ddclient/ddclient): This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 * [martyr-deepin/dde-desktop](https://github.com/martyr-deepin/dde-desktop): dde-desktop is now a part of dde-file-manager
 * [linuxdeepin/dde-file-manager](https://github.com/linuxdeepin/dde-file-manager): File manager for deepin desktop environment.
 * [didi/DDMQ](https://github.com/didi/DDMQ): DDMQ is a distributed messaging product with low latency, high throughput and high availability.
@@ -2138,6 +2140,7 @@
 * [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize): Audio Normalization for Python/ffmpeg
 * [divyam234/ffmpeg-NVEnc](https://github.com/divyam234/ffmpeg-NVEnc): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 * [lutris/ffmpeg-nvenc](https://github.com/lutris/ffmpeg-nvenc): Build script for FFmpeg with nvenc support
+* [krzemienski/ffmpeg-NVEnc-build](https://github.com/krzemienski/ffmpeg-NVEnc-build): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 * [rustmn/FFMPEG-NVENC-Docker-build](https://github.com/rustmn/FFMPEG-NVENC-Docker-build): Dockerfile & installation instructions for FFMPEG with NVENC. Supported encoders: av1_nvenc, hevc_nvenc, h264_nvenc.
 * [SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder](https://github.com/SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder): bash script which will detect video new file in folder  and transcode it to adaprive bitrate
 * [xiguaxigua/ffmpeg-online](https://github.com/xiguaxigua/ffmpeg-online): An online version of ffmpeg built on ffmpeg.wasm
@@ -3009,6 +3012,7 @@
 * [mikeash/iphone-user-performance-tests](https://github.com/mikeash/iphone-user-performance-tests): A utility for doing simple tests of an iOS device's user-facing performance, and some collected results.
 * [Free-TV/IPTV](https://github.com/Free-TV/IPTV): M3U Playlist for free TV channels
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
+* [atsushi444/iptv-epg](https://github.com/atsushi444/iptv-epg): None
 * [n-thumann/IPTV-ReStream](https://github.com/n-thumann/IPTV-ReStream): An app to forward source specific multicast streams via HTTP
 * [ipython/ipython](https://github.com/ipython/ipython): Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 * [ooyala/iq-sdk-roku-sample](https://github.com/ooyala/iq-sdk-roku-sample): None
@@ -3986,6 +3990,7 @@
 * [nuxt/nuxt](https://github.com/nuxt/nuxt): Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 * [aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev): ⚡ A portfolio for developers with a blog powered by Notion
 * [FFmpeg/nv-codec-headers](https://github.com/FFmpeg/nv-codec-headers): automatic mirror of https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
+* [krzemienski/nv-codec-headers](https://github.com/krzemienski/nv-codec-headers): automatic mirror of https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
 * [SK-Hardwired/nv_hevc_hdr_patcher](https://github.com/SK-Hardwired/nv_hevc_hdr_patcher): Tiny python script adding/altering basic HDR metadata (SEI and SPS VUI) to raw HEVC streams from NVENC
 * [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView): A collection of awesome loading animations
 * [NvChad/NvChad](https://github.com/NvChad/NvChad): Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -3994,6 +3999,7 @@
 * [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 * [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer): NVIDIA driver installer
 * [Snawoot/nvidia-patch](https://github.com/Snawoot/nvidia-patch):   This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
+* [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 * [wildtruc/nvidia-prime-select](https://github.com/wildtruc/nvidia-prime-select): This a fork of FedoraPrime enhanced for all linux distributions
 * [rust-av/nvidia-video-codec-rs](https://github.com/rust-av/nvidia-video-codec-rs): Bindings for the NVIDIA Video Codec SDK
 * [Scotchman0/NVIDIA_Drivers](https://github.com/Scotchman0/NVIDIA_Drivers): A simple bash script for automatic install of the proper nvidia drivers on Debian/ubuntu
@@ -4755,8 +4761,9 @@
 * [gperdomor/sanitize](https://github.com/gperdomor/sanitize): Powerful model extraction from Vapor JSON requests
 * [louisdh/savanna](https://github.com/louisdh/savanna): A native iOS & macOS IDE for the Cub programming language
 * [louisdh/savannakit](https://github.com/louisdh/savannakit): A high-performance, protocol oriented, framework for creating native IDEs for iOS and macOS, written in Swift
-* [insight-platform/Savant](https://github.com/insight-platform/Savant): Python Streaming Video Analytics Framework With Batteries Included
+* [insight-platform/Savant](https://github.com/insight-platform/Savant): Python Computer Vision & Video Analytics Framework With Batteries Included
 * [dkashin/sb-transcoder-vod](https://github.com/dkashin/sb-transcoder-vod): Simple yet powerful automatic VOD transcoder
+* [Foxboron/sbctl](https://github.com/Foxboron/sbctl): :computer: Secure Boot key manager
 * [Seitenbau/SBideo](https://github.com/Seitenbau/SBideo): A simple video archive including video transcoding
 * [dmaccarthy/sc8pr](https://github.com/dmaccarthy/sc8pr): A simple framework for new and experienced Python programmers to create animations, games, and other graphics-based programs. Includes GUI controls, robotics simulator, and video recording and effects. 
 * [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture): Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
@@ -4943,7 +4950,7 @@
 * [khimaros/smart-auto-move](https://github.com/khimaros/smart-auto-move): Smart Auto Move learns the size and position of your application windows and restores them to the correct place on subsequent launches. Supports GNOME Wayland.
 * [OpenVisualCloud/Smart-City-Sample](https://github.com/OpenVisualCloud/Smart-City-Sample): The smart city reference pipeline shows how to integrate various media building blocks, with analytics powered by the OpenVINO™ Toolkit, for traffic or stadium sensing, analytics and management tasks.
 * [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open): Utils for streaming large files (S3, HDFS, gzip, bz2...)
-* [SebastianLuebke/smbios-thermal-ctl-gnome-ext](https://github.com/SebastianLuebke/smbios-thermal-ctl-gnome-ext): Gnome-Shell Extension for setting smbios thermal modes.
+* [luebke-dev/smbios-thermal-ctl-gnome-ext](https://github.com/luebke-dev/smbios-thermal-ctl-gnome-ext): Gnome-Shell Extension for setting smbios thermal modes.
 * [realeyes-media/sme-2019-deploying-cmaf-workshop](https://github.com/realeyes-media/sme-2019-deploying-cmaf-workshop): None
 * [tomcool420/SMFramework](https://github.com/tomcool420/SMFramework): Conveniences classes from AppleTV
 * [amzn/smoke-framework](https://github.com/amzn/smoke-framework): A light-weight server-side service framework written in the Swift programming language.
@@ -5165,6 +5172,7 @@
 * [active-video/subtitles](https://github.com/active-video/subtitles): AV Platform MPEG DASH subtitles
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
+* [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
 * [supabase/supabase](https://github.com/supabase/supabase): The open source Firebase alternative. Follow to stay updated about our public Beta.
 * [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity): Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 * [dehatanes/super-useful-notion-cli](https://github.com/dehatanes/super-useful-notion-cli): Criando uma comand line interface SÚPER ÚTIL para quem usa Notion :)
@@ -5754,6 +5762,7 @@
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None
 * [davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka): Shaka player integration with video.js
 * [phloxic/videojs-sprite-thumbnails](https://github.com/phloxic/videojs-sprite-thumbnails): Video.js plugin to display thumbnails from a sprite image when hovering over the progress bar
+* [MailOnline/videojs-vast-vpaid](https://github.com/MailOnline/videojs-vast-vpaid): video.js vast plugin
 * [chrisboustead/videojs-vtt-thumbnails](https://github.com/chrisboustead/videojs-vtt-thumbnails): Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.
 * [ant-media/videojs-webrtc-plugin](https://github.com/ant-media/videojs-webrtc-plugin): Webrtc plug-in for videojs
 * [ruanjx/VideoLab](https://github.com/ruanjx/VideoLab): High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.

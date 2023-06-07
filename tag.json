@@ -1664,6 +1664,9 @@
     "FormidableLabs/electron-webpack-dashboard": [
         "Other"
     ],
+    "Foxboron/sbctl": [
+        "Other"
+    ],
     "FraMecca/ffbench": [
         "Other"
     ],
@@ -2396,6 +2399,9 @@
     "LiveUI/S3": [
         "Other"
     ],
+    "LizardByte/Sunshine": [
+        "Other"
+    ],
     "Lona/Lona": [
         "Other"
     ],
@@ -2445,6 +2451,9 @@
         "Other"
     ],
     "MagicArena/ngrokd": [
+        "Other"
+    ],
+    "MailOnline/videojs-vast-vpaid": [
         "Other"
     ],
     "Manevolent/ffmpeg4j": [
@@ -3038,6 +3047,9 @@
     "Radweb/react-native-audio-transcoder": [
         "Other"
     ],
+    "Rafostar/clapper": [
+        "Other"
+    ],
     "Rafostar/gnome-shell-extension-cast-to-tv": [
         "Other"
     ],
@@ -3264,9 +3276,6 @@
         "Other"
     ],
     "SebastianBoldt/Jelly": [
-        "Other"
-    ],
-    "SebastianLuebke/smbios-thermal-ctl-gnome-ext": [
         "Other"
     ],
     "Seitenbau/SBideo": [
@@ -5096,6 +5105,9 @@
     "atom/atom-languageclient": [
         "Other"
     ],
+    "atsushi444/iptv-epg": [
+        "Other"
+    ],
     "attardi/wikiextractor": [
         "Other"
     ],
@@ -6864,6 +6876,9 @@
         "Other"
     ],
     "ddanninger/node-gracenote": [
+        "Other"
+    ],
+    "ddclient/ddclient": [
         "Other"
     ],
     "ddd-by-examples/library": [
@@ -10484,6 +10499,9 @@
     "kewlbear/FFmpeg-iOS-build-script": [
         "Other"
     ],
+    "keylase/nvidia-patch": [
+        "Other"
+    ],
     "kgoedecke/circleci-beanstalk-example": [
         "Other"
     ],
@@ -10706,6 +10724,9 @@
     "krzemienski/encodarr": [
         "Other"
     ],
+    "krzemienski/ffmpeg-NVEnc-build": [
+        "Other"
+    ],
     "krzemienski/github-notion-star": [
         "Other"
     ],
@@ -10713,6 +10734,9 @@
         "Other"
     ],
     "krzemienski/ngrok-setup": [
+        "Other"
+    ],
+    "krzemienski/nv-codec-headers": [
         "Other"
     ],
     "krzysztofzablocki/LifetimeTracker": [
@@ -11343,6 +11367,9 @@
         "Other"
     ],
     "luckymarmot/API-Flow": [
+        "Other"
+    ],
+    "luebke-dev/smbios-thermal-ctl-gnome-ext": [
         "Other"
     ],
     "luigifcruz/kimera": [
