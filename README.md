@@ -5342,7 +5342,7 @@
 * [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe): An open source project management tool with Kanban boards
 * [GothenburgBitFactory/taskserver](https://github.com/GothenburgBitFactory/taskserver): Taskserver - Taskwarrior Synchronisation Server
 * [cvisionai/tator](https://github.com/cvisionai/tator): Video analytics web platform
-* [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox): The desktop music player from the future! :city_sunset:
+* [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox): The desktop music player of today! (its the future now) :city_sunrise:
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli): A Python based monitoring and tracking tool for Plex Media Server.
 * [izqui/Taylor](https://github.com/izqui/Taylor): A lightweight library for writing HTTP web servers with Swift
