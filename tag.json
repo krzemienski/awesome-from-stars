@@ -2654,6 +2654,9 @@
     "NVIDIA/gpu-monitoring-tools": [
         "Other"
     ],
+    "NVIDIA/libnvidia-container": [
+        "Other"
+    ],
     "NVIDIA/nccl": [
         "Other"
     ],
@@ -7209,6 +7212,9 @@
         "Other"
     ],
     "dkundel/vscode-ngrok-helper": [
+        "Other"
+    ],
+    "dl-container-registry/ffmpeg": [
         "Other"
     ],
     "dmaccarthy/sc8pr": [
