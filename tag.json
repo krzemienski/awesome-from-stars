@@ -257,6 +257,9 @@
     "AlvianPrasetya/transcoding": [
         "Other"
     ],
+    "Amplitude-Developer-Docs/amplitude-dev-center": [
+        "Other"
+    ],
     "AmruthPillai/Reactive-Resume": [
         "Other"
     ],
@@ -497,6 +500,9 @@
     "BruceDone/awesome-crawler": [
         "Other"
     ],
+    "BrunoMartinsCorrea/dev-utils": [
+        "Other"
+    ],
     "BtbN/FFmpeg-Builds": [
         "Other"
     ],
@@ -599,6 +605,9 @@
     "ChrisKnott/Algojammer": [
         "Other"
     ],
+    "ChristianLempa/videos": [
+        "Other"
+    ],
     "ChristosChristofidis/awesome-deep-learning": [
         "Other"
     ],
@@ -684,6 +693,9 @@
         "Other"
     ],
     "ColdLogical/VIPER-Templates": [
+        "Other"
+    ],
+    "ColinEberhardt/ffmpeg-wasm-streaming-video-player": [
         "Other"
     ],
     "ColorlabMD/FFCommand_Engine": [
@@ -813,6 +825,9 @@
         "Other"
     ],
     "Dash-Industry-Forum/CPIX-Transfer-Protocol": [
+        "Other"
+    ],
+    "Dash-Industry-Forum/ClearKey-Content-Protection": [
         "Other"
     ],
     "Dash-Industry-Forum/Conformance-Frontend": [
@@ -1080,6 +1095,9 @@
         "Other"
     ],
     "EmilHernvall/dnsguide": [
+        "Other"
+    ],
+    "EmperorPenguin18/linux-installer": [
         "Other"
     ],
     "Endermanch/MalwareDatabase": [
@@ -3680,6 +3698,9 @@
     "TrafeX/videotranscoder": [
         "Other"
     ],
+    "TransformerOptimus/SuperAGI": [
+        "Other"
+    ],
     "TravelC/TCTitleLoading": [
         "Other"
     ],
@@ -4517,6 +4538,9 @@
     "amitshekhariitbhu/Fast-Android-Networking": [
         "Other"
     ],
+    "amplitude/experiment-ios-client": [
+        "Other"
+    ],
     "amriteya/tts": [
         "Other"
     ],
@@ -5174,9 +5198,6 @@
     "avelino/cookiecutter-bottle": [
         "Other"
     ],
-    "avipatilpro/Z5LIVE": [
-        "Other"
-    ],
     "avleen/bashttpd": [
         "Other"
     ],
@@ -5219,6 +5240,9 @@
     "aws-samples/amazon-eks-fluent-logging-examples": [
         "Other"
     ],
+    "aws-samples/amazon-ivs-chat-web-demo": [
+        "Other"
+    ],
     "aws-samples/amazon-ivs-clip-manifest": [
         "Other"
     ],
@@ -5243,6 +5267,9 @@
     "aws-samples/aws-vt-baseami-pipeline": [
         "Other"
     ],
+    "aws-samples/cloud-storage-to-s3-tool": [
+        "Other"
+    ],
     "aws-samples/eb-docker-nginx-proxy": [
         "Other"
     ],
@@ -5262,6 +5289,9 @@
         "Other"
     ],
     "aws-samples/immersive-media-refarch": [
+        "Other"
+    ],
+    "aws-samples/serverless-patterns": [
         "Other"
     ],
     "aws-solutions/content-localization-on-aws": [
@@ -5648,6 +5678,9 @@
     "bitmovin/bitmovin-player-react-native": [
         "Other"
     ],
+    "bitmovin/demos": [
+        "Other"
+    ],
     "bitmovin/libdash": [
         "Other"
     ],
@@ -5838,6 +5871,9 @@
         "Other"
     ],
     "brookemckim/hlspider": [
+        "Other"
+    ],
+    "brpaz/my-linux-setup": [
         "Other"
     ],
     "brunophilipe/Cakebrew": [
@@ -7535,6 +7571,9 @@
     "e7711bbear/Assets": [
         "Other"
     ],
+    "eRadical/ansible-my-fedora-workstation": [
+        "Other"
+    ],
     "eashish93/imgsquash": [
         "Other"
     ],
@@ -8063,6 +8102,9 @@
     "facebookresearch/SlowFast": [
         "Other"
     ],
+    "facebookresearch/audiocraft": [
+        "Other"
+    ],
     "facebookresearch/encodec": [
         "Other"
     ],
@@ -8133,6 +8175,9 @@
         "Other"
     ],
     "fbdesignpro/sweetviz": [
+        "Other"
+    ],
+    "fbritoferreira/m3u8-parser": [
         "Other"
     ],
     "fcambus/nginx-resources": [
@@ -8390,6 +8435,9 @@
     "funciton/py-ffmpeg-wrapper": [
         "Other"
     ],
+    "fusion809/fedora-scripts": [
+        "Other"
+    ],
     "futurevision/docker-aws-s3-sync": [
         "Other"
     ],
@@ -8498,6 +8546,9 @@
     "germanztz/gnome-shell-extension-rclone-manager": [
         "Other"
     ],
+    "gesinger/debug-video": [
+        "Other"
+    ],
     "get-set/infra-docker-compose": [
         "Other"
     ],
@@ -8604,9 +8655,6 @@
         "Other"
     ],
     "github/copilot-docs": [
-        "Other"
-    ],
-    "github/hub": [
         "Other"
     ],
     "githubhaohao/LearnFFmpeg": [
@@ -9611,6 +9659,9 @@
     "intel/vaapi-fits": [
         "Other"
     ],
+    "intellij-rust/intellij-rust": [
+        "Other"
+    ],
     "intoli/exodus": [
         "Other"
     ],
@@ -9639,6 +9690,9 @@
         "Other"
     ],
     "ipader/SwiftGuide": [
+        "Other"
+    ],
+    "iperov/DeepFaceLab": [
         "Other"
     ],
     "iperov/DeepFaceLive": [
@@ -9843,9 +9897,6 @@
         "Other"
     ],
     "jasperapp/jasper": [
-        "Other"
-    ],
-    "java-operator-sdk/java-operator-sdk": [
         "Other"
     ],
     "jay-johnson/deploy-to-kubernetes": [
@@ -12074,6 +12125,9 @@
     "mhashim6/Simple-ADB": [
         "Other"
     ],
+    "mhausenblas/mkdocs-deploy-gh-pages": [
+        "Other"
+    ],
     "mher/flower": [
         "Other"
     ],
@@ -12281,6 +12335,9 @@
     "miravideo/FFCreator": [
         "Other"
     ],
+    "mislav/hub": [
+        "Other"
+    ],
     "mitio/useful-ffmpeg-commands": [
         "Other"
     ],
@@ -12315,6 +12372,9 @@
         "Other"
     ],
     "ml-tooling/best-of-python": [
+        "Other"
+    ],
+    "mlc-ai/mlc-llm": [
         "Other"
     ],
     "mli/autocut": [
@@ -12678,6 +12738,9 @@
         "Other"
     ],
     "natmlx/NatReader": [
+        "Other"
+    ],
+    "naveenland4/UTLive": [
         "Other"
     ],
     "nccgroup/ScoutSuite": [
@@ -13340,6 +13403,9 @@
     "operator-framework/awesome-operators": [
         "Other"
     ],
+    "operator-framework/java-operator-sdk": [
+        "Other"
+    ],
     "operator-framework/operator-lifecycle-manager": [
         "Other"
     ],
@@ -13580,6 +13646,9 @@
     "pdf-rs/pdf": [
         "Other"
     ],
+    "peaceiris/actions-gh-pages": [
+        "Other"
+    ],
     "peak/s5cmd": [
         "Other"
     ],
@@ -13608,6 +13677,9 @@
         "Other"
     ],
     "penpot/penpot": [
+        "Other"
+    ],
+    "peotr26/Fedora-Scripts": [
         "Other"
     ],
     "perenecabuto/json_schema_generator": [
@@ -13862,6 +13934,9 @@
     "pop-os/system76-scheduler": [
         "Other"
     ],
+    "porjo/youtubeuploader": [
+        "Other"
+    ],
     "portainer/agent": [
         "Other"
     ],
@@ -13904,6 +13979,9 @@
     "practical-tutorials/project-based-learning": [
         "Other"
     ],
+    "pradyunsg/furo": [
+        "Other"
+    ],
     "prakhar1989/awesome-courses": [
         "Other"
     ],
@@ -13929,6 +14007,15 @@
         "Other"
     ],
     "probot/probot": [
+        "Other"
+    ],
+    "processing/p5.js": [
+        "Other"
+    ],
+    "processing/processing": [
+        "Other"
+    ],
+    "processing/processing4": [
         "Other"
     ],
     "productiveAnalytics/EKS-cluster": [
@@ -14336,6 +14423,9 @@
     "reHackable/scripts": [
         "Other"
     ],
+    "reactive-python/reactpy": [
+        "Other"
+    ],
     "reactos/reactos": [
         "Other"
     ],
@@ -14502,6 +14592,9 @@
         "Other"
     ],
     "rkoshak/sensorReporter": [
+        "Other"
+    ],
+    "rnorth/mkdocs-codeinclude-plugin": [
         "Other"
     ],
     "roaldnefs/awesome-prometheus": [
@@ -14718,6 +14811,9 @@
         "Other"
     ],
     "rust-lang/cargo": [
+        "Other"
+    ],
+    "rust-lang/mdBook": [
         "Other"
     ],
     "rust-lang/rust": [
@@ -15218,6 +15314,9 @@
     "shuaibiyy/awesome-terraform": [
         "Other"
     ],
+    "shuding/nextra": [
+        "Other"
+    ],
     "shuklaabhi/K8-flask-celery-sample": [
         "Other"
     ],
@@ -15467,6 +15566,9 @@
     "smicallef/spiderfoot": [
         "Other"
     ],
+    "smittix/fedora-setup": [
+        "Other"
+    ],
     "smol-rs/smol": [
         "Other"
     ],
@@ -15500,6 +15602,9 @@
     "snsinfu/reverse-tunnel": [
         "Other"
     ],
+    "snwh/fedora-post-install": [
+        "Other"
+    ],
     "snwh/ubuntu-post-install": [
         "Other"
     ],
@@ -15531,6 +15636,9 @@
         "Other"
     ],
     "soldiermoth/hlsq": [
+        "Other"
+    ],
+    "solosoyfranco/Fedora": [
         "Other"
     ],
     "soluble-ai/kubetap": [
@@ -15953,6 +16061,9 @@
     "superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform": [
         "Other"
     ],
+    "surajit039/fedora-desktop-setup": [
+        "Other"
+    ],
     "sveinbjornt/Sloth": [
         "Other"
     ],
@@ -15990,6 +16101,15 @@
         "Other"
     ],
     "swagger-api/swagger-editor": [
+        "Other"
+    ],
+    "swc-project/plugins": [
+        "Other"
+    ],
+    "swc-project/swc": [
+        "Other"
+    ],
+    "swc-project/swc-playground": [
         "Other"
     ],
     "swift-server/http": [
@@ -16107,6 +16227,9 @@
         "Other"
     ],
     "taowen/awesome-lowcode": [
+        "Other"
+    ],
+    "tapaswenipathak/Open-Source-Programs": [
         "Other"
     ],
     "taphouseio/TPHCloudAnalytics": [
