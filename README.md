@@ -1542,6 +1542,7 @@
 * [turtl/desktop](https://github.com/turtl/desktop): Turtl's desktop app
 * [wimpysworld/desktopify](https://github.com/wimpysworld/desktopify): Convert Ubuntu Server for Raspberry Pi into a Desktop
 * [Eyevinn/detect-viewer-poc](https://github.com/Eyevinn/detect-viewer-poc): A Proof-of-concept using experimental FaceDetection API in Chrome to detect if anyone is watching the video
+* [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks): open source project
 * [Eyevinn/dev-lambda](https://github.com/Eyevinn/dev-lambda): Libraries to facilitate development of Lambda functions
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [BrunoMartinsCorrea/dev-utils](https://github.com/BrunoMartinsCorrea/dev-utils): Scripts for distro hopping developers!
@@ -2342,6 +2343,7 @@
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
+* [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 * [tonydeng/fmj](https://github.com/tonydeng/fmj): FMJ (FFMpeg for Java)。通过Java调用FFMpeg命令的方式来对音视频进行处理（获取信息、截图等等）。
 * [unifiedstreaming/fmp4-ingest](https://github.com/unifiedstreaming/fmp4-ingest): Repository on shared work on developing a fragmented MPEG-4 ingest specification
 * [Eyevinn/fmp4-js](https://github.com/Eyevinn/fmp4-js): A Javascript library to parse ISO Base Media File Format (MPEG-4 Part 12)
