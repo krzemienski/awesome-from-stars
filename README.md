@@ -3703,7 +3703,7 @@
 * [Ventto/mons](https://github.com/Ventto/mons): POSIX Shell script to quickly manage monitors on X
 * [softdevca/mootranscode](https://github.com/softdevca/mootranscode): Local audio and video transcoding for Moodle
 * [mopidy/mopidy](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
-* [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log): A static blog using notion database 😎
+* [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log): 😎 A static blog using notion database
 * [acotilla91/Morse-Vision](https://github.com/acotilla91/Morse-Vision): More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text. 
 * [krad/morsel](https://github.com/krad/morsel): 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS.
 * [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell
