@@ -680,7 +680,7 @@
 * [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers): A curated list of awesome Linux Containers frameworks, libraries and software
 * [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software): 🐧 A list of awesome Linux softwares 
 * [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio): [mirror] A list of software and resources for professional audio/video/live events production on Linux.
-* [cuuupid/awesome-lists](https://github.com/cuuupid/awesome-lists): A curated list of curated lists.
+* [cuuupid/awesome-lists](https://github.com/cuuupid/awesome-lists): [DEPRECATED] A curated list of curated lists.
 * [wx-chevalier/Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists): :books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好
 * [liwf616/awesome-live-stream](https://github.com/liwf616/awesome-live-stream): Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中
 * [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding): All things livecoding
@@ -5785,7 +5785,6 @@
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
 * [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger): Merge multiple video MediaStreams into one composite.
 * [daspinola/video-stream-sample](https://github.com/daspinola/video-stream-sample): Node.js HTML5 streaming sample
-* [Ragib01/video-streaming](https://github.com/Ragib01/video-streaming): Streaming Live Video and Storing Videos with NGINX
 * [yigiterinc/video-streaming-over-http](https://github.com/yigiterinc/video-streaming-over-http): Video streaming from Webcam with HLS, FFMPEG, NGINX and RTMP
 * [tabvn/video-streaming-service](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
 * [soumanpaul/Video-streaming-web-app](https://github.com/soumanpaul/Video-streaming-web-app): Media streaming application,  Inspired by features from Netflix and YouTube, this application will implement content uploading and viewing capabilities with a media content upload feature for content providers, and real-time content streaming for viewers
