@@ -1931,6 +1931,9 @@
     "Horhorist/awesome-free-software": [
         "Other"
     ],
+    "HoseungJang/express-hls-example": [
+        "Other"
+    ],
     "HsunGong/github-notion": [
         "Other"
     ],
@@ -4032,6 +4035,9 @@
         "Other"
     ],
     "ablwr/media-collection-viewer": [
+        "Other"
+    ],
+    "abskmj/youtube-hls-m3u8": [
         "Other"
     ],
     "academic/awesome-datascience": [
@@ -12704,6 +12710,9 @@
     "naoty/Timepiece": [
         "Other"
     ],
+    "napthedev/react-tuby": [
+        "Other"
+    ],
     "nareix/joy4": [
         "Other"
     ],
@@ -12741,6 +12750,9 @@
         "Other"
     ],
     "naveenland4/UTLive": [
+        "Other"
+    ],
+    "naveenland4/YouTube_to_m3u": [
         "Other"
     ],
     "nccgroup/ScoutSuite": [
@@ -15164,6 +15176,9 @@
     "serezhka/java-airplay-lib": [
         "Other"
     ],
+    "serezhka/java-airplay-server": [
+        "Other"
+    ],
     "sergree/matchering": [
         "Other"
     ],
@@ -15348,6 +15363,9 @@
         "Other"
     ],
     "sillsdev/docu-notion": [
+        "Other"
+    ],
+    "silvermine/videojs-chromecast": [
         "Other"
     ],
     "silvermine/videojs-quality-selector": [
@@ -16877,7 +16895,7 @@
     "ubuntu-flutter-community/settings": [
         "Other"
     ],
-    "ubuntu-flutter-community/software": [
+    "ubuntu/software": [
         "Other"
     ],
     "ubuntu/ubuntu-make": [

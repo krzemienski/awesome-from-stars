@@ -706,7 +706,7 @@
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
-* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Ready to use data science templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
@@ -2006,6 +2006,7 @@
 * [crossroadlabs/Express](https://github.com/crossroadlabs/Express): Swift Express is a simple, yet unopinionated web application server written in Swift
 * [expressjs/express](https://github.com/expressjs/express): Fast, unopinionated, minimalist web framework for node.
 * [bookyo/express-ffmpeg](https://github.com/bookyo/express-ffmpeg): nodejs ffmpeg video transcode webui，基于nodejs的云转码系统 https://www.efvcms.com
+* [HoseungJang/express-hls-example](https://github.com/HoseungJang/express-hls-example): A simple example about HTTP Live Streaming using Node.js and Express
 * [pNre/ExSwift](https://github.com/pNre/ExSwift): A set of Swift extensions for standard types and classes.
 * [julio641742/extend-panel-menu](https://github.com/julio641742/extend-panel-menu): None
 * [notion-enhancer/extension](https://github.com/notion-enhancer/extension): an enhancer/customiser for the all-in-one productivity workspace notion.so (browser)
@@ -2460,7 +2461,7 @@
 * [dpedu/git2git](https://github.com/dpedu/git2git): tools for mirror projects between gitlab, gitea, and github.
 * [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook): 📝 Modern documentation format and toolchain using Git and Markdown
 * [fabric8io/gitcontroller](https://github.com/fabric8io/gitcontroller): A simple microservice which watches Kubernetes Deployments which are using gitRepo volumes and if git has changed, updates the Deployment
-* [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+* [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 * [Skyr/gitea-add-github-mirrors](https://github.com/Skyr/gitea-add-github-mirrors): Tool to automatically add mirror repos in gitea for your github repositories
 * [nvie/gitflow](https://github.com/nvie/gitflow): Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 * [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio): :octocat: personal website + blog  for every github user
@@ -3085,6 +3086,7 @@
 * [jasperapp/jasper](https://github.com/jasperapp/jasper): Jasper - A flexible and powerful issue reader for GitHub
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
 * [serezhka/java-airplay-lib](https://github.com/serezhka/java-airplay-lib): This library is intended to easily create AirPlay2 servers acting like Apple TV
+* [serezhka/java-airplay-server](https://github.com/serezhka/java-airplay-server): Acts like Apple TV
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [DataDog/java-dogstatsd-client](https://github.com/DataDog/java-dogstatsd-client): Java statsd client library
 * [richadams/java-gracenote](https://github.com/richadams/java-gracenote): A Java client for the Gracenote Music Web API. Example code to get you started on your own projects using Gracenote's API.
@@ -3834,7 +3836,7 @@
 * [exegersha/network-benchmark](https://github.com/exegersha/network-benchmark): Proof of concept. Roku app implementing network layer using scene graph nodes.
 * [holzschu/network_ios](https://github.com/holzschu/network_ios): Extension to ios_system, doing network-based commands
 * [coderyi/NetworkEye](https://github.com/coderyi/NetworkEye): a iOS network debug library, monitor HTTP requests
-* [3lvis/Networking](https://github.com/3lvis/Networking): Easy HTTP Networking in Swift a NSURLSession wrapper with image caching support
+* [3lvis/Networking](https://github.com/3lvis/Networking): Swift HTTP Networking with stubbing and caching support
 * [wibosco/NetworkingWingman-Example](https://github.com/wibosco/NetworkingWingman-Example): Example of combining NSURLSession with NSOperation to form one task
 * [tomkowz/NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample): Demo project for the article: http://szulctomasz.com/how-do-I-build-a-network-layer/ (Swift 3)
 * [nm-l2tp/NetworkManager-l2tp](https://github.com/nm-l2tp/NetworkManager-l2tp): L2TP and L2TP/IPsec support for NetworkManager
@@ -4536,7 +4538,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4591,6 +4593,7 @@
 * [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo): React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
 * [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui): Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 * [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
+* [napthedev/react-tuby](https://github.com/napthedev/react-tuby): A React video player library with YouTube-like UI
 * [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa): Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 * [ReactiveCocoa/ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): Streams of values over time
@@ -4835,7 +4838,7 @@
 * [dmaccarthy/sc8pr](https://github.com/dmaccarthy/sc8pr): A simple framework for new and experienced Python programmers to create animations, games, and other graphics-based programs. Includes GUI controls, robotics simulator, and video recording and effects. 
 * [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture): Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
 * [truenas/scale-build](https://github.com/truenas/scale-build): TrueNAS SCALE Build System
-* [scalecube/scalecube-services](https://github.com/scalecube/scalecube-services): a microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. it features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing. its open and designed to accommodate changes. (no sidecar in a form of broker or any kind)
+* [scalecube/scalecube-services](https://github.com/scalecube/scalecube-services): Microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. it features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing
 * [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 * [cloudkj/scar](https://github.com/cloudkj/scar): Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 * [gitfu/scc2vtt](https://github.com/gitfu/scc2vtt): Translates Scenarist SCC caption files to WebVTT subtitles
@@ -5052,7 +5055,7 @@
 * [socketio/socket.io](https://github.com/socketio/socket.io): Realtime application framework (Node.JS server)
 * [socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift): None
 * [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft): A production-grade java implementation of RAFT consensus algorithm.
-* [ubuntu-flutter-community/software](https://github.com/ubuntu-flutter-community/software): Software App for Ubuntu made with Flutter 🧡 💙
+* [ubuntu/software](https://github.com/ubuntu/software): Software App for Ubuntu made with Flutter 🧡 💙
 * [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books): A comprehensive list of books on Software Architecture.
 * [VQEG/software-tools](https://github.com/VQEG/software-tools): VQEG's Software and Tools Website
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar): Linux device manager for Logitech devices
@@ -5829,6 +5832,7 @@
 * [videogular/videogular](https://github.com/videogular/videogular): The HTML5 video player for AngularJS
 * [MetalPetal/VideoIO](https://github.com/MetalPetal/VideoIO): Video Input/Output Utilities
 * [contently/videojs-annotation-comments](https://github.com/contently/videojs-annotation-comments): A plugin for video.js to add support for timeline moment/range comments and annotations
+* [silvermine/videojs-chromecast](https://github.com/silvermine/videojs-chromecast): None
 * [videojs/videojs-contrib-dash](https://github.com/videojs/videojs-contrib-dash): Video.js plugin for supporting the MPEG-DASH playback through a video.js player
 * [videojs/videojs-contrib-eme](https://github.com/videojs/videojs-contrib-eme): Supports Encrypted Media Extensions for playback of encrypted content in Video.js
 * [videojs/videojs-contrib-hls](https://github.com/videojs/videojs-contrib-hls): HLS library for video.js
@@ -6125,9 +6129,11 @@
 * [synox/youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive): OBSOLETE - Interactively select the quality and format for youtube-dl
 * [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server): Web / REST interface for downloading youtube videos onto a server.
 * [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+* [abskmj/youtube-hls-m3u8](https://github.com/abskmj/youtube-hls-m3u8): Creates a permanent link for the live feed (HLS/m3u8) of a Youtube channel
 * [aslanyanhaik/youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): youtube iOS app template written in swift 5
 * [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
 * [dangdungcntt/youtube-stream-url](https://github.com/dangdungcntt/youtube-stream-url): Get youtube video url (included copyright music video)
+* [naveenland4/YouTube_to_m3u](https://github.com/naveenland4/YouTube_to_m3u): Grab .m3u8 from YouTube live channels and makes .m3u IPTV Playlist from various languages and Events.  Tamil / Malayalam / English / Hindi / French / Kids / Sports / Urudu etc.
 * [rinov/YoutubeKit](https://github.com/rinov/YoutubeKit): YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app
 * [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader): Scripted uploads to Youtube
 * [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc): media downloader and library for various sites.
