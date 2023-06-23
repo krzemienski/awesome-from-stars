@@ -4976,7 +4976,6 @@
 * [Itiviti/simple-slack-api](https://github.com/Itiviti/simple-slack-api): (simple) Java Slack client library
 * [testdrivenio/simple-task-queue](https://github.com/testdrivenio/simple-task-queue): asynchronous task queues using python's multiprocessing library
 * [rBurgett/simple-uploader](https://github.com/rBurgett/simple-uploader): Simple S3 Uploader
-* [KTachibanaM/simple-url-previewer](https://github.com/KTachibanaM/simple-url-previewer): A simple service that extracts metadata from a URL
 * [simplejson/simplejson](https://github.com/simplejson/simplejson): simplejson is a simple, fast, extensible JSON encoder/decoder for Python 
 * [SimpleSSAI/SimpleSSAI](https://github.com/SimpleSSAI/SimpleSSAI): Simple API-driven Server Side Ad Insertion(SSAI). An easy to use solution for stitching Ads into content to protect ad monitization
 * [leixiaohua1020/simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile): ffmpeg examples in Android / IOS / WinPhone
@@ -5677,7 +5676,7 @@
 * [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
 * [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
-* [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The new, official app repository of the Umbrel App Store. Submit apps and updates here.
+* [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
 * [getumbrel/umbrel-community-app-store](https://github.com/getumbrel/umbrel-community-app-store): Template repository for a creating your own Community App Store for Umbrel. Click "Use this template" and add your apps!
 * [devxoul/Umbrella](https://github.com/devxoul/Umbrella): ☂️ Analytics abstraction layer for Swift
 * [wimpysworld/umpc-ubuntu](https://github.com/wimpysworld/umpc-ubuntu): Scripts for UMPCs such as GPD Pocket, Pocket 2, MicroPC & TopJoy Falcon
