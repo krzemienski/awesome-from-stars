@@ -428,6 +428,7 @@
 * [beetbox/audioread](https://github.com/beetbox/audioread): cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python
 * [syedhali/AudioStreamer](https://github.com/syedhali/AudioStreamer): A Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine
 * [dimitris-c/AudioStreaming](https://github.com/dimitris-c/AudioStreaming): An AudioPlayer/Streaming library for iOS written in Swift using AVAudioEngine.
+* [ymgenesis/AudioTool](https://github.com/ymgenesis/AudioTool): A bash script to automate management of audio streams in MKV files. Ability to create EAC3 7.1 from TrueHD & DTS, EAC3 and AC3 5.1 and below from anything, and strip audio streams from MKV files.
 * [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText): Transcribe and translate audio to text using Whisper and DeepL.
 * [saki4510t/AudioVideoRecordingSample](https://github.com/saki4510t/AudioVideoRecordingSample): Simultaneous audio and video recording sample using MediaCodec/MediaMuxer
 * [facebookarchive/augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control): Augmented Traffic Control: A tool to simulate network conditions
@@ -1869,7 +1870,7 @@
 * [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop): AWS Workshop for Learning EKS
 * [weaveworks/eksctl](https://github.com/weaveworks/eksctl): The official CLI for Amazon EKS
 * [mehmettaskiner/eksi-sozluk-reloaded](https://github.com/mehmettaskiner/eksi-sozluk-reloaded): eksi sozluk clone with python and flask
-* [elunez/eladmin](https://github.com/elunez/eladmin): 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+* [elunez/eladmin](https://github.com/elunez/eladmin): eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 * [awsdocs/elastic-beanstalk-samples](https://github.com/awsdocs/elastic-beanstalk-samples): This repository contains code and configuration samples (e.g. .ebextensions) for AWS Elastic Beanstalk.
 * [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open, Distributed, RESTful Search Engine
 * [lkzhao/ElasticTransition](https://github.com/lkzhao/ElasticTransition): A UIKit custom transition that simulates an elastic drag. Written in Swift.
@@ -2438,6 +2439,7 @@
 * [petrpavlik/GeoSwift](https://github.com/petrpavlik/GeoSwift): Location-related APIs intended to be used by server-side Swift applications.
 * [regexident/Gestalt](https://github.com/regexident/Gestalt): An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
+* [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys): Official repository for getwvkeys.cc
 * [wcchristian/gh-action-notion-card](https://github.com/wcchristian/gh-action-notion-card): A github action to build a notion card.
 * [bcochofel/gh-project-cookiecutter](https://github.com/bcochofel/gh-project-cookiecutter): cookiecutter template for GitHub projects
 * [Saif807380/gh-topics-scraper](https://github.com/Saif807380/gh-topics-scraper): Scrape 100 most popular repositories by topic on Github
@@ -2542,6 +2544,7 @@
 * [phavekes/gnome-extension-all-ip-addresses](https://github.com/phavekes/gnome-extension-all-ip-addresses): This is the code behind the GNOME Shell Extension called ALL IP Addresses, available in the GNOME Shell Extension store.
 * [CharlieQLe/gnome-extension-gtk3-theme-switcher](https://github.com/CharlieQLe/gnome-extension-gtk3-theme-switcher): None
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
+* [davesteele/gnome-gmail](https://github.com/davesteele/gnome-gmail): Integrate GMail into the Linux Desktop
 * [hardpixel/gnome-hud](https://github.com/hardpixel/gnome-hud): Unity like HUD menu for the GNOME Desktop Environment using rofi menu.
 * [vmavromatis/gnome-layout-manager](https://github.com/vmavromatis/gnome-layout-manager): A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.
 * [ethanwharris/gnome-nvidia-extension](https://github.com/ethanwharris/gnome-nvidia-extension): A Gnome extension to show NVIDIA GPU information
@@ -3441,6 +3444,7 @@
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
+* [ghostwords/localore](https://github.com/ghostwords/localore): Wagtail-based CMS and Ansible playbooks for Localore: Finding America
 * [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel): expose yourself
 * [intuit/LocationManager](https://github.com/intuit/LocationManager): Easily get the device's current location on iOS.
@@ -3499,6 +3503,7 @@
 * [carlanton/m3u8-parser](https://github.com/carlanton/m3u8-parser): A simple HLS playlist parser for Java
 * [fbritoferreira/m3u8-parser](https://github.com/fbritoferreira/m3u8-parser): M3U8 Playlist parser
 * [videojs/m3u8-parser](https://github.com/videojs/m3u8-parser): An m3u8 parser.
+* [Eltik/M3U8-Proxy](https://github.com/Eltik/M3U8-Proxy): Proxy m3u8 files through pure JavaScript.
 * [marceloboeira/m3u8.cr](https://github.com/marceloboeira/m3u8.cr): Generate and parse m3u8 playlists for HLS
 * [huzhenjie/m3u8_downloader](https://github.com/huzhenjie/m3u8_downloader): 基于Python的m3u8下载器
 * [wwwtete/M3u8CacheProxy](https://github.com/wwwtete/M3u8CacheProxy): 一套缓存m3u8视频的lib，第一次播放时将视频切片缓存到本地，第二次播放时直接读取缓存过的切片不需要再次下载！
@@ -3526,7 +3531,7 @@
 * [singhkshitij/MagicPrint-ECommerce-App-Android](https://github.com/singhkshitij/MagicPrint-ECommerce-App-Android): E-Commerce App Source Code for Android with Material Design Pattern Using Firebase and MySQL with Android Lottie Animations just like Flipkart, Myntra and Amazon :)
 * [ellisonleao/magictools](https://github.com/ellisonleao/magictools): :video_game: :pencil: A list of Game Development resources to make magic happen.
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
-* [bkw777/mainline](https://github.com/bkw777/mainline): A continuation of the free version of ukuu.
+* [bkw777/mainline](https://github.com/bkw777/mainline): Install mainline kernel packages from kernel.ubuntu.com
 * [makedeb/makedeb](https://github.com/makedeb/makedeb): A simplicity-focused packaging tool for Debian archives
 * [uber-archive/makisu](https://github.com/uber-archive/makisu): Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 * [vadymmarkov/Malibu](https://github.com/vadymmarkov/Malibu): :surfer: Malibu is a networking library built on promises
@@ -4368,7 +4373,7 @@
 * [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources): Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course 
 * [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python): Practical Python Programming (course by @dabeaz)
 * [connervieira/Predator](https://github.com/connervieira/Predator): A multipurpose computer vision system focused on offline, privacy focused license plate recognition
-* [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to orchestrate and observe your data pipelines
+* [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 * [kean/Preheat](https://github.com/kean/Preheat): Automates prefetching of content in UITableView and UICollectionView
 * [IcaliaLabs/Presentr](https://github.com/IcaliaLabs/Presentr): Swift wrapper for custom ViewController presentations on iOS
 * [RokuRoad/prettier-plugin](https://github.com/RokuRoad/prettier-plugin): Prettier plugin for BrightScript
@@ -4405,7 +4410,7 @@
 * [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google's data interchange format
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
 * [chockenberry/Provisioning](https://github.com/chockenberry/Provisioning): A Quick Look plug-in for .mobileprovision files
-* [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3): The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator 
+* [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3): Iceman Fork - Proxmark3
 * [WhatsApp/proxy](https://github.com/WhatsApp/proxy): This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
 * [NVIDIA/proxyfs](https://github.com/NVIDIA/proxyfs): None
@@ -4873,7 +4878,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): SCTE-35 that sucks less. threefive is the industry leading SCTE-35 tool. Decoder, Encoder. 
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): God told me to give SCTE-35 tech to the people. Behold, threefive.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
@@ -4985,7 +4990,7 @@
 * [sessionboy/sinn](https://github.com/sessionboy/sinn): a blog based on of react,webpack3,dva,redux,material-ui,fetch,generator,markdown,nodejs,koa2,mongoose,docker,shell,and async/await  基于react+koa2技术栈的个人开源博客系统 
 * [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren): Notify users when a new version of your app is available and prompt them to upgrade.
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes 
 * [changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer): video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.
 * [changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer): A HTTP Media Caching Framework. It can cache FILE or HLS media. 音视频边播边缓存框架, 支持 HLS(m3u8) 和 FILE(mp4, mp3等).
@@ -5759,6 +5764,7 @@
 * [VeinGuo/VGPlayer](https://github.com/VeinGuo/VGPlayer): 📺  A simple iOS video player by Vein.
 * [bcedu/VGrive](https://github.com/bcedu/VGrive): Google Drive client  for linux
 * [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
+* [davesteele/viagee](https://github.com/davesteele/viagee): Integrate GMail into the Linux Desktop
 * [HeZhang1994/video-audio-tools](https://github.com/HeZhang1994/video-audio-tools): To process/edit video and audio with Python+FFmpeg. [简单实用] 基于Python+FFmpeg的视频和音频的处理/剪辑。
 * [nytimes/video-captions-api](https://github.com/nytimes/video-captions-api): Agnostic API to generate captions for media assets across different transcription services. 
 * [pixop/video-compare](https://github.com/pixop/video-compare): Split screen video comparison tool using FFmpeg and SDL2
@@ -6024,6 +6030,7 @@
 * [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit): Showcase your awesome new app features 📱
 * [Eyevinn/whip](https://github.com/Eyevinn/whip): Client and Server modules for WebRTC HTTP Ingestion Protocol (WHIP)
 * [openai/whisper](https://github.com/openai/whisper): Robust Speech Recognition via Large-Scale Weak Supervision
+* [JustFixNYC/who-owns-what](https://github.com/JustFixNYC/who-owns-what): Who owns what in nyc?
 * [Eyevinn/whpp-client](https://github.com/Eyevinn/whpp-client): WebRTC HTTP Playback Protocol client library
 * [apache/wicket](https://github.com/apache/wicket): Apache Wicket - Component-based Java web framework
 * [cryptonek/widevine-l3-decryptor](https://github.com/cryptonek/widevine-l3-decryptor): Mirror of the original repo
@@ -6132,6 +6139,7 @@
 * [aslanyanhaik/youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): youtube iOS app template written in swift 5
 * [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
 * [dangdungcntt/youtube-stream-url](https://github.com/dangdungcntt/youtube-stream-url): Get youtube video url (included copyright music video)
+* [benmoose39/YouTube_to_m3u](https://github.com/benmoose39/YouTube_to_m3u): Grabs m3u from YouTube live.
 * [naveenland4/YouTube_to_m3u](https://github.com/naveenland4/YouTube_to_m3u): Grab .m3u8 from YouTube live channels and makes .m3u IPTV Playlist from various languages and Events.  Tamil / Malayalam / English / Hindi / French / Kids / Sports / Urudu etc.
 * [rinov/YoutubeKit](https://github.com/rinov/YoutubeKit): YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app
 * [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader): Scripted uploads to Youtube

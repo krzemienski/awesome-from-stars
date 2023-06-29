@@ -1094,6 +1094,9 @@
     "EliverLara/Sweet": [
         "Other"
     ],
+    "Eltik/M3U8-Proxy": [
+        "Other"
+    ],
     "EmilHernvall/dnsguide": [
         "Other"
     ],
@@ -1757,6 +1760,9 @@
     "Gerzer/Binary-Shark": [
         "Other"
     ],
+    "GetWVKeys/getwvkeys": [
+        "Other"
+    ],
     "GhostWriters/DockSTARTer": [
         "Other"
     ],
@@ -2223,6 +2229,9 @@
         "Other"
     ],
     "JustFixNYC/nycdb-k8s-loader": [
+        "Other"
+    ],
+    "JustFixNYC/who-owns-what": [
         "Other"
     ],
     "Justintime50/github-archive": [
@@ -5585,6 +5594,9 @@
     "benjaminmayo/merchantkit": [
         "Other"
     ],
+    "benmoose39/YouTube_to_m3u": [
+        "Other"
+    ],
     "benphelps/homepage": [
         "Other"
     ],
@@ -6885,6 +6897,12 @@
         "Other"
     ],
     "davedelong/MVCTodo": [
+        "Other"
+    ],
+    "davesteele/gnome-gmail": [
+        "Other"
+    ],
+    "davesteele/viagee": [
         "Other"
     ],
     "davestephens/ansible-nas": [
@@ -8598,6 +8616,9 @@
         "Other"
     ],
     "ghostop14/sparrow-wifi": [
+        "Other"
+    ],
+    "ghostwords/localore": [
         "Other"
     ],
     "ghouet/chrome-hls": [
@@ -17985,6 +18006,9 @@
         "Other"
     ],
     "yigiterinc/video-streaming-over-http": [
+        "Other"
+    ],
+    "ymgenesis/AudioTool": [
         "Other"
     ],
     "yomun/gnome-backup-tools": [
