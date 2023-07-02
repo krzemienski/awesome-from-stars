@@ -2402,6 +2402,15 @@
     "Leleat/Tiling-Assistant": [
         "Other"
     ],
+    "LemmyNet/lemmy": [
+        "Other"
+    ],
+    "LemmyNet/lemmy-ansible": [
+        "Other"
+    ],
+    "LemmyNet/lemmy-ui": [
+        "Other"
+    ],
     "LemonBoy/bar": [
         "Other"
     ],
@@ -3260,6 +3269,9 @@
     "SRGSSR/srgmediaplayer-apple": [
         "Other"
     ],
+    "SRVFI-Raws/batch-video-encoder": [
+        "Other"
+    ],
     "SVProgressHUD/SVProgressHUD": [
         "Other"
     ],
@@ -3672,9 +3684,6 @@
         "Other"
     ],
     "Tjatse/pm2-gui": [
-        "Other"
-    ],
-    "Tohrusky/batch-video-encoder": [
         "Other"
     ],
     "Toinane/colorpicker": [
@@ -5688,6 +5697,12 @@
         "Other"
     ],
     "bitmovin/bitmovin-player-react-native": [
+        "Other"
+    ],
+    "bitmovin/bitmovin-player-ui": [
+        "Other"
+    ],
+    "bitmovin/bitmovin-player-web-samples": [
         "Other"
     ],
     "bitmovin/demos": [
@@ -7911,6 +7926,9 @@
         "Other"
     ],
     "escaped/django-video-encoding": [
+        "Other"
+    ],
+    "eshaz/icecast-metadata-js": [
         "Other"
     ],
     "eshepelyuk/cmak-docker": [
@@ -12500,6 +12518,9 @@
     "morethanmin/morethan-log": [
         "Other"
     ],
+    "mormaer/Mlem": [
+        "Other"
+    ],
     "moshfeu/y2mp3": [
         "Other"
     ],
@@ -13854,6 +13875,9 @@
         "Other"
     ],
     "pixop/video-compare": [
+        "Other"
+    ],
+    "pkalogiros/AudioMass": [
         "Other"
     ],
     "pksunkara/octonode": [

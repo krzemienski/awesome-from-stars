@@ -294,7 +294,7 @@
 * [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios): 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling): ✏️ Tooling for development and production Apollo workflows
 * [raindropio/app](https://github.com/raindropio/app): None
-* [standardnotes/app](https://github.com/standardnotes/app): End-to-end encrypted notes app. Write fearlessly. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
+* [standardnotes/app](https://github.com/standardnotes/app): Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
@@ -421,6 +421,7 @@
 * [kolber/audiojs](https://github.com/kolber/audiojs): A cross-browser javascript wrapper for the html5 audio tag
 * [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit): Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 * [AudioKit/AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): AudioKit Synth One: Open-Source iOS Synthesizer App
+* [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass): Free full-featured web-based audio & waveform editing tool
 * [hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer): High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.
 * [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js): High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.
 * [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer): AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
@@ -926,7 +927,7 @@
 * [avleen/bashttpd](https://github.com/avleen/bashttpd): A web server written in bash
 * [ZaifSenpai/Batch-Py-Remux](https://github.com/ZaifSenpai/Batch-Py-Remux): Convert mkv video to hevc (h.265)
 * [Azure-Samples/batch-python-ffmpeg-tutorial](https://github.com/Azure-Samples/batch-python-ffmpeg-tutorial): A Python application that uses Batch to process media files in parallel with the ffmpeg open-source tool.
-* [Tohrusky/batch-video-encoder](https://github.com/Tohrusky/batch-video-encoder): An interactive Batch Video Encoder using FFmpeg with Progress Restore.
+* [SRVFI-Raws/batch-video-encoder](https://github.com/SRVFI-Raws/batch-video-encoder): An interactive Batch Video Encoder using FFmpeg with Progress Restore.
 * [wieslawsoltes/BatchEncoder](https://github.com/wieslawsoltes/BatchEncoder): BatchEncoder is an audio files conversion software.
 * [five82/batchtranscode](https://github.com/five82/batchtranscode): None
 * [batnoter/batnoter](https://github.com/batnoter/batnoter): An open source, markdown-based, self-hosted note taking webapp.
@@ -958,6 +959,8 @@
 * [bitmovin/bitmovin-java](https://github.com/bitmovin/bitmovin-java): DEPRECATED: Java client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-api-sdk-java
 * [Eyevinn/bitmovin-player-ios-analytics-conviva](https://github.com/Eyevinn/bitmovin-player-ios-analytics-conviva): Conviva Analytics Integration for the Bitmovin Player iOS SDK
 * [bitmovin/bitmovin-player-react-native](https://github.com/bitmovin/bitmovin-player-react-native): Official React Native bindings for Bitmovin's Mobile Player SDKs.
+* [bitmovin/bitmovin-player-ui](https://github.com/bitmovin/bitmovin-player-ui): The Bitmovin Adaptive Streaming Player UI
+* [bitmovin/bitmovin-player-web-samples](https://github.com/bitmovin/bitmovin-player-web-samples): Showcases build around the Bitmovin Adaptive Streaming Player, demonstrating usage and capabilities of the HTML5 based HLS and MPEG-DASH player, as well as the Flash based Fallback.
 * [huiping192/BitrateGraphGenerator](https://github.com/huiping192/BitrateGraphGenerator): Bitrate Graph Generator is a web application that generates graphs of video and audio bitrates from a given video URL using the plotbitrate library.
 * [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine -
 * [toshi0383/Bitrise-iOS](https://github.com/toshi0383/Bitrise-iOS): Client iOS app for bitrise.io 🚀
@@ -2939,6 +2942,7 @@
 * [gohypergiant/IAPKit](https://github.com/gohypergiant/IAPKit): A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials.
 * [IBDecodable/IBLinter](https://github.com/IBDecodable/IBLinter): A linter tool for Interface Builder
 * [jakeheis/Ice](https://github.com/jakeheis/Ice): ❄️ A developer friendly package manager for Swift; 100% compatible with Swift Package Manager
+* [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js): Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
 * [iced-rs/iced](https://github.com/iced-rs/iced): A cross-platform GUI library for Rust, inspired by Elm
 * [notion-enhancer/icons](https://github.com/notion-enhancer/icons): a collection of custom icons for use with the notion-enhancer's "icon sets" integration
 * [Eyevinn/id3.js](https://github.com/Eyevinn/id3.js): Simple ID3 parser in Javascript
@@ -3350,6 +3354,9 @@
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede): Lean's LEDE source
 * [doocs/leetcode](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 * [leixiaohua1020/leixiaohua1020.github.io](https://github.com/leixiaohua1020/leixiaohua1020.github.io): None
+* [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy): 🐀 A link aggregator and forum for the fediverse
+* [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible): A docker deploy for ansible
+* [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui): The official web app for lemmy.
 * [NationalSecurityAgency/lemongraph](https://github.com/NationalSecurityAgency/lemongraph): Log-based transactional graph engine
 * [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -3682,6 +3689,7 @@
 * [klaxa/mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2): The streaming solution to end all streaming problems
 * [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 * [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder): Find memory leaks in your iOS app at develop time.
+* [mormaer/Mlem](https://github.com/mormaer/Mlem): The Lemmy client
 * [mltframework/mlt](https://github.com/mltframework/mlt): MLT Multimedia Framework
 * [mrpdaemon/mmf](https://github.com/mrpdaemon/mmf): Video transcoding ffmpeg frontend in Python
 * [MillmanY/MMPlayerView](https://github.com/MillmanY/MMPlayerView): Custom AVPlayerLayer on view and transition player with good effect like youtube and facebook 
@@ -4343,7 +4351,7 @@
 * [kizitonwose/PodsUpdater](https://github.com/kizitonwose/PodsUpdater): A macOS app that helps you manage dependency releases in your Podfile.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
 * [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters
-* [pola-rs/polars](https://github.com/pola-rs/polars): Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+* [pola-rs/polars](https://github.com/pola-rs/polars): Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 * [shzlw/poli](https://github.com/shzlw/poli): An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 * [jech/polipo](https://github.com/jech/polipo): The Polipo caching HTTP proxy
 * [teejee2008/polo](https://github.com/teejee2008/polo): Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
@@ -4543,7 +4551,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4878,7 +4886,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): God told me to give SCTE-35 tech to the people. Behold, threefive.
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the Industry leading SCTE-35 tool. If you saw a commercial today in North America, threefive was most likely involved.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
