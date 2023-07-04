@@ -3689,7 +3689,6 @@
 * [klaxa/mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2): The streaming solution to end all streaming problems
 * [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 * [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder): Find memory leaks in your iOS app at develop time.
-* [mormaer/Mlem](https://github.com/mormaer/Mlem): The Lemmy client
 * [mltframework/mlt](https://github.com/mltframework/mlt): MLT Multimedia Framework
 * [mrpdaemon/mmf](https://github.com/mrpdaemon/mmf): Video transcoding ffmpeg frontend in Python
 * [MillmanY/MMPlayerView](https://github.com/MillmanY/MMPlayerView): Custom AVPlayerLayer on view and transition player with good effect like youtube and facebook 
@@ -3719,6 +3718,7 @@
 * [softdevca/mootranscode](https://github.com/softdevca/mootranscode): Local audio and video transcoding for Moodle
 * [mopidy/mopidy](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log): 😎 A static blog using notion database
+* [mlemgroup/mormaer-mlem](https://github.com/mlemgroup/mormaer-mlem): The Lemmy client
 * [acotilla91/Morse-Vision](https://github.com/acotilla91/Morse-Vision): More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text. 
 * [krad/morsel](https://github.com/krad/morsel): 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS.
 * [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell
@@ -4551,7 +4551,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4886,7 +4886,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the Industry leading SCTE-35 tool. If you saw a commercial today in North America, threefive was most likely involved.
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): The most advanced SCTE-35 tool available,  threefive baby, threefive.   
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
@@ -5534,7 +5534,7 @@
 * [Eyevinn/toolbox](https://github.com/Eyevinn/toolbox): A set of Docker containers with Streaming tools
 * [vapor/toolbox](https://github.com/vapor/toolbox): Simplifies common command line tasks when using Vapor
 * [adamlatchem/toolchest](https://github.com/adamlatchem/toolchest): Useful Tools
-* [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+* [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 * [actions/toolkit](https://github.com/actions/toolkit): The GitHub ToolKit for developing GitHub Actions.
 * [app-developers/top](https://github.com/app-developers/top): Top App Developers - September 2022
 * [fflewddur/tophat](https://github.com/fflewddur/tophat): View CPU, memory, disk, and network activity in the GNOME top bar.
