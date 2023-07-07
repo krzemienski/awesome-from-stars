@@ -548,9 +548,6 @@
     "CalcProgrammer1/OpenRGB": [
         "Other"
     ],
-    "CanonicalLtd/aws-marketplace-ubuntu-scraper": [
-        "Other"
-    ],
     "CanonicalLtd/canonical-kubernetes-demos": [
         "Other"
     ],
@@ -4820,6 +4817,9 @@
     "apioo/fusio": [
         "Other"
     ],
+    "apitable/apitable": [
+        "Other"
+    ],
     "apivideo/api.video-nodejs-client": [
         "Other"
     ],
@@ -5315,7 +5315,7 @@
     "aws-solutions/content-localization-on-aws": [
         "Other"
     ],
-    "aws-solutions/live-stream-on-aws": [
+    "aws-solutions/live-streaming-on-aws": [
         "Other"
     ],
     "aws-solutions/live-streaming-on-aws-with-amazon-s3": [
@@ -6024,6 +6024,9 @@
         "Other"
     ],
     "cannonbeach/ott-packager": [
+        "Other"
+    ],
+    "canonical/aws-marketplace-ubuntu-scraper": [
         "Other"
     ],
     "canonical/microk8s": [
@@ -12417,9 +12420,6 @@
         "Other"
     ],
     "mlc-ai/mlc-llm": [
-        "Other"
-    ],
-    "mlemgroup/mormaer-mlem": [
         "Other"
     ],
     "mli/autocut": [

@@ -288,6 +288,7 @@
 * [apifox/apifox](https://github.com/apifox/apifox): Apifox = Postman + Swagger + Mock + JMeter。Apifox 官网：https://www.apifox.cn/
 * [Tencent/APIJSON](https://github.com/Tencent/APIJSON): 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
 * [apimatic/apimatic-cli](https://github.com/apimatic/apimatic-cli): A CLI for APIMatic to validate and transform API specs and to create client libraries. 
+* [apitable/apitable](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. 
 * [CodeEagle/APlay](https://github.com/CodeEagle/APlay): A Better(Maybe) iOS Audio Stream、Cache、Play Framework
 * [apolloconfig/apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -366,7 +367,7 @@
 * [LearnDataSci/articles](https://github.com/LearnDataSci/articles): A repository for the source code, notebooks, data, files, and other assets used in the data science and machine learning articles on LearnDataSci
 * [objcio/articles](https://github.com/objcio/articles): All current objc.io articles
 * [pedrohperalta/Articles-iOS-VIPER](https://github.com/pedrohperalta/Articles-iOS-VIPER): Demo app for VIPER design pattern implementation
-* [artilleryio/artillery](https://github.com/artilleryio/artillery):  🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
+* [artilleryio/artillery](https://github.com/artilleryio/artillery):  🌩 Cloud-scale serverless load testing, as easy as 1-2-3. Never fail to scale!
 * [artilleryio/artillery-plugin-datadog](https://github.com/artilleryio/artillery-plugin-datadog): Artillery plugin for sending metrics to Datadog
 * [artilleryio/artillery-plugin-hls](https://github.com/artilleryio/artillery-plugin-hls): 🎥 Load test HTTP Live Streaming (HLS) servers with Artillery 
 * [maiwenchang/ArtPlayer](https://github.com/maiwenchang/ArtPlayer): Kotlin实现的视频播放器，将MediaPlayer与VideoView解耦合，支持切换播放器内核（如ExoPlayer和ijkPlayer），支持自定义控制视图，提供MediaPlayerManager实现全屏模式，小屏幕模式等。
@@ -869,7 +870,7 @@
 * [wazcov/AWS-Java-Samples](https://github.com/wazcov/AWS-Java-Samples): A repository of basic AWS samples to get you started connecting to various AWS Services using the V1 and V2 SDKS
 * [binoculars/aws-lambda-ffmpeg](https://github.com/binoculars/aws-lambda-ffmpeg): An S3-triggered Amazon Web Services Lambda function that runs your choice of FFmpeg 🎬 commands on a file  🎥 and uploads the outputs to a bucket.
 * [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller): A Kubernetes controller for Elastic Load Balancers
-* [CanonicalLtd/aws-marketplace-ubuntu-scraper](https://github.com/CanonicalLtd/aws-marketplace-ubuntu-scraper): CLI to return the Ubuntu AMIs in AWS marketplace
+* [canonical/aws-marketplace-ubuntu-scraper](https://github.com/canonical/aws-marketplace-ubuntu-scraper): CLI to return the Ubuntu AMIs in AWS marketplace
 * [awslabs/aws-media-replay-engine](https://github.com/awslabs/aws-media-replay-engine): Media Replay Engine (MRE) is a framework to build automated video clipping and replay (highlight) generation pipelines for live and video-on-demand content.
 * [aws-samples/aws-media-replay-engine-samples](https://github.com/aws-samples/aws-media-replay-engine-samples): ** DEPRECATED: Moved to aws-media-replay-engine/samples/ **
 * [aeksco/aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline): :mag: Data pipeline for crawling PDFs from the Web and transforming their contents into structured data using AWS textract. Built with AWS CDK + TypeScript 
@@ -3436,7 +3437,7 @@
 * [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch): This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 * [unifiedstreaming/live-demo-cmaf](https://github.com/unifiedstreaming/live-demo-cmaf): Live Demo using Live Media Ingest (Interface1) 
 * [AwakeningSV/live-infrastructure](https://github.com/AwakeningSV/live-infrastructure): Live video transcoding infrastructure
-* [aws-solutions/live-stream-on-aws](https://github.com/aws-solutions/live-stream-on-aws): The live stream solution is a reference deployment that demonstrates how to deliver highly available live streaming video through an integrated workflow between Elemental Cloud and AWS.
+* [aws-solutions/live-streaming-on-aws](https://github.com/aws-solutions/live-streaming-on-aws): The live stream solution is a reference deployment that demonstrates how to deliver highly available live streaming video through an integrated workflow between Elemental Cloud and AWS.
 * [aws-solutions/live-streaming-on-aws-with-amazon-s3](https://github.com/aws-solutions/live-streaming-on-aws-with-amazon-s3): Live streaming on AWS with Amazon S3 automatically configures AWS Elemental MediaLive, Amazon S3 and Amazon CloudFront to ingest, encode, package and deliver a single source live stream through the AWS Cloud. The Solution provides 3 Encoding profiles to support 1080p through 288p HTTP live streaming (HLS) outputs.
 * [scribd/LiveCollections](https://github.com/scribd/LiveCollections): Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.
 * [gwuhaolin/livego](https://github.com/gwuhaolin/livego): live video streaming server in golang
@@ -3718,7 +3719,6 @@
 * [softdevca/mootranscode](https://github.com/softdevca/mootranscode): Local audio and video transcoding for Moodle
 * [mopidy/mopidy](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log): 😎 A static blog using notion database
-* [mlemgroup/mormaer-mlem](https://github.com/mlemgroup/mormaer-mlem): The Lemmy client
 * [acotilla91/Morse-Vision](https://github.com/acotilla91/Morse-Vision): More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text. 
 * [krad/morsel](https://github.com/krad/morsel): 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS.
 * [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell
@@ -3739,7 +3739,7 @@
 * [essential61/mp4analyser](https://github.com/essential61/mp4analyser): mp4 file analyser written in Python
 * [gpac/mp4box.js](https://github.com/gpac/mp4box.js): JavaScript version of GPAC's MP4Box tool
 * [MasayukiSuda/Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android): This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
-* [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff): Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info tool to print information about a box tree.
+* [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff): Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info, mp4ff-pslister, mp4ff-nallister, mp4ff-wvttlister, and mp4ff-crop tools as well as example code.
 * [kevinGodell/mp4frag](https://github.com/kevinGodell/mp4frag): Parser that works with ffmpeg to read piped data and fragment mp4 into an initialization segment and media segments. It can also get the codec info and generate an fmp4 HLS m3u8 playlist.
 * [mozilla/mp4parse-rust](https://github.com/mozilla/mp4parse-rust): Parser for ISO Base Media Format aka video/mp4 written in Rust.
 * [sannies/mp4parser](https://github.com/sannies/mp4parser): A Java API to read, write and create MP4 files
