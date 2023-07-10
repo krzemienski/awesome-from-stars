@@ -367,7 +367,7 @@
 * [LearnDataSci/articles](https://github.com/LearnDataSci/articles): A repository for the source code, notebooks, data, files, and other assets used in the data science and machine learning articles on LearnDataSci
 * [objcio/articles](https://github.com/objcio/articles): All current objc.io articles
 * [pedrohperalta/Articles-iOS-VIPER](https://github.com/pedrohperalta/Articles-iOS-VIPER): Demo app for VIPER design pattern implementation
-* [artilleryio/artillery](https://github.com/artilleryio/artillery):  🌩 Cloud-scale serverless load testing, as easy as 1-2-3. Never fail to scale!
+* [artilleryio/artillery](https://github.com/artilleryio/artillery):  🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 * [artilleryio/artillery-plugin-datadog](https://github.com/artilleryio/artillery-plugin-datadog): Artillery plugin for sending metrics to Datadog
 * [artilleryio/artillery-plugin-hls](https://github.com/artilleryio/artillery-plugin-hls): 🎥 Load test HTTP Live Streaming (HLS) servers with Artillery 
 * [maiwenchang/ArtPlayer](https://github.com/maiwenchang/ArtPlayer): Kotlin实现的视频播放器，将MediaPlayer与VideoView解耦合，支持切换播放器内核（如ExoPlayer和ijkPlayer），支持自定义控制视图，提供MediaPlayerManager实现全屏模式，小屏幕模式等。
@@ -3267,7 +3267,7 @@
 * [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from textual descriptions!
 * [kstenerud/KSCrash](https://github.com/kstenerud/KSCrash): The Ultimate iOS Crash Reporter
 * [easonlin404/ksm](https://github.com/easonlin404/ksm): FairPlay Key Security Module written in Go (Golang).
-* [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer): iOS/macOS/tvOS video player
+* [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer): iOS/macOS/tvOS/visionOS video player
 * [confluentinc/ksql](https://github.com/confluentinc/ksql): The database purpose-built for stream processing applications.
 * [ksvc/KSYMediaPlayer_iOS](https://github.com/ksvc/KSYMediaPlayer_iOS): 金山云iOS播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds）
 * [google/ktsan](https://github.com/google/ktsan): Kernel Thread Sanitizer, a fast data race detector for the Linux kernel
@@ -4633,7 +4633,7 @@
 * [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): Create Reddit Videos with just✨ one command ✨
 * [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 * [vapor/redis](https://github.com/vapor/redis): Vapor provider for RediStack
-* [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator): A golang based redis operator that will make/oversee Redis standalone/cluster mode setup on top of the Kubernetes.
+* [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator): A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 * [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON): RedisJSON - a JSON data type for Redis
 * [redisson/redisson](https://github.com/redisson/redisson): Redisson - Easy Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 * [Redocly/redoc](https://github.com/Redocly/redoc): 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -5187,8 +5187,8 @@
 * [ryanmcdermott/starmark](https://github.com/ryanmcdermott/starmark): :octocat: Turn your GitHub stars into Chrome bookmarks
 * [fluteds/starred](https://github.com/fluteds/starred): All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
 * [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
-* [berryes/stars](https://github.com/berryes/stars): my github stars in a collection
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
+* [hldup/stars](https://github.com/hldup/stars): my github stars in a collection
 * [daltoniam/Starscream](https://github.com/daltoniam/Starscream): Websockets in swift for iOS and OSX
 * [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [Start9Labs/start-os](https://github.com/Start9Labs/start-os): Browser-based, graphical operating system for a personal server.
