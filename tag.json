@@ -6179,6 +6179,9 @@
     "cevr/hyper-mayukai": [
         "Other"
     ],
+    "cfour-hi/gitstars": [
+        "Other"
+    ],
     "cgoldsby/LoginCritter": [
         "Other"
     ],
@@ -7692,6 +7695,9 @@
         "Other"
     ],
     "ekreloff/Deep-Link-Tester-tvOS-": [
+        "Other"
+    ],
+    "eksctl-io/eksctl": [
         "Other"
     ],
     "ekzhang/bore": [
@@ -16937,7 +16943,7 @@
     "ubuntu-flutter-community/settings": [
         "Other"
     ],
-    "ubuntu/software": [
+    "ubuntu/app-store": [
         "Other"
     ],
     "ubuntu/ubuntu-make": [
@@ -17568,9 +17574,6 @@
         "Other"
     ],
     "weaveworks/eks-quickstart-app-dev": [
-        "Other"
-    ],
-    "weaveworks/eksctl": [
         "Other"
     ],
     "weaveworks/scope": [
@@ -18219,9 +18222,6 @@
         "Other"
     ],
     "zmwangx/rust-ffmpeg-sys": [
-        "Other"
-    ],
-    "znlbwo/gitstars": [
         "Other"
     ],
     "zntfdr/Selenops": [

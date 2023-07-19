@@ -245,7 +245,7 @@
 * [wada811/Android-Paint](https://github.com/wada811/Android-Paint): wada811/Android-Paint
 * [Eyevinn/android-player](https://github.com/Eyevinn/android-player): None
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
-* [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as firesticks and google TVs.
+* [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
 * [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Exoplayer
@@ -299,6 +299,7 @@
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
+* [ubuntu/app-store](https://github.com/ubuntu/app-store): App Store for Ubuntu made with Flutter 🧡 💙
 * [pietropizzi/app-talk](https://github.com/pietropizzi/app-talk): Let iOS apps talk - A user contributable directory of iOS apps with x-callback-urls.
 * [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation): AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Check WebServices Status - https://status.getappbox.com/status/web
 * [microsoft/appcenter](https://github.com/microsoft/appcenter): Central repository for App Center open source resources and planning.
@@ -328,7 +329,7 @@
 * [sphinx02/AppStarter](https://github.com/sphinx02/AppStarter): AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Build Fast. Scale Big. All in One Place.
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 * [pop-os/apt-fetcher](https://github.com/pop-os/apt-fetcher): Rust crate for asynchronous and parallel fetching of apt repo files from apt repos. This can be used for updating apt lists and fetching packages from a pool.
 * [martin68/apt-smart](https://github.com/martin68/apt-smart): apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 * [dvershinin/apt-to-dnf](https://github.com/dvershinin/apt-to-dnf): Aliases for creating "apt" CLI interface for RPM based distros
@@ -420,7 +421,7 @@
 * [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT): AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 * [AIGC-Audio/AudioGPT.github.io](https://github.com/AIGC-Audio/AudioGPT.github.io): The demo page of AudioGPT
 * [kolber/audiojs](https://github.com/kolber/audiojs): A cross-browser javascript wrapper for the html5 audio tag
-* [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit): Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
+* [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit): Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 * [AudioKit/AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): AudioKit Synth One: Open-Source iOS Synthesizer App
 * [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass): Free full-featured web-based audio & waveform editing tool
 * [hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer): High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.
@@ -903,7 +904,7 @@
 * [andeaseme/backbeat](https://github.com/andeaseme/backbeat): Automated video transcoding over S3 buckets
 * [scality/backbeat](https://github.com/scality/backbeat): Zenko Backbeat is the core engine for asynchronous replication, optimized for queuing metadata updates and dispatching work to long-running tasks in the background.
 * [BellAppLab/Backgroundable](https://github.com/BellAppLab/Backgroundable): A collection of handy classes, extensions and global functions to handle being in the background using Swift.
-* [bit-team/backintime](https://github.com/bit-team/backintime): Back In Time - A simple backup tool for Linux
+* [bit-team/backintime](https://github.com/bit-team/backintime): Back In Time - An an easy-to-use backup tool for Linux
 * [fuzzy08/backpack-python](https://github.com/fuzzy08/backpack-python): a program that quickly installs programs to a newly loaded arch OS
 * [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open platform for building developer portals
 * [backuppc/backuppc](https://github.com/backuppc/backuppc): BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
@@ -1872,7 +1873,7 @@
 * [weaveworks/eks-quickstart-app-dev](https://github.com/weaveworks/eks-quickstart-app-dev): Example flux manifests for eksctl gitops
 * [carlosalbarranmx/eks-tf-cli](https://github.com/carlosalbarranmx/eks-tf-cli): Create a complete EKS cluster with Terraform and deploy a flask service - Unit Tests with Python - Tiny command line utility.
 * [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop): AWS Workshop for Learning EKS
-* [weaveworks/eksctl](https://github.com/weaveworks/eksctl): The official CLI for Amazon EKS
+* [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl): The official CLI for Amazon EKS
 * [mehmettaskiner/eksi-sozluk-reloaded](https://github.com/mehmettaskiner/eksi-sozluk-reloaded): eksi sozluk clone with python and flask
 * [elunez/eladmin](https://github.com/elunez/eladmin): eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 * [awsdocs/elastic-beanstalk-samples](https://github.com/awsdocs/elastic-beanstalk-samples): This repository contains code and configuration samples (e.g. .ebextensions) for AWS Elastic Beanstalk.
@@ -2529,7 +2530,7 @@
 * [CCristi/GitPR](https://github.com/CCristi/GitPR): None
 * [JadedTuna/gitrepo](https://github.com/JadedTuna/gitrepo): Lightweight Pythonista utility to easily download repos, releases and gists from GitHub
 * [devCharles/gitRepoUpdater](https://github.com/devCharles/gitRepoUpdater): This shell script update all the git repositories that you have in a folder
-* [znlbwo/gitstars](https://github.com/znlbwo/gitstars): Github Stars Repositories Manager
+* [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars): Github Stars Repositories Manager
 * [marcus67/gitsynchista](https://github.com/marcus67/gitsynchista): Python tool for Pythonista to synchronize local files with a Github repository hosted on a WebDav server
 * [87kangsw/GitTime](https://github.com/87kangsw/GitTime): GitTime is GitHub Tracking App. Using ReactorKit, RxSwift, Moya.
 * [brminnick/GitTrends](https://github.com/brminnick/GitTrends): A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos
@@ -3160,7 +3161,7 @@
 * [perenecabuto/json_schema_generator](https://github.com/perenecabuto/json_schema_generator): A simple json schema generator from any json source
 * [willowtreeapps/jsonapi-parser](https://github.com/willowtreeapps/jsonapi-parser): A sample JSON API parser using GSON
 * [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox): HTTP-based JSON storage.
-* [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ✨ Seamlessly visualize your JSON data instantly into graphs.
+* [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 * [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport): JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [json-path/JsonPath](https://github.com/json-path/JsonPath): Java JsonPath implementation
 * [ashphy/jsonpath-online-evaluator](https://github.com/ashphy/jsonpath-online-evaluator): JSONPath Online Evaluator
@@ -3664,7 +3665,7 @@
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
 * [micro/micro](https://github.com/micro/micro): API first development platform
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
-* [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+* [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
 * [ewolff/microservice](https://github.com/ewolff/microservice): Sample of a Microservice setup for my book. Based on Spring Cloud / Netflix / Java / Docker / Docker Compose / Docker Machine / Vagrant
 * [truenas/middleware](https://github.com/truenas/middleware): TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
@@ -3835,7 +3836,7 @@
 * [Jigsaw-Code/net-analysis](https://github.com/Jigsaw-Code/net-analysis): Tools, libraries and applications to analyze network measurements and detect interference.
 * [apache/netbeans](https://github.com/apache/netbeans): Apache NetBeans
 * [netbox-community/netbox](https://github.com/netbox-community/netbox): The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-* [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://www.netdata.cloud
+* [netdata/netdata](https://github.com/netdata/netdata): Monitor your servers, containers, and applications, in high-resolution and in real-time!
 * [arjunkomath/netdata-ios](https://github.com/arjunkomath/netdata-ios): Unofficial Netdata client for iOS, iPadOS & macOS
 * [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi): 网易云音乐 Node.js API service
 * [nickdesaulniers/netfix](https://github.com/nickdesaulniers/netfix): Let's build a Netflix
@@ -4104,7 +4105,7 @@
 * [nerdishbynature/octokit.swift](https://github.com/nerdishbynature/octokit.swift): A Swift API Client for GitHub and GitHub Enterprise
 * [pksunkara/octonode](https://github.com/pksunkara/octonode): github api v3 in nodejs
 * [aarnt/octopi](https://github.com/aarnt/octopi): A powerful Pacman (Package Manager) front end using Qt libs
-* [bellingcat/octosuite](https://github.com/bellingcat/octosuite): Advanced Github OSINT Framework
+* [bellingcat/octosuite](https://github.com/bellingcat/octosuite): An all-in-one GitHub open-source intelligence framework.
 * [ovity/octotree](https://github.com/ovity/octotree): GitHub on steroids
 * [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks): [MIRROR]
 * [liberodark/ODrive](https://github.com/liberodark/ODrive): Google Drive GUI for Windows / Mac / Linux
@@ -5067,7 +5068,6 @@
 * [socketio/socket.io](https://github.com/socketio/socket.io): Realtime application framework (Node.JS server)
 * [socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift): None
 * [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft): A production-grade java implementation of RAFT consensus algorithm.
-* [ubuntu/software](https://github.com/ubuntu/software): Software App for Ubuntu made with Flutter 🧡 💙
 * [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books): A comprehensive list of books on Software Architecture.
 * [VQEG/software-tools](https://github.com/VQEG/software-tools): VQEG's Software and Tools Website
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar): Linux device manager for Logitech devices
@@ -5561,7 +5561,7 @@
 * [drichardson/transcode](https://github.com/drichardson/transcode): batch transcode video files with ffmpeg
 * [gonejack/transcode](https://github.com/gonejack/transcode): This command line do text file encoding converts
 * [kees/transcode](https://github.com/kees/transcode): Video Transcoding Tools
-* [rdavid/transcode](https://github.com/rdavid/transcode): Tool to transcode, inspect, and convert video files
+* [rdavid/transcode](https://github.com/rdavid/transcode): The tool designed to transcode, inspect, and convert video files.
 * [monking/transcode-web-video](https://github.com/monking/transcode-web-video): Quickly transcode a source video to MP4, OGV, and WebM, with scale, bitrate, and screengrab options.
 * [amaurypm/transcode2H264](https://github.com/amaurypm/transcode2H264): Unattended video transcoder to H264 and ACC codecs, in MKV containers.
 * [amaurypm/transcode2H265](https://github.com/amaurypm/transcode2H265): Unattended video transcoder to H265 and ACC codecs, in MKV containers.
