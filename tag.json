@@ -2876,6 +2876,9 @@
     "OpenVisualCloud/Dockerfiles": [
         "Other"
     ],
+    "OpenVisualCloud/Immersive-Video-Sample": [
+        "Other"
+    ],
     "OpenVisualCloud/SVT-HEVC": [
         "Other"
     ],
@@ -2991,9 +2994,6 @@
         "Other"
     ],
     "PlumMediaCenter/PlumMediaCenter.RokuOld": [
-        "Other"
-    ],
-    "Pmant/ioBroker.fakeroku": [
         "Other"
     ],
     "Ponyboy47/TranscodeVideo": [
@@ -4241,6 +4241,9 @@
     "agronholm/sqlacodegen": [
         "Other"
     ],
+    "agsh/rtsp-ffmpeg": [
+        "Other"
+    ],
     "ahmetb/kubectx": [
         "Other"
     ],
@@ -5025,6 +5028,9 @@
         "Other"
     ],
     "arpitjindal97/technology_books": [
+        "Other"
+    ],
+    "arslancb/clipbucket": [
         "Other"
     ],
     "artemnovichkov/iOS-11-by-Examples": [
@@ -5981,6 +5987,9 @@
     "bytedeco/javacv": [
         "Other"
     ],
+    "c-jacquin/gatsby-plugin-linkedin-resume": [
+        "Other"
+    ],
     "c0decracker/video-splitter": [
         "Other"
     ],
@@ -6198,9 +6207,6 @@
         "Other"
     ],
     "chaosblade-io/chaosblade": [
-        "Other"
-    ],
-    "charjac/gatsby-plugin-linkedin-resume": [
         "Other"
     ],
     "charleyup/banzou": [
@@ -6507,6 +6513,9 @@
         "Other"
     ],
     "collabnix/kubelabs": [
+        "Other"
+    ],
+    "comfyanonymous/ComfyUI": [
         "Other"
     ],
     "comingAlive/ffmpegaudioextract.xyz": [
@@ -7406,15 +7415,6 @@
     "dongyg/mildred": [
         "Other"
     ],
-    "donmelton/other_video_transcoding": [
-        "Other"
-    ],
-    "donmelton/video-transcoding-scripts": [
-        "Other"
-    ],
-    "donmelton/video_transcoding": [
-        "Other"
-    ],
     "donnemartin/awesome-aws": [
         "Other"
     ],
@@ -8234,6 +8234,9 @@
     "fdehau/tui-rs": [
         "Other"
     ],
+    "fe80Grau/ytdlp2STRM": [
+        "Other"
+    ],
     "fedecalendino/pysub-parser": [
         "Other"
     ],
@@ -8310,6 +8313,9 @@
         "Other"
     ],
     "firecracker-microvm/firecracker": [
+        "Other"
+    ],
+    "fit-project/fit": [
         "Other"
     ],
     "five82/batchtranscode": [
@@ -8895,6 +8901,9 @@
         "Other"
     ],
     "googlecast/CastVideos-chrome": [
+        "Other"
+    ],
+    "gopavasanth/video-cut-tool": [
         "Other"
     ],
     "gostor/awesome-go-storage": [
@@ -9725,6 +9734,9 @@
     "intuit/LocationManager": [
         "Other"
     ],
+    "iobroker-community-adapters/ioBroker.fakeroku": [
+        "Other"
+    ],
     "ionelmc/cookiecutter-pylibrary": [
         "Other"
     ],
@@ -10421,6 +10433,9 @@
     "jwplayer/jwplayer": [
         "Other"
     ],
+    "jwplayer/jwplayer-react": [
+        "Other"
+    ],
     "jwplayer/mpegdash": [
         "Other"
     ],
@@ -11108,9 +11123,6 @@
     "kwodzicki/video_utils": [
         "Other"
     ],
-    "kyleconroy/sqlc": [
-        "Other"
-    ],
     "kylef/Mockingjay": [
         "Other"
     ],
@@ -11403,6 +11415,15 @@
         "Other"
     ],
     "liquidctl/liquidctl": [
+        "Other"
+    ],
+    "lisamelton/other_video_transcoding": [
+        "Other"
+    ],
+    "lisamelton/video-transcoding-scripts": [
+        "Other"
+    ],
+    "lisamelton/video_transcoding": [
         "Other"
     ],
     "liuchong/awesome-roadmaps": [
@@ -12575,6 +12596,9 @@
     "mpromonet/v4l2rtspserver": [
         "Other"
     ],
+    "mps-youtube/pafy": [
+        "Other"
+    ],
     "mpv-android/mpv-android": [
         "Other"
     ],
@@ -13667,6 +13691,9 @@
     "patrickclery/firetv": [
         "Other"
     ],
+    "paul-gauthier/aider": [
+        "Other"
+    ],
     "paulpacifico/shutter-encoder": [
         "Other"
     ],
@@ -13686,6 +13713,9 @@
         "Other"
     ],
     "pawitp/mkv-player": [
+        "Other"
+    ],
+    "paypal/accessible-html5-video-player": [
         "Other"
     ],
     "paysonwallach/gnome-shell-extension-spruce": [
@@ -15854,6 +15884,9 @@
     "spulec/uncurl": [
         "Other"
     ],
+    "sqlc-dev/sqlc": [
+        "Other"
+    ],
     "sqlectron/sqlectron-gui": [
         "Other"
     ],
@@ -16332,6 +16365,9 @@
         "Other"
     ],
     "teambit/bit": [
+        "Other"
+    ],
+    "techleadhd/chatgpt-retrieval": [
         "Other"
     ],
     "technicalpickles/homesick": [
@@ -17109,9 +17145,6 @@
         "Other"
     ],
     "vapor/websocket-kit": [
-        "Other"
-    ],
-    "vaporberlin/my-first-route": [
         "Other"
     ],
     "vapoursynth/vapoursynth": [
