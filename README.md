@@ -453,6 +453,7 @@
 * [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
 * [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle): Automatically generate and overlay subtitles for any video.
 * [Eyevinn/auto-subtitles](https://github.com/Eyevinn/auto-subtitles): Automatically generate subtitles from an input audio or video file using Open AI Whisper
+* [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder): 🖖 Train an artificial intelligence to play tinder for you
 * [sunrise2575/AutoAVS](https://github.com/sunrise2575/AutoAVS):  Automated Audio, Video, Subtitle Tool (ffmpeg 벌크 인코딩 툴)
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [sunhailin-Leo/AutoConfigShellScript](https://github.com/sunhailin-Leo/AutoConfigShellScript): Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV, Keras, Tensorflow(CPU Mode) and other relative environment.
@@ -468,6 +469,7 @@
 * [shockz-offsec/Automatic-Notion-Backup](https://github.com/shockz-offsec/Automatic-Notion-Backup): This script automates the backup process of Notion data into Markdown and CSV formats. Additionally, the script processes the data to remove any AWS identifiers that may be present in the Markdown files, folders, and internal references to other files in the backup
 * [1337-server/automatic-ripping-machine](https://github.com/1337-server/automatic-ripping-machine): Automatic Ripping Machine (ARM) Scripts
 * [Sukhdip-Sandhu/Automatic-Watermark-Removal](https://github.com/Sukhdip-Sandhu/Automatic-Watermark-Removal): Python computer vision project that aims to automatically remove the watermarks of stock images. The algorithm is designed off of those of Google researchers
+* [fastovetsilya/Automatic_NN_Swiper](https://github.com/fastovetsilya/Automatic_NN_Swiper): Automatic swiping tool for dating sites. The current version is available for Bumble only
 * [aws-samples/automating-livestream-video-monitoring](https://github.com/aws-samples/automating-livestream-video-monitoring): This repo presents a demo application for realtime livestream video quality monitoring using AWS serverless and AI/ML services.
 * [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling components for Kubernetes
 * [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -481,6 +483,8 @@
 * [SishangLi/Autosub_Multiple_Methods](https://github.com/SishangLi/Autosub_Multiple_Methods): Autosub based on multiple methods which are deep moedls and web API
 * [zhenghao0379/autosubpy](https://github.com/zhenghao0379/autosubpy): autosub，python 自动生成视频字幕并翻译
 * [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync): Automatically synchronize subtitles with audio using machine learning
+* [mmuyskens/autoswipe](https://github.com/mmuyskens/autoswipe): Auto Swipe for Tinder/Bumble
+* [autoswiperight/autoswiperight.github.io](https://github.com/autoswiperight/autoswiperight.github.io): AutoSwipe Right For Tinder, Tantan, Bumble & OkCupid
 * [Eyevinn/autovmaf](https://github.com/Eyevinn/autovmaf): Toolkit to automatically encode multiple bitrates and perform automated VMAF measurements on all of them.
 * [Eyevinn/autovmaf-api](https://github.com/Eyevinn/autovmaf-api): API to orchestrate AutoVMAF jobs
 * [Eyevinn/AutoVMAF-Excel-Accel](https://github.com/Eyevinn/AutoVMAF-Excel-Accel): Python script to generate spreadsheets from AutoVMAF-API results.
@@ -1070,6 +1074,8 @@
 * [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka): Buka is a modern software that helps you manage your ebook at ease. 
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [alexisakers/BulletinBoard](https://github.com/alexisakers/BulletinBoard): General-purpose contextual cards for iOS
+* [muhammadyana/bumble-bot](https://github.com/muhammadyana/bumble-bot): This is for auto swipe right in bumble web
+* [orestis-z/bumble-bot](https://github.com/orestis-z/bumble-bot): Bumble dating auto swiper. Let Python do the work for you. 
 * [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
 * [eyecuvision/bumblebee](https://github.com/eyecuvision/bumblebee): Video Processing API
 * [bup/bup](https://github.com/bup/bup): Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).
@@ -1202,6 +1208,7 @@
 * [Dash-Industry-Forum/ClearKey-Content-Protection](https://github.com/Dash-Industry-Forum/ClearKey-Content-Protection): The repository holds a description and an issue tracker for how ClearKey-based content protection should be used with MPEG DASH.
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
 * [docker/cli](https://github.com/docker/cli): The Docker CLI
+* [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [soundcloud-py/client-api](https://github.com/soundcloud-py/client-api): Official web api for the SoundCloud Python service.
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms
@@ -2717,7 +2724,7 @@
 * [chemag/h264nal](https://github.com/chemag/h264nal): Library and Tool to parse H264 NAL units
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
-* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more.
 * [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals): Hack any Captive portal using MAC-spoofing technique
 * [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu): Hacker News Delivered to Desktop :dancers:
 * [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): A collection of hacking tools, resources and references to practice ethical hacking.
@@ -2821,7 +2828,7 @@
 * [muxinc/hls-subtitles-vexillographer](https://github.com/muxinc/hls-subtitles-vexillographer): A simple proxy service which changes subtitles flags in HLS manifests.
 * [Eyevinn/hls-to-dash](https://github.com/Eyevinn/hls-to-dash): Open source packager and tools to rewrap live HLS to live MPEG DASH
 * [egg-bread/hls-to-mp4](https://github.com/egg-bread/hls-to-mp4): Download HLS videos as MP4 (WebVTT for caption download optional)
-* [pluginfactory/HLS-transcoding-nodejs](https://github.com/pluginfactory/HLS-transcoding-nodejs): This is a sample example repository to implement video transcoding for buffered bandwidth based streaming videos in Nodejs using Apple HLS + m3u8 to stream over HTTP.
+* [theserverfault/HLS-transcoding-nodejs](https://github.com/theserverfault/HLS-transcoding-nodejs): This is a sample example repository to implement video transcoding for buffered bandwidth based streaming videos in Nodejs using Apple HLS + m3u8 to stream over HTTP.
 * [jordicenzano/hls-trimming-frame-accuracy](https://github.com/jordicenzano/hls-trimming-frame-accuracy): JS Code that given a group of HLS chunks, a start timestamp, and end timestamp it creates one MP4 that contains the original V/A frame accuracy trimmed and perfectly aligned
 * [Eyevinn/hls-truncate](https://github.com/Eyevinn/hls-truncate): NPM library to truncate an HLS VOD manifest into a new VOD manifest
 * [Eyevinn/hls-ts-analyzer](https://github.com/Eyevinn/hls-ts-analyzer): Example implementation of hls-ts.js library
@@ -2902,7 +2909,6 @@
 * [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin): HTTP Request & Response Service, written in Python + Flask.
 * [apache/httpd](https://github.com/apache/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 * [MuShare/Httper-iOS](https://github.com/MuShare/Httper-iOS): App for developers to test REST API.
-* [httpie/httpie](https://github.com/httpie/httpie): 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [creeveliu/HTTPLiveStreamingTools](https://github.com/creeveliu/HTTPLiveStreamingTools): Latest Apple HLS tools copy from Apple Developer Center
 * [hnlq715/httpmq](https://github.com/hnlq715/httpmq): A simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.
 * [httprunner/httprunner](https://github.com/httprunner/httprunner): HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
@@ -3743,7 +3749,7 @@
 * [njh/mp3-to-hls](https://github.com/njh/mp3-to-hls): Ruby script to convert an MP3 file into an HLS stream
 * [alfg/mp4](https://github.com/alfg/mp4): :movie_camera: Basic MP4 reader in Go! CLI + Golang Package for ISO/IEC 14496-12 - ISO Base Media File Format
 * [myersTechnologies/MP4-Extractor](https://github.com/myersTechnologies/MP4-Extractor): Extract videos
-* [alfg/mp4-rust](https://github.com/alfg/mp4-rust): :movie_camera: MP4 reader and writer library in Rust! 🦀
+* [alfg/mp4-rust](https://github.com/alfg/mp4-rust): MP4 reader + writer library in Rust! 🎥🦀
 * [stultus/mp4-to-mpegdash-py](https://github.com/stultus/mp4-to-mpegdash-py): Python Script to convert a MP4 file into onDemand MPEG-DASH
 * [essential61/mp4analyser](https://github.com/essential61/mp4analyser): mp4 file analyser written in Python
 * [gpac/mp4box.js](https://github.com/gpac/mp4box.js): JavaScript version of GPAC's MP4Box tool
@@ -3928,6 +3934,7 @@
 * [Hackzzila/node-ffmpeg-binaries](https://github.com/Hackzzila/node-ffmpeg-binaries): None
 * [Jalle19/node-ffmpeg-mpegts-proxy](https://github.com/Jalle19/node-ffmpeg-mpegts-proxy): Simple proxy for leveraging ffmpeg to convert any source URL into MPEG-TS over HTTP
 * [phaux/node-ffmpeg-stream](https://github.com/phaux/node-ffmpeg-stream): Node.js bindings to ffmpeg command, exposing stream based API
+* [SavageCore/node-ffprobe-installer](https://github.com/SavageCore/node-ffprobe-installer): Platform independent binary installer of FFprobe for node projects
 * [Eyevinn/node-fluent-ffmpeg](https://github.com/Eyevinn/node-fluent-ffmpeg): A fluent API to FFMPEG (http://www.ffmpeg.org)
 * [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg): A fluent API to FFMPEG (http://www.ffmpeg.org)
 * [Eyevinn/node-go-live](https://github.com/Eyevinn/node-go-live): API layer on top of AWS Media Services to stream live
@@ -4159,7 +4166,7 @@
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9): Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
-* [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+* [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 * [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 * [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB): Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 * [openstack/openstack](https://github.com/openstack/openstack): Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
@@ -4251,7 +4258,7 @@
 * [pdf-rs/pdf](https://github.com/pdf-rs/pdf): Rust library to read, manipulate and write PDF files.
 * [johnlinp/pdf-to-markdown](https://github.com/johnlinp/pdf-to-markdown): Convert PDF files into markdown files
 * [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown): A PDF to Markdown converter
-* [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT): PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
+* [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT): PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 * [metachris/pdfx](https://github.com/metachris/pdfx): Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 * [HirokiUmatani/PEAR-ZoomingView-iOS](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS): None
 * [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
@@ -4301,8 +4308,8 @@
 * [tektoncd/pipeline](https://github.com/tektoncd/pipeline): A cloud-native Pipeline resource.
 * [ENCODE-DCC/pipeline-container](https://github.com/ENCODE-DCC/pipeline-container): Containerization infrastructure for ENCODE analysis pipelines
 * [dkashin/pipencoder-base](https://github.com/dkashin/pipencoder-base): GUI and automation for media transcoding and streaming CLI tools
-* [guitarcade/piper](https://github.com/guitarcade/piper): piper - a distributed workflow engine
 * [libratbag/piper](https://github.com/libratbag/piper): GTK application to configure gaming devices
+* [runabol/piper](https://github.com/runabol/piper): piper - a distributed workflow engine
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
 * [alexander0042/pirate-weather-ha](https://github.com/alexander0042/pirate-weather-ha): Replacement for the default Dark Sky Home Assistant integration using Pirate Weather 
 * [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather): Code and documentation for the Pirate Weather API
@@ -4802,7 +4809,7 @@
 * [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg): Safe FFmpeg wrapper.
 * [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys): moved to meh/rust-ffmpeg
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source alternative to TeamViewer.
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings): :crab: Small exercises to get you used to reading and writing Rust code!
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
@@ -5527,6 +5534,9 @@
 * [naoty/Timepiece](https://github.com/naoty/Timepiece): Intuitive date handling in Swift
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinacms/tinacms](https://github.com/tinacms/tinacms): The Markdown CMS
+* [JohnHansonTheDev/Tinder-Auto-Swipe](https://github.com/JohnHansonTheDev/Tinder-Auto-Swipe): Greasemonkey script( Auto swiper for tinder )
+* [Aakash074/Tinder-Bumble-Auto-Match-Script](https://github.com/Aakash074/Tinder-Bumble-Auto-Match-Script): Use this script to automate matching in tinder/bumble.
+* [my3t/Tinder-OkCupid-Bumble-Auto-Swipe](https://github.com/my3t/Tinder-OkCupid-Bumble-Auto-Swipe): None
 * [zimujiang/TinyClip](https://github.com/zimujiang/TinyClip): 🚀 JavaFX开发的FFMPEG-GUI客户端
 * [xiaohu557/TinyPlayer](https://github.com/xiaohu557/TinyPlayer): TinyPlayer is simple, elegant and highly efficient  video player for iOS and tvOS. It is based on Apple’s AVFoundation framework. 
 * [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy): tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
@@ -6021,6 +6031,7 @@
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
 * [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web
 * [neosapience/web-skeleton](https://github.com/neosapience/web-skeleton): kubernetes + docker-compose + flask + celery + redis + mongo + frontend(any) + nginx
+* [shadowmoose/Web-Video-Editor](https://github.com/shadowmoose/Web-Video-Editor): Web-based video file Editor - Crop video/Adjust time. Supports in-browser conversion or exporting FFmpeg commands.
 * [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent): A WebDriver server for iOS and tvOS
 * [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): A WebDriver server for iOS that runs inside the Simulator.
 * [webiny/webiny-js](https://github.com/webiny/webiny-js): Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
@@ -6175,7 +6186,7 @@
 * [ibireme/YYModel](https://github.com/ibireme/YYModel): High performance model framework for iOS/OSX.
 * [ibireme/YYWebImage](https://github.com/ibireme/YYWebImage): Asynchronous image loading framework.
 * [zalando/zappr](https://github.com/zalando/zappr): An agent that enforces guidelines for your GitHub repositories
-* [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The OWASP ZAP core project
+* [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP core project
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [bvaisvil/zenith](https://github.com/bvaisvil/zenith): Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 * [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.

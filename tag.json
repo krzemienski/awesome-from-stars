@@ -137,6 +137,9 @@
     "AXERA-TECH/ax-pipeline": [
         "Other"
     ],
+    "Aakash074/Tinder-Bumble-Auto-Match-Script": [
+        "Other"
+    ],
     "AaronFeng753/Waifu2x-Extension-GUI": [
         "Other"
     ],
@@ -2150,6 +2153,9 @@
     "JohnEstropia/CoreStore": [
         "Other"
     ],
+    "JohnHansonTheDev/Tinder-Auto-Swipe": [
+        "Other"
+    ],
     "JohnSundell/Files": [
         "Other"
     ],
@@ -3300,6 +3306,9 @@
         "Other"
     ],
     "Saurabh702/ffmpeg-scale-benchmark": [
+        "Other"
+    ],
+    "SavageCore/node-ffprobe-installer": [
         "Other"
     ],
     "SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme": [
@@ -5211,6 +5220,9 @@
         "Other"
     ],
     "automotive-hub/imvision-ads-gen": [
+        "Other"
+    ],
+    "autoswiperight/autoswiperight.github.io": [
         "Other"
     ],
     "avTranscoder/avTranscoder": [
@@ -8201,6 +8213,9 @@
     "fastogt/fastonosql": [
         "Other"
     ],
+    "fastovetsilya/Automatic_NN_Swiper": [
+        "Other"
+    ],
     "fastred/Optimizing-Swift-Build-Times": [
         "Other"
     ],
@@ -9035,9 +9050,6 @@
     "guidomb/ios-scripts": [
         "Other"
     ],
-    "guitarcade/piper": [
-        "Other"
-    ],
     "gumslone/gum_hls": [
         "Other"
     ],
@@ -9371,10 +9383,10 @@
     "htr-tech/zphisher": [
         "Other"
     ],
-    "httpie/http-prompt": [
+    "httpie/cli": [
         "Other"
     ],
-    "httpie/httpie": [
+    "httpie/http-prompt": [
         "Other"
     ],
     "httprunner/httprunner": [
@@ -10179,6 +10191,9 @@
         "Other"
     ],
     "joeflateau/ffpreset": [
+        "Other"
+    ],
+    "joelbarmettlerUZH/auto-tinder": [
         "Other"
     ],
     "joelcarranza/particular-pinboard": [
@@ -12473,6 +12488,9 @@
     "mmstick/cargo-deb": [
         "Other"
     ],
+    "mmuyskens/autoswipe": [
+        "Other"
+    ],
     "mngsk/device-detector": [
         "Other"
     ],
@@ -12662,6 +12680,9 @@
     "mugiseyebrows/mugi-ffmpeg": [
         "Other"
     ],
+    "muhammadyana/bumble-bot": [
+        "Other"
+    ],
     "mui/material-ui": [
         "Other"
     ],
@@ -12729,6 +12750,9 @@
         "Other"
     ],
     "mxcl/swift-sh": [
+        "Other"
+    ],
+    "my3t/Tinder-OkCupid-Bumble-Auto-Swipe": [
         "Other"
     ],
     "mycroftwilde/portainer_templates": [
@@ -13508,6 +13532,9 @@
     "oreparaz/rshift": [
         "Other"
     ],
+    "orestis-z/bumble-bot": [
+        "Other"
+    ],
     "orestispanago/Manjaro-dev-tools": [
         "Other"
     ],
@@ -13935,9 +13962,6 @@
         "Other"
     ],
     "plotly/dash-player": [
-        "Other"
-    ],
-    "pluginfactory/HLS-transcoding-nodejs": [
         "Other"
     ],
     "pluja/awesome-privacy": [
@@ -14882,6 +14906,9 @@
     "ruma/homeserver": [
         "Other"
     ],
+    "runabol/piper": [
+        "Other"
+    ],
     "runletapp/runlet": [
         "Other"
     ],
@@ -15285,6 +15312,9 @@
         "Other"
     ],
     "shaarli/Shaarli": [
+        "Other"
+    ],
+    "shadowmoose/Web-Video-Editor": [
         "Other"
     ],
     "shadowsocks/ShadowsocksX-NG": [
@@ -16512,6 +16542,9 @@
         "Other"
     ],
     "therecipe/qt": [
+        "Other"
+    ],
+    "theserverfault/HLS-transcoding-nodejs": [
         "Other"
     ],
     "theswiftdev/awesome-xcode-extensions": [
