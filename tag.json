@@ -3203,6 +3203,9 @@
     "RfidResearchGroup/proxmark3": [
         "Other"
     ],
+    "Richienb/webm-to-mp4": [
+        "Other"
+    ],
     "Rigellute/spotify-tui": [
         "Other"
     ],
@@ -4371,6 +4374,9 @@
         "Other"
     ],
     "alexdrone/Buffer": [
+        "Other"
+    ],
+    "alexeichhorn/YouTubeKit": [
         "Other"
     ],
     "alexellis/k3sup": [
@@ -9893,6 +9899,9 @@
     "jaiobs/OptiVideoEditor-for-android": [
         "Other"
     ],
+    "jaiobs/OptiVideoEditor-for-iOS": [
+        "Other"
+    ],
     "jakeboyles/roku-tv-electron-app": [
         "Other"
     ],
@@ -10727,6 +10736,9 @@
     "khoren93/SwiftHub": [
         "Other"
     ],
+    "khuramhaf/Online-Video-Editor": [
+        "Other"
+    ],
     "kibotu/FastExoPlayerSeeker": [
         "Other"
     ],
@@ -11112,6 +11124,12 @@
         "Other"
     ],
     "kuchin/awesome-cto": [
+        "Other"
+    ],
+    "kudlav/videoeditor": [
+        "Other"
+    ],
+    "kudlav/videoeditor-doc": [
         "Other"
     ],
     "kudobuilder/operators": [
@@ -12669,6 +12687,9 @@
         "Other"
     ],
     "muan/github-dashboard": [
+        "Other"
+    ],
+    "muaz-khan/Ffmpeg.js": [
         "Other"
     ],
     "muety/http2-serverpush-proxy": [
@@ -15779,7 +15800,7 @@
     "songkuixi/ARTargetShooting": [
         "Other"
     ],
-    "sophiabrandt/fastapi-crud": [
+    "sonysuqin/WasmVideoPlayer": [
         "Other"
     ],
     "soravux/scoop": [
@@ -17502,6 +17523,9 @@
         "Other"
     ],
     "w3c/media-source": [
+        "Other"
+    ],
+    "w3c/mediacapture-record": [
         "Other"
     ],
     "w3c/webvtt.js": [
