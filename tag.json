@@ -3068,6 +3068,9 @@
     "Qballjos/portainer_templates": [
         "Other"
     ],
+    "Qencode-Corp/video-transcoder.online": [
+        "Other"
+    ],
     "QianMo/Awesome-Unity-Shader": [
         "Other"
     ],
@@ -4394,9 +4397,6 @@
     "alexmojaki/instant_api": [
         "Other"
     ],
-    "alexnzarov/pm2-web-ui": [
-        "Other"
-    ],
     "alexpate/awesome-design-systems": [
         "Other"
     ],
@@ -4608,6 +4608,9 @@
         "Other"
     ],
     "analyserdmz/ffmpeg-multi-threaded-convert": [
+        "Other"
+    ],
+    "anantn/glendix": [
         "Other"
     ],
     "anatol/pkgoutofdate": [
@@ -6879,6 +6882,9 @@
         "Other"
     ],
     "dariubs/GoBooks": [
+        "Other"
+    ],
+    "darlinghq/darling": [
         "Other"
     ],
     "darwiin/yaac-another-awesome-cv": [
@@ -10412,6 +10418,9 @@
     "julionc/awesome-shopify": [
         "Other"
     ],
+    "jumpserver/jumpserver": [
+        "Other"
+    ],
     "junegunn/fzf": [
         "Other"
     ],
@@ -13370,6 +13379,9 @@
     "ole/whats-new-in-swift-4-2": [
         "Other"
     ],
+    "olexnzarov/pm2-web-ui": [
+        "Other"
+    ],
     "olivierboucher/StreamCenter": [
         "Other"
     ],
@@ -14325,9 +14337,6 @@
         "Other"
     ],
     "qeeqbox/social-analyzer": [
-        "Other"
-    ],
-    "qencode-dev/video-transcoder.online": [
         "Other"
     ],
     "qi-shun-wang/HLSDownloader": [
@@ -15419,6 +15428,9 @@
     "shin-kinoshita/cookiecutter-react-electron": [
         "Other"
     ],
+    "shinh/maloader": [
+        "Other"
+    ],
     "shinobizero/audio_transcriber": [
         "Other"
     ],
@@ -15795,6 +15807,9 @@
         "Other"
     ],
     "solus-project/budgie-desktop": [
+        "Other"
+    ],
+    "solusipse/fiche": [
         "Other"
     ],
     "songkuixi/ARTargetShooting": [

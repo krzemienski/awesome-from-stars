@@ -149,7 +149,7 @@
 * [sunwicked/adbGUI](https://github.com/sunwicked/adbGUI): Desktop client for adb commands inspired from adb idea plugin for android studio 
 * [s3h10r/AddToReminiscence-Chromium-Extension](https://github.com/s3h10r/AddToReminiscence-Chromium-Extension): This extension adds a button to your toolbar which lets you add the current page you're browsing to your Reminiscence instance.
 * [adminfaces/admin-template](https://github.com/adminfaces/admin-template): JSF responsive admin template based on Bootstrap and AdminLTE 
-* [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 4
+* [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 5
 * [basil79/ads-manager](https://github.com/basil79/ads-manager): HTML5 Video Ads Manager based on @dailymotion/vast-client
 * [timdonnelly/Advance](https://github.com/timdonnelly/Advance): Physics-based animations for iOS, tvOS, and macOS.
 * [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher): Gnome Shell extension, a highly customizable replacement for the Alt-Tab window and app switchers.
@@ -1449,6 +1449,7 @@
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 * [hardpixel/dark-variant](https://github.com/hardpixel/dark-variant): Gnome Shell extension to apply dark window decorations.
 * [Rokin05/darkine-kde](https://github.com/Rokin05/darkine-kde): Darkine KDE - Theme for KDE Plasma 5 desktop > Mirror of https://git.rokin.in/Rokin/darkine-kde
+* [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
 * [Dash-Industry-Forum/DASH](https://github.com/Dash-Industry-Forum/DASH): None
 * [djvergad/dash](https://github.com/djvergad/dash): An MPEG/DASH client-server module for simulating rate adaptation mechanisms over HTTP/TCP.
 * [shengbinmeng/dash-drm](https://github.com/shengbinmeng/dash-drm): Demos of MPEG-DASH and DRM.
@@ -1773,7 +1774,7 @@
 * [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles): My personal dotfiles for bspwm, i3-gaps and kde plasma
 * [RealOrangeOne/dotfiles](https://github.com/RealOrangeOne/dotfiles): Settings and Preferences for transfer between machines
 * [ViBiOh/dotfiles](https://github.com/ViBiOh/dotfiles): Dotfiles for configuring my terminal environment
-* [YazdanZ/dotfiles](https://github.com/YazdanZ/dotfiles): Repository to manage and share personal dotfiles 
+* [YazdanZ/dotfiles](https://github.com/YazdanZ/dotfiles): Repository to manage and share personal dotfiles 🐧
 * [alrra/dotfiles](https://github.com/alrra/dotfiles): 💻 macOS / Ubuntu dotfiles
 * [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles): My personal linux dotfiles
 * [daniruiz/dotfiles](https://github.com/daniruiz/dotfiles): ~/.dotfiles
@@ -1973,7 +1974,7 @@
 * [microsoft/ethr](https://github.com/microsoft/ethr): Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 * [etro-js/etro](https://github.com/etro-js/etro): Typescript video-editing framework for the browser
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
-* [DefaultSimon/euphony](https://github.com/DefaultSimon/euphony): An opinionated (read: personal) music library transcode manager, written in Rust.
+* [DefaultSimon/euphony](https://github.com/DefaultSimon/euphony): A personal music library transcode manager.
 * [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 * [DisplayLink/evdi](https://github.com/DisplayLink/evdi): Extensible Virtual Display Interface
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
@@ -2227,7 +2228,7 @@
 * [Brainiarc7/ffmpeg_libnvenc](https://github.com/Brainiarc7/ffmpeg_libnvenc): This is a build of FFmpeg that supports NVIDIA's NVENC SIP block for H.264 H/W accelerated video encodes.
 * [mehmetgoren/ffmpeg_service](https://github.com/mehmetgoren/ffmpeg_service): Feniks iNVR FFmpeg Service
 * [sambios/ffmpeg_transcoder](https://github.com/sambios/ffmpeg_transcoder): video transcode based on ffmpeg, support H264/HEVC and more.
-* [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid): FFmpeg实现音频拼接、混音、均衡器音效；视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
+* [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid): FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
 * [comingAlive/ffmpegaudioextract.xyz](https://github.com/comingAlive/ffmpegaudioextract.xyz): A minimalistic wasm-based web application for instant audio extraction; video to audio conversion.
 * [alicemara/ffmpegcompileqsvav1](https://github.com/alicemara/ffmpegcompileqsvav1): A quick personal script for making ffmpeg on Ubuntu 22.04 LTS on a machine with a Intel Arc card for use with AV1 encoding/decoding and oneVPL.
 * [nschlia/ffmpegfs](https://github.com/nschlia/ffmpegfs): FUSE-based transcoding filesystem with video support from many formats to FLAC, MP4, TS, WebM, OGG, MP3, HLS, and others.
@@ -2262,6 +2263,7 @@
 * [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC): [ECCV 2020] Flow-edge Guided Video Completion 
 * [gofiber/fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go
 * [ViBiOh/fibr](https://github.com/ViBiOh/fibr): Web FIleBRowser
+* [solusipse/fiche](https://github.com/solusipse/fiche): Command line pastebin for sharing terminal output.
 * [electron/fiddle](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux): Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 * [zuruoke/figma-remove-watermark-plugin](https://github.com/zuruoke/figma-remove-watermark-plugin): Remove the watermarks of images automatically
@@ -2550,6 +2552,7 @@
 * [jsbain/gitview](https://github.com/jsbain/gitview): Pythonista git wrapper
 * [heppu/gkill](https://github.com/heppu/gkill): Interactice process killer for Linux and macOS
 * [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+* [anantn/glendix](https://github.com/anantn/glendix): Porting the good stuff from Plan 9 to Linux
 * [thias/glim](https://github.com/thias/glim): GRUB Live ISO Multiboot
 * [timche/gmail-desktop](https://github.com/timche/gmail-desktop): :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 * [3d0c/gmf](https://github.com/3d0c/gmf): Go Media Framework
@@ -2878,7 +2881,7 @@
 * [lwitzani/homebridgeStatusWidget](https://github.com/lwitzani/homebridgeStatusWidget): None
 * [ridhwaans/homehost](https://github.com/ridhwaans/homehost): self-hosted, Netflix-like app made for streaming
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
-* [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A home server for everyone! (both ARM and x86_64) - WIP
+* [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64) - in the works
 * [benphelps/homepage](https://github.com/benphelps/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [animosity22/homescripts](https://github.com/animosity22/homescripts): My Scripts for Plex / Emby with Dropbox and rclone
@@ -3188,6 +3191,7 @@
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
 * [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
+* [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 * [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab): JupyterLab computational environment.
 * [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop): JupyterLab desktop application, based on Electron.
 * [casey/just](https://github.com/casey/just): 🤖 Just a command runner
@@ -3558,6 +3562,7 @@
 * [makedeb/makedeb](https://github.com/makedeb/makedeb): A simplicity-focused packaging tool for Debian archives
 * [uber-archive/makisu](https://github.com/uber-archive/makisu): Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 * [vadymmarkov/Malibu](https://github.com/vadymmarkov/Malibu): :surfer: Malibu is a networking library built on promises
+* [shinh/maloader](https://github.com/shinh/maloader): mach-o loader for linux
 * [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase): This repository is one of a few malware collections on the GitHub.
 * [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode): Collection of malware source code for a variety of platforms in an array of different programming languages.
 * [Comcast/mamba](https://github.com/Comcast/mamba): Mamba is a Swift iOS, tvOS and macOS framework to parse, validate and write HTTP Live Streaming (HLS) data.
@@ -4357,7 +4362,7 @@
 * [itsuka-dev/plurality](https://github.com/itsuka-dev/plurality): A cornucopia of open source UIs built with ChatGPT API.
 * [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
 * [Tjatse/pm2-gui](https://github.com/Tjatse/pm2-gui): An elegant web & terminal interface for Unitech/PM2.
-* [alexnzarov/pm2-web-ui](https://github.com/alexnzarov/pm2-web-ui): Modern web interface for PM2
+* [olexnzarov/pm2-web-ui](https://github.com/olexnzarov/pm2-web-ui): Modern web interface for PM2
 * [DolbyLaboratories/pmd_tool](https://github.com/DolbyLaboratories/pmd_tool): pmd_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata and Serial ADM metadata. PMD Studio is an authoring tool for such metadata.
 * [kevinzhow/PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift): A simple and beautiful chart lib used in Piner and CoinsMan for iOS(https://github.com/kevinzhow/PNChart) Swift Implementation 
 * [righettod/poc-graphql](https://github.com/righettod/poc-graphql): Research on GraphQL from an AppSec point of view.
@@ -5836,7 +5841,7 @@
 * [n1207n/video-transcode-queue](https://github.com/n1207n/video-transcode-queue): A sample video upload platform as a kubernetes cluster (WIP)
 * [andressspinetti/video-transcoder](https://github.com/andressspinetti/video-transcoder): AWS S3 + Lambda + Transcode
 * [brarcher/video-transcoder](https://github.com/brarcher/video-transcoder): Android app for video and audio transcoder, based on FFmpeg
-* [qencode-dev/video-transcoder.online](https://github.com/qencode-dev/video-transcoder.online): Full featured video transcoding using the Qencode API that can be easily modified for your website or application.
+* [Qencode-Corp/video-transcoder.online](https://github.com/Qencode-Corp/video-transcoder.online): Full featured video transcoding using the Qencode API that can be easily modified for your website or application.
 * [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api): Agnostic API to transcode media assets across different cloud services.
 * [lisamelton/video-transcoding-scripts](https://github.com/lisamelton/video-transcoding-scripts): Utilities to transcode, inspect and convert videos.
 * [yazaldefilimonepinto/video-translator](https://github.com/yazaldefilimonepinto/video-translator): Translate video or audio into multiple languages ​​in video, audio or subtitle file
