@@ -169,7 +169,7 @@
 * [greenteabots/Ai-Soundcloudviewer-written-by-chatGPT](https://github.com/greenteabots/Ai-Soundcloudviewer-written-by-chatGPT): Soundcloud ViewBot written by ChatGPT
 * [google/ai_video_dubbing](https://github.com/google/ai_video_dubbing): None
 * [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
-* [paul-gauthier/aider](https://github.com/paul-gauthier/aider): aider is GPT powered coding in your terminal
+* [paul-gauthier/aider](https://github.com/paul-gauthier/aider): aider is AI pair programming in your terminal
 * [terrycain/aioboto3](https://github.com/terrycain/aioboto3): Wrapper to use boto3 resources with the aiobotocore async backend
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
 * [aio-libs/aiodocker](https://github.com/aio-libs/aiodocker): Python Docker API client based on asyncio and aiohttp
@@ -1165,6 +1165,7 @@
 * [heff/chg](https://github.com/heff/chg): simple changelog/release history manager
 * [Chimeejs/chimee](https://github.com/Chimeejs/chimee): a video player framework aims to bring wonderful experience on browser
 * [facebook/chisel](https://github.com/facebook/chisel): Chisel is a collection of LLDB commands to assist debugging iOS apps.
+* [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate): The future of media manager
 * [acoustid/chromaprint](https://github.com/acoustid/chromaprint): C library for generating audio fingerprints used by AcoustID
 * [acoustid/chromaprint-build](https://github.com/acoustid/chromaprint-build): Docker image for building Chromaprint
 * [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls): Extension that allows native hls playback in chrome browser
@@ -1767,7 +1768,7 @@
 * [DolbyLaboratories/dolby_vision_professional_decoder_plugin](https://github.com/DolbyLaboratories/dolby_vision_professional_decoder_plugin): None
 * [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler): Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 * [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io): 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
-* [kraanzu/dooit](https://github.com/kraanzu/dooit): A TUI todo manager
+* [kraanzu/dooit](https://github.com/kraanzu/dooit): An awesome TUI todo manager
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
 * [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles): KDE Plasma for twm users.
@@ -1974,7 +1975,7 @@
 * [microsoft/ethr](https://github.com/microsoft/ethr): Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 * [etro-js/etro](https://github.com/etro-js/etro): Typescript video-editing framework for the browser
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
-* [DefaultSimon/euphony](https://github.com/DefaultSimon/euphony): A personal music library transcode manager.
+* [DefaultSimon/euphony](https://github.com/DefaultSimon/euphony): A ♯ personal music library transcode manager.
 * [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 * [DisplayLink/evdi](https://github.com/DisplayLink/evdi): Extensible Virtual Display Interface
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
@@ -3530,6 +3531,7 @@
 * [carlanton/m3u8-parser](https://github.com/carlanton/m3u8-parser): A simple HLS playlist parser for Java
 * [fbritoferreira/m3u8-parser](https://github.com/fbritoferreira/m3u8-parser): M3U8 Playlist parser
 * [videojs/m3u8-parser](https://github.com/videojs/m3u8-parser): An m3u8 parser.
+* [bharadwajpro/m3u8-player](https://github.com/bharadwajpro/m3u8-player): M3U8 Player in browser. Play any live stream m3u8 link with this website at https://bharadwajpro.github.io/m3u8-player
 * [Eltik/M3U8-Proxy](https://github.com/Eltik/M3U8-Proxy): Proxy m3u8 files through pure JavaScript.
 * [marceloboeira/m3u8.cr](https://github.com/marceloboeira/m3u8.cr): Generate and parse m3u8 playlists for HLS
 * [huzhenjie/m3u8_downloader](https://github.com/huzhenjie/m3u8_downloader): 基于Python的m3u8下载器
@@ -5574,7 +5576,7 @@
 * [towhee-io/towhee](https://github.com/towhee-io/towhee): Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
 * [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy): :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 * [taphouseio/TPHCloudAnalytics](https://github.com/taphouseio/TPHCloudAnalytics): None
-* [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
+* [tqdm/tqdm](https://github.com/tqdm/tqdm): :zap: A Fast, Extensible Progress Bar for Python and CLI
 * [maquannene/Track](https://github.com/maquannene/Track): Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU.
 * [msdeep14/trackGitHubStars](https://github.com/msdeep14/trackGitHubStars): python script to find top 10 starred repos of user
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
