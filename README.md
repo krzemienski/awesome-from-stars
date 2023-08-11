@@ -5717,7 +5717,7 @@
 * [teejee2008/ukuu](https://github.com/teejee2008/ukuu): A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notifications when new mainline kernel is available. Lists kernels from http://kernel.ubuntu.com/~kernel-ppa/mainline/ with options to install and remove.
 * [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
-* [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+* [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 * [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
 * [getumbrel/umbrel-community-app-store](https://github.com/getumbrel/umbrel-community-app-store): Template repository for a creating your own Community App Store for Umbrel. Click "Use this template" and add your apps!
 * [devxoul/Umbrella](https://github.com/devxoul/Umbrella): ☂️ Analytics abstraction layer for Swift
