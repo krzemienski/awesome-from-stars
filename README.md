@@ -4819,7 +4819,7 @@
 * [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg): Safe FFmpeg wrapper.
 * [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys): moved to meh/rust-ffmpeg
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source alternative to TeamViewer.
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop, and alternative to TeamViewer.
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings): :crab: Small exercises to get you used to reading and writing Rust code!
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
