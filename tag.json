@@ -71,9 +71,6 @@
     "5ika/denotion": [
         "Other"
     ],
-    "715209/nginx-obs-automatic-low-bitrate-switching": [
-        "Other"
-    ],
     "75asa/notion-database-crawler": [
         "Other"
     ],
@@ -564,6 +561,9 @@
         "Other"
     ],
     "Carthage/Carthage": [
+        "Other"
+    ],
+    "CasparCG/server": [
         "Other"
     ],
     "CassiusPacheco/Swift-CleanArchitecture": [
@@ -1119,6 +1119,9 @@
         "Other"
     ],
     "ErikWittern/openapi-snippet": [
+        "Other"
+    ],
+    "ErsatzTV/ErsatzTV": [
         "Other"
     ],
     "Erudika/para": [
@@ -2688,6 +2691,9 @@
         "Other"
     ],
     "NAStools/logitechmediaserver": [
+        "Other"
+    ],
+    "NOALBS/nginx-obs-automatic-low-bitrate-switching": [
         "Other"
     ],
     "NSHipster/SwiftSyntaxHighlighter": [
@@ -8612,9 +8618,6 @@
     "generate/generate": [
         "Other"
     ],
-    "george-avn/ffenmass": [
-        "Other"
-    ],
     "georgejecook/brsxmlc": [
         "Other"
     ],
@@ -8742,6 +8745,9 @@
         "Other"
     ],
     "github/copilot-docs": [
+        "Other"
+    ],
+    "github/gh-actions-importer": [
         "Other"
     ],
     "githubhaohao/LearnFFmpeg": [
@@ -9980,9 +9986,6 @@
     "jaskie/PlayoutAutomation": [
         "Other"
     ],
-    "jasongdove/ErsatzTV": [
-        "Other"
-    ],
     "jasonheecs/ubuntu-server-setup": [
         "Other"
     ],
@@ -10923,6 +10926,9 @@
         "Other"
     ],
     "krad/pupil": [
+        "Other"
+    ],
+    "krayc425/ARTargetShooting": [
         "Other"
     ],
     "kreait/convertappicon": [
@@ -15692,6 +15698,9 @@
     "slhck/bufferer": [
         "Other"
     ],
+    "slhck/ffmpeg-bitrate-stats": [
+        "Other"
+    ],
     "slhck/ffmpeg-debug-qp": [
         "Other"
     ],
@@ -15816,9 +15825,6 @@
         "Other"
     ],
     "solusipse/fiche": [
-        "Other"
-    ],
-    "songkuixi/ARTargetShooting": [
         "Other"
     ],
     "sonysuqin/WasmVideoPlayer": [
@@ -17892,9 +17898,6 @@
         "Other"
     ],
     "woutervu/manjaro-dev-setup": [
-        "Other"
-    ],
-    "wreedb/switcheroo": [
         "Other"
     ],
     "wroberts/rogauracore": [

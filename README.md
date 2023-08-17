@@ -365,7 +365,7 @@
 * [aria2/aria2](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 * [antoniocasero/Arrows](https://github.com/antoniocasero/Arrows): Arrows is an animated custom view to give feedback about your UI sliding panels.
 * [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal): Arsenal is just a quick inventory and launcher for hacking programs
-* [songkuixi/ARTargetShooting](https://github.com/songkuixi/ARTargetShooting): An AR shooting game for the WWDC 2018 Scholarship [Accepted]. ARKit 飞盘射击游戏，WWDC 2018 奖学金入选作品
+* [krayc425/ARTargetShooting](https://github.com/krayc425/ARTargetShooting): An AR shooting game for the WWDC 2018 Scholarship [Accepted]. ARKit 飞盘射击游戏，WWDC 2018 奖学金入选作品
 * [alibaba/arthas](https://github.com/alibaba/arthas): Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 * [LearnDataSci/articles](https://github.com/LearnDataSci/articles): A repository for the source code, notebooks, data, files, and other assets used in the data science and machine learning articles on LearnDataSci
 * [objcio/articles](https://github.com/objcio/articles): All current objc.io articles
@@ -1302,7 +1302,7 @@
 * [libresh/compose-owncloud](https://github.com/libresh/compose-owncloud): ownCloud docker-compose for libre.sh v1
 * [owncloud-docker/compose-playground](https://github.com/owncloud-docker/compose-playground): Docker Compose dev environment
 * [magicmark/composerize](https://github.com/magicmark/composerize): 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
-* [google/comprehensive-rust](https://github.com/google/comprehensive-rust): This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+* [google/comprehensive-rust](https://github.com/google/comprehensive-rust): This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 * [dim-geo/compressibility](https://github.com/dim-geo/compressibility): vapoursynth compressibility function & vmaf comparison
 * [ossu/computer-science](https://github.com/ossu/computer-science): :mortar_board: Path to a free self-taught education in Computer Science!
 * [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
@@ -1439,7 +1439,7 @@
 * [eisneim/cytron_tts_gui](https://github.com/eisneim/cytron_tts_gui): TTS(Text to speech) GUI using Baidu TTS api, currently only support Chinese; 将文字转换为语音mp3文件，自动拆分较长文本文件，适合用于生成有声小说
 * [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
 * [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin): An elegant dashboard
-* [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+* [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 * [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet): An interactive CSS playground
 * [dagostini/DADependencyInjection](https://github.com/dagostini/DADependencyInjection): An example project on how to use dependency injection.
 * [jaysgrant/dadjoke-ui](https://github.com/jaysgrant/dadjoke-ui): A Python 3 Flask project which provides a simple web ui for an open source dadjokes generator
@@ -1830,7 +1830,7 @@
 * [eebean2/DTConsole](https://github.com/eebean2/DTConsole): An on-device console for debugging purpose
 * [ebu/dtt2ip](https://github.com/ebu/dtt2ip): Broadcast to IP conversion for Wifi indoor coverage
 * [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains.
-* [apache/dubbo](https://github.com/apache/dubbo): Apache Dubbo is a high-performance, java based, open source RPC framework.
+* [apache/dubbo](https://github.com/apache/dubbo): The java implementation of Apache Dubbo. An RPC and microservice framework.
 * [apache/dubbo-samples](https://github.com/apache/dubbo-samples): samples for Apache Dubbo
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
 * [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy): A new generation cloud backup tool 
@@ -1961,7 +1961,7 @@
 * [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme): A Material Design-like theme for GNOME/GTK+ based desktop environments.
 * [amilajack/erb-express-example](https://github.com/amilajack/erb-express-example): None
 * [amilajack/erb-video-example](https://github.com/amilajack/erb-video-example): None
-* [jasongdove/ErsatzTV](https://github.com/jasongdove/ErsatzTV): Stream custom live channels using your own media
+* [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV): Stream custom live channels using your own media
 * [atlassian/escalator](https://github.com/atlassian/escalator): Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 * [RokuRoad/eslint-plugin-roku](https://github.com/RokuRoad/eslint-plugin-roku): ESLint plugin to parse and lint BrightScript files
 * [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther): Affordable WiFi hacking platform for testing and learning
@@ -2123,7 +2123,6 @@
 * [drawcall/FFCreatorLite](https://github.com/drawcall/FFCreatorLite): A lightweight and fast short video processing library based on node.js
 * [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic): Library with dynamic audio/video composition and runtime control
 * [xiewei-wayne/FFEngine.framework](https://github.com/xiewei-wayne/FFEngine.framework): FFEngine framework is a high performance player sdk for iOS based on ffmpeg.
-* [george-avn/ffenmass](https://github.com/george-avn/ffenmass): Encoding whole directories with FFmpeg made easy.
 * [just-work/fffw](https://github.com/just-work/fffw): ffmpeg command line tool wrapper
 * [ericgriffin/fflock](https://github.com/ericgriffin/fflock): Distributed video transcoding.
 * [bcoudurier/FFmbc](https://github.com/bcoudurier/FFmbc): FFmpeg customized for broadcast and professional usage
@@ -2148,6 +2147,7 @@
 * [imoreapps/ffmpeg-avplayer-for-ios-tvos](https://github.com/imoreapps/ffmpeg-avplayer-for-ios-tvos): A tiny but powerful iOS and Apple TV OS av player framework that's based on the FFmpeg library.
 * [NikNakk/ffmpeg-aws-bento4](https://github.com/NikNakk/ffmpeg-aws-bento4): None
 * [serverlesspub/ffmpeg-aws-lambda-layer](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer): FFmpeg/FFprobe AWS Lambda layer
+* [slhck/ffmpeg-bitrate-stats](https://github.com/slhck/ffmpeg-bitrate-stats): Calculate bitrate statistics using FFmpeg
 * [ilyaevseev/ffmpeg-build](https://github.com/ilyaevseev/ffmpeg-build): Script for compile and install a static ffmpeg build with nvenc support.
 * [wangyoucao577/ffmpeg-build](https://github.com/wangyoucao577/ffmpeg-build): Build ffmpeg with its dependencies from source.
 * [krzemienski/ffmpeg-build-1](https://github.com/krzemienski/ffmpeg-build-1): Build ffmpeg with its dependencies from source.
@@ -2462,6 +2462,7 @@
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys): Official repository for getwvkeys.cc
 * [wcchristian/gh-action-notion-card](https://github.com/wcchristian/gh-action-notion-card): A github action to build a notion card.
+* [github/gh-actions-importer](https://github.com/github/gh-actions-importer): GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 * [bcochofel/gh-project-cookiecutter](https://github.com/bcochofel/gh-project-cookiecutter): cookiecutter template for GitHub projects
 * [Saif807380/gh-topics-scraper](https://github.com/Saif807380/gh-topics-scraper): Scrape 100 most popular repositories by topic on Github
 * [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars): Displays an interactive and searchable list of your GitHub starred repositories
@@ -2684,7 +2685,7 @@
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
 * [prometheus/graphite_exporter](https://github.com/prometheus/graphite_exporter): Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
-* [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor): 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+* [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor): 📺 Visual Editor & GraphQL IDE. 
 * [hasura/graphql-engine](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 * [graphql/graphql-playground](https://github.com/graphql/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 * [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus): GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible ) 
@@ -3819,10 +3820,10 @@
 * [maxep/MXParallaxHeader](https://github.com/maxep/MXParallaxHeader): Simple parallax header for UIScrollView
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [zoroqi/my-awesome](https://github.com/zoroqi/my-awesome): My Awesome List
-* [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios): List of applications and tools that make my iOS experience even more amazing
+* [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios): Apps/tools I use on iOS
 * [fatih-yavuz/my-links](https://github.com/fatih-yavuz/my-links): My personal page for links.dev
 * [brpaz/my-linux-setup](https://github.com/brpaz/my-linux-setup): My Fedora Linux list of installed applications and Ansible provision scripts
-* [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac): List of applications and tools that make my macOS experience even more amazing
+* [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac): Apps/tools I use on macOS
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
@@ -3897,7 +3898,7 @@
 * [rounce/nginx-hls-module](https://github.com/rounce/nginx-hls-module): Smooth Streaming Module fork
 * [SoloSynth1/nginx-hls-server](https://github.com/SoloSynth1/nginx-hls-server): Documentation on how to set up a HLS stream server using ffmpeg & NGINX
 * [skyformat99/nginx-netty-hls](https://github.com/skyformat99/nginx-netty-hls): nginx、netty hls流媒体架构，实现时移和回看功能。nginx负责m3u8的组装，netty负责运算把ts信息返回给nginx。实测m3u8 时移、回看功能长连接下载并发可达4w，ts 3000路跑满网卡，系统瓶颈在网卡
-* [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching): Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the NGINX stats page.
+* [NOALBS/nginx-obs-automatic-low-bitrate-switching](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching): Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the NGINX stats page.
 * [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation): Automated docker nginx proxy integrated with letsencrypt.
 * [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources): A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
@@ -4446,7 +4447,7 @@
 * [chockenberry/Provisioning](https://github.com/chockenberry/Provisioning): A Quick Look plug-in for .mobileprovision files
 * [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3): Iceman Fork - Proxmark3
 * [WhatsApp/proxy](https://github.com/WhatsApp/proxy): This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
-* [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python爬虫代理IP池(proxy pool)
+* [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python ProxyPool for web spider
 * [NVIDIA/proxyfs](https://github.com/NVIDIA/proxyfs): None
 * [facebook/proxygen](https://github.com/facebook/proxygen): A collection of C++ HTTP libraries including an easy to use HTTP server.
 * [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
@@ -4577,7 +4578,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4913,7 +4914,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): The Industry leading SCTE-35 tool. The most advanced SCTE-35 decoder/encoder available.... ladies and gentleman, threefive.
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the most advanced and the most flexible SCTE-35 decoder/encoder available. Used in production daily around  the world.  threefive is SCTE-35.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
@@ -4941,6 +4942,7 @@
 * [rkoshak/sensorReporter](https://github.com/rkoshak/sensorReporter): A python based service that receives sensor inputs and publishes them over REST (should work with any API but mainly tested with openHAB) or MQTT. It can also receive commands and perform an action (e.g. set a GPIO pin to HIGH). It currently supports Bluetooth, GPIO on Raspberry Pi, Amazon Dash buttons, command line scripts, and Roku IP address discovery.
 * [alibaba/Sentinel](https://github.com/alibaba/Sentinel): A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 * [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa): The official Sentry SDK for iOS, tvOS, macOS, watchOS.
+* [CasparCG/server](https://github.com/CasparCG/server): CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs. It has been in 24/7 broadcast production since 2006. Ready-to-use downloads are available under the Releases tab https://casparcg.com.
 * [kaltura/server](https://github.com/kaltura/server): The Kaltura Platform Backend. To install Kaltura, visit the install packages repository.
 * [localtunnel/server](https://github.com/localtunnel/server): server for localtunnel.me
 * [nextcloud/server](https://github.com/nextcloud/server): ☁️ Nextcloud server, a safe home for all your data
@@ -5407,7 +5409,6 @@
 * [thomaspaulmann/Swish](https://github.com/thomaspaulmann/Swish): 👷Build Swift Projects on a Remote Machine within Xcode.
 * [thoughtbot/Swish](https://github.com/thoughtbot/Swish): Nothing but Net(working)
 * [jamescun/switcher](https://github.com/jamescun/switcher): Run SSH and HTTP(S) on the same port
-* [wreedb/switcheroo](https://github.com/wreedb/switcheroo): theme switcher for alacritty awesome and kitty
 * [Swrve/swrve-roku-sdk](https://github.com/Swrve/swrve-roku-sdk): Swrve Roku SDK 
 * [b3log/symphony](https://github.com/b3log/symphony): 仓库已经迁移到 https://github.com/88250/symphony
 * [matrix-org/synapse](https://github.com/matrix-org/synapse): Synapse: Matrix homeserver written in Python/Twisted.
@@ -5501,7 +5502,7 @@
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
-* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 * [saravanakumarjsk/Text-to-speach-with-gTTS](https://github.com/saravanakumarjsk/Text-to-speach-with-gTTS): Converting text file to mp3 speach format using gTTS
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [ianzhao05/textshot](https://github.com/ianzhao05/textshot): Python tool for grabbing text via screenshot
