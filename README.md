@@ -4647,7 +4647,7 @@
 * [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
 * [realm/realm-swift](https://github.com/realm/realm-swift): Realm is a mobile database: a replacement for Core Data & SQLite
 * [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-* [microsoft/recommenders](https://github.com/microsoft/recommenders): Best Practices on Recommendation Systems
+* [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders): Best Practices on Recommendation Systems
 * [3cpt/recorrente](https://github.com/3cpt/recorrente): Script that get all the information of a user public repos from the Github API and save it in an incremental CSV
 * [nielstenboom/recurring-content-detector](https://github.com/nielstenboom/recurring-content-detector): Unsupervised detection of opening / closing credits, recaps, and previews in video files 🎥🍿🎬
 * [lightspin-tech/red-kube](https://github.com/lightspin-tech/red-kube): Red Team K8S Adversary Emulation Based on kubectl

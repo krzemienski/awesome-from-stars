@@ -12359,9 +12359,6 @@
     "microsoft/pyright": [
         "Other"
     ],
-    "microsoft/recommenders": [
-        "Other"
-    ],
     "microsoft/vscode": [
         "Other"
     ],
@@ -14622,6 +14619,9 @@
         "Other"
     ],
     "realpython/flask-by-example": [
+        "Other"
+    ],
+    "recommenders-team/recommenders": [
         "Other"
     ],
     "red5pro/streaming-html5": [
