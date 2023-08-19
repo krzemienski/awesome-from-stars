@@ -716,7 +716,7 @@
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
-* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
