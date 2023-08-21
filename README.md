@@ -398,6 +398,7 @@
 * [msartore/ATA-GUI](https://github.com/msartore/ATA-GUI): ATA GUI is a project to make ATA available to all the users. ATA GUI is an Advance Tool for Android™ powered by SDK Platform Tools.
 * [athensresearch/athens](https://github.com/athensresearch/athens): ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 * [YadominJinta/atilo](https://github.com/YadominJinta/atilo): Linux installer for termux
+* [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis): A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [willowtreeapps/atom-ide-brightscript](https://github.com/willowtreeapps/atom-ide-brightscript): None
 * [facebookarchive/atom-ide-ui](https://github.com/facebookarchive/atom-ide-ui): A collection of user interfaces for Atom IDE.
@@ -2028,6 +2029,7 @@
 * [bookyo/express-ffmpeg](https://github.com/bookyo/express-ffmpeg): nodejs ffmpeg video transcode webui，基于nodejs的云转码系统 https://www.efvcms.com
 * [HoseungJang/express-hls-example](https://github.com/HoseungJang/express-hls-example): A simple example about HTTP Live Streaming using Node.js and Express
 * [pNre/ExSwift](https://github.com/pNre/ExSwift): A set of Swift extensions for standard types and classes.
+* [gerard/ext4fuse](https://github.com/gerard/ext4fuse): EXT4 implementation for FUSE
 * [julio641742/extend-panel-menu](https://github.com/julio641742/extend-panel-menu): None
 * [notion-enhancer/extension](https://github.com/notion-enhancer/extension): an enhancer/customiser for the all-in-one productivity workspace notion.so (browser)
 * [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager): A utility for browsing and installing GNOME Shell Extensions.
@@ -3544,7 +3546,6 @@
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
 * [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup): A beginner's guide to setting up a development environment on macOS
-* [SevenBits/Mac-Linux-USB-Loader](https://github.com/SevenBits/Mac-Linux-USB-Loader): Boot Linux on your Mac, easily
 * [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server): Local RTMP Streaming Server
 * [exyte/Macaw](https://github.com/exyte/Macaw): Powerful and easy-to-use vector graphics Swift library with SVG support
 * [MacDownApp/macdown](https://github.com/MacDownApp/macdown): Open source Markdown editor for macOS.
@@ -4578,7 +4579,7 @@
 * [quicktype/quicktype-xcode](https://github.com/quicktype/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4914,7 +4915,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the most advanced and the most flexible SCTE-35 decoder/encoder available. Used in production daily around  the world.  threefive is SCTE-35.
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the industry leading SCTE-35 decoder and encoder. Used in production daily around  the world. 
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies

@@ -3035,6 +3035,9 @@
     "ProxymanApp/Proxyman": [
         "Other"
     ],
+    "ProxymanApp/atlantis": [
+        "Other"
+    ],
     "Ptr-srix4k/HID-Cloner": [
         "Other"
     ],
@@ -3363,9 +3366,6 @@
         "Other"
     ],
     "SeungheonOh/xrdm": [
-        "Other"
-    ],
-    "SevenBits/Mac-Linux-USB-Loader": [
         "Other"
     ],
     "SeverinetsDenis/SwiftAutomationCore": [
@@ -8625,6 +8625,9 @@
         "Other"
     ],
     "georgewhewell/undervolt": [
+        "Other"
+    ],
+    "gerard/ext4fuse": [
         "Other"
     ],
     "gerardpuig/ubuntu-cleaner": [
