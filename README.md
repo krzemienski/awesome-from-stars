@@ -906,7 +906,7 @@
 * [dempfi/ayu](https://github.com/dempfi/ayu): 🎨🖌 Modern Sublime Text theme
 * [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates): Azure Quickstart Templates
 * [microsoft/azure-spring-apps-training](https://github.com/microsoft/azure-spring-apps-training): Guides and tutorials to make the most out of Azure Spring Apps 
-* [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio): Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostreSQL, and MongoDB.
+* [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio): Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB.
 * [microsoft/azuredatastudio-postgresql](https://github.com/microsoft/azuredatastudio-postgresql): azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
 * [andeaseme/backbeat](https://github.com/andeaseme/backbeat): Automated video transcoding over S3 buckets
 * [scality/backbeat](https://github.com/scality/backbeat): Zenko Backbeat is the core engine for asynchronous replication, optimized for queuing metadata updates and dispatching work to long-running tasks in the background.
@@ -5456,6 +5456,7 @@
 * [taniarascia/takenote](https://github.com/taniarascia/takenote): 📝  ‎ A web-based notes app for developers.
 * [bbc/tal](https://github.com/bbc/tal): TV Application Layer
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+* [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook): Tasks, boards & notes for the command-line habitat
 * [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe): An open source project management tool with Kanban boards
 * [GothenburgBitFactory/taskserver](https://github.com/GothenburgBitFactory/taskserver): Taskserver - Taskwarrior Synchronisation Server
 * [cvisionai/tator](https://github.com/cvisionai/tator): Video analytics web platform
