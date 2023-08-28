@@ -1091,7 +1091,7 @@
 * [sukov/CachingPlayerItem](https://github.com/sukov/CachingPlayerItem): An AVPlayerItem subclass that lets you stream and cache media content on iOS
 * [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [ben-manes/caffeine](https://github.com/ben-manes/caffeine): A high performance caching library for Java
-* [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng):  ⚠ This project has migrated to codeberg.org
+* [WhyNotHugo/caffeine-ng](https://github.com/WhyNotHugo/caffeine-ng):  ⚠ This project has migrated to codeberg.org
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
 * [xing/calabash-launcher](https://github.com/xing/calabash-launcher): iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac.
 * [icorn/Calibrate](https://github.com/icorn/Calibrate): A tvOS app for the AppleTV which checks your TV or projector with several test patterns.
@@ -1425,7 +1425,7 @@
 * [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists): Curated lists on various topics
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
-* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Generate code from cURL commands
+* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert cURL commands into code
 * [Freshman-tech/custom-html5-video](https://github.com/Freshman-tech/custom-html5-video): A custom HTML5 video player built with JavaScript
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
 * [shigeyf/custom-manifest-proxy-webapi](https://github.com/shigeyf/custom-manifest-proxy-webapi): A simple Web API implementation of Custom Manifest for Adaptive Media Streaming
@@ -2397,7 +2397,7 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [inferred/FreeBuilder](https://github.com/inferred/FreeBuilder): Automatic generation of the Builder pattern for Java
 * [dyne/frei0r](https://github.com/dyne/frei0r): A large collection of free and portable video plugins
-* [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
+* [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable news aggregator…
 * [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): NVR with realtime local object detection for IP cameras
 * [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017): 2017 edition of our front-end development guide
 * [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): Manually curated collection of resources for frontend web developers.
@@ -2457,6 +2457,7 @@
 * [sindresorhus/generator-electron](https://github.com/sindresorhus/generator-electron): Scaffold out an Electron app boilerplate
 * [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster): JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 * [ramimoshe/generator-node-template](https://github.com/ramimoshe/generator-node-template): nodejs service template generator
+* [shaka-project/generic-webdriver-server](https://github.com/shaka-project/generic-webdriver-server): A generic WebDriver server framework for use with Karma and Selenium, with backends for ChromeOS, Chromecast, Tizen, and Xbox One.
 * [wolverdude/GenSON](https://github.com/wolverdude/GenSON): GenSON is a powerful, user-friendly JSON Schema generator built in Python.
 * [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap): :world_map: Generate an interactive geo heatmap from your Google location data
 * [petrpavlik/GeoSwift](https://github.com/petrpavlik/GeoSwift): Location-related APIs intended to be used by server-side Swift applications.
@@ -3292,6 +3293,7 @@
 * [easonlin404/ksm](https://github.com/easonlin404/ksm): FairPlay Key Security Module written in Go (Golang).
 * [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer): iOS/macOS/tvOS/visionOS video player
 * [confluentinc/ksql](https://github.com/confluentinc/ksql): The database purpose-built for stream processing applications.
+* [ksvc/KSYLive_iOS](https://github.com/ksvc/KSYLive_iOS): 金山云直播SDK [ iOS推流+播放 ]融合版 支持美颜滤镜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Audio Mixer)、混响(Reverb)、画中画(PIP)
 * [ksvc/KSYMediaPlayer_iOS](https://github.com/ksvc/KSYMediaPlayer_iOS): 金山云iOS播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds）
 * [google/ktsan](https://github.com/google/ktsan): Kernel Thread Sanitizer, a fast data race detector for the Linux kernel
 * [ChangbaDevs/KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache): A powerful media cache framework.
@@ -4366,7 +4368,7 @@
 * [itsuka-dev/plurality](https://github.com/itsuka-dev/plurality): A cornucopia of open source UIs built with ChatGPT API.
 * [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
 * [Tjatse/pm2-gui](https://github.com/Tjatse/pm2-gui): An elegant web & terminal interface for Unitech/PM2.
-* [olexnzarov/pm2-web-ui](https://github.com/olexnzarov/pm2-web-ui): Modern web interface for PM2
+* [olexnzarov/pm2-web-ui](https://github.com/olexnzarov/pm2-web-ui): (Not so) modern web interface for PM2
 * [DolbyLaboratories/pmd_tool](https://github.com/DolbyLaboratories/pmd_tool): pmd_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata and Serial ADM metadata. PMD Studio is an authoring tool for such metadata.
 * [kevinzhow/PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift): A simple and beautiful chart lib used in Piner and CoinsMan for iOS(https://github.com/kevinzhow/PNChart) Swift Implementation 
 * [righettod/poc-graphql](https://github.com/righettod/poc-graphql): Research on GraphQL from an AppSec point of view.
@@ -4978,6 +4980,7 @@
 * [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install): Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 * [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG): Next Generation of ShadowsocksX
 * [juhovh/shairplay](https://github.com/juhovh/shairplay): Apple airplay and raop protocol server
+* [shaka-project/shaka-lab](https://github.com/shaka-project/shaka-lab): Replicate or rebuild the Shaka Lab environment
 * [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager): A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 * [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
 * [shaka-project/shaka-player-embedded](https://github.com/shaka-project/shaka-player-embedded): Shaka Player in a C++ Framework
@@ -5229,6 +5232,7 @@
 * [jsbain/stash_git_tutorial](https://github.com/jsbain/stash_git_tutorial): stash git tools tutorial
 * [davidask/StateViewController](https://github.com/davidask/StateViewController): Stateful view controller containment for iOS and tvOS
 * [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg): Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+* [shaka-project/static-ffmpeg-binaries](https://github.com/shaka-project/static-ffmpeg-binaries): Static binaries of FFmpeg, for multiple OS & CPU combinations, built from source in a GitHub Actions workflow.
 * [statping/statping](https://github.com/statping/statping): Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 * [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
 * [slackapi/steno](https://github.com/slackapi/steno): :vhs: Slack app testing companion - Record and Replay your HTTP requests, both incoming and outgoing
@@ -5449,6 +5453,7 @@
 * [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web): Tabby Web - an SSH/Telnet/Serial client in your browser.
 * [composer404/tabby-workspace-manager](https://github.com/composer404/tabby-workspace-manager): A Tabby plugin that allows you to create custom workspace profiles.
 * [SchrodingerZhu/tabbycat](https://github.com/SchrodingerZhu/tabbycat): dotgraph generator for rust
+* [codota/TabNine](https://github.com/codota/TabNine): AI Code Completions
 * [BoostIO/tachijs](https://github.com/BoostIO/tachijs): Highly testable dead simple web server written in Typescript :rocket:
 * [Martchus/tageditor](https://github.com/Martchus/tageditor): A tag editor with Qt GUI and command-line interface supporting MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska
 * [henningSaul/tagesschau-on-roku](https://github.com/henningSaul/tagesschau-on-roku): tagesschau Channel for Roku Streaming Players
@@ -5504,7 +5509,7 @@
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
-* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 * [saravanakumarjsk/Text-to-speach-with-gTTS](https://github.com/saravanakumarjsk/Text-to-speach-with-gTTS): Converting text file to mp3 speach format using gTTS
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [ianzhao05/textshot](https://github.com/ianzhao05/textshot): Python tool for grabbing text via screenshot
@@ -5572,6 +5577,7 @@
 * [fflewddur/tophat](https://github.com/fflewddur/tophat): View CPU, memory, disk, and network activity in the GNOME top bar.
 * [matteom/TopQuestion](https://github.com/matteom/TopQuestion): An example of calling REST APIs in iOS
 * [ag2816/TorontoWalks](https://github.com/ag2816/TorontoWalks): Walk generator to discover new neighbourhoods and sites in Toronto
+* [KiraLT/torrent-stream-server](https://github.com/KiraLT/torrent-stream-server):  HTTP server to convert any torrent to video stream
 * [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind
 * [JoseExposito/touche](https://github.com/JoseExposito/touche): The desktop application to configure Touchégg
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
@@ -5975,7 +5981,7 @@
 * [rokucommunity/vscode-brightscript-language](https://github.com/rokucommunity/vscode-brightscript-language): A Visual Studio Code extension for Roku's BrightScript language
 * [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview): A real browser preview inside your editor that you can debug.
 * [Agenric/VSCode-CocoaPods-Snippets](https://github.com/Agenric/VSCode-CocoaPods-Snippets): A snippet extension for VSCode to set .podspec or .podfile files for CocoaPods.
-* [ozkanonur/vscode-deepdark-material](https://github.com/ozkanonur/vscode-deepdark-material): A clean dark material theme for Visual Studio Code Editor
+* [onur-ozkan/vscode-deepdark-material](https://github.com/onur-ozkan/vscode-deepdark-material): A clean dark material theme for Visual Studio Code Editor
 * [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio): This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 * [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv): vs code extension to edit csv files with an excel like table ui
 * [willowtreeapps/vscode-ide-brightscript](https://github.com/willowtreeapps/vscode-ide-brightscript): Brightscript support for vscode
@@ -6070,6 +6076,7 @@
 * [DeskConnect/WFOAuth2](https://github.com/DeskConnect/WFOAuth2): A modern OAuth 2 library for macOS, iOS, tvOS and watchOS.
 * [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer): :ocean: WFPlayer.js is an audio waveform generator
 * [palfrey/wharf](https://github.com/palfrey/wharf): Web UI for Dokku
+* [sbrshk/whatever](https://github.com/sbrshk/whatever): An unofficial Evernote desktop client for Linux
 * [ole/whats-new-in-swift-4-2](https://github.com/ole/whats-new-in-swift-4-2): An Xcode playground demonstrating the new features in in Swift 4.2.
 * [twostraws/whats-new-in-swift-5-0](https://github.com/twostraws/whats-new-in-swift-5-0): An Xcode playground that demonstrates the new features introduced in Swift 5.0.
 * [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt): Decrypt WhatsApp encrypted media files

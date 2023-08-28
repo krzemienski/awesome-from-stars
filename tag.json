@@ -2294,6 +2294,9 @@
     "Kinto/kinto": [
         "Other"
     ],
+    "KiraLT/torrent-stream-server": [
+        "Other"
+    ],
     "Kitura/Kitura": [
         "Other"
     ],
@@ -3882,6 +3885,9 @@
         "Other"
     ],
     "WhatsApp/proxy": [
+        "Other"
+    ],
+    "WhyNotHugo/caffeine-ng": [
         "Other"
     ],
     "WikidPad/WikidPad": [
@@ -6038,9 +6044,6 @@
     "caesiumstudio/csBooks-updates": [
         "Other"
     ],
-    "caffeine-ng/caffeine-ng": [
-        "Other"
-    ],
     "cak/awesome-server-side-swift": [
         "Other"
     ],
@@ -6531,6 +6534,9 @@
         "Other"
     ],
     "codex-team/editor.js": [
+        "Other"
+    ],
+    "codota/TabNine": [
         "Other"
     ],
     "cokaholic/TKParallaxScrollView": [
@@ -11015,6 +11021,9 @@
     "kstenerud/iOS-Universal-Framework": [
         "Other"
     ],
+    "ksvc/KSYLive_iOS": [
+        "Other"
+    ],
     "ksvc/KSYMediaPlayer_iOS": [
         "Other"
     ],
@@ -13448,6 +13457,9 @@
     "onqtam/awesome-cmake": [
         "Other"
     ],
+    "onur-ozkan/vscode-deepdark-material": [
+        "Other"
+    ],
     "oobabooga/text-generation-webui": [
         "Other"
     ],
@@ -13680,9 +13692,6 @@
         "Other"
     ],
     "oz123/awesome-c": [
-        "Other"
-    ],
-    "ozkanonur/vscode-deepdark-material": [
         "Other"
     ],
     "oznu/docker-cloudflare-ddns": [
@@ -15173,6 +15182,9 @@
     "sbraz/pymediainfo": [
         "Other"
     ],
+    "sbrshk/whatever": [
+        "Other"
+    ],
     "sc0ty/subsync": [
         "Other"
     ],
@@ -15389,6 +15401,12 @@
     "shaka-project/eme_logger": [
         "Other"
     ],
+    "shaka-project/generic-webdriver-server": [
+        "Other"
+    ],
+    "shaka-project/shaka-lab": [
+        "Other"
+    ],
     "shaka-project/shaka-packager": [
         "Other"
     ],
@@ -15399,6 +15417,9 @@
         "Other"
     ],
     "shaka-project/shaka-streamer": [
+        "Other"
+    ],
+    "shaka-project/static-ffmpeg-binaries": [
         "Other"
     ],
     "shamlian/root-robot-sdk": [
