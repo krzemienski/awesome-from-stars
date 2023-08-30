@@ -683,6 +683,9 @@
     "CodyReichert/awesome-cl": [
         "Other"
     ],
+    "ColdGrub1384/Apple-Frameworks-Python": [
+        "Other"
+    ],
     "ColdGrub1384/LibTerm": [
         "Other"
     ],
@@ -1520,6 +1523,9 @@
     "Eyevinn/ratings-api": [
         "Other"
     ],
+    "Eyevinn/rtsp-hls-push": [
+        "Other"
+    ],
     "Eyevinn/safari-bitrate-monitor": [
         "Other"
     ],
@@ -1533,6 +1539,9 @@
         "Other"
     ],
     "Eyevinn/srt-metadata-extractor": [
+        "Other"
+    ],
+    "Eyevinn/srt-monitor": [
         "Other"
     ],
     "Eyevinn/srt-to-mpd-whep-reference": [
@@ -4670,10 +4679,16 @@
     "android/codelab-exoplayer-intro": [
         "Other"
     ],
+    "androidx/media": [
+        "Other"
+    ],
     "andsens/homeshick": [
         "Other"
     ],
     "angristan/openvpn-install": [
+        "Other"
+    ],
+    "anilbeesetti/nextplayer": [
         "Other"
     ],
     "animosity22/homescripts": [
@@ -5609,6 +5624,9 @@
     "beetbox/beets": [
         "Other"
     ],
+    "beeware/Python-Apple-support": [
+        "Other"
+    ],
     "begeekmyfriend/yasea": [
         "Other"
     ],
@@ -5913,6 +5931,9 @@
         "Other"
     ],
     "briandunnington/Roact": [
+        "Other"
+    ],
+    "brianwernick/ExoMedia": [
         "Other"
     ],
     "briatte/awesome-network-analysis": [
@@ -6605,6 +6626,9 @@
     "contently/videojs-annotation-comments": [
         "Other"
     ],
+    "continuedev/continue": [
+        "Other"
+    ],
     "contour-terminal/contour": [
         "Other"
     ],
@@ -6726,6 +6750,9 @@
         "Other"
     ],
     "cruffenach/CRToast": [
+        "Other"
+    ],
+    "crunchyroll/evs-s3helper": [
         "Other"
     ],
     "crunchyroll/objective_perceptual_analysis": [
@@ -6858,6 +6885,9 @@
         "Other"
     ],
     "danielgindi/Charts": [
+        "Other"
+    ],
+    "danielgtaylor/qtfaststart": [
         "Other"
     ],
     "danielsaidi/Sheeeeeeeeet": [
@@ -8243,6 +8273,9 @@
     "fastogt/fastonosql": [
         "Other"
     ],
+    "fastogt/fastotv": [
+        "Other"
+    ],
     "fastovetsilya/Automatic_NN_Swiper": [
         "Other"
     ],
@@ -8514,6 +8547,9 @@
         "Other"
     ],
     "fsaragoca/fastlane-plugin-changelog_generator": [
+        "Other"
+    ],
+    "fsouza/s3-upload-proxy": [
         "Other"
     ],
     "fsspec/s3fs": [
@@ -11216,6 +11252,9 @@
     "lakinduakash/linux-wifi-hotspot": [
         "Other"
     ],
+    "lapce/lapce": [
+        "Other"
+    ],
     "laratools/ci": [
         "Other"
     ],
@@ -11610,6 +11649,9 @@
         "Other"
     ],
     "louisdh/source-editor": [
+        "Other"
+    ],
+    "louisdh/textor": [
         "Other"
     ],
     "louislam/uptime-kuma": [
@@ -13196,6 +13238,9 @@
     "notea-org/notea": [
         "Other"
     ],
+    "notedit/media-server-go": [
+        "Other"
+    ],
     "notion-enhancer/extension": [
         "Other"
     ],
@@ -13299,6 +13344,9 @@
         "Other"
     ],
     "nystudio107/craft-transcoder": [
+        "Other"
+    ],
+    "nytimes/elemental-live-client": [
         "Other"
     ],
     "nytimes/ios-360-videos": [
@@ -13754,6 +13802,9 @@
     "papers-we-love/papers-we-love": [
         "Other"
     ],
+    "pappasam/jedi-language-server": [
+        "Other"
+    ],
     "paradisec-archive/video_processing-MP4": [
         "Other"
     ],
@@ -14016,6 +14067,9 @@
         "Other"
     ],
     "pld-linux/kvazaar": [
+        "Other"
+    ],
+    "plotly/dash": [
         "Other"
     ],
     "plotly/dash-player": [
@@ -16694,6 +16748,9 @@
     "threat9/routersploit": [
         "Other"
     ],
+    "threestudio-project/threestudio": [
+        "Other"
+    ],
     "thyngster/roku-universal-analytics": [
         "Other"
     ],
@@ -17337,6 +17394,9 @@
         "Other"
     ],
     "video-dev/media-ui-extensions": [
+        "Other"
+    ],
+    "video-dev/streamlyser": [
         "Other"
     ],
     "video-dev/streams": [
