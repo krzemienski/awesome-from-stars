@@ -173,6 +173,7 @@
 * [terrycain/aioboto3](https://github.com/terrycain/aioboto3): Wrapper to use boto3 resources with the aiobotocore async backend
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
 * [aio-libs/aiodocker](https://github.com/aio-libs/aiodocker): Python Docker API client based on asyncio and aiohttp
+* [bachya/aiolinkding](https://github.com/bachya/aiolinkding): A Python3, async interface to the linkding REST API
 * [IBM/air-traffic-control](https://github.com/IBM/air-traffic-control): # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
 * [apache/airflow](https://github.com/apache/airflow): Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 * [mpolatcan/airflow-docker](https://github.com/mpolatcan/airflow-docker): Scalable Airflow Docker image that works Docker and Kubernetes
@@ -244,6 +245,7 @@
 * [segment-integrations/analytics-ios-integration-amplitude](https://github.com/segment-integrations/analytics-ios-integration-amplitude): The Amplitude analytics-ios integration.
 * [segment-boneyard/analytics-swift](https://github.com/segment-boneyard/analytics-swift): The hassle-free way to add analytics to your Swift app.
 * [warren-bank/Android-ExoPlayer-AirPlay-Receiver](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver): Android app to run on a set-top box and play video URLs "cast" to it with a stateless HTTP API (based on AirPlay v1).
+* [googlesamples/android-media-controller](https://github.com/googlesamples/android-media-controller): None
 * [wada811/Android-Paint](https://github.com/wada811/Android-Paint): wada811/Android-Paint
 * [Eyevinn/android-player](https://github.com/Eyevinn/android-player): None
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
@@ -503,6 +505,8 @@
 * [WWBN/AVideo](https://github.com/WWBN/AVideo): Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 * [WWBN/AVideo-Encoder](https://github.com/WWBN/AVideo-Encoder): Encoder Server for AVideo Platform Open-Source
 * [mmcloughlin/avo](https://github.com/mmcloughlin/avo): Generate x86 Assembly with Go
+* [ChrisMash/AVPlayer-SwiftUI](https://github.com/ChrisMash/AVPlayer-SwiftUI): Using AVPlayer in SwiftUI
+* [balnaves/AVPlayerItemLegibleOutputTest](https://github.com/balnaves/AVPlayerItemLegibleOutputTest): This is a simple test project to get callbacks of caption changes in an HLS live stream.
 * [mhergon/AVPlayerViewController-Subtitles](https://github.com/mhergon/AVPlayerViewController-Subtitles): Easy way to show SRT files on AVPlayerViewController
 * [marakew/AvProxy](https://github.com/marakew/AvProxy): IPTV transmux proxy for HTTP(S)/HLS(S)(AES128)/UDP/RTP/RTSP + VOD,  MPTS/T2MI(PLP) demux
 * [Telecommunication-Telemedia-Assessment/AVRate](https://github.com/Telecommunication-Telemedia-Assessment/AVRate): An open source modular Audio/Visual subjective evaluation test interface
@@ -718,7 +722,7 @@
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
-* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes. 
+* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes. 
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
@@ -1001,6 +1005,7 @@
 * [kutyadog/bonjour_ios_tvos](https://github.com/kutyadog/bonjour_ios_tvos):  Server / Client code for connecting your iOS or TVos devices together using bonjour and GCDAsyncSocket framework over a shared network such as WIFI. — Edit
 * [cosmicpython/book](https://github.com/cosmicpython/book): A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 * [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks): :bookmark: +5K awesome resources for geeks and software crafters :beer:
+* [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks): 🔖 Bookmark app for Nextcloud
 * [andela-sjames/Bookmeapi](https://github.com/andela-sjames/Bookmeapi): Demonstrate the power of GraphQL with Python/Django
 * [learn-anything/books](https://github.com/learn-anything/books): Awesome Books
 * [dushan14/books-store](https://github.com/dushan14/books-store): A Simple Web application to use flask python web framework. 
@@ -1239,6 +1244,7 @@
 * [clearlinux/clr-installer](https://github.com/clearlinux/clr-installer): Clear Linux* OS Installer
 * [ccremer/clustercode](https://github.com/ccremer/clustercode): Distribute your video encoding tasks across a cluster of nodes!
 * [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex): ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
+* [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian): A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 * [Dash-Industry-Forum/CMAF-Conformance](https://github.com/Dash-Industry-Forum/CMAF-Conformance): CMAF sub repository of DASH-IF-Conformance. This repo contains CTAWAVE conformance functionalities as a submodule. CTA WAVE Github project is located at https://github.com/orgs/Dash-Industry-Forum/projects/6 but it is not visible to the public. To see this page & contribute, please get in contact with repository admin to be added as a collaborator.
 * [eshepelyuk/cmak-docker](https://github.com/eshepelyuk/cmak-docker): CMAK (prev. Kafka Manager) and cmak2zk docker images
 * [louisdh/cmd-almanac](https://github.com/louisdh/cmd-almanac): A list of commands I frequently use
@@ -1500,6 +1506,7 @@
 * [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 * [unsplash/datasets](https://github.com/unsplash/datasets): 🎁  4,800,000+ Unsplash images made available for research and machine learning
 * [ishkawa/DataSourceKit](https://github.com/ishkawa/DataSourceKit): Declarative, testable data source of UICollectionView and UITableView.
+* [tchapi/davis](https://github.com/tchapi/davis): 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal.
 * [cstack/db_tutorial](https://github.com/cstack/db_tutorial): Writing a sqlite clone from scratch in C
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -2375,6 +2382,7 @@
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
+* [magdalene/fly-background-jobs](https://github.com/magdalene/fly-background-jobs): Demo implementation of running background jobs on Fly.io machines
 * [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 * [tonydeng/fmj](https://github.com/tonydeng/fmj): FMJ (FFMpeg for Java)。通过Java调用FFMpeg命令的方式来对音视频进行处理（获取信息、截图等等）。
 * [unifiedstreaming/fmp4-ingest](https://github.com/unifiedstreaming/fmp4-ingest): Repository on shared work on developing a fragmented MPEG-4 ingest specification
@@ -3072,6 +3080,7 @@
 * [guidomb/ios-scripts](https://github.com/guidomb/ios-scripts): A set of scripts to manage iOS projects
 * [appspector/ios-sdk](https://github.com/appspector/ios-sdk): AppSpector is a debugging service for mobile apps
 * [facebookarchive/ios-snapshot-test-case](https://github.com/facebookarchive/ios-snapshot-test-case): Snapshot view unit tests for iOS
+* [kelvinfok/iOS-Swift-HLS-Stream-Video-Player](https://github.com/kelvinfok/iOS-Swift-HLS-Stream-Video-Player): Sample Project featuring AVPlayer that streams HLS videos (m3u8)
 * [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips): iOS知识小集
 * [twitter/ios-twitter-network-layer](https://github.com/twitter/ios-twitter-network-layer): Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms
 * [kstenerud/iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework): An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.
@@ -3200,7 +3209,7 @@
 * [dashpay/JSONSchemaValidation](https://github.com/dashpay/JSONSchemaValidation): JSON Schema draft 4, 6 and 7 parsing and validation library written in Objective-C.
 * [bhollis/jsonview](https://github.com/bhollis/jsonview): A web extension that helps you view JSON documents in the browser. 
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [juju/juju](https://github.com/juju/juju): Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux apps, with declarative integration between operators for automated microservice integration.
+* [juju/juju](https://github.com/juju/juju): Juju is an open source orchestration engine for software operators that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure.
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
 * [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
@@ -3432,6 +3441,7 @@
 * [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev): Lightweight Google-searchable Slack alternative for Communities
 * [talhasch/ling](https://github.com/talhasch/ling): REST client
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+* [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly): 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 * [krzysztofzablocki/LinkedConsole](https://github.com/krzysztofzablocki/LinkedConsole): Clickable links in your Xcode console, so you never wonder which class logged the message.
 * [hellpanderrr/linkedin-pdf-parsing](https://github.com/hellpanderrr/linkedin-pdf-parsing): Parsing resumes in a PDF format from linkedIn 
 * [akitten/linkedin-public-profile-parser](https://github.com/akitten/linkedin-public-profile-parser): :innocent: Parse a *Public* LinkedIn Profile Page
@@ -3548,11 +3558,12 @@
 * [bharadwajpro/m3u8-player](https://github.com/bharadwajpro/m3u8-player): M3U8 Player in browser. Play any live stream m3u8 link with this website at https://bharadwajpro.github.io/m3u8-player
 * [Eltik/M3U8-Proxy](https://github.com/Eltik/M3U8-Proxy): Proxy m3u8 files through pure JavaScript.
 * [marceloboeira/m3u8.cr](https://github.com/marceloboeira/m3u8.cr): Generate and parse m3u8 playlists for HLS
-* [huzhenjie/m3u8_downloader](https://github.com/huzhenjie/m3u8_downloader): 基于Python的m3u8下载器
+* [huzhenjie/m3u8_downloader](https://github.com/huzhenjie/m3u8_downloader): Download the files of m3u8 using python. （基于Python的m3u8下载器）
 * [wwwtete/M3u8CacheProxy](https://github.com/wwwtete/M3u8CacheProxy): 一套缓存m3u8视频的lib，第一次播放时将视频切片缓存到本地，第二次播放时直接读取缓存过的切片不需要再次下载！
 * [qq494257084/m3u8Download](https://github.com/qq494257084/m3u8Download): java下载m3u8视频，解密并合并ts  java download m3u8 video,decrypt & merge ts slice
 * [kedpter/M3u8Downloader](https://github.com/kedpter/M3u8Downloader): Python downloader for HTTP Live Streaming (HLS)
 * [M3U8Kit/M3U8Parser](https://github.com/M3U8Kit/M3U8Parser): A light weight M3U8 parser. Support X-Key & X-Session-Key.
+* [xyqjay/m3u8ToMP4](https://github.com/xyqjay/m3u8ToMP4): iOS demo,avplayer play m3u8 .ts file
 * [Axel-Erfurt/m3uBrowserPlayer](https://github.com/Axel-Erfurt/m3uBrowserPlayer): play m3u TV-Playlist in browser
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
@@ -3797,6 +3808,7 @@
 * [DicomJ/mpeg-profiler](https://github.com/DicomJ/mpeg-profiler): mpeg-isobmf/mp4 profiling library
 * [jwplayer/mpegdash](https://github.com/jwplayer/mpegdash): DASH manifest generation and validation in Python
 * [MPEGDASHPlayer/MPEGDASH-iOS-Player](https://github.com/MPEGDASHPlayer/MPEGDASH-iOS-Player): The MPEG-DASH Player iOS Application
+* [thmatuza/MPEGDASHAVPlayerDemo](https://github.com/thmatuza/MPEGDASHAVPlayerDemo): AVPlayer demo to play MPEG-DASH
 * [sitkevij/mpi](https://github.com/sitkevij/mpi): Rust-based MPEG-4 box inspector with TOML output.
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 * [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android): #mpv-android @ libera.chat
@@ -4089,6 +4101,8 @@
 * [scarsu/NotionX](https://github.com/scarsu/NotionX): A Browser extension that enhances Notion Web App experience.一个增强 Notion Web端体验的浏览器插件。
 * [leandromoreira/nott](https://github.com/leandromoreira/nott): The New OTT Platform - an excuse to discuss and design a simple edge computing platform
 * [juniorxsound/now](https://github.com/juniorxsound/now): 📼 A slim FFMPEG wrapper to easily transcode videos to multiple resolutions using Nvidia GPUs
+* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
+* [binwiederhier/ntfy-ios](https://github.com/binwiederhier/ntfy-ios): iOS App for ntfy
 * [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security Network Traffic Monitoring
 * [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide): An open IDE for web and native mobile development, built on top of Atom 
 * [kean/Nuke](https://github.com/kean/Nuke): Image loading system
@@ -4137,6 +4151,7 @@
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio): OBS Studio - Free and open source software for live streaming and screen recording
 * [openbroadcaster/observer](https://github.com/openbroadcaster/observer):  :radio: OBServer Automation, Scheduler, Media Library and Player Manager
 * [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases): Community plugins list, theme list, and releases of Obsidian.
+* [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks): Task management for the Obsidian knowledge base.
 * [obuseme/OCMockSample](https://github.com/obuseme/OCMockSample): None
 * [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [vmware-archive/octant](https://github.com/vmware-archive/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -4826,6 +4841,7 @@
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
 * [penDerGraft/run-k8s-job](https://github.com/penDerGraft/run-k8s-job): GitHub Action to run a Kubernetes job in a cluster
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
+* [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker - in VMs.
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
 * [meienberger/runtipi](https://github.com/meienberger/runtipi): Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 * [meienberger/runtipi-appstore](https://github.com/meienberger/runtipi-appstore): Official repository hosting the Runtipi App Store. Submit apps and updates here. 
@@ -5338,6 +5354,7 @@
 * [tensorflow/swift](https://github.com/tensorflow/swift): Swift for TensorFlow
 * [soapyigu/Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects): 30 mini Swift Apps for self-study
 * [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club): Algorithms and data structures in Swift, with explanations!
+* [apple/swift-algorithms](https://github.com/apple/swift-algorithms): Commonly used sequence and collection algorithms for Swift
 * [wabzqem/swift-api-k8s](https://github.com/wabzqem/swift-api-k8s): Swift + K8s
 * [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser): Straightforward, type-safe argument parsing for Swift
 * [Mybridge/swift-articles](https://github.com/Mybridge/swift-articles): Monthly Series - Top 10 Angular Articles
@@ -5357,6 +5374,7 @@
 * [apple/swift-evolution](https://github.com/apple/swift-evolution): This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 * [kartik-venugopal/swift-ffmpeg-transcode](https://github.com/kartik-venugopal/swift-ffmpeg-transcode): Experimental Swift app to transcode audio using FFmpeg
 * [xmartlabs/Swift-Framework-Template](https://github.com/xmartlabs/Swift-Framework-Template): Swift script to easily create Swift frameworks!
+* [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts): None
 * [google/swift-integration-tests](https://github.com/google/swift-integration-tests): Automated tests for validating the generated Swift snapshots behave correctly
 * [owensd/swift-langsrv](https://github.com/owensd/swift-langsrv): The language service implementation for VS Code.
 * [geberl/swift-localstorage](https://github.com/geberl/swift-localstorage): Local Storage for iOS
@@ -5748,6 +5766,7 @@
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
 * [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 * [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
+* [rabbitrepo/umbrel-cloudflaretunnel-guide](https://github.com/rabbitrepo/umbrel-cloudflaretunnel-guide): 🌐 The easiest way to make Umbrel Apps public!
 * [getumbrel/umbrel-community-app-store](https://github.com/getumbrel/umbrel-community-app-store): Template repository for a creating your own Community App Store for Umbrel. Click "Use this template" and add your apps!
 * [devxoul/Umbrella](https://github.com/devxoul/Umbrella): ☂️ Analytics abstraction layer for Swift
 * [wimpysworld/umpc-ubuntu](https://github.com/wimpysworld/umpc-ubuntu): Scripts for UMPCs such as GPD Pocket, Pocket 2, MicroPC & TopJoy Falcon
@@ -5892,6 +5911,7 @@
 * [kwodzicki/video_utils](https://github.com/kwodzicki/video_utils): Python package containing many tools useful for converting video files to h264/h265 encoded MP4 or MKV files
 * [Eyevinn/videobench](https://github.com/Eyevinn/videobench): VMAF PSNR Bitrate Analyzer
 * [JNoDuq/videobench](https://github.com/JNoDuq/videobench): VMAF PSNR Bitrate Analyzer
+* [SoalHuang/VideoCache](https://github.com/SoalHuang/VideoCache): VideoCache is an AVPlayerItem Cache library written in Swift.
 * [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress):  Compress videos, remove audio, manipulate thumbnails, and make your video compatible with all platforms through this lightweight and efficient library.
 * [Anuradha2018/VideoContentPlatformwithAngular](https://github.com/Anuradha2018/VideoContentPlatformwithAngular): Video Content Platform for Web with Angular 6
 * [bbc/VideoContext](https://github.com/bbc/VideoContext): An experimental HTML5 & WebGL video composition and rendering API.
@@ -5927,6 +5947,7 @@
 * [videomorph-dev/videomorph](https://github.com/videomorph-dev/videomorph): A user-friendly Video Converter based on FFMPEG and written in Python/PyQt5.
 * [rsereda/VideoMultibitrateConverter](https://github.com/rsereda/VideoMultibitrateConverter): Python handler for ffmpeg tool for create mp4 and HLS with AES128 encryption multibitrate stream file
 * [ustwo/videoplayback-ios](https://github.com/ustwo/videoplayback-ios): Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress 
+* [toshi0383/VideoPlayer](https://github.com/toshi0383/VideoPlayer): AVPlayer control and monitoring made easy (with Rx)
 * [wxxsw/VideoPlayer](https://github.com/wxxsw/VideoPlayer): 📽 A video player for SwiftUI, support for caching, preload and custom control view. SwiftUI 视频播放器，支持边下边播、预加载、自定义控制层
 * [yundiantech/VideoPlayer](https://github.com/yundiantech/VideoPlayer): Qt+ffmpeg实现的视频播放器
 * [rokudev/videoplayer-channel](https://github.com/rokudev/videoplayer-channel): SceneGraph version of the SDK1 VideoPlayer Channel 
@@ -6050,7 +6071,7 @@
 * [elementary/wallpapers](https://github.com/elementary/wallpapers): Collection of wallpapers for elementary OS
 * [rishuinfinity/WallpaperSwitcher](https://github.com/rishuinfinity/WallpaperSwitcher): Gnome Extension to switch wallpaper after a given interval
 * [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
-* [warpdotdev/Warp](https://github.com/warpdotdev/Warp): Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+* [warpdotdev/Warp](https://github.com/warpdotdev/Warp): Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 * [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 * [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
 * [sonysuqin/WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer): Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.
@@ -6106,6 +6127,7 @@
 * [JustFixNYC/who-owns-what](https://github.com/JustFixNYC/who-owns-what): Who owns what in nyc?
 * [Eyevinn/whpp-client](https://github.com/Eyevinn/whpp-client): WebRTC HTTP Playback Protocol client library
 * [apache/wicket](https://github.com/apache/wicket): Apache Wicket - Component-based Java web framework
+* [WHTJEON/widevine-dl](https://github.com/WHTJEON/widevine-dl): Widevine MPD Content Downloader & Decryptor
 * [cryptonek/widevine-l3-decryptor](https://github.com/cryptonek/widevine-l3-decryptor): Mirror of the original repo
 * [Satsuoni/widevine-l3-guesser](https://github.com/Satsuoni/widevine-l3-guesser): None
 * [lixmk/Wiegotcha](https://github.com/lixmk/Wiegotcha): Wiegotcha: Long Range RFID Thief

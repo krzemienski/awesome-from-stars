@@ -608,6 +608,9 @@
     "ChrisKnott/Algojammer": [
         "Other"
     ],
+    "ChrisMash/AVPlayer-SwiftUI": [
+        "Other"
+    ],
     "ChristianLempa/videos": [
         "Other"
     ],
@@ -3464,6 +3467,9 @@
     "Snawoot/nvidia-patch": [
         "Other"
     ],
+    "SoalHuang/VideoCache": [
+        "Other"
+    ],
     "SofianeHamlaoui/ArchI0": [
         "Other"
     ],
@@ -3873,6 +3879,9 @@
         "Other"
     ],
     "Vyshnav2255/Notion-Icons-2.0": [
+        "Other"
+    ],
+    "WHTJEON/widevine-dl": [
         "Other"
     ],
     "WWBN/AVideo": [
@@ -4952,6 +4961,9 @@
     "apple/swift": [
         "Other"
     ],
+    "apple/swift-algorithms": [
+        "Other"
+    ],
     "apple/swift-argument-parser": [
         "Other"
     ],
@@ -4971,6 +4983,9 @@
         "Other"
     ],
     "apple/swift-evolution": [
+        "Other"
+    ],
+    "apple/swift-installer-scripts": [
         "Other"
     ],
     "apple/swift-nio": [
@@ -5489,6 +5504,9 @@
     "b4skyx/dotfiles": [
         "Other"
     ],
+    "bachya/aiolinkding": [
+        "Other"
+    ],
     "backstage/backstage": [
         "Other"
     ],
@@ -5505,6 +5523,9 @@
         "Other"
     ],
     "balintkissdev/awesome-dos": [
+        "Other"
+    ],
+    "balnaves/AVPlayerItemLegibleOutputTest": [
         "Other"
     ],
     "balopez83/One-Mix-3-Hackintosh": [
@@ -5742,6 +5763,12 @@
         "Other"
     ],
     "binoculars/ffmpeg-build-lambda": [
+        "Other"
+    ],
+    "binwiederhier/ntfy": [
+        "Other"
+    ],
+    "binwiederhier/ntfy-ios": [
         "Other"
     ],
     "bisq-network/bisq": [
@@ -7095,6 +7122,9 @@
         "Other"
     ],
     "deadc0de6/dotdrop": [
+        "Other"
+    ],
+    "deathau/cm-editor-syntax-highlight-obsidian": [
         "Other"
     ],
     "decaporg/decap-cms": [
@@ -8552,6 +8582,9 @@
     "fsouza/s3-upload-proxy": [
         "Other"
     ],
+    "fspoettel/linkding-on-fly": [
+        "Other"
+    ],
     "fsspec/s3fs": [
         "Other"
     ],
@@ -8985,6 +9018,9 @@
         "Other"
     ],
     "googlecast/CastVideos-chrome": [
+        "Other"
+    ],
+    "googlesamples/android-media-controller": [
         "Other"
     ],
     "gopavasanth/video-cut-tool": [
@@ -10715,6 +10751,9 @@
     "keller-mark/awesome-biological-visualizations": [
         "Other"
     ],
+    "kelvinfok/iOS-Swift-HLS-Stream-Video-Player": [
+        "Other"
+    ],
     "kennell/encodeplz": [
         "Other"
     ],
@@ -11802,6 +11841,9 @@
         "Other"
     ],
     "mafiosnik777/enhancr": [
+        "Other"
+    ],
+    "magdalene/fly-background-jobs": [
         "Other"
     ],
     "magicalpanda/MagicalRecord": [
@@ -13022,10 +13064,16 @@
     "newTendermint/awesome-bigdata": [
         "Other"
     ],
+    "newsnowlabs/runcvm": [
+        "Other"
+    ],
     "nextapps-de/flexsearch": [
         "Other"
     ],
     "nextbreakpoint/ffmpeg4java": [
+        "Other"
+    ],
+    "nextcloud/bookmarks": [
         "Other"
     ],
     "nextcloud/docker": [
@@ -13398,6 +13446,9 @@
         "Other"
     ],
     "objective-see/BlockBlock": [
+        "Other"
+    ],
+    "obsidian-tasks-group/obsidian-tasks": [
         "Other"
     ],
     "obsidianmd/obsidian-releases": [
@@ -14490,6 +14541,9 @@
         "Other"
     ],
     "rabahs/tvos-oauth-server": [
+        "Other"
+    ],
+    "rabbitrepo/umbrel-cloudflaretunnel-guide": [
         "Other"
     ],
     "rachit2501/Livepeer-Video-Streaming": [
@@ -16523,6 +16577,9 @@
     "tchakabam/dash-proxy": [
         "Other"
     ],
+    "tchapi/davis": [
+        "Other"
+    ],
     "teambit/bit": [
         "Other"
     ],
@@ -16713,6 +16770,9 @@
         "Other"
     ],
     "thlorenz/doctoc": [
+        "Other"
+    ],
+    "thmatuza/MPEGDASHAVPlayerDemo": [
         "Other"
     ],
     "thomashirtz/notion-utilities": [
@@ -16908,6 +16968,9 @@
         "Other"
     ],
     "toshi0383/RateTV": [
+        "Other"
+    ],
+    "toshi0383/VideoPlayer": [
         "Other"
     ],
     "toshi0383/tvOS-10-Sampler": [
@@ -18168,6 +18231,9 @@
         "Other"
     ],
     "xyoye/ExoFFmpegPlayer": [
+        "Other"
+    ],
+    "xyqjay/m3u8ToMP4": [
         "Other"
     ],
     "y13i/aws-eks-example": [
