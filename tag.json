@@ -38,6 +38,9 @@
     "2gis/k8s-handle": [
         "Other"
     ],
+    "30-seconds/30-seconds-of-code": [
+        "Other"
+    ],
     "3846masa/docker-ngrokd": [
         "Other"
     ],
@@ -431,6 +434,9 @@
     "BingLingGroup/autosub": [
         "Other"
     ],
+    "BishalN/Noof": [
+        "Other"
+    ],
     "Blacksuan19/Dotfiles": [
         "Other"
     ],
@@ -591,6 +597,9 @@
         "Other"
     ],
     "CharlieQLe/gnome-extension-gtk3-theme-switcher": [
+        "Other"
+    ],
+    "ChengHongyun/notionBackup": [
         "Other"
     ],
     "Chevrotain/chevrotain": [
@@ -989,6 +998,12 @@
     "Dids/clover-builder": [
         "Other"
     ],
+    "Digipolitan/app-swift-template-cli": [
+        "Other"
+    ],
+    "Digipolitan/app-swift-template-tvos": [
+        "Other"
+    ],
     "DigitalMediaServer/DigitalMediaServer": [
         "Other"
     ],
@@ -999,6 +1014,9 @@
         "Other"
     ],
     "DivineEngine/Profiles": [
+        "Other"
+    ],
+    "Divxeas/Netflix-videos-downloader1": [
         "Other"
     ],
     "DmitryBespalov/ManualDependencyExample": [
@@ -1035,6 +1053,9 @@
         "Other"
     ],
     "Domain/terminus-quick-cmds": [
+        "Other"
+    ],
+    "DominikPieper/obsidian-ReadItLater": [
         "Other"
     ],
     "DopplerHQ/awesome-bots": [
@@ -1079,7 +1100,7 @@
     "Eitol/ngrok-linux-service": [
         "Other"
     ],
-    "ElderByte-/docker-java-media": [
+    "ElderByte/docker-java-media": [
         "Other"
     ],
     "Electron-Store/electron-app-store": [
@@ -2099,6 +2120,9 @@
     "JeffLIrion/python-androidtv": [
         "Other"
     ],
+    "Jerrywx/VideoPlayer": [
+        "Other"
+    ],
     "JesseTG/awesome-qt": [
         "Other"
     ],
@@ -2318,6 +2342,9 @@
     "Kitura/kitura-cli": [
         "Other"
     ],
+    "KkEi34/confluence-to-obsidian-plugin": [
+        "Other"
+    ],
     "KoalaBear84/OpenDirectoryDownloader": [
         "Other"
     ],
@@ -2382,9 +2409,6 @@
         "Other"
     ],
     "Lakr233/Rayon": [
-        "Other"
-    ],
-    "Lalit2005/pagely": [
         "Other"
     ],
     "LanceGin/Mockman": [
@@ -2508,6 +2532,9 @@
         "Other"
     ],
     "MPEGGroup/isobmff": [
+        "Other"
+    ],
+    "MSzturc/obsidian-advanced-slides": [
         "Other"
     ],
     "MaaxGr/NotionTodoistSync": [
@@ -2693,6 +2720,9 @@
     "MusicPlayerDaemon/MPD": [
         "Other"
     ],
+    "MwaiBanda/WPRK-MultiPlatform": [
+        "Other"
+    ],
     "Mybridge/swift-articles": [
         "Other"
     ],
@@ -2828,6 +2858,9 @@
     "NikNakk/ffmpeg-aws-bento4": [
         "Other"
     ],
+    "Nikitos9I/AAVPlayer": [
+        "Other"
+    ],
     "NirantK/awesome-project-ideas": [
         "Other"
     ],
@@ -2874,6 +2907,9 @@
         "Other"
     ],
     "OT-CONTAINER-KIT/redis-operator": [
+        "Other"
+    ],
+    "ObsidianPublisher/obsidian-github-publisher": [
         "Other"
     ],
     "OlivierLaflamme/Cheatsheet-God": [
@@ -3429,6 +3465,9 @@
         "Other"
     ],
     "Silence-GitHub/BBMetalImage": [
+        "Other"
+    ],
+    "SilentVoid13/Templater": [
         "Other"
     ],
     "SimformSolutionsPvtLtd/SSffmpegVideoOperation": [
@@ -4022,6 +4061,9 @@
     "Zewo/Zewo": [
         "Other"
     ],
+    "ZhgChgLi/ZPlayerCacher": [
+        "Other"
+    ],
     "Zibbp/Radium": [
         "Other"
     ],
@@ -4215,6 +4257,9 @@
         "Other"
     ],
     "adrian-fuertes/typora-notion-theme": [
+        "Other"
+    ],
+    "adrianhartanto004/iOS-videoplaylist": [
         "Other"
     ],
     "advanced-rest-client/arc-electron": [
@@ -4418,6 +4463,9 @@
     "alexellis/k3sup": [
         "Other"
     ],
+    "alexheretic/ab-av1": [
+        "Other"
+    ],
     "alexisakers/BulletinBoard": [
         "Other"
     ],
@@ -4539,6 +4587,9 @@
         "Other"
     ],
     "alkerway/hls-simulator": [
+        "Other"
+    ],
+    "allaboutapps/ios-starter": [
         "Other"
     ],
     "allezxandre/go-hls-encoder": [
@@ -4851,6 +4902,9 @@
         "Other"
     ],
     "apache/wicket": [
+        "Other"
+    ],
+    "aparc/MultiPlatform": [
         "Other"
     ],
     "apasccon/SearchTextField": [
@@ -5214,6 +5268,9 @@
         "Other"
     ],
     "asynchrony/Re-Lax": [
+        "Other"
+    ],
+    "atelier-socle/AppRepositoryTemplate": [
         "Other"
     ],
     "athensresearch/athens": [
@@ -5951,6 +6008,9 @@
     "bregman-arie/devops-resources": [
         "Other"
     ],
+    "briancollins/XCode-Project-Templates": [
+        "Other"
+    ],
     "briancoyner/AsyncWorkflow": [
         "Other"
     ],
@@ -6092,6 +6152,9 @@
     "caesiumstudio/csBooks-updates": [
         "Other"
     ],
+    "caiorss/bookmarklet-maker": [
+        "Other"
+    ],
     "cak/awesome-server-side-swift": [
         "Other"
     ],
@@ -6153,6 +6216,9 @@
         "Other"
     ],
     "carlspring/s3fs-nio": [
+        "Other"
+    ],
+    "caronchen/obsidian-calibre-plugin": [
         "Other"
     ],
     "carousell/GCP-Bill-Analyzer": [
@@ -6290,6 +6356,9 @@
     "changsanjiang/SJMediaCacheServer": [
         "Other"
     ],
+    "changsanjiang/SJVideoPlayer": [
+        "Other"
+    ],
     "chaosblade-io/chaosblade": [
         "Other"
     ],
@@ -6342,6 +6411,9 @@
         "Other"
     ],
     "chrippa/livestreamer": [
+        "Other"
+    ],
+    "chrisballinger/rust-framework-template": [
         "Other"
     ],
     "chrisboustead/videojs-hls-quality-selector": [
@@ -7124,6 +7196,9 @@
     "deadc0de6/dotdrop": [
         "Other"
     ],
+    "deathau/Notation-for-Obsidian": [
+        "Other"
+    ],
     "deathau/cm-editor-syntax-highlight-obsidian": [
         "Other"
     ],
@@ -7646,6 +7721,9 @@
     "dukebw/lintel": [
         "Other"
     ],
+    "dullage/flatnotes": [
+        "Other"
+    ],
     "dungahk/awesome-cdk8s": [
         "Other"
     ],
@@ -7725,6 +7803,9 @@
         "Other"
     ],
     "ebaauw/homebridge-ws": [
+        "Other"
+    ],
+    "ebamboo/BBPlayerView": [
         "Other"
     ],
     "ebu/awesome-broadcasting": [
@@ -7953,6 +8034,9 @@
         "Other"
     ],
     "engineering-management/awesome-engineering-management": [
+        "Other"
+    ],
+    "enkia/tokyo-night-vscode-theme": [
         "Other"
     ],
     "ennuicastr/libavjs-webcodecs-polyfill": [
@@ -8636,6 +8720,9 @@
     "gabek/SegmentIO-Brightscript": [
         "Other"
     ],
+    "gaberogan/AVPlayerHLSTest": [
+        "Other"
+    ],
     "gabrielgodoy-zz/github-stars-manager": [
         "Other"
     ],
@@ -8769,6 +8856,9 @@
         "Other"
     ],
     "giampaolo/psutil": [
+        "Other"
+    ],
+    "gianpispi/visionos-avplayer-sample": [
         "Other"
     ],
     "gidoBOSSftw5731/notion-auto-pull": [
@@ -9533,6 +9623,9 @@
     "huzhenjie/m3u8_downloader": [
         "Other"
     ],
+    "huzhlei/DASH-to-HLS-Playback": [
+        "Other"
+    ],
     "hvianna/audioMotion-analyzer": [
         "Other"
     ],
@@ -9576,6 +9669,9 @@
         "Other"
     ],
     "iGhibli/iOS-DeviceSupport": [
+        "Other"
+    ],
+    "iJ0rd8n/ownchannel": [
         "Other"
     ],
     "iOSDevLog/ijkplayer": [
@@ -9903,6 +9999,9 @@
         "Other"
     ],
     "ishantanu/awesome-kubectl-plugins": [
+        "Other"
+    ],
+    "ishgunacar/gitsidian": [
         "Other"
     ],
     "ishkawa/DataSourceKit": [
@@ -10308,6 +10407,9 @@
         "Other"
     ],
     "joelpalmer/firetv-controller": [
+        "Other"
+    ],
+    "joelseq/obsidian-linkshelf": [
         "Other"
     ],
     "joepdooper/p5js-soundcloud-player": [
@@ -11289,6 +11391,9 @@
         "Other"
     ],
     "lakinduakash/linux-wifi-hotspot": [
+        "Other"
+    ],
+    "lalit2005/pagely": [
         "Other"
     ],
     "lapce/lapce": [
@@ -12335,6 +12440,9 @@
     "mgeeky/Penetration-Testing-Tools": [
         "Other"
     ],
+    "mgmeyers/obsidian-kanban": [
+        "Other"
+    ],
     "mgramin/awesome-db-tools": [
         "Other"
     ],
@@ -12731,6 +12839,9 @@
     "mozilla/mp4parse-rust": [
         "Other"
     ],
+    "mozilla/readability": [
+        "Other"
+    ],
     "mpadge/ubuntu-setup": [
         "Other"
     ],
@@ -12851,10 +12962,16 @@
     "muxinc/hlstools": [
         "Other"
     ],
+    "muxinc/mux-avplayer-sdk": [
+        "Other"
+    ],
     "muxinc/mux-stats-sdk-avplayer": [
         "Other"
     ],
     "muxinc/mux-stats-sdk-exoplayer": [
+        "Other"
+    ],
+    "muxinc/mux-stats-sdk-media3": [
         "Other"
     ],
     "muxinc/packaging_examples": [
@@ -13199,6 +13316,9 @@
     "nm-l2tp/NetworkManager-l2tp": [
         "Other"
     ],
+    "nmcclain/notion-offliner": [
+        "Other"
+    ],
     "nmdias/DefaultsKit": [
         "Other"
     ],
@@ -13449,6 +13569,9 @@
         "Other"
     ],
     "obsidian-tasks-group/obsidian-tasks": [
+        "Other"
+    ],
+    "obsidianmd/obsidian-importer": [
         "Other"
     ],
     "obsidianmd/obsidian-releases": [
@@ -14045,6 +14168,9 @@
     "piemonte/Player": [
         "Other"
     ],
+    "pietheinstrengholt/rssmonster": [
+        "Other"
+    ],
     "pietropizzi/app-talk": [
         "Other"
     ],
@@ -14109,6 +14235,9 @@
         "Other"
     ],
     "pkwenda/notion-site": [
+        "Other"
+    ],
+    "pkwenda/notion-website-builder": [
         "Other"
     ],
     "plasma-umass/scalene": [
@@ -14778,6 +14907,9 @@
         "Other"
     ],
     "remirobert/Dotzu": [
+        "Other"
+    ],
+    "remotely-save/remotely-save": [
         "Other"
     ],
     "remotion-dev/remotion": [
@@ -16496,6 +16628,9 @@
     "tabvn/video-streaming-service": [
         "Other"
     ],
+    "tache/MondoPlayerView": [
+        "Other"
+    ],
     "tada/pljava": [
         "Other"
     ],
@@ -16685,6 +16820,9 @@
     "tgotwig/vidmerger": [
         "Other"
     ],
+    "tgrosinger/advanced-tables-obsidian": [
+        "Other"
+    ],
     "thanos-io/thanos": [
         "Other"
     ],
@@ -16815,6 +16953,9 @@
         "Other"
     ],
     "tiaanduplessis/kill-port": [
+        "Other"
+    ],
+    "tiagomartinho/ProjectTemplate": [
         "Other"
     ],
     "tiangolo/fastapi": [
@@ -17207,7 +17348,7 @@
     "ubuntu-flutter-community/settings": [
         "Other"
     ],
-    "ubuntu/app-store": [
+    "ubuntu/app-center": [
         "Other"
     ],
     "ubuntu/ubuntu-make": [
@@ -17867,6 +18008,9 @@
     "webmproject/vp9-dash": [
         "Other"
     ],
+    "webninjamobile/appleTV-template": [
+        "Other"
+    ],
     "webpack-contrib/awesome-webpack": [
         "Other"
     ],
@@ -17927,6 +18071,9 @@
     "wide-video/ffmpeg-wasm": [
         "Other"
     ],
+    "widevineleak/DisneyPlus-V.5.0.4-2022": [
+        "Other"
+    ],
     "widget-/slack-black-theme": [
         "Other"
     ],
@@ -17952,6 +18099,9 @@
         "Other"
     ],
     "williamFalcon/SwiftTryCatch": [
+        "Other"
+    ],
+    "williamsouef/VideoPlayerSwiftUI": [
         "Other"
     ],
     "willowtreeapps/BlurredVideo-iOS": [
@@ -18197,6 +18347,9 @@
     "xneo1/portainer_templates": [
         "Other"
     ],
+    "xq-120/GSDMediaCache": [
+        "Other"
+    ],
     "xroche/httrack": [
         "Other"
     ],
@@ -18350,6 +18503,9 @@
     "yunuscadirci/CallStranger": [
         "Other"
     ],
+    "yusufcakmak/ExoPlayerComposeSample": [
+        "Other"
+    ],
     "yusufcakmak/ExoPlayerSample": [
         "Other"
     ],
@@ -18440,6 +18596,9 @@
     "zhengjunbase/codehelper.generator": [
         "Other"
     ],
+    "zhengwenming/WMPlayer": [
+        "Other"
+    ],
     "zhhlmr/ZHPopupView": [
         "Other"
     ],
@@ -18528,6 +18687,9 @@
         "Other"
     ],
     "zsiec/vodmodule-stats": [
+        "Other"
+    ],
+    "zsviczian/obsidian-excalidraw-plugin": [
         "Other"
     ],
     "zthxxx/jovial": [
