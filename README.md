@@ -5635,7 +5635,7 @@
 * [NationalSecurityAgency/timely](https://github.com/NationalSecurityAgency/timely): Accumulo backed time series database
 * [naoty/Timepiece](https://github.com/naoty/Timepiece): Intuitive date handling in Swift
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
-* [tinacms/tinacms](https://github.com/tinacms/tinacms): The Markdown CMS
+* [tinacms/tinacms](https://github.com/tinacms/tinacms): A fully open-source headless CMS that supports Git and Visual Editing
 * [JohnHansonTheDev/Tinder-Auto-Swipe](https://github.com/JohnHansonTheDev/Tinder-Auto-Swipe): Greasemonkey script( Auto swiper for tinder )
 * [Aakash074/Tinder-Bumble-Auto-Match-Script](https://github.com/Aakash074/Tinder-Bumble-Auto-Match-Script): Use this script to automate matching in tinder/bumble.
 * [my3t/Tinder-OkCupid-Bumble-Auto-Swipe](https://github.com/my3t/Tinder-OkCupid-Bumble-Auto-Swipe): None
