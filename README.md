@@ -1140,7 +1140,7 @@
 * [TysonWorks/cdk-examples](https://github.com/TysonWorks/cdk-examples): AWS CDK Examples Repository
 * [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s): Define Kubernetes native apps and abstractions using object-oriented programming
 * [OpenVisualCloud/CDN-Transcode-Sample](https://github.com/OpenVisualCloud/CDN-Transcode-Sample): Media transcoding is a key function for live video broadcasting, streaming, and video on demand use cases in a CDN network. The CDN Transcode sample (not a finished product) provides a reference pipeline to build an out-of-box 1:N CDN streaming transcode service example.
-* [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running): CDN Up and Running - Building a CDN from Scratch to Learn about CDN
+* [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running): CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
 * [SoftUni/CDN-Video-Uploader](https://github.com/SoftUni/CDN-Video-Uploader): Video Uploader and Transcoder for UCDN
 * [Comcast/cea-extractor](https://github.com/Comcast/cea-extractor): Parsing and display logic for CEA-608 caption data in fragmented MP4 files.
 * [Dash-Industry-Forum/cea608.js](https://github.com/Dash-Industry-Forum/cea608.js): A JavaScript project designed to extract CEA-608 captions.
@@ -5591,7 +5591,7 @@
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
-* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
 * [saravanakumarjsk/Text-to-speach-with-gTTS](https://github.com/saravanakumarjsk/Text-to-speach-with-gTTS): Converting text file to mp3 speach format using gTTS
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [louisdh/textor](https://github.com/louisdh/textor): A plain text editor for iOS
