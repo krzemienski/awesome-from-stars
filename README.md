@@ -1076,7 +1076,7 @@
 * [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance): Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
-* [btw-so/btw](https://github.com/btw-so/btw): Open source Medium alternative
+* [btw-so/btw](https://github.com/btw-so/btw): Open source Medium alternative- set up your personal blog in minutes.
 * [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea): A powerful little TUI framework 🏗
 * [facebook/buck](https://github.com/facebook/buck): A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 * [airbnb/BuckSample](https://github.com/airbnb/BuckSample): An example app showing how Buck can be used to build a simple iOS app.
