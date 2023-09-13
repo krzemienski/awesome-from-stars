@@ -8945,6 +8945,12 @@
     "gkozlenko/node-video-lib": [
         "Other"
     ],
+    "glideapps/quicktype": [
+        "Other"
+    ],
+    "glideapps/quicktype-xcode": [
+        "Other"
+    ],
     "globocom/hlsclient": [
         "Other"
     ],
@@ -10409,7 +10415,7 @@
     "joelpalmer/firetv-controller": [
         "Other"
     ],
-    "joelseq/obsidian-linkshelf": [
+    "joelseq/obsidian-linkstowr": [
         "Other"
     ],
     "joepdooper/p5js-soundcloud-player": [
@@ -14625,12 +14631,6 @@
         "Other"
     ],
     "quickemu-project/quickemu": [
-        "Other"
-    ],
-    "quicktype/quicktype": [
-        "Other"
-    ],
-    "quicktype/quicktype-xcode": [
         "Other"
     ],
     "quietvoid/dovi_tool": [
