@@ -1270,7 +1270,7 @@
 * [twitter-archive/CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY): SPDY for iOS and OS X
 * [Otbivnoe/CodableAlamofire](https://github.com/Otbivnoe/CodableAlamofire): An extension for Alamofire that converts JSON data into Decodable objects.
 * [kubernetes/code-generator](https://github.com/kubernetes/code-generator): Generators for kube-like API types
-* [lauthieb/code-notes](https://github.com/lauthieb/code-notes): A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+* [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -2356,7 +2356,6 @@
 * [getsling/flask-swagger](https://github.com/getsling/flask-swagger): A swagger 2.0 spec extractor for flask
 * [ramonus/flask-video-stream](https://github.com/ramonus/flask-video-stream): Simple webcam video streaming python3 script using Flask.
 * [testdrivenio/flask-vue-kubernetes](https://github.com/testdrivenio/flask-vue-kubernetes):  Flask + Vue + Postgres + Docker + Kubernetes
-* [honestbee/flask_app_k8s](https://github.com/honestbee/flask_app_k8s): Sample flask app for kubernetes
 * [stefanondisponibile/flask_celery](https://github.com/stefanondisponibile/flask_celery): Flask with Celery.
 * [christabor/flask_jsondash](https://github.com/christabor/flask_jsondash): :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.
 * [guomaoqiu/flask_kubernetes](https://github.com/guomaoqiu/flask_kubernetes): ☘☘☘Nginx/uWSGI/Flask/Supervisor/MySQL/Docker/kubernetes/Ingress☘☘☘
@@ -2952,7 +2951,7 @@
 * [MuShare/Httper-iOS](https://github.com/MuShare/Httper-iOS): App for developers to test REST API.
 * [creeveliu/HTTPLiveStreamingTools](https://github.com/creeveliu/HTTPLiveStreamingTools): Latest Apple HLS tools copy from Apple Developer Center
 * [hnlq715/httpmq](https://github.com/hnlq715/httpmq): A simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.
-* [httprunner/httprunner](https://github.com/httprunner/httprunner): HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+* [httprunner/httprunner](https://github.com/httprunner/httprunner): HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 * [lipizr/HTTPServer](https://github.com/lipizr/HTTPServer): Simple local HTTP Web Server for AppleTV with TVJS
 * [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit): HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 * [encode/httpx](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
