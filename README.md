@@ -1480,7 +1480,7 @@
 * [Dash-Industry-Forum/DASH-IF-Conformance](https://github.com/Dash-Industry-Forum/DASH-IF-Conformance): This repository provides the source code for MPEG-DASH/DASH-IF Conformance Software/Validator. It has been extended according to further standards, such as CMAF, DVB-DASH, HbbTV, and CTA WAVE.
 * [Dash-Industry-Forum/DASH-IF-IOP](https://github.com/Dash-Industry-Forum/DASH-IF-IOP): DASH-IF Interoperability Points issue tracker and document source code
 * [Dash-Industry-Forum/Dash-Industry-Forum.github.io](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io): Public website for DASH IF
-* [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS): Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
+* [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS): Dash for iOS was discontinued. Please check out Dash for macOS instead.
 * [Dash-Industry-Forum/dash-live-source-simulator](https://github.com/Dash-Industry-Forum/dash-live-source-simulator): DASH live source simulator providing reference live content.
 * [Eyevinn/dash-mpd](https://github.com/Eyevinn/dash-mpd): MPEG DASH MPD library based on XML Schema for completeness.
 * [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli): Download media content from a DASH-MPEG or DASH-WebM MPD manifest
