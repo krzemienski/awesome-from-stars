@@ -395,7 +395,7 @@
 * [e7711bbear/Assets](https://github.com/e7711bbear/Assets): macOS app that manages assets for your development projects (Xcode, web, etc)
 * [DragonCherry/AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController): Powerfully Customizable - Multiple Photo & Video Picker Controller
 * [jlarriba/astounding](https://github.com/jlarriba/astounding): A multiplatform GUI for the reMarkable tablet
-* [withastro/astro](https://github.com/withastro/astro): The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+* [withastro/astro](https://github.com/withastro/astro): The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 * [otoyo/astro-notion-blog](https://github.com/otoyo/astro-notion-blog): 🚀 Begin building your very own Notion Blog with Astro.
 * [electrified/asus-wmi-sensors](https://github.com/electrified/asus-wmi-sensors): Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards
 * [crt0mega/asus-wmi-sensors-dkms](https://github.com/crt0mega/asus-wmi-sensors-dkms): Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards (Debian DKMS package)
@@ -1383,6 +1383,7 @@
 * [m-x-k/cookiecutter-spring-boot](https://github.com/m-x-k/cookiecutter-spring-boot): Cookiecutter for standard java spring boot gradle application
 * [radianttap/Coordinator](https://github.com/radianttap/Coordinator): Implementation of Coordinators app design pattern.
 * [github/copilot-docs](https://github.com/github/copilot-docs): Documentation for GitHub Copilot
+* [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode): The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 * [willowtreeapps/cordux](https://github.com/willowtreeapps/cordux): None
 * [datarhei/core](https://github.com/datarhei/core): datarhei Core is management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2450,7 +2451,7 @@
 * [FutureKit/FutureKit](https://github.com/FutureKit/FutureKit): A Swift based Future/Promises Library for IOS and OS X.
 * [davidask/Futures](https://github.com/davidask/Futures): Lightweight promises for iOS, macOS, tvOS, watchOS, and Linux
 * [fwupd/fwupd](https://github.com/fwupd/fwupd): A system daemon to allow session software to update firmware
-* [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer
+* [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor
 * [fyne-io/fyne](https://github.com/fyne-io/fyne): Cross platform GUI toolkit in Go inspired by Material Design
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite): Google Suite as a desktop app. Made possible with Electron.
@@ -3748,6 +3749,7 @@
 * [PatrickKalkman/MiniVideoEncoder](https://github.com/PatrickKalkman/MiniVideoEncoder): A modern video encoding platform for encoding videos optimized for streaming supporting modern encodings such as x264, x265, VP9 and AV1
 * [yonaskolb/Mint](https://github.com/yonaskolb/Mint): A package manager that installs and runs executable Swift packages
 * [Last-Order/Minyami](https://github.com/Last-Order/Minyami): A lovely video downloader for HLS videos
+* [DDVTECH/mistserver](https://github.com/DDVTECH/mistserver): The official mistserver source repository - www.mistserver.com
 * [wulab/mithril-slides](https://github.com/wulab/mithril-slides): A Keynote-inspired presentation app written with Mithril
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX): MIVisionX toolkit is a set of comprehensive computer vision and machine intelligence libraries, utilities, and applications bundled into a single toolkit. AMD MIVisionX also delivers a highly optimized open-source implementation of the Khronos OpenVX™ and OpenVX™ Extensions.
@@ -4443,6 +4445,7 @@
 * [Re4son/Pocket-Kali-live-build](https://github.com/Re4son/Pocket-Kali-live-build): Debian live build for the Pocket-Kali
 * [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo): Go microservice template for Kubernetes
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
+* [marhkb/pods](https://github.com/marhkb/pods): Keep track of your podman containers
 * [kizitonwose/PodsUpdater](https://github.com/kizitonwose/PodsUpdater): A macOS app that helps you manage dependency releases in your Podfile.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
 * [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters
@@ -4541,6 +4544,7 @@
 * [PureMVC/puremvc-swift-util-asyncproxy](https://github.com/PureMVC/puremvc-swift-util-asyncproxy): PureMVC Swift Standard/MultiCore Utility: Async Proxy
 * [creativetimofficial/purity-ui-dashboard](https://github.com/creativetimofficial/purity-ui-dashboard): Purity UI Dashboard - Free and Open Source Chakra UI Dashboard
 * [zziz/pwc](https://github.com/zziz/pwc): This repository is no longer maintained.
+* [ventoy/PXE](https://github.com/ventoy/PXE): The open source part of iVentoy.
 * [funciton/py-ffmpeg-wrapper](https://github.com/funciton/py-ffmpeg-wrapper): FFmpeg wrapper written in python based on rVideo
 * [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 * [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV): ﻿﻿Pythonic bindings for FFmpeg's libraries.
@@ -4939,6 +4943,7 @@
 * [digitalocean/sample-dockerfile](https://github.com/digitalocean/sample-dockerfile): ⛵ App Platform sample Docker application.
 * [digitalocean/sample-flask](https://github.com/digitalocean/sample-flask): Sample Flask Application to be deployed on DigitalOcean's App Platform
 * [apple/sample-food-truck](https://github.com/apple/sample-food-truck): SwiftUI sample code from WWDC22
+* [googlearchive/sample-media-pwa](https://github.com/googlearchive/sample-media-pwa): A sample video-on-demand media Progressive Web App
 * [digitalocean/sample-python](https://github.com/digitalocean/sample-python): ⛵ App Platform sample Python application.
 * [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [flutter/samples](https://github.com/flutter/samples): A collection of Flutter examples and demos
@@ -6198,7 +6203,9 @@
 * [MarcAntoine-Arnaud/wisual](https://github.com/MarcAntoine-Arnaud/wisual): Web for Visual Quality Assessment
 * [microsoftarchive/wlist](https://github.com/microsoftarchive/wlist): A command line client for Wunderlist
 * [zhengwenming/WMPlayer](https://github.com/zhengwenming/WMPlayer): WMPlayer-AVPlayer的封装，继承UIView，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放
+* [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB): A Microsoft Windows® USB installation media preparer for GNU+Linux
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
+* [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng): WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 * [mxcl/Workbench](https://github.com/mxcl/Workbench): Seamless, automatic, “dotfile” sync to iCloud.
 * [TenPennyTV/worker-ffmpeg](https://github.com/TenPennyTV/worker-ffmpeg): Worker that is used to transcode video to supported formats and resolutions
 * [bkeepers/workflow](https://github.com/bkeepers/workflow): GitHub workflow automation via .probot.js file in your repository.

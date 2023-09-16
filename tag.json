@@ -818,6 +818,9 @@
     "CyberShadow/aconfmgr": [
         "Other"
     ],
+    "DDVTECH/mistserver": [
+        "Other"
+    ],
     "DIYgod/DPlayer": [
         "Other"
     ],
@@ -3948,6 +3951,12 @@
         "Other"
     ],
     "WikidPad/WikidPad": [
+        "Other"
+    ],
+    "WoeUSB/WoeUSB": [
+        "Other"
+    ],
+    "WoeUSB/WoeUSB-ng": [
         "Other"
     ],
     "Wolg/awesome-swift": [
@@ -9110,6 +9119,9 @@
     "googlearchive/PyDrive": [
         "Other"
     ],
+    "googlearchive/sample-media-pwa": [
+        "Other"
+    ],
     "googlecast/CastReceiver": [
         "Other"
     ],
@@ -9936,6 +9948,9 @@
         "Other"
     ],
     "intellij-rust/intellij-rust": [
+        "Other"
+    ],
+    "intitni/CopilotForXcode": [
         "Other"
     ],
     "intoli/exodus": [
@@ -12108,6 +12123,9 @@
         "Other"
     ],
     "marcus67/gitsynchista": [
+        "Other"
+    ],
+    "marhkb/pods": [
         "Other"
     ],
     "markboard-io/markboard": [
@@ -17556,6 +17574,9 @@
         "Other"
     ],
     "vektah/CodeGlance": [
+        "Other"
+    ],
+    "ventoy/PXE": [
         "Other"
     ],
     "ventoy/Ventoy": [
