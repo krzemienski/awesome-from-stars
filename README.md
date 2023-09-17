@@ -6322,7 +6322,7 @@
 * [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 * [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr): Effortlessly synchronize UserDefaults over iCloud.
 * [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet): ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-* [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server): A self-deployable micro-service for adaptive video streaming written in Golang [alpha version under dev].
+* [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server): None
 * [skylerlee/zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme): Another :star: theme for oh-my-zsh
 * [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): Your One-Stop Publication Workbench
 * [Zewo/Zewo](https://github.com/Zewo/Zewo): Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
