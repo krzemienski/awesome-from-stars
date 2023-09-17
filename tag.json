@@ -2411,6 +2411,9 @@
     "LTNGlobal-opensource/obe-rt": [
         "Other"
     ],
+    "LTRData/ImDisk": [
+        "Other"
+    ],
     "Lakr233/Rayon": [
         "Other"
     ],
@@ -3507,6 +3510,9 @@
         "Other"
     ],
     "Snawoot/nvidia-patch": [
+        "Other"
+    ],
+    "SoMainline/linux-apple-resources": [
         "Other"
     ],
     "SoalHuang/VideoCache": [
@@ -6191,6 +6197,9 @@
     "canonical/aws-marketplace-ubuntu-scraper": [
         "Other"
     ],
+    "canonical/lxd-ui": [
+        "Other"
+    ],
     "canonical/microk8s": [
         "Other"
     ],
@@ -6771,6 +6780,12 @@
         "Other"
     ],
     "coreb1t/awesome-pentest-cheat-sheets": [
+        "Other"
+    ],
+    "corellium/linux-m1": [
+        "Other"
+    ],
+    "corellium/projectsandcastle": [
         "Other"
     ],
     "coreos/manifest": [
@@ -13116,9 +13131,6 @@
         "Other"
     ],
     "natmlx/NatReader": [
-        "Other"
-    ],
-    "naveenland4/UTLive": [
         "Other"
     ],
     "naveenland4/YouTube_to_m3u": [
