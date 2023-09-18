@@ -501,7 +501,7 @@
 * [Eyevinn/autovmaf-api](https://github.com/Eyevinn/autovmaf-api): API to orchestrate AutoVMAF jobs
 * [Eyevinn/AutoVMAF-Excel-Accel](https://github.com/Eyevinn/AutoVMAF-Excel-Accel): Python script to generate spreadsheets from AutoVMAF-API results.
 * [Eyevinn/autovmaf-preprocessing](https://github.com/Eyevinn/autovmaf-preprocessing):  Tool that analyses a video via a combination of motion and sharpness to determine the most suitable parts to be used for VMAF analysis. https://github.com/Eyevinn/autovmaf
-* [CrypticSignal/AV-converter](https://github.com/CrypticSignal/AV-converter): A web app allowing you to convert an audio or video file to another format. Client side conversion with ffmpeg.wasm means that your file does not need to be uploaded to a server.
+* [CrypticSignal/AV-converter](https://github.com/CrypticSignal/AV-converter): A web app to convert an audio/video file to another format. Client side conversion means that your file does not get uploaded to a server.
 * [Eyevinn/av1-player](https://github.com/Eyevinn/av1-player): Eyevinn AV1 player
 * [AOMediaCodec/av1-rtp-spec](https://github.com/AOMediaCodec/av1-rtp-spec): Current draft (HTML): https://aomediacodec.github.io/av1-rtp-spec/
 * [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an): Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
