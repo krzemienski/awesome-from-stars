@@ -713,6 +713,9 @@
     "ColdLogical/VIPER-Templates": [
         "Other"
     ],
+    "Colin-b/keepachangelog": [
+        "Other"
+    ],
     "ColinEberhardt/ffmpeg-wasm-streaming-video-player": [
         "Other"
     ],
@@ -2579,6 +2582,9 @@
     "MarkRoddy/brstest": [
         "Other"
     ],
+    "MarsX-dev/devhunt": [
+        "Other"
+    ],
     "Martchus/tageditor": [
         "Other"
     ],
@@ -3176,7 +3182,7 @@
     "Rafostar/gnome-shell-extension-cast-to-tv": [
         "Other"
     ],
-    "Rakambda/MediaConverter": [
+    "RakambdaOrg/MediaConverter": [
         "Other"
     ],
     "Ramotion/cardslider": [
@@ -3464,10 +3470,10 @@
     "SicAlpha/docker-beets": [
         "Other"
     ],
-    "Significant-Gravitas/Auto-GPT": [
+    "Significant-Gravitas/Auto-GPT-Plugins": [
         "Other"
     ],
-    "Significant-Gravitas/Auto-GPT-Plugins": [
+    "Significant-Gravitas/AutoGPT": [
         "Other"
     ],
     "Silence-GitHub/BBMetalImage": [
@@ -3894,6 +3900,9 @@
         "Other"
     ],
     "Viblast/dash-proxy": [
+        "Other"
+    ],
+    "Viblast/hls-proxy": [
         "Other"
     ],
     "Viblast/ios-player-sdk": [
@@ -4524,6 +4533,9 @@
         "Other"
     ],
     "alfg/ffmpeg-webassembly-example": [
+        "Other"
+    ],
+    "alfg/ffmpegd": [
         "Other"
     ],
     "alfg/mediacast": [
@@ -7040,6 +7052,9 @@
     "daniruiz/skeuos-gtk": [
         "Other"
     ],
+    "daniulive/SmarterStreaming": [
+        "Other"
+    ],
     "dankogai/swift-sion": [
         "Other"
     ],
@@ -7794,6 +7809,9 @@
         "Other"
     ],
     "dypsilon/frontend-dev-bookmarks": [
+        "Other"
+    ],
+    "dyrector-io/dyrectorio": [
         "Other"
     ],
     "dzharii/awesome-elasticsearch": [
@@ -9809,6 +9827,9 @@
     "iizukanao/node-rtsp-rtmp-server": [
         "Other"
     ],
+    "iknow4/Android-Video-Trimmer": [
+        "Other"
+    ],
     "iliya-gr/mediasegmenter": [
         "Other"
     ],
@@ -11199,6 +11220,9 @@
         "Other"
     ],
     "krzemienski/ngrok-setup": [
+        "Other"
+    ],
+    "krzemienski/notion_alm": [
         "Other"
     ],
     "krzemienski/nv-codec-headers": [
@@ -14072,6 +14096,9 @@
     "pbs/pycaption": [
         "Other"
     ],
+    "pcroland/deew": [
+        "Other"
+    ],
     "pdf-rs/pdf": [
         "Other"
     ],
@@ -14084,7 +14111,7 @@
     "peco/peco": [
         "Other"
     ],
-    "pedroSG94/rtmp-rtsp-stream-client-swift": [
+    "pedroSG94/RootEncoder-iOS": [
         "Other"
     ],
     "pedrohperalta/Articles-iOS-VIPER": [
@@ -15035,6 +15062,9 @@
     "rkoshak/sensorReporter": [
         "Other"
     ],
+    "rlaphoenix/pywidevine": [
+        "Other"
+    ],
     "rnorth/mkdocs-codeinclude-plugin": [
         "Other"
     ],
@@ -15231,6 +15261,9 @@
         "Other"
     ],
     "runabol/piper": [
+        "Other"
+    ],
+    "rundfunk47/stinsen": [
         "Other"
     ],
     "runletapp/runlet": [
@@ -15438,6 +15471,9 @@
         "Other"
     ],
     "savokiss/vue-videojs-demo": [
+        "Other"
+    ],
+    "sayakpaul/ml-deployment-k8s-fastapi": [
         "Other"
     ],
     "sb2nov/resume": [
@@ -16119,6 +16155,9 @@
         "Other"
     ],
     "solusipse/fiche": [
+        "Other"
+    ],
+    "sonic-pi-net/sonic-pi": [
         "Other"
     ],
     "sonysuqin/WasmVideoPlayer": [
@@ -18134,6 +18173,9 @@
     "williamsouef/VideoPlayerSwiftUI": [
         "Other"
     ],
+    "williamyang1991/Rerender_A_Video": [
+        "Other"
+    ],
     "willowtreeapps/BlurredVideo-iOS": [
         "Other"
     ],
@@ -18486,6 +18528,9 @@
         "Other"
     ],
     "ymgenesis/AudioTool": [
+        "Other"
+    ],
+    "yoheimuta/RxMusicPlayer": [
         "Other"
     ],
     "yomun/gnome-backup-tools": [
