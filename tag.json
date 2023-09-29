@@ -14081,9 +14081,6 @@
     "pawitp/mkv-player": [
         "Other"
     ],
-    "paypal/accessible-html5-video-player": [
-        "Other"
-    ],
     "paysonwallach/gnome-shell-extension-spruce": [
         "Other"
     ],
@@ -18236,7 +18233,7 @@
     "wireapp/wire-ios": [
         "Other"
     ],
-    "wireapp/wire-ios-mono": [
+    "wireapp/wire-ios_legacy": [
         "Other"
     ],
     "withastro/astro": [
