@@ -342,7 +342,7 @@
 * [sphinx02/AppStarter](https://github.com/sphinx02/AppStarter): AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): Build like a team of hundreds_
 * [pop-os/apt-fetcher](https://github.com/pop-os/apt-fetcher): Rust crate for asynchronous and parallel fetching of apt repo files from apt repos. This can be used for updating apt lists and fetching packages from a pool.
 * [martin68/apt-smart](https://github.com/martin68/apt-smart): apt-smart: Smart, automated, robust apt-get mirror selection for Debian, Ubuntu and Linux Mint
 * [dvershinin/apt-to-dnf](https://github.com/dvershinin/apt-to-dnf): Aliases for creating "apt" CLI interface for RPM based distros
@@ -2676,7 +2676,7 @@
 * [dariubs/GoBooks](https://github.com/dariubs/GoBooks): List of Golang books
 * [gogolith/GoCoEdit](https://github.com/gogolith/GoCoEdit): GoCoEdit - Code & Text Editor for iOS / Issue tracker
 * [zixun/GodEye](https://github.com/zixun/GodEye): Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
-* [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg): FFMPEG wrapper written in GO
+* [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg): Powerful and dev-friendly FFMPEG wrapper written in the Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
 * [mattddowney/gogs-bash](https://github.com/mattddowney/gogs-bash): Bash Script for Interacting with the GOGS API
 * [valeriangalliat/gogs-migrate](https://github.com/valeriangalliat/gogs-migrate): Migrate existing repositories on a Gogs instance.
@@ -5876,6 +5876,7 @@
 * [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts): 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 * [thiagolioy/useful_scripts](https://github.com/thiagolioy/useful_scripts): some useful scripts with different purposes .
 * [Eyevinn/user-segmentation-api](https://github.com/Eyevinn/user-segmentation-api): Example of a simple implementation to build a user segmentation api on top of Redis
+* [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x): Customizable user-theme with user stylesheet and night theme auto-switch based on the Night Light.
 * [omaralbeik/UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore): Why not use UserDefaults to store Codable objects 😉
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [encode/uvicorn](https://github.com/encode/uvicorn): An ASGI web server, for Python. 🦄
