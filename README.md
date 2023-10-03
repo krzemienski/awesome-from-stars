@@ -2653,7 +2653,7 @@
 * [asticode/go-astisub](https://github.com/asticode/go-astisub): Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 * [asticode/go-astits](https://github.com/asticode/go-astits): Demux and mux MPEG Transport Streams (.ts) natively in GO
 * [zencoder/go-dash](https://github.com/zencoder/go-dash): A Go library for generating MPEG-DASH manifests.
-* [Paxx-RnD/go-ffmpeg](https://github.com/Paxx-RnD/go-ffmpeg): Docs
+* [p4xx07/go-ffmpeg](https://github.com/p4xx07/go-ffmpeg): Docs
 * [vansante/go-ffprobe](https://github.com/vansante/go-ffprobe): Library to easily get the ffprobe output of a given file
 * [sanathb/go-HLS](https://github.com/sanathb/go-HLS): HLS (HTTP Live Streaming) video transcoding package written in golang for AWS Elastic Transcoder.
 * [allezxandre/go-hls-encoder](https://github.com/allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
