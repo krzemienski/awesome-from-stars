@@ -1298,7 +1298,7 @@
 * [nickdesaulniers/combine-mpd](https://github.com/nickdesaulniers/combine-mpd): Combine MPEG DASH MPD manifest files
 * [tylertreat/comcast](https://github.com/tylertreat/comcast): Simulating shitty network connections so you can build better systems.
 * [Hikari9/comfortable-swipe](https://github.com/Hikari9/comfortable-swipe): Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
-* [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI with a graph/nodes interface.
+* [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular stable diffusion GUI with a graph/nodes interface.
 * [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink): Comlink makes WebWorkers enjoyable.
 * [tj/commander.js](https://github.com/tj/commander.js): node.js command-line interfaces made easy
 * [apache/commons-imaging](https://github.com/apache/commons-imaging): Apache Commons Imaging (previously Sanselan) is a pure-Java image library
@@ -4509,7 +4509,7 @@
 * [mikz/probot-changelog](https://github.com/mikz/probot-changelog): A GitHub Integration that checks Pull Requests and verifies CHANGELOG changed when modifying application code.
 * [ProcedureKit/ProcedureKit](https://github.com/ProcedureKit/ProcedureKit): Advanced Operations in Swift
 * [processing/processing](https://github.com/processing/processing): Source code for the Processing Core and Development Environment (PDE)
-* [processing/processing4](https://github.com/processing/processing4): Processing 4.x releases for Java 17
+* [benfry/processing4](https://github.com/benfry/processing4): Processing 4.x releases for Java 17
 * [SpongeBobSun/Prodigal-iOS](https://github.com/SpongeBobSun/Prodigal-iOS): Music Player for iOS which looks & feels like classic player
 * [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles): 🌐Dial-up Internet access
 * [whoisdsmith/project-awesome](https://github.com/whoisdsmith/project-awesome): My collection of Awesome Stars
@@ -5013,7 +5013,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): I wrote threefive to impress Jenny Gibson. threefive now is the industry leading SCTE-35 decoder and encoder. Used in production daily around  the world.  #1 funtime SCTE-35.
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive now is the industry leading SCTE-35 decoder and encoder. Used in production daily around  the world.  #1 funtime SCTE-35.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
