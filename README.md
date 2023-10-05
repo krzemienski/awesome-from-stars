@@ -2925,7 +2925,7 @@
 * [ridhwaans/homehost](https://github.com/ridhwaans/homehost): self-hosted, Netflix-like app made for streaming
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
 * [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64) - in the works
-* [benphelps/homepage](https://github.com/benphelps/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+* [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [animosity22/homescripts](https://github.com/animosity22/homescripts): My Scripts for Plex / Emby with Dropbox and rclone
 * [SimonHaas/homeserver](https://github.com/SimonHaas/homeserver): homeserver setup with multiple services via docker
@@ -5614,7 +5614,7 @@
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
-* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 * [saravanakumarjsk/Text-to-speach-with-gTTS](https://github.com/saravanakumarjsk/Text-to-speach-with-gTTS): Converting text file to mp3 speach format using gTTS
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [louisdh/textor](https://github.com/louisdh/textor): A plain text editor for iOS
