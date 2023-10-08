@@ -3873,7 +3873,7 @@
 * [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server): Server for the MusicBrainz project (website, API, database tools)
 * [ethaden/MusicLibraryConverter](https://github.com/ethaden/MusicLibraryConverter): MusicLibraryConverter is a software written in Python 3 for batch converting of a music library containing flac files to mp3. It retains all meta tags and can be used iteratively. It uses multi-threading and is based on ffmpeg (Windows) or avconv (Linux) as conversion backend and mutagenx as tagging library. Note that ffmpeg.exe/avconv must be available and it must be possible to find them via the PATH environment. The Python 3 library mutagenx (https://pypi.python.org/pypi/mutagenx/1.22.1) must be installed.
 * [quodlibet/mutagen](https://github.com/quodlibet/mutagen): Python module for handling audio metadata
-* [muxinc/mux-avplayer-sdk](https://github.com/muxinc/mux-avplayer-sdk): A collection of helpful utilities for using AVKit with Mux.
+* [muxinc/mux-player-swift](https://github.com/muxinc/mux-player-swift): Use Mux Player Swift to stream and monitor video from Mux with AVKit and AVFoundation
 * [muxinc/mux-stats-sdk-avplayer](https://github.com/muxinc/mux-stats-sdk-avplayer): Mux integration with `AVPlayer` for iOS Native Applications
 * [muxinc/mux-stats-sdk-exoplayer](https://github.com/muxinc/mux-stats-sdk-exoplayer): Monitors an ExoPlayer instance and reports player analytics to Mux Data
 * [muxinc/mux-stats-sdk-media3](https://github.com/muxinc/mux-stats-sdk-media3): Mux Data SDK for AndroidX Media3
@@ -5491,7 +5491,7 @@
 * [realm/SwiftLint](https://github.com/realm/SwiftLint): A tool to enforce Swift style and conventions.
 * [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation): 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
 * [gholt/swiftly](https://github.com/gholt/swiftly): Client for Swift - NOTE: The master branch is current dev work. Depending on how adventurous you are, you might want to switch to the "stable" branch if you're running from a git clone.
-* [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages): A very flexible message bar for iOS written in Swift.
+* [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages): A very flexible message bar for UIKit and SwiftUI.
 * [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode): An Xcode extension (plugin) to generate Swift test doubles automatically.
 * [narlei/SwiftMoyaCodeGenerator](https://github.com/narlei/SwiftMoyaCodeGenerator): This is a Paw Extension that generates Moya code.
 * [malcommac/SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack): 💬 Fast & Lightweight MsgPack Serializer & Deserializer for Swift
@@ -6337,7 +6337,7 @@
 * [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 * [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr): Effortlessly synchronize UserDefaults over iCloud.
 * [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet): ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-* [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server): None
+* [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server): Image, video and audio processing/streaming server
 * [skylerlee/zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme): Another :star: theme for oh-my-zsh
 * [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): Your One-Stop Publication Workbench
 * [Zewo/Zewo](https://github.com/Zewo/Zewo): Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
