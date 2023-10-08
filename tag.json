@@ -1,4 +1,7 @@
 {
+    "0look/install-software": [
+        "Other"
+    ],
     "0oljyo0/EZRclone": [
         "Other"
     ],
@@ -12932,7 +12935,7 @@
     "mpv-player/mpv-build": [
         "Other"
     ],
-    "mr-karan/hydra": [
+    "mr-karan/homelab": [
         "Other"
     ],
     "mrEDitor/gnome-shell-extension-scroll-panel": [
@@ -18744,9 +18747,6 @@
         "Other"
     ],
     "zplug/zplug": [
-        "Other"
-    ],
-    "zqhhh/auto-install-software": [
         "Other"
     ],
     "zsh-users/antigen": [

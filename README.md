@@ -461,7 +461,6 @@
 * [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
 * [yavorsky/auto-github-topics](https://github.com/yavorsky/auto-github-topics): 📝 Fetch and set topics to github from package.json
 * [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins): Plugins for Auto-GPT
-* [zqhhh/auto-install-software](https://github.com/zqhhh/auto-install-software): One-click installation of common software
 * [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle): Automatically generate and overlay subtitles for any video.
 * [Eyevinn/auto-subtitles](https://github.com/Eyevinn/auto-subtitles): Automatically generate subtitles from an input audio or video file using Open AI Whisper
 * [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder): 🖖 Train an artificial intelligence to play tinder for you
@@ -978,7 +977,7 @@
 * [monyone/biim](https://github.com/monyone/biim): LL-HLS implementation written in Python3
 * [Gerzer/Binary-Shark](https://github.com/Gerzer/Binary-Shark): Manage your DigitalOcean account from iPhone and Apple Watch.
 * [bisq-network/bisq](https://github.com/bisq-network/bisq): A decentralized bitcoin exchange network
-* [teambit/bit](https://github.com/teambit/bit): A tool for composable software development.
+* [teambit/bit](https://github.com/teambit/bit): A toolchain for development of composable software.
 * [bitmovin/bitmovin-api-sdk-java](https://github.com/bitmovin/bitmovin-api-sdk-java): Java API SDK which enables you to seamlessly integrate the Bitmovin API into your projects
 * [bitmovin/bitmovin-java](https://github.com/bitmovin/bitmovin-java): DEPRECATED: Java client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-api-sdk-java
 * [Eyevinn/bitmovin-player-ios-analytics-conviva](https://github.com/Eyevinn/bitmovin-player-ios-analytics-conviva): Conviva Analytics Integration for the Bitmovin Player iOS SDK
@@ -2924,6 +2923,7 @@
 * [lwitzani/homebridgeStatusWidget](https://github.com/lwitzani/homebridgeStatusWidget): None
 * [ridhwaans/homehost](https://github.com/ridhwaans/homehost): self-hosted, Netflix-like app made for streaming
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
+* [mr-karan/homelab](https://github.com/mr-karan/homelab): Infra-as-code for my personal home server setup
 * [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64) - in the works
 * [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
@@ -2976,7 +2976,6 @@
 * [hybrik/hybrik-samples](https://github.com/hybrik/hybrik-samples): Hybrik Samples
 * [hybrik/hybrik-sdk-go](https://github.com/hybrik/hybrik-sdk-go): None
 * [malcommac/Hydra](https://github.com/malcommac/Hydra): ⚡️ Lightweight full-featured Promises, Async & Await Library in Swift
-* [mr-karan/hydra](https://github.com/mr-karan/hydra): Infra-as-code for my personal home server setup
 * [vercel/hyper](https://github.com/vercel/hyper): A terminal built on web technologies
 * [cevr/hyper-mayukai](https://github.com/cevr/hyper-mayukai): Dark Hyper theme with bright colors - based off the VSCode Theme Mayukai
 * [chabou/hyper-pane](https://github.com/chabou/hyper-pane): Extension for Hyper.app to enhance pane navigation.
@@ -3056,6 +3055,7 @@
 * [klickpages/insomnia-plugin-repo-sync](https://github.com/klickpages/insomnia-plugin-repo-sync): None
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: My install.md with dotfiles and etc
 * [lmlsna/install-scripts](https://github.com/lmlsna/install-scripts): Ubuntu install scripts
+* [0look/install-software](https://github.com/0look/install-software): One-click installation of common software
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
 * [ubports/installer-configs](https://github.com/ubports/installer-configs): Install configurations for the UBports Installer
 * [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
