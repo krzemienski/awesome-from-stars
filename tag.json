@@ -1715,9 +1715,6 @@
     "FirebaseExtended/flutterfire_desktop": [
         "Other"
     ],
-    "Fizzadar/pyinfra": [
-        "Other"
-    ],
     "FlexMonkey/Filterpedia": [
         "Other"
     ],
@@ -14583,6 +14580,9 @@
         "Other"
     ],
     "pydio/pydio-core": [
+        "Other"
+    ],
+    "pyinfra-dev/pyinfra": [
         "Other"
     ],
     "pyinstaller/pyinstaller": [

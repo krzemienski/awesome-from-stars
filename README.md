@@ -977,7 +977,7 @@
 * [monyone/biim](https://github.com/monyone/biim): LL-HLS implementation written in Python3
 * [Gerzer/Binary-Shark](https://github.com/Gerzer/Binary-Shark): Manage your DigitalOcean account from iPhone and Apple Watch.
 * [bisq-network/bisq](https://github.com/bisq-network/bisq): A decentralized bitcoin exchange network
-* [teambit/bit](https://github.com/teambit/bit): A toolchain for development of composable software.
+* [teambit/bit](https://github.com/teambit/bit): A tool for development of composable software.
 * [bitmovin/bitmovin-api-sdk-java](https://github.com/bitmovin/bitmovin-api-sdk-java): Java API SDK which enables you to seamlessly integrate the Bitmovin API into your projects
 * [bitmovin/bitmovin-java](https://github.com/bitmovin/bitmovin-java): DEPRECATED: Java client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-api-sdk-java
 * [Eyevinn/bitmovin-player-ios-analytics-conviva](https://github.com/Eyevinn/bitmovin-player-ios-analytics-conviva): Conviva Analytics Integration for the Bitmovin Player iOS SDK
@@ -4216,7 +4216,7 @@
 * [open-guides/og-aws](https://github.com/open-guides/og-aws): 📙 Amazon Web Services — a practical guide
 * [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars): An offline CLI tool to search your GitHub Stars.
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 * [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB): Web tool for database management
@@ -4578,7 +4578,7 @@
 * [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 * [cweichen/pygn](https://github.com/cweichen/pygn): A simple Python client for the Gracenote Music API
 * [sakage24/pyhlsgen](https://github.com/sakage24/pyhlsgen): 複雑なffmpegの設定をしなくても、自動的にHLS形式に変換します
-* [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
+* [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra): pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 * [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller): Freeze (package) Python programs into stand-alone executables
 * [pyjs/pyjs](https://github.com/pyjs/pyjs): Pyjs canonical sources. Start here!
 * [microsoft/pylance-release](https://github.com/microsoft/pylance-release): Documentation and issues for Pylance
