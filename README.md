@@ -2782,7 +2782,7 @@
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 * [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [mdh34/hackup](https://github.com/mdh34/hackup): Read Hacker News from the desktop
-* [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
+* [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP for iOS, macOS and tvOS.
 * [linkedin/Hakawai](https://github.com/linkedin/Hakawai): A powerful, extensible UITextView.
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
 * [chrisjohnson00/handbrake-watcher-chart](https://github.com/chrisjohnson00/handbrake-watcher-chart): A helm chart to deploy a file watcher that creates k8s jobs for handbrake conversions
@@ -4578,7 +4578,7 @@
 * [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 * [cweichen/pygn](https://github.com/cweichen/pygn): A simple Python client for the Gracenote Music API
 * [sakage24/pyhlsgen](https://github.com/sakage24/pyhlsgen): 複雑なffmpegの設定をしなくても、自動的にHLS形式に変換します
-* [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra): pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
+* [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra): pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
 * [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller): Freeze (package) Python programs into stand-alone executables
 * [pyjs/pyjs](https://github.com/pyjs/pyjs): Pyjs canonical sources. Start here!
 * [microsoft/pylance-release](https://github.com/microsoft/pylance-release): Documentation and issues for Pylance
