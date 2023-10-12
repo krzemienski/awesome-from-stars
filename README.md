@@ -119,7 +119,6 @@
 * [ableplayer/ableplayer](https://github.com/ableplayer/ableplayer): fully accessible cross-browser HTML5 media player. 
 * [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI): Gathering all info published, both by Apple and by others, about new framework SwiftUI. 
 * [jkarthic-akamai/ABR-Broadcaster](https://github.com/jkarthic-akamai/ABR-Broadcaster): A real time encoder for Adaptive Bitrate Broadcast
-* [krzemienski/abr-manifest-viewer-chrome](https://github.com/krzemienski/abr-manifest-viewer-chrome): Extension to view HLS (m3u8) or MPEG-DASH (mpd) manifest files with syntax highlighting in your Chrome browser.
 * [alfg/abr-player](https://github.com/alfg/abr-player): 📼 Adaptive Streaming Test Player
 * [Eyevinn/abr-player-chrome](https://github.com/Eyevinn/abr-player-chrome): Chrome extension that uses Eyevinn HTML player to be able to play HLS and MPEG-DASH natively
 * [Xilinx/ABR-video-transcode](https://github.com/Xilinx/ABR-video-transcode): None
@@ -3055,7 +3054,7 @@
 * [klickpages/insomnia-plugin-repo-sync](https://github.com/klickpages/insomnia-plugin-repo-sync): None
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: My install.md with dotfiles and etc
 * [lmlsna/install-scripts](https://github.com/lmlsna/install-scripts): Ubuntu install scripts
-* [0look/install-software](https://github.com/0look/install-software): One-click installation of common software
+* [qilook/install-software](https://github.com/qilook/install-software): One-click installation of common software
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
 * [ubports/installer-configs](https://github.com/ubports/installer-configs): Install configurations for the UBports Installer
 * [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
@@ -4585,7 +4584,7 @@
 * [scivision/PyLivestream](https://github.com/scivision/PyLivestream): Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more
 * [sbraz/pymediainfo](https://github.com/sbraz/pymediainfo): A Python wrapper around the MediaInfo library
 * [beardypig/pymp4](https://github.com/beardypig/pymp4): A Python MP4 Parser and toolkit
-* [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion): A Python library for simplified access to the Notion API, enabling easier integration and automation of Notion tasks in your Python projects.
+* [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion): A Python library for simplified access to the Notion API, enabling easier integration and automation of Notion tasks in your Python projects.
 * [bradleyhurley/PyNotion](https://github.com/bradleyhurley/PyNotion): PyNotion is a Python 3 wrapper around the Notion API.
 * [owncloud/pyocclient](https://github.com/owncloud/pyocclient): ownCloud client library for Python
 * [Pylons/pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter): A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
@@ -5097,7 +5096,7 @@
 * [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory): A collection of user-submitted shortcuts for Shortcuts for iOS.
 * [albanie/shot-detection-benchmarks](https://github.com/albanie/shot-detection-benchmarks): A comparison of ffmpeg, Shotdetect and PySceneDetect for shot transition detection
 * [star7th/showdoc](https://github.com/star7th/showdoc): ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-* [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder): A professional video compression tool accessible to all.
+* [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder): A professional video compression tool accessible to all, mostly based on FFmpeg.
 * [cats-oss/Sica](https://github.com/cats-oss/Sica): :deer: Simple Interface Core Animation. Run type-safe animation sequencially or parallelly
 * [mdhiggins/sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator): Automatically convert video files to a standardized format with metadata tagging to create a beautiful and uniform media library
 * [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta): The civilized way to write REST API clients for iOS / macOS

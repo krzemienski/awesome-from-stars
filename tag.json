@@ -1,7 +1,4 @@
 {
-    "0look/install-software": [
-        "Other"
-    ],
     "0oljyo0/EZRclone": [
         "Other"
     ],
@@ -984,9 +981,6 @@
         "Other"
     ],
     "DevopensourceTeam/Console_Box_AWS": [
-        "Other"
-    ],
-    "DevzoneCommunity/PyNotion": [
         "Other"
     ],
     "Dhamova/Pineapple-Xcode": [
@@ -3144,6 +3138,9 @@
         "Other"
     ],
     "QianMo/Awesome-Unity-Shader": [
+        "Other"
+    ],
+    "Quantivio/PyNotion": [
         "Other"
     ],
     "Quick/Nimble": [
@@ -11192,9 +11189,6 @@
     "krzemienski/Download_soundcloud": [
         "Other"
     ],
-    "krzemienski/abr-manifest-viewer-chrome": [
-        "Other"
-    ],
     "krzemienski/awesome-from-stars": [
         "Other"
     ],
@@ -14658,6 +14652,9 @@
         "Other"
     ],
     "qi-shun-wang/HLSDownloader": [
+        "Other"
+    ],
+    "qilook/install-software": [
         "Other"
     ],
     "qishibo/AnotherRedisDesktopManager": [
