@@ -1769,7 +1769,7 @@
 * [CircleCI-Archived/dockerfile-wizard](https://github.com/CircleCI-Archived/dockerfile-wizard): Use CircleCI to build custom Docker images with combinations of common languages/dependencies
 * [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles): Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
 * [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles): Various Dockerfiles I use on the desktop and on servers.
-* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A collection of delicious docker recipes 🇺🇦
+* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
 * [waylybaye/dockerfiles](https://github.com/waylybaye/dockerfiles): :whale: A collection of delicious docker recipes
 * [bstiel/dockerize-celery-django-app](https://github.com/bstiel/dockerize-celery-django-app): https://www.distributedpython.com/2018/06/12/celery-django-docker
 * [smellouk/Dockerized.Home-Server](https://github.com/smellouk/Dockerized.Home-Server): Dockerized.Home-Server is a setup which provides a dockerized home server, dns server, ad blocking server , cloud and monitoring.
@@ -2923,7 +2923,6 @@
 * [ridhwaans/homehost](https://github.com/ridhwaans/homehost): self-hosted, Netflix-like app made for streaming
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
 * [mr-karan/homelab](https://github.com/mr-karan/homelab): Infra-as-code for my personal home server setup
-* [mrsauravsahu/homelab](https://github.com/mrsauravsahu/homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64) - in the works
 * [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [animosity22/homescripts](https://github.com/animosity22/homescripts): My Scripts for Plex / Emby with Dropbox and rclone
@@ -3345,6 +3344,7 @@
 * [kubernetes-retired/kube-aws](https://github.com/kubernetes-retired/kube-aws): [EOL] A command-line tool to declaratively manage Kubernetes clusters on AWS
 * [kubernetes-retired/kube-batch](https://github.com/kubernetes-retired/kube-batch): A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
 * [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder): Easy to use Kubernetes port forwarding manager
+* [mrsauravsahu/kube-homelab](https://github.com/mrsauravsahu/kube-homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64) - in the works
 * [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view): Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 * [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 * [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1): Kubernetes prompt info for bash and zsh
@@ -3422,7 +3422,7 @@
 * [inancgumus/learngo](https://github.com/inancgumus/learngo): ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 * [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs): Code documentation written as code! How novel and totally my idea!
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede): Lean's LEDE source
-* [doocs/leetcode](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+* [doocs/leetcode](https://github.com/doocs/leetcode): 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 * [leixiaohua1020/leixiaohua1020.github.io](https://github.com/leixiaohua1020/leixiaohua1020.github.io): None
 * [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy): 🐀 A link aggregator and forum for the fediverse
 * [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible): A docker deploy for ansible
@@ -4903,8 +4903,8 @@
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
 * [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker - in VMs.
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
-* [meienberger/runtipi](https://github.com/meienberger/runtipi): Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-* [meienberger/runtipi-appstore](https://github.com/meienberger/runtipi-appstore): Official repository hosting the Runtipi App Store. Submit apps and updates here. 
+* [runtipi/runtipi](https://github.com/runtipi/runtipi): Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+* [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore): Official repository hosting the Runtipi App Store. Submit apps and updates here. 
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust):  All Algorithms implemented in Rust 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 * [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
@@ -5083,7 +5083,7 @@
 * [shaka-project/shaka-streamer](https://github.com/shaka-project/shaka-streamer): A simple config-file based approach to preparing streaming media, based on FFmpeg and Shaka Packager.
 * [dreymonde/Shallows](https://github.com/dreymonde/Shallows): 🛶 Your lightweight persistence toolbox
 * [JohnSundell/Shapeshift](https://github.com/JohnSundell/Shapeshift): Quickly convert a folder containing Swift files into an iPad-compatible Playground
-* [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob): Distributed scheduled job framework
+* [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob): Distributed scheduled job
 * [antony-jr/ShareMyHost](https://github.com/antony-jr/ShareMyHost): A simple and easy to use program to share files in local network.
 * [danielsaidi/Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet): Sheeeeeeeeet is a Swift library for creating menus, custom action sheets, context menus etc.
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
