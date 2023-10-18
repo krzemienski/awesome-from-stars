@@ -914,6 +914,9 @@
     "Dash-Industry-Forum/dash.js": [
         "Other"
     ],
+    "Dash-Industry-Forum/livesim2": [
+        "Other"
+    ],
     "Dash-Industry-Forum/media-tools": [
         "Other"
     ],
@@ -947,7 +950,7 @@
     "DavidDeBels/NotionClient": [
         "Other"
     ],
-    "DeadNews/zsh-scripts": [
+    "DeadNews/shell-scripts": [
         "Other"
     ],
     "Debjoy/FireCast": [
@@ -4772,9 +4775,6 @@
     "anilbeesetti/nextplayer": [
         "Other"
     ],
-    "animosity22/homescripts": [
-        "Other"
-    ],
     "anishathalye/dotbot": [
         "Other"
     ],
@@ -6711,6 +6711,9 @@
         "Other"
     ],
     "composer404/tabby-workspace-manager": [
+        "Other"
+    ],
+    "composerize/composerize": [
         "Other"
     ],
     "compuccino/osk-encoder-validator": [
@@ -11639,9 +11642,6 @@
     "linagora/Twake": [
         "Other"
     ],
-    "linimin/lbry-androidtv": [
-        "Other"
-    ],
     "linkedin/Hakawai": [
         "Other"
     ],
@@ -12003,9 +12003,6 @@
         "Other"
     ],
     "magicalpanda/MagicalRecord": [
-        "Other"
-    ],
-    "magicmark/composerize": [
         "Other"
     ],
     "maguowei/awesome-stars": [
@@ -18480,6 +18477,9 @@
         "Other"
     ],
     "yaph/lologl": [
+        "Other"
+    ],
+    "yapingcat/gomedia": [
         "Other"
     ],
     "yapplications/ADB-GUI": [
