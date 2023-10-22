@@ -2285,6 +2285,9 @@
     "Justintime50/github-archive": [
         "Other"
     ],
+    "Jzvd/JZVideo": [
+        "Other"
+    ],
     "KDAB/hotspot": [
         "Other"
     ],
@@ -3668,6 +3671,9 @@
     "TechSmith/mp4v2": [
         "Other"
     ],
+    "Tecnico1931/aws-media-services-simple-vod-workflow": [
+        "Other"
+    ],
     "Telecommunication-Telemedia-Assessment/AVRate": [
         "Other"
     ],
@@ -4767,6 +4773,9 @@
         "Other"
     ],
     "andsens/homeshick": [
+        "Other"
+    ],
+    "angelcam/rust-ac-ffmpeg": [
         "Other"
     ],
     "angristan/openvpn-install": [
@@ -8421,6 +8430,9 @@
         "Other"
     ],
     "fastogt/fastocloud": [
+        "Other"
+    ],
+    "fastogt/fastocloud_env": [
         "Other"
     ],
     "fastogt/fastonosql": [
@@ -16037,6 +16049,9 @@
     "slhck/ffmpeg-quality-metrics": [
         "Other"
     ],
+    "slhck/ffmpeg-videoparser-comparison": [
+        "Other"
+    ],
     "slhck/rate-control-tests": [
         "Other"
     ],
@@ -17322,6 +17337,9 @@
         "Other"
     ],
     "twostraws/Unwrap": [
+        "Other"
+    ],
+    "twostraws/iTour": [
         "Other"
     ],
     "twostraws/kitura-vs-vapor": [

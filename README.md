@@ -893,6 +893,7 @@
 * [canonical/aws-marketplace-ubuntu-scraper](https://github.com/canonical/aws-marketplace-ubuntu-scraper): CLI to return the Ubuntu AMIs in AWS marketplace
 * [awslabs/aws-media-replay-engine](https://github.com/awslabs/aws-media-replay-engine): Media Replay Engine (MRE) is a framework to build automated video clipping and replay (highlight) generation pipelines for live and video-on-demand content.
 * [aws-samples/aws-media-replay-engine-samples](https://github.com/aws-samples/aws-media-replay-engine-samples): ** DEPRECATED: Moved to aws-media-replay-engine/samples/ **
+* [Tecnico1931/aws-media-services-simple-vod-workflow](https://github.com/Tecnico1931/aws-media-services-simple-vod-workflow): Lab that covers video conversion workflow for Video On Demand using AWS MediaConvert. 
 * [aeksco/aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline): :mag: Data pipeline for crawling PDFs from the Web and transforming their contents into structured data using AWS textract. Built with AWS CDK + TypeScript 
 * [CircleCI-Public/aws-s3-orb](https://github.com/CircleCI-Public/aws-s3-orb): Integrate Amazon AWS S3 with your CircleCI CI/CD pipeline easily with the aws-s3 orb.
 * [yard-turkey/aws-s3-provisioner](https://github.com/yard-turkey/aws-s3-provisioner): None
@@ -2127,7 +2128,8 @@
 * [SandyChapman/fastlane-plugin-jira_versions](https://github.com/SandyChapman/fastlane-plugin-jira_versions): A Fastlane plugin for managing JIRA releases / versions
 * [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center): 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 * [taisukeh/fastlane-plugin-xcode_test_reporter](https://github.com/taisukeh/fastlane-plugin-xcode_test_reporter): Fastlane plugin generates JUnit or HTML report from Xcode plist test report files using.
-* [fastogt/fastocloud](https://github.com/fastogt/fastocloud): FastoCloud Media Service Community Edition
+* [fastogt/fastocloud](https://github.com/fastogt/fastocloud): FastoCloud Media
+* [fastogt/fastocloud_env](https://github.com/fastogt/fastocloud_env): Build scripts for FastoCloud services
 * [fastogt/fastonosql](https://github.com/fastogt/fastonosql): FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 * [fastogt/fastotv](https://github.com/fastogt/fastotv): IPTV/OTT Solution
 * [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an open-source alternative to GitHub Copilot server
@@ -2244,6 +2246,7 @@
 * [rambodrahmani/ffmpeg-video-player](https://github.com/rambodrahmani/ffmpeg-video-player): An FFmpeg and SDL Tutorial.
 * [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts): Shell scripts to create video slideshows using images and videos
 * [rupakg/ffmpeg-video-thumb](https://github.com/rupakg/ffmpeg-video-thumb): An end-to-end serverless application that extracts thumbnails from video files using AWS Fargate, AWS Lambda and the Serverless Framework.
+* [slhck/ffmpeg-videoparser-comparison](https://github.com/slhck/ffmpeg-videoparser-comparison): Test repo, never mind
 * [ddragosd/ffmpeg-vod-transcoder](https://github.com/ddragosd/ffmpeg-vod-transcoder): A micro-service with Springboot and Docker used to transcode a single video file in multiple formats, in the cloud.
 * [wide-video/ffmpeg-wasm](https://github.com/wide-video/ffmpeg-wasm): WebAssembly port of FFmpeg
 * [ColinEberhardt/ffmpeg-wasm-streaming-video-player](https://github.com/ColinEberhardt/ffmpeg-wasm-streaming-video-player): An example of using FFmpeg.wasm to perform streaming transcoding within the browser
@@ -3144,6 +3147,7 @@
 * [stefanprodan/istio-hpa](https://github.com/stefanprodan/istio-hpa): Configure horizontal pod autoscaling with Istio metrics and Prometheus
 * [gnachman/iTerm2](https://github.com/gnachman/iTerm2): iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+* [twostraws/iTour](https://github.com/twostraws/iTour): Source code for my SwiftData introduction tutorial.
 * [pbs/its](https://github.com/pbs/its): image transformation service
 * [svhawks/itunes-sales-client](https://github.com/svhawks/itunes-sales-client): Fastlane sales and analytics client
 * [trulyronak/itunesconnect](https://github.com/trulyronak/itunesconnect): A Mac OS X App That Lets You Access iTunes Connect
@@ -3244,6 +3248,7 @@
 * [SamsungDForum/JuvoPlayer](https://github.com/SamsungDForum/JuvoPlayer): The reference for developers of streaming live TV and VOD Tizen .Net applications.
 * [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer): JW Player is the world's most popular embeddable media player.
 * [jwplayer/jwplayer-react](https://github.com/jwplayer/jwplayer-react): None
+* [Jzvd/JZVideo](https://github.com/Jzvd/JZVideo): 高度自定义的安卓视频框架 MediaPlayer exoplayer ijkplayer ffmpeg
 * [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [rancher/k3os](https://github.com/rancher/k3os): Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
@@ -4907,6 +4912,7 @@
 * [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore): Official repository hosting the Runtipi App Store. Submit apps and updates here. 
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust):  All Algorithms implemented in Rust 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
+* [angelcam/rust-ac-ffmpeg](https://github.com/angelcam/rust-ac-ffmpeg): Simple and safe Rust interface for FFmpeg libraries.
 * [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
 * [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice): Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 * [meh/rust-ffmpeg](https://github.com/meh/rust-ffmpeg): Safe FFmpeg wrapper.
