@@ -110,7 +110,7 @@
 
 # Other
 
-* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short code snippets for all your development needs
+* [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Short code snippets for all your development needs
 * [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code): 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 * [geektutu/7days-golang](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 * [AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit): 📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的现代化声明式数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.
@@ -1816,7 +1816,7 @@
 * [semanser/dotfiles](https://github.com/semanser/dotfiles): Alacritty + Tmux + Oh My Zsh + Neovim = ❤️
 * [theowenyoung/dotfiles](https://github.com/theowenyoung/dotfiles): dotfiles, init scripts, common scripts
 * [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
-* [yutkat/dotfiles](https://github.com/yutkat/dotfiles): The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+* [yutkat/dotfiles](https://github.com/yutkat/dotfiles): The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: hyprland/sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 * [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro): My personal dotfiles (how do these have so many stars?)
 * [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public): My personal dotfiles
 * [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template): A template for structuring dotfiles (using Dotbot as an installer) 📜
@@ -3237,7 +3237,7 @@
 * [dashpay/JSONSchemaValidation](https://github.com/dashpay/JSONSchemaValidation): JSON Schema draft 4, 6 and 7 parsing and validation library written in Objective-C.
 * [bhollis/jsonview](https://github.com/bhollis/jsonview): A web extension that helps you view JSON documents in the browser. 
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [juju/juju](https://github.com/juju/juju): Juju is an open source orchestration engine for software operators that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure.
+* [juju/juju](https://github.com/juju/juju): Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
 * [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
@@ -3694,7 +3694,7 @@
 * [m-ab-s/media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite): This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
 * [ablwr/media-collection-viewer](https://github.com/ablwr/media-collection-viewer): visualizations/charts for media collections, based on mediainfo
 * [intel/media-delivery](https://github.com/intel/media-delivery): This collection of samples demonstrates best practices to achieve optimal video quality and performance on Intel GPUs for content delivery networks. Check out our demo, recommended command lines and quality and performance measuring tools.
-* [intel/media-driver](https://github.com/intel/media-driver): None
+* [intel/media-driver](https://github.com/intel/media-driver): Intel Graphics Media Driver to support hardware decode, encode and video processing.
 * [tjenkinson/media-element-syncer](https://github.com/tjenkinson/media-element-syncer): Synchronise two or more HTML5 media elements.
 * [Eyevinn/media-event-filter](https://github.com/Eyevinn/media-event-filter): Interpreter for HTML5 media events
 * [kaltura/media-framework](https://github.com/kaltura/media-framework): Kaltura Live Media Framework
@@ -4111,7 +4111,7 @@
 * [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js): Official Notion JavaScript Client
 * [notionsdk/notion-sdk-kotlin-old](https://github.com/notionsdk/notion-sdk-kotlin-old): Unofficial Notion.so API wrapper, written in Kotlin
 * [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py): The official Notion API client library, but rewritten in Python! (sync + async)
-* [pkwenda/notion-site](https://github.com/pkwenda/notion-site): Build any website for free with Notion automation | 使用 Notion + Hugo 免费自动化构建任何网站
+* [nonacosa/notion-site](https://github.com/nonacosa/notion-site): Build any website for free with Notion automation | 使用 Notion + Hugo 免费自动化构建任何网站
 * [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites): 发掘Notion好站
 * [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action): Custom action to export Notion database to local as markdown files and images.
 * [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md): Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
@@ -4120,7 +4120,7 @@
 * [zhuochun/notion-toolset](https://github.com/zhuochun/notion-toolset): 🔩 A set of Notion automation tools using the Notion API
 * [thomashirtz/notion-utilities](https://github.com/thomashirtz/notion-utilities): Tools to manipulate Notion pages and databases using Python.
 * [kathhess/notion-utils](https://github.com/kathhess/notion-utils): A small repository with convenience functions for working with the Notion API.
-* [pkwenda/notion-website-builder](https://github.com/pkwenda/notion-website-builder): offline tool for building websites with notion
+* [nonacosa/notion-website-builder](https://github.com/nonacosa/notion-website-builder): offline tool for building websites with notion
 * [narkdown/notion2github](https://github.com/narkdown/notion2github): Automatic syncronization from Notion to Github
 * [echo724/notion2md](https://github.com/echo724/notion2md): Notion Markdown Exporter with Python Cli
 * [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever): 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
@@ -4213,7 +4213,7 @@
 * [nerdishbynature/octokit.swift](https://github.com/nerdishbynature/octokit.swift): A Swift API Client for GitHub and GitHub Enterprise
 * [pksunkara/octonode](https://github.com/pksunkara/octonode): github api v3 in nodejs
 * [aarnt/octopi](https://github.com/aarnt/octopi): A powerful Pacman (Package Manager) front end using Qt libs
-* [bellingcat/octosuite](https://github.com/bellingcat/octosuite): An all-in-one GitHub open-source intelligence framework.
+* [bellingcat/octosuite](https://github.com/bellingcat/octosuite): An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 * [ovity/octotree](https://github.com/ovity/octotree): GitHub on steroids
 * [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks): [MIRROR]
 * [liberodark/ODrive](https://github.com/liberodark/ODrive): Google Drive GUI for Windows / Mac / Linux
@@ -4337,7 +4337,7 @@
 * [antoniocasero/Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
 * [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime): A tiny Clojure library that deals with MIME types (Internet media types)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
-* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
+* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
 * [jdisho/Papr](https://github.com/jdisho/Papr): 🌁 An Unsplash app for iOS
 * [Erudika/para](https://github.com/Erudika/para): Multitenant backend server for building web and mobile apps rapidly. The backend for busy developers. (self-hosted or hosted)
 * [HelloElephant/Parade](https://github.com/HelloElephant/Parade): Parallax Scroll-Jacking Effects Engine for iOS / tvOS
@@ -4465,7 +4465,7 @@
 * [kizitonwose/PodsUpdater](https://github.com/kizitonwose/PodsUpdater): A macOS app that helps you manage dependency releases in your Podfile.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
 * [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters
-* [pola-rs/polars](https://github.com/pola-rs/polars): Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+* [pola-rs/polars](https://github.com/pola-rs/polars): Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 * [shzlw/poli](https://github.com/shzlw/poli): An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 * [jech/polipo](https://github.com/jech/polipo): The Polipo caching HTTP proxy
 * [teejee2008/polo](https://github.com/teejee2008/polo): Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
@@ -5142,7 +5142,7 @@
 * [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView): ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 * [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk): None
 * [chika-kasymov/SKFormTextField](https://github.com/chika-kasymov/SKFormTextField): Custom UITextField/UITextView container with form validation, description texts and more
-* [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Reliably run any Linux distribution on any hardware with a cross-compiled host OS for containerized environments.
+* [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Any Linux distribution, anywhere.
 * [scrapinghub/skinfer](https://github.com/scrapinghub/skinfer): Skinfer is a tool for inferring and merging JSON schemas
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
 * [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥 Blazing fast bulk data transfers between any cloud 🔥
@@ -5165,13 +5165,13 @@
 * [maaslalani/slides](https://github.com/maaslalani/slides): Terminal based presentation tool
 * [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
 * [slidevjs/slidev-vscode](https://github.com/slidevjs/slidev-vscode): VS Code extension for Slidev
-* [slint-ui/slint](https://github.com/slint-ui/slint): Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript. 
+* [slint-ui/slint](https://github.com/slint-ui/slint): Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 * [mergesort/Slope](https://github.com/mergesort/Slope): A simpler way to implement gradients on iOS.
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 * [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast): PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 * [khimaros/smart-auto-move](https://github.com/khimaros/smart-auto-move): Smart Auto Move learns the size and position of your application windows and restores them to the correct place on subsequent launches. Supports GNOME Wayland.
 * [OpenVisualCloud/Smart-City-Sample](https://github.com/OpenVisualCloud/Smart-City-Sample): The smart city reference pipeline shows how to integrate various media building blocks, with analytics powered by the OpenVINO™ Toolkit, for traffic or stadium sensing, analytics and management tasks.
-* [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open): Utils for streaming large files (S3, HDFS, gzip, bz2...)
+* [piskvorky/smart_open](https://github.com/piskvorky/smart_open): Utils for streaming large files (S3, HDFS, gzip, bz2...)
 * [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming): 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
 * [luebke-dev/smbios-thermal-ctl-gnome-ext](https://github.com/luebke-dev/smbios-thermal-ctl-gnome-ext): Gnome-Shell Extension for setting smbios thermal modes.
 * [realeyes-media/sme-2019-deploying-cmaf-workshop](https://github.com/realeyes-media/sme-2019-deploying-cmaf-workshop): None
@@ -5400,7 +5400,7 @@
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
-* [supabase/supabase](https://github.com/supabase/supabase): The open source Firebase alternative. Follow to stay updated about our public Beta.
+* [supabase/supabase](https://github.com/supabase/supabase): The open source Firebase alternative.
 * [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity): Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 * [dehatanes/super-useful-notion-cli](https://github.com/dehatanes/super-useful-notion-cli): Criando uma comand line interface SÚPER ÚTIL para quem usa Notion :)
 * [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -5620,7 +5620,7 @@
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
-* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 * [saravanakumarjsk/Text-to-speach-with-gTTS](https://github.com/saravanakumarjsk/Text-to-speach-with-gTTS): Converting text file to mp3 speach format using gTTS
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [louisdh/textor](https://github.com/louisdh/textor): A plain text editor for iOS
@@ -6232,7 +6232,6 @@
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 * [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng): WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 * [mxcl/Workbench](https://github.com/mxcl/Workbench): Seamless, automatic, “dotfile” sync to iCloud.
-* [TenPennyTV/worker-ffmpeg](https://github.com/TenPennyTV/worker-ffmpeg): Worker that is used to transcode video to supported formats and resolutions
 * [bkeepers/workflow](https://github.com/bkeepers/workflow): GitHub workflow automation via .probot.js file in your repository.
 * [aws-solutions/workload-discovery-on-aws](https://github.com/aws-solutions/workload-discovery-on-aws): Workload Discovery on AWS is a solution to visualize AWS Cloud workloads. With it you can build, customize, and share architecture diagrams of your workloads based on live data from AWS. The solution maintains an inventory of the AWS resources across your accounts and regions, mapping their relationships and displaying them in the user interface.
 * [G-dH/workspace-switcher-manager](https://github.com/G-dH/workspace-switcher-manager): GNOME Shell extension that adds workspace switcher options and allows you to customize workspace switcher popup and make it useful.

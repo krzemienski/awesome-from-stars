@@ -38,9 +38,6 @@
     "2gis/k8s-handle": [
         "Other"
     ],
-    "30-seconds/30-seconds-of-code": [
-        "Other"
-    ],
     "3846masa/docker-ngrokd": [
         "Other"
     ],
@@ -585,6 +582,9 @@
         "Other"
     ],
     "ChWick/gnomesome": [
+        "Other"
+    ],
+    "Chalarangelo/30-seconds-of-code": [
         "Other"
     ],
     "ChangbaDevs/KTVHTTPCache": [
@@ -3167,9 +3167,6 @@
     "RMerl/asuswrt-merlin": [
         "Other"
     ],
-    "RaRe-Technologies/smart_open": [
-        "Other"
-    ],
     "RadekMolenda/org-notion": [
         "Other"
     ],
@@ -3684,9 +3681,6 @@
         "Other"
     ],
     "TelegramMessenger/Telegram-iOS": [
-        "Other"
-    ],
-    "TenPennyTV/worker-ffmpeg": [
         "Other"
     ],
     "Tencent/APIJSON": [
@@ -13436,6 +13430,12 @@
     "nomad-cli/venice": [
         "Other"
     ],
+    "nonacosa/notion-site": [
+        "Other"
+    ],
+    "nonacosa/notion-website-builder": [
+        "Other"
+    ],
     "nonameplum/Changeable": [
         "Other"
     ],
@@ -14267,6 +14267,9 @@
     "piotrmski/plaid": [
         "Other"
     ],
+    "piskvorky/smart_open": [
+        "Other"
+    ],
     "pivotal-legacy/PivotalCoreKit": [
         "Other"
     ],
@@ -14289,12 +14292,6 @@
         "Other"
     ],
     "pkulak/roku-http": [
-        "Other"
-    ],
-    "pkwenda/notion-site": [
-        "Other"
-    ],
-    "pkwenda/notion-website-builder": [
         "Other"
     ],
     "plasma-umass/scalene": [
