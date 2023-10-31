@@ -1881,7 +1881,7 @@
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
-* [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+* [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 * [marcosgriselli/EasyTransitions](https://github.com/marcosgriselli/EasyTransitions): A simple way to create custom interactive UIViewController transitions
 * [gdavila/easyVmaf](https://github.com/gdavila/easyVmaf): Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically
 * [Eyevinn/easyvmaf_s3](https://github.com/Eyevinn/easyvmaf_s3): A modification of easyVmaf to run on files from an S3-bucket
@@ -2785,7 +2785,7 @@
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 * [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [mdh34/hackup](https://github.com/mdh34/hackup): Read Hacker News from the desktop
-* [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP for iOS, macOS and tvOS.
+* [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 * [linkedin/Hakawai](https://github.com/linkedin/Hakawai): A powerful, extensible UITextView.
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
 * [chrisjohnson00/handbrake-watcher-chart](https://github.com/chrisjohnson00/handbrake-watcher-chart): A helm chart to deploy a file watcher that creates k8s jobs for handbrake conversions
@@ -3825,7 +3825,7 @@
 * [essential61/mp4analyser](https://github.com/essential61/mp4analyser): mp4 file analyser written in Python
 * [gpac/mp4box.js](https://github.com/gpac/mp4box.js): JavaScript version of GPAC's MP4Box tool
 * [MasayukiSuda/Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android): This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
-* [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff): Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info, mp4ff-pslister, mp4ff-nallister, mp4ff-wvttlister, and mp4ff-crop tools as well as example code.
+* [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff): Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.
 * [kevinGodell/mp4frag](https://github.com/kevinGodell/mp4frag): Parser that works with ffmpeg to read piped data and fragment mp4 into an initialization segment and media segments. It can also get the codec info and generate an fmp4 HLS m3u8 playlist.
 * [mozilla/mp4parse-rust](https://github.com/mozilla/mp4parse-rust): Parser for ISO Base Media Format aka video/mp4 written in Rust.
 * [sannies/mp4parser](https://github.com/sannies/mp4parser): A Java API to read, write and create MP4 files
@@ -5018,7 +5018,7 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive now is the industry leading SCTE-35 decoder and encoder. Used in production daily around  the world.  #1 funtime SCTE-35.
+* [futzu/scte35-threefive](https://github.com/futzu/scte35-threefive): threefive is the industry leading SCTE-35 decoder and encoder. Used in production daily by super cool folks around  the world.  threefive is SCTE-35 for the people.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
@@ -6041,7 +6041,7 @@
 * [TrafeX/videotranscoder](https://github.com/TrafeX/videotranscoder): Wrapper around ffmpeg to transcode media to Apple's ProRes codec
 * [wangda8791/VideoTranscoder](https://github.com/wangda8791/VideoTranscoder): VideoTranscoder, desktop video application based on ffmpeg binary
 * [cash2one/VideoTranscoding-Backend](https://github.com/cash2one/VideoTranscoding-Backend): This application transcode a video that you send on all formats what you want and diferent resolutions.
-* [gurrutia/videoxt](https://github.com/gurrutia/videoxt): Extract audio, clips, frames and create gifs from a video.
+* [gurrutia/videoxt](https://github.com/gurrutia/videoxt): Extract audio, individual frames, short clips and GIFs from videos.
 * [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear): A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 * [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio): FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
 * [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger): 📼 Merge video & audio files via CLI
@@ -6342,7 +6342,7 @@
 * [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 * [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr): Effortlessly synchronize UserDefaults over iCloud.
 * [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet): ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-* [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server): Image, video and audio processing/streaming server
+* [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server): an open-sourced alternative to cloudinary [video streaming done ✅, image/audio under dev  🔨 ]
 * [skylerlee/zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme): Another :star: theme for oh-my-zsh
 * [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): Your One-Stop Publication Workbench
 * [Zewo/Zewo](https://github.com/Zewo/Zewo): Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
