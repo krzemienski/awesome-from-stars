@@ -1218,8 +1218,6 @@
 * [clappr/clappr-plugins](https://github.com/clappr/clappr-plugins): Main plugins for the Clappr project
 * [clappr/clappr-stats](https://github.com/clappr/clappr-stats): A clappr plugin to report playback statuses (timers: session, buffering, watch and counters: play, pause, error, fps)
 * [elonen/clapshot](https://github.com/elonen/clapshot): Self hosted web based collaborative video review tool
-* [yichengchen/clashX](https://github.com/yichengchen/clashX): None
-* [SpongeNobody/Clashy](https://github.com/SpongeNobody/Clashy): A GUI proxy client for Windows / Mac / Ubuntu Desktop based on Clash and Electron. Windows / Mac / Ubuntu 适用的Clash客户端.
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
@@ -1864,7 +1862,7 @@
 * [christophetd/duplicacy-autobackup](https://github.com/christophetd/duplicacy-autobackup): :floppy_disk: Painless automated backups to multiple storage providers with Docker and duplicacy.
 * [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 * [philhansen/dvbsubrip](https://github.com/philhansen/dvbsubrip): A python script for extracting DVB image based subtitles from TS recordings.
-* [iterative/dvc](https://github.com/iterative/dvc): 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
+* [iterative/dvc](https://github.com/iterative/dvc): 🦉 ML Experiments Management with Git
 * [LA1TV/DVR-Bridge-Service](https://github.com/LA1TV/DVR-Bridge-Service): A service which records one or more hls streams simultaneously and re-serves them as a different hls streams.
 * [Aniket965/Dynamic-Github-Profile](https://github.com/Aniket965/Dynamic-Github-Profile): Show dynamic Images on our GitHub profile special repository
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
@@ -1982,7 +1980,7 @@
 * [Entware/Entware](https://github.com/Entware/Entware): Ultimate repo for embedded devices
 * [envoyproxy/envoy](https://github.com/envoyproxy/envoy): Cloud-native high-performance edge/middle/service proxy
 * [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol): Easy GPU switching for Nvidia Optimus laptops under Linux
-* [ALLATRA-IT/ephyr](https://github.com/ALLATRA-IT/ephyr): Self-hosted server solution for video streaming powered by Rust, SRS ad FFmpeg
+* [freelance888/ephyr](https://github.com/freelance888/ephyr): Self-hosted server solution for video streaming powered by Rust, SRS ad FFmpeg
 * [epiclabs-io/epic-video-comparator](https://github.com/epiclabs-io/epic-video-comparator): Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
 * [epiclabs-io/epic-video-player](https://github.com/epiclabs-io/epic-video-player): JS library to wrap different video libraries.
 * [dmarmor/epichrome](https://github.com/dmarmor/epichrome): An application and Chrome extension for creating web-based applications that work like standalone Mac apps.
@@ -2405,6 +2403,7 @@
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
 * [magdalene/fly-background-jobs](https://github.com/magdalene/fly-background-jobs): Demo implementation of running background jobs on Fly.io machines
 * [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+* [fmhy/FMHY](https://github.com/fmhy/FMHY): /r/FREEMEDIAHECKYEAH
 * [tonydeng/fmj](https://github.com/tonydeng/fmj): FMJ (FFMpeg for Java)。通过Java调用FFMpeg命令的方式来对音视频进行处理（获取信息、截图等等）。
 * [unifiedstreaming/fmp4-ingest](https://github.com/unifiedstreaming/fmp4-ingest): Repository on shared work on developing a fragmented MPEG-4 ingest specification
 * [Eyevinn/fmp4-js](https://github.com/Eyevinn/fmp4-js): A Javascript library to parse ISO Base Media File Format (MPEG-4 Part 12)
@@ -2482,6 +2481,7 @@
 * [swisspol/GCDWebServer](https://github.com/swisspol/GCDWebServer): The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server)
 * [diego3g/gcloud-node-video-transcoding](https://github.com/diego3g/gcloud-node-video-transcoding): 📹🔥 Transcode Google Cloud Storage video files with Node.js and FFmpeg
 * [carousell/GCP-Bill-Analyzer](https://github.com/carousell/GCP-Bill-Analyzer): Compare your GCP bills across months
+* [fsouza/gcs-helper-vod-module-example](https://github.com/fsouza/gcs-helper-vod-module-example): Example of nginx-vod-module + gcs-helper.
 * [pendo-io/gcs-s3-sync](https://github.com/pendo-io/gcs-s3-sync): A Google Cloud Function to sync files from a GCS bucket into an S3 bucket
 * [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 * [prasmussen/gdrive](https://github.com/prasmussen/gdrive): Google Drive CLI Client
@@ -3846,7 +3846,7 @@
 * [jwplayer/mpegdash](https://github.com/jwplayer/mpegdash): DASH manifest generation and validation in Python
 * [MPEGDASHPlayer/MPEGDASH-iOS-Player](https://github.com/MPEGDASHPlayer/MPEGDASH-iOS-Player): The MPEG-DASH Player iOS Application
 * [thmatuza/MPEGDASHAVPlayerDemo](https://github.com/thmatuza/MPEGDASHAVPlayerDemo): AVPlayer demo to play MPEG-DASH
-* [sitkevij/mpi](https://github.com/sitkevij/mpi): Rust-based MPEG-4 box inspector with TOML output.
+* [sitkevij/mpn](https://github.com/sitkevij/mpn): Rust-based MPEG-4 box inspector with TOML output.
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 * [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android): #mpv-android @ libera.chat
 * [davidde/mpv-autosub](https://github.com/davidde/mpv-autosub): Fully automatic subtitle downloading for the MPV media player
@@ -3974,6 +3974,7 @@
 * [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module): NGINX-based Media Streaming Server
 * [coopernurse/nginx-s3-proxy](https://github.com/coopernurse/nginx-s3-proxy): nginx compiled with aws-auth support, suitable for S3 reverse proxy usage
 * [voltan/nginx-stream](https://github.com/voltan/nginx-stream): Video streaming server that supports RTMP and VOD and HLS output
+* [trgino/nginx-streamer-ubuntu](https://github.com/trgino/nginx-streamer-ubuntu): Shell script for nginx server install and configuration for VOD and HLS streaming
 * [arut/nginx-ts-module](https://github.com/arut/nginx-ts-module): NGINX MPEG-TS Live Module
 * [kaltura/nginx-vod-module](https://github.com/kaltura/nginx-vod-module): NGINX-based MP4 Repackager
 * [nytimes/nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker): Docker image for nginx with Kaltura's VoD module used by The New York Times
@@ -5367,6 +5368,7 @@
 * [jtvberg/StreamDock](https://github.com/jtvberg/StreamDock): Streaming service viewer.
 * [phily245/streamer](https://github.com/phily245/streamer): A docker image which provides live video stream receiving and broadcasting with an optional, fully customisable authentication pugin system via RTMP and HLS. Each stream is also automatically recorded and converted to an MP4 to allow for re-broadcasting and re-distribution.
 * [riltech/streamer](https://github.com/riltech/streamer): Go Package built around spinning up streaming processes
+* [keepwalking86/streaming](https://github.com/keepwalking86/streaming): Deploying Media Streaming Server
 * [aerogus/streaming-cluster](https://github.com/aerogus/streaming-cluster): Serveur de streaming vidéo à haute disponibilité et extensible
 * [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5): Testbed examples for Red5 Pro HTML SDK usage
 * [red5pro/streaming-ios](https://github.com/red5pro/streaming-ios): This repository contains a simple project with a number of iOS examples that can be used for testing and reference.

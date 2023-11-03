@@ -110,9 +110,6 @@
     "AK1194/Video-Compression-motion-estimation-block-video-encoder": [
         "Other"
     ],
-    "ALLATRA-IT/ephyr": [
-        "Other"
-    ],
     "AMD-OSX/AMD_Vanilla": [
         "Other"
     ],
@@ -3561,9 +3558,6 @@
         "Other"
     ],
     "SpongeBobSun/Prodigal-iOS": [
-        "Other"
-    ],
-    "SpongeNobody/Clashy": [
         "Other"
     ],
     "SquaredTiki/Dringend-Issues": [
@@ -8624,6 +8618,9 @@
     "flyteorg/flyte": [
         "Other"
     ],
+    "fmhy/FMHY": [
+        "Other"
+    ],
     "fmujakitz/thinkpad-thermal": [
         "Other"
     ],
@@ -8693,6 +8690,9 @@
     "fraunhoferhhi/vvenc": [
         "Other"
     ],
+    "freelance888/ephyr": [
+        "Other"
+    ],
     "frenck/awesome-home-assistant": [
         "Other"
     ],
@@ -8706,6 +8706,9 @@
         "Other"
     ],
     "fsaragoca/fastlane-plugin-changelog_generator": [
+        "Other"
+    ],
+    "fsouza/gcs-helper-vod-module-example": [
         "Other"
     ],
     "fsouza/s3-upload-proxy": [
@@ -10899,6 +10902,9 @@
         "Other"
     ],
     "keel-hq/keel": [
+        "Other"
+    ],
+    "keepwalking86/streaming": [
         "Other"
     ],
     "kees/transcode": [
@@ -15956,7 +15962,7 @@
     "sitkevij/hex": [
         "Other"
     ],
-    "sitkevij/mpi": [
+    "sitkevij/mpn": [
         "Other"
     ],
     "siyuan-note/siyuan": [
@@ -17232,6 +17238,9 @@
         "Other"
     ],
     "trekhleb/learn-python": [
+        "Other"
+    ],
+    "trgino/nginx-streamer-ubuntu": [
         "Other"
     ],
     "trimstray/the-book-of-secret-knowledge": [
@@ -18534,9 +18543,6 @@
         "Other"
     ],
     "yermak/AudioBookConverter": [
-        "Other"
-    ],
-    "yichengchen/clashX": [
         "Other"
     ],
     "yigiterinc/video-streaming-over-http": [
