@@ -551,6 +551,7 @@
 * [DolbyIO/awesome-audio](https://github.com/DolbyIO/awesome-audio): A curated list of awesome audio technology resources for developers
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome): A curated list of awesome curated lists of many topics.
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome): :octocat: A a curated list of curated lists of awesome lists.
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 * [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws): A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 * [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash): A curated list of delightful Bash scripts and resources.
 * [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -602,6 +603,7 @@
 * [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV): :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 * [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
+* [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding): List of data-hoarding related tools
 * [academic/awesome-datascience](https://github.com/academic/awesome-datascience): :memo: An awesome Data Science repository to learn and apply for real world problems.
 * [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools): Everything that makes working with databases easier
 * [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning): A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -869,6 +871,7 @@
 * [rubenochiavone/awesomeness](https://github.com/rubenochiavone/awesomeness): :sunglasses: All awesome curated lists from GitHub
 * [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts): A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 * [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch): :mag: Search all awesome lists in seconds.
+* [lockys/AwesomeSearch2021](https://github.com/lockys/AwesomeSearch2021): 🔍 2021 Awesome Search 
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo): Cool open source projects. Choose your project and get involved in Open Source development now.
 * [Eyevinn/awmanager](https://github.com/Eyevinn/awmanager): Of course we need an AW manager
 * [nodes-vapor/aws](https://github.com/nodes-vapor/aws): Swift wrapper around AWS API
@@ -1513,11 +1516,12 @@
 * [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 * [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws): AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 * [DataDog/datadogpy](https://github.com/DataDog/datadogpy): The Datadog Python library
+* [evilsh3ll/datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown): None
 * [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator): Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 * [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 * [unsplash/datasets](https://github.com/unsplash/datasets): 🎁  4,800,000+ Unsplash images made available for research and machine learning
 * [ishkawa/DataSourceKit](https://github.com/ishkawa/DataSourceKit): Declarative, testable data source of UICollectionView and UITableView.
-* [tchapi/davis](https://github.com/tchapi/davis): 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap, initially inspired by Baïkal.
+* [tchapi/davis](https://github.com/tchapi/davis): 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 5, initially inspired by Baïkal.
 * [cstack/db_tutorial](https://github.com/cstack/db_tutorial): Writing a sqlite clone from scratch in C
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -2488,6 +2492,7 @@
 * [vitalyrodnenko/geeknote](https://github.com/vitalyrodnenko/geeknote): Console client for Evernote.
 * [generate/generate](https://github.com/generate/generate): A new command line tool and developer framework for scaffolding out GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either.
 * [centic9/generate-and-send-ssh-key](https://github.com/centic9/generate-and-send-ssh-key): Script to automate the setup of ssh-public/private-key authentication to avoid some common pitfalls
+* [orsinium-labs/generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness): List of autogenerated awesome lists.
 * [expressjs/generator](https://github.com/expressjs/generator): Express' application generator
 * [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list): :sunglasses: Yeoman generator for GitHub awesome lists
 * [sindresorhus/generator-electron](https://github.com/sindresorhus/generator-electron): Scaffold out an Electron app boilerplate
@@ -4201,7 +4206,7 @@
 * [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides): Create markdown-based reveal.js presentations in Obsidian
 * [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin): Allow you to access your calibre libraries and read books directly in Obsidian.
 * [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin): A plugin to edit and view Excalidraw drawings in Obsidian
-* [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher): Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
+* [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher): Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 * [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer): Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 * [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban): Create markdown-backed Kanban boards in Obsidian.
 * [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr): Effortlessly save and organize your web links in Obsidian
@@ -5128,6 +5133,7 @@
 * [simplejson/simplejson](https://github.com/simplejson/simplejson): simplejson is a simple, fast, extensible JSON encoder/decoder for Python 
 * [SimpleSSAI/SimpleSSAI](https://github.com/SimpleSSAI/SimpleSSAI): Simple API-driven Server Side Ad Insertion(SSAI). An easy to use solution for stitching Ads into content to protect ad monitization
 * [leixiaohua1020/simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile): ffmpeg examples in Android / IOS / WinPhone
+* [leixiaohua1020/simplest_ffmpeg_player](https://github.com/leixiaohua1020/simplest_ffmpeg_player): the simplest video player based on FFmpeg
 * [leixiaohua1020/simplest_ffmpeg_streamer](https://github.com/leixiaohua1020/simplest_ffmpeg_streamer): Simplest streamer based on FFmpeg
 * [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM): Sample code for Virtualization framework
 * [apptainer/singularity](https://github.com/apptainer/singularity): Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
@@ -5703,6 +5709,7 @@
 * [taphouseio/TPHCloudAnalytics](https://github.com/taphouseio/TPHCloudAnalytics): None
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): :zap: A Fast, Extensible Progress Bar for Python and CLI
 * [maquannene/Track](https://github.com/maquannene/Track): Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU.
+* [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist): Track 500+ Awesome List Updates, Track it - not just star it!
 * [msdeep14/trackGitHubStars](https://github.com/msdeep14/trackGitHubStars): python script to find top 10 starred repos of user
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [CVJoint/traefik2](https://github.com/CVJoint/traefik2): Traefik v2: docker-compose repo
@@ -5859,7 +5866,7 @@
 * [bcpierce00/unison](https://github.com/bcpierce00/unison): Unison file synchronizer
 * [rokudev/unit-testing-framework](https://github.com/rokudev/unit-testing-framework): Tool for automating and testing Roku channels
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
-* [ubports/unity8](https://github.com/ubports/unity8): The operating environment for everywhere.
+* [ubports/unity8](https://github.com/ubports/unity8): The operating environment for everywhere. Lomiri development has moved to https://gitlab.com/ubports/development/core/lomiri
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
@@ -5999,6 +6006,7 @@
 * [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader): A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
 * [kudlav/videoeditor](https://github.com/kudlav/videoeditor): Web Based Video Editor Using MLT Framework, Bachelor thesis
 * [kudlav/videoeditor-doc](https://github.com/kudlav/videoeditor-doc): Bachelor thesis for videoeditor repository.
+* [leixiaohua1020/VideoEye](https://github.com/leixiaohua1020/VideoEye): open-source stream analysis software
 * [videoflow/videoflow](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 * [antiboredom/videogrep](https://github.com/antiboredom/videogrep): automatic video supercuts with python
 * [videogular/videogular](https://github.com/videogular/videogular): The HTML5 video player for AngularJS
