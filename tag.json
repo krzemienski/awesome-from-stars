@@ -7964,9 +7964,6 @@
     "electron/electron": [
         "Other"
     ],
-    "electron/electron-packager": [
-        "Other"
-    ],
     "electron/electron-quick-start": [
         "Other"
     ],

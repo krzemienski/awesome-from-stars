@@ -1931,7 +1931,6 @@
 * [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate): Boilerplate to kickstart creating an app with Electron
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music):  网易云音乐 Electron  客户端
-* [electron/electron-packager](https://github.com/electron/electron-packager): Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 * [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground): This is a project to quickly experiment and learn electron related APIs
 * [electron/electron-quick-start](https://github.com/electron/electron-quick-start): Clone to try a simple Electron app
 * [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate): A Foundation for Scalable Cross-Platform Apps
@@ -2995,7 +2994,7 @@
 * [waylybaye/HyperAppScripts](https://github.com/waylybaye/HyperAppScripts): None
 * [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS): In-app design review tool to inspect measurements, attributes, and animations.
 * [Hyperline/hyperline](https://github.com/Hyperline/hyperline): ✨ Status line plugin for Hyper ✨
-* [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): Hyperminimal zsh prompt
+* [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): None
 * [hyprwm/Hypr](https://github.com/hyprwm/Hypr): Hypr is a tiling window manager written in modern C++.
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix): Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -3244,7 +3243,7 @@
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [juju/juju](https://github.com/juju/juju): Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
-* [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab
+* [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab. This is NOT a bootloader
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
 * [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 * [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab): JupyterLab computational environment.
@@ -4677,7 +4676,7 @@
 * [glideapps/quicktype-xcode](https://github.com/glideapps/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr):  🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users ! 
+* [StanGirard/quivr](https://github.com/StanGirard/quivr):  🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users ! 
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
