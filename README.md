@@ -3484,6 +3484,7 @@
 * [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper): A library that scrapes Linkedin for user data
 * [zeshuaro/LinkedRW](https://github.com/zeshuaro/LinkedRW): A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file
 * [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize, and preserve webpages.
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources): None
@@ -5671,7 +5672,7 @@
 * [NationalSecurityAgency/timely](https://github.com/NationalSecurityAgency/timely): Accumulo backed time series database
 * [naoty/Timepiece](https://github.com/naoty/Timepiece): Intuitive date handling in Swift
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
-* [tinacms/tinacms](https://github.com/tinacms/tinacms): A fully open-source headless CMS that supports Git and Visual Editing
+* [tinacms/tinacms](https://github.com/tinacms/tinacms): A fully open-source headless CMS that supports Markdown and Visual Editing
 * [JohnHansonTheDev/Tinder-Auto-Swipe](https://github.com/JohnHansonTheDev/Tinder-Auto-Swipe): Greasemonkey script( Auto swiper for tinder )
 * [Aakash074/Tinder-Bumble-Auto-Match-Script](https://github.com/Aakash074/Tinder-Bumble-Auto-Match-Script): Use this script to automate matching in tinder/bumble.
 * [my3t/Tinder-OkCupid-Bumble-Auto-Swipe](https://github.com/my3t/Tinder-OkCupid-Bumble-Auto-Swipe): None
@@ -6146,8 +6147,8 @@
 * [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin): Free and Beautiful Vue 3 Admin Template
 * [vulhub/vulhub](https://github.com/vulhub/vulhub): Pre-Built Vulnerable Environments Based on Docker-Compose
 * [vup-app/vup](https://github.com/vup-app/vup): None
-* [fraunhoferhhi/vvdec](https://github.com/fraunhoferhhi/vvdec): Fraunhofer Versatile Video Decoder (VVdeC)
-* [fraunhoferhhi/vvenc](https://github.com/fraunhoferhhi/vvenc): Fraunhofer Versatile Video Encoder (VVenC)
+* [fraunhoferhhi/vvdec](https://github.com/fraunhoferhhi/vvdec): VVdeC, the Fraunhofer Versatile Video Decoder
+* [fraunhoferhhi/vvenc](https://github.com/fraunhoferhhi/vvenc): VVenC, the Fraunhofer Versatile Video Encoder
 * [vyos/vyatta-cfg-system](https://github.com/vyos/vyatta-cfg-system): Vyatta system-level configuration templates/scripts
 * [vyos/vyos-build](https://github.com/vyos/vyos-build): VyOS image build scripts
 * [vyos/vyos-documentation](https://github.com/vyos/vyos-documentation): VyOS readthedocs
@@ -6378,6 +6379,6 @@
 
 # Utility
 
-* [jgraph/drawio](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+* [jgraph/drawio](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming.
 
 
