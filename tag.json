@@ -5786,6 +5786,9 @@
     "bergercookie/syncall": [
         "Other"
     ],
+    "bergkamp/video-comparison-player": [
+        "Other"
+    ],
     "better/jsonschema2db": [
         "Other"
     ],
@@ -8472,6 +8475,9 @@
         "Other"
     ],
     "fedecalendino/pysub-parser": [
+        "Other"
+    ],
+    "federicoserraino/AV1-performance-analysis": [
         "Other"
     ],
     "feedsbrain/drm-tools": [
@@ -14417,6 +14423,9 @@
     "pop-os/system76-scheduler": [
         "Other"
     ],
+    "porcino/Av1ador": [
+        "Other"
+    ],
     "porjo/youtubeuploader": [
         "Other"
     ],
@@ -17628,6 +17637,9 @@
         "Other"
     ],
     "vapoursynth/vapoursynth": [
+        "Other"
+    ],
+    "vapoursynth/vsrepo": [
         "Other"
     ],
     "varietywalls/variety": [
