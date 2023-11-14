@@ -990,6 +990,7 @@
 * [bitmovin/bitmovin-player-ui](https://github.com/bitmovin/bitmovin-player-ui): The Bitmovin Adaptive Streaming Player UI
 * [bitmovin/bitmovin-player-web-samples](https://github.com/bitmovin/bitmovin-player-web-samples): Showcases build around the Bitmovin Adaptive Streaming Player, demonstrating usage and capabilities of the HTML5 based HLS and MPEG-DASH player, as well as the Flash based Fallback.
 * [huiping192/BitrateGraphGenerator](https://github.com/huiping192/BitrateGraphGenerator): Bitrate Graph Generator is a web application that generates graphs of video and audio bitrates from a given video URL using the plotbitrate library.
+* [XuebingZhao/BitratePlotter](https://github.com/XuebingZhao/BitratePlotter): A simple Python script to plot video bitrate graph using ffprobe, thus support the newest codec like HEVC, AV1
 * [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine -
 * [toshi0383/Bitrise-iOS](https://github.com/toshi0383/Bitrise-iOS): Client iOS app for bitrise.io 🚀
 * [bitrise-io/bitrise-workflow-editor](https://github.com/bitrise-io/bitrise-workflow-editor): Bitrise Workflow Editor
@@ -1132,6 +1133,7 @@
 * [radianttap/CardPresentationController](https://github.com/radianttap/CardPresentationController): Custom UIPresentationController which mimics the behavior of Apple Music UI
 * [Ramotion/cardslider](https://github.com/Ramotion/cardslider): :octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
 * [rust-lang/cargo](https://github.com/rust-lang/cargo): The Rust package manager
+* [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c): build and install C-compatible libraries
 * [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb): A cargo subcommand that generates Debian packages from information in Cargo.toml
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
 * [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1537,7 +1539,7 @@
 * [didi/DDMQ](https://github.com/didi/DDMQ): DDMQ is a distributed messaging product with low latency, high throughput and high availability.
 * [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater): Container to update DNS records periodically with WebUI for many DNS providers
 * [cliffordkleinsr/DE-SRFREN](https://github.com/cliffordkleinsr/DE-SRFREN): Video restoration Processing Pipeline
-* [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get): apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+* [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get): apt-get for .debs published via GitHub or direct download 📦
 * [gesinger/debug-video](https://github.com/gesinger/debug-video): A debugging tool for HLS and DASH
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [segmentio/decibel](https://github.com/segmentio/decibel): A small iOS app for recording office noise dB levels to Datadog.
@@ -1567,6 +1569,7 @@
 * [hasura/demo-apps](https://github.com/hasura/demo-apps): Config to deploy Hasura demo apps using Docker Compose
 * [realeyes-media/demo-encoder](https://github.com/realeyes-media/demo-encoder): A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3
 * [bitmovin/demos](https://github.com/bitmovin/demos): None
+* [goldvideo/demuxer](https://github.com/goldvideo/demuxer): A tool for demux ts/mp4/flv by typescript. Support HEVC/AVC/AAC codec
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 * [5ika/denotion](https://github.com/5ika/denotion): Save Notion pages locally
 * [jh4843/denv-portfolio](https://github.com/jh4843/denv-portfolio): None
@@ -2175,6 +2178,7 @@
 * [intel-media-ci/ffmpeg](https://github.com/intel-media-ci/ffmpeg): Intel developer pre-check staging area for ffmpeg.org contributions.
 * [jiashaokun/ffmpeg](https://github.com/jiashaokun/ffmpeg): 基于FFmpeg的python视频处理包-因疫情影响，工作比较繁忙，心情也没在视频上面再研究，该项目已经搁置，源码很简单，大家可以自己研究一下自己扩展
 * [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg): Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
+* [katana-project/ffmpeg](https://github.com/katana-project/ffmpeg): Low-level Go bindings for FFmpeg libraries.
 * [orkan/ffmpeg](https://github.com/orkan/ffmpeg): Convert your media files quickly with FFmpeg library
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
 * [WritingMinds/ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java): Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android
@@ -2229,6 +2233,7 @@
 * [xiguaxigua/ffmpeg-online](https://github.com/xiguaxigua/ffmpeg-online): An online version of ffmpeg built on ffmpeg.wasm
 * [VCDP/FFmpeg-patch](https://github.com/VCDP/FFmpeg-patch): This repository contains a collection of FFmpeg* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg* framework.
 * [czqasngit/ffmpeg-player](https://github.com/czqasngit/ffmpeg-player): A macOS player base on ffmpeg using OC and Swift.
+* [numberwolf/FFmpeg-PlusPlus](https://github.com/numberwolf/FFmpeg-PlusPlus): 🔥 FFmpeg扩展版本，1.支持OpenGL图形渲染,自定义着色器 滤镜、特效、转场。2.支持FLV+HEVC/AV1/Opus编码解码 🔥  FFmpeg Extension: 1.Support GLSL OpenGL(Filter/Effect/Transition/Shaders); 2. And Transcode FLV with HEVC/AV1/Opus Codec
 * [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python): Python bindings for FFmpeg - with complex filtering support
 * [zsiec/ffmpeg-quality](https://github.com/zsiec/ffmpeg-quality): A docker image that contains ffmpeg w/libvmaf
 * [slhck/ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics): Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF, VIF)
@@ -2665,6 +2670,7 @@
 * [sanathb/go-HLS](https://github.com/sanathb/go-HLS): HLS (HTTP Live Streaming) video transcoding package written in golang for AWS Elastic Transcoder.
 * [allezxandre/go-hls-encoder](https://github.com/allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
 * [imkira/go-libav](https://github.com/imkira/go-libav): Go language bindings for ffmpeg libraries
+* [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
 * [quangngotan95/go-m3u8](https://github.com/quangngotan95/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
 * [abema/go-mp4](https://github.com/abema/go-mp4): Go library for reading and writing MP4 file
 * [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd): Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files
@@ -2751,6 +2757,7 @@
 * [xq-120/GSDMediaCache](https://github.com/xq-120/GSDMediaCache): 边下边播框架for AVPlayer。
 * [wxxsw/GSPlayer](https://github.com/wxxsw/GSPlayer): ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
 * [ziutek/gst](https://github.com/ziutek/gst): Go bindings for GStreamer (retired: currently I don't use/develop this package)
+* [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs): GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
 * [i4tv/gstreamill](https://github.com/i4tv/gstreamill): encoder with hls output based on gstreamer.
 * [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer): 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 
 * [Tencent/GT](https://github.com/Tencent/GT): GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
@@ -2817,6 +2824,7 @@
 * [ContainerSolutions/helm-convert](https://github.com/ContainerSolutions/helm-convert): Convert Helm charts into Kustomize compatible package
 * [fluxcd/helm-operator](https://github.com/fluxcd/helm-operator): Successor: https://github.com/fluxcd/helm-controller — The Flux Helm Operator, once upon a time a solution for declarative Helming.
 * [daemonza/helmet](https://github.com/daemonza/helmet): Helmet is a easy to use Helm repository 
+* [nmalisetty/hems](https://github.com/nmalisetty/hems): Utilizes the power of cloud computing and the latest AV1 codec to stream high quality videos using lower bandwidth than the current industry standards like HEVC (H.265) and AVC (H.264).
 * [malcommac/HermesNetwork](https://github.com/malcommac/HermesNetwork): None
 * [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero): Elegant transition library for iOS & tvOS
 * [rokudev/hero-grid-channel](https://github.com/rokudev/hero-grid-channel): Sample channel with sliding hero row and a grid of content below.
@@ -3466,7 +3474,7 @@
 * [intel/libva](https://github.com/intel/libva): Libva is an implementation for VA-API (Video Acceleration API)
 * [arex1337/lichess-daily-puzzle-slack-app](https://github.com/arex1337/lichess-daily-puzzle-slack-app): This is a Slack app that posts a daily chess puzzle from lichess.org to the Slack channel in which the app is installed.
 * [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker): Find retain cycles / memory leaks sooner.
-* [haikarainen/light](https://github.com/haikarainen/light): GNU/Linux application to control backlights
+* [perkele1989/light](https://github.com/perkele1989/light): GNU/Linux application to control backlights
 * [networknt/light-4j](https://github.com/networknt/light-4j): A fast, lightweight and more productive microservices framework
 * [AbedElazizShe/LightCompressor](https://github.com/AbedElazizShe/LightCompressor): A powerful and easy-to-use video compression library for android uses MediaCodec API.
 * [AbedElazizShe/LightCompressor_iOS](https://github.com/AbedElazizShe/LightCompressor_iOS): A powerful and easy-to-use video compression swift package for iOS.
@@ -3520,6 +3528,7 @@
 * [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch): This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 * [unifiedstreaming/live-demo-cmaf](https://github.com/unifiedstreaming/live-demo-cmaf): Live Demo using Live Media Ingest (Interface1) 
 * [AwakeningSV/live-infrastructure](https://github.com/AwakeningSV/live-infrastructure): Live video transcoding infrastructure
+* [ustoopia/Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash](https://github.com/ustoopia/Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash): This zip file will allow you to start live-streaming in a matter of minutes! Unzip it to any location, preferably a USB drive
 * [aws-solutions/live-streaming-on-aws](https://github.com/aws-solutions/live-streaming-on-aws): The live stream solution is a reference deployment that demonstrates how to deliver highly available live streaming video through an integrated workflow between Elemental Cloud and AWS.
 * [aws-solutions/live-streaming-on-aws-with-amazon-s3](https://github.com/aws-solutions/live-streaming-on-aws-with-amazon-s3): Live streaming on AWS with Amazon S3 automatically configures AWS Elemental MediaLive, Amazon S3 and Amazon CloudFront to ingest, encode, package and deliver a single source live stream through the AWS Cloud. The Solution provides 3 Encoding profiles to support 1080p through 288p HTTP live streaming (HLS) outputs.
 * [scribd/LiveCollections](https://github.com/scribd/LiveCollections): Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.
@@ -3719,6 +3728,7 @@
 * [w3c/mediacapture-record](https://github.com/w3c/mediacapture-record): MediaStream Recording
 * [alfg/mediacast](https://github.com/alfg/mediacast): :tv: Google Cast - Chrome Sender & CAF Player for testing Media Playback
 * [RakambdaOrg/MediaConverter](https://github.com/RakambdaOrg/MediaConverter): Create scripts to convert videos to h265 using ffmpeg
+* [fabquenneville/MediaCurator](https://github.com/fabquenneville/MediaCurator): MediaCurator is a Python command line tool to manage and batch convert a media database to modern codecs like HEVC (x265).
 * [francoism90/mediadb](https://github.com/francoism90/mediadb): Personal streaming service.
 * [francoism90/mediadb-app](https://github.com/francoism90/mediadb-app): Quasar v2 (Vue 3) + TypeScript
 * [francoism90/mediadb-ui](https://github.com/francoism90/mediadb-ui): MediaDB UI for https://github.com/francoism90/mediadb
@@ -3898,6 +3908,7 @@
 * [brpaz/my-linux-setup](https://github.com/brpaz/my-linux-setup): My Fedora Linux list of installed applications and Ansible provision scripts
 * [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac): Apps/tools I use on macOS
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
+* [sankaranramantn/myprojects](https://github.com/sankaranramantn/myprojects): Drag and Drop GUI which converts any ffmpeg supported mp4/mkv into AV1 using Nvidia 40 series av1_nvenc encoder, code can be modified to use hevc_nvenc or any AMF/qsv encoders
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
 * [swl-x/MystiQ](https://github.com/swl-x/MystiQ): Qt5/C++ FFmpeg Media Converter 
@@ -3909,6 +3920,7 @@
 * [Eyevinn/nalu-chunker](https://github.com/Eyevinn/nalu-chunker): A transform stream which chunks incoming AVC/H264 bitstream into NAL unit chunks.
 * [jethrocarr/namedmanager](https://github.com/jethrocarr/namedmanager): AGPL web-based DNS management interface in PHP
 * [narkdown/narkdown-py](https://github.com/narkdown/narkdown-py): A tool to use Notion as a Markdown editor.
+* [WHTJEON/narrowvine](https://github.com/WHTJEON/narrowvine): The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)
 * [NAStool/nas-tools](https://github.com/NAStool/nas-tools): NAS媒体库管理工具
 * [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie): Natalie - Storyboard Code Generator (for Swift)
 * [Palethorn/native-adaptive-streaming](https://github.com/Palethorn/native-adaptive-streaming): Extension that allows native HLS and Mpeg-DASH playback in chrome browser
@@ -4293,7 +4305,7 @@
 * [webmproject/opus-dash](https://github.com/webmproject/opus-dash): Specification for Encapsulating Opus Audio in ISO-BMFF Container
 * [keshavbhatt/orange](https://github.com/keshavbhatt/orange): Complete SoundCloud Client for Linux Desktop
 * [Yannis4444/Orange-Share](https://github.com/Yannis4444/Orange-Share): A small python server that accepts requests from an Apple shortcut to allow sharing all sorts of media from iOS with any desktop OS. It allows sending content right from the share sheet - similar to AirDrop between Apple Devices
-* [orcasound/orcanode](https://github.com/orcasound/orcanode): Software for live-streaming and recording lossy or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets. :star:
+* [orcasound/orcanode](https://github.com/orcasound/orcanode): Software for live-streaming and recording lossy (AAC) or lossless compressed audio (HLS, DASH, FLAC) via AWS S3 buckets. :star:
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [RadekMolenda/org-notion](https://github.com/RadekMolenda/org-notion): keep notion and org in sync #notion #org-mode
 * [causefx/Organizr](https://github.com/causefx/Organizr): HTPC/Homelab Services Organizer - Written in PHP
@@ -4379,6 +4391,7 @@
 * [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit): Universal API for request permission and get its statuses.
 * [Yalantis/Persei](https://github.com/Yalantis/Persei): Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
 * [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+* [AgustinSRG/PersonalMediaVault](https://github.com/AgustinSRG/PersonalMediaVault): Web application to store media files (video, audio and pictures) in an encrypted storage, and visualize them using a web browser.
 * [imgly/pesdk-ios-build](https://github.com/imgly/pesdk-ios-build): PhotoEditor SDK: A fully customizable photo editor for your app.
 * [pfsense/pfsense](https://github.com/pfsense/pfsense): Main repository for pfSense
 * [acoustid/pg_acoustid](https://github.com/acoustid/pg_acoustid): PostgreSQL extension for working with AcoustID fingerprints
@@ -4410,6 +4423,7 @@
 * [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage): A thread safe, performant, feature rich image fetcher
 * [pypa/pip](https://github.com/pypa/pip): The Python package installer
 * [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream): Connect APIs, remarkably fast.  Free for developers.
+* [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless): An open-source computer vision framework to build and deploy apps in minutes without worrying about multimedia pipelines
 * [tektoncd/pipeline](https://github.com/tektoncd/pipeline): A cloud-native Pipeline resource.
 * [ENCODE-DCC/pipeline-container](https://github.com/ENCODE-DCC/pipeline-container): Containerization infrastructure for ENCODE analysis pipelines
 * [dkashin/pipencoder-base](https://github.com/dkashin/pipencoder-base): GUI and automation for media transcoding and streaming CLI tools
@@ -4452,6 +4466,7 @@
 * [microsoft/plcrashreporter](https://github.com/microsoft/plcrashreporter): Reliable, open-source crash reporting for iOS, macOS and tvOS
 * [alextall/plexify](https://github.com/alextall/plexify): Transcode video files to lower bitrates based on resolution
 * [tada/pljava](https://github.com/tada/pljava): PL/Java is a free add-on module that brings Java™ Stored Procedures, Triggers, Functions, Aggregates, Operators, Types, etc., to the PostgreSQL™ backend.
+* [zeroepoch/plotbitrate](https://github.com/zeroepoch/plotbitrate): FFProbe Bitrate Graph
 * [flutter/plugins](https://github.com/flutter/plugins): Plugins for Flutter maintained by the Flutter team
 * [swc-project/plugins](https://github.com/swc-project/plugins): Plugins for swc, written in rust
 * [PlumMediaCenter/PlumMediaCenter.RokuOld](https://github.com/PlumMediaCenter/PlumMediaCenter.RokuOld): Source code for a Roku Application that interfaces with an instance of PlumMediaServer
@@ -4679,7 +4694,7 @@
 * [glideapps/quicktype-xcode](https://github.com/glideapps/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr):  🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users ! 
+* [StanGirard/quivr](https://github.com/StanGirard/quivr):  🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs 
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4710,7 +4725,7 @@
 * [retifrav/rclone-rc-web-gui](https://github.com/retifrav/rclone-rc-web-gui): Web GUI for rclone rc
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
 * [vncloudsco/rclonebackup](https://github.com/vncloudsco/rclonebackup): Script Auto Backup To Cloud Using Rclone
-* [ZetaoYang/RcloneBrowser](https://github.com/ZetaoYang/RcloneBrowser): Simple cross platform GUI for rclone | Mirror of https://github.com/JanHellwig/RcloneBrowser and https://github.com/kapitainsky/RcloneBrowser
+* [holazt/RcloneBrowser](https://github.com/holazt/RcloneBrowser): Simple cross platform GUI for rclone | Mirror of https://github.com/JanHellwig/RcloneBrowser and https://github.com/kapitainsky/RcloneBrowser
 * [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser): Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 * [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser): Simple cross platform GUI for rclone
 * [romancin/rclonebrowser-docker](https://github.com/romancin/rclonebrowser-docker): A repository for creating a docker container including RClone Browser with GUI interface.
@@ -4929,11 +4944,13 @@
 * [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys): moved to meh/rust-ffmpeg
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
 * [chrisballinger/rust-framework-template](https://github.com/chrisballinger/rust-framework-template): Template for creating cross-platform Rust libraries as iOS/macOS/tvOS/watchOS Swift frameworks.
+* [polyfloyd/rust-id3](https://github.com/polyfloyd/rust-id3): A rust library for reading and writing ID3 metadata
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop, and alternative to TeamViewer.
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings): :crab: Small exercises to get you used to reading and writing Rust code!
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer
 * [CCecilia/rusty-hls](https://github.com/CCecilia/rusty-hls): HLS utility written in rust
+* [CCExtractor/rusty_ffmpeg](https://github.com/CCExtractor/rusty_ffmpeg): FFI bindings for FFmpeg inner libraries.
 * [kevincox/rustymedia](https://github.com/kevincox/rustymedia): A Transcoding DLNA Server
 * [canalplus/rx-player](https://github.com/canalplus/rx-player): DASH/Smooth HTML5 Video Player
 * [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -5387,6 +5404,7 @@
 * [streamlinevideo/streamline](https://github.com/streamlinevideo/streamline): A reference system for end to end live streaming video. Capture, encode, package, uplink, origin, CDN, and player. 
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui): A multi platform Twitch.tv browser for Streamlink
+* [streamlit/streamlit](https://github.com/streamlit/streamlit): Streamlit — A faster way to build and share data apps.
 * [video-dev/streamlyser](https://github.com/video-dev/streamlyser): An exploration into synthetic HLS and DASH monitoring, and conformance testing.
 * [Neeraj319/streammmm](https://github.com/Neeraj319/streammmm): A twitch like platform.
 * [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): RTMP/RTMPS and SRT live streaming libraries for Android
@@ -5505,7 +5523,7 @@
 * [khoren93/SwiftHub](https://github.com/khoren93/SwiftHub): GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [LeonardoCardoso/SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview): It makes a preview from an URL, grabbing all the information such as title, relevant texts and images.
 * [realm/SwiftLint](https://github.com/realm/SwiftLint): A tool to enforce Swift style and conventions.
-* [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation): 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
+* [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation): 🛰 Async/Await CoreLocation wrapper
 * [gholt/swiftly](https://github.com/gholt/swiftly): Client for Swift - NOTE: The master branch is current dev work. Depending on how adventurous you are, you might want to switch to the "stable" branch if you're running from a git clone.
 * [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages): A very flexible message bar for UIKit and SwiftUI.
 * [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode): An Xcode extension (plugin) to generate Swift test doubles automatically.
@@ -5822,6 +5840,7 @@
 * [ubports/ubports-installer](https://github.com/ubports/ubports-installer): A simple tool to install Ubuntu Touch on UBports devices
 * [JREAM/ubuntu-cheatsheet](https://github.com/JREAM/ubuntu-cheatsheet): Ubuntu Terminal Cheatsheet
 * [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner): Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.
+* [magiclen/ubuntu-ffffmpeg](https://github.com/magiclen/ubuntu-ffffmpeg): Full-featured FFmpeg on Ubuntu. Use Docker to compile.
 * [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make): Easy setup of common tools for developers on Ubuntu.
 * [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android): Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 * [snwh/ubuntu-post-install](https://github.com/snwh/ubuntu-post-install): A set of post-installation shell scripts for Ubuntu
@@ -6304,6 +6323,7 @@
 * [SeungheonOh/xrdm](https://github.com/SeungheonOh/xrdm): X Resouce Database Manager 
 * [ios-utils/XRouter](https://github.com/ios-utils/XRouter): Navigate anywhere in just one line.
 * [xhlove/XstreamDL-CLI](https://github.com/xhlove/XstreamDL-CLI): 命令行版本的HLS/DASH流下载器，支持标准AES-128-CBC解密
+* [Xuno/XunoPlayer-MPV](https://github.com/Xuno/XunoPlayer-MPV): XunoPlayer-MPV is fork of MPV multimedia playback library based on MPlayer/mplayer2 and FFmpeg with a Qt GUI and enhanced user functionality optimized for High Quality 12-bit RGB AV1 & HEVC video.
 * [moshfeu/y2mp3](https://github.com/moshfeu/y2mp3): An Electron app to download youtube playlist
 * [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv): YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
 * [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht): A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.

@@ -173,6 +173,9 @@
     "AgoraIO/Advanced-Interactive-Broadcasting": [
         "Other"
     ],
+    "AgustinSRG/PersonalMediaVault": [
+        "Other"
+    ],
     "Ahmed-Ali/JSONExport": [
         "Other"
     ],
@@ -516,6 +519,9 @@
         "Other"
     ],
     "C0DE-X/hyper-tabby-theme": [
+        "Other"
+    ],
+    "CCExtractor/rusty_ffmpeg": [
         "Other"
     ],
     "CCecilia/HLS-Parser": [
@@ -3929,6 +3935,9 @@
     "Vyshnav2255/Notion-Icons-2.0": [
         "Other"
     ],
+    "WHTJEON/narrowvine": [
+        "Other"
+    ],
     "WHTJEON/widevine-dl": [
         "Other"
     ],
@@ -4019,6 +4028,12 @@
     "Xmader/musescore-downloader": [
         "Other"
     ],
+    "XuebingZhao/BitratePlotter": [
+        "Other"
+    ],
+    "Xuno/XunoPlayer-MPV": [
+        "Other"
+    ],
     "YadominJinta/atilo": [
         "Other"
     ],
@@ -4062,9 +4077,6 @@
         "Other"
     ],
     "ZeroX-DG/SnippetStore": [
-        "Other"
-    ],
-    "ZetaoYang/RcloneBrowser": [
         "Other"
     ],
     "Zettlr/Zettlr": [
@@ -8183,6 +8195,9 @@
     "ethanwharris/gnome-nvidia-extension": [
         "Other"
     ],
+    "etherlabsio/go-m3u8": [
+        "Other"
+    ],
     "etro-js/etro": [
         "Other"
     ],
@@ -8292,6 +8307,9 @@
         "Other"
     ],
     "fabiocaccamo/django-admin-interface": [
+        "Other"
+    ],
+    "fabquenneville/MediaCurator": [
         "Other"
     ],
     "fabric8io/gitcontroller": [
@@ -9083,6 +9101,9 @@
     "gokselkoksal/Lightning": [
         "Other"
     ],
+    "goldvideo/demuxer": [
+        "Other"
+    ],
     "gollum/gollum": [
         "Other"
     ],
@@ -9374,9 +9395,6 @@
     "hadronepoch/python-ffmpeg-video-streaming": [
         "Other"
     ],
-    "haikarainen/light": [
-        "Other"
-    ],
     "haikelfazzani/soundme": [
         "Other"
     ],
@@ -9576,6 +9594,9 @@
         "Other"
     ],
     "hobby-kube/guide": [
+        "Other"
+    ],
+    "holazt/RcloneBrowser": [
         "Other"
     ],
     "holman/dotfiles": [
@@ -10877,6 +10898,9 @@
     "kassoulet/soundconverter": [
         "Other"
     ],
+    "katana-project/ffmpeg": [
+        "Other"
+    ],
     "kathhess/notion-utils": [
         "Other"
     ],
@@ -11897,6 +11921,9 @@
     "ltebean/Live": [
         "Other"
     ],
+    "lu-zero/cargo-c": [
+        "Other"
+    ],
     "lucamattiazzi/url-decorator": [
         "Other"
     ],
@@ -12036,6 +12063,9 @@
         "Other"
     ],
     "magicalpanda/MagicalRecord": [
+        "Other"
+    ],
+    "magiclen/ubuntu-ffffmpeg": [
         "Other"
     ],
     "maguowei/awesome-stars": [
@@ -13391,6 +13421,9 @@
     "nm-l2tp/NetworkManager-l2tp": [
         "Other"
     ],
+    "nmalisetty/hems": [
+        "Other"
+    ],
     "nmcclain/notion-offliner": [
         "Other"
     ],
@@ -13551,6 +13584,9 @@
         "Other"
     ],
     "nubenetes/awesome-kubernetes": [
+        "Other"
+    ],
+    "numberwolf/FFmpeg-PlusPlus": [
         "Other"
     ],
     "numixproject/numix-gtk-theme": [
@@ -14168,6 +14204,9 @@
     "perenecabuto/json_schema_generator": [
         "Other"
     ],
+    "perkele1989/light": [
+        "Other"
+    ],
     "perwendel/spark": [
         "Other"
     ],
@@ -14297,6 +14336,9 @@
     "piotrmski/plaid": [
         "Other"
     ],
+    "pipeless-ai/pipeless": [
+        "Other"
+    ],
     "piskvorky/smart_open": [
         "Other"
     ],
@@ -14382,6 +14424,9 @@
         "Other"
     ],
     "polybar/polybar": [
+        "Other"
+    ],
+    "polyfloyd/rust-id3": [
         "Other"
     ],
     "ponchio/untrunc": [
@@ -15464,6 +15509,9 @@
     "sangwonl/python-mpegdash": [
         "Other"
     ],
+    "sankaranramantn/myprojects": [
+        "Other"
+    ],
     "sanketfirodiya/iOS-learning-resources": [
         "Other"
     ],
@@ -15597,6 +15645,9 @@
         "Other"
     ],
     "sdras/awesome-actions": [
+        "Other"
+    ],
+    "sdroege/gstreamer-rs": [
         "Other"
     ],
     "sdslabs/gasper": [
@@ -16518,6 +16569,9 @@
         "Other"
     ],
     "streamlink/streamlink-twitch-gui": [
+        "Other"
+    ],
+    "streamlit/streamlit": [
         "Other"
     ],
     "streetwriters/notesnook": [
@@ -17562,6 +17616,9 @@
         "Other"
     ],
     "usmannasir/cyberpanel": [
+        "Other"
+    ],
+    "ustoopia/Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash": [
         "Other"
     ],
     "ustwo/brunel": [
@@ -18702,6 +18759,9 @@
         "Other"
     ],
     "zenorocha/alfred-workflows": [
+        "Other"
+    ],
+    "zeroepoch/plotbitrate": [
         "Other"
     ],
     "zerozhoujie/watermark-remove": [
