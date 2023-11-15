@@ -149,6 +149,9 @@
     "AcademySoftwareFoundation/EncodingGuidelines": [
         "Other"
     ],
+    "AdmiralBulldogTv/VodTranscoder": [
+        "Other"
+    ],
     "AdnanHodzic/auto-cpufreq": [
         "Other"
     ],
@@ -2327,6 +2330,9 @@
     "KhaosT/SimpleVM": [
         "Other"
     ],
+    "KhronosGroup/Basis-Universal-Transcoders": [
+        "Other"
+    ],
     "Kidsnd274/Av1anStaxRipWrapper": [
         "Other"
     ],
@@ -2484,6 +2490,9 @@
         "Other"
     ],
     "LiLittleCat/awesome-free-chatgpt": [
+        "Other"
+    ],
+    "Light-Transcoder/light-transcoder": [
         "Other"
     ],
     "Linen-dev/linen.dev": [
@@ -3066,6 +3075,12 @@
         "Other"
     ],
     "PipedreamHQ/pipedream": [
+        "Other"
+    ],
+    "Pirate-Weather/pirate-weather-ha": [
+        "Other"
+    ],
+    "Pirate-Weather/pirateweather": [
         "Other"
     ],
     "PixelCyber/Thor": [
@@ -4472,12 +4487,6 @@
     "alex8088/EvPlayer": [
         "Other"
     ],
-    "alexander0042/pirate-weather-ha": [
-        "Other"
-    ],
-    "alexander0042/pirateweather": [
-        "Other"
-    ],
     "alexanderepstein/Bash-Snippets": [
         "Other"
     ],
@@ -5708,6 +5717,9 @@
     "bcpierce00/unison": [
         "Other"
     ],
+    "bdina/dvr-transcode-daemon": [
+        "Other"
+    ],
     "bdnf/FlaskApp-on-EKS-with-CodePipeline": [
         "Other"
     ],
@@ -5982,6 +5994,9 @@
         "Other"
     ],
     "bnb/awesome-hyper": [
+        "Other"
+    ],
+    "bnusunny/serverless-video-transcoder": [
         "Other"
     ],
     "bobbyiliev/introduction-to-bash-scripting": [
@@ -7386,6 +7401,9 @@
         "Other"
     ],
     "devlucky/Kakapo": [
+        "Other"
+    ],
+    "devosonder/jitsi-meet-transcoder": [
         "Other"
     ],
     "devrath/droid-octo-exoplayer": [
@@ -11912,6 +11930,9 @@
     "lovasoa/bad_json_parsers": [
         "Other"
     ],
+    "lovesegfault/transcoders": [
+        "Other"
+    ],
     "lowlighter/metrics": [
         "Other"
     ],
@@ -12495,6 +12516,9 @@
         "Other"
     ],
     "mekhti/awsome-live-streamin": [
+        "Other"
+    ],
+    "melvyndekort/hevc-transcoder": [
         "Other"
     ],
     "mercari/Mew": [
@@ -13221,6 +13245,9 @@
         "Other"
     ],
     "neekeetab/CachingPlayerItem": [
+        "Other"
+    ],
+    "nekopanda/Amatsukaze": [
         "Other"
     ],
     "nektos/act": [
@@ -14204,6 +14231,9 @@
     "perenecabuto/json_schema_generator": [
         "Other"
     ],
+    "perkdrew/media-transcoder": [
+        "Other"
+    ],
     "perkele1989/light": [
         "Other"
     ],
@@ -15023,6 +15053,9 @@
     "redox-os/termion": [
         "Other"
     ],
+    "redspider001432/transcoderUI": [
+        "Other"
+    ],
     "reegnz/jq-zsh-plugin": [
         "Other"
     ],
@@ -15641,6 +15674,9 @@
     "scrwdrv/ffmpeg-command": [
         "Other"
     ],
+    "scunning1987/dash_manifest_modifier": [
+        "Other"
+    ],
     "sdesyllas/hls-proxy-aes-service": [
         "Other"
     ],
@@ -15902,6 +15938,9 @@
     "shuaibiyy/awesome-terraform": [
         "Other"
     ],
+    "shubhrankavarma/transcoders": [
+        "Other"
+    ],
     "shuding/nextra": [
         "Other"
     ],
@@ -16113,6 +16152,9 @@
         "Other"
     ],
     "slatedocs/slate": [
+        "Other"
+    ],
+    "slc14211421/MyTranscoder": [
         "Other"
     ],
     "slhck/bufferer": [
@@ -16422,6 +16464,9 @@
         "Other"
     ],
     "srevinsaju/guiscrcpy": [
+        "Other"
+    ],
+    "ssut/ffmpeg-on-apple-silicon": [
         "Other"
     ],
     "stackgl/headless-gl": [
@@ -17864,6 +17909,9 @@
     "vimagick/dockerfiles": [
         "Other"
     ],
+    "vimodev/nginx-vod-transcoder": [
+        "Other"
+    ],
     "vimond/replay": [
         "Other"
     ],
@@ -18686,6 +18734,9 @@
     "yuhuili-lab/Tide": [
         "Other"
     ],
+    "yukinotenshi/jabami": [
+        "Other"
+    ],
     "yundiantech/VideoPlayer": [
         "Other"
     ],
@@ -18882,6 +18933,9 @@
         "Other"
     ],
     "zthxxx/jovial": [
+        "Other"
+    ],
+    "ztimson/Transmute": [
         "Other"
     ],
     "zudochkin/awesome-newsletters": [

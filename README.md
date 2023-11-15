@@ -223,6 +223,7 @@
 * [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
 * [Leleat/AltTab-Mod](https://github.com/Leleat/AltTab-Mod): A GNOME extension to add QoL changes to the App Switcher.
 * [DolbyLaboratories/AM-Viewer](https://github.com/DolbyLaboratories/AM-Viewer): Audio Metadata Viewer
+* [nekopanda/Amatsukaze](https://github.com/nekopanda/Amatsukaze): Automated MPEG2-TS Transcoder
 * [aws-samples/amazon-cloudfront-functions](https://github.com/aws-samples/amazon-cloudfront-functions): None
 * [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami): Packer configuration for building a custom EKS AMI
 * [aws-samples/amazon-eks-and-amazon-ec2-k8s-container-networking-workshops](https://github.com/aws-samples/amazon-eks-and-amazon-ec2-k8s-container-networking-workshops): Amazon EKS and Amazon EC2 container networking workshop. Customers will learn basics of container networking and advanced concepts of CNI operations within Amazon EKS and `kops` clusters.
@@ -952,6 +953,7 @@
 * [jmcantrell/bashful](https://github.com/jmcantrell/bashful): A collection of modules to simplify writing bash scripts.
 * [aristocratos/bashtop](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [avleen/bashttpd](https://github.com/avleen/bashttpd): A web server written in bash
+* [KhronosGroup/Basis-Universal-Transcoders](https://github.com/KhronosGroup/Basis-Universal-Transcoders): A collection of optimized WebAssembly transcoders for Basis Universal compressed GPU texture formats.
 * [ZaifSenpai/Batch-Py-Remux](https://github.com/ZaifSenpai/Batch-Py-Remux): Convert mkv video to hevc (h.265)
 * [Azure-Samples/batch-python-ffmpeg-tutorial](https://github.com/Azure-Samples/batch-python-ffmpeg-tutorial): A Python application that uses Batch to process media files in parallel with the ffmpeg open-source tool.
 * [SRVFI-Raws/batch-video-encoder](https://github.com/SRVFI-Raws/batch-video-encoder): An interactive Batch Video Encoder using FFmpeg with Progress Restore.
@@ -1505,6 +1507,7 @@
 * [Eyevinn/dash.js](https://github.com/Eyevinn/dash.js): A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [icedman/dash2dock-lite](https://github.com/icedman/dash2dock-lite): A minimal and animated implementation of dash to dock
 * [pokey909/dash_adaptation_simulator](https://github.com/pokey909/dash_adaptation_simulator): Simulate bitrate switching algorithms based on real data traces
+* [scunning1987/dash_manifest_modifier](https://github.com/scunning1987/dash_manifest_modifier): This code is designed to modify the contents of an MPEG DASH manifest as part of a LIVE PROXY workflow, or as an offline/static manifest rewrite. The purpose of the code is to get the DASH manifest (produced by a transcoder or packager) to conform to the requirements of downstream components or players.
 * [kubernetes/dashboard](https://github.com/kubernetes/dashboard): General-purpose web UI for Kubernetes clusters
 * [salimhamed/dashboard](https://github.com/salimhamed/dashboard): A simple dashboarding web application built using Flask and Bootstrap.
 * [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot): A simple, modern server dashboard, primarily used by smaller private servers
@@ -1873,6 +1876,7 @@
 * [philhansen/dvbsubrip](https://github.com/philhansen/dvbsubrip): A python script for extracting DVB image based subtitles from TS recordings.
 * [iterative/dvc](https://github.com/iterative/dvc): 🦉 ML Experiments Management with Git
 * [LA1TV/DVR-Bridge-Service](https://github.com/LA1TV/DVR-Bridge-Service): A service which records one or more hls streams simultaneously and re-serves them as a different hls streams.
+* [bdina/dvr-transcode-daemon](https://github.com/bdina/dvr-transcode-daemon): Simple DVR transcoder daemon
 * [Aniket965/Dynamic-Github-Profile](https://github.com/Aniket965/Dynamic-Github-Profile): Show dynamic Images on our GitHub profile special repository
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
 * [maoschanz/dynamic-wallpaper-editor](https://github.com/maoschanz/dynamic-wallpaper-editor): A little utility for creation or edition of GNOME desktop's XML wallpapers 
@@ -2230,6 +2234,7 @@
 * [krzemienski/ffmpeg-NVEnc-build](https://github.com/krzemienski/ffmpeg-NVEnc-build): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 * [rustmn/FFMPEG-NVENC-Docker-build](https://github.com/rustmn/FFMPEG-NVENC-Docker-build): Dockerfile & installation instructions for FFMPEG with NVENC. Supported encoders: av1_nvenc, hevc_nvenc, h264_nvenc.
 * [SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder](https://github.com/SmurfManX/ffmpeg-nvidia-adaptive-vod-transcoder): bash script which will detect video new file in folder  and transcode it to adaprive bitrate
+* [ssut/ffmpeg-on-apple-silicon](https://github.com/ssut/ffmpeg-on-apple-silicon): Build ffmpeg for ARM-based Apple Silicon Macs
 * [xiguaxigua/ffmpeg-online](https://github.com/xiguaxigua/ffmpeg-online): An online version of ffmpeg built on ffmpeg.wasm
 * [VCDP/FFmpeg-patch](https://github.com/VCDP/FFmpeg-patch): This repository contains a collection of FFmpeg* patches and samples to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in FFmpeg* framework.
 * [czqasngit/ffmpeg-player](https://github.com/czqasngit/ffmpeg-player): A macOS player base on ffmpeg using OC and Swift.
@@ -2830,6 +2835,7 @@
 * [rokudev/hero-grid-channel](https://github.com/rokudev/hero-grid-channel): Sample channel with sliding hero row and a grid of content below.
 * [MarcAntoine-Arnaud/HEVC](https://github.com/MarcAntoine-Arnaud/HEVC): HEVC reference encoder and decoder
 * [wolverinn/HEVC-deep-learning-pipeline](https://github.com/wolverinn/HEVC-deep-learning-pipeline): Integrating neural network models in HEVC encoder, to test the complexity reduction using deep learning in HEVC intra-prediction.
+* [melvyndekort/hevc-transcoder](https://github.com/melvyndekort/hevc-transcoder): HEVC encode all the MP4 files uploaded to an S3 bucket
 * [XimingCheng/HEVCAnalyzer](https://github.com/XimingCheng/HEVCAnalyzer): HEVC H.265 stream GUI Analyzer based on wxWidgets
 * [jpetrich/HEVCDemo](https://github.com/jpetrich/HEVCDemo): Small repo to show the file size issues with the new HEVC encoder on iOS 11
 * [virinext/hevcesbrowser](https://github.com/virinext/hevcesbrowser): HEVCESBrowser is a tool for analyzing hevc(h265) bitstreams
@@ -3166,6 +3172,7 @@
 * [svhawks/itunes-sales-client](https://github.com/svhawks/itunes-sales-client): Fastlane sales and analytics client
 * [trulyronak/itunesconnect](https://github.com/trulyronak/itunesconnect): A Mac OS X App That Lets You Access iTunes Connect
 * [nicholaskajoh/ivy](https://github.com/nicholaskajoh/ivy): Video-based object counting software.
+* [yukinotenshi/jabami](https://github.com/yukinotenshi/jabami): HLS Video Transcoder Microservice
 * [shyiko/jabba](https://github.com/shyiko/jabba): (cross-platform) Java Version Manager
 * [kokorin/Jaffree](https://github.com/kokorin/Jaffree): ______ Stop the War in Ukraine!  _______ Java ffmpeg and ffprobe command-line wrapper
 * [james-proxy/james](https://github.com/james-proxy/james): Web Debugging Proxy Application
@@ -3213,6 +3220,7 @@
 * [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone): A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 * [hackerdude/jiratotaskmanagers](https://github.com/hackerdude/jiratotaskmanagers): Syncs JIRA queries to apps like Omnifocus, Things and Reminders
 * [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+* [devosonder/jitsi-meet-transcoder](https://github.com/devosonder/jitsi-meet-transcoder): None
 * [osy/Jitterbug](https://github.com/osy/Jitterbug): Launch JIT enabled iOS app with a second iOS device
 * [kevinadhiguna/jiyu](https://github.com/kevinadhiguna/jiyu): A repo for... whatever 🤷
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
@@ -3476,6 +3484,7 @@
 * [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker): Find retain cycles / memory leaks sooner.
 * [perkele1989/light](https://github.com/perkele1989/light): GNU/Linux application to control backlights
 * [networknt/light-4j](https://github.com/networknt/light-4j): A fast, lightweight and more productive microservices framework
+* [Light-Transcoder/light-transcoder](https://github.com/Light-Transcoder/light-transcoder): This project contains an HTTP-API to allow real-time transcode of media files into DASH / HLS streams.
 * [AbedElazizShe/LightCompressor](https://github.com/AbedElazizShe/LightCompressor): A powerful and easy-to-use video compression library for android uses MediaCodec API.
 * [AbedElazizShe/LightCompressor_iOS](https://github.com/AbedElazizShe/LightCompressor_iOS): A powerful and easy-to-use video compression swift package for iOS.
 * [emgram769/lighthouse](https://github.com/emgram769/lighthouse): A simple scriptable popup dialog to run on X.
@@ -3722,6 +3731,7 @@
 * [w3c/media-source](https://github.com/w3c/media-source): Media Source Extensions
 * [Axinom/media-tools](https://github.com/Axinom/media-tools): None
 * [Dash-Industry-Forum/media-tools](https://github.com/Dash-Industry-Forum/media-tools): A collection of tools for analyzing, handling, and creating media and media containers
+* [perkdrew/media-transcoder](https://github.com/perkdrew/media-transcoder): A versatile Golang service for efficient, scalable media transcoding. Support for HLS and DASH.
 * [video-dev/media-ui-extensions](https://github.com/video-dev/media-ui-extensions): Extending the HTMLVideoElement API to support advanced player user-interface features
 * [quarkscript/media_works](https://github.com/quarkscript/media_works): Transcode video by ffmpeg with nvenc; normalize the volume; force dynamic range compression to the volume
 * [zolinux/MediaArchiver](https://github.com/zolinux/MediaArchiver): Transcode video files using FFMPEG and python3
@@ -3912,6 +3922,7 @@
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
 * [swl-x/MystiQ](https://github.com/swl-x/MystiQ): Qt5/C++ FFmpeg Media Converter 
+* [slc14211421/MyTranscoder](https://github.com/slc14211421/MyTranscoder): myTranscoder 是使用Python Django 封装了ffmpeg的流媒体视频文件的转码能力，以HTTP/JSON API的方式对外提供视频转码和合并能力
 * [Protuhj/myvideobuzz](https://github.com/Protuhj/myvideobuzz): MyVideoBuzz
 * [innolitics/n2y](https://github.com/innolitics/n2y): Notion to YAML (and Markdown)
 * [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -3998,6 +4009,7 @@
 * [kaltura/nginx-vod-module](https://github.com/kaltura/nginx-vod-module): NGINX-based MP4 Repackager
 * [nytimes/nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker): Docker image for nginx with Kaltura's VoD module used by The New York Times
 * [flavioribeiro/nginx-vod-module-fmp4-hls](https://github.com/flavioribeiro/nginx-vod-module-fmp4-hls): Play fragmented mp4's on HLS using nginx-vod-module
+* [vimodev/nginx-vod-transcoder](https://github.com/vimodev/nginx-vod-transcoder): Extension of nytimes/nginx-vod-module that is able to transcode HLS segments in real time for multiple qualities.
 * [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉
 * [xadlien/ngrok-auto-ssh](https://github.com/xadlien/ngrok-auto-ssh): Systemd service setup for ngrok ssh enpoint with emailed ip address.
 * [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go): Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
@@ -4430,8 +4442,8 @@
 * [libratbag/piper](https://github.com/libratbag/piper): GTK application to configure gaming devices
 * [runabol/piper](https://github.com/runabol/piper): piper - a distributed workflow engine
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
-* [alexander0042/pirate-weather-ha](https://github.com/alexander0042/pirate-weather-ha): Replacement for the default Dark Sky Home Assistant integration using Pirate Weather 
-* [alexander0042/pirateweather](https://github.com/alexander0042/pirateweather): Code and documentation for the Pirate Weather API
+* [Pirate-Weather/pirate-weather-ha](https://github.com/Pirate-Weather/pirate-weather-ha): Replacement for the default Dark Sky Home Assistant integration using Pirate Weather 
+* [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather): Code and documentation for the Pirate Weather API
 * [beyondmeh/piu](https://github.com/beyondmeh/piu): Cross platform package manager wrapper
 * [pivotal-legacy/PivotalCoreKit](https://github.com/pivotal-legacy/PivotalCoreKit): Shared library and test code for iOS and macOS projects
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
@@ -5082,6 +5094,7 @@
 * [adghayes/serverless-ffmpeg](https://github.com/adghayes/serverless-ffmpeg): serverless function for transcoding audio and video with ffmpeg
 * [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns): Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 * [awslabs/serverless-subtitles](https://github.com/awslabs/serverless-subtitles): Serverless Subtitles can handle a video input, extract the sound, transcript it and generate different subtitle files for your video.
+* [bnusunny/serverless-video-transcoder](https://github.com/bnusunny/serverless-video-transcoder): None
 * [sahin/serverless-youtube-dl](https://github.com/sahin/serverless-youtube-dl): Amazon Lambda - Serverless youtube-dl
 * [Jinxiansen/ServerSideSwift](https://github.com/Jinxiansen/ServerSideSwift): 🦄 Swift server open source projects based on the Swift 4.1 and Vapor 3 frameworks. (Swift 服务端开源项目) 
 * [martinlasek/serversideswift.racing](https://github.com/martinlasek/serversideswift.racing): statistics on growth trend of all major server-side swift frameworks
@@ -5523,7 +5536,7 @@
 * [khoren93/SwiftHub](https://github.com/khoren93/SwiftHub): GitHub iOS client in RxSwift and MVVM-C clean architecture
 * [LeonardoCardoso/SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview): It makes a preview from an URL, grabbing all the information such as title, relevant texts and images.
 * [realm/SwiftLint](https://github.com/realm/SwiftLint): A tool to enforce Swift style and conventions.
-* [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation): 🛰 Async/Await CoreLocation wrapper
+* [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation): ⚓️ Async/Await CLLocationManager Wrapper for Apple Platforms
 * [gholt/swiftly](https://github.com/gholt/swiftly): Client for Swift - NOTE: The master branch is current dev work. Depending on how adventurous you are, you might want to switch to the "stable" branch if you're running from a git clone.
 * [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages): A very flexible message bar for UIKit and SwiftUI.
 * [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode): An Xcode extension (plugin) to generate Swift test doubles automatically.
@@ -5753,7 +5766,10 @@
 * [natario1/Transcoder](https://github.com/natario1/Transcoder): 🎞 Hardware-accelerated video transcoding using Android MediaCodec APIs. Supports cropping, concatenation, clipping, audio processing, video speed and much more.
 * [ZackAkil/transcoder-api-cloud-function](https://github.com/ZackAkil/transcoder-api-cloud-function): CLoud Function code that uses the Google Transcoder API to auto generate optimised video formats when a new video is uploaded to a bucket.
 * [Vilsol/transcoder-go](https://github.com/Vilsol/transcoder-go): transcoder is an opinionated wrapper around ffmpeg
+* [lovesegfault/transcoders](https://github.com/lovesegfault/transcoders): Rust utility to transcode media in bulk
+* [shubhrankavarma/transcoders](https://github.com/shubhrankavarma/transcoders): Transcoders Service
 * [exasky/TranscoderScript](https://github.com/exasky/TranscoderScript): None
+* [redspider001432/transcoderUI](https://github.com/redspider001432/transcoderUI): None
 * [Ponyboy47/TranscodeVideo](https://github.com/Ponyboy47/TranscodeVideo): A Swift wrapper around the transcode-video command
 * [minhaj86/TranscodeWorker](https://github.com/minhaj86/TranscodeWorker): Vert.x worker to execute transcode job
 * [AlvianPrasetya/transcoding](https://github.com/AlvianPrasetya/transcoding): FFmpeg transcoders benchmark
@@ -5762,6 +5778,7 @@
 * [xjyyy/Transcoding-projects](https://github.com/xjyyy/Transcoding-projects): A Fast H.264 to HEVC Transcoding Method
 * [LordCrainer/transcoding_ffmpeg](https://github.com/LordCrainer/transcoding_ffmpeg): Transcoding video usando ffmpeg
 * [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh): Easy and fast file sharing from the command-line.
+* [ztimson/Transmute](https://github.com/ztimson/Transmute): Distributed Video Transcoder
 * [jordicenzano/transport-stream-online-segmenter](https://github.com/jordicenzano/transport-stream-online-segmenter): Transport stream web based HLS segmenter.
 * [fabiand/traviskube](https://github.com/fabiand/traviskube): Infra stuff to run Kubernetes on travisci
 * [barkerstuff/treadmill](https://github.com/barkerstuff/treadmill): ffmpeg based bulk transcode tool supporting x265 and AV1
@@ -6112,6 +6129,7 @@
 * [bbayles/vod_metadata](https://github.com/bbayles/vod_metadata): CableLabs VOD Metadata 1.1 Generator
 * [zsiec/vodmodule-stats](https://github.com/zsiec/vodmodule-stats): None
 * [Shishkebaboo/VodRecovery](https://github.com/Shishkebaboo/VodRecovery): The purpose of this script is to obtain videos or clips that are either marked as "sub-only" or have been deleted on Twitch.
+* [AdmiralBulldogTv/VodTranscoder](https://github.com/AdmiralBulldogTv/VodTranscoder): None
 * [w-okada/voice-changer](https://github.com/w-okada/voice-changer): リアルタイムボイスチェンジャー Realtime Voice Changer
 * [abinashmeher999/voice-data-extract](https://github.com/abinashmeher999/voice-data-extract): A command line interface to combine text information from subtitles with voice data in the video. Provides a convenient way to generate training data for speech-recognition purposes.
 * [voila-dashboards/voila](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
