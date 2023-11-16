@@ -2555,7 +2555,7 @@
 * [muan/github-dashboard](https://github.com/muan/github-dashboard): [Web extension] Filter events on github.com activity dashboard.
 * [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira): Connect your code with your project management in Jira
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
-* [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts): GitHub scripts
+* [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts): GitHub script samples for automation
 * [HsunGong/github-notion](https://github.com/HsunGong/github-notion): None
 * [krzemienski/github-notion-star](https://github.com/krzemienski/github-notion-star): None
 * [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star): None
