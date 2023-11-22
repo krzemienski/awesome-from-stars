@@ -119,6 +119,9 @@
     "AOMediaCodec/av1-rtp-spec": [
         "Other"
     ],
+    "APIs-guru/awesome-openapi3": [
+        "Other"
+    ],
     "APIs-guru/openapi-directory": [
         "Other"
     ],
@@ -141,6 +144,9 @@
         "Other"
     ],
     "AbedElazizShe/LightCompressor_iOS": [
+        "Other"
+    ],
+    "Abhii-07/AI-Code-Converter": [
         "Other"
     ],
     "Abhishek-2505/Github_topics_scraper": [
@@ -194,10 +200,10 @@
     "AirenSoft/OvenPlayer": [
         "Other"
     ],
-    "AkashiSN/ffmpeg-docker": [
+    "Ajitroy01/Code_Genius": [
         "Other"
     ],
-    "AladW/aurutils": [
+    "AkashiSN/ffmpeg-docker": [
         "Other"
     ],
     "Alamofire/Alamofire": [
@@ -398,6 +404,9 @@
     "Axinom/media-tools": [
         "Other"
     ],
+    "AyatKhraisat/ChatGPT_Code_Converter": [
+        "Other"
+    ],
     "AykutSarac/jsoncrack.com": [
         "Other"
     ],
@@ -513,6 +522,9 @@
         "Other"
     ],
     "Budibase/budibase": [
+        "Other"
+    ],
+    "BuilderIO/gpt-crawler": [
         "Other"
     ],
     "Bumblebee-Project/Bumblebee": [
@@ -693,6 +705,9 @@
         "Other"
     ],
     "CoderLNHui/SourceCodeAnalysis": [
+        "Other"
+    ],
+    "CodingDemon1/CodeConverter-GenAI": [
         "Other"
     ],
     "CodyFlame/CodyFire": [
@@ -2600,6 +2615,9 @@
     "Martchus/tageditor": [
         "Other"
     ],
+    "MartinEesmaa/VVCEasy": [
+        "Other"
+    ],
     "MasayukiSuda/ExoPlayerFilter": [
         "Other"
     ],
@@ -3438,9 +3456,6 @@
         "Other"
     ],
     "SelfhostedPro/selfhosted_templates": [
-        "Other"
-    ],
-    "SergioBenitez/Rocket": [
         "Other"
     ],
     "SeungheonOh/xrdm": [
@@ -5366,6 +5381,9 @@
     "aunetx/apps-to-panel": [
         "Other"
     ],
+    "aurutils/aurutils": [
+        "Other"
+    ],
     "authelia/authelia": [
         "Other"
     ],
@@ -6881,9 +6899,6 @@
     "crazyguitar/pysheeet": [
         "Other"
     ],
-    "creativeprogramming/soundmanager2-livem3u": [
-        "Other"
-    ],
     "creativetimofficial/ct-black-dashboard-pro-django": [
         "Other"
     ],
@@ -7283,6 +7298,9 @@
     "deezer/spleeter": [
         "Other"
     ],
+    "deforum-art/sd-webui-text2video": [
+        "Other"
+    ],
     "dehatanes/super-useful-notion-cli": [
         "Other"
     ],
@@ -7395,6 +7413,9 @@
         "Other"
     ],
     "devicons/devicon": [
+        "Other"
+    ],
+    "devine-dl/pywidevine": [
         "Other"
     ],
     "devksingh4/thinkpad-tools": [
@@ -8123,6 +8144,9 @@
     "envoyproxy/envoy": [
         "Other"
     ],
+    "enzo1982/freac": [
+        "Other"
+    ],
     "enzo1982/mp4v2": [
         "Other"
     ],
@@ -8427,6 +8451,9 @@
         "Other"
     ],
     "faiproject/fai": [
+        "Other"
+    ],
+    "faisalpinitod/code_converter_AI": [
         "Other"
     ],
     "faithfracture/Apple-Boost-BuildScript": [
@@ -9641,6 +9668,9 @@
     "home-sweet-gnome/dash-to-panel": [
         "Other"
     ],
+    "homebrew-ffmpeg/homebrew-ffmpeg": [
+        "Other"
+    ],
     "homebridge/docker-homebridge": [
         "Other"
     ],
@@ -10634,6 +10664,9 @@
     "joshlk/many_requests": [
         "Other"
     ],
+    "joshpxyne/gpt-migrate": [
+        "Other"
+    ],
     "joshuaavalon/SynologyCloudflareDDNS": [
         "Other"
     ],
@@ -10803,9 +10836,6 @@
         "Other"
     ],
     "k8sgpt-ai/k8sgpt": [
-        "Other"
-    ],
-    "kabachuha/sd-webui-text2video": [
         "Other"
     ],
     "kaedea/notion-down": [
@@ -11708,6 +11738,9 @@
     "ligurio/awesome-ci": [
         "Other"
     ],
+    "liluxdev/soundmanager2-livem3u": [
+        "Other"
+    ],
     "linagora/Twake": [
         "Other"
     ],
@@ -12482,6 +12515,9 @@
     "mdx-js/specification": [
         "Other"
     ],
+    "mean00/avidemux2": [
+        "Other"
+    ],
     "medenagan/window-corner-preview": [
         "Other"
     ],
@@ -12495,6 +12531,9 @@
         "Other"
     ],
     "mediagoom/mg": [
+        "Other"
+    ],
+    "medvm/widevine_keys": [
         "Other"
     ],
     "meh/rust-ffmpeg": [
@@ -13067,6 +13106,9 @@
     "mui/material-ui": [
         "Other"
     ],
+    "mujibsayyad/code-converter": [
+        "Other"
+    ],
     "mumoshu/terraform-provider-eksctl": [
         "Other"
     ],
@@ -13608,6 +13650,9 @@
         "Other"
     ],
     "ntv-one/portainer": [
+        "Other"
+    ],
+    "nu774/qaac": [
         "Other"
     ],
     "nubenetes/awesome-kubernetes": [
@@ -15170,9 +15215,6 @@
     "rkoshak/sensorReporter": [
         "Other"
     ],
-    "rlaphoenix/pywidevine": [
-        "Other"
-    ],
     "rnorth/mkdocs-codeinclude-plugin": [
         "Other"
     ],
@@ -15437,6 +15479,9 @@
     "rwbutler/FeatureFlags": [
         "Other"
     ],
+    "rwf2/Rocket": [
+        "Other"
+    ],
     "ryanburgess/engineer-manager": [
         "Other"
     ],
@@ -15585,6 +15630,9 @@
         "Other"
     ],
     "saurabh0719/automate-mediaconvert": [
+        "Other"
+    ],
+    "saurabh7412/Advance-Code-Converter": [
         "Other"
     ],
     "savokiss/vue-videojs-demo": [
@@ -15855,6 +15903,9 @@
         "Other"
     ],
     "shawnsky/extract-subtitles": [
+        "Other"
+    ],
+    "shawon100/code-converter": [
         "Other"
     ],
     "shazChaudhry/docker-swarm-mode": [
@@ -16215,6 +16266,9 @@
         "Other"
     ],
     "smpio/kubernator": [
+        "Other"
+    ],
+    "smplayer-dev/smplayer": [
         "Other"
     ],
     "snapcore/snapcraft": [
@@ -17756,6 +17810,9 @@
     "vashpan/xcode-dev-cleaner": [
         "Other"
     ],
+    "vasusen-code/VIDEOconvertor": [
+        "Other"
+    ],
     "vbence/stream-m": [
         "Other"
     ],
@@ -18554,6 +18611,9 @@
     "xiph/aomanalyzer": [
         "Other"
     ],
+    "xiph/flac": [
+        "Other"
+    ],
     "xiph/rav1e": [
         "Other"
     ],
@@ -18777,6 +18837,9 @@
         "Other"
     ],
     "zaproxy/zaproxy": [
+        "Other"
+    ],
+    "zaps166/QMPlay2": [
         "Other"
     ],
     "zattoo/TvOSCustomizableTableViewCell": [
