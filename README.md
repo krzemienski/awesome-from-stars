@@ -5169,7 +5169,7 @@
 * [uber/signals-ios](https://github.com/uber/signals-ios): Typeful eventing
 * [Tourenathan-G5organisation/SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor): A powerful, flexible and easy to use Video and Image compression library for Android.
 * [a2nt/silverstripe-digitalocean-nginx-backup-scripts](https://github.com/a2nt/silverstripe-digitalocean-nginx-backup-scripts): SilverStripe Digital Ocean + NGINX + Dropbox service sripts
-* [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+* [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [Ikuyadeu/similar-code-searcher](https://github.com/Ikuyadeu/similar-code-searcher): a GitHub App built with probot that searches files similar with deleted code in Pull Request.
 * [NationalSecurityAgency/SIMP](https://github.com/NationalSecurityAgency/SIMP): A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
 * [mhashim6/Simple-ADB](https://github.com/mhashim6/Simple-ADB): ADB/Fastboot. With a GUI.
@@ -5817,7 +5817,7 @@
 * [MoshiMoshi0/ttrgbplusapi](https://github.com/MoshiMoshi0/ttrgbplusapi): api for thermaltake rgb plus devices
 * [amriteya/tts](https://github.com/amriteya/tts): Convert words to mp3 files to be played anytime.
 * [pqyptixa/tts2media](https://github.com/pqyptixa/tts2media): Go library to run TTS engines, convert their output to mp3/ogg, and make videos from images or other videos
-* [gsfalcon/tts_python](https://github.com/gsfalcon/tts_python): Text-to-Speech Python Converter simplifies text-to-audio conversion.
+* [gsfalcon/tts_python](https://github.com/gsfalcon/tts_python):  Welcome to tts_python! Convert text to .mp3 effortlessly, creating a personalized listening experience. Quick conversion, universal compatibility, and customization with diverse voices. Explore the open-source code, contribute, and bring words to life! 🎙️🚀
 * [alspore/ttsmp3](https://github.com/alspore/ttsmp3): A node.js script used to download text-to-speech mp3 files.
 * [Tubitv/TubiPlayer](https://github.com/Tubitv/TubiPlayer): A media streaming video player based on ExoPlayer from google, with convenience methods for ad supported content
 * [fdehau/tui-rs](https://github.com/fdehau/tui-rs): Build terminal user interfaces and dashboards using Rust
