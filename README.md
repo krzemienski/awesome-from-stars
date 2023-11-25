@@ -472,7 +472,7 @@
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc): PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 * [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture): AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
-* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): An experimental open-source attempt to make GPT-4 fully autonomous.
+* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 * [akordadev/AutoLayoutMagic](https://github.com/akordadev/AutoLayoutMagic): Build 1 scene, let AutoLayoutMagic generate the constraints for you!
 * [kishikawakatsumi/AutoLayoutManiacs](https://github.com/kishikawakatsumi/AutoLayoutManiacs): None
@@ -4723,7 +4723,7 @@
 * [glideapps/quicktype-xcode](https://github.com/glideapps/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr):  🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs 
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -4945,7 +4945,7 @@
 * [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster): Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 * [opensourceway/rsync-backup-script](https://github.com/opensourceway/rsync-backup-script): A script to accompany https://opensource.com/article/17/1/rsync-backup-linux
 * [contention/rsync-deployments](https://github.com/contention/rsync-deployments): GitHub Action for deploying code via rsync over ssh
-* [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX): A macOS GUI for rsync. Compiled for macOS Big Sur and later
+* [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX): A macOS GUI for rsync. Compiled for macOS Monterey and later.
 * [ponnamkarthik/RTMP-Exo-Player-Demo](https://github.com/ponnamkarthik/RTMP-Exo-Player-Demo): Demo RTMP Player Using ExoMedia Player
 * [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server): a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 * [xiewei-wayne/rtmp-video-player-for-ios](https://github.com/xiewei-wayne/rtmp-video-player-for-ios): Based on FFEngine framework, a rtmp video player for apple iOS devices.
@@ -5796,7 +5796,7 @@
 * [xjyyy/Transcoding-projects](https://github.com/xjyyy/Transcoding-projects): A Fast H.264 to HEVC Transcoding Method
 * [LordCrainer/transcoding_ffmpeg](https://github.com/LordCrainer/transcoding_ffmpeg): Transcoding video usando ffmpeg
 * [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh): Easy and fast file sharing from the command-line.
-* [ztimson/Transmute](https://github.com/ztimson/Transmute): Distributed Video Transcoder
+* [ztimson/transmute](https://github.com/ztimson/transmute): Distributed Video Transcoder
 * [jordicenzano/transport-stream-online-segmenter](https://github.com/jordicenzano/transport-stream-online-segmenter): Transport stream web based HLS segmenter.
 * [fabiand/traviskube](https://github.com/fabiand/traviskube): Infra stuff to run Kubernetes on travisci
 * [barkerstuff/treadmill](https://github.com/barkerstuff/treadmill): ffmpeg based bulk transcode tool supporting x265 and AV1
