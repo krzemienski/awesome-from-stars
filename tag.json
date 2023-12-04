@@ -431,9 +431,6 @@
     "BellAppLab/Backgroundable": [
         "Other"
     ],
-    "BenRoe/awesome-mechanical-keyboard": [
-        "Other"
-    ],
     "BenjV/autosub": [
         "Other"
     ],
@@ -861,6 +858,9 @@
         "Other"
     ],
     "DaMingShen/SUCacheLoader": [
+        "Other"
+    ],
+    "DamZiobro/gstreamerCheatsheet": [
         "Other"
     ],
     "Dash-Industry-Forum/CMAF-Conformance": [
@@ -1691,6 +1691,9 @@
     "FDH2/UxPlay": [
         "Other"
     ],
+    "FFMS/ffms2": [
+        "Other"
+    ],
     "FFmpeg/FFV1": [
         "Other"
     ],
@@ -1737,6 +1740,9 @@
         "Other"
     ],
     "Flight-School/AnyCodable": [
+        "Other"
+    ],
+    "FlyGoat/RyzenAdj": [
         "Other"
     ],
     "Fmstrat/ffmkv": [
@@ -1809,6 +1815,9 @@
         "Other"
     ],
     "GSConnect/gnome-shell-extension-gsconnect": [
+        "Other"
+    ],
+    "GStreamer/gst-python": [
         "Other"
     ],
     "Galeas/CocoaPodUI": [
@@ -2339,6 +2348,9 @@
     "Kevin-De-Koninck/Get-It": [
         "Other"
     ],
+    "Keycapsss/awesome-mechanical-keyboard": [
+        "Other"
+    ],
     "KhaosT/MacVM": [
         "Other"
     ],
@@ -2571,6 +2583,9 @@
         "Other"
     ],
     "MSzturc/obsidian-advanced-slides": [
+        "Other"
+    ],
+    "MaZderMind/dynamic-gstreamer-pipelines-cookbook": [
         "Other"
     ],
     "MaaxGr/NotionTodoistSync": [
@@ -2847,6 +2862,9 @@
         "Other"
     ],
     "Neeraj319/streammmm": [
+        "Other"
+    ],
+    "Neoteroi/BlackSheep": [
         "Other"
     ],
     "Netflix/Hystrix": [
@@ -3194,6 +3212,9 @@
     "QuickBirdEng/XCoordinator": [
         "Other"
     ],
+    "R3S3t9999/DoVi_Scripts": [
+        "Other"
+    ],
     "RLovelett/langserver-swift": [
         "Other"
     ],
@@ -3506,6 +3527,9 @@
     "Significant-Gravitas/AutoGPT": [
         "Other"
     ],
+    "SihabSahariar/GStreamer-With-PyQt5": [
+        "Other"
+    ],
     "Silence-GitHub/BBMetalImage": [
         "Other"
     ],
@@ -3803,6 +3827,9 @@
     "Tim-Barton/gogs-migration": [
         "Other"
     ],
+    "Tinywan/H5-dash-hls-rtmp-webrtc": [
+        "Other"
+    ],
     "Tjatse/pm2-gui": [
         "Other"
     ],
@@ -4064,6 +4091,9 @@
     "Xuno/XunoPlayer-MPV": [
         "Other"
     ],
+    "YaLTeR/vapoursynth-rs": [
+        "Other"
+    ],
     "YadominJinta/atilo": [
         "Other"
     ],
@@ -4091,6 +4121,9 @@
     "YiHeCN/notion-java-sdk": [
         "Other"
     ],
+    "YomikoR/VapourSynth-Editor": [
+        "Other"
+    ],
     "Z4nzu/hackingtool": [
         "Other"
     ],
@@ -4101,6 +4134,9 @@
         "Other"
     ],
     "ZaneH/firetv-remote": [
+        "Other"
+    ],
+    "ZazerConer/YouTube-to-M3U8": [
         "Other"
     ],
     "ZeStream/zestream-server": [
@@ -4407,6 +4443,9 @@
         "Other"
     ],
     "aio-libs/aiodocker": [
+        "Other"
+    ],
+    "aiortc/aioquic": [
         "Other"
     ],
     "aiqinxuancai/EvernoteToNotionChrome": [
@@ -6869,6 +6908,9 @@
     "cosmicpython/book": [
         "Other"
     ],
+    "couchrishi/diy-nodejs-encoder": [
+        "Other"
+    ],
     "cpearce/mse-eme": [
         "Other"
     ],
@@ -7023,6 +7065,12 @@
         "Other"
     ],
     "dabeaz-course/practical-python": [
+        "Other"
+    ],
+    "dabrain34/GstPipelineStudio": [
+        "Other"
+    ],
+    "daem-on/fwf": [
         "Other"
     ],
     "daemonza/helmet": [
@@ -8117,6 +8165,9 @@
     "encode/requests-async": [
         "Other"
     ],
+    "encode/starlette": [
+        "Other"
+    ],
     "encode/uvicorn": [
         "Other"
     ],
@@ -8457,6 +8508,9 @@
         "Other"
     ],
     "faithfracture/Apple-Boost-BuildScript": [
+        "Other"
+    ],
+    "falconry/falcon": [
         "Other"
     ],
     "faressoft/terminalizer": [
@@ -9351,6 +9405,9 @@
         "Other"
     ],
     "grpc-ecosystem/awesome-grpc": [
+        "Other"
+    ],
+    "grpc-ecosystem/grpc-gateway": [
         "Other"
     ],
     "grpc/grpc": [
@@ -11564,6 +11621,9 @@
     "launchdarkly/hello-tvos": [
         "Other"
     ],
+    "lauramazzuca21/distributed-cloud-gaming-pipeline": [
+        "Other"
+    ],
     "laurent22/joplin": [
         "Other"
     ],
@@ -11963,7 +12023,7 @@
     "lovasoa/bad_json_parsers": [
         "Other"
     ],
-    "lovesegfault/transcoders": [
+    "lovesegfault/transcode-rs": [
         "Other"
     ],
     "lowlighter/metrics": [
@@ -12572,6 +12632,12 @@
     "mermaid-js/mermaid-live-editor": [
         "Other"
     ],
+    "meshery/meshery": [
+        "Other"
+    ],
+    "meshery/play": [
+        "Other"
+    ],
     "mesos/chronos": [
         "Other"
     ],
@@ -12882,6 +12948,9 @@
         "Other"
     ],
     "mlsmithjr/transcoder": [
+        "Other"
+    ],
+    "mlsmithjr/wandarr": [
         "Other"
     ],
     "mltframework/mlt": [
@@ -14150,6 +14219,9 @@
     "pallets/flask": [
         "Other"
     ],
+    "pallets/quart": [
+        "Other"
+    ],
     "pallets/werkzeug": [
         "Other"
     ],
@@ -14292,6 +14364,9 @@
         "Other"
     ],
     "pfsense/pfsense": [
+        "Other"
+    ],
+    "pgjones/hypercorn": [
         "Other"
     ],
     "pgodschalk/swiperproxy": [
@@ -14726,6 +14801,9 @@
     "pydantic/pydantic": [
         "Other"
     ],
+    "pydata/pydata-sphinx-theme": [
+        "Other"
+    ],
     "pydio/pydio-core": [
         "Other"
     ],
@@ -14934,6 +15012,9 @@
         "Other"
     ],
     "rakam-io/rakam-ios": [
+        "Other"
+    ],
+    "ralfbiedert/openh264-rs": [
         "Other"
     ],
     "rambodrahmani/ffmpeg-video-player": [
@@ -16901,9 +16982,6 @@
     "taglia3/ElasticTransition-ObjC": [
         "Other"
     ],
-    "taisukeh/fastlane-plugin-xcode_test_reporter": [
-        "Other"
-    ],
     "tal-tech/electron-playground": [
         "Other"
     ],
@@ -17244,6 +17322,9 @@
         "Other"
     ],
     "timdonnelly/Advance": [
+        "Other"
+    ],
+    "time4tea/gopro-dashboard-overlay": [
         "Other"
     ],
     "timofurrer/awesome-asyncio": [
@@ -18000,6 +18081,9 @@
         "Other"
     ],
     "virinext/hevcesbrowser": [
+        "Other"
+    ],
+    "virinext/pipeviz": [
         "Other"
     ],
     "vishnubob/wait-for-it": [
@@ -18843,6 +18927,9 @@
         "Other"
     ],
     "zattoo/TvOSCustomizableTableViewCell": [
+        "Other"
+    ],
+    "zauberzeug/nicegui": [
         "Other"
     ],
     "zdharma-continuum/zinit": [
