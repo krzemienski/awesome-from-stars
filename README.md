@@ -738,7 +738,7 @@
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
-* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes. 
+* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context. 
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
@@ -791,7 +791,7 @@
 * [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps): A curated list of roadmaps.
 * [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling): Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby): :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby): 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 * [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
 * [lauris/awesome-scala](https://github.com/lauris/awesome-scala): A community driven list of useful Scala libraries, frameworks and software.
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -844,7 +844,7 @@
 * [mbcrump/awesome-tvos](https://github.com/mbcrump/awesome-tvos): A curated list of awesome tvOS learning resources and sample apps.
 * [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity): A curated list of awesome Unity assets, resources, and more.
 * [QianMo/Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader): :boat: 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders 
-* [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX): All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+* [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix): All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 * [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages detailing developer setups, gear, software and configs.
 * [vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor): A curated list of Vapor-related awesome projects.
 * [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video):  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
@@ -867,7 +867,7 @@
 * [PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket): A curated list of awesome projects powered by Apache Wicket 
 * [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard): A curated list of WireGuard tools, projects, and resources.
 * [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-* [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL): Awesome list dedicated to Windows Subsystem for Linux
+* [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl): Awesome list dedicated to Windows Subsystem for Linux
 * [altamiracorp/awesome-xai](https://github.com/altamiracorp/awesome-xai): Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources
 * [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions): Awesome native Xcode extensions.
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -1075,6 +1075,7 @@
 * [rolandoislas/BrightWebSocket](https://github.com/rolandoislas/BrightWebSocket): RFC 6455 WebSocket Library for the Roku
 * [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life): Bringing Old Photo Back to Life (CVPR 2020 oral)
 * [britecharts/britecharts](https://github.com/britecharts/britecharts): Composable Charting Library based on reusable D3.js components.
+* [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast channels for async web apps. 📢
 * [22bulbs/brom](https://github.com/22bulbs/brom): Highly configurable, local auditing of HTTP transactions
 * [txthinking/brook](https://github.com/txthinking/brook): A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 * [apivideo/browserLiveStream](https://github.com/apivideo/browserLiveStream): Use webcam, browser and Node to stream live video. From api.video (https://api.video)
@@ -1520,6 +1521,7 @@
 * [icedman/dash2dock-lite](https://github.com/icedman/dash2dock-lite): A minimal and animated implementation of dash to dock
 * [pokey909/dash_adaptation_simulator](https://github.com/pokey909/dash_adaptation_simulator): Simulate bitrate switching algorithms based on real data traces
 * [scunning1987/dash_manifest_modifier](https://github.com/scunning1987/dash_manifest_modifier): This code is designed to modify the contents of an MPEG DASH manifest as part of a LIVE PROXY workflow, or as an offline/static manifest rewrite. The purpose of the code is to get the DASH manifest (produced by a transcoder or packager) to conform to the requirements of downstream components or players.
+* [encode/dashboard](https://github.com/encode/dashboard): An admin interface for ASGI Web frameworks.
 * [kubernetes/dashboard](https://github.com/kubernetes/dashboard): General-purpose web UI for Kubernetes clusters
 * [salimhamed/dashboard](https://github.com/salimhamed/dashboard): A simple dashboarding web application built using Flask and Bootstrap.
 * [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot): A simple, modern server dashboard, primarily used by smaller private servers
@@ -2104,6 +2106,7 @@
 * [syedhali/EZAudio](https://github.com/syedhali/EZAudio): An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
 * [0oljyo0/EZRclone](https://github.com/0oljyo0/EZRclone): A PyQt-based rclone gui
 * [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
+* [knik0/faad2](https://github.com/knik0/faad2): Freeware Advanced Audio (AAC) Decoder faad2 mirror
 * [strongself/fabricio](https://github.com/strongself/fabricio): Fetch Fabric.io statistics like never before
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk): Used to integrate the Facebook Platform with your iOS & tvOS apps.
@@ -2162,6 +2165,7 @@
 * [janselv/fave-button](https://github.com/janselv/fave-button): FaveButton is an iOS cute animated like button written in Swift.
 * [Eyevinn/favorites-api](https://github.com/Eyevinn/favorites-api): Example of a simple implementation to build a favorites api on top of Redis
 * [facebookarchive/FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler): iOS tool that helps with profiling iOS Memory usage.
+* [nu774/fdkaac](https://github.com/nu774/fdkaac): command line encoder frontend for libfdk-aac
 * [rwbutler/FeatureFlags](https://github.com/rwbutler/FeatureFlags): 🚩 Allows developers to configure feature flags, run multiple A/B tests or phase feature roll out using a JSON configuration file.
 * [Dash-Industry-Forum/FeatureTest](https://github.com/Dash-Industry-Forum/FeatureTest): Issues corresponsing to each feature at http://testassets.dashif.org/
 * [solosoyfranco/Fedora](https://github.com/solosoyfranco/Fedora): Fedora Workstation - Things to do after installation (Apps, Settings, and Tweaks)
@@ -2170,7 +2174,7 @@
 * [snwh/fedora-post-install](https://github.com/snwh/fedora-post-install): A set of post-installation shell scripts for Fedora
 * [fusion809/fedora-scripts](https://github.com/fusion809/fedora-scripts): A series of shell scripts loaded on shell startup to help automate common tasks on Fedora.
 * [peotr26/Fedora-Scripts](https://github.com/peotr26/Fedora-Scripts): A group of scripts for Fedora
-* [smittix/fedora-setup](https://github.com/smittix/fedora-setup): Post install setup script for Fedora Linux
+* [smittix/fedorable](https://github.com/smittix/fedorable): Post install setup script for Fedora Linux
 * [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix):  ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 * [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata): None
 * [TryFetch/Fetch](https://github.com/TryFetch/Fetch): :movie_camera: The best way to watch Put.io on iPhone and iPad
@@ -2215,6 +2219,7 @@
 * [krzemienski/ffmpeg-build-1](https://github.com/krzemienski/ffmpeg-build-1): Build ffmpeg with its dependencies from source.
 * [binoculars/ffmpeg-build-lambda](https://github.com/binoculars/ffmpeg-build-lambda): Static FFmpeg builds for use on AWS Lambda
 * [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
+* [slyfox1186/ffmpeg-build-script](https://github.com/slyfox1186/ffmpeg-build-script): The FFmpeg build script build's the most up to date version of FFmpeg by using API calls to download the latest source code available.
 * [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds): None
 * [bramp/ffmpeg-cli-wrapper](https://github.com/bramp/ffmpeg-cli-wrapper): Java wrapper around the FFmpeg command line tool
 * [scrwdrv/ffmpeg-command](https://github.com/scrwdrv/ffmpeg-command): A simple ffmpeg and ffprobe child process handler, easy to add commands and execute
@@ -2727,7 +2732,7 @@
 * [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script): Simple Bash script to automate Go language tools single user installation or even removal.
 * [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
 * [yapingcat/gomedia](https://github.com/yapingcat/gomedia): golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
-* [sentriz/gonic](https://github.com/sentriz/gonic): music streaming server / subsonic server API implementation 
+* [sentriz/gonic](https://github.com/sentriz/gonic): music streaming server / free-software subsonic server API implementation
 * [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
 * [chriskiehl/GooeyExamples](https://github.com/chriskiehl/GooeyExamples): Example programs to Demonstrate Gooey's functionality 
 * [ptagr/google-cloud-storage-analyzer](https://github.com/ptagr/google-cloud-storage-analyzer): Use this tool to monitor the sizes of the Google Cloud Storage Buckets over time.
@@ -2817,7 +2822,7 @@
 * [chemag/h264nal](https://github.com/chemag/h264nal): Library and Tool to parse H264 NAL units
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
-* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more.
+* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
 * [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc): :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green_apple: 实时直播：WebRTC
 * [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals): Hack any Captive portal using MAC-spoofing technique
 * [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu): Hacker News Delivered to Desktop :dancers:
@@ -3825,7 +3830,7 @@
 * [DDVTECH/mistserver](https://github.com/DDVTECH/mistserver): The official mistserver source repository - www.mistserver.com
 * [wulab/mithril-slides](https://github.com/wulab/mithril-slides): A Keynote-inspired presentation app written with Mithril
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-* [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX): MIVisionX toolkit is a set of comprehensive computer vision and machine intelligence libraries, utilities, and applications bundled into a single toolkit. AMD MIVisionX also delivers a highly optimized open-source implementation of the Khronos OpenVX™ and OpenVX™ Extensions.
+* [ROCm/MIVisionX](https://github.com/ROCm/MIVisionX): MIVisionX toolkit is a set of comprehensive computer vision and machine intelligence libraries, utilities, and applications bundled into a single toolkit. AMD MIVisionX also delivers a highly optimized open-source implementation of the Khronos OpenVX™ and OpenVX™ Extensions.
 * [rnorth/mkdocs-codeinclude-plugin](https://github.com/rnorth/mkdocs-codeinclude-plugin): None
 * [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages): GitHub Action to deploy an MkDocs site to GitHub Pages
 * [MugunthKumar/MKNetworkKit-Swift](https://github.com/MugunthKumar/MKNetworkKit-Swift): A Pure Swift Implementation of MKNetworkKit. This is the Swift Networking framework you will ever need.
@@ -4746,7 +4751,7 @@
 * [glideapps/quicktype-xcode](https://github.com/glideapps/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT.
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation 
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -5837,6 +5842,7 @@
 * [albanmartel/ts2srt](https://github.com/albanmartel/ts2srt): This bash script  allows extract every subtitles of a group of ts video files
 * [tsduck/tsduck](https://github.com/tsduck/tsduck): MPEG Transport Stream Toolkit 
 * [Eyevinn/tsgen-svc](https://github.com/Eyevinn/tsgen-svc): Eyevinn Transport Stream Generator
+* [xtne6f/tsmemseg](https://github.com/xtne6f/tsmemseg): In-memory transport stream segmenter mainly for HLS/LL-HLS
 * [justdan96/tsMuxer](https://github.com/justdan96/tsMuxer): tsMuxer is a transport stream muxer for remuxing/muxing elementary streams, EVO/VOB/MPG, MKV/MKA, MP4/MOV, TS, M2TS to TS to M2TS. Supported video codecs H.264/AVC, H.265/HEVC, VC-1, MPEG2. Supported audio codecs AAC, AC3 / E-AC3(DD+), DTS/ DTS-HD. 
 * [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 * [MoshiMoshi0/ttrgbplusapi](https://github.com/MoshiMoshi0/ttrgbplusapi): api for thermaltake rgb plus devices
@@ -6182,6 +6188,7 @@
 * [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen): :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [VoodooSMBus/VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI): Synaptic Trackpad driver over SMBus/I2C for macOS
 * [VoodooSMBus/VoodooSMBus](https://github.com/VoodooSMBus/VoodooSMBus): i2c-i801 driver port for macOS X + ELAN SMBus macOS X driver for Thinkpad T480s, L380, P52
+* [xiph/vorbis](https://github.com/xiph/vorbis): Reference implementation of the Ogg Vorbis audio format.
 * [subfuzion/voting-app](https://github.com/subfuzion/voting-app): Example containerized microservices Voting App based on the original Docker version. bit.ly/voting-app-with-docker
 * [rsattar/Voucher](https://github.com/rsattar/Voucher): A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 * [Eyevinn/vp9-dash](https://github.com/Eyevinn/vp9-dash): FFMpeg wrapper script to create VP9 MPEG-DASH packages

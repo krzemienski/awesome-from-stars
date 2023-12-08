@@ -1808,9 +1808,6 @@
     "GNOME/gnome-applets": [
         "Other"
     ],
-    "GPUOpen-ProfessionalCompute-Libraries/MIVisionX": [
-        "Other"
-    ],
     "GSA/resources.data.gov": [
         "Other"
     ],
@@ -3222,6 +3219,9 @@
         "Other"
     ],
     "RMerl/asuswrt-merlin": [
+        "Other"
+    ],
+    "ROCm/MIVisionX": [
         "Other"
     ],
     "RadekMolenda/org-notion": [
@@ -8156,6 +8156,12 @@
     "enaqx/awesome-pentest": [
         "Other"
     ],
+    "encode/broadcaster": [
+        "Other"
+    ],
+    "encode/dashboard": [
+        "Other"
+    ],
     "encode/django-rest-framework": [
         "Other"
     ],
@@ -11234,6 +11240,9 @@
     "kmmbvnr/django-material": [
         "Other"
     ],
+    "knik0/faad2": [
+        "Other"
+    ],
     "knot2afrayed/Focus-Notes": [
         "Other"
     ],
@@ -13721,6 +13730,9 @@
     "ntv-one/portainer": [
         "Other"
     ],
+    "nu774/fdkaac": [
+        "Other"
+    ],
     "nu774/qaac": [
         "Other"
     ],
@@ -16199,10 +16211,10 @@
     "singhkshitij/MagicPrint-ECommerce-App-Android": [
         "Other"
     ],
-    "sirredbeard/Awesome-UNIX": [
+    "sirredbeard/awesome-unix": [
         "Other"
     ],
-    "sirredbeard/Awesome-WSL": [
+    "sirredbeard/awesome-wsl": [
         "Other"
     ],
     "sissbruecker/linkding": [
@@ -16328,6 +16340,9 @@
     "slugh23/hid-rfid-reader": [
         "Other"
     ],
+    "slyfox1186/ffmpeg-build-script": [
+        "Other"
+    ],
     "smacke/ffsubsync": [
         "Other"
     ],
@@ -16340,7 +16355,7 @@
     "smicallef/spiderfoot": [
         "Other"
     ],
-    "smittix/fedora-setup": [
+    "smittix/fedorable": [
         "Other"
     ],
     "smol-rs/smol": [
@@ -18701,6 +18716,9 @@
     "xiph/rav1e": [
         "Other"
     ],
+    "xiph/vorbis": [
+        "Other"
+    ],
     "xjh22222228/awesome-web-editor": [
         "Other"
     ],
@@ -18738,6 +18756,9 @@
         "Other"
     ],
     "xtekky/chatgpt-clone": [
+        "Other"
+    ],
+    "xtne6f/tsmemseg": [
         "Other"
     ],
     "xtranophilist/gnome-shell-extension-sensors": [
