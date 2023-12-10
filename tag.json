@@ -209,6 +209,9 @@
     "Alamofire/Alamofire": [
         "Other"
     ],
+    "Aleksbgbg/streamfox": [
+        "Other"
+    ],
     "AlexEidt/Vidio": [
         "Other"
     ],
@@ -852,6 +855,9 @@
         "Other"
     ],
     "DSRCorporation/imf-conversion": [
+        "Other"
+    ],
+    "DYefremov/FFmpegGTK": [
         "Other"
     ],
     "DaGooseYT/EncodeGUI": [
@@ -2711,6 +2717,9 @@
     "MikeWehrle/RokuManager": [
         "Other"
     ],
+    "MikhailChaplygin/VideoEngeneering": [
+        "Other"
+    ],
     "MillmanY/MMPlayerView": [
         "Other"
     ],
@@ -3804,6 +3813,9 @@
         "Other"
     ],
     "TheOpponent/mr-otcs": [
+        "Other"
+    ],
+    "TheTaylorLee/docker-transcodeautomation": [
         "Other"
     ],
     "TheTumultuousUnicornOfDarkness/CPU-X": [
@@ -6458,6 +6470,9 @@
     "chabou/hyper-pane": [
         "Other"
     ],
+    "chakra-ui/chakra-ui": [
+        "Other"
+    ],
     "chalk/chalk": [
         "Other"
     ],
@@ -6495,6 +6510,9 @@
         "Other"
     ],
     "chentsulin/awesome-graphql": [
+        "Other"
+    ],
+    "chenxinfeng4/ffmpegcv": [
         "Other"
     ],
     "chestm007/linux_thermaltake_riing": [
@@ -7166,6 +7184,9 @@
     "darwiin/yaac-another-awesome-cv": [
         "Other"
     ],
+    "das-kaesebrot/transcodeservice": [
+        "Other"
+    ],
     "dashpay/JSONSchemaValidation": [
         "Other"
     ],
@@ -7329,6 +7350,9 @@
         "Other"
     ],
     "deathau/cm-editor-syntax-highlight-obsidian": [
+        "Other"
+    ],
+    "debugly/FFmpegTutorial": [
         "Other"
     ],
     "decaporg/decap-cms": [
@@ -8906,6 +8930,9 @@
     "gabrielgodoy-zz/github-stars-manager": [
         "Other"
     ],
+    "galaxy-s10/billd-live-admin": [
+        "Other"
+    ],
     "galio-org/galio": [
         "Other"
     ],
@@ -9132,6 +9159,9 @@
         "Other"
     ],
     "glideapps/quicktype-xcode": [
+        "Other"
+    ],
+    "globocom/database-as-a-service": [
         "Other"
     ],
     "globocom/hlsclient": [
@@ -12920,6 +12950,9 @@
     "mitmproxy/mitmproxy": [
         "Other"
     ],
+    "mitmproxy/pdoc": [
+        "Other"
+    ],
     "mixmaxhq/eb-fix-npm": [
         "Other"
     ],
@@ -15215,6 +15248,9 @@
     "remotion-dev/remotion": [
         "Other"
     ],
+    "remyxai/FFMPerative": [
+        "Other"
+    ],
     "reneargento/algorithms-sedgewick-wayne": [
         "Other"
     ],
@@ -16508,6 +16544,9 @@
     "sparrowcode/PermissionsKit": [
         "Other"
     ],
+    "spekt8/spekt8": [
+        "Other"
+    ],
     "spencerpauly/awesome-notion": [
         "Other"
     ],
@@ -16653,6 +16692,9 @@
         "Other"
     ],
     "stashapp/stash": [
+        "Other"
+    ],
+    "state-spaces/mamba": [
         "Other"
     ],
     "statping/statping": [
@@ -16935,6 +16977,9 @@
         "Other"
     ],
     "syedhali/EZAudio": [
+        "Other"
+    ],
+    "sylviiu/ezytdl": [
         "Other"
     ],
     "syncany/syncany": [
@@ -18702,6 +18747,9 @@
         "Other"
     ],
     "xingshaocheng/architect-awesome": [
+        "Other"
+    ],
+    "xinitd/python-download-m3u8": [
         "Other"
     ],
     "xinnjie/extract-subtitle": [

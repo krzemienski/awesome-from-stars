@@ -987,6 +987,7 @@
 * [anachirino/bifserver](https://github.com/anachirino/bifserver): Server which creates and serves up BIF files for Roku players
 * [bbc/bigscreen-player](https://github.com/bbc/bigscreen-player): Simplified media playback for bigscreen devices
 * [monyone/biim](https://github.com/monyone/biim): LL-HLS implementation written in Python3
+* [galaxy-s10/billd-live-admin](https://github.com/galaxy-s10/billd-live-admin): 基于Vue3 + Vite4 + NaiveUI搭建的直播间后台
 * [Gerzer/Binary-Shark](https://github.com/Gerzer/Binary-Shark): Manage your DigitalOcean account from iPhone and Apple Watch.
 * [bisq-network/bisq](https://github.com/bisq-network/bisq): A decentralized bitcoin exchange network
 * [teambit/bit](https://github.com/teambit/bit): A build system for development of composable software.
@@ -1170,6 +1171,7 @@
 * [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro): 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 * [certbot/certbot](https://github.com/certbot/certbot): Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 * [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course): Certified Kubernetes Administrator - CKA Course
+* [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 * [chalk/chalk](https://github.com/chalk/chalk): 🖍 Terminal string styling done right
 * [nonameplum/Changeable](https://github.com/nonameplum/Changeable): Follow in details changes in an object.
 * [Eyevinn/channel-engine](https://github.com/Eyevinn/channel-engine): Open Source FAST Channel Engine library based on VOD2Live technology
@@ -1536,6 +1538,7 @@
 * [washingtonpost/data-police-shootings](https://github.com/washingtonpost/data-police-shootings): The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since 2015.
 * [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 * [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws): AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
+* [globocom/database-as-a-service](https://github.com/globocom/database-as-a-service): Database as a service (DBaaS) that allows users to quickly and easily deploy and manage database instances using cloud infrastructure
 * [DataDog/datadogpy](https://github.com/DataDog/datadogpy): The Datadog Python library
 * [evilsh3ll/datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown): None
 * [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator): Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
@@ -1782,6 +1785,7 @@
 * [tiredofit/docker-traefik-cloudflare-companion](https://github.com/tiredofit/docker-traefik-cloudflare-companion): Automatically Create CNAME records for containers served by Traefik
 * [rafrasenberg/docker-traefik-portainer](https://github.com/rafrasenberg/docker-traefik-portainer): Docker container management with Traefik v2 and Portainer.
 * [ttyS0/docker-transcode-vaapi](https://github.com/ttyS0/docker-transcode-vaapi): Docker container for Don Melton's other-transcode tool.
+* [TheTaylorLee/docker-transcodeautomation](https://github.com/TheTaylorLee/docker-transcodeautomation): An automated media transcoding solution.
 * [akofman/docker-video-processing](https://github.com/akofman/docker-video-processing): A Docker image intended for video processing and analysing
 * [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav): Docker image for running an Apache WebDAV server
 * [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -2106,6 +2110,7 @@
 * [syedhali/EZAudio](https://github.com/syedhali/EZAudio): An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
 * [0oljyo0/EZRclone](https://github.com/0oljyo0/EZRclone): A PyQt-based rclone gui
 * [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
+* [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl): Advanced electron-based frontend for yt-dlp
 * [knik0/faad2](https://github.com/knik0/faad2): Freeware Advanced Audio (AAC) Decoder faad2 mirror
 * [strongself/fabricio](https://github.com/strongself/fabricio): Fetch Fabric.io statistics like never before
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
@@ -2302,8 +2307,10 @@
 * [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid): FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
 * [comingAlive/ffmpegaudioextract.xyz](https://github.com/comingAlive/ffmpegaudioextract.xyz): A minimalistic wasm-based web application for instant audio extraction; video to audio conversion.
 * [alicemara/ffmpegcompileqsvav1](https://github.com/alicemara/ffmpegcompileqsvav1): A quick personal script for making ffmpeg on Ubuntu 22.04 LTS on a machine with a Intel Arc card for use with AV1 encoding/decoding and oneVPL.
+* [chenxinfeng4/ffmpegcv](https://github.com/chenxinfeng4/ffmpegcv): The ffmpegcv is a ffmpeg backbone for open-cv like Video Reader and Writer
 * [alfg/ffmpegd](https://github.com/alfg/ffmpegd): FFmpeg websocket server for ffmpeg-commander.
 * [nschlia/ffmpegfs](https://github.com/nschlia/ffmpegfs): FUSE-based transcoding filesystem with video support from many formats to FLAC, MP4, TS, WebM, OGG, MP3, HLS, and others.
+* [DYefremov/FFmpegGTK](https://github.com/DYefremov/FFmpegGTK): Simple GTK+ frontend for FFmpeg.
 * [HaikuArchives/ffmpegGUI](https://github.com/HaikuArchives/ffmpegGUI): GUI for FFmpeg
 * [zhen-ke/ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI): ffmpeg GUI
 * [cuongdcdev/ffmpegGui2](https://github.com/cuongdcdev/ffmpegGui2): graphical interface of FFmpeg using Java swing as a gui frontend, aim to provide easy to use interface with common and useful features
@@ -2313,8 +2320,10 @@
 * [aliakseis/FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer): Simple FFmpeg video player
 * [ArifAltiok26/FFmpegpp](https://github.com/ArifAltiok26/FFmpegpp): Lightweight ffmpeg wrapper for modern cpp
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
+* [debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial): MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
 * [mbalamat/ffmpegWasmHlsToMp4](https://github.com/mbalamat/ffmpegWasmHlsToMp4): Demo of using ffmpegwasm to covert an HLS playlist to mp4, in the browser.
+* [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative): Chat to Compose Video
 * [amiaopensource/ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg commands for archivists!
 * [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy): Pythonic interface for FFmpeg/FFprobe command line
 * [wchill/ffmpy3](https://github.com/wchill/ffmpy3): Pythonic interface for FFmpeg/FFprobe command line
@@ -3687,6 +3696,7 @@
 * [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase): This repository is one of a few malware collections on the GitHub.
 * [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode): Collection of malware source code for a variety of platforms in an array of different programming languages.
 * [Comcast/mamba](https://github.com/Comcast/mamba): Mamba is a Swift iOS, tvOS and macOS framework to parse, validate and write HTTP Live Streaming (HLS) data.
+* [state-spaces/mamba](https://github.com/state-spaces/mamba): None
 * [mautilus/MAMUT](https://github.com/mautilus/MAMUT): #1 Roku Unit Testing System by Mautilus
 * [jaimevalero/managing-awesome-lists](https://github.com/jaimevalero/managing-awesome-lists): Utilities to find awesome resources
 * [manasesjesus/manasesjesus](https://github.com/manasesjesus/manasesjesus): Awesome readme profile automatically updated by GitHub Actions
@@ -4428,6 +4438,7 @@
 * [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown): A PDF to Markdown converter
 * [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT): PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 * [metachris/pdfx](https://github.com/metachris/pdfx): Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
+* [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc): API Documentation for Python Projects
 * [HirokiUmatani/PEAR-ZoomingView-iOS](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS): None
 * [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
@@ -4687,6 +4698,7 @@
 * [linsomniac/python-bottle-skeleton](https://github.com/linsomniac/python-bottle-skeleton): A skeleton with examples for creating a bottle application.
 * [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 * [koalalorenzo/python-digitalocean](https://github.com/koalalorenzo/python-digitalocean): 🐍🐳 Python module to manage Digital Ocean droplets
+* [xinitd/python-download-m3u8](https://github.com/xinitd/python-download-m3u8): M3U8 downloader
 * [LetsUpgrade/Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials): None
 * [jonghwanhyeon/python-ffmpeg](https://github.com/jonghwanhyeon/python-ffmpeg): A python binding for FFmpeg which provides sync and async APIs
 * [hadronepoch/python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
@@ -5337,6 +5349,7 @@
 * [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum): A client-side image transcoding library.
 * [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test): Test your internet connection speed and ping using speedtest.net from the CLI
 * [acoustid/speexdsp](https://github.com/acoustid/speexdsp): Speex audio processing library
+* [spekt8/spekt8](https://github.com/spekt8/spekt8): Visualize your Kubernetes cluster in real time
 * [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 * [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx): The Sphinx documentation generator
 * [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot): SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -5454,6 +5467,7 @@
 * [jtvberg/StreamDock](https://github.com/jtvberg/StreamDock): Streaming service viewer.
 * [phily245/streamer](https://github.com/phily245/streamer): A docker image which provides live video stream receiving and broadcasting with an optional, fully customisable authentication pugin system via RTMP and HLS. Each stream is also automatically recorded and converted to an MP4 to allow for re-broadcasting and re-distribution.
 * [riltech/streamer](https://github.com/riltech/streamer): Go Package built around spinning up streaming processes
+* [Aleksbgbg/streamfox](https://github.com/Aleksbgbg/streamfox): Streamfox is a video hosting and streaming service for easy video sharing.
 * [keepwalking86/streaming](https://github.com/keepwalking86/streaming): Deploying Media Streaming Server
 * [aerogus/streaming-cluster](https://github.com/aerogus/streaming-cluster): Serveur de streaming vidéo à haute disponibilité et extensible
 * [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5): Testbed examples for Red5 Pro HTML SDK usage
@@ -5818,6 +5832,7 @@
 * [shubhrankavarma/transcoders](https://github.com/shubhrankavarma/transcoders): Transcoders Service
 * [exasky/TranscoderScript](https://github.com/exasky/TranscoderScript): None
 * [redspider001432/transcoderUI](https://github.com/redspider001432/transcoderUI): None
+* [das-kaesebrot/transcodeservice](https://github.com/das-kaesebrot/transcodeservice): RESTful ffmpeg based transcoding service
 * [Ponyboy47/TranscodeVideo](https://github.com/Ponyboy47/TranscodeVideo): A Swift wrapper around the transcode-video command
 * [minhaj86/TranscodeWorker](https://github.com/minhaj86/TranscodeWorker): Vert.x worker to execute transcode job
 * [AlvianPrasetya/transcoding](https://github.com/AlvianPrasetya/transcoding): FFmpeg transcoders benchmark
@@ -6097,6 +6112,7 @@
 * [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader): A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
 * [kudlav/videoeditor](https://github.com/kudlav/videoeditor): Web Based Video Editor Using MLT Framework, Bachelor thesis
 * [kudlav/videoeditor-doc](https://github.com/kudlav/videoeditor-doc): Bachelor thesis for videoeditor repository.
+* [MikhailChaplygin/VideoEngeneering](https://github.com/MikhailChaplygin/VideoEngeneering): Usefull things to manage videos and other related operations
 * [leixiaohua1020/VideoEye](https://github.com/leixiaohua1020/VideoEye): open-source stream analysis software
 * [videoflow/videoflow](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 * [antiboredom/videogrep](https://github.com/antiboredom/videogrep): automatic video supercuts with python
