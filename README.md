@@ -1186,6 +1186,7 @@
 * [IBM/charts](https://github.com/IBM/charts): The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 * [danielgindi/Charts](https://github.com/danielgindi/Charts): Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * [helm/charts](https://github.com/helm/charts): ⚠️(OBSOLETE) Curated applications for Kubernetes
+* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT interface with better UI 
 * [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval): None
 * [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion): ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
@@ -2846,6 +2847,7 @@
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 * [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [mdh34/hackup](https://github.com/mdh34/hackup): Read Hacker News from the desktop
+* [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
 * [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 * [linkedin/Hakawai](https://github.com/linkedin/Hakawai): A powerful, extensible UITextView.
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
@@ -5469,6 +5471,7 @@
 * [riltech/streamer](https://github.com/riltech/streamer): Go Package built around spinning up streaming processes
 * [Aleksbgbg/streamfox](https://github.com/Aleksbgbg/streamfox): Streamfox is a video hosting and streaming service for easy video sharing.
 * [keepwalking86/streaming](https://github.com/keepwalking86/streaming): Deploying Media Streaming Server
+* [samueleastdev/streaming-analyzer](https://github.com/samueleastdev/streaming-analyzer): Analyze and visualize HTTP ABR streams
 * [aerogus/streaming-cluster](https://github.com/aerogus/streaming-cluster): Serveur de streaming vidéo à haute disponibilité et extensible
 * [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5): Testbed examples for Red5 Pro HTML SDK usage
 * [red5pro/streaming-ios](https://github.com/red5pro/streaming-ios): This repository contains a simple project with a number of iOS examples that can be used for testing and reference.
