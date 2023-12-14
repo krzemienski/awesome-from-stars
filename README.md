@@ -149,6 +149,7 @@
 * [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit): 使用 Flutter 开发的 ADB GUI 客户端
 * [sunwicked/adbGUI](https://github.com/sunwicked/adbGUI): Desktop client for adb commands inspired from adb idea plugin for android studio 
 * [s3h10r/AddToReminiscence-Chromium-Extension](https://github.com/s3h10r/AddToReminiscence-Chromium-Extension): This extension adds a button to your toolbar which lets you add the current page you're browsing to your Reminiscence instance.
+* [GPUOpen-LibrariesAndSDKs/ADLX](https://github.com/GPUOpen-LibrariesAndSDKs/ADLX): AMD Device Library eXtra
 * [adminfaces/admin-template](https://github.com/adminfaces/admin-template): JSF responsive admin template based on Bootstrap and AdminLTE 
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 5
 * [basil79/ads-manager](https://github.com/basil79/ads-manager): HTML5 Video Ads Manager based on @dailymotion/vast-client
@@ -242,6 +243,7 @@
 * [AMD-OSX/AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla): Native AMD macOS via OpenCore
 * [kamkry-zz/AmdGPUH265Handler](https://github.com/kamkry-zz/AmdGPUH265Handler): A simple Python automation for AMD GPU-accelerated video encoding using H265 via ffmpeg
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
+* [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF): The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 * [pegasusict/AMM](https://github.com/pegasusict/AMM): Audiophiles' Music Manager is a Python3/Laravel8 suite which tries to overcome the shortcomings of most music management programs out there. This project is in it's infancy and I use this as a study project.
 * [gabek/Amplitude-Brightscript](https://github.com/gabek/Amplitude-Brightscript): A Brightscript (Roku) library for submitting analytics to Amplitude
 * [Amplitude-Developer-Docs/amplitude-dev-center](https://github.com/Amplitude-Developer-Docs/amplitude-dev-center): Amplitude's Developer Center docs.
@@ -480,6 +482,7 @@
 * [saurabh0719/automate-mediaconvert](https://github.com/saurabh0719/automate-mediaconvert): Automate video transcoding and generate thumbnails with AWS Elemental Mediaconvert and S3 :zap:
 * [rokudev/automated-channel-testing](https://github.com/rokudev/automated-channel-testing): Roku Automated Channel Testing: Selenium-based WebDriver + Robot Framework + JS Framework + Samples
 * [disneystreaming/automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor): Automated Cloud Advisor is a extensible tool that aims at facilitating cost optimization in AWS, by collecting data for resources that are under utilized. In addition, this is a great learning tool for new DevOps/Cloud engineers that want to start automating things in AWS. 
+* [snapfast/AutoMates](https://github.com/snapfast/AutoMates): I am lazy. I built a script to apply for jobs, swipe on bumble, and whatever comes next.
 * [shockz-offsec/Automatic-Notion-Backup](https://github.com/shockz-offsec/Automatic-Notion-Backup): This script automates the backup process of Notion data into Markdown and CSV formats. Additionally, the script processes the data to remove any AWS identifiers that may be present in the Markdown files, folders, and internal references to other files in the backup
 * [1337-server/automatic-ripping-machine](https://github.com/1337-server/automatic-ripping-machine): Automatic Ripping Machine (ARM) Scripts
 * [Sukhdip-Sandhu/Automatic-Watermark-Removal](https://github.com/Sukhdip-Sandhu/Automatic-Watermark-Removal): Python computer vision project that aims to automatically remove the watermarks of stock images. The algorithm is designed off of those of Google researchers
@@ -504,9 +507,11 @@
 * [Eyevinn/AutoVMAF-Excel-Accel](https://github.com/Eyevinn/AutoVMAF-Excel-Accel): Python script to generate spreadsheets from AutoVMAF-API results.
 * [Eyevinn/autovmaf-preprocessing](https://github.com/Eyevinn/autovmaf-preprocessing):  Tool that analyses a video via a combination of motion and sharpness to determine the most suitable parts to be used for VMAF analysis. https://github.com/Eyevinn/autovmaf
 * [CrypticSignal/AV-converter](https://github.com/CrypticSignal/AV-converter): A web app to convert an audio/video file to another format. Client side conversion means that your file does not get uploaded to a server.
+* [AOMediaCodec/av1-isobmff](https://github.com/AOMediaCodec/av1-isobmff): Official specification of the AOM group for the carriage of AV1 in ISOBMFF
 * [federicoserraino/AV1-performance-analysis](https://github.com/federicoserraino/AV1-performance-analysis): Performance analysis about AV1, HEVC and AVC video compression formats in desktop and mobile environment. Some sample of encoding, decoding and performance data collection scripts have been included.
 * [Eyevinn/av1-player](https://github.com/Eyevinn/av1-player): Eyevinn AV1 player
 * [AOMediaCodec/av1-rtp-spec](https://github.com/AOMediaCodec/av1-rtp-spec): Current draft (HTML): https://aomediacodec.github.io/av1-rtp-spec/
+* [AOMediaCodec/av1-spec](https://github.com/AOMediaCodec/av1-spec): AV1 Bitstream & Decoding Process Specification
 * [porcino/Av1ador](https://github.com/porcino/Av1ador): AV1/HEVC/VP9/H264 parallel encoder GUI for FFmpeg with preview/comparison
 * [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an): Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 * [Kidsnd274/Av1anStaxRipWrapper](https://github.com/Kidsnd274/Av1anStaxRipWrapper): Wrapper script to use Av1an with StaxRip
@@ -790,7 +795,7 @@
 * [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest): A collaborative list of great resources about RESTful API architecture, development, test, and performance
 * [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps): A curated list of roadmaps.
-* [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling): Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
+* [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling): Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby): 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 * [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
 * [lauris/awesome-scala](https://github.com/lauris/awesome-scala): A community driven list of useful Scala libraries, frameworks and software.
@@ -1146,6 +1151,7 @@
 * [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c): build and install C-compatible libraries
 * [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb): A cargo subcommand that generates Debian packages from information in Cargo.toml
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
+* [intel/cartwheel-ffmpeg](https://github.com/intel/cartwheel-ffmpeg): Intel developer staging area for unmerged upstream patch contributions to FFmpeg
 * [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 * [castjs/castjs](https://github.com/castjs/castjs): 📺 Chromecast Sender Library for the Browser
 * [xat/castnow](https://github.com/xat/castnow): commandline chromecast player
@@ -1772,6 +1778,7 @@
 * [Eyevinn/docker-s3-mp4split](https://github.com/Eyevinn/docker-s3-mp4split): Unified Origin mp4split S3 output wrapper
 * [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume): Docker container with a data volume from s3.
 * [EasyPi/docker-scrapyd](https://github.com/EasyPi/docker-scrapyd): 🕷️ Scrapyd is an application for deploying and running Scrapy spiders.
+* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 * [CodeMazeBlog/docker-series](https://github.com/CodeMazeBlog/docker-series): Docker Series about containerizing ASP.NET Core app with MySQL..
 * [Eyevinn/docker-serve](https://github.com/Eyevinn/docker-serve): A simple Python based HTTP server that sets CORS allow headers. Useful for streaming from files on local computer
 * [gdoteof/docker-streisand](https://github.com/gdoteof/docker-streisand): None
@@ -1888,7 +1895,7 @@
 * [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn): A Dead Simple VPN.
 * [eebean2/DTConsole](https://github.com/eebean2/DTConsole): An on-device console for debugging purpose
 * [ebu/dtt2ip](https://github.com/ebu/dtt2ip): Broadcast to IP conversion for Wifi indoor coverage
-* [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link management tool for modern marketing teams to create, share, and track short links.
+* [dubinc/dub](https://github.com/dubinc/dub): Open-source link management infrastructure for modern marketing teams.
 * [apache/dubbo](https://github.com/apache/dubbo): The java implementation of Apache Dubbo. An RPC and microservice framework.
 * [apache/dubbo-samples](https://github.com/apache/dubbo-samples): samples for Apache Dubbo
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
@@ -2657,6 +2664,7 @@
 * [arunk140/gnome-command-menu](https://github.com/arunk140/gnome-command-menu): A GNOME Shell Extension to manage shortcuts in Top Bar (Inspired by Shuttle and SSHMenu)
 * [phavekes/gnome-extension-all-ip-addresses](https://github.com/phavekes/gnome-extension-all-ip-addresses): This is the code behind the GNOME Shell Extension called ALL IP Addresses, available in the GNOME Shell Extension store.
 * [CharlieQLe/gnome-extension-gtk3-theme-switcher](https://github.com/CharlieQLe/gnome-extension-gtk3-theme-switcher): None
+* [devopsnextgenx/gnome-extensions](https://github.com/devopsnextgenx/gnome-extensions): Developing different gnome-extensions
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [davesteele/gnome-gmail](https://github.com/davesteele/gnome-gmail): Integrate GMail into the Linux Desktop
 * [hardpixel/gnome-hud](https://github.com/hardpixel/gnome-hud): Unity like HUD menu for the GNOME Desktop Environment using rofi menu.
@@ -3481,6 +3489,7 @@
 * [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave): A retro outrun / cyberpunk inspired VS Code theme
 * [system76/launch](https://github.com/system76/launch): System76 Launch Configurable Keyboard
 * [hedgieinsocks/launcher](https://github.com/hedgieinsocks/launcher): GNOME Extension: Run scripts from a Panel Indicator
+* [pop-os/launcher](https://github.com/pop-os/launcher): Modular IPC-based desktop launcher service
 * [Laverna/laverna](https://github.com/Laverna/laverna): Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 * [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair): No clever tagline needed.
 * [nicklockwood/layout](https://github.com/nicklockwood/layout): A declarative UI framework for iOS
@@ -3527,6 +3536,7 @@
 * [ColdGrub1384/LibTerm-Packages](https://github.com/ColdGrub1384/LibTerm-Packages): A repo where put Python scripts installable in LibTerm
 * [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd): A client library to multiplex connections from and to iOS devices
 * [intel/libva](https://github.com/intel/libva): Libva is an implementation for VA-API (Video Acceleration API)
+* [intel/libva-utils](https://github.com/intel/libva-utils): Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
 * [arex1337/lichess-daily-puzzle-slack-app](https://github.com/arex1337/lichess-daily-puzzle-slack-app): This is a Slack app that posts a daily chess puzzle from lichess.org to the Slack channel in which the app is installed.
 * [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker): Find retain cycles / memory leaks sooner.
 * [perkele1989/light](https://github.com/perkele1989/light): GNU/Linux application to control backlights
@@ -4738,7 +4748,7 @@
 * [NationalSecurityAgency/qgis-latlontools-plugin](https://github.com/NationalSecurityAgency/qgis-latlontools-plugin): QGIS tools to capture and zoom to coordinates using decimal, DMS, WKT, GeoJSON, MGRS, UTM, UPS, GEOREF, ECEF, H3, and Plus Codes notation. Provides external map support, MGRS & Plus Codes conversion and point digitizing tools.
 * [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook): The source code for the upcoming qml book
 * [zaps166/QMPlay2](https://github.com/zaps166/QMPlay2): QMPlay2 is a video and audio player which can play most formats and codecs.
-* [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+* [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [tohodog/QSVideoPlayer](https://github.com/tohodog/QSVideoPlayer): 安卓视频播放器AndroidVideoplayer,架构设计优良功能丰富,支持多种解码,支持设置比例,浮窗,倍速,静音等
 * [therecipe/qt](https://github.com/therecipe/qt): Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 * [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator): A cross-platform Qt IDE
@@ -5136,6 +5146,7 @@
 * [segmentio/segment-proxy](https://github.com/segmentio/segment-proxy): Proxies requests to the Segment CDN and Tracking API.
 * [gabek/SegmentIO-Brightscript](https://github.com/gabek/SegmentIO-Brightscript): A BrightScript interface to SegmentIO event tracking
 * [teejee2008/selene](https://github.com/teejee2008/selene): Advanced audio-video converter for Linux with support for modern audio and video formats like HEVC, OPUS, WEBM, etc. Can be used in scripted mode, or by running the GTK frontend.
+* [SeleniumHQ/selenium-ide](https://github.com/SeleniumHQ/selenium-ide): Open Source record and playback test automation for the web.
 * [zntfdr/Selenops](https://github.com/zntfdr/Selenops): A Swift Web Crawler 🕷
 * [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates): Portainer templates for selfhosted services
 * [selinon/selinon](https://github.com/selinon/selinon):  An advanced distributed task flow management on top of Celery 

@@ -116,7 +116,13 @@
     "AMD-OSX/Resources": [
         "Other"
     ],
+    "AOMediaCodec/av1-isobmff": [
+        "Other"
+    ],
     "AOMediaCodec/av1-rtp-spec": [
+        "Other"
+    ],
+    "AOMediaCodec/av1-spec": [
         "Other"
     ],
     "APIs-guru/awesome-openapi3": [
@@ -1814,6 +1820,12 @@
     "GNOME/gnome-applets": [
         "Other"
     ],
+    "GPUOpen-LibrariesAndSDKs/ADLX": [
+        "Other"
+    ],
+    "GPUOpen-LibrariesAndSDKs/AMF": [
+        "Other"
+    ],
     "GSA/resources.data.gov": [
         "Other"
     ],
@@ -2562,6 +2574,9 @@
         "Other"
     ],
     "LucyBot-Inc/api-spec-converter": [
+        "Other"
+    ],
+    "Ly0n/awesome-robotic-tooling": [
         "Other"
     ],
     "M3U8Kit/M3U8Parser": [
@@ -3480,6 +3495,12 @@
         "Other"
     ],
     "Selenium-H/App-Grid-Tweaks": [
+        "Other"
+    ],
+    "SeleniumHQ/docker-selenium": [
+        "Other"
+    ],
+    "SeleniumHQ/selenium-ide": [
         "Other"
     ],
     "SelfhostedPro/Yacht": [
@@ -7496,6 +7517,9 @@
     "devlucky/Kakapo": [
         "Other"
     ],
+    "devopsnextgenx/gnome-extensions": [
+        "Other"
+    ],
     "devosonder/jitsi-meet-transcoder": [
         "Other"
     ],
@@ -7872,6 +7896,9 @@
         "Other"
     ],
     "dtan4/k8s-job-cleaner": [
+        "Other"
+    ],
+    "dubinc/dub": [
         "Other"
     ],
     "dudik/twitch-m3u8": [
@@ -10142,6 +10169,9 @@
     "intel-media-ci/ffmpeg": [
         "Other"
     ],
+    "intel/cartwheel-ffmpeg": [
+        "Other"
+    ],
     "intel/cmrt": [
         "Other"
     ],
@@ -10152,6 +10182,9 @@
         "Other"
     ],
     "intel/libva": [
+        "Other"
+    ],
+    "intel/libva-utils": [
         "Other"
     ],
     "intel/media-delivery": [
@@ -14648,6 +14681,9 @@
     "pop-os/iso": [
         "Other"
     ],
+    "pop-os/launcher": [
+        "Other"
+    ],
     "pop-os/pop": [
         "Other"
     ],
@@ -14781,9 +14817,6 @@
         "Other"
     ],
     "protonemedia/laravel-ffmpeg": [
-        "Other"
-    ],
-    "protontypes/awesome-robotic-tooling": [
         "Other"
     ],
     "prsh9/kubectl-dashboard": [
@@ -16427,6 +16460,9 @@
     "snapcrafters/helm": [
         "Other"
     ],
+    "snapfast/AutoMates": [
+        "Other"
+    ],
     "sneljo1/auryo": [
         "Other"
     ],
@@ -16752,9 +16788,6 @@
         "Other"
     ],
     "steve228uk/YouTube-Music": [
-        "Other"
-    ],
-    "steven-tey/dub": [
         "Other"
     ],
     "steven2358/awesome-generative-ai": [
