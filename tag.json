@@ -2237,6 +2237,9 @@
     "Jocker666z/ffmes": [
         "Other"
     ],
+    "John2360/dj-download-interface": [
+        "Other"
+    ],
     "JohnCoates/Aerial": [
         "Other"
     ],
@@ -2586,6 +2589,9 @@
         "Other"
     ],
     "MGF15/SoundGrab": [
+        "Other"
+    ],
+    "MGPoirot/web2mp3": [
         "Other"
     ],
     "MLSDev/TRON": [
@@ -3518,6 +3524,9 @@
     "SeverinetsDenis/SwiftCoreAutotests": [
         "Other"
     ],
+    "Shabinder/SpotiFlyer": [
+        "Other"
+    ],
     "ShaneIsrael/fireshare": [
         "Other"
     ],
@@ -3549,6 +3558,9 @@
         "Other"
     ],
     "SicAlpha/docker-beets": [
+        "Other"
+    ],
+    "SiddhartaDutta/Spotify-to-MP3": [
         "Other"
     ],
     "Significant-Gravitas/Auto-GPT-Plugins": [
@@ -5006,6 +5018,9 @@
     "apache/httpd": [
         "Other"
     ],
+    "apache/incubator-seata": [
+        "Other"
+    ],
     "apache/netbeans": [
         "Other"
     ],
@@ -5313,6 +5328,9 @@
         "Other"
     ],
     "artxia/Action-NotionSite": [
+        "Other"
+    ],
+    "artyshko/smd": [
         "Other"
     ],
     "arunk140/gnome-command-menu": [
@@ -7658,6 +7676,9 @@
     "django-json-api/django-rest-framework-json-api": [
         "Other"
     ],
+    "django/daphne": [
+        "Other"
+    ],
     "django/django": [
         "Other"
     ],
@@ -8762,6 +8783,9 @@
     "floostack/transcoder": [
         "Other"
     ],
+    "florimondmanca/awesome-asgi": [
+        "Other"
+    ],
     "flowkey/UIKit-cross-platform": [
         "Other"
     ],
@@ -8925,6 +8949,9 @@
         "Other"
     ],
     "futzu/scte35-threefive": [
+        "Other"
+    ],
+    "futzu/umzz": [
         "Other"
     ],
     "futzu/x9k3": [
@@ -10605,6 +10632,9 @@
         "Other"
     ],
     "jitsi/jitsi-meet": [
+        "Other"
+    ],
+    "jjaacckk/spotify-dl": [
         "Other"
     ],
     "jkarthic-akamai/ABR-Broadcaster": [
@@ -15860,6 +15890,12 @@
     "schellkenig/DASHLiveEdgeCalculator": [
         "Other"
     ],
+    "schollz/getsong": [
+        "Other"
+    ],
+    "schollz/spotifydownload": [
+        "Other"
+    ],
     "scinfu/SwiftSoup": [
         "Other"
     ],
@@ -15912,9 +15948,6 @@
         "Other"
     ],
     "seanmonstar/reqwest": [
-        "Other"
-    ],
-    "seata/seata": [
         "Other"
     ],
     "sebyddd/SDVersion": [
@@ -16422,6 +16455,9 @@
         "Other"
     ],
     "smacke/ffsubsync": [
+        "Other"
+    ],
+    "smagafurov/fastapi-jsonrpc": [
         "Other"
     ],
     "smakosh/gatsby-portfolio-dev": [
@@ -16952,6 +16988,9 @@
     "surajit039/fedora-desktop-setup": [
         "Other"
     ],
+    "surenjanath/Spotify-Song-Downloader-PyQt5": [
+        "Other"
+    ],
     "sveinbjornt/Sloth": [
         "Other"
     ],
@@ -17265,6 +17304,9 @@
         "Other"
     ],
     "thanos-io/thanos": [
+        "Other"
+    ],
+    "the-batfish/spotify-downloader": [
         "Other"
     ],
     "the-guild-org/notion-github-sync": [

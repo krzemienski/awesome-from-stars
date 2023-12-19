@@ -558,6 +558,7 @@
 * [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api): A curated list of awesome resources for design and implement RESTful API's.
 * [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage): Lovingly crafted AppImage tools and resources 
 * [archivy/awesome-archivy](https://github.com/archivy/awesome-archivy): List of awesome tools / plugins built around archivy
+* [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi): A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 * [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio): A curated list of awesome Python asyncio frameworks, libraries, software and resources
 * [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom): A curated list of delightful Atom packages and resources.
 * [DolbyIO/awesome-audio](https://github.com/DolbyIO/awesome-audio): A curated list of awesome audio technology resources for developers
@@ -1169,7 +1170,7 @@
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [tuanngominh/celery-django-kubernetes-experiment](https://github.com/tuanngominh/celery-django-kubernetes-experiment): None
 * [bstiel/celery-docker](https://github.com/bstiel/celery-docker): https://www.distributedpython.com/2018/11/15/celery-docker/
-* [bstiel/celery-filesystem-broker](https://github.com/bstiel/celery-filesystem-broker): https://www.distributedpython.com/2018/07/03/simple-celery-setup
+* [bstiel/celery-filesystem-broker](https://github.com/bstiel/celery-filesystem-broker): Celery with a filesystem message broker
 * [jmdacruz/celery-k8s-operator](https://github.com/jmdacruz/celery-k8s-operator): Kubernetes operator for deploying Python Celery applications
 * [bstiel/celery-kubernetes](https://github.com/bstiel/celery-kubernetes): None
 * [matiaslindgren/celery-kubernetes-example](https://github.com/matiaslindgren/celery-kubernetes-example): Small Flask app with scalable, asynchronous backend workers deployed on Kubernetes.
@@ -1497,6 +1498,7 @@
 * [pshanmu3/dailymotion_to_m3u8](https://github.com/pshanmu3/dailymotion_to_m3u8): DailyMotion IPTV News Channels .m3u8 file
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
+* [django/daphne](https://github.com/django/daphne): Django Channels HTTP/WebSocket server
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 * [hardpixel/dark-variant](https://github.com/hardpixel/dark-variant): Gnome Shell extension to apply dark window decorations.
 * [Rokin05/darkine-kde](https://github.com/Rokin05/darkine-kde): Darkine KDE - Theme for KDE Plasma 5 desktop > Mirror of https://git.rokin.in/Rokin/darkine-kde
@@ -1670,6 +1672,7 @@
 * [larryaasen/dive](https://github.com/larryaasen/dive): Dive is a Flutter toolkit for video recording and streaming. A complete set of packages to build the next generation of Flutter media apps.
 * [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
 * [couchrishi/diy-nodejs-encoder](https://github.com/couchrishi/diy-nodejs-encoder): A fluent-ffmpeg based nodejs encoder
+* [John2360/dj-download-interface](https://github.com/John2360/dj-download-interface): A tool for DJs to sync their Spotify library with local MP3s
 * [django/django](https://github.com/django/django): The Web framework for perfectionists with deadlines.
 * [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface): :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 * [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools): Extends the Django Admin to include a extensible dashboard and navigation menu
@@ -2145,6 +2148,7 @@
 * [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator): This code generator creates FastAPI app from an openapi file.
 * [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async): FastAPI CRUD
 * [testdrivenio/fastapi-docker-traefik](https://github.com/testdrivenio/fastapi-docker-traefik): FastAPI with Docker and Traefik
+* [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc): JSON-RPC server based on fastapi
 * [nsidnev/fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app): Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 * [mfreeborn/fastapi-sqlalchemy](https://github.com/mfreeborn/fastapi-sqlalchemy): Adds simple SQLAlchemy support to FastAPI
 * [nogoodusername/fastapi-userless-service](https://github.com/nogoodusername/fastapi-userless-service): This is an example package. Generated using gh:cookiecutter-fastapi-template
@@ -2557,6 +2561,7 @@
 * [petrpavlik/GeoSwift](https://github.com/petrpavlik/GeoSwift): Location-related APIs intended to be used by server-side Swift applications.
 * [regexident/Gestalt](https://github.com/regexident/Gestalt): An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
+* [schollz/getsong](https://github.com/schollz/getsong): Download any song mp3 with no dependencies except ffmpeg
 * [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys): Official repository for getwvkeys.cc
 * [wcchristian/gh-action-notion-card](https://github.com/wcchristian/gh-action-notion-card): A github action to build a notion card.
 * [github/gh-actions-importer](https://github.com/github/gh-actions-importer): GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
@@ -3103,6 +3108,7 @@
 * [fortra/impacket](https://github.com/fortra/impacket): Impacket is a collection of Python classes for working with network protocols.
 * [automotive-hub/imvision-ads-gen](https://github.com/automotive-hub/imvision-ads-gen): Immersive Ads
 * [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
+* [apache/incubator-seata](https://github.com/apache/incubator-seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
 * [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor): Ubuntu application indicator to show various system parameters
 * [matvp91/indigo-player](https://github.com/matvp91/indigo-player): Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
@@ -5141,7 +5147,6 @@
 * [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer): Script collection to setup production-ready Seafile server installations with HTTPS
 * [xwmx/search.sh](https://github.com/xwmx/search.sh): A command line search multi-tool.
 * [apasccon/SearchTextField](https://github.com/apasccon/SearchTextField): UITextField subclass with autocompletion suggestions list
-* [seata/seata](https://github.com/seata/seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [oslabs-beta/seeql](https://github.com/oslabs-beta/seeql): see your database in a new way
 * [segmentio/segment-proxy](https://github.com/segmentio/segment-proxy): Proxies requests to the Segment CDN and Tracking API.
 * [gabek/SegmentIO-Brightscript](https://github.com/gabek/SegmentIO-Brightscript): A BrightScript interface to SegmentIO event tracking
@@ -5174,7 +5179,7 @@
 * [lafleurdeboum/servicewall](https://github.com/lafleurdeboum/servicewall): moved to https://git.relatif.moi/lafleur/servicewall
 * [coreybobco/setlistspy-api](https://github.com/coreybobco/setlistspy-api): None
 * [ubuntu-flutter-community/settings](https://github.com/ubuntu-flutter-community/settings): :penguin: :orange_heart: :blue_heart: An Ubuntu Desktop system settings app made with Flutter.
-* [FedericoCarboni/setup-ffmpeg](https://github.com/FedericoCarboni/setup-ffmpeg): Setup FFmpeg in GitHub Actions
+* [FedericoCarboni/setup-ffmpeg](https://github.com/FedericoCarboni/setup-ffmpeg): Set up your GitHub Actions workflow with ffmpeg
 * [sauce-archives/setups](https://github.com/sauce-archives/setups): None
 * [pypa/setuptools](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
 * [asottile/setuptools-golang](https://github.com/asottile/setuptools-golang): A setuptools extension for building cpython extensions written in golang.
@@ -5284,6 +5289,7 @@
 * [piskvorky/smart_open](https://github.com/piskvorky/smart_open): Utils for streaming large files (S3, HDFS, gzip, bz2...)
 * [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming): 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
 * [luebke-dev/smbios-thermal-ctl-gnome-ext](https://github.com/luebke-dev/smbios-thermal-ctl-gnome-ext): Gnome-Shell Extension for setting smbios thermal modes.
+* [artyshko/smd](https://github.com/artyshko/smd): Spotify Music Downloader
 * [realeyes-media/sme-2019-deploying-cmaf-workshop](https://github.com/realeyes-media/sme-2019-deploying-cmaf-workshop): None
 * [tomcool420/SMFramework](https://github.com/tomcool420/SMFramework): Conveniences classes from AppleTV
 * [amzn/smoke-framework](https://github.com/amzn/smoke-framework): A light-weight server-side service framework written in the Swift programming language.
@@ -5373,9 +5379,15 @@
 * [JohnSundell/Splash](https://github.com/JohnSundell/Splash): A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
 * [deezer/spleeter](https://github.com/deezer/spleeter): Deezer source separation library including pretrained models.
 * [scottbez1/splitflap](https://github.com/scottbez1/splitflap): DIY split-flap display
+* [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer): Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 * [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl): Downloads songs from your Spotify Playlist
+* [jjaacckk/spotify-dl](https://github.com/jjaacckk/spotify-dl): Spotify download library written in Rust
 * [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader): Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+* [the-batfish/spotify-downloader](https://github.com/the-batfish/spotify-downloader): Download songs,playlists and even albums from spotify within a matter of seconds in a variety of different formats like m4a,mp3,wav and even flac with spotify downloader
+* [surenjanath/Spotify-Song-Downloader-PyQt5](https://github.com/surenjanath/Spotify-Song-Downloader-PyQt5): Download your favorite Spotify songs with ease using this Python and PyQt5 application. Simply input the playlist link, and the program will utilize web scraping techniques to extract song data and generate download links. The user-friendly PyQt5 interface provides real-time updates on the download progress. 
+* [SiddhartaDutta/Spotify-to-MP3](https://github.com/SiddhartaDutta/Spotify-to-MP3): A collection of scripts to download Spotify and SoundCloud songs for export to Apple Music.
 * [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
+* [schollz/spotifydownload](https://github.com/schollz/spotifydownload): A dependency-free Spotify playlist downloader that should just work
 * [zenangst/Spots](https://github.com/zenangst/Spots): :bamboo: Spots is a cross-platform view controller framework for building component-based UIs
 * [MengTo/Spring](https://github.com/MengTo/Spring): A library to simplify iOS animations in Swift.
 * [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot): Spring Boot
@@ -5971,6 +5983,7 @@
 * [getumbrel/umbrel-community-app-store](https://github.com/getumbrel/umbrel-community-app-store): Template repository for a creating your own Community App Store for Umbrel. Click "Use this template" and add your apps!
 * [devxoul/Umbrella](https://github.com/devxoul/Umbrella): ☂️ Analytics abstraction layer for Swift
 * [wimpysworld/umpc-ubuntu](https://github.com/wimpysworld/umpc-ubuntu): Scripts for UMPCs such as GPD Pocket, Pocket 2, MicroPC & TopJoy Falcon
+* [futzu/umzz](https://github.com/futzu/umzz): SCTE-35 Injection for Adaptive Bitrate HLS
 * [JohnSundell/Unbox](https://github.com/JohnSundell/Unbox): [Deprecated] The easy to use Swift JSON decoder
 * [serejahh/UnboxedAlamofire](https://github.com/serejahh/UnboxedAlamofire): [Deprecated] Alamofire + Unbox: the easiest way to download and decode JSON into swift objects.
 * [spulec/uncurl](https://github.com/spulec/uncurl): A library to convert curl requests to python-requests.
@@ -6310,6 +6323,7 @@
 * [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web
 * [neosapience/web-skeleton](https://github.com/neosapience/web-skeleton): kubernetes + docker-compose + flask + celery + redis + mongo + frontend(any) + nginx
 * [shadowmoose/Web-Video-Editor](https://github.com/shadowmoose/Web-Video-Editor): Web-based video file Editor - Crop video/Adjust time. Supports in-browser conversion or exporting FFmpeg commands.
+* [MGPoirot/web2mp3](https://github.com/MGPoirot/web2mp3): web2mp3 - A scalable command line interface to download music from the internet with proper mp3 tagging and directory structuring
 * [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent): A WebDriver server for iOS and tvOS
 * [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent): A WebDriver server for iOS that runs inside the Simulator.
 * [webiny/webiny-js](https://github.com/webiny/webiny-js): Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
