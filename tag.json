@@ -9989,9 +9989,6 @@
     "iawia002/lux": [
         "Other"
     ],
-    "ibc/h264-profile-level-id": [
-        "Other"
-    ],
     "iberianpig/fusuma": [
         "Other"
     ],
@@ -18080,6 +18077,9 @@
     "vergoh/vnstat-docker": [
         "Other"
     ],
+    "versatica/h264-profile-level-id": [
+        "Other"
+    ],
     "vfarcic/docker-flow-proxy": [
         "Other"
     ],
@@ -18962,7 +18962,7 @@
     "yavorsky/auto-github-topics": [
         "Other"
     ],
-    "yazaldefilimonepinto/video-translator": [
+    "yazaldefilimone/video-translator": [
         "Other"
     ],
     "ybayle/awesome-deep-learning-music": [

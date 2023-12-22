@@ -1035,7 +1035,7 @@
 * [kutyadog/bonjour_ios_tvos](https://github.com/kutyadog/bonjour_ios_tvos):  Server / Client code for connecting your iOS or TVos devices together using bonjour and GCDAsyncSocket framework over a shared network such as WIFI. — Edit
 * [cosmicpython/book](https://github.com/cosmicpython/book): A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 * [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker): Tool to create bookmarklet/ javascript apps to automate the web browser.
-* [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks): :bookmark: +5K awesome resources for geeks and software crafters :beer:
+* [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks): :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer: 
 * [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks): 🔖 Bookmark app for Nextcloud
 * [andela-sjames/Bookmeapi](https://github.com/andela-sjames/Bookmeapi): Demonstrate the power of GraphQL with Python/Django
 * [learn-anything/books](https://github.com/learn-anything/books): Awesome Books
@@ -2332,7 +2332,7 @@
 * [aliakseis/FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer): Simple FFmpeg video player
 * [ArifAltiok26/FFmpegpp](https://github.com/ArifAltiok26/FFmpegpp): Lightweight ffmpeg wrapper for modern cpp
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
-* [debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial): MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）
+* [debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial): FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
 * [mbalamat/ffmpegWasmHlsToMp4](https://github.com/mbalamat/ffmpegWasmHlsToMp4): Demo of using ffmpegwasm to covert an HLS playlist to mp4, in the browser.
 * [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative): Chat to Compose Video
@@ -2837,7 +2837,7 @@
 * [gumslone/gum_hls](https://github.com/gumslone/gum_hls): HLS video streaming app for owncloud
 * [gunnery/gunnery](https://github.com/gunnery/gunnery): Remote task execution tool
 * [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow): Video stabilization using gyroscope data
-* [ibc/h264-profile-level-id](https://github.com/ibc/h264-profile-level-id): Utility to process H264 profile-level-id values
+* [versatica/h264-profile-level-id](https://github.com/versatica/h264-profile-level-id): Utility to process H264 profile-level-id values
 * [apesch85/h264_to_h265](https://github.com/apesch85/h264_to_h265): None
 * [aizvorski/h264bitstream](https://github.com/aizvorski/h264bitstream): A complete set of functions to read and write H.264 video bitstreams, in particular to examine or modify headers.
 * [latelee/H264BSAnalyzer](https://github.com/latelee/H264BSAnalyzer): H264(AVC) and H265(HEVC) bit stream Analyzer, VS2010 MFC project(Windows 7 x64).
@@ -6111,7 +6111,7 @@
 * [Qencode-Corp/video-transcoder.online](https://github.com/Qencode-Corp/video-transcoder.online): Full featured video transcoding using the Qencode API that can be easily modified for your website or application.
 * [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api): Agnostic API to transcode media assets across different cloud services.
 * [lisamelton/video-transcoding-scripts](https://github.com/lisamelton/video-transcoding-scripts): Utilities to transcode, inspect and convert videos.
-* [yazaldefilimonepinto/video-translator](https://github.com/yazaldefilimonepinto/video-translator): Translate video or audio into multiple languages ​​in video, audio or subtitle file
+* [yazaldefilimone/video-translator](https://github.com/yazaldefilimone/video-translator): Translate video or audio into multiple languages ​​in video, audio or subtitle file
 * [Ahmedbadereldin/Video-Trimmer-Android](https://github.com/Ahmedbadereldin/Video-Trimmer-Android): Trim the video by adjusting starting point and ending point in Android
 * [SachinKalsi/video-upload-and-video-streaming](https://github.com/SachinKalsi/video-upload-and-video-streaming): Video upload and video streaming using Node JS & Express JS 
 * [videojs/video.js](https://github.com/videojs/video.js): Video.js - open source HTML5 video player
