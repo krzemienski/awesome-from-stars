@@ -611,7 +611,7 @@
 * [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler): A collection of awesome web crawler,spider in different languages
 * [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding): Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 * [j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology): Curated list of Creative Technology groups, companies, studios, collectives, etc.
-* [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks): List of awesome CSS frameworks in 2023
+* [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks): List of awesome CSS frameworks in 2024
 * [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf): A curated list of CTF frameworks, libraries, resources and softwares
 * [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV): :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
@@ -643,7 +643,7 @@
 * [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
 * [dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch): A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 * [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron): Useful resources for creating apps with Electron
-* [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics): A curated list of awesome resources for electronic engineers and hobbyists
+* [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics): A curated list of awesome resources for Electronic Engineers and hobbyists
 * [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded): A curated list of awesome embedded programming.
 * [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust): Curated list of resources for Embedded and Low-level development in the Rust programming language
 * [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management): Pointers and tools for learning and day-to-day practice of engineering management & leadership.
@@ -5018,7 +5018,7 @@
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
 * [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker - in VMs.
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
-* [runtipi/runtipi](https://github.com/runtipi/runtipi): Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+* [runtipi/runtipi](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 * [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore): Official repository hosting the Runtipi App Store. Submit apps and updates here. 
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust):  All Algorithms implemented in Rust 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
