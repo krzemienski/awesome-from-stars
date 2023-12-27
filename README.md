@@ -155,7 +155,7 @@
 * [basil79/ads-manager](https://github.com/basil79/ads-manager): HTML5 Video Ads Manager based on @dailymotion/vast-client
 * [timdonnelly/Advance](https://github.com/timdonnelly/Advance): Physics-based animations for iOS, tvOS, and macOS.
 * [saurabh7412/Advance-Code-Converter](https://github.com/saurabh7412/Advance-Code-Converter): Experience seamless code conversion and GitHub integration with our advanced tool, leveraging OpenAI. Easily convert and push code to your GitHub repository, streamlining your development process and enhancing collaboration. Boost productivity today!
-* [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher): Gnome Shell extension, a highly customizable replacement for the Alt-Tab window and app switchers.
+* [G-dH/advanced-alttab-window-switcher](https://github.com/G-dH/advanced-alttab-window-switcher): A highly customizable replacement for Gnome Shell's Alt-Tab window and app switchers.
 * [AgoraIO/Advanced-Interactive-Broadcasting](https://github.com/AgoraIO/Advanced-Interactive-Broadcasting): None
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian): Improved table navigation, formatting, and manipulation in Obsidian.md
@@ -1327,7 +1327,7 @@
 * [nickdesaulniers/combine-mpd](https://github.com/nickdesaulniers/combine-mpd): Combine MPEG DASH MPD manifest files
 * [tylertreat/comcast](https://github.com/tylertreat/comcast): Simulating shitty network connections so you can build better systems.
 * [Hikari9/comfortable-swipe](https://github.com/Hikari9/comfortable-swipe): Comfortable 3-finger and 4-finger swipe gesture using Xdotool in native C++
-* [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular stable diffusion GUI with a graph/nodes interface.
+* [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 * [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink): Comlink makes WebWorkers enjoyable.
 * [tj/commander.js](https://github.com/tj/commander.js): node.js command-line interfaces made easy
 * [apache/commons-imaging](https://github.com/apache/commons-imaging): Apache Commons Imaging (previously Sanselan) is a pure-Java image library
@@ -2052,7 +2052,7 @@
 * [DisplayLink/evdi](https://github.com/DisplayLink/evdi): Extensible Virtual Display Interface
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
 * [BoostIO/ever2boost](https://github.com/BoostIO/ever2boost): None
-* [aiqinxuancai/EvernoteToNotionChrome](https://github.com/aiqinxuancai/EvernoteToNotionChrome): Evernote迁移至Notion的工具，Tools for Evernote to Notion migration
+* [aiqinxuancai/EvernoteToNotionChrome](https://github.com/aiqinxuancai/EvernoteToNotionChrome): A tool to import Evernote into Notion, with images stored in Notion.
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 * [alex8088/EvPlayer](https://github.com/alex8088/EvPlayer): Video player base on Electron
 * [esaygiver/EVPlayer](https://github.com/esaygiver/EVPlayer): EVPlayer is a customized UIView with AVPlayer, which makes video playback extremely easy with its customizable usage options
@@ -3264,7 +3264,7 @@
 * [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server): A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 * [contentful/jekyll-contentful-data-import](https://github.com/contentful/jekyll-contentful-data-import): Contentful Plugin for the Jekyll Static Site Generator
 * [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly): 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
-* [jellyfin/jellyfin-exoplayer-ffmpeg-extension](https://github.com/jellyfin/jellyfin-exoplayer-ffmpeg-extension): Prebuilt ExoPlayer FFmpeg extension used in the Jellyfin project.
+* [jellyfin/jellyfin-androidx-media](https://github.com/jellyfin/jellyfin-androidx-media): Prebuilt AndroidX Media3 extension(s) used in the Jellyfin project.
 * [molnarr2/jEncoder](https://github.com/molnarr2/jEncoder): Java encoder of mp4 files into m3u8 multiple playlist bitrate, mp3, and different types of m3u8 playlists with queing up multiple jobs at one. Pulls from a web site for jobs.
 * [luizmb/Jenkins-Monitor-tvOS](https://github.com/luizmb/Jenkins-Monitor-tvOS): Apple TV Monitor for Jenkins, depends on plugin https://wiki.jenkins-ci.org/display/JENKINS/Build+Monitor+Plugin
 * [jesse-ai/jesse](https://github.com/jesse-ai/jesse): An advanced crypto trading bot written in Python
@@ -3432,7 +3432,7 @@
 * [kubernetes-retired/kube-aws](https://github.com/kubernetes-retired/kube-aws): [EOL] A command-line tool to declaratively manage Kubernetes clusters on AWS
 * [kubernetes-retired/kube-batch](https://github.com/kubernetes-retired/kube-batch): A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
 * [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder): Easy to use Kubernetes port forwarding manager
-* [mrsauravsahu/kube-homelab](https://github.com/mrsauravsahu/kube-homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64) - in the works
+* [mrsauravsahu/kube-homelab](https://github.com/mrsauravsahu/kube-homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64)
 * [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view): Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 * [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 * [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1): Kubernetes prompt info for bash and zsh
@@ -3570,7 +3570,7 @@
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources): None
-* [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands): :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
+* [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands): :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 * [sudheerj/Linux-cheat-sheet](https://github.com/sudheerj/Linux-cheat-sheet): List of Linux commands
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 * [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash): A beautiful web dashboard for Linux
@@ -4311,7 +4311,7 @@
 * [nerdishbynature/octokit.swift](https://github.com/nerdishbynature/octokit.swift): A Swift API Client for GitHub and GitHub Enterprise
 * [pksunkara/octonode](https://github.com/pksunkara/octonode): github api v3 in nodejs
 * [aarnt/octopi](https://github.com/aarnt/octopi): A powerful Pacman (Package Manager) front end using Qt libs
-* [bellingcat/octosuite](https://github.com/bellingcat/octosuite): An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+* [bellingcat/octosuite](https://github.com/bellingcat/octosuite): An All-In-One framework for gathering OSINT on GitHub entities.
 * [ovity/octotree](https://github.com/ovity/octotree): GitHub on steroids
 * [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks): [MIRROR]
 * [liberodark/ODrive](https://github.com/liberodark/ODrive): Google Drive GUI for Windows / Mac / Linux
@@ -4419,7 +4419,7 @@
 * [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide): A desktop environment for the reMarkable tablet
 * [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader): An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 * [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
-* [joepdooper/p5js-soundcloud-player](https://github.com/joepdooper/p5js-soundcloud-player): P5.js Soundcloud music player with visualisation
+* [joepdooper/p5js-soundcloud-player](https://github.com/joepdooper/p5js-soundcloud-player): DEPRECATED - P5.js Soundcloud music player with visualisation
 * [bensuperpc/Package_installer](https://github.com/bensuperpc/Package_installer): Automatic package installer for ArchLinux and Manjaro
 * [muxinc/packaging_examples](https://github.com/muxinc/packaging_examples): Samples files packaged by mux
 * [evertiro/packup](https://github.com/evertiro/packup): A simple backup & restore script for pacman.
