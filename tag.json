@@ -2093,6 +2093,9 @@
     "Intel-Media-SDK/MediaSDK": [
         "Other"
     ],
+    "IntelligenzaArtificiale/Free-Auto-GPT": [
+        "Other"
+    ],
     "IrosTheBeggar/mStream": [
         "Other"
     ],
@@ -2610,6 +2613,9 @@
         "Other"
     ],
     "MaZderMind/dynamic-gstreamer-pipelines-cookbook": [
+        "Other"
+    ],
+    "MaZderMind/live-hls-transcode": [
         "Other"
     ],
     "MaaxGr/NotionTodoistSync": [
@@ -3348,6 +3354,9 @@
         "Other"
     ],
     "RemoteDebug/remotedebug-ios-webkit-adapter": [
+        "Other"
+    ],
+    "Rendevior/hlsdl-cli": [
         "Other"
     ],
     "RensAlthuis/workspaces-to-dock": [
@@ -4488,6 +4497,9 @@
         "Other"
     ],
     "aio-libs/aiodocker": [
+        "Other"
+    ],
+    "aio-libs/async-lru": [
         "Other"
     ],
     "aiortc/aioquic": [
@@ -6671,6 +6683,9 @@
     "circleci/circleci-images": [
         "Other"
     ],
+    "circus-tent/circus": [
+        "Other"
+    ],
     "cirosantilli/linux-kernel-module-cheat": [
         "Other"
     ],
@@ -7526,6 +7541,9 @@
     "devicons/devicon": [
         "Other"
     ],
+    "devine-dl/devine": [
+        "Other"
+    ],
     "devine-dl/pywidevine": [
         "Other"
     ],
@@ -7962,6 +7980,9 @@
         "Other"
     ],
     "dvorka/mindforger": [
+        "Other"
+    ],
+    "dwisiswant0/apkleaks": [
         "Other"
     ],
     "dyc87112/SpringBoot-Learning": [
@@ -8981,6 +9002,9 @@
     "gaberogan/AVPlayerHLSTest": [
         "Other"
     ],
+    "gabriel-kaam/chat-gpt-prompts-from-aiprm": [
+        "Other"
+    ],
     "gabrielgodoy-zz/github-stars-manager": [
         "Other"
     ],
@@ -9060,9 +9084,6 @@
         "Other"
     ],
     "gesinger/debug-video": [
-        "Other"
-    ],
-    "get-set/infra-docker-compose": [
         "Other"
     ],
     "getappbox/AppBox-iOSAppsWirelessInstallation": [
@@ -9288,6 +9309,9 @@
         "Other"
     ],
     "gokselkoksal/Lightning": [
+        "Other"
+    ],
+    "golang/mobile": [
         "Other"
     ],
     "goldvideo/demuxer": [
@@ -9701,7 +9725,7 @@
     "hasura/graphql-engine": [
         "Other"
     ],
-    "hatienl0i261299/Soundcloud": [
+    "hatienloi/Soundcloud": [
         "Other"
     ],
     "hating/AwesomeGithub": [
@@ -9879,6 +9903,12 @@
         "Other"
     ],
     "huangsam/ultimate-python": [
+        "Other"
+    ],
+    "huggingface/awesome-huggingface": [
+        "Other"
+    ],
+    "huggingface/chat-ui": [
         "Other"
     ],
     "huggingface/datasets": [
@@ -12005,6 +12035,9 @@
     "liujingxing/rxhttp": [
         "Other"
     ],
+    "liukango/infra-docker-compose": [
+        "Other"
+    ],
     "liuyishengalan/ThinkPad-P52-Hackintosh": [
         "Other"
     ],
@@ -13391,6 +13424,9 @@
     "nachifur/MulimgViewer": [
         "Other"
     ],
+    "nagadit/DeepFaceLab_Linux": [
+        "Other"
+    ],
     "nagygergo/jetbrains-toolbox-install": [
         "Other"
     ],
@@ -13434,6 +13470,9 @@
         "Other"
     ],
     "natelandau/shell-scripting-templates": [
+        "Other"
+    ],
+    "nathan-149/tinderbot": [
         "Other"
     ],
     "nathangitter/fluid-interfaces": [
@@ -14801,6 +14840,9 @@
     "prcongithub/do-assets": [
         "Other"
     ],
+    "prettier/prettier": [
+        "Other"
+    ],
     "pricingassistant/mrq": [
         "Other"
     ],
@@ -15068,7 +15110,7 @@
     "rabbitrepo/umbrel-cloudflaretunnel-guide": [
         "Other"
     ],
-    "rachit2501/Livepeer-Video-Streaming": [
+    "rac-sri/Livepeer-Video-Streaming": [
         "Other"
     ],
     "radek-senfeld/ffvideo": [
@@ -15144,6 +15186,9 @@
         "Other"
     ],
     "ramonus/flask-video-stream": [
+        "Other"
+    ],
+    "ramonvc/freegpt-webui": [
         "Other"
     ],
     "rancher-sandbox/rancher-desktop": [
@@ -17852,6 +17897,9 @@
     "udpsec/github-tools": [
         "Other"
     ],
+    "uesleibros/OpenGPT": [
+        "Other"
+    ],
     "ufoscout/docker-compose-wait": [
         "Other"
     ],
@@ -18063,6 +18111,9 @@
         "Other"
     ],
     "vektah/CodeGlance": [
+        "Other"
+    ],
+    "venshine/decompile-apk": [
         "Other"
     ],
     "ventoy/PXE": [
@@ -18839,6 +18890,9 @@
     "xinnjie/extract-subtitle": [
         "Other"
     ],
+    "xiph/Icecast-Server": [
+        "Other"
+    ],
     "xiph/aomanalyzer": [
         "Other"
     ],
@@ -18888,6 +18942,9 @@
         "Other"
     ],
     "xtekky/chatgpt-clone": [
+        "Other"
+    ],
+    "xtekky/gpt4free": [
         "Other"
     ],
     "xtne6f/tsmemseg": [
@@ -19026,6 +19083,9 @@
         "Other"
     ],
     "yuanqing/vdx": [
+        "Other"
+    ],
+    "yuanxiaosc/DeepNude-an-Image-to-Image-technology": [
         "Other"
     ],
     "yuhuili-lab/Tide": [
