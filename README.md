@@ -4245,7 +4245,7 @@
 * [a7madZ3Dev/Notion_Tracker](https://github.com/a7madZ3Dev/Notion_Tracker): An easy and light application that connects your data on the Notion website to your mobile phone.
 * [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets): A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 * [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind): This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
-* [Vaayne/NotionAI-Plus](https://github.com/Vaayne/NotionAI-Plus): NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
+* [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus): NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
 * [kjk/notionapi](https://github.com/kjk/notionapi): Unofficial Go API for Notion.so
 * [dragonman225/notionapi-agent](https://github.com/dragonman225/notionapi-agent): Unofficial Node.js API client for Notion.so
 * [5hay/notionbackup](https://github.com/5hay/notionbackup): A small utility command line application that can recursively download Notion pages

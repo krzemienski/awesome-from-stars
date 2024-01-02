@@ -3959,9 +3959,6 @@
     "VQEG/streamsim": [
         "Other"
     ],
-    "Vaayne/NotionAI-Plus": [
-        "Other"
-    ],
     "Vaelatern/init-dotfiles": [
         "Other"
     ],
@@ -18007,6 +18004,9 @@
     ],
     "v2ray/v2ray-core": [
         "GFW"
+    ],
+    "vaayne/NotionAI-Plus": [
+        "Other"
     ],
     "vadymmarkov/Malibu": [
         "Other"
