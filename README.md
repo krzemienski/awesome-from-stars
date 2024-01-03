@@ -1481,7 +1481,7 @@
 * [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists): Curated lists on various topics
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
-* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert cURL commands into code
+* [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Convert curl commands into code
 * [Freshman-tech/custom-html5-video](https://github.com/Freshman-tech/custom-html5-video): A custom HTML5 video player built with JavaScript
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
 * [shigeyf/custom-manifest-proxy-webapi](https://github.com/shigeyf/custom-manifest-proxy-webapi): A simple Web API implementation of Custom Manifest for Adaptive Media Streaming
@@ -6141,7 +6141,7 @@
 * [f11894/video_benchmark](https://github.com/f11894/video_benchmark): None
 * [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter): Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 * [kahache/video_packaging_platform](https://github.com/kahache/video_packaging_platform): Video packaging platform - this will build a Docker with a web API that will let you upload, encrypt and serve videos as MPEG DASH files
-* [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c): a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流。
+* [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c): a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流，觉得有帮助的请给个星星：）。
 * [paradisec-archive/video_processing-MP4](https://github.com/paradisec-archive/video_processing-MP4): Development of this documentation was generously funded by the ARC Centre of Excellence for the Dynamics of Language (CoEDL): www.dynamicsoflanguage.edu.au
 * [lisamelton/video_transcoding](https://github.com/lisamelton/video_transcoding): Tools to transcode, inspect and convert videos.
 * [ntodd/video_transcoding_docker](https://github.com/ntodd/video_transcoding_docker): Dockerfiles for ntodd/video-transcoding docker images
