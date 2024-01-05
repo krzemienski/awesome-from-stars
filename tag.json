@@ -194,6 +194,9 @@
     "Ahmed-Ali/JSONExport": [
         "Other"
     ],
+    "AhmedAbouelkher/dash-go-generator": [
+        "Other"
+    ],
     "Ahmedbadereldin/Video-Trimmer-Android": [
         "Other"
     ],
@@ -678,6 +681,9 @@
         "Other"
     ],
     "ClearSlide/Fantastic-Transcoder": [
+        "Other"
+    ],
+    "Clinet/ffgoconv": [
         "Other"
     ],
     "CloudNcodeInc/EncodeBox": [
@@ -1985,6 +1991,9 @@
     "HariSekhon/DevOps-Bash-tools": [
         "Other"
     ],
+    "HasseNasse/HyperTheme": [
+        "Other"
+    ],
     "HaujetZhao/QuickCut": [
         "Other"
     ],
@@ -2528,6 +2537,9 @@
     "LemonBoy/bar": [
         "Other"
     ],
+    "Lensual/go-libav": [
+        "Other"
+    ],
     "LeoMobileDeveloper/ios-developer-tools": [
         "Other"
     ],
@@ -2547,6 +2559,9 @@
         "Other"
     ],
     "LinusU/Marionette": [
+        "Other"
+    ],
+    "LinuxSuRen/go-ffmpeg": [
         "Other"
     ],
     "Lissy93/dashy": [
@@ -3624,6 +3639,9 @@
         "Other"
     ],
     "SoMainline/linux-apple-resources": [
+        "Other"
+    ],
+    "SoTrxII/encode-box": [
         "Other"
     ],
     "SoalHuang/VideoCache": [
@@ -4832,6 +4850,9 @@
     "anacrolix/dms": [
         "Other"
     ],
+    "anacrolix/ffprobe": [
+        "Other"
+    ],
     "anaganisk/digitalocean-dynamic-dns-ip": [
         "Other"
     ],
@@ -5288,6 +5309,9 @@
     "aristocratos/btop": [
         "Other"
     ],
+    "aristotelesbr/video-enconder": [
+        "Other"
+    ],
     "ariya/phantomjs": [
         "Other"
     ],
@@ -5685,6 +5709,9 @@
         "Other"
     ],
     "axios/axios": [
+        "Other"
+    ],
+    "axkg/terminatorX": [
         "Other"
     ],
     "axnsan12/drf-yasg": [
@@ -7890,6 +7917,9 @@
         "Other"
     ],
     "drawcall/lottie-node": [
+        "Other"
+    ],
+    "dreamvo/gilfoyle": [
         "Other"
     ],
     "dreemurrs-embedded/Jumpdrive": [
@@ -10838,6 +10868,9 @@
     "josephmisiti/awesome-machine-learning": [
         "Other"
     ],
+    "josepsoares/video-render-api": [
+        "Other"
+    ],
     "joshdholtz/connectkit-examples": [
         "Other"
     ],
@@ -12263,6 +12296,9 @@
     "m1k1o/hls-restream": [
         "Other"
     ],
+    "m1k1o/hls-vod-too": [
+        "Other"
+    ],
     "m42e/github-coup": [
         "Other"
     ],
@@ -13050,6 +13086,9 @@
         "Other"
     ],
     "mixmaxhq/eb-fix-npm": [
+        "Other"
+    ],
+    "mixxxdj/mixxx": [
         "Other"
     ],
     "mjakeman/extension-manager": [
@@ -14024,6 +14063,9 @@
     "oldboyxx/jira_clone": [
         "Other"
     ],
+    "oldfritter/ffmpeg": [
+        "Other"
+    ],
     "oldratlee/useful-scripts": [
         "Other"
     ],
@@ -14922,6 +14964,9 @@
         "Other"
     ],
     "puemos/hls-downloader": [
+        "Other"
+    ],
+    "pulsejet/go-vod": [
         "Other"
     ],
     "pulumi/pulumi": [
@@ -19182,6 +19227,9 @@
         "Other"
     ],
     "zeshuaro/LinkedRW": [
+        "Other"
+    ],
+    "zhan3333/converter": [
         "Other"
     ],
     "zhanghai/gnome-shell-extension-transparent-top-bar": [

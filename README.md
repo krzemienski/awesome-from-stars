@@ -261,7 +261,7 @@
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
 * [iknow4/Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer): Android-Video-Trimmer项目实现了对长短视频进行片段的裁剪选择。使用MediaMetadataRetriever获取视频帧，采用ffmpeg进行视频裁剪，和视频压缩。
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
-* [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Exoplayer
+* [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Media3 Exoplayer
 * [EliverLara/Andromeda](https://github.com/EliverLara/Andromeda): :rocket: Dark theme for vscode
 * [albogdano/angular2-para](https://github.com/albogdano/angular2-para): Angular + Para quickstart example
 * [satoshin21/Anima](https://github.com/satoshin21/Anima): Anima is chainable Layer-Based Animation library for Swift5.
@@ -1394,6 +1394,7 @@
 * [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom): A macOS app to control the Xcode Simulator.
 * [BrianDMG/conv2mp4](https://github.com/BrianDMG/conv2mp4): This Powershell script will recursively search through a user-defined file path and convert all videos of user-specified file types to MP4 with H264 video and AAC audio using ffmpeg. The purpose of this script is to reduce transcoding CPU load on a media server like Plex or Emby and increase video compatibility across platforms.
 * [kreait/convertappicon](https://github.com/kreait/convertappicon): converts a pdf into multiple app icons for iOS and watchOS
+* [zhan3333/converter](https://github.com/zhan3333/converter): 视频转格式 / 下载网络视频 / ffmpeg / golang
 * [rancher/convoy](https://github.com/rancher/convoy): A Docker volume plugin, managing persistent container volumes.
 * [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter): A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * [condemane/cookiecutter-airflow-ha](https://github.com/condemane/cookiecutter-airflow-ha): This cookiecutter generates a high availability airflow(webserver, scheduler, workers) application.  The generated application uses celery, redis, postgres sql and runs on a highly scalable docker/kubernetes environment.  It also uses slack for realtime notifications.
@@ -1514,6 +1515,7 @@
 * [plotly/dash](https://github.com/plotly/dash): Data Apps & Dashboards for Python. No JavaScript Required.
 * [shengbinmeng/dash-drm](https://github.com/shengbinmeng/dash-drm): Demos of MPEG-DASH and DRM.
 * [ephemeral2eternity/DASH-Generator](https://github.com/ephemeral2eternity/DASH-Generator): Use Bento4 and FFMPEG to generate DASH videos
+* [AhmedAbouelkher/dash-go-generator](https://github.com/AhmedAbouelkher/dash-go-generator): Generates DASH from video file.
 * [Dash-Industry-Forum/DASH-IF-Conformance](https://github.com/Dash-Industry-Forum/DASH-IF-Conformance): This repository provides the source code for MPEG-DASH/DASH-IF Conformance Software/Validator. It has been extended according to further standards, such as CMAF, DVB-DASH, HbbTV, and CTA WAVE.
 * [Dash-Industry-Forum/DASH-IF-IOP](https://github.com/Dash-Industry-Forum/DASH-IF-IOP): DASH-IF Interoperability Points issue tracker and document source code
 * [Dash-Industry-Forum/Dash-Industry-Forum.github.io](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io): Public website for DASH IF
@@ -2012,6 +2014,7 @@
 * [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten): Emscripten: An LLVM-to-WebAssembly Compiler
 * [BrenekH/encodarr](https://github.com/BrenekH/encodarr): Self-hosted web app for encoding files to a target format using distributed computing.
 * [krzemienski/encodarr](https://github.com/krzemienski/encodarr): Self-hosted web app for encoding files to a target format using distributed computing.
+* [SoTrxII/encode-box](https://github.com/SoTrxII/encode-box): An FFMPEG-based asynchronous encoding server
 * [harvard-dce/encode-for-mediasource](https://github.com/harvard-dce/encode-for-mediasource): Encodes a video file so that it can be played as a MediaSource in the browser. Installs ffmpeg and bento, then runs the appropriate commands with them.
 * [CloudNcodeInc/EncodeBox](https://github.com/CloudNcodeInc/EncodeBox): Watch-folder that transcode the input media files to various output formats (adaptive streaming)
 * [facebookresearch/encodec](https://github.com/facebookresearch/encodec): State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
@@ -2216,6 +2219,7 @@
 * [Xingtao/FFdynamic](https://github.com/Xingtao/FFdynamic): Library with dynamic audio/video composition and runtime control
 * [xiewei-wayne/FFEngine.framework](https://github.com/xiewei-wayne/FFEngine.framework): FFEngine framework is a high performance player sdk for iOS based on ffmpeg.
 * [just-work/fffw](https://github.com/just-work/fffw): ffmpeg command line tool wrapper
+* [Clinet/ffgoconv](https://github.com/Clinet/ffgoconv): A real-time concurrent muxing library with full control of individual streamers
 * [ericgriffin/fflock](https://github.com/ericgriffin/fflock): Distributed video transcoding.
 * [bcoudurier/FFmbc](https://github.com/bcoudurier/FFmbc): FFmpeg customized for broadcast and professional usage
 * [unosquare/ffmediaelement](https://github.com/unosquare/ffmediaelement): FFME: The Advanced WPF MediaElement (based on FFmpeg)
@@ -2230,6 +2234,7 @@
 * [jiashaokun/ffmpeg](https://github.com/jiashaokun/ffmpeg): 基于FFmpeg的python视频处理包-因疫情影响，工作比较繁忙，心情也没在视频上面再研究，该项目已经搁置，源码很简单，大家可以自己研究一下自己扩展
 * [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg): Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
 * [katana-project/ffmpeg](https://github.com/katana-project/ffmpeg): Low-level Go bindings for FFmpeg libraries.
+* [oldfritter/ffmpeg](https://github.com/oldfritter/ffmpeg): FFmpeg for Go
 * [orkan/ffmpeg](https://github.com/orkan/ffmpeg): Convert your media files quickly with FFmpeg library
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
 * [WritingMinds/ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java): Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android
@@ -2356,6 +2361,7 @@
 * [ffplayout/ffplayout-docker](https://github.com/ffplayout/ffplayout-docker): Dockerized playout solution
 * [ffplayout/ffplayout-frontend](https://github.com/ffplayout/ffplayout-frontend): Web based frontend for ffplayout-engine
 * [joeflateau/ffpreset](https://github.com/joeflateau/ffpreset): None
+* [anacrolix/ffprobe](https://github.com/anacrolix/ffprobe): Go ffprobe wrapper
 * [eugeneware/ffprobe](https://github.com/eugeneware/ffprobe): Use ffprobe to get info from media files and return as JSON
 * [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python): A wrapper of ffprobe command to extract metadata from media files.
 * [matham/ffpyplayer](https://github.com/matham/ffpyplayer): A cython implementation of an ffmpeg based player.
@@ -2588,6 +2594,7 @@
 * [kennethreitz/ghsync](https://github.com/kennethreitz/ghsync): Github Syncer. Clones or Pulls all GitHub repos (owned and watched).
 * [cooperspencer/gickup](https://github.com/cooperspencer/gickup): None
 * [xdarklight/gigabyte_ambientled_ctrl](https://github.com/xdarklight/gigabyte_ambientled_ctrl): Scripts for controlling the Ambient LEDs found on some GIGABYTE mainboards on Linux
+* [dreamvo/gilfoyle](https://github.com/dreamvo/gilfoyle): Distributed video encoding, hosting and streaming
 * [travis-ci/gimme](https://github.com/travis-ci/gimme): Install go, yay!
 * [gin-gonic/gin](https://github.com/gin-gonic/gin): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 * [ldakhoa/GistHub](https://github.com/ldakhoa/GistHub): The iOS app for GitHub Gist
@@ -2730,10 +2737,12 @@
 * [asticode/go-astisub](https://github.com/asticode/go-astisub): Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 * [asticode/go-astits](https://github.com/asticode/go-astits): Demux and mux MPEG Transport Streams (.ts) natively in GO
 * [zencoder/go-dash](https://github.com/zencoder/go-dash): A Go library for generating MPEG-DASH manifests.
+* [LinuxSuRen/go-ffmpeg](https://github.com/LinuxSuRen/go-ffmpeg): Audio convert by ffmpeg
 * [p4xx07/go-ffmpeg](https://github.com/p4xx07/go-ffmpeg): Docs
 * [vansante/go-ffprobe](https://github.com/vansante/go-ffprobe): Library to easily get the ffprobe output of a given file
 * [sanathb/go-HLS](https://github.com/sanathb/go-HLS): HLS (HTTP Live Streaming) video transcoding package written in golang for AWS Elastic Transcoder.
 * [allezxandre/go-hls-encoder](https://github.com/allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
+* [Lensual/go-libav](https://github.com/Lensual/go-libav): [WIP] Golang binding for FFmpeg and libav
 * [imkira/go-libav](https://github.com/imkira/go-libav): Go language bindings for ffmpeg libraries
 * [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
 * [quangngotan95/go-m3u8](https://github.com/quangngotan95/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
@@ -2750,6 +2759,7 @@
 * [cwinging/go-segment](https://github.com/cwinging/go-segment): golang video segment tool, convert mp4 to hls format
 * [m1k1o/go-transcode](https://github.com/m1k1o/go-transcode): On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
 * [jordicenzano/go-ts-segmenter](https://github.com/jordicenzano/go-ts-segmenter): Live TS segmenter and HLS manifest creation in Go
+* [pulsejet/go-vod](https://github.com/pulsejet/go-vod): Zero-dependency HLS VOD server in go
 * [giorgisio/goav](https://github.com/giorgisio/goav): Golang bindings for FFmpeg (This repository is no longer maintained)
 * [dariubs/GoBooks](https://github.com/dariubs/GoBooks): List of Golang books
 * [gogolith/GoCoEdit](https://github.com/gogolith/GoCoEdit): GoCoEdit - Code & Text Editor for iOS / Issue tracker
@@ -2783,7 +2793,7 @@
 * [cjbassi/gotop](https://github.com/cjbassi/gotop): A terminal based graphical activity monitor inspired by gtop and vtop
 * [Comcast/gots](https://github.com/Comcast/gots): MPEG Transport Stream handling in Go
 * [acaudwell/Gource](https://github.com/acaudwell/Gource): software version control visualization
-* [gpac/gpac](https://github.com/gpac/gpac): Modular Multimedia framework for packaging, streaming and playing your favorite content, see http://netflix.gpac.io
+* [gpac/gpac](https://github.com/gpac/gpac): GPAC Ultramedia OS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 * [gpac/gpac-testing-linux](https://github.com/gpac/gpac-testing-linux): None
 * [stockmind/gpd-pocket-screen-indicator](https://github.com/stockmind/gpd-pocket-screen-indicator): Screen and touch rotation helper and indicator for GPD Pocket
 * [stockmind/gpd-pocket-ubuntu-respin](https://github.com/stockmind/gpd-pocket-ubuntu-respin): Collection of scripts and tweaks to adapt Ubuntu and Linux Mint ISO images to let them run smooth on GPD Pocket
@@ -2974,6 +2984,7 @@
 * [Eyevinn/hls-ts-js](https://github.com/Eyevinn/hls-ts-js): HLS MPEG-TS parser library in Javascript
 * [HamidNE/hls-video-api](https://github.com/HamidNE/hls-video-api): None
 * [mifi/hls-vod](https://github.com/mifi/hls-vod): HTTP Live Streaming with on-the-fly encoding of any video file for Web/Apple TV/iPhone/iPad/iPod
+* [m1k1o/hls-vod-too](https://github.com/m1k1o/hls-vod-too): HTTP Live Streaming with on-the-fly encoding of any video file for Web/Apple TV/iPhone/iPad/iPod
 * [Eyevinn/hls-vodtolive](https://github.com/Eyevinn/hls-vodtolive): NPM library to generate HLS Live from HLS VOD
 * [Eyevinn/hls-vodtovod](https://github.com/Eyevinn/hls-vodtovod): NPM library to concatenate multiple HLS VODs into a new VOD
 * [kkimu/HLS-WebAudioAPI-sample](https://github.com/kkimu/HLS-WebAudioAPI-sample): None
@@ -3084,6 +3095,7 @@
 * [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 * [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS): In-app design review tool to inspect measurements, attributes, and animations.
 * [Hyperline/hyperline](https://github.com/Hyperline/hyperline): ✨ Status line plugin for Hyper ✨
+* [HasseNasse/HyperTheme](https://github.com/HasseNasse/HyperTheme): HyperTerm inspired IntelliJ IDEA theme with vivid syntaxcolors and a pitch black UI. Drools on the floor..
 * [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): None
 * [hyprwm/Hypr](https://github.com/hyprwm/Hypr): Hypr is a tiling window manager written in modern C++.
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -3875,6 +3887,7 @@
 * [wulab/mithril-slides](https://github.com/wulab/mithril-slides): A Keynote-inspired presentation app written with Mithril
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [ROCm/MIVisionX](https://github.com/ROCm/MIVisionX): MIVisionX toolkit is a set of comprehensive computer vision and machine intelligence libraries, utilities, and applications bundled into a single toolkit. AMD MIVisionX also delivers a highly optimized open-source implementation of the Khronos OpenVX™ and OpenVX™ Extensions.
+* [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx): Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 * [rnorth/mkdocs-codeinclude-plugin](https://github.com/rnorth/mkdocs-codeinclude-plugin): None
 * [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages): GitHub Action to deploy an MkDocs site to GitHub Pages
 * [MugunthKumar/MKNetworkKit-Swift](https://github.com/MugunthKumar/MKNetworkKit-Swift): A Pure Swift Implementation of MKNetworkKit. This is the Swift Networking framework you will ever need.
@@ -4831,7 +4844,7 @@
 * [retifrav/rclone-rc-web-gui](https://github.com/retifrav/rclone-rc-web-gui): Web GUI for rclone rc
 * [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react): A full fledged UI for the rclone cloud sync tool
 * [vncloudsco/rclonebackup](https://github.com/vncloudsco/rclonebackup): Script Auto Backup To Cloud Using Rclone
-* [holazt/RcloneBrowser](https://github.com/holazt/RcloneBrowser): Simple cross platform GUI for rclone | Mirror of https://github.com/JanHellwig/RcloneBrowser and https://github.com/kapitainsky/RcloneBrowser
+* [holazt/RcloneBrowser](https://github.com/holazt/RcloneBrowser): Simple cross platform GUI for rclone | Mirror of https://github.com/JanHellwig/RcloneBrowser and https://github.com/kapitainsky/RcloneBrowser, beta from https://github.com/Alkl58/RcloneBrowser
 * [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser): Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 * [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser): Simple cross platform GUI for rclone
 * [romancin/rclonebrowser-docker](https://github.com/romancin/rclonebrowser-docker): A repository for creating a docker container including RClone Browser with GUI interface.
@@ -5404,7 +5417,7 @@
 * [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader): Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 * [the-batfish/spotify-downloader](https://github.com/the-batfish/spotify-downloader): Download songs,playlists and even albums from spotify within a matter of seconds in a variety of different formats like m4a,mp3,wav and even flac with spotify downloader
 * [surenjanath/Spotify-Song-Downloader-PyQt5](https://github.com/surenjanath/Spotify-Song-Downloader-PyQt5): Download your favorite Spotify songs with ease using this Python and PyQt5 application. Simply input the playlist link, and the program will utilize web scraping techniques to extract song data and generate download links. The user-friendly PyQt5 interface provides real-time updates on the download progress. 
-* [SiddhartaDutta/Spotify-to-MP3](https://github.com/SiddhartaDutta/Spotify-to-MP3): A collection of scripts to download Spotify and SoundCloud songs for export to Apple Music.
+* [SiddhartaDutta/Spotify-to-MP3](https://github.com/SiddhartaDutta/Spotify-to-MP3): A program designed to download Spotify and SoundCloud songs, featuring built-in iBroadcast support.
 * [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [schollz/spotifydownload](https://github.com/schollz/spotifydownload): A dependency-free Spotify playlist downloader that should just work
 * [zenangst/Spots](https://github.com/zenangst/Spots): :bamboo: Spots is a cross-platform view controller framework for building component-based UIs
@@ -5748,6 +5761,7 @@
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator): multiple GNOME terminals in one window
+* [axkg/terminatorX](https://github.com/axkg/terminatorX): Synchronized turntables to scratch on digital vinyl
 * [yxuko/terminus-altair](https://github.com/yxuko/terminus-altair):  Elegant customizable theme with vivid colors for Terminus
 * [Domain/terminus-quick-cmds](https://github.com/Domain/terminus-quick-cmds): Quick commands for terminus
 * [starxg/terminus-sync-config](https://github.com/starxg/terminus-sync-config): Sync configuration files to GitHub Gist or Gitee Gist
@@ -6103,11 +6117,13 @@
 * [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation): Toolkit of algorithms to automate the video editing process
 * [bilashcse/video-editor](https://github.com/bilashcse/video-editor): API based Online Video Editing using FFMPEG & NodeJs for Backend Editing
 * [kylegilman/video-embed-thumbnail-generator](https://github.com/kylegilman/video-embed-thumbnail-generator): A WordPress plugin that generates thumbnails, HTML5-compliant videos, and embed codes for locally hosted videos. Requires FFMPEG or LIBAV for encoding.
+* [aristotelesbr/video-enconder](https://github.com/aristotelesbr/video-enconder): This is a simple video encoder that uses ffmpeg to encode videos to a specific format.
 * [Eyevinn/video-event-filter](https://github.com/Eyevinn/video-event-filter): A simple module to filter the events sent from the video element in a way that align with what is, most probably, expected from an analytics perspective.
 * [davidkern13/Video-Http-Live-Stream-Nodejs-React](https://github.com/davidkern13/Video-Http-Live-Stream-Nodejs-React): Live http streaming and vod project.
 * [aizvorski/video-quality](https://github.com/aizvorski/video-quality): Video quality metrics, reference implementation in python: VIF, SSIM, PSNR, ...
 * [CrypticSignal/video-quality-metrics](https://github.com/CrypticSignal/video-quality-metrics): Test specified presets/CRF values for the x264 or x265 encoder. Compares VMAF/SSIM/PSNR numerically & via graphs.
 * [Eyevinn/video-quality-monitor](https://github.com/Eyevinn/video-quality-monitor): A small package to monitor buffering and dropped frames on the video element, reporting it back as state updates into a sent in callback.
+* [josepsoares/video-render-api](https://github.com/josepsoares/video-render-api): A somewhat simple golang REST API with the fiber framework with routes which process video and audio using the open-source software ffmpeg
 * [Xilinx/video-sdk](https://github.com/Xilinx/video-sdk): None
 * [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples): Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
 * [vogler/video-server](https://github.com/vogler/video-server): Video server with advanced player features and history/tracking.
