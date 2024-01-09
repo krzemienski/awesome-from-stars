@@ -171,6 +171,7 @@
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
 * [Abhii-07/AI-Code-Converter](https://github.com/Abhii-07/AI-Code-Converter): This web application allows you to convert code from one programming language to another using the ChatGPT API. It also provides code debugging and code quality checking features.
+* [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator): Use AI to translate code from one language to another.
 * [greenteabots/Ai-Soundcloudviewer-written-by-chatGPT](https://github.com/greenteabots/Ai-Soundcloudviewer-written-by-chatGPT): Soundcloud ViewBot written by ChatGPT
 * [google/ai_video_dubbing](https://github.com/google/ai_video_dubbing): None
 * [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
@@ -474,6 +475,7 @@
 * [Eyevinn/auto-subtitles](https://github.com/Eyevinn/auto-subtitles): Automatically generate subtitles from an input audio or video file using Open AI Whisper
 * [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder): 🖖 Train an artificial intelligence to play tinder for you
 * [sunrise2575/AutoAVS](https://github.com/sunrise2575/AutoAVS):  Automated Audio, Video, Subtitle Tool (ffmpeg 벌크 인코딩 툴)
+* [thehemi/AutoCoder](https://github.com/thehemi/AutoCoder): GPT-4 powered code tool with no token limits. Works on repos or files.  Can cleanup, optimize, comment, convert languages and more
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [sunhailin-Leo/AutoConfigShellScript](https://github.com/sunhailin-Leo/AutoConfigShellScript): Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV, Keras, Tensorflow(CPU Mode) and other relative environment.
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
@@ -1202,6 +1204,7 @@
 * [helm/charts](https://github.com/helm/charts): ⚠️(OBSOLETE) Curated applications for Kubernetes
 * [gabriel-kaam/chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm): Compilations of ChatGPT Prompts from AIPRM
 * [huggingface/chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app
+* [tobuya/chat_gpt_ui](https://github.com/tobuya/chat_gpt_ui): ChapGPT ui is a powerful app that allows one to harness the power of advanced machine learning algorithms to create intelligent application that can answer questions, translate text, convert code from one language to another and more.  It's built using React and ChatGPT's own APIs
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT interface with better UI 
@@ -1305,6 +1308,7 @@
 * [Galeas/CocoaPodUI](https://github.com/Galeas/CocoaPodUI): XCode plugin that implements CocoaPods GUI.
 * [twitter-archive/CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY): SPDY for iOS and OS X
 * [Otbivnoe/CodableAlamofire](https://github.com/Otbivnoe/CodableAlamofire): An extension for Alamofire that converts JSON data into Decodable objects.
+* [abhimanyulp/Code-Checker](https://github.com/abhimanyulp/Code-Checker): This project aims to build a web-based application using OpenAI's GPT to convert code between programming languages, debug code, and perform quality checks.
 * [mujibsayyad/code-converter](https://github.com/mujibsayyad/code-converter): Code Converter
 * [shawon100/code-converter](https://github.com/shawon100/code-converter): Convert or Translate code from one programming language to another programming language using OpenAI GPT-3 API
 * [kubernetes/code-generator](https://github.com/kubernetes/code-generator): Generators for kube-like API types
@@ -2247,6 +2251,7 @@
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
 * [WritingMinds/ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java): Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android
 * [topaz1008/ffmpeg-any](https://github.com/topaz1008/ffmpeg-any): A command line tool that batch processes video files and directories with ffmpeg.
+* [dasdachs/ffmpeg-api](https://github.com/dasdachs/ffmpeg-api): FFmpeg API to expose basic converting functionalities of the FFmpeg library.
 * [Vargol/ffmpeg-apple-arm64-build](https://github.com/Vargol/ffmpeg-apple-arm64-build): Build script for ffmpeg targeting the latest open source video codecs running on macOS using Apple's M1 processor.
 * [jlw4049/FFMPEG-Audio-Encoder](https://github.com/jlw4049/FFMPEG-Audio-Encoder): A powerful FFMPEG audio encoder GUI
 * [AnimMouse/ffmpeg-autobuild](https://github.com/AnimMouse/ffmpeg-autobuild): Automated nonfree builds of FFmpeg for Windows using GitHub Actions
@@ -2748,13 +2753,18 @@
 * [zencoder/go-dash](https://github.com/zencoder/go-dash): A Go library for generating MPEG-DASH manifests.
 * [LinuxSuRen/go-ffmpeg](https://github.com/LinuxSuRen/go-ffmpeg): Audio convert by ffmpeg
 * [p4xx07/go-ffmpeg](https://github.com/p4xx07/go-ffmpeg): Docs
+* [rodellison/go-ffmpeg](https://github.com/rodellison/go-ffmpeg): This project is a GOlang version of the Serverless/Fargate ffmpeg thumbnail creator. It is based on the code demonstrated in the article "How to use AWS Fargate and Lambda for long-running processes"
 * [vansante/go-ffprobe](https://github.com/vansante/go-ffprobe): Library to easily get the ffprobe output of a given file
+* [scalarhq/go-fluent-ffmpeg](https://github.com/scalarhq/go-fluent-ffmpeg): A Go implementation of fluent-ffmpeg
 * [sanathb/go-HLS](https://github.com/sanathb/go-HLS): HLS (HTTP Live Streaming) video transcoding package written in golang for AWS Elastic Transcoder.
 * [allezxandre/go-hls-encoder](https://github.com/allezxandre/go-hls-encoder): An ffmpeg-based library that encodes and segments a video following Apple's best practices.
+* [rendyfebry/go-hls-transcoder](https://github.com/rendyfebry/go-hls-transcoder): Simple golang HLS transcoder with ffmpeg
+* [ajalck/Go-HLS_VideoStreaming_Webapp](https://github.com/ajalck/Go-HLS_VideoStreaming_Webapp): A video streaming web application created with most powerful server side language Go and http's live streaming protocol HLS 
 * [Lensual/go-libav](https://github.com/Lensual/go-libav): [WIP] Golang binding for FFmpeg and libav
 * [imkira/go-libav](https://github.com/imkira/go-libav): Go language bindings for ffmpeg libraries
 * [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
 * [quangngotan95/go-m3u8](https://github.com/quangngotan95/go-m3u8): Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8)
+* [mutablelogic/go-media](https://github.com/mutablelogic/go-media): go media services
 * [abema/go-mp4](https://github.com/abema/go-mp4): Go library for reading and writing MP4 file
 * [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd): Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files
 * [dstotijn/go-notion](https://github.com/dstotijn/go-notion): Go client for the Notion API.
@@ -2786,6 +2796,8 @@
 * [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script): Simple Bash script to automate Go language tools single user installation or even removal.
 * [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
 * [yapingcat/gomedia](https://github.com/yapingcat/gomedia): golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
+* [EsTass/gomediaserver](https://github.com/EsTass/gomediaserver): Manage and play your home videos in any browser
+* [bitcodr/gompeg](https://github.com/bitcodr/gompeg): Fluent ffmpeg wrapper in Go
 * [sentriz/gonic](https://github.com/sentriz/gonic): music streaming server / free-software subsonic server API implementation
 * [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
 * [chriskiehl/GooeyExamples](https://github.com/chriskiehl/GooeyExamples): Example programs to Demonstrate Gooey's functionality 
@@ -2811,6 +2823,7 @@
 * [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
 * [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 * [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox): An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+* [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader): Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu): Dissecting the M1's GPU for 3D acceleration
 * [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools): Tools for monitoring NVIDIA GPUs on Linux 
@@ -3040,6 +3053,7 @@
 * [ridhwaans/homehost](https://github.com/ridhwaans/homehost): self-hosted, Netflix-like app made for streaming
 * [apple/HomeKitADK](https://github.com/apple/HomeKitADK): None
 * [mr-karan/homelab](https://github.com/mr-karan/homelab): Infra-as-code for my personal home server setup
+* [stevommmm/homemedia](https://github.com/stevommmm/homemedia): Live transcoding home media fileserver
 * [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 * [jcasal-homer/HomerHEVC](https://github.com/jcasal-homer/HomerHEVC): A real time open-source HEVC video encoder under LGPL license
 * [SimonHaas/homeserver](https://github.com/SimonHaas/homeserver): homeserver setup with multiple services via docker
@@ -3144,6 +3158,7 @@
 * [fortra/impacket](https://github.com/fortra/impacket): Impacket is a collection of Python classes for working with network protocols.
 * [automotive-hub/imvision-ads-gen](https://github.com/automotive-hub/imvision-ads-gen): Immersive Ads
 * [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
+* [dpfried/incoder](https://github.com/dpfried/incoder): Generative model for code infilling and synthesis
 * [apache/incubator-seata](https://github.com/apache/incubator-seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
 * [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor): Ubuntu application indicator to show various system parameters
@@ -3650,6 +3665,7 @@
 * [chrippa/livestreamer](https://github.com/chrippa/livestreamer): Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 * [fcanas/LiveStreamParser](https://github.com/fcanas/LiveStreamParser): A Parser for HTTP Live Streaming in Objective-C
 * [ant-media/LiveVideoBroadcaster](https://github.com/ant-media/LiveVideoBroadcaster): Native RTMP client for publishing and playing video streams for Android
+* [feniljain/ll-hls-poc](https://github.com/feniljain/ll-hls-poc): Simple LL-HLS PoC
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
@@ -3941,6 +3957,7 @@
 * [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log): 😎 A static blog using notion database
 * [acotilla91/Morse-Vision](https://github.com/acotilla91/Morse-Vision): More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text. 
 * [krad/morsel](https://github.com/krad/morsel): 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS.
+* [mauricioabreu/mosaic-video](https://github.com/mauricioabreu/mosaic-video): Generate mosaics from video inputs
 * [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell
 * [younatics/MotionBook](https://github.com/younatics/MotionBook): 📖 Awesome iOS UI/UX Application (Open Source)
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.
@@ -4136,6 +4153,7 @@
 * [Spiderpig86/Nimbus](https://github.com/Spiderpig86/Nimbus): :notes: A new way to discover songs and artists on SoundCloud.
 * [jverkoey/nimbus](https://github.com/jverkoey/nimbus): The iOS framework that grows only as fast as its documentation
 * [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed
+* [LuaxY/Nitro](https://github.com/LuaxY/Nitro): Distributed video encoder pipeline
 * [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
@@ -5372,6 +5390,7 @@
 * [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic): 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 * [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi): Code. Music. Live.
 * [denysvitali/sonos-web](https://github.com/denysvitali/sonos-web): Web interface for Sonos audio systems
+* [sopro-dev/sopro-core](https://github.com/sopro-dev/sopro-core): Next-gen (SO)und (PRO)cessing: golang native, upscaler, downscaler, transcoder, neural networks, full mem & on-the-fly & streaming.
 * [timoknapp/sound-on-fire](https://github.com/timoknapp/sound-on-fire): 🔊☁️ 🔥📺 A Flutter based SoundCloud App for your Fire TV
 * [salomvary/soundcleod](https://github.com/salomvary/soundcleod): SoundCloud for macOS and Windows
 * [hatienloi/Soundcloud](https://github.com/hatienloi/Soundcloud): Soundcloud - A tool for download track Soundcloud.
@@ -5491,6 +5510,7 @@
 * [johnjones4/Standard-Notes-Clipper](https://github.com/johnjones4/Standard-Notes-Clipper): A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account.
 * [tannercollin/standardnotes-fs](https://github.com/tannercollin/standardnotes-fs): Mount your Standard Notes as a filesystem.
 * [timqian/star-history-plugin](https://github.com/timqian/star-history-plugin): [Deprecated] project moved to https://github.com/timqian/star-history as a mono repo
+* [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder): Home of StarCoder: fine-tuning & inference!
 * [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
 * [encode/starlette](https://github.com/encode/starlette): The little ASGI framework that shines. 🌟
 * [ryanmcdermott/starmark](https://github.com/ryanmcdermott/starmark): :octocat: Turn your GitHub stars into Chrome bookmarks
@@ -5807,6 +5827,7 @@
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [yadox666/The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit): The best hacker's gadgets for Red Team pentesters and security researchers.
+* [hbomb79/Thea](https://github.com/hbomb79/Thea): Thea is (going to be) a no compromises home media solution written with Go + Svelte which facilitates the discovery, transcoding, organization and streaming of your content.
 * [nvbn/thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command.
 * [eclipse-theia/theia](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 * [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps): Theia applications examples - docker images, desktop apps, packagings
@@ -6114,6 +6135,7 @@
 * [bcedu/VGrive](https://github.com/bcedu/VGrive): Google Drive client  for linux
 * [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
 * [davesteele/viagee](https://github.com/davesteele/viagee): Integrate GMail into the Linux Desktop
+* [igolaizola/vidai](https://github.com/igolaizola/vidai): Video generation using AI
 * [HeZhang1994/video-audio-tools](https://github.com/HeZhang1994/video-audio-tools): To process/edit video and audio with Python+FFmpeg. [简单实用] 基于Python+FFmpeg的视频和音频的处理/剪辑。
 * [nytimes/video-captions-api](https://github.com/nytimes/video-captions-api): Agnostic API to generate captions for media assets across different transcription services. 
 * [pixop/video-compare](https://github.com/pixop/video-compare): Split screen video comparison tool using FFmpeg and SDL2

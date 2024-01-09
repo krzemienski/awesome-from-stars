@@ -1208,6 +1208,9 @@
     "Erudika/para": [
         "Other"
     ],
+    "EsTass/gomediaserver": [
+        "Other"
+    ],
     "EstebanKubata/playfair": [
         "Other"
     ],
@@ -2601,6 +2604,9 @@
         "Other"
     ],
     "LorneFlindall/Roku_Command_Grabber": [
+        "Other"
+    ],
+    "LuaxY/Nitro": [
         "Other"
     ],
     "LucaFeger/action-maven-cli": [
@@ -4301,6 +4307,9 @@
     "abhijithvijayan/stargazed": [
         "Other"
     ],
+    "abhimanyulp/Code-Checker": [
+        "Other"
+    ],
     "abhirooptalasila/AutoSub": [
         "Other"
     ],
@@ -4566,6 +4575,9 @@
         "Other"
     ],
     "aizvorski/video-quality": [
+        "Other"
+    ],
+    "ajalck/Go-HLS_VideoStreaming_Webapp": [
         "Other"
     ],
     "ajeetdsouza/zoxide": [
@@ -6023,6 +6035,9 @@
     "bigcash/awesome-ai-list-guide": [
         "Other"
     ],
+    "bigcode-project/starcoder": [
+        "Other"
+    ],
     "bilashcse/video-editor": [
         "Other"
     ],
@@ -6054,6 +6069,9 @@
         "Other"
     ],
     "bit-team/backintime": [
+        "Other"
+    ],
+    "bitcodr/gompeg": [
         "Other"
     ],
     "bitmovin/bitmovin-api-sdk-java": [
@@ -7298,6 +7316,9 @@
     "das-kaesebrot/transcodeservice": [
         "Other"
     ],
+    "dasdachs/ffmpeg-api": [
+        "Other"
+    ],
     "dashpay/JSONSchemaValidation": [
         "Other"
     ],
@@ -7914,6 +7935,9 @@
         "Other"
     ],
     "dpedu/git2git": [
+        "Other"
+    ],
+    "dpfried/incoder": [
         "Other"
     ],
     "dpgaspar/Flask-AppBuilder": [
@@ -8766,6 +8790,9 @@
         "Other"
     ],
     "felipefialho/awesome-made-by-brazilians": [
+        "Other"
+    ],
+    "feniljain/ll-hls-poc": [
         "Other"
     ],
     "fenollp/reMarkable-tools": [
@@ -9797,6 +9824,9 @@
     "hboisgibault/unicontent": [
         "Other"
     ],
+    "hbomb79/Thea": [
+        "Other"
+    ],
     "hboon/Zhi": [
         "Other"
     ],
@@ -10131,6 +10161,9 @@
         "Other"
     ],
     "ietf-wg-cellar/matroska-specification": [
+        "Other"
+    ],
+    "igolaizola/vidai": [
         "Other"
     ],
     "igorkulman/iOSLocalizationEditor": [
@@ -12707,6 +12740,9 @@
     "mauricioabreu/manifest-modifier": [
         "Other"
     ],
+    "mauricioabreu/mosaic-video": [
+        "Other"
+    ],
     "mautilus/MAMUT": [
         "Other"
     ],
@@ -12762,6 +12798,9 @@
         "Other"
     ],
     "mcfunley/pugsql": [
+        "Other"
+    ],
+    "mckaywrigley/ai-code-translator": [
         "Other"
     ],
     "mdellavo/stream": [
@@ -13310,6 +13349,9 @@
     "mpolden/jarvis2": [
         "Other"
     ],
+    "mpoon/gpt-repository-loader": [
+        "Other"
+    ],
     "mpromonet/v4l2rtspserver": [
         "Other"
     ],
@@ -13398,6 +13440,9 @@
         "Other"
     ],
     "munagekar/vidsleuth": [
+        "Other"
+    ],
+    "mutablelogic/go-media": [
         "Other"
     ],
     "mutualmobile/Counter": [
@@ -15446,6 +15491,9 @@
     "remyxai/FFMPerative": [
         "Other"
     ],
+    "rendyfebry/go-hls-transcoder": [
+        "Other"
+    ],
     "reneargento/algorithms-sedgewick-wayne": [
         "Other"
     ],
@@ -15576,6 +15624,9 @@
         "Other"
     ],
     "rockstor/rockstor-core": [
+        "Other"
+    ],
+    "rodellison/go-ffmpeg": [
         "Other"
     ],
     "roidrage/s3itch": [
@@ -15981,6 +16032,9 @@
         "Other"
     ],
     "sc0ty/subsync": [
+        "Other"
+    ],
+    "scalarhq/go-fluent-ffmpeg": [
         "Other"
     ],
     "scalarhq/videotranscode.space": [
@@ -16691,6 +16745,9 @@
     "sonysuqin/WasmVideoPlayer": [
         "Other"
     ],
+    "sopro-dev/sopro-core": [
+        "Other"
+    ],
     "soravux/scoop": [
         "Other"
     ],
@@ -16956,6 +17013,9 @@
         "Other"
     ],
     "steventroughtonsmith/marzipanify": [
+        "Other"
+    ],
+    "stevommmm/homemedia": [
         "Other"
     ],
     "stewartadam/audio-convert-mod": [
@@ -17459,6 +17519,9 @@
     "thedillonb/RepoStumble": [
         "Other"
     ],
+    "thehemi/AutoCoder": [
+        "Other"
+    ],
     "theia-ide/theia-apps": [
         "Other"
     ],
@@ -17670,6 +17733,9 @@
         "Other"
     ],
     "tnfe/shida": [
+        "Other"
+    ],
+    "tobuya/chat_gpt_ui": [
         "Other"
     ],
     "toeverything/AFFiNE": [
