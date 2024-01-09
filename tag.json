@@ -5,6 +5,9 @@
     "0ry0n/Resource_Monitor": [
         "Other"
     ],
+    "0voice/audio_video_streaming": [
+        "Other"
+    ],
     "0x192/universal-android-debloater": [
         "Other"
     ],
@@ -446,6 +449,9 @@
     "BenjV/autosub": [
         "Other"
     ],
+    "Bin-Huang/chatbox": [
+        "Other"
+    ],
     "Binaryify/NeteaseCloudMusicApi": [
         "Other"
     ],
@@ -624,6 +630,9 @@
         "Other"
     ],
     "CharlieQLe/gnome-extension-gtk3-theme-switcher": [
+        "Other"
+    ],
+    "ChatGPTNextWeb/ChatGPT-Next-Web": [
         "Other"
     ],
     "ChengHongyun/notionBackup": [
@@ -2180,6 +2189,9 @@
     "JeffLIrion/python-androidtv": [
         "Other"
     ],
+    "JeffMony/VideoDownloader": [
+        "Other"
+    ],
     "Jerrywx/VideoPlayer": [
         "Other"
     ],
@@ -3551,6 +3563,9 @@
     "Shabinder/SpotiFlyer": [
         "Other"
     ],
+    "Shampra/EvernoteToAnytype": [
+        "Other"
+    ],
     "ShaneIsrael/fireshare": [
         "Other"
     ],
@@ -4253,6 +4268,9 @@
     "a914-gowtham/android-video-trimmer": [
         "Other"
     ],
+    "aaamoon/copilot-gpt4-service": [
+        "Other"
+    ],
     "aaberg/sql2o": [
         "Other"
     ],
@@ -4605,6 +4623,9 @@
         "Other"
     ],
     "aleksey-hoffman/sigma-file-manager": [
+        "Other"
+    ],
+    "aleluff/uktools": [
         "Other"
     ],
     "alessandrobelli/NotionHook": [
@@ -5007,6 +5028,9 @@
         "Other"
     ],
     "anuraghazra/github-readme-stats": [
+        "Other"
+    ],
+    "anyproto/anytype-ts": [
         "Other"
     ],
     "aodin/golang-for-pythonistas": [
@@ -5640,6 +5664,12 @@
         "Other"
     ],
     "aws/aws-cli": [
+        "Other"
+    ],
+    "aws/aws-sdk-go": [
+        "Other"
+    ],
+    "aws/aws-sdk-go-v2": [
         "Other"
     ],
     "aws/aws-sdk-java": [
@@ -6390,6 +6420,9 @@
         "Other"
     ],
     "caorushizi/m3u8-downloader": [
+        "Other"
+    ],
+    "caorushizi/mediago": [
         "Other"
     ],
     "captioning/captioning": [
@@ -9770,7 +9803,7 @@
     "hdoria/xcode-themes": [
         "Other"
     ],
-    "hedgieinsocks/launcher": [
+    "hedgieinsocks/gnome-extension-launcher": [
         "Other"
     ],
     "hediet/vscode-drawio": [
@@ -13076,6 +13109,9 @@
     "mislav/hub": [
         "Other"
     ],
+    "mistralai/mistral-src": [
+        "Other"
+    ],
     "mitio/useful-ffmpeg-commands": [
         "Other"
     ],
@@ -13335,6 +13371,9 @@
         "Other"
     ],
     "muaz-khan/Ffmpeg.js": [
+        "Other"
+    ],
+    "mudler/LocalAI": [
         "Other"
     ],
     "muety/http2-serverpush-proxy": [
@@ -14564,6 +14603,9 @@
     "phanan/htaccess": [
         "Other"
     ],
+    "phaserjs/phaser": [
+        "Other"
+    ],
     "phaux/node-ffmpeg-stream": [
         "Other"
     ],
@@ -14601,9 +14643,6 @@
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "phoronix-test-suite/phoronix-test-suite": [
-        "Other"
-    ],
-    "photonstorm/phaser": [
         "Other"
     ],
     "photoprism/photoprism": [
@@ -14967,6 +15006,9 @@
         "Other"
     ],
     "pulsejet/go-vod": [
+        "Other"
+    ],
+    "pulsejet/memories": [
         "Other"
     ],
     "pulumi/pulumi": [
@@ -17018,6 +17060,9 @@
     "sudheerj/Linux-cheat-sheet": [
         "Other"
     ],
+    "sueszli/notionSnapshot": [
+        "Other"
+    ],
     "suifengqjn/TBPlayer": [
         "Other"
     ],
@@ -17124,6 +17169,9 @@
         "Other"
     ],
     "swift-server/http": [
+        "Other"
+    ],
+    "swift-server/sswg": [
         "Other"
     ],
     "swift-server/swift-aws-lambda-runtime": [
@@ -18021,9 +18069,6 @@
         "Other"
     ],
     "uraimo/Awesome-Swift-Playgrounds": [
-        "Other"
-    ],
-    "usbkey9/uktools": [
         "Other"
     ],
     "usmannasir/cyberpanel": [

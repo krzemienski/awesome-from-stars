@@ -284,6 +284,7 @@
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
 * [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable): Type-erased wrappers for Encodable, Decodable, and Codable values
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
+* [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts): Official Anytype client for MacOS, Linux, and Windows
 * [klaudiosinani/ao](https://github.com/klaudiosinani/ao): Elegant Microsoft To-Do desktop app
 * [xiph/aomanalyzer](https://github.com/xiph/aomanalyzer): AV1 / VP9 Bitstream Analyzer
 * [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP): NOVA opeN sOurce Video plAyer: main repository to build them all
@@ -387,7 +388,7 @@
 * [LearnDataSci/articles](https://github.com/LearnDataSci/articles): A repository for the source code, notebooks, data, files, and other assets used in the data science and machine learning articles on LearnDataSci
 * [objcio/articles](https://github.com/objcio/articles): All current objc.io articles
 * [pedrohperalta/Articles-iOS-VIPER](https://github.com/pedrohperalta/Articles-iOS-VIPER): Demo app for VIPER design pattern implementation
-* [artilleryio/artillery](https://github.com/artilleryio/artillery): Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+* [artilleryio/artillery](https://github.com/artilleryio/artillery): Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 * [artilleryio/artillery-plugin-datadog](https://github.com/artilleryio/artillery-plugin-datadog): Artillery plugin for sending metrics to Datadog
 * [artilleryio/artillery-plugin-hls](https://github.com/artilleryio/artillery-plugin-hls): 🎥 Load test HTTP Live Streaming (HLS) servers with Artillery 
 * [maiwenchang/ArtPlayer](https://github.com/maiwenchang/ArtPlayer): Kotlin实现的视频播放器，将MediaPlayer与VideoView解耦合，支持切换播放器内核（如ExoPlayer和ijkPlayer），支持自定义控制视图，提供MediaPlayerManager实现全屏模式，小屏幕模式等。
@@ -437,6 +438,7 @@
 * [bbc/audio-offset-finder](https://github.com/bbc/audio-offset-finder): Find the offset of an audio file within another audio file
 * [okorach/audio-video-tools](https://github.com/okorach/audio-video-tools): Python based batch tools to transcode audio and video conveniently (leverages FFMpeg)
 * [shinobizero/audio_transcriber](https://github.com/shinobizero/audio_transcriber): Transcodes audio & video files to text, supports MP3, M4A, WAV, MP4, MKV, AVI, MPG & MPEG. No Online API's. Python 3
+* [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming): 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 * [yermak/AudioBookConverter](https://github.com/yermak/AudioBookConverter): Improved AudioBookConverter based on freeipodsoftware release (mp3 to m4b converter)
 * [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 * [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT): AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -529,7 +531,7 @@
 * [gaberogan/AVPlayerHLSTest](https://github.com/gaberogan/AVPlayerHLSTest): None
 * [balnaves/AVPlayerItemLegibleOutputTest](https://github.com/balnaves/AVPlayerItemLegibleOutputTest): This is a simple test project to get callbacks of caption changes in an HLS live stream.
 * [mhergon/AVPlayerViewController-Subtitles](https://github.com/mhergon/AVPlayerViewController-Subtitles): Easy way to show SRT files on AVPlayerViewController
-* [marakew/AvProxy](https://github.com/marakew/AvProxy): IPTV transmux proxy for HTTP(S)/HLS(S)(AES128)/UDP/RTP/RTSP + VOD,  MPTS/T2MI(PLP) demux
+* [marakew/AvProxy](https://github.com/marakew/AvProxy): moved to https://gitlab.com/marakew, IPTV transmux proxy for HTTP(S)/HLS(S)(AES128)/UDP/RTP/RTSP + VOD,  MPTS/T2MI(PLP) demux
 * [Telecommunication-Telemedia-Assessment/AVRate](https://github.com/Telecommunication-Telemedia-Assessment/AVRate): An open source modular Audio/Visual subjective evaluation test interface
 * [Telecommunication-Telemedia-Assessment/avrateNG](https://github.com/Telecommunication-Telemedia-Assessment/avrateNG): avrateNG -- next generation of avrate
 * [serhatcelik/avsub](https://github.com/serhatcelik/avsub): A simplified command-line interface for FFmpeg
@@ -919,6 +921,8 @@
 * [yard-turkey/aws-s3-provisioner](https://github.com/yard-turkey/aws-s3-provisioner): None
 * [pottava/aws-s3-proxy](https://github.com/pottava/aws-s3-proxy): Reverse proxy for AWS S3 with basic authentication.
 * [lostintime/aws-s3-webdav](https://github.com/lostintime/aws-s3-webdav): Basic AWS S3 WebDAV interface implemented in Rust
+* [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go): AWS SDK for the Go programming language.
+* [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2): AWS SDK for the Go programming language. 
 * [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java): The official AWS SDK for Java.
 * [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2): The official AWS SDK for Java - Version 2
 * [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas): pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
@@ -1198,8 +1202,10 @@
 * [helm/charts](https://github.com/helm/charts): ⚠️(OBSOLETE) Curated applications for Kubernetes
 * [gabriel-kaam/chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm): Compilations of ChatGPT Prompts from AIPRM
 * [huggingface/chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app
+* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT interface with better UI 
+* [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web): A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 * [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval): None
 * [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion): ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 * [AyatKhraisat/ChatGPT_Code_Converter](https://github.com/AyatKhraisat/ChatGPT_Code_Converter): This project was built by OpenAI to convert a code programming language using OpenAI itself.
@@ -1419,6 +1425,7 @@
 * [m-x-k/cookiecutter-spring-boot](https://github.com/m-x-k/cookiecutter-spring-boot): Cookiecutter for standard java spring boot gradle application
 * [radianttap/Coordinator](https://github.com/radianttap/Coordinator): Implementation of Coordinators app design pattern.
 * [github/copilot-docs](https://github.com/github/copilot-docs): Documentation for GitHub Copilot
+* [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service): Convert Github Copilot to ChatGPT, free to use the GPT-4 model
 * [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode): The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 * [willowtreeapps/cordux](https://github.com/willowtreeapps/cordux): None
 * [datarhei/core](https://github.com/datarhei/core): datarhei Core is management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.
@@ -2065,6 +2072,7 @@
 * [DisplayLink/evdi](https://github.com/DisplayLink/evdi): Extensible Virtual Display Interface
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
 * [BoostIO/ever2boost](https://github.com/BoostIO/ever2boost): None
+* [Shampra/EvernoteToAnytype](https://github.com/Shampra/EvernoteToAnytype): Enex to JSON converter, for export Evernote to Anytype
 * [aiqinxuancai/EvernoteToNotionChrome](https://github.com/aiqinxuancai/EvernoteToNotionChrome): A tool to import Evernote into Notion, with images stored in Notion.
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 * [alex8088/EvPlayer](https://github.com/alex8088/EvPlayer): Video player base on Electron
@@ -2634,7 +2642,7 @@
 * [Reinforz/github-readme-learn-section-notion](https://github.com/Reinforz/github-readme-learn-section-notion): Update your github README with data fetched from a notion database
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [Moin-Islam/Github-Scraper](https://github.com/Moin-Islam/Github-Scraper): A web scraper which scraps github topics and details 
-* [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper): 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
+* [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper): 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡
 * [grtfou/github-stars](https://github.com/grtfou/github-stars): List stars of Github account to markdown file
 * [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic): :star: Generate a list of your GitHub stars by topic - automatically!
 * [paulphys/github-stars-download](https://github.com/paulphys/github-stars-download): git clone all of your starred repositories on github
@@ -2688,6 +2696,7 @@
 * [arunk140/gnome-command-menu](https://github.com/arunk140/gnome-command-menu): A GNOME Shell Extension to manage shortcuts in Top Bar (Inspired by Shuttle and SSHMenu)
 * [phavekes/gnome-extension-all-ip-addresses](https://github.com/phavekes/gnome-extension-all-ip-addresses): This is the code behind the GNOME Shell Extension called ALL IP Addresses, available in the GNOME Shell Extension store.
 * [CharlieQLe/gnome-extension-gtk3-theme-switcher](https://github.com/CharlieQLe/gnome-extension-gtk3-theme-switcher): None
+* [hedgieinsocks/gnome-extension-launcher](https://github.com/hedgieinsocks/gnome-extension-launcher): GNOME Extension: Run scripts from a Panel Indicator
 * [devopsnextgenx/gnome-extensions](https://github.com/devopsnextgenx/gnome-extensions): Developing different gnome-extensions
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [davesteele/gnome-gmail](https://github.com/davesteele/gnome-gmail): Integrate GMail into the Linux Desktop
@@ -3001,7 +3010,7 @@
 * [heineiuo/hlsdl](https://github.com/heineiuo/hlsdl): Download HTTP Live Streaming video as a single file from a url with m3u8 content.
 * [selsta/hlsdl](https://github.com/selsta/hlsdl): C program to download VoD HLS (.m3u8) files
 * [Rendevior/hlsdl-cli](https://github.com/Rendevior/hlsdl-cli): HLS playlist downloader written in Shell
-* [nurrony/hlsdownloader](https://github.com/nurrony/hlsdownloader): Downloads HLS Playlist file and TS chunks
+* [nurrony/hlsdownloader](https://github.com/nurrony/hlsdownloader): Downloads HLS Playlist file and TS chunks. You can use it for content pre-fetching from CDN to Edge Server for your end viewers.
 * [qi-shun-wang/HLSDownloader](https://github.com/qi-shun-wang/HLSDownloader): Download Crypted HLS with server key and play video as local playing on iOS device.
 * [nurrony/hlsdownloader-cli](https://github.com/nurrony/hlsdownloader-cli): Downloads HLS Playlist file and TS chunks using Terminal
 * [mpatt3970/HlsExoPlayerDemo](https://github.com/mpatt3970/HlsExoPlayerDemo): None
@@ -3521,7 +3530,6 @@
 * [ezeoleaf/larry](https://github.com/ezeoleaf/larry): Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 * [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave): A retro outrun / cyberpunk inspired VS Code theme
 * [system76/launch](https://github.com/system76/launch): System76 Launch Configurable Keyboard
-* [hedgieinsocks/launcher](https://github.com/hedgieinsocks/launcher): GNOME Extension: Run scripts from a Panel Indicator
 * [pop-os/launcher](https://github.com/pop-os/launcher): Modular IPC-based desktop launcher service
 * [Laverna/laverna](https://github.com/Laverna/laverna): Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 * [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair): No clever tagline needed.
@@ -3645,6 +3653,7 @@
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
+* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 * [ghostwords/localore](https://github.com/ghostwords/localore): Wagtail-based CMS and Ansible playbooks for Localore: Finding America
 * [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel): expose yourself
@@ -3836,6 +3845,7 @@
 * [francoism90/mediadb-ui](https://github.com/francoism90/mediadb-ui): MediaDB UI for https://github.com/francoism90/mediadb
 * [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement): HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
 * [mediaelement/mediaelement-plugins](https://github.com/mediaelement/mediaelement-plugins): Plugins for the main mediaelement project 
+* [caorushizi/mediago](https://github.com/caorushizi/mediago): m3u8 点播视频下载
 * [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [stackrock/mediamachinejava](https://github.com/stackrock/mediamachinejava): Java SDK for Video Transcoding, Thumbnails extraction & Video Summarization. MediaMachine API lets you convert videos between different web-ready formats - perfect for processing & resizing user-generated videos. Uses machine-learning to select the best frame as thumbnail for videos & creates video summaries similar to NLP for articles.
@@ -3843,6 +3853,7 @@
 * [Intel-Media-SDK/MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK): The Intel® Media SDK
 * [iliya-gr/mediasegmenter](https://github.com/iliya-gr/mediasegmenter): HLS media segmenter.
 * [demuxed/megameetup.video](https://github.com/demuxed/megameetup.video): None
+* [pulsejet/memories](https://github.com/pulsejet/memories): Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 * [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
 * [benjaminmayo/merchantkit](https://github.com/benjaminmayo/merchantkit): A modern In-App Purchases management framework for iOS.
 * [shinyfrog/mercury-parser](https://github.com/shinyfrog/mercury-parser): 📜 Extracting content from the chaos of the web.
@@ -3883,6 +3894,7 @@
 * [PatrickKalkman/MiniVideoEncoder](https://github.com/PatrickKalkman/MiniVideoEncoder): A modern video encoding platform for encoding videos optimized for streaming supporting modern encodings such as x264, x265, VP9 and AV1
 * [yonaskolb/Mint](https://github.com/yonaskolb/Mint): A package manager that installs and runs executable Swift packages
 * [Last-Order/Minyami](https://github.com/Last-Order/Minyami): A lovely video downloader for HLS videos
+* [mistralai/mistral-src](https://github.com/mistralai/mistral-src): Reference implementation of Mistral AI 7B v0.1 model.
 * [DDVTECH/mistserver](https://github.com/DDVTECH/mistserver): The official mistserver source repository - www.mistserver.com
 * [wulab/mithril-slides](https://github.com/wulab/mithril-slides): A Keynote-inspired presentation app written with Mithril
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -4270,6 +4282,7 @@
 * [ariary/Notionion](https://github.com/ariary/Notionion): Notion as an HTTP proxy
 * [mayneyao/NotionPlus](https://github.com/mayneyao/NotionPlus): Programming in Notion.so
 * [taehoio/notionproxy](https://github.com/taehoio/notionproxy): Notion as a web site, inspired by react-notion-x.
+* [sueszli/notionSnapshot](https://github.com/sueszli/notionSnapshot): notion web scraper
 * [chojnac/NotionSwift](https://github.com/chojnac/NotionSwift): Unofficial Notion API SDK for iOS & macOS
 * [notionblog/NotionThemes](https://github.com/notionblog/NotionThemes): Make your Notion pretty with custom themes
 * [MaaxGr/NotionTodoistSync](https://github.com/MaaxGr/NotionTodoistSync): Synchronisation of Todoist with Notion Database (via official public api)
@@ -4507,7 +4520,7 @@
 * [pfsense/pfsense](https://github.com/pfsense/pfsense): Main repository for pfSense
 * [acoustid/pg_acoustid](https://github.com/acoustid/pg_acoustid): PostgreSQL extension for working with AcoustID fingerprints
 * [ariya/phantomjs](https://github.com/ariya/phantomjs): Scriptable Headless Browser
-* [photonstorm/phaser](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* [phaserjs/phaser](https://github.com/phaserjs/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [philcluff/phils-players](https://github.com/philcluff/phils-players): A collection of video players with vaguely simple GUIs for video engineers.
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh): Manjaro Phosh
@@ -4534,7 +4547,7 @@
 * [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage): A thread safe, performant, feature rich image fetcher
 * [pypa/pip](https://github.com/pypa/pip): The Python package installer
 * [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream): Connect APIs, remarkably fast.  Free for developers.
-* [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless): An open-source computer vision framework to build and deploy apps in minutes without worrying about multimedia pipelines
+* [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless): An open-source computer vision framework to build and deploy apps in minutes
 * [tektoncd/pipeline](https://github.com/tektoncd/pipeline): A cloud-native Pipeline resource.
 * [ENCODE-DCC/pipeline-container](https://github.com/ENCODE-DCC/pipeline-container): Containerization infrastructure for ENCODE analysis pipelines
 * [dkashin/pipencoder-base](https://github.com/dkashin/pipencoder-base): GUI and automation for media transcoding and streaming CLI tools
@@ -4813,7 +4826,7 @@
 * [glideapps/quicktype-xcode](https://github.com/glideapps/quicktype-xcode): Xcode extension to paste JSON as Swift, Objective-C, and more
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [StanGirard/quivr](https://github.com/StanGirard/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation 
+* [StanGirard/quivr](https://github.com/StanGirard/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation. YCombinator - YC W24
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -5048,7 +5061,7 @@
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
 * [penDerGraft/run-k8s-job](https://github.com/penDerGraft/run-k8s-job): GitHub Action to run a Kubernetes job in a cluster
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
-* [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker - in VMs.
+* [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker, even OpenWrt - in VMs using 'docker run`
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
 * [runtipi/runtipi](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 * [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore): Official repository hosting the Runtipi App Store. Submit apps and updates here. 
@@ -5255,7 +5268,7 @@
 * [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta): The civilized way to write REST API clients for iOS / macOS
 * [agrinman/sift-ios](https://github.com/agrinman/sift-ios): Uncover network traffic in real-time for every app on your phone
 * [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
-* [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager): "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
+* [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager): "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 * [klaudiosinani/signale](https://github.com/klaudiosinani/signale): Highly configurable logging utility
 * [uber/signals-ios](https://github.com/uber/signals-ios): Typeful eventing
 * [Tourenathan-G5organisation/SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor): A powerful, flexible and easy to use Video and Image compression library for Android.
@@ -5468,6 +5481,7 @@
 * [moul/sshportal](https://github.com/moul/sshportal): :tophat: simple, fun and transparent SSH (and telnet) bastion server
 * [nirui/sshwifty](https://github.com/nirui/sshwifty): Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 * [yrutschle/sslh](https://github.com/yrutschle/sslh): Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+* [swift-server/sswg](https://github.com/swift-server/sswg): Swift Server Working Group (SSWG)
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer): Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 * [elastic/stack-docker](https://github.com/elastic/stack-docker): Project no longer maintained.
@@ -6007,7 +6021,7 @@
 * [JohnSundell/UITestingExample](https://github.com/JohnSundell/UITestingExample): Example code from my blog post about UI testing
 * [malcommac/UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions): 🏃‍♂️ Animated transitions for UIWindow's rootViewController property
 * [willowtreeapps/ukor](https://github.com/willowtreeapps/ukor): A Roku build tool with support for build flavors
-* [usbkey9/uktools](https://github.com/usbkey9/uktools): Upgrade latest Linux kernel automatically for Ubuntu and derivatives 🐧
+* [aleluff/uktools](https://github.com/aleluff/uktools): Upgrade latest Linux kernel automatically for Ubuntu and derivatives 🐧
 * [teejee2008/ukuu](https://github.com/teejee2008/ukuu): A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notifications when new mainline kernel is available. Lists kernels from http://kernel.ubuntu.com/~kernel-ppa/mainline/ with options to install and remove.
 * [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
@@ -6172,6 +6186,7 @@
 * [bgrins/videoconverter.js](https://github.com/bgrins/videoconverter.js): [UNMAINTAINED] Convert videos in your browser
 * [vasusen-code/VIDEOconvertor](https://github.com/vasusen-code/VIDEOconvertor): A stable and Fast telegram video convertor bot which can encode into different libs and resolution, compress videos, convert video into audio and other video formats, rename with thumbnail support, generate screenshot and trim videos.
 * [apm1467/videocr](https://github.com/apm1467/videocr): Extract hardcoded subtitles from videos using machine learning
+* [JeffMony/VideoDownloader](https://github.com/JeffMony/VideoDownloader): 支持下载队列，支持M3U8视频、MP4视频等，支持M3U8合并为MP4视频。
 * [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader): A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
 * [kudlav/videoeditor](https://github.com/kudlav/videoeditor): Web Based Video Editor Using MLT Framework, Bachelor thesis
 * [kudlav/videoeditor-doc](https://github.com/kudlav/videoeditor-doc): Bachelor thesis for videoeditor repository.
