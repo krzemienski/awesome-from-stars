@@ -358,7 +358,7 @@
 * [electron/apps](https://github.com/electron/apps): A collection of apps built on Electron
 * [aunetx/apps-to-panel](https://github.com/aunetx/apps-to-panel): This extension turns the Activities button into two button with icon or text to select Applications or Workspaces in the Overview.
 * [omz/AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App Sales allows iPhone and Mac App Store developers to download and analyze their daily and weekly sales reports from iTunes Connect.
-* [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+* [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 * [sphinx02/AppStarter](https://github.com/sphinx02/AppStarter): AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.
 * [phillfarrugia/appstore-clone](https://github.com/phillfarrugia/appstore-clone): An experimental clone of the new iOS 11 App Store app
 * [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk): The Swift SDK to work with the App Store Connect API from Apple.
@@ -394,6 +394,7 @@
 * [thoughtbot/Argo](https://github.com/thoughtbot/Argo): Functional JSON parsing library for Swift
 * [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows): Workflow Engine for Kubernetes
 * [aria2/aria2](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+* [tobychui/arozos](https://github.com/tobychui/arozos): Web Desktop Operating System for low power platforms, Now written in Go!
 * [antoniocasero/Arrows](https://github.com/antoniocasero/Arrows): Arrows is an animated custom view to give feedback about your UI sliding panels.
 * [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal): Arsenal is just a quick inventory and launcher for hacking programs
 * [krayc425/ARTargetShooting](https://github.com/krayc425/ARTargetShooting): An AR shooting game for the WWDC 2018 Scholarship [Accepted]. ARKit 飞盘射击游戏，WWDC 2018 奖学金入选作品
@@ -1331,6 +1332,7 @@
 * [ultravideo/cloud-encoder](https://github.com/ultravideo/cloud-encoder): Kvazaar Cloud Encoder
 * [aws-samples/cloud-storage-to-s3-tool](https://github.com/aws-samples/cloud-storage-to-s3-tool): None
 * [xyk2/cloud-transcoder](https://github.com/xyk2/cloud-transcoder): Transcoding long (>1 hour) videos quickly and cost-effectively on GCP to adaptive HLS and MP4 mezzanine files. Up to 40x $ savings.
+* [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox): Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 * [LINKIWI/cloudflare-ddns-client](https://github.com/LINKIWI/cloudflare-ddns-client): Linux client for automatic dynamic DNS updates on CloudFlare-managed domains
 * [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared): Cloudflare Tunnel client (formerly Argo Tunnel)
 * [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web): None
@@ -1741,6 +1743,7 @@
 * [durfu/DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer): RTSP player for iOS with ffmpeg.
 * [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker): A library to display an interactive editor for any graph-like data.
 * [mingrammer/diagrams](https://github.com/mingrammer/diagrams): :art: Diagram as Code for prototyping cloud system architectures
+* [MichaIng/DietPi](https://github.com/MichaIng/DietPi): Lightweight justice for your single-board computer!
 * [google/diff-match-patch](https://github.com/google/diff-match-patch): Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 * [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit): 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
 * [langgenius/dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
@@ -2997,6 +3000,7 @@
 * [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc): :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green_apple: 实时直播：WebRTC
 * [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals): Hack any Captive portal using MAC-spoofing technique
 * [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu): Hacker News Delivered to Desktop :dancers:
+* [ndarilek/hacker-resume](https://github.com/ndarilek/hacker-resume): None
 * [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): A collection of hacking tools, resources and references to practice ethical hacking.
 * [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts): Based on a true story
 * [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud): An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
@@ -4256,6 +4260,7 @@
 * [inlife/nexrender](https://github.com/inlife/nexrender): 📹  Data-driven render automation for After Effects
 * [BrianRuizy/next-notion-portfolio](https://github.com/BrianRuizy/next-notion-portfolio): 📙 NEXT.js + Notion driven portfolio template. Seamlessly add content with the awesome UX of Notion. Showcase your work through blog format.
 * [christophetd/nextcloud-docker-compose](https://github.com/christophetd/nextcloud-docker-compose): :cloud: Spin up a Nextcloud instance with automatied backups and SSL certificate issuance.
+* [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi): 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 * [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit): Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 * [NextLevel/NextLevel](https://github.com/NextLevel/NextLevel): ⬆️ Media Capture in Swift
 * [NextLevel/NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter): 🔄 Export and transcode media in Swift
@@ -4543,7 +4548,7 @@
 * [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB): Web tool for database management
 * [balopez83/One-Mix-3-Hackintosh](https://github.com/balopez83/One-Mix-3-Hackintosh): This project attempts to bring MacOS to the One-Mix 3 & 2s with Full Support
-* [theonedev/onedev](https://github.com/theonedev/onedev): Self-hosted Git Server with CI/CD and Kanban
+* [theonedev/onedev](https://github.com/theonedev/onedev): Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 * [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub): Thousands of code solutions with clear explanation @ onelinerhub.com
 * [tjf801/oneliners](https://github.com/tjf801/oneliners): one line of python code to impliment algorithms
 * [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -4583,6 +4588,7 @@
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9): Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
+* [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault): openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
 * [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 * [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 * [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB): Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
@@ -4752,6 +4758,7 @@
 * [piotrmski/plaid](https://github.com/piotrmski/plaid): Personal Jira worklog editor
 * [pinterest/plank](https://github.com/pinterest/plank): A tool for generating immutable model objects
 * [orblazer/plasma-applet-resources-monitor](https://github.com/orblazer/plasma-applet-resources-monitor): Plasma 5 applet for monitoring CPU, RAM and network traffic.
+* [syncloud/platform](https://github.com/syncloud/platform): Run popular services on your device with one click
 * [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages): Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers
 * [meshery/play](https://github.com/meshery/play): Cloud Native Playground for Kubernetes and all CNCF projects
 * [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker): You know it, you use it, now it's time to improve it. PWD!.
@@ -5256,8 +5263,9 @@
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
 * [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker, even OpenWrt - in VMs using 'docker run`
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
+* [actions/runner-images](https://github.com/actions/runner-images): GitHub Actions runner images
 * [runtipi/runtipi](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-* [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore): Official RunTipi AppStore. Apps and updates live there!
+* [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore): Official Runtipi AppStore. Apps and updates live here!
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust):  All Algorithms implemented in Rust 
 * [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 * [angelcam/rust-ac-ffmpeg](https://github.com/angelcam/rust-ac-ffmpeg): Simple and safe Rust interface for FFmpeg libraries.
@@ -5323,6 +5331,7 @@
 * [jamland/samplescope](https://github.com/jamland/samplescope): Desktop app with the main goal to simplify audio samples search over the internet sources.
 * [influxdata/sandbox](https://github.com/influxdata/sandbox): A sandbox for the full TICK stack
 * [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2): Automatically generate a RESTful API service for your legacy database. No code required!
+* [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 * [willowtreeapps/sango](https://github.com/willowtreeapps/sango): Tool for processing common constants and assets between projects. Example use case is between iOS and Android. Takes a source JSON and copies files, and outputs a Swift and Java file for use.
 * [gperdomor/sanitize](https://github.com/gperdomor/sanitize): Powerful model extraction from Vapor JSON requests
 * [louisdh/savanna](https://github.com/louisdh/savanna): A native iOS & macOS IDE for the Cub programming language
@@ -6203,7 +6212,7 @@
 * [kodlian/TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer): TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps.
 * [linagora/Twake](https://github.com/linagora/Twake): Twake is a secure open source collaboration platform to improve organizational productivity. 
 * [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks): An easy way to fine-tune, and adjust parameters for iOS apps in development.
-* [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny): The most no-nonsense locally hosted (or API hosted) AI code completion plugin for vs-code, like GitHub Copilot but 100% free and 100% private.
+* [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny): The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
 * [amiechen/twitch-batch-loader](https://github.com/amiechen/twitch-batch-loader): Batch download twitch clips in terminal
 * [TorbenCapiau/Twitch-Clips-Downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader): Streamers have been receiving a lot of copyright complaints and are forced to delete all their clips to avoid their Twitch account being closed. Save the clips you've made with this tool.
 * [dudik/twitch-m3u8](https://github.com/dudik/twitch-m3u8): Get the stream URL of a Twitch livestream or past broadcast (VOD).
@@ -6722,6 +6731,7 @@
 * [rovo89/XposedBridge](https://github.com/rovo89/XposedBridge): The Java part of the Xposed framework.
 * [SeungheonOh/xrdm](https://github.com/SeungheonOh/xrdm): X Resouce Database Manager 
 * [ios-utils/XRouter](https://github.com/ios-utils/XRouter): Navigate anywhere in just one line.
+* [nodiscc/xsrv](https://github.com/nodiscc/xsrv): [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 * [xhlove/XstreamDL-CLI](https://github.com/xhlove/XstreamDL-CLI): 命令行版本的HLS/DASH流下载器，支持标准AES-128-CBC解密
 * [Xuno/XunoPlayer-MPV](https://github.com/Xuno/XunoPlayer-MPV): XunoPlayer-MPV is fork of MPV multimedia playback library based on MPlayer/mplayer2 and FFmpeg with a Qt GUI and enhanced user functionality optimized for High Quality 12-bit RGB AV1 & HEVC video.
 * [moshfeu/y2mp3](https://github.com/moshfeu/y2mp3): An Electron app to download youtube playlist
@@ -6764,6 +6774,7 @@
 * [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM): A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 * [Aveek-Saha/ytdx](https://github.com/Aveek-Saha/ytdx): Download audio from YouTube videos
 * [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
+* [YunoHost/yunohost](https://github.com/YunoHost/yunohost): YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 * [ericm/yup](https://github.com/ericm/yup): Arch Linux AUR Helper with ncurses functionality and better searching and sorting 
 * [xincao9/yurpc](https://github.com/xincao9/yurpc): high-performance RPC framework.
 * [IENT/YUView](https://github.com/IENT/YUView): The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset

@@ -731,6 +731,9 @@
     "CloudNcodeInc/EncodeBox": [
         "Other"
     ],
+    "Cloudbox/Cloudbox": [
+        "Other"
+    ],
     "Cloudstek/alfred-atom": [
         "Other"
     ],
@@ -2834,6 +2837,9 @@
     "MetalPetal/VideoIO": [
         "Other"
     ],
+    "MichaIng/DietPi": [
+        "Other"
+    ],
     "MichielJ1998/Gnome-tweak-screensaver": [
         "Other"
     ],
@@ -4355,6 +4361,9 @@
     "YomikoR/VapourSynth-Editor": [
         "Other"
     ],
+    "YunoHost/yunohost": [
+        "Other"
+    ],
     "Z4nzu/hackingtool": [
         "Other"
     ],
@@ -4527,6 +4536,9 @@
         "Other"
     ],
     "actions/container-toolkit-action": [
+        "Other"
+    ],
+    "actions/runner-images": [
         "Other"
     ],
     "actions/starter-workflows": [
@@ -14072,6 +14084,9 @@
     "nccgroup/ScoutSuite": [
         "Other"
     ],
+    "ndarilek/hacker-resume": [
+        "Other"
+    ],
     "neXenio/adb-util": [
         "Other"
     ],
@@ -14166,6 +14181,9 @@
         "Other"
     ],
     "nextcloud/ios": [
+        "Other"
+    ],
+    "nextcloud/nextcloudpi": [
         "Other"
     ],
     "nextcloud/server": [
@@ -14337,6 +14355,9 @@
         "Other"
     ],
     "nodiscc/awesome-linuxaudio": [
+        "Other"
+    ],
+    "nodiscc/xsrv": [
         "Other"
     ],
     "nogoodusername/fastapi-userless-service": [
@@ -14769,6 +14790,9 @@
         "Other"
     ],
     "openjdk/skara": [
+        "Other"
+    ],
+    "openmediavault/openmediavault": [
         "Other"
     ],
     "openplayerjs/openplayerjs": [
@@ -16499,6 +16523,9 @@
     "sanathb/go-HLS": [
         "Other"
     ],
+    "sandstorm-io/sandstorm": [
+        "Other"
+    ],
     "sangwonl/python-mpegdash": [
         "Other"
     ],
@@ -17840,6 +17867,9 @@
     "syncany/syncany-plugin-gui": [
         "Other"
     ],
+    "syncloud/platform": [
+        "Other"
+    ],
     "syncthing/syncthing": [
         "Other"
     ],
@@ -18330,6 +18360,9 @@
         "Other"
     ],
     "tobuya/chat_gpt_ui": [
+        "Other"
+    ],
+    "tobychui/arozos": [
         "Other"
     ],
     "toeverything/AFFiNE": [
