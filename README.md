@@ -180,7 +180,9 @@
 * [gitbito/AI-Automation](https://github.com/gitbito/AI-Automation): Intelligent AI automation examples using Bito CLI and tools
 * [Abhii-07/AI-Code-Converter](https://github.com/Abhii-07/AI-Code-Converter): This web application allows you to convert code from one programming language to another using the ChatGPT API. It also provides code debugging and code quality checking features.
 * [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator): Use AI to translate code from one language to another.
+* [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator): AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved viewing experience. This project combines the capabilities of GPT-4, FFmpeg, and OpenCV to automate the process of identifying highlights in videos
 * [greenteabots/Ai-Soundcloudviewer-written-by-chatGPT](https://github.com/greenteabots/Ai-Soundcloudviewer-written-by-chatGPT): Soundcloud ViewBot written by ChatGPT
+* [bpinheiroms/ai-youtube-ffmpeg](https://github.com/bpinheiroms/ai-youtube-ffmpeg): None
 * [google/ai_video_dubbing](https://github.com/google/ai_video_dubbing): None
 * [gofireflyio/aiac](https://github.com/gofireflyio/aiac): Artificial Intelligence Infrastructure-as-Code Generator.
 * [Panl/AICat](https://github.com/Panl/AICat): Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS
@@ -1597,6 +1599,7 @@
 * [rainyear/dailybot](https://github.com/rainyear/dailybot): Daily Bot - Parse RSS and ChatGPT it.
 * [pshanmu3/dailymotion_to_m3u8](https://github.com/pshanmu3/dailymotion_to_m3u8): DailyMotion IPTV News Channels .m3u8 file
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
+* [Mar2ck/DAIN-Vulkan-GUI](https://github.com/Mar2ck/DAIN-Vulkan-GUI): AI-Powered video interpolater (eg. 30fps -> 60fps) for Vulkan devices. Based on dain-ncnn-vulkan and ffmpeg
 * [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
 * [django/daphne](https://github.com/django/daphne): Django Channels HTTP/WebSocket server
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -2060,6 +2063,7 @@
 * [aws-samples/ecs-refarch-cloudformation](https://github.com/aws-samples/ecs-refarch-cloudformation):  A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)
 * [tongueroo/ecs-spot-demo](https://github.com/tongueroo/ecs-spot-demo): ECS and Spot Fleet Demo
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+* [tnantoka/edhita](https://github.com/tnantoka/edhita): Fully open source text editor for iOS written in SwiftUI.
 * [codex-team/editor.js](https://github.com/codex-team/editor.js): A block-style editor with clean JSON output
 * [Comcast/eel](https://github.com/Comcast/eel): A simple proxy service to forward JSON events and transform or filter them along the way.
 * [achael/eht-imaging](https://github.com/achael/eht-imaging): Imaging, analysis, and simulation software for radio interferometry
@@ -2305,6 +2309,7 @@
 * [fastogt/fastonosql](https://github.com/fastogt/fastonosql): FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 * [fastogt/fastotv](https://github.com/fastogt/fastotv): IPTV/OTT Solution
 * [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an open-source alternative to GitHub Copilot server
+* [REMOLP/FAV2UCC](https://github.com/REMOLP/FAV2UCC): Next, better and actually somewhat intelligent version of an auto clipping app. FAVTUCC devs are literally shaking in their boots right now.
 * [janselv/fave-button](https://github.com/janselv/fave-button): FaveButton is an iOS cute animated like button written in Swift.
 * [Eyevinn/favorites-api](https://github.com/Eyevinn/favorites-api): Example of a simple implementation to build a favorites api on top of Redis
 * [facebookarchive/FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler): iOS tool that helps with profiling iOS Memory usage.
@@ -2441,6 +2446,7 @@
 * [nextbreakpoint/ffmpeg4java](https://github.com/nextbreakpoint/ffmpeg4java): FFmpeg4Java provides a JNI wrapper of FFmpeg library
 * [IORoot/ffmpeg__bash-scripts](https://github.com/IORoot/ffmpeg__bash-scripts): 🎞 FFMPEG Utility scripts and JSON scripter. 💡Run multi-stage ffmpeg workflows using a JSON config.
 * [eibol/ffmpeg_batch](https://github.com/eibol/ffmpeg_batch): FFmpeg Batch AV Converter
+* [apirrone/ffmpeg_gpt](https://github.com/apirrone/ffmpeg_gpt): Using GPT to generate bash scripts that use ffmpeg commands to process videos
 * [chinahbcq/ffmpeg_hw_decode](https://github.com/chinahbcq/ffmpeg_hw_decode): video stream hardware decoding and color space conversion by ffmpeg and cuda. thread safe.
 * [jnaqsh/ffmpeg_installer](https://github.com/jnaqsh/ffmpeg_installer): A Linux Shell Script for compiling, installing and uninstalling FFmpeg in CentOS
 * [Brainiarc7/ffmpeg_libnvenc](https://github.com/Brainiarc7/ffmpeg_libnvenc): This is a build of FFmpeg that supports NVIDIA's NVENC SIP block for H.264 H/W accelerated video encodes.
@@ -2814,7 +2820,7 @@
 * [arunk140/gnome-command-menu](https://github.com/arunk140/gnome-command-menu): A GNOME Shell Extension to manage shortcuts in Top Bar (Inspired by Shuttle and SSHMenu)
 * [phavekes/gnome-extension-all-ip-addresses](https://github.com/phavekes/gnome-extension-all-ip-addresses): This is the code behind the GNOME Shell Extension called ALL IP Addresses, available in the GNOME Shell Extension store.
 * [CharlieQLe/gnome-extension-gtk3-theme-switcher](https://github.com/CharlieQLe/gnome-extension-gtk3-theme-switcher): None
-* [hedgieinsocks/gnome-extension-launcher](https://github.com/hedgieinsocks/gnome-extension-launcher): GNOME Extension: Run scripts from a Panel Indicator
+* [hedgieinsocks/gnome-extension-launcher](https://github.com/hedgieinsocks/gnome-extension-launcher): Run scripts from a panel indicator
 * [devopsnextgenx/gnome-extensions](https://github.com/devopsnextgenx/gnome-extensions): Developing different gnome-extensions
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [davesteele/gnome-gmail](https://github.com/davesteele/gnome-gmail): Integrate GMail into the Linux Desktop
@@ -2951,12 +2957,14 @@
 * [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui): An open source implementation of OpenAI's ChatGPT Code interpreter
 * [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
 * [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
+* [langfordw/GPT-ffmpeg](https://github.com/langfordw/GPT-ffmpeg): None
 * [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 * [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox): An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 * [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 * [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader): Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 * [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer): Software design & development with AI
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
+* [MachWheel/GPT-to-FFmpeg](https://github.com/MachWheel/GPT-to-FFmpeg): Converta e manipule qualquer arquivo de áudio ou vídeo suportado pelo ffmpeg através de prompts com o ChatGPT; interface amigável; suporte a digitação por voz
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: run open-source LLMs anywhere
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts): Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 * [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
@@ -4754,7 +4762,7 @@
 * [mikeroyal/Perfect-Ubuntu-Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide): Ubuntu Guide. Learn about getting your Ubuntu Desktop/Server ready for development. Including Ubuntu Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps. 
 * [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit): Universal API for request permission and get its statuses.
 * [Yalantis/Persei](https://github.com/Yalantis/Persei): Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
-* [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+* [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 * [AgustinSRG/PersonalMediaVault](https://github.com/AgustinSRG/PersonalMediaVault): Web application to store media files (video, audio and pictures) in an encrypted storage, and visualize them using a web browser.
 * [imgly/pesdk-ios-build](https://github.com/imgly/pesdk-ios-build): PhotoEditor SDK: A fully customizable photo editor for your app.
 * [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo): 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -4889,7 +4897,7 @@
 * [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback): This repository is used to collect user feedback from PPHub (GitHub third-party client) - 此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
 * [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources): Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course 
 * [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python): Practical Python Programming (course by @dabeaz)
-* [connervieira/Predator](https://github.com/connervieira/Predator): A multipurpose computer vision system focused on offline, private license plate recognition
+* [connervieira/Predator](https://github.com/connervieira/Predator): A multi-purpose camera system focused on offline license plate and object recognition
 * [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 * [kean/Preheat](https://github.com/kean/Preheat): Automates prefetching of content in UITableView and UICollectionView
 * [IcaliaLabs/Presentr](https://github.com/IcaliaLabs/Presentr): Swift wrapper for custom ViewController presentations on iOS
