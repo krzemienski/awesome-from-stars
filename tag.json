@@ -122,6 +122,9 @@
     "AIGC-Audio/AudioGPT.github.io": [
         "Other"
     ],
+    "AILab-CVC/Animate-A-Story": [
+        "Other"
+    ],
     "AILab-CVC/VideoCrafter": [
         "Other"
     ],
@@ -1178,6 +1181,9 @@
     "DopplerHQ/awesome-interview-questions": [
         "Other"
     ],
+    "Doubiiu/DynamiCrafter": [
+        "Other"
+    ],
     "DovAmir/awesome-design-patterns": [
         "Other"
     ],
@@ -1823,9 +1829,6 @@
     "Fausto-Korpsvart/Material-GTK-Themes": [
         "Other"
     ],
-    "FedericoCarboni/setup-ffmpeg": [
-        "Other"
-    ],
     "Figma-Linux/figma-linux": [
         "Other"
     ],
@@ -2132,6 +2135,9 @@
     "Huachao/vscode-restclient": [
         "Other"
     ],
+    "HumanAIGC/AnimateAnyone": [
+        "Other"
+    ],
     "Hyperline/hyperline": [
         "Other"
     ],
@@ -2274,6 +2280,9 @@
         "Other"
     ],
     "JeffMony/VideoDownloader": [
+        "Other"
+    ],
+    "JeffWang987/WorldDreamer": [
         "Other"
     ],
     "Jerrywx/VideoPlayer": [
@@ -3194,6 +3203,9 @@
     "OpenGVLab/Ask-Anything": [
         "Other"
     ],
+    "OpenGVLab/InternVideo": [
+        "Other"
+    ],
     "OpenHEVC/openHEVC": [
         "Other"
     ],
@@ -3896,6 +3908,9 @@
     "Sriharia/ExoPlayer-StatsForNerds": [
         "Other"
     ],
+    "Stability-AI/StableCascade": [
+        "Other"
+    ],
     "Stability-AI/StableStudio": [
         "Other"
     ],
@@ -3984,6 +3999,12 @@
         "Other"
     ],
     "THUDM/CodeGeeX2": [
+        "Other"
+    ],
+    "TIGER-AI-Lab/ImagenHub": [
+        "Other"
+    ],
+    "TIGER-AI-Lab/MAmmoTH": [
         "Other"
     ],
     "TabbyML/tabby": [
@@ -4541,9 +4562,6 @@
     "ablwr/media-collection-viewer": [
         "Other"
     ],
-    "abskmj/youtube-hls-m3u8": [
-        "Other"
-    ],
     "academic/awesome-datascience": [
         "Other"
     ],
@@ -4965,6 +4983,9 @@
         "Other"
     ],
     "ali-vilab/i2vgen-xl": [
+        "Other"
+    ],
+    "ali-vilab/videocomposer": [
         "Other"
     ],
     "aliakseis/FFmpegPlayer": [
@@ -6719,6 +6740,9 @@
     "canonical/multipass": [
         "Other"
     ],
+    "canonical/snapcraft": [
+        "Other"
+    ],
     "canonical/snapcraft.io": [
         "Other"
     ],
@@ -6894,6 +6918,9 @@
         "Other"
     ],
     "changsanjiang/SJVideoPlayer": [
+        "Other"
+    ],
+    "chaojie/ComfyUI-DynamiCrafter": [
         "Other"
     ],
     "chaosblade-io/chaosblade": [
@@ -8339,6 +8366,9 @@
     "drawcall/lottie-node": [
         "Other"
     ],
+    "dreamoving/dreamoving-project": [
+        "Other"
+    ],
     "dreamvo/gilfoyle": [
         "Other"
     ],
@@ -9165,6 +9195,9 @@
         "Other"
     ],
     "fedecalendino/pysub-parser": [
+        "Other"
+    ],
+    "federicocarboni/setup-ffmpeg": [
         "Other"
     ],
     "federicoserraino/AV1-performance-analysis": [
@@ -11630,6 +11663,9 @@
     "jwplayer/mpegdash": [
         "Other"
     ],
+    "jy0205/LaVIT": [
+        "Other"
+    ],
     "jyguyomarch/awesome-productivity": [
         "Other"
     ],
@@ -12369,9 +12405,6 @@
         "Other"
     ],
     "kylegilman/video-embed-thumbnail-generator": [
-        "Other"
-    ],
-    "l-t-k/docker-autosub": [
         "Other"
     ],
     "labring/FastGPT": [
@@ -13616,6 +13649,9 @@
     "microsoft/FluentUIEditableDetailsList": [
         "Other"
     ],
+    "microsoft/Peekaboo": [
+        "Other"
+    ],
     "microsoft/appcenter": [
         "Other"
     ],
@@ -14834,9 +14870,6 @@
     "ollama-interface/Ollama-Gui": [
         "Other"
     ],
-    "ollama-webui/ollama-webui": [
-        "Other"
-    ],
     "ollama/ollama": [
         "Other"
     ],
@@ -14910,6 +14943,12 @@
         "Other"
     ],
     "open-guides/og-aws": [
+        "Other"
+    ],
+    "open-mmlab/PIA": [
+        "Other"
+    ],
+    "open-webui/open-webui": [
         "Other"
     ],
     "openHPI/nginx-hls-analyzer": [
@@ -16877,6 +16916,9 @@
     "scunning1987/dash_manifest_modifier": [
         "Other"
     ],
+    "sczhou/Upscale-A-Video": [
+        "Other"
+    ],
     "sdesyllas/hls-proxy-aes-service": [
         "Other"
     ],
@@ -17130,6 +17172,9 @@
         "Other"
     ],
     "shogo4405/Logboard": [
+        "Other"
+    ],
+    "showlab/Awesome-Video-Diffusion": [
         "Other"
     ],
     "showlab/Tune-A-Video": [
@@ -17442,9 +17487,6 @@
         "Other"
     ],
     "smplayer-dev/smplayer": [
-        "Other"
-    ],
-    "snapcore/snapcraft": [
         "Other"
     ],
     "snapcore/snapd": [
