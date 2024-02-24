@@ -230,6 +230,7 @@
 * [wuz/all_google_fonts](https://github.com/wuz/all_google_fonts): Download and install all the Google web fonts for local use.
 * [AllToMP3/alltomp3](https://github.com/AllToMP3/alltomp3): Node module to download and convert in MP3 with tags an online video
 * [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
+* [Rudloff/alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
 * [Alluxio/alluxio](https://github.com/Alluxio/alluxio): Alluxio, data orchestration for analytics and machine learning in the cloud
 * [marlimox/AloeStackView](https://github.com/marlimox/AloeStackView): A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.
 * [Legoless/Alpha](https://github.com/Legoless/Alpha): Next generation debugging framework for iOS
@@ -306,7 +307,7 @@
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
 * [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable): Type-erased wrappers for Encodable, Decodable, and Codable values
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
-* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 * [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts): Official Anytype client for MacOS, Linux, and Windows
 * [klaudiosinani/ao](https://github.com/klaudiosinani/ao): Elegant Microsoft To-Do desktop app
 * [xiph/aomanalyzer](https://github.com/xiph/aomanalyzer): AV1 / VP9 Bitstream Analyzer
@@ -725,7 +726,6 @@
 * [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot): A curated list of free/libre plugins, scripts and add-ons for Godot
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4): A curated list of prompts, tools, and resources regarding the GPT-4 language model.
-* [ai-boost/awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql): Awesome list of GraphQL
 * [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc): A curated list of useful resources for gRPC
 * [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines): A curated list of high quality coding style conventions and standards.
@@ -821,8 +821,9 @@
 * [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas): Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 * [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus): A curated list of awesome Prometheus resources, projects and tools.
 * [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts): 🚨 Collection of Prometheus alerting rules
+* [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [JetBrains/awesome-pycharm](https://github.com/JetBrains/awesome-pycharm): A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
-* [vinta/awesome-python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources
+* [vinta/awesome-python](https://github.com/vinta/awesome-python): An opinionated list of awesome Python frameworks, libraries, software and resources.
 * [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): 💿 Free software that works great, and also happens to be open-source Python. 
 * [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 * [make-github-pseudonymous-again/awesome-qr-code](https://github.com/make-github-pseudonymous-again/awesome-qr-code): A curated list of awesome QR code libraries, software and resources
@@ -1812,6 +1813,7 @@
 * [just-work/django-video-transcoding](https://github.com/just-work/django-video-transcoding): Simple video transcoding application for Django Framework
 * [davidbt/djmediastreamer](https://github.com/davidbt/djmediastreamer): A Django project that allows you to catalog and stream your videos (using FFmpeg to add subtitles and transcode).
 * [schedules/dl](https://github.com/schedules/dl): Node.js DASH and HLS downloader
+* [lmoroney/dlaicourse](https://github.com/lmoroney/dlaicourse): Notebooks for learning deep learning
 * [DolbyLaboratories/dlb_mp4base](https://github.com/DolbyLaboratories/dlb_mp4base): The Dolby MP4 streaming muxer (dlb_mp4base) is a software implementation of a muxer of fragmented or unfragmented ISO base media file format (mp4). It supports muxing of Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Dolby AC-4 audio formats as well as Dolby Vision.
 * [DolbyLaboratories/dlb_mp4demux](https://github.com/DolbyLaboratories/dlb_mp4demux): The Dolby MP4 streaming demuxer (dlb_mp4demux) is a software implementation of a demuxer of fragmented or unfragmented ISO base media file format (mp4). It supports demuxing of Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Dolby AC-4 audio formats as well as Dolby Vision. It is designed for use on architectures with limited resources.
 * [DeviLeo/DLGPlayer](https://github.com/DeviLeo/DLGPlayer): A media player for iOS based on FFmpeg 4.0
@@ -2051,6 +2053,7 @@
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
+* [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin): open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 * [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 * [marcosgriselli/EasyTransitions](https://github.com/marcosgriselli/EasyTransitions): A simple way to create custom interactive UIViewController transitions
 * [gdavila/easyVmaf](https://github.com/gdavila/easyVmaf): Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically
@@ -3777,7 +3780,6 @@
 * [intel/libva-utils](https://github.com/intel/libva-utils): Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
 * [arex1337/lichess-daily-puzzle-slack-app](https://github.com/arex1337/lichess-daily-puzzle-slack-app): This is a Slack app that posts a daily chess puzzle from lichess.org to the Slack channel in which the app is installed.
 * [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker): Find retain cycles / memory leaks sooner.
-* [perkele1989/light](https://github.com/perkele1989/light): GNU/Linux application to control backlights
 * [networknt/light-4j](https://github.com/networknt/light-4j): A fast, lightweight and more productive microservices framework
 * [Light-Transcoder/light-transcoder](https://github.com/Light-Transcoder/light-transcoder): This project contains an HTTP-API to allow real-time transcode of media files into DASH / HLS streams.
 * [AbedElazizShe/LightCompressor](https://github.com/AbedElazizShe/LightCompressor): A powerful and easy-to-use video compression library for android uses MediaCodec API.
@@ -3855,6 +3857,7 @@
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot with a more powerful and local AI
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [run-llama/llama-hub](https://github.com/run-llama/llama-hub): A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 * [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui): Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.  
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 * [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS): LlamaIndex is a data framework for your LLM applications
@@ -3862,11 +3865,11 @@
 * [ashleykleynhans/llava-docker](https://github.com/ashleykleynhans/llava-docker): Docker image for LLaVA: Large Language and Vision Assistant
 * [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack): No-code platform to build LLM Agents, workflows and applications with your data
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [mudler/LocalAGI](https://github.com/mudler/LocalAGI): 100% Local AGI with LocalAI
-* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 * [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend): None
 * [ghostwords/localore](https://github.com/ghostwords/localore): Wagtail-based CMS and Ansible playbooks for Localore: Finding America
 * [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -4021,7 +4024,7 @@
 * [material-ocean/Material-Ocean](https://github.com/material-ocean/Material-Ocean):  A blueish oceanic color scheme for various applications
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 * [mui/material-ui](https://github.com/mui/material-ui): MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-* [matomo-org/matomo](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! 
+* [matomo-org/matomo](https://github.com/matomo-org/matomo): Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests! 
 * [ietf-wg-cellar/matroska-specification](https://github.com/ietf-wg-cellar/matroska-specification): Matroska specification.
 * [buzzfeed/mattress](https://github.com/buzzfeed/mattress): iOS Offline Caching for Web Content
 * [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome): 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
@@ -4035,6 +4038,7 @@
 * [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
 * [FreeMasen/mdbook-presentation-preprocessor](https://github.com/FreeMasen/mdbook-presentation-preprocessor): A preprocessor for utilizing an MDBook as slides for a presentation.
 * [ericlink/mdp](https://github.com/ericlink/mdp): markdown preview using marked, highlight.js, mermaid, node-emoji and live reload
+* [bwasti/mebm](https://github.com/bwasti/mebm): zero-dependency browser-based video editor
 * [androidx/media](https://github.com/androidx/media): Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
 * [m-ab-s/media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite): This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
@@ -4167,6 +4171,7 @@
 * [tache/MondoPlayerView](https://github.com/tache/MondoPlayerView): A custom class and view for iOS AVPlayer
 * [monero-project/monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
 * [mongodb/mongo-swift-driver](https://github.com/mongodb/mongo-swift-driver): The official MongoDB driver for Swift
+* [langhuihui/monibuca](https://github.com/langhuihui/monibuca): 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
 * [gedzeppelin/monitor-window-switcher](https://github.com/gedzeppelin/monitor-window-switcher): GNOME shell extension to improve dual (or more) monitor experience
 * [mono/monodevelop](https://github.com/mono/monodevelop): MonoDevelop is a cross platform .NET IDE
 * [dylantmarsh/monokai-vibrant](https://github.com/dylantmarsh/monokai-vibrant): A very dark and vibrant Monokai based theme for Visual Studio Code.
@@ -4610,7 +4615,7 @@
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 * [ollama-interface/Ollama-Gui](https://github.com/ollama-interface/Ollama-Gui): A GUI interface for Ollama
 * [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI): User Interface made for Ollama.ai using Swift
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): A macOS app for interacting with the Ollama models
@@ -4636,7 +4641,7 @@
 * [MaaxGr/open-source-notionapi-apps](https://github.com/MaaxGr/open-source-notionapi-apps): Collection of Apps, Integrations und Libraries that utilize the Notion API
 * [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs): A list of open source programs.
 * [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate): Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
-* [open-webui/open-webui](https://github.com/open-webui/open-webui): ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
+* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -4707,7 +4712,7 @@
 * [Eyevinn/ottmeasure](https://github.com/Eyevinn/ottmeasure): A simple http proxy to monitor and measure your OTT consumption
 * [willowtreeapps/ouroboros](https://github.com/willowtreeapps/ouroboros): Infinitely scrolling carousel for tvOS
 * [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-* [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client): Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+* [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps): Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 * [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server): Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
 * [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine): OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
@@ -4787,7 +4792,7 @@
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh): Manjaro Phosh
 * [manjaro-pinephone/phosh-dev](https://github.com/manjaro-pinephone/phosh-dev): Development Builds of Phosh for the Pinephone
-* [j1mmyto9/photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui): 🎨 An image editor using SwifUI & muukii/Pixel
+* [k1rato9/photo-editor-luts-swiftui](https://github.com/k1rato9/photo-editor-luts-swiftui): 🎨 An image editor using SwifUI & muukii/Pixel
 * [Eyevinn/photon](https://github.com/Eyevinn/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [Netflix/photon](https://github.com/Netflix/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -5675,7 +5680,7 @@
 * [soundcloud-py/soundcloud](https://github.com/soundcloud-py/soundcloud): A Soundcloud Desktop Application (GUI/Terminal)
 * [sdushantha/soundcloud-dl](https://github.com/sdushantha/soundcloud-dl): 🎵 Download SoundCloud music at 128kbps with album art and tags
 * [suyashb95/soundcloud-dl](https://github.com/suyashb95/soundcloud-dl): A Python project that downloads tracks from soundcloud.com, complete with metadata and album art
-* [linnit/Soundcloud-Downloader](https://github.com/linnit/Soundcloud-Downloader): Download songs from SoundCloud, even if the song is not available for download
+* [5quinque/Soundcloud-Downloader](https://github.com/5quinque/Soundcloud-Downloader): Download songs from SoundCloud, even if the song is not available for download
 * [drivelous/soundcloud-likes](https://github.com/drivelous/soundcloud-likes): download all the songs from your SoundCloud Likes
 * [coolguruji/soundcloud-mp3-downloader-api](https://github.com/coolguruji/soundcloud-mp3-downloader-api): This SoundCloud downloader API is provides direct mp3 download of any soundcloud track from your website.
 * [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx): SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
@@ -5788,7 +5793,7 @@
 * [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker): Easy Docker setup for Stable Diffusion with user-friendly UI
-* [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade): None
+* [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade): Official Code for Stable Cascade
 * [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio): Community interface for generative AI
 * [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer): Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 * [elastic/stack-docker](https://github.com/elastic/stack-docker): Project no longer maintained.
@@ -6119,6 +6124,7 @@
 * [louisdh/textor](https://github.com/louisdh/textor): A plain text editor for iOS
 * [ianzhao05/textshot](https://github.com/ianzhao05/textshot): Python tool for grabbing text via screenshot
 * [TextureGroup/Texture](https://github.com/TextureGroup/Texture): Smooth asynchronous user interfaces for iOS apps.
+* [lmoroney/tfbook](https://github.com/lmoroney/tfbook): None
 * [thombashi/thank-you-stars](https://github.com/thombashi/thank-you-stars): thank-you-stars is a CLI tool to stars to a PyPI package and its dependencies hosted on GitHub :star:
 * [thanos-io/thanos](https://github.com/thanos-io/thanos): Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page

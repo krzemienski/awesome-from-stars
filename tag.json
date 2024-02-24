@@ -86,6 +86,9 @@
     "5ika/denotion": [
         "Other"
     ],
+    "5quinque/Soundcloud-Downloader": [
+        "Other"
+    ],
     "75asa/notion-database-crawler": [
         "Other"
     ],
@@ -1203,6 +1206,9 @@
         "Other"
     ],
     "EONRaider/violent-python3": [
+        "Other"
+    ],
+    "EasyDarwin/EasyDarwin": [
         "Other"
     ],
     "EasyPi/docker-scrapyd": [
@@ -2339,7 +2345,7 @@
     "Jigsaw-Code/net-analysis": [
         "Other"
     ],
-    "Jigsaw-Code/outline-client": [
+    "Jigsaw-Code/outline-apps": [
         "Other"
     ],
     "Jigsaw-Code/outline-server": [
@@ -3632,6 +3638,9 @@
     "RubenKelevra/pacman.store": [
         "Other"
     ],
+    "Rudloff/alltube": [
+        "Other"
+    ],
     "Rudrabha/Wav2Lip": [
         "Other"
     ],
@@ -4772,7 +4781,7 @@
     "ahmetws/swifttube": [
         "Other"
     ],
-    "ai-boost/awesome-gpts-prompts": [
+    "ai-boost/awesome-prompts": [
         "Other"
     ],
     "aigc-studio/awesome-ai": [
@@ -6672,6 +6681,9 @@
         "Other"
     ],
     "bvisin/roku-registryutil": [
+        "Other"
+    ],
+    "bwasti/mebm": [
         "Other"
     ],
     "bwhiteley/TVMediaPlayer": [
@@ -9668,6 +9680,9 @@
     "getumbrel/umbrel-community-app-store": [
         "Other"
     ],
+    "ggerganov/llama.cpp": [
+        "Other"
+    ],
     "ggn/manifestmanipulator": [
         "Other"
     ],
@@ -11039,9 +11054,6 @@
     "j0hnm4r5/awesome-creative-technology": [
         "Other"
     ],
-    "j1mmyto9/photo-editor-luts-swiftui": [
-        "Other"
-    ],
     "jackie1in/jre-ffmpeg-apline": [
         "Other"
     ],
@@ -11685,6 +11697,9 @@
         "Other"
     ],
     "k-vernooy/dotfiles": [
+        "Other"
+    ],
+    "k1rato9/photo-editor-luts-swiftui": [
         "Other"
     ],
     "k3d-io/k3d": [
@@ -12437,6 +12452,9 @@
     "langgenius/dify": [
         "Other"
     ],
+    "langhuihui/monibuca": [
+        "Other"
+    ],
     "lapce/lapce": [
         "Other"
     ],
@@ -12674,9 +12692,6 @@
     "linlinjava/litemall": [
         "Other"
     ],
-    "linnit/Soundcloud-Downloader": [
-        "Other"
-    ],
     "linsomniac/python-bottle-skeleton": [
         "Other"
     ],
@@ -12804,6 +12819,12 @@
         "Other"
     ],
     "lmlsna/install-scripts": [
+        "Other"
+    ],
+    "lmoroney/dlaicourse": [
+        "Other"
+    ],
+    "lmoroney/tfbook": [
         "Other"
     ],
     "lmxdawn/vue-admin-java": [
@@ -15372,9 +15393,6 @@
         "Other"
     ],
     "perkdrew/media-transcoder": [
-        "Other"
-    ],
-    "perkele1989/light": [
         "Other"
     ],
     "perwendel/spark": [
