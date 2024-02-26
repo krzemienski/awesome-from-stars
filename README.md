@@ -978,6 +978,7 @@
 * [awslabs/aws-streamer](https://github.com/awslabs/aws-streamer): Video Processing for AWS
 * [awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber): This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions which allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
 * [aws-samples/aws-vt-baseami-pipeline](https://github.com/aws-samples/aws-vt-baseami-pipeline): AWS EC2/ECS/EKS reference AMI build scripts using packer.
+* [erankitcs/AWS_VideoshareWebsiteServerless](https://github.com/erankitcs/AWS_VideoshareWebsiteServerless): This project is aiming to build a serverless website on AWS for video sharing.
 * [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
 * [ade21/awsome-dns](https://github.com/ade21/awsome-dns): Use AWS Route53 with your own domains as your private dynamic dns service.
@@ -1771,6 +1772,7 @@
 * [replayio/devtools](https://github.com/replayio/devtools): Replay.io DevTools
 * [vuejs/devtools](https://github.com/vuejs/devtools): ⚙️ Browser devtools extension for debugging Vue.js applications.
 * [durfu/DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer): RTSP player for iOS with ffmpeg.
+* [goioc/di](https://github.com/goioc/di): Simple and yet powerful Dependency Injection for Go
 * [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker): A library to display an interactive editor for any graph-like data.
 * [mingrammer/diagrams](https://github.com/mingrammer/diagrams): :art: Diagram as Code for prototyping cloud system architectures
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi): Lightweight justice for your single-board computer!
@@ -2321,6 +2323,7 @@
 * [REMOLP/FAV2UCC](https://github.com/REMOLP/FAV2UCC): Next, better and actually somewhat intelligent version of an auto clipping app. FAVTUCC devs are literally shaking in their boots right now.
 * [janselv/fave-button](https://github.com/janselv/fave-button): FaveButton is an iOS cute animated like button written in Swift.
 * [Eyevinn/favorites-api](https://github.com/Eyevinn/favorites-api): Example of a simple implementation to build a favorites api on top of Redis
+* [Codepth-Technologies/FB-Transcoder](https://github.com/Codepth-Technologies/FB-Transcoder): Implementation of FB Transcoder
 * [facebookarchive/FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler): iOS tool that helps with profiling iOS Memory usage.
 * [nu774/fdkaac](https://github.com/nu774/fdkaac): command line encoder frontend for libfdk-aac
 * [rwbutler/FeatureFlags](https://github.com/rwbutler/FeatureFlags): 🚩 Allows developers to configure feature flags, run multiple A/B tests or phase feature roll out using a JSON configuration file.
@@ -2365,6 +2368,7 @@
 * [oldfritter/ffmpeg](https://github.com/oldfritter/ffmpeg): FFmpeg for Go
 * [orkan/ffmpeg](https://github.com/orkan/ffmpeg): Convert your media files quickly with FFmpeg library
 * [snapcrafters/ffmpeg](https://github.com/snapcrafters/ffmpeg):  Record, convert, and stream audio and video
+* [bravobit/FFmpeg-Android](https://github.com/bravobit/FFmpeg-Android): FFMpeg/FFprobe compiled for Android
 * [WritingMinds/ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java): Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android
 * [topaz1008/ffmpeg-any](https://github.com/topaz1008/ffmpeg-any): A command line tool that batch processes video files and directories with ffmpeg.
 * [dasdachs/ffmpeg-api](https://github.com/dasdachs/ffmpeg-api): FFmpeg API to expose basic converting functionalities of the FFmpeg library.
@@ -2479,6 +2483,7 @@
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 * [debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial): FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
+* [lijian736/ffmpegutils](https://github.com/lijian736/ffmpegutils): A simple FFMPEG encoder, decoder and transcoder utils
 * [mbalamat/ffmpegWasmHlsToMp4](https://github.com/mbalamat/ffmpegWasmHlsToMp4): Demo of using ffmpegwasm to covert an HLS playlist to mp4, in the browser.
 * [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative): Chat to Compose Video
 * [amiaopensource/ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg commands for archivists!
@@ -2634,6 +2639,7 @@
 * [jackrobertscott/forge](https://github.com/jackrobertscott/forge): 🏹 Free and open source developer tool.
 * [jonan/ForkHub](https://github.com/jonan/ForkHub): GitHub client for Android based on the abandoned official app
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
+* [wader/fq](https://github.com/wader/fq): jq for binary formats - tool, language and decoders for working with binary and text formats
 * [fethica/FRadioPlayer](https://github.com/fethica/FRadioPlayer): A simple radio player framework for iOS, macOS, tvOS.
 * [attaswift/FrameworkTemplate](https://github.com/attaswift/FrameworkTemplate): My template for new cross-platform Swift frameworks
 * [enzo1982/freac](https://github.com/enzo1982/freac): The fre:ac audio converter project
@@ -3016,6 +3022,7 @@
 * [wxxsw/GSPlayer](https://github.com/wxxsw/GSPlayer): ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
 * [ziutek/gst](https://github.com/ziutek/gst): Go bindings for GStreamer (retired: currently I don't use/develop this package)
 * [GStreamer/gst-python](https://github.com/GStreamer/gst-python): GStreamer Python binding overrides (complementing the bindings provided by python-gi). This module has been merged into the main GStreamer repo for further development. 
+* [rtyle/gstfs-ng](https://github.com/rtyle/gstfs-ng): A FUSE-based file system for dynamic gstreamer-based transcoding
 * [dabrain34/GstPipelineStudio](https://github.com/dabrain34/GstPipelineStudio): (Caution: this repository is a mirror only, please visit the website for any contributions) GstPipelineStudio aims to provide a graphical user interface to the GStreamer framework
 * [sdroege/gstreamer-rs](https://github.com/sdroege/gstreamer-rs): GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
 * [SihabSahariar/GStreamer-With-PyQt5](https://github.com/SihabSahariar/GStreamer-With-PyQt5): Implementation of Gstreamer with Python in PyQt5 GUI
@@ -3286,7 +3293,7 @@
 * [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS): In-app design review tool to inspect measurements, attributes, and animations.
 * [Hyperline/hyperline](https://github.com/Hyperline/hyperline): ✨ Status line plugin for Hyper ✨
 * [HasseNasse/HyperTheme](https://github.com/HasseNasse/HyperTheme): HyperTerm inspired IntelliJ IDEA theme with vivid syntaxcolors and a pitch black UI. Drools on the floor..
-* [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): None
+* [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): Git-flavored ZSH
 * [hyprwm/Hypr](https://github.com/hyprwm/Hypr): Hypr is a tiling window manager written in modern C++.
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix): Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -3778,6 +3785,7 @@
 * [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd): A client library to multiplex connections from and to iOS devices
 * [intel/libva](https://github.com/intel/libva): Libva is an implementation for VA-API (Video Acceleration API)
 * [intel/libva-utils](https://github.com/intel/libva-utils): Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
+* [kala13x/libxmedia](https://github.com/kala13x/libxmedia): Implementation of audio/video transmuxing library based on FFMPEG API
 * [arex1337/lichess-daily-puzzle-slack-app](https://github.com/arex1337/lichess-daily-puzzle-slack-app): This is a Slack app that posts a daily chess puzzle from lichess.org to the Slack channel in which the app is installed.
 * [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker): Find retain cycles / memory leaks sooner.
 * [networknt/light-4j](https://github.com/networknt/light-4j): A fast, lightweight and more productive microservices framework
@@ -3857,9 +3865,9 @@
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot with a more powerful and local AI
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [run-llama/llama-hub](https://github.com/run-llama/llama-hub): A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
-* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++
 * [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui): Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.  
-* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
 * [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS): LlamaIndex is a data framework for your LLM applications
 * [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 * [ashleykleynhans/llava-docker](https://github.com/ashleykleynhans/llava-docker): Docker image for LLaVA: Large Language and Vision Assistant
@@ -4563,7 +4571,7 @@
 * [wildtruc/nvidia-prime-select](https://github.com/wildtruc/nvidia-prime-select): This a fork of FedoraPrime enhanced for all linux distributions
 * [rust-av/nvidia-video-codec-rs](https://github.com/rust-av/nvidia-video-codec-rs): Bindings for the NVIDIA Video Codec SDK
 * [Scotchman0/NVIDIA_Drivers](https://github.com/Scotchman0/NVIDIA_Drivers): A simple bash script for automatic install of the proper nvidia drivers on Debian/ubuntu
-* [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA 
+* [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
 * [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast): Audio and video casting system with support for custom applications.
@@ -4792,7 +4800,7 @@
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh): Manjaro Phosh
 * [manjaro-pinephone/phosh-dev](https://github.com/manjaro-pinephone/phosh-dev): Development Builds of Phosh for the Pinephone
-* [k1rato9/photo-editor-luts-swiftui](https://github.com/k1rato9/photo-editor-luts-swiftui): 🎨 An image editor using SwifUI & muukii/Pixel
+* [khanhuitse05/photo-editor-luts-swiftui](https://github.com/khanhuitse05/photo-editor-luts-swiftui): 🎨 An image editor using SwifUI & muukii/Pixel
 * [Eyevinn/photon](https://github.com/Eyevinn/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [Netflix/photon](https://github.com/Netflix/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -4939,6 +4947,7 @@
 * [benfry/processing4](https://github.com/benfry/processing4): Processing 4.x releases for Java 17
 * [SpongeBobSun/Prodigal-iOS](https://github.com/SpongeBobSun/Prodigal-iOS): Music Player for iOS which looks & feels like classic player
 * [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles): 🌐Dial-up Internet access
+* [AmrHendy/programming-language-translator](https://github.com/AmrHendy/programming-language-translator): An easy way to use the released TransCoder by Facebook AI Research to convert code from one programming language to another using unsupervised neural machine translation (NMT) systems that use deep-learning to translate text from one natural language to another and is trained only on monolingual source data.
 * [whoisdsmith/project-awesome](https://github.com/whoisdsmith/project-awesome): My collection of Awesome Stars
 * [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning): Curated list of project-based tutorials
 * [IBM/Project_CodeNet](https://github.com/IBM/Project_CodeNet): This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX
@@ -5169,7 +5178,7 @@
 * [reactive-python/reactpy](https://github.com/reactive-python/reactpy): It's React, but in Python
 * [1ec5/read-only-coding](https://github.com/1ec5/read-only-coding): Automator services to make coding in Xcode easier
 * [mozilla/readability](https://github.com/mozilla/readability): A standalone version of the readability lib
-* [eli64s/readme-ai](https://github.com/eli64s/readme-ai): 👾 Automated README file generator
+* [eli64s/readme-ai](https://github.com/eli64s/readme-ai): 👾 Automated README file generator, powered by large language model APIs.
 * [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator): 📄 CLI that generates beautiful README.md files
 * [mayur091193/readme-pro](https://github.com/mayur091193/readme-pro): Simple and Easy way to create any ReadMe. Make readme in just few clicks!
 * [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal): Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
