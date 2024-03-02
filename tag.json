@@ -257,6 +257,9 @@
     "AlexKordic/HLSProxy": [
         "Other"
     ],
+    "AlexPresso/VideoStation-FFMPEG-Patcher": [
+        "Other"
+    ],
     "AlexanderKaraberov/iOS-Network-Architecture-Demo": [
         "Other"
     ],
@@ -2090,6 +2093,9 @@
     "HariSekhon/DevOps-Bash-tools": [
         "Other"
     ],
+    "Harry-027/go-audio": [
+        "Other"
+    ],
     "HasseNasse/HyperTheme": [
         "Other"
     ],
@@ -3452,6 +3458,9 @@
     "QianMo/Awesome-Unity-Shader": [
         "Other"
     ],
+    "QuantiusBenignus/blurt": [
+        "Other"
+    ],
     "Quantivio/PyNotion": [
         "Other"
     ],
@@ -4500,6 +4509,9 @@
         "Other"
     ],
     "Zibbp/Radium": [
+        "Other"
+    ],
+    "Zibbp/ganymede": [
         "Other"
     ],
     "Zo-Bro-23/awesome-stars": [
@@ -6092,6 +6104,9 @@
     "bachya/aiolinkding": [
         "Other"
     ],
+    "back-to/liveproxy": [
+        "Other"
+    ],
     "backstage/backstage": [
         "Other"
     ],
@@ -6327,6 +6342,9 @@
         "Other"
     ],
     "bhavaniravi/airflow-kube-setup": [
+        "Other"
+    ],
+    "bhavita/Auto-Audio-Books": [
         "Other"
     ],
     "bhollis/jsonview": [
@@ -10601,6 +10619,9 @@
     "hwittenborn/celeste": [
         "Other"
     ],
+    "hybridgroup/gocv": [
+        "Other"
+    ],
     "hybrik/hybrik-samples": [
         "Other"
     ],
@@ -11919,6 +11940,9 @@
         "Other"
     ],
     "keremkoseoglu/Jira2Notion": [
+        "Other"
+    ],
+    "kerolloz/go-installer": [
         "Other"
     ],
     "keryc/starters-swarm": [
@@ -13496,6 +13520,9 @@
     "mckaywrigley/repo-chat": [
         "Other"
     ],
+    "mcuadros/go-defaults": [
+        "Other"
+    ],
     "mdellavo/stream": [
         "Other"
     ],
@@ -14049,6 +14076,9 @@
         "Other"
     ],
     "mozilla/mp4parse-rust": [
+        "Other"
+    ],
+    "mozilla/popcorn-js": [
         "Other"
     ],
     "mozilla/readability": [
@@ -15713,6 +15743,9 @@
     "porjo/youtubeuploader": [
         "Other"
     ],
+    "porjo/ytdl-web": [
+        "Other"
+    ],
     "portainer/agent": [
         "Other"
     ],
@@ -15981,9 +16014,6 @@
         "Other"
     ],
     "qi-shun-wang/HLSDownloader": [
-        "Other"
-    ],
-    "qilook/install-software": [
         "Other"
     ],
     "qishibo/AnotherRedisDesktopManager": [
@@ -16928,6 +16958,9 @@
     "schollz/spotifydownload": [
         "Other"
     ],
+    "scikit-video/scikit-video": [
+        "Other"
+    ],
     "scinfu/SwiftSoup": [
         "Other"
     ],
@@ -16935,6 +16968,9 @@
         "Other"
     ],
     "scottbez1/splitflap": [
+        "Other"
+    ],
+    "scottlamb/http-serve": [
         "Other"
     ],
     "scottschiller/SoundManager2": [
@@ -17954,6 +17990,9 @@
     "stoyanovgeorge/origin_server": [
         "Other"
     ],
+    "stran9elet/Watermark-Remover": [
+        "Other"
+    ],
     "stream-labs/desktop": [
         "Other"
     ],
@@ -18119,9 +18158,6 @@
     "svt/orm": [
         "Other"
     ],
-    "sw-257/Watermark-Remover": [
-        "Other"
-    ],
     "sw360cab/pyup-transcoder": [
         "Other"
     ],
@@ -18180,6 +18216,9 @@
         "Other"
     ],
     "syndesisio/syndesis": [
+        "Other"
+    ],
+    "synesthesiam/opentts": [
         "Other"
     ],
     "synox/youtube-dl-interactive": [
@@ -20442,6 +20481,9 @@
         "Other"
     ],
     "zplug/zplug": [
+        "Other"
+    ],
+    "zqb7/install-software": [
         "Other"
     ],
     "zsh-users/antigen": [
