@@ -1185,6 +1185,7 @@
 * [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
 * [eyecuvision/bumblebee](https://github.com/eyecuvision/bumblebee): Video Processing API
 * [bup/bup](https://github.com/bup/bup): Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).
+* [flavioribeiro/butterfly](https://github.com/flavioribeiro/butterfly): transcode videos on the fly
 * [TheAlgorithms/C](https://github.com/TheAlgorithms/C): Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus): Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 * [goplus/c2go](https://github.com/goplus/c2go): Convert C to Go
@@ -1368,7 +1369,7 @@
 * [scality/cloudserver](https://github.com/scality/cloudserver): Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 * [cloudstateio/cloudstate](https://github.com/cloudstateio/cloudstate): Distributed State Management for Serverless
 * [bfansports/CloudTranscode](https://github.com/bfansports/CloudTranscode): Distributed videos and images encoding/transcoding using Amazon SFN, FFMpeg and ImageMagic
-* [rubyrose-aws/CloudTranscode](https://github.com/rubyrose-aws/CloudTranscode): Distributed video encoding/transcoding using Amazon Web Services and FFMpeg
+* [lexmakali/CloudTranscode](https://github.com/lexmakali/CloudTranscode): Distributed video encoding/transcoding using Amazon Web Services and FFMpeg
 * [bfansports/CloudTranscode-Lambda](https://github.com/bfansports/CloudTranscode-Lambda): AWS Lambda function for doing FFMpeg transcoding
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter): Metrics exporter for Amazon AWS CloudWatch
 * [Dids/clover-builder](https://github.com/Dids/clover-builder): Automated Clover builds.
@@ -2616,6 +2617,7 @@
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
+* [bwhli/fly-audio-transcoder](https://github.com/bwhli/fly-audio-transcoder): None
 * [magdalene/fly-background-jobs](https://github.com/magdalene/fly-background-jobs): Demo implementation of running background jobs on Fly.io machines
 * [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 * [fmhy/FMHY](https://github.com/fmhy/FMHY): /r/FREEMEDIAHECKYEAH
@@ -2827,6 +2829,7 @@
 * [heppu/gkill](https://github.com/heppu/gkill): Interactice process killer for Linux and macOS
 * [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 * [anantn/glendix](https://github.com/anantn/glendix): Porting the good stuff from Plan 9 to Linux
+* [ziutek/glib](https://github.com/ziutek/glib): Go bindings for GLib type system.
 * [thias/glim](https://github.com/thias/glim): GRUB Live ISO Multiboot
 * [timche/gmail-desktop](https://github.com/timche/gmail-desktop): :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 * [3d0c/gmf](https://github.com/3d0c/gmf): Go Media Framework
@@ -3044,6 +3047,7 @@
 * [ffps/gtts](https://github.com/ffps/gtts): Encoding text to mp3 with using free Google TTS engine
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
 * [google/guava](https://github.com/google/guava): Google core libraries for Java
+* [lostdusty/gui-for-ffmpeg](https://github.com/lostdusty/gui-for-ffmpeg): Go frontend for ffmpeg. Fork of https://git.kor-elf.net/kor-elf/gui-for-ffmpeg with new features and languages.
 * [ckotch47/gui_for_adb](https://github.com/ckotch47/gui_for_adb): None
 * [hobby-kube/guide](https://github.com/hobby-kube/guide):  Kubernetes clusters for the hobbyist.
 * [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta): None
@@ -3094,6 +3098,7 @@
 * [ThaCheeseBun/hdr-sucks](https://github.com/ThaCheeseBun/hdr-sucks): libx265 transcoding wrapper with HDR support
 * [quietvoid/hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool): CLI utility to work with HDR10+ in HEVC files.
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox): HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
+* [dechamps/HDRCompare](https://github.com/dechamps/HDRCompare): A suite of ffmpeg filters for comparing SDR and HDR video material
 * [stackgl/headless-gl](https://github.com/stackgl/headless-gl): 🎃 Windowless WebGL for node.js
 * [juanfont/headscale](https://github.com/juanfont/headscale): An open source, self-hosted implementation of the Tailscale control server
 * [haseeb-heaven/HeavenGPT](https://github.com/haseeb-heaven/HeavenGPT): HeavenGPT is ChatGPT for coders. It's free, secure, and created by Heaven.
@@ -3146,6 +3151,7 @@
 * [tjenkinson/hls-live-thumbnails](https://github.com/tjenkinson/hls-live-thumbnails): A service which will generate thumbnails from a live HLS stream.
 * [ScottAtBlankCanvas/hls-live2vod](https://github.com/ScottAtBlankCanvas/hls-live2vod): Download specified length of a live HLS playlist as an HLS VOD playlist
 * [Karthick-Somasundaresan/hls-manifest-viewer](https://github.com/Karthick-Somasundaresan/hls-manifest-viewer): View HLS manifest
+* [advplyr/hls-media-server](https://github.com/advplyr/hls-media-server): Node server to transcode video files and stream on the fly via HLS
 * [Eyevinn/hls-monitor](https://github.com/Eyevinn/hls-monitor): Service to monitor one or more HLS stream(s) for errors and inconsistencies.
 * [Eyevinn/hls-origin-scripts](https://github.com/Eyevinn/hls-origin-scripts): Scripts to manipulate HLS manifests at origin or edge server
 * [jardimin/hls-packager](https://github.com/jardimin/hls-packager): Simple shell script to create a multi bitrate hls variant playlist, based on ffmpeg
@@ -3680,7 +3686,7 @@
 * [kubernetes-retired/kube-aws](https://github.com/kubernetes-retired/kube-aws): [EOL] A command-line tool to declaratively manage Kubernetes clusters on AWS
 * [kubernetes-retired/kube-batch](https://github.com/kubernetes-retired/kube-batch): A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC
 * [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder): Easy to use Kubernetes port forwarding manager
-* [mrsauravsahu/kube-homelab](https://github.com/mrsauravsahu/kube-homelab): A Kubernetes based homelab for everyone! (both ARM and x86_64)
+* [mrsauravsahu/kube-homelab](https://github.com/mrsauravsahu/kube-homelab): A Kubernetes based homelab for everyone! (ARM based!)
 * [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view): Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 * [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 * [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1): Kubernetes prompt info for bash and zsh
@@ -4273,6 +4279,7 @@
 * [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server): Server for the MusicBrainz project (website, API, database tools)
 * [ethaden/MusicLibraryConverter](https://github.com/ethaden/MusicLibraryConverter): MusicLibraryConverter is a software written in Python 3 for batch converting of a music library containing flac files to mp3. It retains all meta tags and can be used iteratively. It uses multi-threading and is based on ffmpeg (Windows) or avconv (Linux) as conversion backend and mutagenx as tagging library. Note that ffmpeg.exe/avconv must be available and it must be possible to find them via the PATH environment. The Python 3 library mutagenx (https://pypi.python.org/pypi/mutagenx/1.22.1) must be installed.
 * [quodlibet/mutagen](https://github.com/quodlibet/mutagen): Python module for handling audio metadata
+* [katana-project/mux](https://github.com/katana-project/mux): An oversimplified media muxing/demuxing/transcoding library for Go.
 * [muxinc/mux-player-swift](https://github.com/muxinc/mux-player-swift): Use Mux Player Swift to stream and monitor video from Mux with AVKit and AVFoundation
 * [muxinc/mux-stats-sdk-avplayer](https://github.com/muxinc/mux-stats-sdk-avplayer): Mux integration with `AVPlayer` for iOS Native Applications
 * [muxinc/mux-stats-sdk-exoplayer](https://github.com/muxinc/mux-stats-sdk-exoplayer): Monitors an ExoPlayer instance and reports player analytics to Mux Data
@@ -4581,6 +4588,7 @@
 * [rust-av/nvidia-video-codec-rs](https://github.com/rust-av/nvidia-video-codec-rs): Bindings for the NVIDIA Video Codec SDK
 * [Scotchman0/NVIDIA_Drivers](https://github.com/Scotchman0/NVIDIA_Drivers): A simple bash script for automatic install of the proper nvidia drivers on Debian/ubuntu
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
+* [rosenbjerg/nxplx](https://github.com/rosenbjerg/nxplx): Home media streaming server designed for use on low-power devices, such as Raspberry Pi 4/3 and similar
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
 * [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast): Audio and video casting system with support for custom applications.
@@ -4638,6 +4646,7 @@
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): A macOS app for interacting with the Ollama models
 * [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB): Web tool for database management
+* [Telefonica/on-the-fly](https://github.com/Telefonica/on-the-fly): on-the-fly
 * [balopez83/One-Mix-3-Hackintosh](https://github.com/balopez83/One-Mix-3-Hackintosh): This project attempts to bring MacOS to the One-Mix 3 & 2s with Full Support
 * [theonedev/onedev](https://github.com/theonedev/onedev): Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 * [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub): Thousands of code solutions with clear explanation @ onelinerhub.com
@@ -5487,7 +5496,6 @@
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
-* [futzu/scte35parser-threefive](https://github.com/futzu/scte35parser-threefive):  SCTE-35 Parser .  If you aren't using threefive,  you're a loser and nobody likes you.
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
@@ -5983,7 +5991,6 @@
 * [pointfreeco/swift-validated](https://github.com/pointfreeco/swift-validated): 🛂 A result type that accumulates multiple errors.
 * [dev-labs-bg/swift-video-generator](https://github.com/dev-labs-bg/swift-video-generator): None
 * [gilesvangruisen/Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player): Swift library for embedding and controlling YouTube videos in your iOS applications via WKWebView!
-* [iharkatkavets/swift.tvos.focus-engine](https://github.com/iharkatkavets/swift.tvos.focus-engine): A tvOS example application for a local presentation 
 * [jorgenhenrichsen/SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio): Audio player for iOS
 * [tanhakabir/SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer): Streaming and realtime audio manipulation with AVAudioEngine
 * [SeverinetsDenis/SwiftAutomationCore](https://github.com/SeverinetsDenis/SwiftAutomationCore): Here is core for automation an iOS and tvOS app
@@ -6173,6 +6180,7 @@
 * [PixelCyber/Thor](https://github.com/PixelCyber/Thor): sunset
 * [MingyaoLiu/Threadripper-KVM-guide](https://github.com/MingyaoLiu/Threadripper-KVM-guide): Spec:
 * [steckdenis/threadripper-monitor](https://github.com/steckdenis/threadripper-monitor): CPU usage and power consumption monitor for AMD Threadripper processors
+* [futzu/threefive](https://github.com/futzu/threefive):  SCTE-35 Parser .  If you aren't using threefive,  you're a loser and nobody likes you.
 * [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio): A unified framework for 3D content generation.
 * [erpalma/throttled](https://github.com/erpalma/throttled): Workaround for Intel throttling issues in Linux.
 * [joaomoreno/thyme](https://github.com/joaomoreno/thyme): The task timer for OS X.
@@ -6245,6 +6253,7 @@
 * [amaurypm/transcode2H265](https://github.com/amaurypm/transcode2H265): Unattended video transcoder to H265 and ACC codecs, in MKV containers.
 * [vmf/transcode2resolve](https://github.com/vmf/transcode2resolve): Transcode a video file to a format that DaVinci Resolve for Linux can easily work with
 * [Vilsol/Transcoder](https://github.com/Vilsol/Transcoder): Docker container to transcode videos in mounted volume to H265 using FFMPEG
+* [derolf/transcoder](https://github.com/derolf/transcoder): MEDIA TRANSCODER / MEDIA LIBRARY / MEDIA FRONTEND
 * [floostack/transcoder](https://github.com/floostack/transcoder): Transcoding library implementation in Golang
 * [mlsmithjr/transcoder](https://github.com/mlsmithjr/transcoder): Python wrapper for ffmpeg for batch and/or concurrent transcoding
 * [natario1/Transcoder](https://github.com/natario1/Transcoder): 🎞 Hardware-accelerated video transcoding using Android MediaCodec APIs. Supports cropping, concatenation, clipping, audio processing, video speed and much more.

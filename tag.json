@@ -4067,6 +4067,9 @@
     "Telecommunication-Telemedia-Assessment/avrateNG": [
         "Other"
     ],
+    "Telefonica/on-the-fly": [
+        "Other"
+    ],
     "TelegramMessenger/MTProxy": [
         "Other"
     ],
@@ -4719,6 +4722,9 @@
         "Other"
     ],
     "advanced-rest-client/arc-electron": [
+        "Other"
+    ],
+    "advplyr/hls-media-server": [
         "Other"
     ],
     "adwardlee/multitask-end-to-end-video-captioning": [
@@ -6716,6 +6722,9 @@
     "bwhiteley/TVMediaPlayer": [
         "Other"
     ],
+    "bwhli/fly-audio-transcoder": [
+        "Other"
+    ],
     "bytecodealliance/wasmtime": [
         "Other"
     ],
@@ -7892,6 +7901,9 @@
     "decaporg/decap-cms": [
         "Other"
     ],
+    "dechamps/HDRCompare": [
+        "Other"
+    ],
     "deepch/vdk": [
         "Other"
     ],
@@ -7977,6 +7989,9 @@
         "Other"
     ],
     "derekcoder/SwiftDevHints": [
+        "Other"
+    ],
+    "derolf/transcoder": [
         "Other"
     ],
     "dersvenhesse/awesome-scriptable": [
@@ -9350,6 +9365,9 @@
     "flask-dashboard/Flask-MonitoringDashboard": [
         "Other"
     ],
+    "flavioribeiro/butterfly": [
+        "Other"
+    ],
     "flavioribeiro/nginx-audio-track-for-hls-module": [
         "Other"
     ],
@@ -9542,7 +9560,7 @@
     "futurice/ios-good-practices": [
         "Other"
     ],
-    "futzu/scte35parser-threefive": [
+    "futzu/threefive": [
         "Other"
     ],
     "futzu/umzz": [
@@ -10751,9 +10769,6 @@
     "igorkulman/iOSLocalizationEditor": [
         "Other"
     ],
-    "iharkatkavets/swift.tvos.focus-engine": [
-        "Other"
-    ],
     "iheartradio/open-m3u8": [
         "Other"
     ],
@@ -11876,6 +11891,9 @@
     "katana-project/ffmpeg": [
         "Other"
     ],
+    "katana-project/mux": [
+        "Other"
+    ],
     "kathhess/notion-utils": [
         "Other"
     ],
@@ -12647,6 +12665,9 @@
     "lewagon/dotfiles": [
         "Other"
     ],
+    "lexmakali/CloudTranscode": [
+        "Other"
+    ],
     "lexrus/RegExPlus": [
         "Other"
     ],
@@ -12924,6 +12945,9 @@
         "Other"
     ],
     "loryhuz/CleanyModal": [
+        "Other"
+    ],
+    "lostdusty/gui-for-ffmpeg": [
         "Other"
     ],
     "lostintime/aws-s3-webdav": [
@@ -16577,6 +16601,9 @@
     "rorydavidson/owncloud-nginx-letsencrypt-docker": [
         "Other"
     ],
+    "rosenbjerg/nxplx": [
+        "Other"
+    ],
     "roshub/http-to-https": [
         "Other"
     ],
@@ -16638,9 +16665,6 @@
         "Other"
     ],
     "rubenochiavone/awesomeness": [
-        "Other"
-    ],
-    "rubyrose-aws/CloudTranscode": [
         "Other"
     ],
     "ruffle-rs/ruffle": [
@@ -20442,6 +20466,9 @@
         "Other"
     ],
     "zimujiang/TinyClip": [
+        "Other"
+    ],
+    "ziutek/glib": [
         "Other"
     ],
     "ziutek/gst": [
