@@ -508,7 +508,7 @@
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc): PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 * [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture): AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
-* [microsoft/autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+* [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 * [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui): A graphical user interface for AutoGPT
 * [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -3888,7 +3888,7 @@
 * [ashleykleynhans/llava-docker](https://github.com/ashleykleynhans/llava-docker): Docker image for LLaVA: Large Language and Vision Assistant
 * [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack): No-code platform to build LLM Agents, workflows and applications with your data
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs chat framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [mudler/LocalAGI](https://github.com/mudler/LocalAGI): 100% Local AGI with LocalAI
@@ -5488,6 +5488,7 @@
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui): 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 * [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus): A simple GUI for SCRCPY and other ADB functions
+* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [itforgeuk/Script-Actions](https://github.com/itforgeuk/Script-Actions): Script Examples for Script Actions App
 * [bensuperpc/scripts](https://github.com/bensuperpc/scripts): Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 * [reHackable/scripts](https://github.com/reHackable/scripts): [ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience
