@@ -1269,7 +1269,7 @@
 * [tobuya/chat_gpt_ui](https://github.com/tobuya/chat_gpt_ui): ChapGPT ui is a powerful app that allows one to harness the power of advanced machine learning algorithms to create intelligent application that can answer questions, translate text, convert code from one language to another and more.  It's built using React and ChatGPT's own APIs
 * [sunner/ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
-* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): The open-source AI chat app for everyone.
+* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for every model.
 * [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite): A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 * [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles): Document Chatbot — multiple files. Powered by GPT / Embedding.
@@ -3312,7 +3312,6 @@
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix): Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 * [afex/hystrix-go](https://github.com/afex/hystrix-go): Netflix's Hystrix latency and fault tolerance library, for Go 
-* [ali-vilab/i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl): Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
 * [Eyevinn/iaf-plugin-aws](https://github.com/Eyevinn/iaf-plugin-aws): Ingest application framework plugin for upload and transcode in AWS
 * [Eyevinn/iaf-plugin-aws-mediapackage](https://github.com/Eyevinn/iaf-plugin-aws-mediapackage): Ingest application framework plugin for registering HLS in AWS MediaPackage
 * [Eyevinn/iaf-plugin-aws-s3](https://github.com/Eyevinn/iaf-plugin-aws-s3): Ingest application framework plugin for uploading files to AWS S3
@@ -3888,7 +3887,7 @@
 * [ashleykleynhans/llava-docker](https://github.com/ashleykleynhans/llava-docker): Docker image for LLaVA: Large Language and Vision Assistant
 * [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack): No-code platform to build LLM Agents, workflows and applications with your data
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs chat framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [mudler/LocalAGI](https://github.com/mudler/LocalAGI): 100% Local AGI with LocalAI
@@ -4319,7 +4318,6 @@
 * [captn3m0/nebula](https://github.com/captn3m0/nebula):  Source Code for the Home Server setup.
 * [nebulabroadcast/nebula](https://github.com/nebulabroadcast/nebula): Media asset management and broadcast automation system
 * [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
-* [nebulabroadcast/nebula-cloud](https://github.com/nebulabroadcast/nebula-cloud): Nebula Cloud host installer
 * [uber/needle](https://github.com/uber/needle): Compile-time safe Swift dependency injection framework
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [containerd/nerdctl](https://github.com/containerd/nerdctl): contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -4835,7 +4833,7 @@
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [lukakerr/Pine](https://github.com/lukakerr/Pine): A modern, native macOS markdown editor
 * [pineappleEA/Pineapple-Linux](https://github.com/pineappleEA/Pineapple-Linux): A Yuzu compiler and updater for Linux
-* [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src): yuzu Early Access source code
+* [pineappleEA/pineapple-src](https://github.com/pineappleEA/pineapple-src): A former citrus fruit-named emulator's Early Access source code
 * [Pineapple-Eng/Pineapple-Xcode](https://github.com/Pineapple-Eng/Pineapple-Xcode): Open-source extension for Xcode that enhances development on Apple platforms with OpenAI's ChatGPT functionalities.
 * [pingostack/pingos](https://github.com/pingostack/pingos): Based on the NGINX/RTMP/HTTP-FLV/HTTP-TS/HLS/HLS+/DASH/H.264/H.265/AAC/MP3/Live/Record/VOD/Push/Pull/Multiple Processes/Dynamic Configuration/Configuration Variables/Console Interface/Notify
 * [layoutBox/PinLayout](https://github.com/layoutBox/PinLayout): Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]
@@ -6478,6 +6476,7 @@
 * [imgly/vesdk-ios-build](https://github.com/imgly/vesdk-ios-build): VideoEditor SDK: A fully customizable video editor for your app.
 * [vfile/vfile](https://github.com/vfile/vfile): Virtual file format for text processing used in @unifiedjs
 * [C2FO/vfs](https://github.com/C2FO/vfs): Pluggable, extensible virtual file system for Go
+* [ali-vilab/VGen](https://github.com/ali-vilab/VGen): Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
 * [VeinGuo/VGPlayer](https://github.com/VeinGuo/VGPlayer): 📺  A simple iOS video player by Vein.
 * [bcedu/VGrive](https://github.com/bcedu/VGrive): Google Drive client  for linux
 * [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼

@@ -5024,7 +5024,7 @@
     "algorithm-visualizer/algorithm-visualizer": [
         "Other"
     ],
-    "ali-vilab/i2vgen-xl": [
+    "ali-vilab/VGen": [
         "Other"
     ],
     "ali-vilab/videocomposer": [
@@ -14409,9 +14409,6 @@
         "Other"
     ],
     "nebulabroadcast/nebula": [
-        "Other"
-    ],
-    "nebulabroadcast/nebula-cloud": [
         "Other"
     ],
     "neekeetab/CachingPlayerItem": [
