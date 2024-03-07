@@ -2628,7 +2628,7 @@
 * [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [foambubble/foam-template](https://github.com/foambubble/foam-template): Foam workpace template
 * [mattermost/focalboard](https://github.com/mattermost/focalboard): Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-* [mozilla-mobile/focus-ios](https://github.com/mozilla-mobile/focus-ios): Firefox Focus for iOS
+* [mozilla-mobile/focus-ios](https://github.com/mozilla-mobile/focus-ios): ⚠️ Firefox Focus (iOS) has moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-ios
 * [knot2afrayed/Focus-Notes](https://github.com/knot2afrayed/Focus-Notes): TVOS - explore navigation techniques, try a notes app
 * [gohypergiant/FocusEngine](https://github.com/gohypergiant/FocusEngine): A Framer module for simulating the grid focus behavior found on Apple TV and Roku.
 * [macabeus/FocusGuideHelper](https://github.com/macabeus/FocusGuideHelper): TV Client | Create focus guides linker more easily and versatile.
