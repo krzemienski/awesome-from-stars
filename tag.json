@@ -2687,10 +2687,10 @@
     "Light-Transcoder/light-transcoder": [
         "Other"
     ],
-    "Lightning-AI/lit-gpt": [
+    "Lightning-AI/lit-llama": [
         "Other"
     ],
-    "Lightning-AI/lit-llama": [
+    "Lightning-AI/litgpt": [
         "Other"
     ],
     "Linen-dev/linen.dev": [
@@ -6330,6 +6330,9 @@
         "Other"
     ],
     "beyondmeh/piu": [
+        "Other"
+    ],
+    "beyondstorage/go-storage": [
         "Other"
     ],
     "bfansports/CloudTranscode": [

@@ -2928,6 +2928,7 @@
 * [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes): 🦩 Tools for Go projects
 * [cwinging/go-segment](https://github.com/cwinging/go-segment): golang video segment tool, convert mp4 to hls format
 * [Jesse0Michael/go-static-manifest](https://github.com/Jesse0Michael/go-static-manifest): Download and rewrite manifest and segments to disk to build static test resources
+* [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage): A vendor-neutral storage library for Golang: Write once, run on every storage service.
 * [m1k1o/go-transcode](https://github.com/m1k1o/go-transcode): On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
 * [jordicenzano/go-ts-segmenter](https://github.com/jordicenzano/go-ts-segmenter): Live TS segmenter and HLS manifest creation in Go
 * [pulsejet/go-vod](https://github.com/pulsejet/go-vod): Zero-dependency HLS VOD server in go
@@ -3849,10 +3850,10 @@
 * [Eyevinn/ListenUp](https://github.com/Eyevinn/ListenUp): None
 * [asciimoo/ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists): List of github lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
-* [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt): Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+* [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
 * [ltebean/Live](https://github.com/ltebean/Live): Demonstrates how to build a live broadcast app(Swift 3)
 * [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch): This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
@@ -4737,8 +4738,8 @@
 * [Eyevinn/ottmeasure](https://github.com/Eyevinn/ottmeasure): A simple http proxy to monitor and measure your OTT consumption
 * [willowtreeapps/ouroboros](https://github.com/willowtreeapps/ouroboros): Infinitely scrolling carousel for tvOS
 * [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-* [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps): Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-* [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server): Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
+* [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps): Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+* [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server): Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
 * [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine): OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 * [AirenSoft/OvenPlayer](https://github.com/AirenSoft/OvenPlayer): OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
