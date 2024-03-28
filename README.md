@@ -189,7 +189,7 @@
 * [Nutlope/aicommits](https://github.com/Nutlope/aicommits): A CLI that writes your git commit messages for you with AI
 * [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
 * [paul-gauthier/aider](https://github.com/paul-gauthier/aider): aider is AI pair programming in your terminal
-* [sozercan/aikit](https://github.com/sozercan/aikit): 🏗️ Build, fine-tune and deploy open-source LLMs easily!
+* [sozercan/aikit](https://github.com/sozercan/aikit): 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 * [aimhubio/aim](https://github.com/aimhubio/aim): Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 * [terrycain/aioboto3](https://github.com/terrycain/aioboto3): Wrapper to use boto3 resources with the aiobotocore async backend
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
