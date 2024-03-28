@@ -326,6 +326,9 @@
     "Aniket965/Dynamic-Github-Profile": [
         "Other"
     ],
+    "Anil-matcha/Awesome-GPT-Store": [
+        "Other"
+    ],
     "AnimMouse/ffmpeg-autobuild": [
         "Other"
     ],
@@ -396,6 +399,9 @@
         "Other"
     ],
     "AssemblyAI-Examples/MinImagen": [
+        "Other"
+    ],
+    "AstraExt/astra-monitor": [
         "Other"
     ],
     "Atcold/NYU-DLSP21": [
@@ -665,6 +671,9 @@
     "CatchChat/Yep": [
         "Other"
     ],
+    "Cc-Edit/CcClip": [
+        "Other"
+    ],
     "Ch00k/ffmpy": [
         "Other"
     ],
@@ -684,6 +693,9 @@
         "Other"
     ],
     "CharlieQLe/gnome-extension-gtk3-theme-switcher": [
+        "Other"
+    ],
+    "ChartsOrg/Charts": [
         "Other"
     ],
     "ChatGPTNextWeb/ChatGPT-Next-Web": [
@@ -1134,6 +1146,9 @@
         "Other"
     ],
     "Dimillian/SwiftHN": [
+        "Other"
+    ],
+    "Dinoosauro/ffmpeg-web": [
         "Other"
     ],
     "DisplayLink/evdi": [
@@ -1997,6 +2012,9 @@
     "GoogleChromeLabs/comlink": [
         "Other"
     ],
+    "GoogleCloudPlatform/docker-credential-gcr": [
+        "Other"
+    ],
     "GoogleContainerTools/jib": [
         "Other"
     ],
@@ -2136,9 +2154,6 @@
         "Other"
     ],
     "HirokiUmatani/PEAR-ZoomingView-iOS": [
-        "Other"
-    ],
-    "HoloISO/holoiso": [
         "Other"
     ],
     "Horhorist/awesome-free-software": [
@@ -2283,6 +2298,9 @@
         "Other"
     ],
     "Jazqa/adwaita-tweaks": [
+        "Other"
+    ],
+    "Jeadie/awesome-chatgpt-plugins": [
         "Other"
     ],
     "Jeadie/notion-rss": [
@@ -2520,9 +2538,6 @@
         "Other"
     ],
     "Kikobeats/awesome-api": [
-        "Other"
-    ],
-    "KillianLucas/open-interpreter": [
         "Other"
     ],
     "Kilograpp/UITableView-Cache": [
@@ -2963,6 +2978,9 @@
     "Moya/Moya": [
         "Other"
     ],
+    "MrBrax/LiveStreamDVR": [
+        "Other"
+    ],
     "MrRio/vtop": [
         "Other"
     ],
@@ -3048,6 +3066,9 @@
         "Other"
     ],
     "NaiboWang/EasySpider": [
+        "Other"
+    ],
+    "NarekA/git-notion": [
         "Other"
     ],
     "NathanFlurry/VisualProgrammingLanguage": [
@@ -3224,7 +3245,13 @@
     "OpenGVLab/InternVideo": [
         "Other"
     ],
+    "OpenGVLab/VideoMamba": [
+        "Other"
+    ],
     "OpenHEVC/openHEVC": [
+        "Other"
+    ],
+    "OpenInterpreter/open-interpreter": [
         "Other"
     ],
     "OpenRouterTeam/openrouter-runner": [
@@ -4718,6 +4745,9 @@
     "adrai/flowchart.js": [
         "Other"
     ],
+    "adrg/libvlc-go": [
+        "Other"
+    ],
     "adrian-fuertes/typora-notion-theme": [
         "Other"
     ],
@@ -4806,6 +4836,9 @@
         "Other"
     ],
     "ahmetws/swifttube": [
+        "Other"
+    ],
+    "ai-boost/Awesome-GPTs": [
         "Other"
     ],
     "ai-boost/awesome-prompts": [
@@ -4992,6 +5025,9 @@
         "Other"
     ],
     "alfg/ffmpegd": [
+        "Other"
+    ],
+    "alfg/ffprobe-wasm": [
         "Other"
     ],
     "alfg/mediacast": [
@@ -6248,6 +6284,9 @@
     "bedrockio/bedrock-core": [
         "Other"
     ],
+    "beego/beego": [
+        "Other"
+    ],
     "beekeeper-studio/beekeeper-studio": [
         "Other"
     ],
@@ -6711,6 +6750,9 @@
         "Other"
     ],
     "bustoutsolutions/siesta": [
+        "Other"
+    ],
+    "buzz/mediainfo.js": [
         "Other"
     ],
     "buzzfeed/mattress": [
@@ -7547,6 +7589,9 @@
     "cuinjune/text2video": [
         "Other"
     ],
+    "cumulo-autumn/StreamDiffusion": [
+        "Other"
+    ],
     "cuongdcdev/ffmpegGui2": [
         "Other"
     ],
@@ -7665,9 +7710,6 @@
         "Other"
     ],
     "danielgatis/rembg": [
-        "Other"
-    ],
-    "danielgindi/Charts": [
         "Other"
     ],
     "danielgtaylor/qtfaststart": [
@@ -8837,6 +8879,9 @@
     "enricoros/big-AGI": [
         "Other"
     ],
+    "ent/ent": [
+        "Other"
+    ],
     "entropic-dev/entropic": [
         "Other"
     ],
@@ -9147,9 +9192,6 @@
         "Other"
     ],
     "facebookresearch/audiocraft": [
-        "Other"
-    ],
-    "facebookresearch/codellama": [
         "Other"
     ],
     "facebookresearch/encodec": [
@@ -9665,6 +9707,9 @@
     "geerlingguy/mac-dev-playbook": [
         "Other"
     ],
+    "gen2brain/x264-go": [
+        "Other"
+    ],
     "generate/generate": [
         "Other"
     ],
@@ -9791,9 +9836,6 @@
     "git-ftp/git-ftp": [
         "Other"
     ],
-    "git-touch/git-touch": [
-        "Other"
-    ],
     "gitanjal/ExoDemo": [
         "Other"
     ],
@@ -9801,6 +9843,9 @@
         "Other"
     ],
     "gitbito/CLI": [
+        "Other"
+    ],
+    "gitbito/bitoai": [
         "Other"
     ],
     "gitfu/manifesto": [
@@ -9885,6 +9930,9 @@
         "Other"
     ],
     "gnome-terminator/terminator": [
+        "Other"
+    ],
+    "go-chi/chi": [
         "Other"
     ],
     "go-gitea/gitea": [
@@ -10364,7 +10412,7 @@
     "harvard-dce/encode-for-mediasource": [
         "Other"
     ],
-    "haseeb-heaven/HeavenGPT": [
+    "haseeb-heaven/heavens-gpt": [
         "Other"
     ],
     "hashicorp/consul": [
@@ -10493,6 +10541,9 @@
     "holman/dotfiles": [
         "Other"
     ],
+    "holoiso-eol/holoiso": [
+        "Other"
+    ],
     "holzschu/ios_system": [
         "Other"
     ],
@@ -10542,6 +10593,9 @@
         "Other"
     ],
     "hoya012/awesome-anomaly-detection": [
+        "Other"
+    ],
+    "hraban/opus": [
         "Other"
     ],
     "hsavit1/Awesome-Swift-Education": [
@@ -10623,6 +10677,9 @@
         "Other"
     ],
     "hussien89aa/MigrationMiner": [
+        "Other"
+    ],
+    "huzaifa-99/ffmpeg-web": [
         "Other"
     ],
     "huzhenjie/m3u8_downloader": [
@@ -10824,9 +10881,6 @@
         "Other"
     ],
     "imageio/imageio-ffmpeg": [
-        "Other"
-    ],
-    "imartinez/privateGPT": [
         "Other"
     ],
     "imfunniee/gitfolio": [
@@ -11234,9 +11288,6 @@
     "jaymoulin/keeptune": [
         "Other"
     ],
-    "jaysgrant/dadjoke-ui": [
-        "Other"
-    ],
     "jaywcjlove/awesome-mac": [
         "Other"
     ],
@@ -11394,9 +11445,6 @@
         "Other"
     ],
     "jitsi/jitsi-meet": [
-        "Other"
-    ],
-    "jjaacckk/spotify-dl": [
         "Other"
     ],
     "jkarthic-akamai/ABR-Broadcaster": [
@@ -11658,6 +11706,9 @@
         "Other"
     ],
     "jtvberg/StreamDock": [
+        "Other"
+    ],
+    "juancarlospaco/awesome-streaming-tools": [
         "Other"
     ],
     "juanfont/headscale": [
@@ -12140,6 +12191,9 @@
     "kmoskwiak/videojs-resolution-switcher": [
         "Other"
     ],
+    "kmsdoit/golang-with-ffmpeg-gin": [
+        "Other"
+    ],
     "knik0/faad2": [
         "Other"
     ],
@@ -12257,6 +12311,9 @@
     "krzemienski/awesome-from-stars": [
         "Other"
     ],
+    "krzemienski/awesome-streaming-ui": [
+        "Other"
+    ],
     "krzemienski/awesome-video": [
         "Other"
     ],
@@ -12270,6 +12327,9 @@
         "Other"
     ],
     "krzemienski/ffmpeg-build-1": [
+        "Other"
+    ],
+    "krzemienski/gilfoyle": [
         "Other"
     ],
     "krzemienski/github-notion-star": [
@@ -13178,6 +13238,9 @@
     "majamee/auto-dash-hls": [
         "Other"
     ],
+    "makandra/validate-hls": [
+        "Other"
+    ],
     "make-github-pseudonymous-again/awesome-qr-code": [
         "Other"
     ],
@@ -13254,6 +13317,12 @@
         "Other"
     ],
     "manuzhang/awesome-streaming": [
+        "Other"
+    ],
+    "manuzhang/awesome-streaming-ui": [
+        "Other"
+    ],
+    "manuzhang/github-app": [
         "Other"
     ],
     "manzurahmed/manjaro-software-installation-guide": [
@@ -13640,6 +13709,9 @@
     "messeb/ios-project-env-setup": [
         "Other"
     ],
+    "meta-llama/codellama": [
+        "Other"
+    ],
     "metabrainz/musicbrainz-docker": [
         "Other"
     ],
@@ -13653,6 +13725,9 @@
         "Other"
     ],
     "methylDragon/notion-backups": [
+        "Other"
+    ],
+    "mewkiz/flac": [
         "Other"
     ],
     "mezod/awesome-indie": [
@@ -14000,6 +14075,9 @@
     "mngsk/device-detector": [
         "Other"
     ],
+    "mnotgod96/AppAgent": [
+        "Other"
+    ],
     "mobile-dev-inc/maestro": [
         "Other"
     ],
@@ -14063,7 +14141,13 @@
     "monyone/biim": [
         "Other"
     ],
+    "moonfdd/ffmpeg-go": [
+        "Other"
+    ],
     "moore0n/hlstail": [
+        "Other"
+    ],
+    "moovweb/gvm": [
         "Other"
     ],
     "mooz/xkeysnail": [
@@ -14178,6 +14262,12 @@
         "Other"
     ],
     "msdeep14/trackGitHubStars": [
+        "Other"
+    ],
+    "mshdg/dadjoke-ui": [
+        "Other"
+    ],
+    "mshumer/gpt-prompt-engineer": [
         "Other"
     ],
     "msub2/awesome-webxr": [
@@ -14301,6 +14391,9 @@
         "Other"
     ],
     "myles/awesome-static-generators": [
+        "Other"
+    ],
+    "myshell-ai/OpenVoice": [
         "Other"
     ],
     "myspaghetti/macos-virtualbox": [
@@ -15068,10 +15161,16 @@
     "openai/CLIP": [
         "Other"
     ],
+    "openai/chatgpt-retrieval-plugin": [
+        "Other"
+    ],
     "openai/jukebox": [
         "Other"
     ],
     "openai/openai-cookbook": [
+        "Other"
+    ],
+    "openai/tiktoken": [
         "Other"
     ],
     "openai/whisper": [
@@ -15419,13 +15518,13 @@
     "pbek/QOwnNotes": [
         "Other"
     ],
-    "pbs/its": [
-        "Other"
-    ],
     "pbs/pycaption": [
         "Other"
     ],
     "pcroland/deew": [
+        "Other"
+    ],
+    "pd4d10/git-touch": [
         "Other"
     ],
     "pdf-rs/pdf": [
@@ -17987,6 +18086,9 @@
     "stilliard/docker-pure-ftpd": [
         "Other"
     ],
+    "stitionai/devika": [
+        "Other"
+    ],
     "stleary/JSON-java": [
         "Other"
     ],
@@ -18150,6 +18252,9 @@
         "Other"
     ],
     "surajit039/fedora-desktop-setup": [
+        "Other"
+    ],
+    "surebert/docker-ffmpeg-service": [
         "Other"
     ],
     "surenjanath/Spotify-Song-Downloader-PyQt5": [
@@ -18320,6 +18425,9 @@
     "tanersener/mobile-ffmpeg": [
         "Other"
     ],
+    "tangly1024/NotionNext": [
+        "Other"
+    ],
     "tangxbai/ffmpeg-helper": [
         "Other"
     ],
@@ -18345,6 +18453,9 @@
         "Other"
     ],
     "taphouseio/TPHCloudAnalytics": [
+        "Other"
+    ],
+    "targodan/ffgopeg": [
         "Other"
     ],
     "tariqbuilds/linux-dash": [
@@ -18644,7 +18755,7 @@
     "tiangolo/fastapi": [
         "Other"
     ],
-    "tiangolo/full-stack-fastapi-postgresql": [
+    "tiangolo/full-stack-fastapi-template": [
         "Other"
     ],
     "tiangolo/nginx-rtmp-docker": [
@@ -18815,9 +18926,6 @@
     "toshi0383/tvOS-10-Sampler": [
         "Other"
     ],
-    "tospery/SWHub": [
-        "Other"
-    ],
     "tottokotkd/ffmpeg-tutorial-with-swift": [
         "Other"
     ],
@@ -18863,6 +18971,9 @@
     "trekhleb/learn-python": [
         "Other"
     ],
+    "trexminer/T-Rex": [
+        "Other"
+    ],
     "trgino/nginx-streamer-ubuntu": [
         "Other"
     ],
@@ -18885,6 +18996,9 @@
         "Other"
     ],
     "trulyronak/itunesconnect": [
+        "Other"
+    ],
+    "tryfabric/martian": [
         "Other"
     ],
     "tryfabric/notion-github-action": [
@@ -19142,6 +19256,9 @@
     "unskript/Awesome-CloudOps-Automation": [
         "Other"
     ],
+    "unslothai/unsloth": [
+        "Other"
+    ],
     "unsplash/datasets": [
         "Other"
     ],
@@ -19205,10 +19322,10 @@
     "valeriansaliou/sonic": [
         "Other"
     ],
-    "valerie-makes/notion-linux": [
+    "valeriomazzeo/fastlane-plugin-jira_transition": [
         "Other"
     ],
-    "valeriomazzeo/fastlane-plugin-jira_transition": [
+    "valin4tor/notion-linux": [
         "Other"
     ],
     "vansante/go-ffprobe": [
@@ -20402,6 +20519,9 @@
     "zergon321/reisen": [
         "Other"
     ],
+    "zernonia/vista": [
+        "Other"
+    ],
     "zeroepoch/plotbitrate": [
         "Other"
     ],
@@ -20553,6 +20673,9 @@
         "Other"
     ],
     "zxjlm/NoteTrail": [
+        "Other"
+    ],
+    "zylon-ai/private-gpt": [
         "Other"
     ],
     "zype/zype-roku-scenegraph": [
