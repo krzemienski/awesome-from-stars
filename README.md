@@ -476,7 +476,7 @@
 * [AudioKit/AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): AudioKit Synth One: Open-Source iOS Synthesizer App
 * [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass): Free full-featured web-based audio & waveform editing tool
 * [hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer): High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.
-* [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js): High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.
+* [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js): Media player and real-time audio spectrum analyzer written in JavaScript.
 * [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer): AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
 * [tbaranes/AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift): AudioPlayer is a simple class for playing audio in iOS, macOS and tvOS apps.
 * [beetbox/audioread](https://github.com/beetbox/audioread): cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python
@@ -510,7 +510,7 @@
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc): PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 * [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture): AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
-* [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
+* [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 * [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui): A graphical user interface for AutoGPT
 * [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -714,7 +714,6 @@
 * [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
 * [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers): None
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
-* [Horhorist/awesome-free-software](https://github.com/Horhorist/awesome-free-software): Curated list of free as in freedom software
 * [krzemienski/awesome-from-stars](https://github.com/krzemienski/awesome-from-stars): None
 * [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
 * [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing): A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
@@ -823,7 +822,7 @@
 * [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity): A curated list of delightful productivity resources.
 * [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates): A collection of awesome readme templates to display on your profile
 * [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers): A list of history's greatest software engineers and tech pioneers
-* [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project): 📎 A curated list of awesome project development links
+* [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project): A curated list of awesome project development links
 * [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas): Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 * [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus): A curated list of awesome Prometheus resources, projects and tools.
 * [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts): 🚨 Collection of Prometheus alerting rules
@@ -1060,7 +1059,7 @@
 * [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress): A Python package that allows you to run an FFmpeg command & see percentage progress, ETA, etc.
 * [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython): Code examples for my Write Better Python Code series on YouTube.
 * [anachirino/bifserver](https://github.com/anachirino/bifserver): Server which creates and serves up BIF files for Roku players
-* [enricoros/big-AGI](https://github.com/enricoros/big-AGI): Generative AI suite powered by the newest LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
+* [enricoros/big-AGI](https://github.com/enricoros/big-AGI): Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 * [bbc/bigscreen-player](https://github.com/bbc/bigscreen-player): Simplified media playback for bigscreen devices
 * [monyone/biim](https://github.com/monyone/biim): LL-HLS implementation written in Python3
 * [galaxy-s10/billd-live-admin](https://github.com/galaxy-s10/billd-live-admin): 基于Vue3 + Vite4 + NaiveUI搭建的直播间后台
@@ -1481,7 +1480,7 @@
 * [Dash-Industry-Forum/Conformance-Frontend-HLS](https://github.com/Dash-Industry-Forum/Conformance-Frontend-HLS): Submodule of the Integrated Conformance Software Tool
 * [conjure-up/conjure-up](https://github.com/conjure-up/conjure-up): Deploying complex solutions, magically.
 * [oberon-manjaro/conkies](https://github.com/oberon-manjaro/conkies): Conky files for manjaro
-* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
+* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland (sort of), and other things, too
 * [teejee2008/conky-manager](https://github.com/teejee2008/conky-manager): GUI for managing Conky widgets
 * [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip): Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
 * [rwbutler/Connectivity](https://github.com/rwbutler/Connectivity): 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
@@ -1796,7 +1795,7 @@
 * [google/diff-match-patch](https://github.com/google/diff-match-patch): Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 * [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit): 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
 * [huggingface/diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-* [langgenius/dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
+* [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
 * [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 * [DigitalMediaServer/DigitalMediaServer](https://github.com/DigitalMediaServer/DigitalMediaServer): A UPnP AV/DLNA Media Server.
 * [anaganisk/digitalocean-dynamic-dns-ip](https://github.com/anaganisk/digitalocean-dynamic-dns-ip): A simple script to automatically update Digital ocean DNS records with dynamic IP
@@ -2259,7 +2258,7 @@
 * [crossroadlabs/Express](https://github.com/crossroadlabs/Express): Swift Express is a simple, yet unopinionated web application server written in Swift
 * [expressjs/express](https://github.com/expressjs/express): Fast, unopinionated, minimalist web framework for node.
 * [bookyo/express-ffmpeg](https://github.com/bookyo/express-ffmpeg): nodejs ffmpeg video transcode webui，基于nodejs的云转码系统 https://www.efvcms.com
-* [HoseungJang/express-hls-example](https://github.com/HoseungJang/express-hls-example): A simple example about HTTP Live Streaming using Node.js and Express
+* [hoseungme/express-hls-example](https://github.com/hoseungme/express-hls-example): A simple example about HTTP Live Streaming using Node.js and Express
 * [pNre/ExSwift](https://github.com/pNre/ExSwift): A set of Swift extensions for standard types and classes.
 * [gerard/ext4fuse](https://github.com/gerard/ext4fuse): EXT4 implementation for FUSE
 * [julio641742/extend-panel-menu](https://github.com/julio641742/extend-panel-menu): None
@@ -2963,7 +2962,7 @@
 * [giorgisio/goav](https://github.com/giorgisio/goav): Golang bindings for FFmpeg (This repository is no longer maintained)
 * [dariubs/GoBooks](https://github.com/dariubs/GoBooks): List of Golang books
 * [gogolith/GoCoEdit](https://github.com/gogolith/GoCoEdit): GoCoEdit - Code & Text Editor for iOS / Issue tracker
-* [hybridgroup/gocv](https://github.com/hybridgroup/gocv): Go package for computer vision using OpenCV 4 and beyond.
+* [hybridgroup/gocv](https://github.com/hybridgroup/gocv): Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
 * [zixun/GodEye](https://github.com/zixun/GodEye): Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 * [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg): Powerful and dev-friendly FFMPEG wrapper written in the Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
@@ -6378,7 +6377,7 @@
 * [kodlian/TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer): TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps.
 * [linagora/Twake](https://github.com/linagora/Twake): Twake is a secure open source collaboration platform to improve organizational productivity. 
 * [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks): An easy way to fine-tune, and adjust parameters for iOS apps in development.
-* [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny): The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
+* [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny): The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free!
 * [amiechen/twitch-batch-loader](https://github.com/amiechen/twitch-batch-loader): Batch download twitch clips in terminal
 * [TorbenCapiau/Twitch-Clips-Downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader): Streamers have been receiving a lot of copyright complaints and are forced to delete all their clips to avoid their Twitch account being closed. Save the clips you've made with this tool.
 * [dudik/twitch-m3u8](https://github.com/dudik/twitch-m3u8): Get the stream URL of a Twitch livestream or past broadcast (VOD).
