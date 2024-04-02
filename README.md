@@ -1795,7 +1795,7 @@
 * [google/diff-match-patch](https://github.com/google/diff-match-patch): Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 * [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit): 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
 * [huggingface/diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-* [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
+* [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
 * [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 * [DigitalMediaServer/DigitalMediaServer](https://github.com/DigitalMediaServer/DigitalMediaServer): A UPnP AV/DLNA Media Server.
 * [anaganisk/digitalocean-dynamic-dns-ip](https://github.com/anaganisk/digitalocean-dynamic-dns-ip): A simple script to automatically update Digital ocean DNS records with dynamic IP
@@ -2965,6 +2965,7 @@
 * [hybridgroup/gocv](https://github.com/hybridgroup/gocv): Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
 * [zixun/GodEye](https://github.com/zixun/GodEye): Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 * [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg): Powerful and dev-friendly FFMPEG wrapper written in the Go
+* [no-src/gofs](https://github.com/no-src/gofs): A cross-platform real-time file synchronization tool out of the box based on Golang
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
 * [mattddowney/gogs-bash](https://github.com/mattddowney/gogs-bash): Bash Script for Interacting with the GOGS API
 * [valeriangalliat/gogs-migrate](https://github.com/valeriangalliat/gogs-migrate): Migrate existing repositories on a Gogs instance.
@@ -4076,7 +4077,7 @@
 * [Fausto-Korpsvart/Material-GTK-Themes](https://github.com/Fausto-Korpsvart/Material-GTK-Themes): Material GTK Themes
 * [material-ocean/Material-Ocean](https://github.com/material-ocean/Material-Ocean):  A blueish oceanic color scheme for various applications
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-* [mui/material-ui](https://github.com/mui/material-ui): MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+* [mui/material-ui](https://github.com/mui/material-ui): Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 * [matomo-org/matomo](https://github.com/matomo-org/matomo): Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests! 
 * [ietf-wg-cellar/matroska-specification](https://github.com/ietf-wg-cellar/matroska-specification): Matroska specification.
 * [buzzfeed/mattress](https://github.com/buzzfeed/mattress): iOS Offline Caching for Web Content
@@ -4094,6 +4095,7 @@
 * [bwasti/mebm](https://github.com/bwasti/mebm): zero-dependency browser-based video editor
 * [androidx/media](https://github.com/androidx/media): Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
+* [w3c/media-and-entertainment](https://github.com/w3c/media-and-entertainment): Repository for the Media and Entertainment Interest Group
 * [m-ab-s/media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite): This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
 * [vidstack/media-captions](https://github.com/vidstack/media-captions): Modern media captions parser and renderer (~5kB). Supports VTT, SRT, and SSA. Works server side, supports text streams, rollup captions via VTT regions, customization via CSS, and more.
 * [ablwr/media-collection-viewer](https://github.com/ablwr/media-collection-viewer): visualizations/charts for media collections, based on mediainfo
@@ -4897,6 +4899,7 @@
 * [anatol/pkgoutofdate](https://github.com/anatol/pkgoutofdate): Checks ArchLinux packages repository for upstream updates
 * [moparisthebest/pkgsync](https://github.com/moparisthebest/pkgsync): Sync installed packages across Arch installs
 * [piotrmski/plaid](https://github.com/piotrmski/plaid): Personal Jira worklog editor
+* [plandex-ai/plandex](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks
 * [pinterest/plank](https://github.com/pinterest/plank): A tool for generating immutable model objects
 * [orblazer/plasma-applet-resources-monitor](https://github.com/orblazer/plasma-applet-resources-monitor): Plasma 5 applet for monitoring CPU, RAM and network traffic.
 * [syncloud/platform](https://github.com/syncloud/platform): Run popular services on your device with one click
@@ -6964,6 +6967,7 @@
 * [zalando/zappr](https://github.com/zalando/zappr): An agent that enforces guidelines for your GitHub repositories
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP core project
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
+* [zed-industries/zed](https://github.com/zed-industries/zed): Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * [bvaisvil/zenith](https://github.com/bvaisvil/zenith): Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 * [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 * [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr): Effortlessly synchronize UserDefaults over iCloud.
