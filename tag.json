@@ -2063,6 +2063,9 @@
     "Hack-with-Github/Awesome-Hacking": [
         "Other"
     ],
+    "HackTricks-wiki/hacktricks": [
+        "Other"
+    ],
     "Hacking-the-Cloud/hackingthe.cloud": [
         "Other"
     ],
@@ -4077,6 +4080,9 @@
         "Other"
     ],
     "TechSmith/mp4v2": [
+        "Other"
+    ],
+    "TechSquidTV/UltimateHomeServer": [
         "Other"
     ],
     "Tecnico1931/aws-media-services-simple-vod-workflow": [
@@ -6842,7 +6848,7 @@
     "canonical/snapcraft.io": [
         "Other"
     ],
-    "caorushizi/m3u8-downloader": [
+    "caorushizi/m3u8": [
         "Other"
     ],
     "caorushizi/mediago": [
@@ -6864,9 +6870,6 @@
         "Other"
     ],
     "carlosalbarranmx/eks-tf-cli": [
-        "Other"
-    ],
-    "carlospolop/hacktricks": [
         "Other"
     ],
     "carlspring/s3fs-nio": [
@@ -8514,6 +8517,9 @@
         "Other"
     ],
     "dtan4/k8s-job-cleaner": [
+        "Other"
+    ],
+    "dtyutyunik/aiWeather": [
         "Other"
     ],
     "dubinc/dub": [
@@ -10311,12 +10317,6 @@
         "Other"
     ],
     "hadolint/hadolint": [
-        "Other"
-    ],
-    "hadronepoch/PHP-FFmpeg-video-streaming": [
-        "Other"
-    ],
-    "hadronepoch/python-ffmpeg-video-streaming": [
         "Other"
     ],
     "haikelfazzani/soundme": [
@@ -16169,6 +16169,12 @@
     "quarkusio/quarkus": [
         "Other"
     ],
+    "quasarstream/PHP-FFmpeg-video-streaming": [
+        "Other"
+    ],
+    "quasarstream/python-ffmpeg-video-streaming": [
+        "Other"
+    ],
     "quickemu-project/quickemu": [
         "Other"
     ],
@@ -20061,9 +20067,6 @@
         "Other"
     ],
     "wireapp/wire-ios": [
-        "Other"
-    ],
-    "wireapp/wire-ios_legacy": [
         "Other"
     ],
     "withastro/astro": [

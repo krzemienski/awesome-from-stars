@@ -201,6 +201,7 @@
 * [mpolatcan/airflow-docker](https://github.com/mpolatcan/airflow-docker): Scalable Airflow Docker image that works Docker and Kubernetes
 * [bhavaniravi/airflow-kube-setup](https://github.com/bhavaniravi/airflow-kube-setup): How to deploy airflow on Kubernetes
 * [rolanddb/airflow-on-kubernetes](https://github.com/rolanddb/airflow-on-kubernetes): A guide to running Airflow on Kubernetes
+* [dtyutyunik/aiWeather](https://github.com/dtyutyunik/aiWeather): None
 * [ajenti/ajenti](https://github.com/ajenti/ajenti): Ajenti Core and stock plugins
 * [innFactory/akka-cluster-k8s](https://github.com/innFactory/akka-cluster-k8s): Deployment of an akka cluster on AWS/Google Kubernetes [EXAMPLE]
 * [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
@@ -423,7 +424,7 @@
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 * [ASCIIwwdc/asciiwwdc.com](https://github.com/ASCIIwwdc/asciiwwdc.com): Searchable full-text transcripts of WWDC sessions
 * [Netflix/asgard](https://github.com/Netflix/asgard): [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases
-* [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything): [CVPR2024][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
+* [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything): [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
 * [nemasu/asmttpd](https://github.com/nemasu/asmttpd): Web server for Linux written in amd64 assembly.
 * [lionheart/ASPinboard](https://github.com/lionheart/ASPinboard): A modern, fast, and flexible Objective-C library for Pinboard.in.
 * [e7711bbear/Assets](https://github.com/e7711bbear/Assets): macOS app that manages assets for your development projects (Xcode, web, etc)
@@ -1343,7 +1344,7 @@
 * [ecnepsnai/Cirrus](https://github.com/ecnepsnai/Cirrus): Archive of the Cirrus iOS App Source Code.
 * [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next): RGB Driver for Linux
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
-* [Rafostar/clapper](https://github.com/Rafostar/clapper): A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
+* [Rafostar/clapper](https://github.com/Rafostar/clapper): Level up your video experience with a modern and user-friendly media player.
 * [clappr/clappr](https://github.com/clappr/clappr): :clapper: An extensible media player for the web.
 * [clappr/clappr-core](https://github.com/clappr/clappr-core): Core components of the Clappr player architecture
 * [clappr/clappr-ios](https://github.com/clappr/clappr-ios): An extensible media player for iOS [deprecated]
@@ -1794,7 +1795,7 @@
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi): Lightweight justice for your single-board computer!
 * [google/diff-match-patch](https://github.com/google/diff-match-patch): Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 * [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit): 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
-* [huggingface/diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+* [huggingface/diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 * [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
 * [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 * [DigitalMediaServer/DigitalMediaServer](https://github.com/DigitalMediaServer/DigitalMediaServer): A UPnP AV/DLNA Media Server.
@@ -1954,7 +1955,7 @@
 * [CircleCI-Archived/dockerfile-wizard](https://github.com/CircleCI-Archived/dockerfile-wizard): Use CircleCI to build custom Docker images with combinations of common languages/dependencies
 * [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles): Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
 * [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles): Various Dockerfiles I use on the desktop and on servers.
-* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
+* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
 * [waylybaye/dockerfiles](https://github.com/waylybaye/dockerfiles): :whale: A collection of delicious docker recipes
 * [bstiel/dockerize-celery-django-app](https://github.com/bstiel/dockerize-celery-django-app): https://www.distributedpython.com/2018/06/12/celery-django-docker
 * [smellouk/Dockerized.Home-Server](https://github.com/smellouk/Dockerized.Home-Server): Dockerized.Home-Server is a setup which provides a dockerized home server, dns server, ad blocking server , cloud and monitoring.
@@ -3108,7 +3109,7 @@
 * [corpnewt/Hackintosh-Guide](https://github.com/corpnewt/Hackintosh-Guide): None
 * [SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme](https://github.com/SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme): None
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
-* [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+* [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [mdh34/hackup](https://github.com/mdh34/hackup): Read Hacker News from the desktop
 * [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
 * [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
@@ -3428,7 +3429,7 @@
 * [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust): Rust plugin for the IntelliJ Platform
 * [JetBrains/intellij-samples](https://github.com/JetBrains/intellij-samples): Code that demonstrates various IntelliJ IDEA features
 * [Koushikphy/Interactive_Data_Editor](https://github.com/Koushikphy/Interactive_Data_Editor): A Software to interactively edit data in a graphical manner
-* [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo): InternVideo: General Video Foundation Models via Generative and Discriminative Learning (https://arxiv.org/abs/2212.03191)
+* [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo): Video Foundation Models & Data for Multimodal Understanding
 * [okikio/inthistweet](https://github.com/okikio/inthistweet): ✨ Futuristic ✨ twitter image, gif and video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 * [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting): Free Introduction to Bash Scripting eBook
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
@@ -3882,7 +3883,7 @@
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-* [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+* [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
 * [ltebean/Live](https://github.com/ltebean/Live): Demonstrates how to build a live broadcast app(Swift 3)
 * [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch): This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
@@ -3973,6 +3974,7 @@
 * [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1): A bootloader and experimentation playground for Apple Silicon
 * [bman46/M3U-List-Checker](https://github.com/bman46/M3U-List-Checker): Checks M3U lists for bad sources. 
 * [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists): m3u playlists for radio music, sorted by popularity
+* [caorushizi/m3u8](https://github.com/caorushizi/m3u8): m3u8 点播视频下载
 * [globocom/m3u8](https://github.com/globocom/m3u8): Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 * [grafov/m3u8](https://github.com/grafov/m3u8): Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 * [leandromoreira/m3u8](https://github.com/leandromoreira/m3u8): Python m3u8 parser
@@ -3980,7 +3982,6 @@
 * [poccariswet/m3u8-decoder](https://github.com/poccariswet/m3u8-decoder): pure go m3u8 decoder base of https://tools.ietf.org/html/rfc8216
 * [excalibur-kvrv/m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl): A CLI program to download a video played using a m3u8 playlist. Download it here - https://pypi.org/project/m3u8dl/0.5.2/
 * [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader):  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
-* [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader): m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 * [lcy0321/m3u8-downloader](https://github.com/lcy0321/m3u8-downloader): Download the ts files according to the given m3u8 file.
 * [llychao/m3u8-downloader](https://github.com/llychao/m3u8-downloader):  一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。
 * [carlanton/m3u8-parser](https://github.com/carlanton/m3u8-parser): A simple HLS playlist parser for Java
@@ -4127,7 +4128,7 @@
 * [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement): HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
 * [mediaelement/mediaelement-plugins](https://github.com/mediaelement/mediaelement-plugins): Plugins for the main mediaelement project 
 * [Petersoj/MediaFission](https://github.com/Petersoj/MediaFission): Download Youtube, Soundcloud, and etc. as Audio, Video, or as a Song (album cover and other metadata)!
-* [caorushizi/mediago](https://github.com/caorushizi/mediago): m3u8 点播视频下载
+* [caorushizi/mediago](https://github.com/caorushizi/mediago): m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 * [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [buzz/mediainfo.js](https://github.com/buzz/mediainfo.js): MediaInfo ported to the web using emscripten
 * [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib): Convenient unified display of the most relevant technical and tag data for video and audio files.
@@ -4671,7 +4672,7 @@
 * [xiph/ogg](https://github.com/xiph/ogg): Reference implementation of the Ogg media container
 * [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars): An offline CLI tool to search your GitHub Stars.
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 * [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 * [ollama-interface/Ollama-Gui](https://github.com/ollama-interface/Ollama-Gui): A GUI interface for Ollama
@@ -4833,7 +4834,7 @@
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet): Work in progress...
 * [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools): A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
-* [penpot/penpot](https://github.com/penpot/penpot): Penpot - The Open-Source design & prototyping platform
+* [penpot/penpot](https://github.com/penpot/penpot): Penpot: The open-source design tool for design and code collaboration
 * [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): A collection of custom security tools for quick needs.
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): articles
 * [antoinehng/per-title-analysis](https://github.com/antoinehng/per-title-analysis): Analysis provider for adapting your OTT bitrate ladder
@@ -4858,7 +4859,7 @@
 * [Eyevinn/photon](https://github.com/Eyevinn/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [Netflix/photon](https://github.com/Netflix/photon): Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
-* [hadronepoch/PHP-FFmpeg-video-streaming](https://github.com/hadronepoch/PHP-FFmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+* [quasarstream/PHP-FFmpeg-video-streaming](https://github.com/quasarstream/PHP-FFmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 * [Aufree/PHPHub-iOS](https://github.com/Aufree/PHPHub-iOS): PHPHub for iOS is the universal iPhone and iPad application for PHPHub
 * [studioimaginaire/phue](https://github.com/studioimaginaire/phue): A Python library for the Philips Hue system
 * [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole): A black hole for Internet advertisements
@@ -5107,7 +5108,7 @@
 * [xinitd/python-download-m3u8](https://github.com/xinitd/python-download-m3u8): M3U8 downloader
 * [LetsUpgrade/Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials): None
 * [jonghwanhyeon/python-ffmpeg](https://github.com/jonghwanhyeon/python-ffmpeg): A python binding for FFmpeg which provides sync and async APIs
-* [hadronepoch/python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+* [quasarstream/python-ffmpeg-video-streaming](https://github.com/quasarstream/python-ffmpeg-video-streaming): 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 * [happyleavesaoc/python-firetv](https://github.com/happyleavesaoc/python-firetv): None
 * [talkpython/python-for-absolute-beginners-course](https://github.com/talkpython/python-for-absolute-beginners-course): Code samples and other handouts for our course.
 * [kuri65536/python-for-android](https://github.com/kuri65536/python-for-android): Automatically exported from code.google.com/p/python-for-android
@@ -6424,6 +6425,7 @@
 * [aleluff/uktools](https://github.com/aleluff/uktools): Upgrade latest Linux kernel automatically for Ubuntu and derivatives 🐧
 * [teejee2008/ukuu](https://github.com/teejee2008/ukuu): A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notifications when new mainline kernel is available. Lists kernels from http://kernel.ubuntu.com/~kernel-ppa/mainline/ with options to install and remove.
 * [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+* [TechSquidTV/UltimateHomeServer](https://github.com/TechSquidTV/UltimateHomeServer): Configure the ultimate home server with k3s and helm
 * [CESNET/UltraGrid](https://github.com/CESNET/UltraGrid): UltraGrid low-latency audio and video network transmission system
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
 * [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
@@ -6844,7 +6846,6 @@
 * [medenagan/window-corner-preview](https://github.com/medenagan/window-corner-preview): GNOME Shell extension showing a video preview on the corner of the screen
 * [Vityacv/window-list-mod](https://github.com/Vityacv/window-list-mod): None
 * [wireapp/wire-ios](https://github.com/wireapp/wire-ios): 📱 Wire for iOS (iPhone and iPad)
-* [wireapp/wire-ios_legacy](https://github.com/wireapp/wire-ios_legacy): 📱 Wire for iOS (iPhone and iPad)
 * [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install): WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 * [willowtreeapps/wist](https://github.com/willowtreeapps/wist): A linter for BrightScript
 * [MarcAntoine-Arnaud/wisual](https://github.com/MarcAntoine-Arnaud/wisual): Web for Visual Quality Assessment
