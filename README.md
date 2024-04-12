@@ -1526,7 +1526,6 @@
 * [EG-BRS/cookiecutter-java-service](https://github.com/EG-BRS/cookiecutter-java-service): None
 * [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary): Enhanced cookiecutter template for Python libraries.
 * [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage): Cookiecutter template for a Python package.
-* [nvie/cookiecutter-python-cli](https://github.com/nvie/cookiecutter-python-cli): None
 * [shin-kinoshita/cookiecutter-react-electron](https://github.com/shin-kinoshita/cookiecutter-react-electron): cookiecutter template of react electron app
 * [NorakGithub/cookiecutter-simple-django](https://github.com/NorakGithub/cookiecutter-simple-django): Template for create the minimized Django Project.
 * [m-x-k/cookiecutter-spring-boot](https://github.com/m-x-k/cookiecutter-spring-boot): Cookiecutter for standard java spring boot gradle application
@@ -2285,7 +2284,7 @@
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk): Used to integrate the Facebook Platform with your iOS & tvOS apps.
 * [facebookarchive/facebook-swift-sdk](https://github.com/facebookarchive/facebook-swift-sdk): Integrate your iOS apps in Swift with Facebook Platform.
-* [facefusion/facefusion](https://github.com/facefusion/facefusion): Next generation face swapper, face enhancer and lip syncer
+* [facefusion/facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
 * [deepfakes/faceswap](https://github.com/deepfakes/faceswap): Deepfakes Software For All
 * [faiproject/fai](https://github.com/faiproject/fai): non-interactive system to install, customize and manage Linux systems
 * [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame): Tool to help us buy hard to find items. 
@@ -6452,7 +6451,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): 2-5X faster 70% less memory QLoRA & LoRA finetuning
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): 2-5X faster 80% less memory QLoRA & LoRA finetuning
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
