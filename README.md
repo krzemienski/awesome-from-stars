@@ -308,7 +308,7 @@
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
 * [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable): Type-erased wrappers for Encodable, Decodable, and Codable values
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
-* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
 * [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts): Official Anytype client for MacOS, Linux, and Windows
 * [klaudiosinani/ao](https://github.com/klaudiosinani/ao): Elegant Microsoft To-Do desktop app
 * [xiph/aomanalyzer](https://github.com/xiph/aomanalyzer): AV1 / VP9 Bitstream Analyzer
@@ -3907,7 +3907,7 @@
 * [fcanas/LiveStreamParser](https://github.com/fcanas/LiveStreamParser): A Parser for HTTP Live Streaming in Objective-C
 * [ant-media/LiveVideoBroadcaster](https://github.com/ant-media/LiveVideoBroadcaster): Native RTMP client for publishing and playing video streams for Android
 * [feniljain/ll-hls-poc](https://github.com/feniljain/ll-hls-poc): Simple LL-HLS PoC
-* [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot with a more powerful and local AI
+* [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot local AI
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [run-llama/llama-hub](https://github.com/run-llama/llama-hub): A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++
