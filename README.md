@@ -146,7 +146,7 @@
 * [JakeWharton/adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror): Mirror the touch/key/button events of one device onto one or more other devices in real-time
 * [BeboKhouja/ADB-GUI](https://github.com/BeboKhouja/ADB-GUI): ADB GUI is a Java based GUI addon for ADB.
 * [yapplications/ADB-GUI](https://github.com/yapplications/ADB-GUI): None
-* [TheConsciousBone/adb-tools](https://github.com/TheConsciousBone/adb-tools): A simple GUI made in Python for easy use of ADB
+* [ConsciousBone/adb-tools](https://github.com/ConsciousBone/adb-tools): A simple GUI made in Python for easy use of ADB
 * [neXenio/adb-util](https://github.com/neXenio/adb-util): Electron app for Android developers, providing a GUI for common ADB operations
 * [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit): 使用 Flutter 开发的 ADB GUI 客户端
 * [sunwicked/adbGUI](https://github.com/sunwicked/adbGUI): Desktop client for adb commands inspired from adb idea plugin for android studio 
@@ -1224,6 +1224,7 @@
 * [mandiant/capa](https://github.com/mandiant/capa): The FLARE team's open-source tool to identify capabilities in executable files.
 * [Comcast/caption-inspector](https://github.com/Comcast/caption-inspector): Caption Inspector is a reference decoder for Closed Captions (CEA-608 and CEA-708).
 * [captioning/captioning](https://github.com/captioning/captioning): A collection of tools made to help you create and edit subtitles in different formats (Subrip, WebVTT, Substation Alpha...)
+* [vidstack/captions](https://github.com/vidstack/captions): Modern media captions parser and renderer (~5kB). Supports VTT, SRT, and SSA. Works server side, supports text streams, rollup captions via VTT regions, customization via CSS, and more.
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [intuit/CardParts](https://github.com/intuit/CardParts): A reactive, card-based UI framework built on UIKit for iOS developers.
 * [radianttap/CardPresentationController](https://github.com/radianttap/CardPresentationController): Custom UIPresentationController which mimics the behavior of Apple Music UI
@@ -1307,6 +1308,8 @@
 * [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4): :book: Kubernetes CheatSheets In A4
 * [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai): Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 * [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah): Mac app for crushing remote tech interviews with AI
+* [electrikmilk/cherri](https://github.com/electrikmilk/cherri): Siri Shortcuts Programming Language 🍒
+* [electrikmilk/cherri-macos-app](https://github.com/electrikmilk/cherri-macos-app): IDE for the Cherri programming language
 * [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain): Parser Building Toolkit for JavaScript
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 * [heff/chg](https://github.com/heff/chg): simple changelog/release history manager
@@ -3819,7 +3822,7 @@
 * [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container): NVIDIA container runtime library
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
 * [ddd-by-examples/library](https://github.com/ddd-by-examples/library): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [sumitk/librokudev](https://github.com/sumitk/librokudev): A community-created library of useful Roku BrightScript functions and classes
 * [librosa/librosa](https://github.com/librosa/librosa): Python library for audio and music analysis
 * [ColdGrub1384/LibTerm](https://github.com/ColdGrub1384/LibTerm): iOS sandboxed terminal with Python, Lua and Clang
@@ -4097,7 +4100,6 @@
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
 * [w3c/media-and-entertainment](https://github.com/w3c/media-and-entertainment): Repository for the Media and Entertainment Interest Group
 * [m-ab-s/media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite): This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.
-* [vidstack/media-captions](https://github.com/vidstack/media-captions): Modern media captions parser and renderer (~5kB). Supports VTT, SRT, and SSA. Works server side, supports text streams, rollup captions via VTT regions, customization via CSS, and more.
 * [ablwr/media-collection-viewer](https://github.com/ablwr/media-collection-viewer): visualizations/charts for media collections, based on mediainfo
 * [intel/media-delivery](https://github.com/intel/media-delivery): This collection of samples demonstrates best practices to achieve optimal video quality and performance on Intel GPUs for content delivery networks. Check out our demo, recommended command lines and quality and performance measuring tools.
 * [intel/media-driver](https://github.com/intel/media-driver): Intel Graphics Media Driver to support hardware decode, encode and video processing.
@@ -4420,7 +4422,7 @@
 * [flavioribeiro/nginx-vod-module-fmp4-hls](https://github.com/flavioribeiro/nginx-vod-module-fmp4-hls): Play fragmented mp4's on HLS using nginx-vod-module
 * [vimodev/nginx-vod-transcoder](https://github.com/vimodev/nginx-vod-transcoder): Extension of nytimes/nginx-vod-module that is able to transcode HLS segments in real time for multiple qualities.
 * [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉
-* [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok): Introspected tunnels to localhost
+* [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok): Unified ingress for developers
 * [xadlien/ngrok-auto-ssh](https://github.com/xadlien/ngrok-auto-ssh): Systemd service setup for ngrok ssh enpoint with emailed ip address.
 * [ngrok/ngrok-go](https://github.com/ngrok/ngrok-go): Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 * [JoaquimLey/ngrok-install](https://github.com/JoaquimLey/ngrok-install): A simple self-sufficient script that installs a ngrok ssh tunnel service that runs on boot for the raspberry pi
@@ -4901,7 +4903,7 @@
 * [piotrmski/plaid](https://github.com/piotrmski/plaid): Personal Jira worklog editor
 * [plandex-ai/plandex](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks
 * [pinterest/plank](https://github.com/pinterest/plank): A tool for generating immutable model objects
-* [orblazer/plasma-applet-resources-monitor](https://github.com/orblazer/plasma-applet-resources-monitor): Plasma 5 applet for monitoring CPU, RAM and network traffic.
+* [orblazer/plasma-applet-resources-monitor](https://github.com/orblazer/plasma-applet-resources-monitor): Plasmoid for monitoring CPU, memory, network traffic, GPUs and disks IO.
 * [syncloud/platform](https://github.com/syncloud/platform): Run popular services on your device with one click
 * [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages): Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers
 * [meshery/play](https://github.com/meshery/play): Cloud Native Playground for Kubernetes and all CNCF projects
@@ -6582,7 +6584,6 @@
 * [f11894/video_benchmark](https://github.com/f11894/video_benchmark): None
 * [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter): Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 * [kahache/video_packaging_platform](https://github.com/kahache/video_packaging_platform): Video packaging platform - this will build a Docker with a web API that will let you upload, encrypt and serve videos as MPEG DASH files
-* [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c): 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 * [paradisec-archive/video_processing-MP4](https://github.com/paradisec-archive/video_processing-MP4): Development of this documentation was generously funded by the ARC Centre of Excellence for the Dynamics of Language (CoEDL): www.dynamicsoflanguage.edu.au
 * [lisamelton/video_transcoding](https://github.com/lisamelton/video_transcoding): Tools to transcode, inspect and convert videos.
 * [ntodd/video_transcoding_docker](https://github.com/ntodd/video_transcoding_docker): Dockerfiles for ntodd/video-transcoding docker images
@@ -6632,6 +6633,7 @@
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 * [videomorph-dev/videomorph](https://github.com/videomorph-dev/videomorph): A user-friendly Video Converter based on FFMPEG and written in Python/PyQt5.
 * [rsereda/VideoMultibitrateConverter](https://github.com/rsereda/VideoMultibitrateConverter): Python handler for ffmpeg tool for create mp4 and HLS with AES128 encryption multibitrate stream file
+* [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe): 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 * [ustwo/videoplayback-ios](https://github.com/ustwo/videoplayback-ios): Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress 
 * [Jerrywx/VideoPlayer](https://github.com/Jerrywx/VideoPlayer): ffmpeg、AVPlayer、ijkplayer、kxmovie、ffmpeg-avplayer-for-ios-tvos
 * [toshi0383/VideoPlayer](https://github.com/toshi0383/VideoPlayer): AVPlayer control and monitoring made easy (with Rx)

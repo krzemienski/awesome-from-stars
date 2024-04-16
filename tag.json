@@ -881,6 +881,9 @@
     "ConnectAI-E/Awesome-One-Click-Deployment": [
         "Other"
     ],
+    "ConsciousBone/adb-tools": [
+        "Other"
+    ],
     "ContainerSolutions/externalsecret-operator": [
         "Other"
     ],
@@ -4155,9 +4158,6 @@
         "Other"
     ],
     "TheAssassin/AppImageLauncher": [
-        "Other"
-    ],
-    "TheConsciousBone/adb-tools": [
         "Other"
     ],
     "TheGreatMcPain/python-media-scripts": [
@@ -8727,6 +8727,12 @@
         "Other"
     ],
     "electrified/asus-wmi-sensors": [
+        "Other"
+    ],
+    "electrikmilk/cherri": [
+        "Other"
+    ],
+    "electrikmilk/cherri-macos-app": [
         "Other"
     ],
     "electron-react-boilerplate/electron-react-boilerplate": [
@@ -17336,7 +17342,7 @@
     "sherlock-project/sherlock": [
         "Other"
     ],
-    "sherlockchou86/video_pipe_c": [
+    "sherlockchou86/VideoPipe": [
         "Other"
     ],
     "shibapm/Komondor": [
@@ -19547,7 +19553,7 @@
     "videomorph-dev/videomorph": [
         "Other"
     ],
-    "vidstack/media-captions": [
+    "vidstack/captions": [
         "Other"
     ],
     "viewflow/django-material": [
