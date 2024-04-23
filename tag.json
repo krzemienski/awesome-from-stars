@@ -1262,6 +1262,9 @@
     "EleutherAI/gpt-neox": [
         "Other"
     ],
+    "EleutherAI/lm-evaluation-harness": [
+        "Other"
+    ],
     "ElisaMin/Heizi-Flashing-Tools": [
         "Other"
     ],
@@ -1890,6 +1893,9 @@
         "Other"
     ],
     "FormidableLabs/electron-webpack-dashboard": [
+        "Other"
+    ],
+    "FormulaMonks/llm-benchmarker-suite": [
         "Other"
     ],
     "Foxboron/sbctl": [
@@ -3422,6 +3428,9 @@
     "PrismJS/prism": [
         "Other"
     ],
+    "Prismadic/magnet": [
+        "Other"
+    ],
     "ProcedureKit/ProcedureKit": [
         "Other"
     ],
@@ -3999,6 +4008,9 @@
         "Other"
     ],
     "Sukhdip-Sandhu/Automatic-Watermark-Removal": [
+        "Other"
+    ],
+    "SuperDuperDB/superduperdb": [
         "Other"
     ],
     "SvenTiigi/WhatsNewKit": [
@@ -4883,6 +4895,9 @@
     "airbnb/streamalert": [
         "Other"
     ],
+    "aixcoder-plugin/aiXcoder-7B": [
+        "Other"
+    ],
     "aizvorski/h264bitstream": [
         "Other"
     ],
@@ -5261,6 +5276,9 @@
     "andreamazz/AMPopTip": [
         "Other"
     ],
+    "andrei-zgirvaci/expo-stable-diffusion": [
+        "Other"
+    ],
     "andrepolischuk/keep": [
         "Other"
     ],
@@ -5457,6 +5475,9 @@
         "Other"
     ],
     "apasccon/SearchTextField": [
+        "Other"
+    ],
+    "apeatling/ollama-voice-mac": [
         "Other"
     ],
     "aperim/docker-nvidia-cuda-ffmpeg": [
@@ -5942,6 +5963,9 @@
     "awesome-tips/iOS-Tips": [
         "Other"
     ],
+    "aws-cloudformation/aws-cloudformation-templates": [
+        "Other"
+    ],
     "aws-controllers-k8s/community": [
         "Other"
     ],
@@ -6078,9 +6102,6 @@
         "Other"
     ],
     "awslabs/amazon-eks-serverless-drainer": [
-        "Other"
-    ],
-    "awslabs/aws-cloudformation-templates": [
         "Other"
     ],
     "awslabs/aws-clustered-video-streams": [
@@ -6353,6 +6374,9 @@
     "bentasker/HLS-Stream-Creator": [
         "Other"
     ],
+    "bentoml/OpenLLM": [
+        "Other"
+    ],
     "benvanik/node-transcoding": [
         "Other"
     ],
@@ -6363,6 +6387,9 @@
         "Other"
     ],
     "bergkamp/video-comparison-player": [
+        "Other"
+    ],
+    "beromir/Servas": [
         "Other"
     ],
     "better/jsonschema2db": [
@@ -6612,9 +6639,6 @@
         "Other"
     ],
     "bow-swift/bow": [
-        "Other"
-    ],
-    "bpinheiroms/ai-youtube-ffmpeg": [
         "Other"
     ],
     "brabadu/awesome-fonts": [
@@ -7826,6 +7850,9 @@
     "datarhei/restreamer-ui": [
         "Other"
     ],
+    "datawhalechina/llm-universe": [
+        "Other"
+    ],
     "datitran/object_detector_app": [
         "Other"
     ],
@@ -7974,6 +8001,9 @@
         "Other"
     ],
     "dehvCurtis/Crowd-JIRA-Confluence-Gitbucket-Jenkins-Nexus-SonarQube-Mattermost-ownCloud-OpenLDAP-Docker": [
+        "Other"
+    ],
+    "dehydratedpotato/FrequencyStats": [
         "Other"
     ],
     "deinstapel/cpupower": [
@@ -8628,6 +8658,9 @@
         "Other"
     ],
     "ebamboo/BBPlayerView": [
+        "Other"
+    ],
+    "ebitengine/oto": [
         "Other"
     ],
     "ebu/awesome-broadcasting": [
@@ -9431,6 +9464,9 @@
     "flavioribeiro/video-thumbnail-generator": [
         "Other"
     ],
+    "flexn-io/renative": [
+        "Other"
+    ],
     "floccusaddon/floccus": [
         "Other"
     ],
@@ -9711,6 +9747,9 @@
         "Other"
     ],
     "geerlingguy/mac-dev-playbook": [
+        "Other"
+    ],
+    "gen2brain/mpeg": [
         "Other"
     ],
     "gen2brain/x264-go": [
@@ -10017,6 +10056,9 @@
         "Other"
     ],
     "gonejack/transcode": [
+        "Other"
+    ],
+    "goniszewski/grimoire": [
         "Other"
     ],
     "google-research-datasets/Objectron": [
@@ -10715,6 +10757,9 @@
     "hynek/structlog": [
         "Other"
     ],
+    "hyperium/hyper": [
+        "Other"
+    ],
     "hyperoslo/Aftermath": [
         "Other"
     ],
@@ -11240,6 +11285,9 @@
     "janisdd/vscode-edit-csv": [
         "Other"
     ],
+    "jankais3r/LLaMA_MPS": [
+        "Other"
+    ],
     "janniks/vue-notion": [
         "Other"
     ],
@@ -11436,6 +11484,9 @@
         "Other"
     ],
     "jinSasaki/TVKit": [
+        "Other"
+    ],
+    "jina-ai/reader": [
         "Other"
     ],
     "jindulys/GithubPilot": [
@@ -12800,6 +12851,9 @@
     "lightspin-tech/red-kube": [
         "Other"
     ],
+    "liguodongiot/llm-action": [
+        "Other"
+    ],
     "ligurio/awesome-ci": [
         "Other"
     ],
@@ -12810,6 +12864,9 @@
         "Other"
     ],
     "liluxdev/soundmanager2-livem3u": [
+        "Other"
+    ],
+    "lima-vm/lima": [
         "Other"
     ],
     "linagora/Twake": [
@@ -13131,6 +13188,9 @@
         "Other"
     ],
     "lwitzani/homebridgeStatusWidget": [
+        "Other"
+    ],
+    "lwouis/alt-tab-macos": [
         "Other"
     ],
     "lyfeyaj/awesome-resources": [
@@ -13715,6 +13775,12 @@
     "meta-llama/codellama": [
         "Other"
     ],
+    "meta-llama/llama-recipes": [
+        "Other"
+    ],
+    "meta-llama/llama3": [
+        "Other"
+    ],
     "metabrainz/musicbrainz-docker": [
         "Other"
     ],
@@ -13937,6 +14003,9 @@
     "mikeash/iphone-user-performance-tests": [
         "Other"
     ],
+    "mikeroyal/Apple-Silicon-Guide": [
+        "Other"
+    ],
     "mikeroyal/Audio-and-Video-Editing-Guide": [
         "Other"
     ],
@@ -14031,6 +14100,15 @@
         "Other"
     ],
     "mkaflowski/HybridMediaPlayer": [
+        "Other"
+    ],
+    "ml-archive/aws": [
+        "Other"
+    ],
+    "ml-archive/storage": [
+        "Other"
+    ],
+    "ml-explore/mlx": [
         "Other"
     ],
     "ml-lab/DeepVideoAnalytics": [
@@ -14241,6 +14319,9 @@
         "Other"
     ],
     "mrbar42/node-graceful": [
+        "Other"
+    ],
+    "mrdbourke/mac-ml-speed-test": [
         "Other"
     ],
     "mriza/winbox-installer": [
@@ -14570,6 +14651,9 @@
     "networktocode/awesome-network-automation": [
         "Other"
     ],
+    "neuralmagic/deepsparse": [
+        "Other"
+    ],
     "neurospeech/ff-lambda-container": [
         "Other"
     ],
@@ -14747,6 +14831,9 @@
     "nocodb/nocodb": [
         "Other"
     ],
+    "nod-ai/SHARK": [
+        "Other"
+    ],
     "nod/rokumote": [
         "Other"
     ],
@@ -14766,12 +14853,6 @@
         "Other"
     ],
     "nodejs/node-gyp": [
-        "Other"
-    ],
-    "nodes-vapor/aws": [
-        "Other"
-    ],
-    "nodes-vapor/storage": [
         "Other"
     ],
     "nodiscc/awesome-linuxaudio": [
@@ -15048,6 +15129,9 @@
         "Other"
     ],
     "okorach/audio-video-tools": [
+        "Other"
+    ],
+    "okuvshynov/slowllama": [
         "Other"
     ],
     "oldboyxx/jira_clone": [
@@ -15336,6 +15420,9 @@
         "Other"
     ],
     "osyounis/image_watermark_remover": [
+        "Other"
+    ],
+    "otofune/unicon": [
         "Other"
     ],
     "otoyo/astro-notion-blog": [
@@ -15714,6 +15801,9 @@
         "Other"
     ],
     "pion/example-webrtc-applications": [
+        "Other"
+    ],
+    "pion/mediadevices": [
         "Other"
     ],
     "pion/webrtc": [
@@ -16133,6 +16223,9 @@
     "q191201771/lal": [
         "Other"
     ],
+    "q191201771/lalmax": [
+        "Other"
+    ],
     "qarmin/czkawka": [
         "Other"
     ],
@@ -16332,6 +16425,12 @@
         "Other"
     ],
     "raonetwo/MaximizeToWorkspace": [
+        "Other"
+    ],
+    "raphamorim/react-ape": [
+        "Other"
+    ],
+    "raphamorim/react-tv": [
         "Other"
     ],
     "rapid7/metasploit-framework": [
@@ -17981,6 +18080,9 @@
     "srevinsaju/guiscrcpy": [
         "Other"
     ],
+    "srikanth235/benchllama": [
+        "Other"
+    ],
     "sshuttle/sshuttle": [
         "Other"
     ],
@@ -18006,6 +18108,9 @@
         "Other"
     ],
     "standardnotes/mobile": [
+        "Other"
+    ],
+    "stanford-oval/storm": [
         "Other"
     ],
     "star7th/showdoc": [
@@ -18843,6 +18948,9 @@
         "Other"
     ],
     "tldr-pages/tldr": [
+        "Other"
+    ],
+    "tlkh/asitop": [
         "Other"
     ],
     "tmcdonell/config-alacritty": [
