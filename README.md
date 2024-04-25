@@ -2072,7 +2072,7 @@
 * [Dash-Industry-Forum/DynamicServiceValidator](https://github.com/Dash-Industry-Forum/DynamicServiceValidator): None
 * [ViBiOh/dyndns](https://github.com/ViBiOh/dyndns): DynDNS for Cloudflare
 * [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio): dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
-* [e2b-dev/E2B](https://github.com/e2b-dev/E2B): Cloud Runtime for AI Agents
+* [e2b-dev/E2B](https://github.com/e2b-dev/E2B): Secure cloud runtime for AI apps & AI agents. Fully open-source.
 * [google/EarlGrey](https://github.com/google/EarlGrey): :tea: iOS UI Automation Test Framework
 * [roberthein/Ease](https://github.com/roberthein/Ease): It's magic.
 * [otoyo/easy-notion-blog](https://github.com/otoyo/easy-notion-blog): ✍️ Let's start your own Notion Blog easily. / Notion Blogを始めましょう！
@@ -2327,7 +2327,7 @@
 * [BERNARDO31P/FastDownloader](https://github.com/BERNARDO31P/FastDownloader): FastDownloader: A fast YouTube video/audio downloader in electron.js (and many more)
 * [kibotu/FastExoPlayerSeeker](https://github.com/kibotu/FastExoPlayerSeeker): Fast Seek for ExoPlayer
 * [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix): FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP/AVIF creation, and more!
-* [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+* [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 * [alibaba/fastjson](https://github.com/alibaba/fastjson): FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 * [AFNetworking/fastlane](https://github.com/AFNetworking/fastlane): A fastlane setup to deploy Objective-C and Swift frameworks.
 * [fastlane/fastlane](https://github.com/fastlane/fastlane): 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -6067,7 +6067,7 @@
 * [jorgenhenrichsen/SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio): Audio player for iOS
 * [tanhakabir/SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer): Streaming and realtime audio manipulation with AVAudioEngine
 * [SeverinetsDenis/SwiftAutomationCore](https://github.com/SeverinetsDenis/SwiftAutomationCore): Here is core for automation an iOS and tvOS app
-* [owlmafia/SwiftCharts](https://github.com/owlmafia/SwiftCharts): Easy to use and highly customizable charts library for iOS
+* [ivnsch/SwiftCharts](https://github.com/ivnsch/SwiftCharts): Easy to use and highly customizable charts library for iOS
 * [industriousonesoft/SwiftCodec](https://github.com/industriousonesoft/SwiftCodec): This is a thin Swift wrapper around the popular and excellent FFmpeg library. 
 * [SeverinetsDenis/SwiftCoreAutotests](https://github.com/SeverinetsDenis/SwiftCoreAutotests): None
 * [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate): 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
