@@ -455,6 +455,9 @@
     "Awesome-Windows/Awesome": [
         "Other"
     ],
+    "Axel-Erfurt/ARD-Livestreams-for-Roku-Express": [
+        "Other"
+    ],
     "Axel-Erfurt/m3uBrowserPlayer": [
         "Other"
     ],
@@ -483,6 +486,9 @@
         "Other"
     ],
     "Azure/azure-quickstart-templates": [
+        "Other"
+    ],
+    "BB31420/AI-Auto-Video-Generator": [
         "Other"
     ],
     "BERNARDO31P/FastDownloader": [
@@ -573,6 +579,9 @@
         "Other"
     ],
     "BrianRuizy/next-notion-portfolio": [
+        "Other"
+    ],
+    "BrianWillett/roku-boilerplate": [
         "Other"
     ],
     "BrightcoveOS/Roku-Sample-App": [
@@ -1926,6 +1935,9 @@
         "Other"
     ],
     "Frontesque/scrcpy-plus": [
+        "Other"
+    ],
+    "FrozenIronSoftware/Avocado-Roku": [
         "Other"
     ],
     "FrozenIronSoftware/Twitched": [
@@ -3320,6 +3332,9 @@
     "PPHubApp/PPHub-Feedback": [
         "Other"
     ],
+    "PRProd/HA-Firemote": [
+        "Other"
+    ],
     "PaNaVTEC/DrawableView": [
         "Other"
     ],
@@ -3378,6 +3393,9 @@
         "Other"
     ],
     "PhantomYdn/awesome-wicket": [
+        "Other"
+    ],
+    "PhiloInc/ReactBS": [
         "Other"
     ],
     "PickleBoxer/dev-chatgpt-prompts": [
@@ -4074,6 +4092,9 @@
         "Other"
     ],
     "TIGER-AI-Lab/MAmmoTH": [
+        "Other"
+    ],
+    "TKSS-Software/rodash": [
         "Other"
     ],
     "TabbyML/tabby": [
@@ -4848,6 +4869,12 @@
         "Other"
     ],
     "ahmetws/swifttube": [
+        "Other"
+    ],
+    "ahwayakchih/SimpleSVGView": [
+        "Other"
+    ],
+    "ahwayakchih/roku-dev-container": [
         "Other"
     ],
     "ai-boost/Awesome-GPTs": [
@@ -6641,6 +6668,9 @@
     "bow-swift/bow": [
         "Other"
     ],
+    "boxcast/boxcast-sdk-roku": [
+        "Other"
+    ],
     "brabadu/awesome-fonts": [
         "Other"
     ],
@@ -6872,7 +6902,7 @@
     "canonical/snapcraft.io": [
         "Other"
     ],
-    "caorushizi/m3u8": [
+    "caorushizi/hls-downloader": [
         "Other"
     ],
     "caorushizi/mediago": [
@@ -7221,6 +7251,9 @@
         "Other"
     ],
     "claffin/cloudproxy": [
+        "Other"
+    ],
+    "claireratigan/vaccine_appointments": [
         "Other"
     ],
     "clappr/clappr": [
@@ -8327,6 +8360,12 @@
     "dl-container-registry/ffmpeg": [
         "Other"
     ],
+    "dlenroc/appium-roku-driver": [
+        "Other"
+    ],
+    "dlenroc/node-roku": [
+        "Other"
+    ],
     "dmaccarthy/sc8pr": [
         "Other"
     ],
@@ -8340,6 +8379,9 @@
         "Other"
     ],
     "dmulholl/mp3cat": [
+        "Other"
+    ],
+    "dmunozv04/iSponsorBlockTV": [
         "Other"
     ],
     "dnschneid/crouton": [
@@ -8919,6 +8961,9 @@
         "Other"
     ],
     "ent/ent": [
+        "Other"
+    ],
+    "entrez/roku-registryutil": [
         "Other"
     ],
     "entropic-dev/entropic": [
@@ -10508,6 +10553,9 @@
     "hdoria/xcode-themes": [
         "Other"
     ],
+    "headspinio/appium-roku-driver": [
+        "Other"
+    ],
     "hedgieinsocks/gnome-extension-launcher": [
         "Other"
     ],
@@ -10776,6 +10824,9 @@
         "Other"
     ],
     "iAmrSalman/Dots": [
+        "Other"
+    ],
+    "iBicha/playlet": [
         "Other"
     ],
     "iCHAIT/awesome-macOS": [
@@ -11216,6 +11267,9 @@
     "j0hnm4r5/awesome-creative-technology": [
         "Other"
     ],
+    "jack1590/Roku": [
+        "Other"
+    ],
     "jackie1in/jre-ffmpeg-apline": [
         "Other"
     ],
@@ -11438,6 +11492,9 @@
     "jfbus/mp4": [
         "Other"
     ],
+    "jfcarr/media-utilities": [
+        "Other"
+    ],
     "jfreeland/mpdq": [
         "Other"
     ],
@@ -11577,9 +11634,6 @@
         "Other"
     ],
     "joelseq/obsidian-linkstowr": [
-        "Other"
-    ],
-    "joepdooper/p5js-soundcloud-player": [
         "Other"
     ],
     "joeyespo/grip": [
@@ -11787,6 +11841,9 @@
         "Other"
     ],
     "juliomalves/roku-libs": [
+        "Other"
+    ],
+    "juliomalves/scenegraph-driver": [
         "Other"
     ],
     "julionc/awesome-shopify": [
@@ -12734,6 +12791,9 @@
     "learn-video/mosaic-video": [
         "Other"
     ],
+    "learnroku/crash-course": [
+        "Other"
+    ],
     "lebensterben/awesome-clear-linux": [
         "Other"
     ],
@@ -12870,6 +12930,9 @@
         "Other"
     ],
     "lima-vm/lima": [
+        "Other"
+    ],
+    "limebar/roku": [
         "Other"
     ],
     "linagora/Twake": [
@@ -13190,6 +13253,15 @@
     "lvcabral/Prince-of-Persia-Roku": [
         "Other"
     ],
+    "lvcabral/auth-linking-api": [
+        "Other"
+    ],
+    "lvcabral/brs-desktop": [
+        "Other"
+    ],
+    "lvcabral/brs-engine": [
+        "Other"
+    ],
     "lwitzani/homebridgeStatusWidget": [
         "Other"
     ],
@@ -13422,6 +13494,9 @@
         "Other"
     ],
     "marcgibbons/django-rest-swagger": [
+        "Other"
+    ],
+    "marcnew2101/roku-boilerplate": [
         "Other"
     ],
     "marco-gallegos/after-install": [
@@ -14351,6 +14426,9 @@
     "msdeep14/trackGitHubStars": [
         "Other"
     ],
+    "msdrigg/Roam": [
+        "Other"
+    ],
     "mshdg/dadjoke-ui": [
         "Other"
     ],
@@ -14661,12 +14739,6 @@
         "Other"
     ],
     "neutraltone/awesome-stock-resources": [
-        "Other"
-    ],
-    "newTendermint/awesome-analytics": [
-        "Other"
-    ],
-    "newTendermint/awesome-bigdata": [
         "Other"
     ],
     "newsnowlabs/runcvm": [
@@ -15290,10 +15362,10 @@
     "opendigg/awesome-github-android-ui": [
         "Other"
     ],
-    "openebs/maya": [
+    "openebs-archive/node-disk-manager": [
         "Other"
     ],
-    "openebs/node-disk-manager": [
+    "openebs/maya": [
         "Other"
     ],
     "openfun/marsha": [
@@ -15471,6 +15543,12 @@
         "Other"
     ],
     "owncloud/pyocclient": [
+        "Other"
+    ],
+    "oxnr/awesome-analytics": [
+        "Other"
+    ],
+    "oxnr/awesome-bigdata": [
         "Other"
     ],
     "oz123/awesome-c": [
@@ -16014,6 +16092,9 @@
         "Other"
     ],
     "prakhar1989/awesome-courses": [
+        "Other"
+    ],
+    "pranav-prakash/RokuCast": [
         "Other"
     ],
     "pranjay-poddar/Dev-Geeks": [
@@ -16850,6 +16931,9 @@
     "rr-debugger/rr": [
         "Other"
     ],
+    "rrirower/Channel-Feed-Manager": [
+        "Other"
+    ],
     "rsattar/Voucher": [
         "Other"
     ],
@@ -17261,6 +17345,12 @@
     "seanmonstar/reqwest": [
         "Other"
     ],
+    "seanpm2001/Bliss_Browser_BrightScript": [
+        "Other"
+    ],
+    "seanpm2001/Learn-BrightScript": [
+        "Other"
+    ],
     "sebyddd/SDVersion": [
         "Other"
     ],
@@ -17340,9 +17430,6 @@
         "Other"
     ],
     "sergree/matchering": [
-        "Other"
-    ],
-    "serhatcelik/avsub": [
         "Other"
     ],
     "serhii-londar/open-source-mac-os-apps": [
@@ -17763,6 +17850,9 @@
         "Other"
     ],
     "slhck/rate-control-tests": [
+        "Other"
+    ],
+    "slheavner/scenegraph-schema": [
         "Other"
     ],
     "slidevjs/slidev": [
@@ -18908,9 +18998,6 @@
     "timqian/star-history-plugin": [
         "Other"
     ],
-    "timratigan/vaccine_appointments": [
-        "Other"
-    ],
     "timvisee/ffsend": [
         "Other"
     ],
@@ -19160,6 +19247,9 @@
     "tumtumtum/StreamingKit": [
         "Other"
     ],
+    "tungdev1209/Roku-Utilities": [
+        "Other"
+    ],
     "tunix/alacritty-snap": [
         "Other"
     ],
@@ -19262,6 +19352,9 @@
     "u2takey/ffmpeg-go": [
         "Other"
     ],
+    "uabmagic/roku-app": [
+        "Other"
+    ],
     "uber-archive/makisu": [
         "Other"
     ],
@@ -19302,6 +19395,9 @@
         "Other"
     ],
     "ubuntu/ubuntu-make": [
+        "Other"
+    ],
+    "ubuntupodcast/roku-channel": [
         "Other"
     ],
     "udpsec/github-tools": [
@@ -19796,6 +19892,9 @@
     "voltan/nginx-stream": [
         "Other"
     ],
+    "voltrue2/in-app-purchase": [
+        "Other"
+    ],
     "vsouza/awesome-ios": [
         "Other"
     ],
@@ -20207,6 +20306,9 @@
     "workpieces/etcdwp": [
         "Other"
     ],
+    "worldreboot/twitch-reloaded-roku": [
+        "Other"
+    ],
     "worldveil/dejavu": [
         "Other"
     ],
@@ -20256,6 +20358,9 @@
         "Other"
     ],
     "x1wins/CW-OVP": [
+        "Other"
+    ],
+    "x3525/avsub": [
         "Other"
     ],
     "xadlien/ngrok-auto-ssh": [
