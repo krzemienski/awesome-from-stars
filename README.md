@@ -250,7 +250,6 @@
 * [nekopanda/Amatsukaze](https://github.com/nekopanda/Amatsukaze): Automated MPEG2-TS Transcoder
 * [aws-samples/amazon-cloudfront-functions](https://github.com/aws-samples/amazon-cloudfront-functions): None
 * [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami): Packer configuration for building a custom EKS AMI
-* [aws-samples/amazon-eks-and-amazon-ec2-k8s-container-networking-workshops](https://github.com/aws-samples/amazon-eks-and-amazon-ec2-k8s-container-networking-workshops): Amazon EKS and Amazon EC2 container networking workshop. Customers will learn basics of container networking and advanced concepts of CNI operations within Amazon EKS and `kops` clusters.
 * [aws-samples/amazon-eks-fluent-logging-examples](https://github.com/aws-samples/amazon-eks-fluent-logging-examples): EKS Logging Examples
 * [aws/amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook): Amazon EKS Pod Identity Webhook
 * [awslabs/amazon-eks-serverless-drainer](https://github.com/awslabs/amazon-eks-serverless-drainer): Amazon EKS node drainer with AWS Lambda.
@@ -5208,7 +5207,7 @@
 * [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them. 
 * [HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut): Your most handy video processing software
 * [mdh34/quickDocs](https://github.com/mdh34/quickDocs): quickly read developer documentation
-* [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+* [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux virtual machines
 * [aws-quickstart/quickstart-aws-vpc](https://github.com/aws-quickstart/quickstart-aws-vpc): Amazon Virtual Private Cloud—AWS Solution
 * [aws-quickstart/quickstart-linux-bastion](https://github.com/aws-quickstart/quickstart-linux-bastion): Linux bastion host
 * [glideapps/quicktype](https://github.com/glideapps/quicktype): Generate types and converters from JSON, Schema, and GraphQL
@@ -6914,6 +6913,7 @@
 * [wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios):  📱The official Wikipedia iOS app.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [mriza/winbox-installer](https://github.com/mriza/winbox-installer): Install winbox in fedora/ubuntu linux, using wine
+* [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter): 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 * [lepa22/window-app-switcher-on-active-monitor](https://github.com/lepa22/window-app-switcher-on-active-monitor): GNOME shell extension to improve dual (or more) monitor experience
 * [medenagan/window-corner-preview](https://github.com/medenagan/window-corner-preview): GNOME Shell extension showing a video preview on the corner of the screen
 * [Vityacv/window-list-mod](https://github.com/Vityacv/window-list-mod): None

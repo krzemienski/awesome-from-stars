@@ -4121,6 +4121,9 @@
     "TechSquidTV/UltimateHomeServer": [
         "Other"
     ],
+    "TechUnRestricted/WinDiskWriter": [
+        "Other"
+    ],
     "Tecnico1931/aws-media-services-simple-vod-workflow": [
         "Other"
     ],
@@ -6003,9 +6006,6 @@
         "Other"
     ],
     "aws-samples/amazon-cloudfront-functions": [
-        "Other"
-    ],
-    "aws-samples/amazon-eks-and-amazon-ec2-k8s-container-networking-workshops": [
         "Other"
     ],
     "aws-samples/amazon-eks-fluent-logging-examples": [
