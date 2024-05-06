@@ -777,15 +777,18 @@
 * [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes): A curated list for awesome kubernetes sources :ship::tada:
 * [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel): A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 * [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing): Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+* [openlifescience-ai/Awesome-LifeScience-AI-Models](https://github.com/openlifescience-ai/Awesome-LifeScience-AI-Models): A curated collection of high-quality life science AI and machine learning Models
 * [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint): Linter for Awesome lists
 * [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux): :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 * [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers): A curated list of awesome Linux Containers frameworks, libraries and software
 * [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software): 🐧 A list of awesome Linux softwares 
 * [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio): [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 * [cuuupid/awesome-lists](https://github.com/cuuupid/awesome-lists): [DEPRECATED] A curated list of curated lists.
-* [wx-chevalier/Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists): :books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好
+* [wx-chevalier/Awesome-Lists-and-CheatSheets](https://github.com/wx-chevalier/Awesome-Lists-and-CheatSheets): :books: Guide to Galaxy, curated, worthy and up-to-date links/reading List, CheatSheets, MindMaps for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好
 * [liwf616/awesome-live-stream](https://github.com/liwf616/awesome-live-stream): Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中
 * [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding): All things livecoding
+* [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
+* [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
 * [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code): Awesome Low Code platforms, vendors, tools and resources
 * [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode): 国内低代码平台从业者交流
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -2656,6 +2659,7 @@
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
 * [flutter/flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 * [wewehao/flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt): Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner advertisements, etc.
+* [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): ServerBox - server status & toolbox app using Flutter
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
@@ -4005,6 +4009,7 @@
 * [cameramanben/LUTCalc](https://github.com/cameramanben/LUTCalc): Web App for generating 1D and 3D Lookup Tables (LUTs) for video cameras that shoot log gammas.
 * [iawia002/lux](https://github.com/iawia002/lux): 👾 Fast and simple video download library and CLI tool written in Go
 * [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your pandas dataframe via a single print! 📊 💡
+* [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM): None
 * [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop): 一个基于 electron 的音乐软件
 * [canonical/lxd-ui](https://github.com/canonical/lxd-ui): Easy and accessible container and virtual machine management. A browser interface for LXD
 * [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1): A bootloader and experimentation playground for Apple Silicon
@@ -4210,6 +4215,7 @@
 * [hussien89aa/MigrationMiner](https://github.com/hussien89aa/MigrationMiner): A tool to detect migration code between two Java third-party libraries
 * [dongyg/mildred](https://github.com/dongyg/mildred): None
 * [Kademi/milton-aws](https://github.com/Kademi/milton-aws): This is an open source project of using Amazon S3 (Simple Storage Service) in milton
+* [karpathy/minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books):  :books: Find your next book to read!
 * [dvorka/mindforger](https://github.com/dvorka/mindforger): Thinking notebook and Markdown editor with LLM wingman.
 * [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
@@ -5121,7 +5127,7 @@
 * [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 * [cweichen/pygn](https://github.com/cweichen/pygn): A simple Python client for the Gracenote Music API
 * [sakage24/pyhlsgen](https://github.com/sakage24/pyhlsgen): 複雑なffmpegの設定をしなくても、自動的にHLS形式に変換します
-* [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra): pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
+* [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra): pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 * [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller): Freeze (package) Python programs into stand-alone executables
 * [pyjs/pyjs](https://github.com/pyjs/pyjs): Pyjs canonical sources. Start here!
 * [microsoft/pylance-release](https://github.com/microsoft/pylance-release): Documentation and issues for Pylance
@@ -6886,7 +6892,7 @@
 * [DeskConnect/WFOAuth2](https://github.com/DeskConnect/WFOAuth2): A modern OAuth 2 library for macOS, iOS, tvOS and watchOS.
 * [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer): :ocean: WFPlayer.js is an audio waveform generator
 * [palfrey/wharf](https://github.com/palfrey/wharf): Web UI for Dokku
-* [continuedev/what-llm-to-use](https://github.com/continuedev/what-llm-to-use): 👀 What LLM to use? A perspective from the DevAI space
+* [continuedev/what-llm-to-use](https://github.com/continuedev/what-llm-to-use): 👀 What LLM to use?
 * [sbrshk/whatever](https://github.com/sbrshk/whatever): An unofficial Evernote desktop client for Linux
 * [ole/whats-new-in-swift-4-2](https://github.com/ole/whats-new-in-swift-4-2): An Xcode playground demonstrating the new features in in Swift 4.2.
 * [twostraws/whats-new-in-swift-5-0](https://github.com/twostraws/whats-new-in-swift-5-0): An Xcode playground that demonstrates the new features introduced in Swift 5.0.
