@@ -101,6 +101,9 @@
     "91yun/serverspeeder": [
         "Other"
     ],
+    "99designs/gqlgen": [
+        "Other"
+    ],
     "A-poc/RedTeam-Tools": [
         "Other"
     ],
@@ -1856,6 +1859,9 @@
     "FSecureLABS/Ellume-COVID-Test_Research-Files": [
         "Other"
     ],
+    "FSoft-AI4Code/RepoPilot": [
+        "Other"
+    ],
     "FabriceSalvaire/CodeReview": [
         "Other"
     ],
@@ -1875,6 +1881,9 @@
         "Other"
     ],
     "Figma-Linux/figma-linux": [
+        "Other"
+    ],
+    "FireCoderAI/firecoder": [
         "Other"
     ],
     "FirebaseExtended/flutterfire_desktop": [
@@ -4214,6 +4223,9 @@
     "TheOpponent/mr-otcs": [
         "Other"
     ],
+    "TheR1D/shell_gpt": [
+        "Other"
+    ],
     "TheTaylorLee/docker-transcodeautomation": [
         "Other"
     ],
@@ -5243,6 +5255,9 @@
     "amitshekhariitbhu/Fast-Android-Networking": [
         "Other"
     ],
+    "amplication/amplication": [
+        "Other"
+    ],
     "amplitude/experiment-ios-client": [
         "Other"
     ],
@@ -5433,6 +5448,9 @@
         "Other"
     ],
     "anuraghazra/github-readme-stats": [
+        "Other"
+    ],
+    "anymaniax/orval": [
         "Other"
     ],
     "anyproto/anytype-ts": [
@@ -7397,6 +7415,9 @@
     "codex-team/editor.js": [
         "Other"
     ],
+    "codiga/code-snippets-manager": [
+        "Other"
+    ],
     "codota/TabNine": [
         "Other"
     ],
@@ -8495,6 +8516,9 @@
     "dotLou/aws-eks-terraform": [
         "Other"
     ],
+    "dotansimha/graphql-code-generator": [
+        "Other"
+    ],
     "dotneet/smart-chatbot-ui": [
         "Other"
     ],
@@ -8556,6 +8580,9 @@
         "Other"
     ],
     "dreemurrs-embedded/Jumpdrive": [
+        "Other"
+    ],
+    "dremeika/awesome-coding-assistants": [
         "Other"
     ],
     "drewnoakes/metadata-extractor": [
@@ -9428,6 +9455,9 @@
     "fent/node-m3u8stream": [
         "Other"
     ],
+    "ferdikoomen/openapi-typescript-codegen": [
+        "Other"
+    ],
     "fethica/FRadioPlayer": [
         "Other"
     ],
@@ -9812,7 +9842,19 @@
     "georgejecook/brsxmlc": [
         "Other"
     ],
+    "georgejecook/maestro-roku": [
+        "Other"
+    ],
+    "georgejecook/maestro-roku-sample": [
+        "Other"
+    ],
     "georgejecook/rooibos": [
+        "Other"
+    ],
+    "georgejecook/rooibos-cli": [
+        "Other"
+    ],
+    "georgejecook/rooibos-roku-sample": [
         "Other"
     ],
     "georgewhewell/undervolt": [
@@ -10170,6 +10212,9 @@
         "Other"
     ],
     "google/tsunami-security-scanner": [
+        "Other"
+    ],
+    "google/wire": [
         "Other"
     ],
     "google/xctestrunner": [
@@ -11456,6 +11501,9 @@
     "jellyfin/jellyfin-androidx-media": [
         "Other"
     ],
+    "jellyfin/jellyfin-roku": [
+        "Other"
+    ],
     "jelmerdejong/flask-app-blueprint": [
         "Other"
     ],
@@ -12137,6 +12185,9 @@
     "keon/awesome-nlp": [
         "Other"
     ],
+    "keploy/keploy": [
+        "Other"
+    ],
     "keremkoseoglu/Jira2Notion": [
         "Other"
     ],
@@ -12668,6 +12719,12 @@
     "kwodzicki/video_utils": [
         "Other"
     ],
+    "kyaukyuai/gpt-all-star": [
+        "Other"
+    ],
+    "kyaukyuai/gpt-all-star-ui": [
+        "Other"
+    ],
     "kylef/Mockingjay": [
         "Other"
     ],
@@ -13073,6 +13130,9 @@
     "lllyasviel/ControlNet": [
         "Other"
     ],
+    "llvm/llvm-project": [
+        "Other"
+    ],
     "llychao/m3u8-downloader": [
         "Other"
     ],
@@ -13128,6 +13188,9 @@
         "Other"
     ],
     "logseq/logseq": [
+        "Other"
+    ],
+    "lollipopkit/flutter_gpt_box": [
         "Other"
     ],
     "lollipopkit/flutter_server_box": [
@@ -13374,6 +13437,9 @@
         "Other"
     ],
     "mahyarkarimi/ffmpeg-ms": [
+        "Other"
+    ],
+    "mailru/easyjson": [
         "Other"
     ],
     "maiwenchang/ArtPlayer": [
@@ -14334,6 +14400,9 @@
         "Other"
     ],
     "moshfeu/y2mp3": [
+        "Other"
+    ],
+    "mostafasadeghi97/design2code": [
         "Other"
     ],
     "mostafatouny/awesome-theoretical-computer-science": [
@@ -16688,6 +16757,9 @@
     "renzifeng/ZFPlayer": [
         "Other"
     ],
+    "reorproject/reor": [
+        "Other"
+    ],
     "reorx/Share-to-ChatGPT-Shortcut": [
         "Other"
     ],
@@ -16832,6 +16904,9 @@
     "rokibulislaam/colab-ffmpeg-cuda": [
         "Other"
     ],
+    "rokucommunity/brighterscript": [
+        "Other"
+    ],
     "rokucommunity/brighterscript-formatter": [
         "Other"
     ],
@@ -16841,7 +16916,22 @@
     "rokucommunity/brightscript-parser": [
         "Other"
     ],
+    "rokucommunity/bslib": [
+        "Other"
+    ],
+    "rokucommunity/bslint": [
+        "Other"
+    ],
     "rokucommunity/roku-deploy": [
+        "Other"
+    ],
+    "rokucommunity/roku-requests": [
+        "Other"
+    ],
+    "rokucommunity/ropm": [
+        "Other"
+    ],
+    "rokucommunity/sample-projects": [
         "Other"
     ],
     "rokucommunity/vscode-brightscript-language": [
@@ -16862,13 +16952,34 @@
     "rokudev/automated-channel-testing": [
         "Other"
     ],
+    "rokudev/custom-playback-channel": [
+        "Other"
+    ],
     "rokudev/dolby-audio-sample": [
+        "Other"
+    ],
+    "rokudev/hello-world": [
         "Other"
     ],
     "rokudev/hero-grid-channel": [
         "Other"
     ],
+    "rokudev/instant-resume": [
+        "Other"
+    ],
+    "rokudev/manifestData-sample": [
+        "Other"
+    ],
+    "rokudev/multi-live-channel": [
+        "Other"
+    ],
     "rokudev/samples": [
+        "Other"
+    ],
+    "rokudev/scenegraph-master-sample": [
+        "Other"
+    ],
+    "rokudev/simple-videoplayer-channel": [
         "Other"
     ],
     "rokudev/tv-safe-zone-overlay": [
@@ -17583,6 +17694,9 @@
         "Other"
     ],
     "shobrook/ChatOverflow": [
+        "Other"
+    ],
+    "shobrook/adrenaline": [
         "Other"
     ],
     "shockz-offsec/Automatic-Notion-Backup": [
@@ -20769,6 +20883,9 @@
         "Other"
     ],
     "zeroepoch/plotbitrate": [
+        "Other"
+    ],
+    "zeromicro/go-zero": [
         "Other"
     ],
     "zerozhoujie/watermark-remove": [

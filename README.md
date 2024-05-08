@@ -154,6 +154,7 @@
 * [GPUOpen-LibrariesAndSDKs/ADLX](https://github.com/GPUOpen-LibrariesAndSDKs/ADLX): AMD Device Library eXtra
 * [adminfaces/admin-template](https://github.com/adminfaces/admin-template): JSF responsive admin template based on Bootstrap and AdminLTE 
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 5
+* [shobrook/adrenaline](https://github.com/shobrook/adrenaline): Instant answers to any programming question
 * [basil79/ads-manager](https://github.com/basil79/ads-manager): HTML5 Video Ads Manager based on @dailymotion/vast-client
 * [timdonnelly/Advance](https://github.com/timdonnelly/Advance): Physics-based animations for iOS, tvOS, and macOS.
 * [saurabh7412/Advance-Code-Converter](https://github.com/saurabh7412/Advance-Code-Converter): Experience seamless code conversion and GitHub integration with our advanced tool, leveraging OpenAI. Easily convert and push code to your GitHub repository, streamlining your development process and enhancing collaboration. Boost productivity today!
@@ -265,6 +266,7 @@
 * [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF): The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 * [semperai/amica](https://github.com/semperai/amica): Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 * [pegasusict/AMM](https://github.com/pegasusict/AMM): Audiophiles' Music Manager is a Python3/Laravel8 suite which tries to overcome the shortcomings of most music management programs out there. This project is in it's infancy and I use this as a study project.
+* [amplication/amplication](https://github.com/amplication/amplication): 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 * [gabek/Amplitude-Brightscript](https://github.com/gabek/Amplitude-Brightscript): A Brightscript (Roku) library for submitting analytics to Amplitude
 * [Amplitude-Developer-Docs/amplitude-dev-center](https://github.com/Amplitude-Developer-Docs/amplitude-dev-center): Amplitude's Developer Center docs.
 * [andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip): An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
@@ -657,6 +659,7 @@
 * [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM): A curated list of language modeling researches for code and related datasets.
 * [joho/awesome-code-review](https://github.com/joho/awesome-code-review): An "Awesome" list of code review resources - articles, papers, tools, etc
 * [coder/awesome-code-server](https://github.com/coder/awesome-code-server): Projects, resources, and tutorials that take code-server to the next level
+* [dremeika/awesome-coding-assistants](https://github.com/dremeika/awesome-coding-assistants): Awesome curated list of coding assistants and related resources
 * [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers): For when people get too hyped up about things
 * [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming): :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 * [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers): :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -1156,6 +1159,7 @@
 * [RokuRoad/bright](https://github.com/RokuRoad/bright): Blazing fast parser for BrightScript that gives you ESTree like AST
 * [brightsign/BrightAuthor-Plugins](https://github.com/brightsign/BrightAuthor-Plugins): A repository for custom BrightScript plugins that extend the functionality of BrightAuthor. To retrieve a plugin from GitHub, right-click the Raw link on the plugin page heading and click Save Link As....
 * [brightcove/brightcove-player-sdk-ios](https://github.com/brightcove/brightcove-player-sdk-ios): Brightcove Player SDK for iOS
+* [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript): A superset of Roku's BrightScript language
 * [rokucommunity/brighterscript-formatter](https://github.com/rokucommunity/brighterscript-formatter): A code formatter for BrighterScript (and BrightScript)
 * [pubnub/brightscript](https://github.com/pubnub/brightscript): None
 * [celsoaf/BrightScript-Debugger](https://github.com/celsoaf/BrightScript-Debugger): BrightScript-Debugger
@@ -1185,6 +1189,8 @@
 * [MarkRoddy/brstest](https://github.com/MarkRoddy/brstest): None
 * [georgejecook/brsxmlc](https://github.com/georgejecook/brsxmlc): Brightscript and xml preprocessor, which adds additional language featuers to scenegraph. Currently WIP and under active development
 * [ustwo/brunel](https://github.com/ustwo/brunel): A demonstration of organisation for an app that runs on both iOS and tvOS platforms using a unified code base. ⚠️ No longer maintained ⚠️
+* [rokucommunity/bslib](https://github.com/rokucommunity/bslib): The BrightScript runtime for the BrighterScript language
+* [rokucommunity/bslint](https://github.com/rokucommunity/bslint): A linter for BrightScript and BrighterScript.
 * [sky-uk/bslint](https://github.com/sky-uk/bslint): A linter for the BrightScript language.
 * [tab1293/btdash-packager](https://github.com/tab1293/btdash-packager): Package a video file in to a DASH supported torrent bundle
 * [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
@@ -1430,6 +1436,7 @@
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt): Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
+* [codiga/code-snippets-manager](https://github.com/codiga/code-snippets-manager): Codiga Code Snippets Manager
 * [faisalpinitod/code_converter_AI](https://github.com/faisalpinitod/code_converter_AI): CodeWise is a web-based application designed to provide intelligent code assistance using OpenAI's GPT-3.5 Turbo. This powerful tool aims to simplify coding tasks by offering code conversion, debugging, and quality check features across multiple programming languages. 
 * [Ajitroy01/Code_Genius](https://github.com/Ajitroy01/Code_Genius): Code_Genius empowers developers with code conversion, debugging, and code quality checks, making it easier to work on code in multiple programming languages while ensuring it's error-free and adheres to best practices.
 * [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad
@@ -1623,6 +1630,7 @@
 * [JamieMason/custom-linkedin-cv](https://github.com/JamieMason/custom-linkedin-cv): LinkedIn profile JSON + AngularJS == Custom Résumé
 * [shigeyf/custom-manifest-proxy-webapi](https://github.com/shigeyf/custom-manifest-proxy-webapi): A simple Web API implementation of Custom Manifest for Adaptive Media Streaming
 * [kubernetes-sigs/custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver): Framework for implementing custom metrics support for Kubernetes
+* [rokudev/custom-playback-channel](https://github.com/rokudev/custom-playback-channel): List of content displayed with video continuously playing 
 * [rizinorg/cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin
 * [x1wins/CW-OVP](https://github.com/x1wins/CW-OVP): video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (ruby on rails)
 * [corona-warn-app/cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios): Native iOS app using the exposure notification framework from Apple. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
@@ -1767,6 +1775,7 @@
 * [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift): 📖 Design Patterns implemented in Swift 5.0
 * [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 * [thoughtbot/design-sprint](https://github.com/thoughtbot/design-sprint): Product Design Sprint Material
+* [mostafasadeghi97/design2code](https://github.com/mostafasadeghi97/design2code): Convert any web design screenshot to clean HTML/CSS code
 * [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp): Build a Swift App as a designer
 * [Foreverland/DesignerNewsDemo](https://github.com/Foreverland/DesignerNewsDemo): Sync's Objective-C Designer News Demo
 * [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
@@ -2096,6 +2105,7 @@
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
 * [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin): open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
+* [mailru/easyjson](https://github.com/mailru/easyjson): Fast JSON serializer for golang.
 * [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 * [marcosgriselli/EasyTransitions](https://github.com/marcosgriselli/EasyTransitions): A simple way to create custom interactive UIViewController transitions
 * [gdavila/easyVmaf](https://github.com/gdavila/easyVmaf): Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically
@@ -2569,6 +2579,7 @@
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk): Firebase SDK for Apple App Development
 * [Debjoy/FireCast](https://github.com/Debjoy/FireCast): A video and image casting android app specially made for FireTV casting using Flutter.
+* [FireCoderAI/firecoder](https://github.com/FireCoderAI/firecoder): Firecoder: Your Self-hosted AI Code Assistant
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
 * [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios): Firefox for iOS
 * [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare): Self host your media and share with unique links
@@ -2659,6 +2670,7 @@
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
 * [flutter/flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 * [wewehao/flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt): Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner advertisements, etc.
+* [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box): GPTBox - a third-party GPT Client for OpenAI API on all platforms.
 * [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): ServerBox - server status & toolbox app using Flutter
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
@@ -2982,6 +2994,7 @@
 * [m1k1o/go-transcode](https://github.com/m1k1o/go-transcode): On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
 * [jordicenzano/go-ts-segmenter](https://github.com/jordicenzano/go-ts-segmenter): Live TS segmenter and HLS manifest creation in Go
 * [pulsejet/go-vod](https://github.com/pulsejet/go-vod): Zero-dependency HLS VOD server in go
+* [zeromicro/go-zero](https://github.com/zeromicro/go-zero): A cloud-native Go microservices framework with cli tool for productivity.
 * [alexballas/go2tv](https://github.com/alexballas/go2tv): Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 * [goadesign/goa](https://github.com/goadesign/goa): 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨
 * [giorgisio/goav](https://github.com/giorgisio/goav): Golang bindings for FFmpeg (This repository is no longer maintained)
@@ -3031,6 +3044,8 @@
 * [stockmind/gpd-pocket-screen-indicator](https://github.com/stockmind/gpd-pocket-screen-indicator): Screen and touch rotation helper and indicator for GPD Pocket
 * [stockmind/gpd-pocket-ubuntu-respin](https://github.com/stockmind/gpd-pocket-ubuntu-respin): Collection of scripts and tweaks to adapt Ubuntu and Linux Mint ISO images to let them run smooth on GPD Pocket
 * [jibsaramnim/gpd-pocket2-hackintosh](https://github.com/jibsaramnim/gpd-pocket2-hackintosh): Clover configuration and required/related Kexts to run macOS on your GPD Pocket 2.
+* [kyaukyuai/gpt-all-star](https://github.com/kyaukyuai/gpt-all-star): 🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
+* [kyaukyuai/gpt-all-star-ui](https://github.com/kyaukyuai/gpt-all-star-ui): 🤖 UI for gpt-all-star: https://github.com/kyaukyuai/gpt-all-star
 * [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant): gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 * [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui): An open source implementation of OpenAI's ChatGPT Code interpreter
 * [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -3057,6 +3072,7 @@
 * [BradLarson/GPUImage3](https://github.com/BradLarson/GPUImage3): GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 * [MasayukiSuda/GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android): This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
 * [go-python/gpython](https://github.com/go-python/gpython): gpython is a python interpreter written in go "batteries not included"
+* [99designs/gqlgen](https://github.com/99designs/gqlgen): go generate based graphql server library
 * [kevguy/GracenoteSDKSample](https://github.com/kevguy/GracenoteSDKSample): Sample app of GNSDK built with Android Studio
 * [gradio-app/gradio](https://github.com/gradio-app/gradio): Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -3065,6 +3081,7 @@
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
 * [prometheus/graphite_exporter](https://github.com/prometheus/graphite_exporter): Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
+* [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins. 
 * [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor): 📺 Visual Editor & GraphQL IDE. 
 * [hasura/graphql-engine](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 * [graphql/graphql-playground](https://github.com/graphql/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
@@ -3163,6 +3180,7 @@
 * [ElisaMin/Heizi-Flashing-Tools](https://github.com/ElisaMin/Heizi-Flashing-Tools): GUI Tools developed for adb and fastboot operate eg fastboot boot image. fastboot reboot, adb reboot recovery .........
 * [helloSystem/hello](https://github.com/helloSystem/hello): Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 * [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos): Hello LaunchDarkly for tvOS
+* [rokudev/hello-world](https://github.com/rokudev/hello-world): A basic sample channel application for Roku
 * [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 * [helm/helm](https://github.com/helm/helm): The Kubernetes Package Manager
 * [snapcrafters/helm](https://github.com/snapcrafters/helm): Unofficial Helm installer for Linux
@@ -3446,6 +3464,7 @@
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
 * [ubports/installer-configs](https://github.com/ubports/installer-configs): Install configurations for the UBports Installer
 * [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
+* [rokudev/instant-resume](https://github.com/rokudev/instant-resume): Demonstrates how to implement Instant Resume in a channel
 * [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api): Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 * [instantbox/instantbox](https://github.com/instantbox/instantbox): 📦 Get a clean, ready-to-go Linux box in seconds.
 * [ephread/Instructions](https://github.com/ephread/Instructions): Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
@@ -3575,6 +3594,7 @@
 * [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly): 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System
 * [jellyfin/jellyfin-androidx-media](https://github.com/jellyfin/jellyfin-androidx-media): Prebuilt AndroidX Media3 extension(s) used in the Jellyfin project.
+* [jellyfin/jellyfin-roku](https://github.com/jellyfin/jellyfin-roku): The Official Roku Client for Jellyfin
 * [molnarr2/jEncoder](https://github.com/molnarr2/jEncoder): Java encoder of mp4 files into m3u8 multiple playlist bitrate, mp3, and different types of m3u8 playlists with queing up multiple jobs at one. Pulls from a web site for jobs.
 * [luizmb/Jenkins-Monitor-tvOS](https://github.com/luizmb/Jenkins-Monitor-tvOS): Apple TV Monitor for Jenkins, depends on plugin https://wiki.jenkins-ci.org/display/JENKINS/Build+Monitor+Plugin
 * [dave/jennifer](https://github.com/dave/jennifer): Jennifer is a code generator for Go
@@ -3691,6 +3711,7 @@
 * [Colin-b/keepachangelog](https://github.com/Colin-b/keepachangelog): Convert keep a changelog markdown file into python dict
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
+* [keploy/keploy](https://github.com/keploy/keploy): Test generation for Developers. Generate tests and stubs for your application that actually work!
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
 * [androbility/keydroid](https://github.com/androbility/keydroid): Send keystrokes from the terminal to an Android device.  Requires adb.
 * [kubernetes-for-developers/kfd-celery](https://github.com/kubernetes-for-developers/kfd-celery): example celery worker and deployment specs for Kubernetes for Developers
@@ -3793,7 +3814,7 @@
 * [giovtorres/kvm-install-vm](https://github.com/giovtorres/kvm-install-vm): Bash script to build local virtual machines using KVM/libvirt and cloud-init.
 * [kolyvan/kxmovie](https://github.com/kolyvan/kxmovie): movie player for iOS using ffmpeg
 * [q191201771/lal](https://github.com/q191201771/lal): 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711/OPUS, relay, cluster, record, HTTP Notify/API/UI. 直播
-* [q191201771/lalmax](https://github.com/q191201771/lalmax): lalserver with srt/webrtc/whip/whep/http-fmp4/hls(fmp4)/low latency hls(llhls). 卍解
+* [q191201771/lalmax](https://github.com/q191201771/lalmax): lalserver with srt/webrtc/whip/whep/http-fmp4/hls(fmp4)/low latency hls(llhls)/gb28181. 卍解
 * [Eyevinn/lambda-adxengine-mockup](https://github.com/Eyevinn/lambda-adxengine-mockup): Lambda function for AdxEngine Mockup
 * [Eyevinn/lambda-hls-rewrite](https://github.com/Eyevinn/lambda-hls-rewrite): Lambda function for rewriting HLS manifests
 * [halfo/lambda-mod-zsh-theme](https://github.com/halfo/lambda-mod-zsh-theme): A simple zsh theme.
@@ -3957,6 +3978,7 @@
 * [FormulaMonks/llm-benchmarker-suite](https://github.com/FormulaMonks/llm-benchmarker-suite): LLM Evals Leaderboard
 * [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe): 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
 * [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack): No-code platform to build LLM Agents, workflows and applications with your data
+* [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
@@ -4052,6 +4074,8 @@
 * [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 * [KhaosT/MacVM](https://github.com/KhaosT/MacVM): macOS VM for Apple Silicon using Virtualization API
 * [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro): Painless Mobile UI Automation
+* [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku): None
+* [georgejecook/maestro-roku-sample](https://github.com/georgejecook/maestro-roku-sample): sample applications for maestro-roku, application framework for roku
 * [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout): A collection view layout capable of laying out views in vertically scrolling grids and lists.
 * [HamidrezaAmz/MagicalExoPlayer](https://github.com/HamidrezaAmz/MagicalExoPlayer): The Easiest Way To Play/Stream Video And Audio Using Google ExoPlayer In Your Android Application
 * [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord): Super Awesome Easy Fetching for Core Data!
@@ -4076,6 +4100,7 @@
 * [coreos/manifest](https://github.com/coreos/manifest): repo tool manifest for Container Linux sdk
 * [ingest/manifest](https://github.com/ingest/manifest): Video Manifest Parsers and Generators, supporting multiple formats such as HLS and DASH
 * [mauricioabreu/manifest-modifier](https://github.com/mauricioabreu/manifest-modifier): Video manifest modifier written in Rust
+* [rokudev/manifestData-sample](https://github.com/rokudev/manifestData-sample): None
 * [ggn/manifestmanipulator](https://github.com/ggn/manifestmanipulator): Service which act a proxy between CDN and Manifest and allow you to manipulate same on the fly
 * [gitfu/manifesto](https://github.com/gitfu/manifesto): Manifesto is an HLS tool for creating multiple variants, a master.m3u8 file, and converting 608 captions to segmented webvtt subtitles via ffmpeg.
 * [Eyevinn/manifestparser](https://github.com/Eyevinn/manifestparser): A manifest parser
@@ -4343,6 +4368,7 @@
 * [RonRothman/mtwsgi](https://github.com/RonRothman/mtwsgi): A Multithreaded Python WSGI Implementation
 * [mugiseyebrows/mugi-ffmpeg](https://github.com/mugiseyebrows/mugi-ffmpeg): Gui for ffmpeg to simplify transcoding and embeding audio / subtitles in mkv videos
 * [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer): MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
+* [rokudev/multi-live-channel](https://github.com/rokudev/multi-live-channel): Channel example of live TV in addition to multiple live streams support
 * [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
 * [Palethorn/multibitrate-vod](https://github.com/Palethorn/multibitrate-vod): Python ffmpeg utility
 * [Eyevinn/multichoice](https://github.com/Eyevinn/multichoice): multichoice
@@ -4755,6 +4781,7 @@
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [ErikWittern/openapi-snippet](https://github.com/ErikWittern/openapi-snippet): Generates code snippets for given Swagger / Open API documents
 * [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
+* [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen): NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 * [opencast/opencast](https://github.com/opencast/opencast): The free and open source solution for automated video capture and distribution at scale.
 * [opencast/opencast-docker](https://github.com/opencast/opencast-docker): Dockerfiles for Opencast
 * [imoneoi/openchat](https://github.com/imoneoi/openchat): OpenChat: Advancing Open-source Language Models with Imperfect Data
@@ -4811,6 +4838,7 @@
 * [openshift/origin](https://github.com/openshift/origin): Conformance test suite for OpenShift
 * [stoyanovgeorge/origin_server](https://github.com/stoyanovgeorge/origin_server): A simple script for creating an origin server for storing OTT chunks and manifest files using the HTTP PUT method from a remote OTT transcoder
 * [svt/orm](https://github.com/svt/orm): ORM: Origin Routing Machine
+* [anymaniax/orval](https://github.com/anymaniax/orval): orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 * [rancher/os](https://github.com/rancher/os): Tiny Linux distro that runs the entire OS as Docker containers
 * [RehabMan/OS-X-Voodoo-PS2-Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller): Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad
 * [dkhamsing/osia](https://github.com/dkhamsing/osia): :octocat: iOS app to browse open-source-ios-apps
@@ -5340,11 +5368,13 @@
 * [bordaigorl/remy](https://github.com/bordaigorl/remy): Remy, an online&offline manager for the reMarkable tablet
 * [flexn-io/renative](https://github.com/flexn-io/renative): 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 * [SiaFoundation/renterd](https://github.com/SiaFoundation/renterd): A renter for Sia
+* [reorproject/reor](https://github.com/reorproject/reor): Private & local AI personal knowledge management app.
 * [malcommac/Repeat](https://github.com/malcommac/Repeat): 🕦 Modern Timer in Swift, Debouncer and Throttler (alternative to NSTimer) made with GCD
 * [vimond/replay](https://github.com/vimond/replay): A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 * [mckaywrigley/repo-chat](https://github.com/mckaywrigley/repo-chat): Use AI to ask questions about any GitHub repo.
 * [pop-os/repo-proprietary](https://github.com/pop-os/repo-proprietary): Configuration for building the proprietary repo with debrep
 * [cassava/repoctl](https://github.com/cassava/repoctl): Make it easy to manage your local Arch Linux repository.
+* [FSoft-AI4Code/RepoPilot](https://github.com/FSoft-AI4Code/RepoPilot): Repo-Level Coding Assistant that Can Understand Your Whole Codebase
 * [RepositoryStream/RepositoryStream](https://github.com/RepositoryStream/RepositoryStream): None
 * [thedillonb/RepoStumble](https://github.com/thedillonb/RepoStumble): A mobile application for viewing GitHub repositories in a fashion similar to StumbleUpon
 * [requestly/requestly](https://github.com/requestly/requestly): Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000+ front-end developers and 11,000+ companies worldwide.
@@ -5425,6 +5455,7 @@
 * [bvisin/roku-registryutil](https://github.com/bvisin/roku-registryutil): Simple Roku registry clearing utility
 * [entrez/roku-registryutil](https://github.com/entrez/roku-registryutil): Simple Roku registry clearing utility
 * [bcingle/roku-remote](https://github.com/bcingle/roku-remote): A web app that forwards Roku commands to a Roku device on the server's local network.  Enables control of Roku devices from outside of the local network, specifically for smart home control.
+* [rokucommunity/roku-requests](https://github.com/rokucommunity/roku-requests): Python requests inspired Brightscript Network Library for Roku
 * [jamiemaison/roku-roRunner](https://github.com/jamiemaison/roku-roRunner): Random key press runner for Roku devices
 * [BrightcoveOS/Roku-Sample-App](https://github.com/BrightcoveOS/Roku-Sample-App): Sample application for Roku using Brightcove VideoCloud
 * [rpetersen29/roku-slack-app](https://github.com/rpetersen29/roku-slack-app): Flask API to control a Roku via Slack app
@@ -5450,11 +5481,14 @@
 * [wimpysworld/rolling-rhino](https://github.com/wimpysworld/rolling-rhino): Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
 * [tmspzz/Rome](https://github.com/tmspzz/Rome): Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
 * [georgejecook/rooibos](https://github.com/georgejecook/rooibos): simple, flexible, fun brightscript test framework for roku scenegraph apps
+* [georgejecook/rooibos-cli](https://github.com/georgejecook/rooibos-cli): processor for Roku rooibos projects
+* [georgejecook/rooibos-roku-sample](https://github.com/georgejecook/rooibos-roku-sample): sample application demonstrating how to use rooibos-roku
 * [rook/rook](https://github.com/rook/rook): Storage Orchestration for Kubernetes
 * [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
 * [iRobotEducation/root-robot-ble-protocol](https://github.com/iRobotEducation/root-robot-ble-protocol): Root Robot Bluetooth Low Energy Protocol Documentation
 * [shamlian/root-robot-sdk](https://github.com/shamlian/root-robot-sdk): Python control of Root Robot via BLE
 * [pedroSG94/RootEncoder-iOS](https://github.com/pedroSG94/RootEncoder-iOS): RootEncoder iOS (rtmp-rtsp-stream-client-swift) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP and SRT with all code written in Swift
+* [rokucommunity/ropm](https://github.com/rokucommunity/ropm): A package manager for the Roku platform.
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
 * [tgogos/rpi_ffmpeg](https://github.com/tgogos/rpi_ffmpeg): FFmpeg on Raspberry Pi 3 Model B with h264 support
@@ -5543,6 +5577,7 @@
 * [digitalocean/sample-flask](https://github.com/digitalocean/sample-flask): Sample Flask Application to be deployed on DigitalOcean's App Platform
 * [apple/sample-food-truck](https://github.com/apple/sample-food-truck): SwiftUI sample code from WWDC22
 * [googlearchive/sample-media-pwa](https://github.com/googlearchive/sample-media-pwa): A sample video-on-demand media Progressive Web App
+* [rokucommunity/sample-projects](https://github.com/rokucommunity/sample-projects): A collection of sample projects showing ways you can configure your project with different rokucommunity tools
 * [digitalocean/sample-python](https://github.com/digitalocean/sample-python): ⛵ App Platform sample Python application.
 * [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [flutter/samples](https://github.com/flutter/samples): A collection of Flutter examples and demos
@@ -5573,6 +5608,7 @@
 * [gpchelkin/scdlbot](https://github.com/gpchelkin/scdlbot): Telegram Bot for downloading MP3 rips of tracks/sets from SoundCloud, Bandcamp, YouTube with tags and artwork.
 * [Zeunig/SCDownload](https://github.com/Zeunig/SCDownload): Blazingly fast SoundCloud downloader with metadata, cover art and etc. 🔥
 * [juliomalves/scenegraph-driver](https://github.com/juliomalves/scenegraph-driver): SceneGraph automation library for Roku development.
+* [rokudev/scenegraph-master-sample](https://github.com/rokudev/scenegraph-master-sample): Guides developers through each step in building a basic, high-performance Roku channel that passes certification
 * [slheavner/scenegraph-schema](https://github.com/slheavner/scenegraph-schema): Schema (.xsd) generator for Roku SceneGraph projects
 * [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions): None
 * [luoxiu/Schedule](https://github.com/luoxiu/Schedule): Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer)
@@ -5688,6 +5724,7 @@
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
 * [natelandau/shell-scripting-templates](https://github.com/natelandau/shell-scripting-templates): Shell scripting utility functions and a bash script boilerplate template
 * [DeadNews/shell-scripts](https://github.com/DeadNews/shell-scripts): shell scripts collection, mostly for video/audio/image processing
+* [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 * [sarugaku/shellingham](https://github.com/sarugaku/shellingham): Tool to Detect Surrounding Shell
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
 * [tnfe/shida](https://github.com/tnfe/shida): 《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。
@@ -5717,6 +5754,7 @@
 * [Itiviti/simple-slack-api](https://github.com/Itiviti/simple-slack-api): (simple) Java Slack client library
 * [testdrivenio/simple-task-queue](https://github.com/testdrivenio/simple-task-queue): asynchronous task queues using python's multiprocessing library
 * [rBurgett/simple-uploader](https://github.com/rBurgett/simple-uploader): Simple S3 Uploader
+* [rokudev/simple-videoplayer-channel](https://github.com/rokudev/simple-videoplayer-channel): SimpleVideoPlayer Channel remastered in SceneGraph 
 * [taoes/SimpleDocker](https://github.com/taoes/SimpleDocker): 🐳 🔥 SimpleDocker 是一个简单的Docker控制面板，致力于可以让开发者更方便，更无障碍的使用Docker, 其界面简洁，操作便捷，更多功能欢迎探索 !
 * [simplejson/simplejson](https://github.com/simplejson/simplejson): simplejson is a simple, fast, extensible JSON encoder/decoder for Python 
 * [SimpleSSAI/SimpleSSAI](https://github.com/SimpleSSAI/SimpleSSAI): Simple API-driven Server Side Ad Insertion(SSAI). An easy to use solution for stitching Ads into content to protect ad monitization
@@ -6293,7 +6331,7 @@
 * [PixelCyber/Thor](https://github.com/PixelCyber/Thor): sunset
 * [MingyaoLiu/Threadripper-KVM-guide](https://github.com/MingyaoLiu/Threadripper-KVM-guide): Spec:
 * [steckdenis/threadripper-monitor](https://github.com/steckdenis/threadripper-monitor): CPU usage and power consumption monitor for AMD Threadripper processors
-* [futzu/threefive](https://github.com/futzu/threefive): SCTE-35 Parser and SCTE-35 Decoder and  SCTE-35 Encoder. All hail threefive.
+* [futzu/threefive](https://github.com/futzu/threefive): Using threefive for SCTE-35 is like having a letter from The Pope, and a rocket launcher. Things are going to tend to go your way.
 * [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio): A unified framework for 3D content generation.
 * [erpalma/throttled](https://github.com/erpalma/throttled): Workaround for Intel throttling issues in Linux.
 * [joaomoreno/thyme](https://github.com/joaomoreno/thyme): The task timer for OS X.
@@ -6923,6 +6961,7 @@
 * [lepa22/window-app-switcher-on-active-monitor](https://github.com/lepa22/window-app-switcher-on-active-monitor): GNOME shell extension to improve dual (or more) monitor experience
 * [medenagan/window-corner-preview](https://github.com/medenagan/window-corner-preview): GNOME Shell extension showing a video preview on the corner of the screen
 * [Vityacv/window-list-mod](https://github.com/Vityacv/window-list-mod): None
+* [google/wire](https://github.com/google/wire): Compile-time Dependency Injection for Go
 * [wireapp/wire-ios](https://github.com/wireapp/wire-ios): 📱 Wire for iOS (iPhone and iPad)
 * [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install): WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 * [willowtreeapps/wist](https://github.com/willowtreeapps/wist): A linter for BrightScript
