@@ -14,6 +14,9 @@
     "0xAX/linux-insides": [
         "Other"
     ],
+    "0xW1sKy/Stitch-For-Roku": [
+        "Other"
+    ],
     "0xdevalias/poc-kubernetes-batch": [
         "Other"
     ],
@@ -855,6 +858,9 @@
         "Other"
     ],
     "ColorlibHQ/AdminLTE": [
+        "Other"
+    ],
+    "Comcast/Brightscript-Utilities": [
         "Other"
     ],
     "Comcast/caption-inspector": [
@@ -2090,6 +2096,9 @@
     "HR/github-clone": [
         "Other"
     ],
+    "HVision-NKU/StoryDiffusion": [
+        "Other"
+    ],
     "Hack-with-Github/Awesome-Hacking": [
         "Other"
     ],
@@ -2118,6 +2127,9 @@
         "Other"
     ],
     "HamidrezaAmz/MagicalExoPlayer": [
+        "Other"
+    ],
+    "Hammerspoon/hammerspoon": [
         "Other"
     ],
     "HamzaGhazouani/HGPlaceholders": [
@@ -2562,6 +2574,9 @@
         "Other"
     ],
     "KhronosGroup/Basis-Universal-Transcoders": [
+        "Other"
+    ],
+    "Khurram56/Tiktok-App-Roku": [
         "Other"
     ],
     "Kidsnd274/Av1anStaxRipWrapper": [
@@ -3467,6 +3482,9 @@
     "ProcedureKit/ProcedureKit": [
         "Other"
     ],
+    "PromtEngineer/localGPT": [
+        "Other"
+    ],
     "Protuhj/myvideobuzz": [
         "Other"
     ],
@@ -3755,6 +3773,9 @@
     "SLIB53/srt-broadcaster": [
         "Other"
     ],
+    "SRGSSR/pillarbox-apple": [
+        "Other"
+    ],
     "SRGSSR/srgmediaplayer-apple": [
         "Other"
     ],
@@ -4029,6 +4050,9 @@
         "Other"
     ],
     "StreisandEffect/streisand": [
+        "Other"
+    ],
+    "Studio3/RokuDataDog": [
         "Other"
     ],
     "StyleShare/HLSCachingReverseProxyServer": [
@@ -4680,6 +4704,9 @@
         "Other"
     ],
     "ablwr/media-collection-viewer": [
+        "Other"
+    ],
+    "ably/ably-roku": [
         "Other"
     ],
     "academic/awesome-datascience": [
@@ -6533,6 +6560,9 @@
     "bitcodr/gompeg": [
         "Other"
     ],
+    "bitmovin/bitmovin-analytics-collector-roku": [
+        "Other"
+    ],
     "bitmovin/bitmovin-api-sdk-java": [
         "Other"
     ],
@@ -6735,6 +6765,9 @@
         "Other"
     ],
     "briandunnington/Roact": [
+        "Other"
+    ],
+    "briandunnington/roku-fetch": [
         "Other"
     ],
     "brianwernick/ExoMedia": [
@@ -7040,6 +7073,9 @@
     "cedrickchee/awesome-wireguard": [
         "Other"
     ],
+    "cedriking/spark": [
+        "Other"
+    ],
     "celery/celery": [
         "Other"
     ],
@@ -7194,6 +7230,9 @@
         "Other"
     ],
     "chrislongo/download-hls": [
+        "Other"
+    ],
+    "chrismcleod17/newsday-roku": [
         "Other"
     ],
     "chrissimpkins/Crunch": [
@@ -7845,6 +7884,9 @@
         "Other"
     ],
     "dariubs/GoBooks": [
+        "Other"
+    ],
+    "darknebular/Wrapper_VideoStation": [
         "Other"
     ],
     "darlinghq/darling": [
@@ -8954,6 +8996,9 @@
     "enaqx/awesome-pentest": [
         "Other"
     ],
+    "enaqx/awesome-react": [
+        "Other"
+    ],
     "encode/broadcaster": [
         "Other"
     ],
@@ -9077,6 +9122,9 @@
     "erpalma/throttled": [
         "Other"
     ],
+    "ersps25/RokuBasics-App": [
+        "Other"
+    ],
     "esaygiver/EVPlayer": [
         "Other"
     ],
@@ -9132,6 +9180,9 @@
         "Other"
     ],
     "eugenp/tutorials": [
+        "Other"
+    ],
+    "eumemic/ai-legion": [
         "Other"
     ],
     "everit-org/json-schema": [
@@ -9497,6 +9548,9 @@
     "fifonik/FFMetrics": [
         "Other"
     ],
+    "fikovnik/ShiftIt": [
+        "Other"
+    ],
     "filebrowser/filebrowser": [
         "Other"
     ],
@@ -9731,13 +9785,13 @@
     "futurice/ios-good-practices": [
         "Other"
     ],
-    "futzu/threefive": [
+    "futzu/SCTE-35_HLS_x9k3": [
+        "Other"
+    ],
+    "futzu/SCTE-35_threefive": [
         "Other"
     ],
     "futzu/umzz": [
-        "Other"
-    ],
-    "futzu/x9k3": [
         "Other"
     ],
     "fuzzy08/backpack-python": [
@@ -10029,6 +10083,9 @@
         "Other"
     ],
     "gkozlenko/node-video-lib": [
+        "Other"
+    ],
+    "glanceapp/glance": [
         "Other"
     ],
     "glideapps/quicktype": [
@@ -11321,6 +11378,9 @@
     "jack1590/Roku": [
         "Other"
     ],
+    "jack1590/RokuExample": [
+        "Other"
+    ],
     "jackie1in/jre-ffmpeg-apline": [
         "Other"
     ],
@@ -11495,6 +11555,9 @@
     "jeffknupp/sandman2": [
         "Other"
     ],
+    "jellyfin-archive/jellyfin-roku-original": [
+        "Other"
+    ],
     "jellyfin/jellyfin": [
         "Other"
     ],
@@ -11535,6 +11598,9 @@
         "Other"
     ],
     "jessfraz/s3server": [
+        "Other"
+    ],
+    "jessielw/FFMPEG-Audio-Encoder": [
         "Other"
     ],
     "jet-admin/jet-bridge": [
@@ -11640,9 +11706,6 @@
         "Other"
     ],
     "jliljebl/flowblade": [
-        "Other"
-    ],
-    "jlw4049/FFMPEG-Audio-Encoder": [
         "Other"
     ],
     "jmcantrell/bashful": [
@@ -11952,6 +12015,9 @@
         "Other"
     ],
     "jwplayer/jwplayer-react": [
+        "Other"
+    ],
+    "jwplayer/jwplayer-react-native": [
         "Other"
     ],
     "jwplayer/mpegdash": [
@@ -12890,6 +12956,9 @@
     "lencx/ChatGPT": [
         "Other"
     ],
+    "lencx/GPTHub": [
+        "Other"
+    ],
     "lensapp/lens": [
         "Other"
     ],
@@ -12921,6 +12990,9 @@
         "Other"
     ],
     "lexrus/ios-dev-playbook": [
+        "Other"
+    ],
+    "lgrammel/whisperwriter": [
         "Other"
     ],
     "lheric/GitlHEVCAnalyzer": [
@@ -13335,6 +13407,9 @@
         "Other"
     ],
     "lvcabral/brs-engine": [
+        "Other"
+    ],
+    "lvcabral/brs-fiddle": [
         "Other"
     ],
     "lwitzani/homebridgeStatusWidget": [
@@ -14315,6 +14390,9 @@
     "mnotgod96/AppAgent": [
         "Other"
     ],
+    "mnsrulz/rokuMediaPlayer": [
+        "Other"
+    ],
     "mobile-dev-inc/maestro": [
         "Other"
     ],
@@ -14681,6 +14759,9 @@
     "nanake/ffmpeg-tinderbox": [
         "Other"
     ],
+    "nang-dev/tinderbot": [
+        "Other"
+    ],
     "naomiaro/waveform-playlist": [
         "Other"
     ],
@@ -14718,9 +14799,6 @@
         "Other"
     ],
     "nateraw/stable-diffusion-videos": [
-        "Other"
-    ],
-    "nathan-149/tinderbot": [
         "Other"
     ],
     "nathangitter/fluid-interfaces": [
@@ -14868,6 +14946,9 @@
         "Other"
     ],
     "ngs/ci2go": [
+        "Other"
+    ],
+    "nguyenalison/ConvergeMediaRokuChannel": [
         "Other"
     ],
     "ngviethoang/notiondb": [
@@ -15443,10 +15524,10 @@
     "opendigg/awesome-github-android-ui": [
         "Other"
     ],
-    "openebs-archive/node-disk-manager": [
+    "openebs-archive/maya": [
         "Other"
     ],
-    "openebs/maya": [
+    "openebs-archive/node-disk-manager": [
         "Other"
     ],
     "openfun/marsha": [
@@ -15510,9 +15591,6 @@
         "Other"
     ],
     "orcutt989/kubernetes-swagger-api": [
-        "Other"
-    ],
-    "ordinary-dev/ffmpeg-scripts": [
         "Other"
     ],
     "oreparaz/rshift": [
@@ -15861,6 +15939,9 @@
         "Other"
     ],
     "phavekes/gnome-extension-all-ip-addresses": [
+        "Other"
+    ],
+    "phidatahq/phidata": [
         "Other"
     ],
     "phil-opp/blog_os": [
@@ -16607,6 +16688,9 @@
     "rapiz1/rathole": [
         "Other"
     ],
+    "rasbt/LLMs-from-scratch": [
+        "Other"
+    ],
     "raspu/Highlightr": [
         "Other"
     ],
@@ -16923,6 +17007,9 @@
         "Other"
     ],
     "rokucommunity/roku-deploy": [
+        "Other"
+    ],
+    "rokucommunity/roku-promise": [
         "Other"
     ],
     "rokucommunity/roku-requests": [
@@ -18068,6 +18155,9 @@
     "sobri909/LocoKit": [
         "Other"
     ],
+    "socialvibe/truex-roku-google-ad-manager-reference-app": [
+        "Other"
+    ],
     "socketio/socket.io": [
         "Other"
     ],
@@ -18300,6 +18390,9 @@
         "Other"
     ],
     "srikanth235/benchllama": [
+        "Other"
+    ],
+    "ssaguiar/ArepaTV-Roku": [
         "Other"
     ],
     "sshuttle/sshuttle": [
@@ -18965,6 +19058,9 @@
     "theREDspace/RSG-Doc": [
         "Other"
     ],
+    "theREDspace/Roku-JWTLib": [
+        "Other"
+    ],
     "thebaselab/codeapp": [
         "Other"
     ],
@@ -19205,6 +19301,9 @@
     "tohodog/QSVideoPlayer": [
         "Other"
     ],
+    "tomasrinta116/Roku-S3-VideoPlayer-Channel": [
+        "Other"
+    ],
     "tomcool420/SMFramework": [
         "Other"
     ],
@@ -19263,6 +19362,9 @@
         "Other"
     ],
     "toshi0383/tvOS-10-Sampler": [
+        "Other"
+    ],
+    "tothenew/RokuStarterKit": [
         "Other"
     ],
     "tottokotkd/ffmpeg-tutorial-with-swift": [
@@ -19404,6 +19506,9 @@
         "Other"
     ],
     "tversteeg/emplace": [
+        "Other"
+    ],
+    "twig2let/rokuNavSpike": [
         "Other"
     ],
     "twilio-labs/NgrokExtensions": [
@@ -19649,6 +19754,9 @@
     "vaayne/NotionAI-Plus": [
         "Other"
     ],
+    "vadymbl/roku-custom-video": [
+        "Other"
+    ],
     "vadymmarkov/Malibu": [
         "Other"
     ],
@@ -19820,6 +19928,9 @@
     "video-dev/vtt.js": [
         "Other"
     ],
+    "video-react/video-react": [
+        "Other"
+    ],
     "videoflow/videoflow": [
         "Other"
     ],
@@ -19916,6 +20027,9 @@
     "vinceliuice/Tela-icon-theme": [
         "Other"
     ],
+    "vincelwt/chatgpt-mac": [
+        "Other"
+    ],
     "vincentbernat/video2hls": [
         "Other"
     ],
@@ -19962,6 +20076,9 @@
         "Other"
     ],
     "vivictorg/vivict": [
+        "Other"
+    ],
+    "vixtech/roku-google-analytics-4": [
         "Other"
     ],
     "vk496/linset": [
@@ -20495,6 +20612,9 @@
     "x3525/avsub": [
         "Other"
     ],
+    "xXSentryBotXx/roku-rac-example": [
+        "Other"
+    ],
     "xadlien/ngrok-auto-ssh": [
         "Other"
     ],
@@ -20619,6 +20739,9 @@
         "Other"
     ],
     "xneo1/portainer_templates": [
+        "Other"
+    ],
+    "xoceunder/Netflix": [
         "Other"
     ],
     "xq-120/GSDMediaCache": [
