@@ -737,7 +737,7 @@
 * [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator): Generate awesome list over Github API
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 * [opendigg/awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui): 安卓UI相关开源项目库汇总 
-* [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile READMEs 📝
+* [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
 * [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage): A curated list of awesome Go storage projects and libraries
@@ -3061,7 +3061,7 @@
 * [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
 * [langfordw/GPT-ffmpeg](https://github.com/langfordw/GPT-ffmpeg): None
 * [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
-* [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox): An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+* [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox): An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 * [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer
 * [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer): None
 * [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader): Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
@@ -3491,6 +3491,7 @@
 * [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo): Video Foundation Models & Data for Multimodal Understanding
 * [okikio/inthistweet](https://github.com/okikio/inthistweet): ✨ Futuristic ✨ twitter image, gif and video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 * [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting): Free Introduction to Bash Scripting eBook
+* [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
 * [iobroker-community-adapters/ioBroker.fakeroku](https://github.com/iobroker-community-adapters/ioBroker.fakeroku): ioBroker.fakeroku
 * [dennisreimann/ioctocat](https://github.com/dennisreimann/ioctocat): iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch)
