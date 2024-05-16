@@ -285,10 +285,12 @@
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
 * [iknow4/Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer): Android-Video-Trimmer项目实现了对长短视频进行片段的裁剪选择。使用MediaMetadataRetriever获取视频帧，采用ffmpeg进行视频裁剪，和视频压缩。
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
+* [googlesamples/androidtv-sample-inputs](https://github.com/googlesamples/androidtv-sample-inputs): Sample Channel App (TV Input Service) on Android TV using TIF
 * [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Media3 Exoplayer
 * [EliverLara/Andromeda](https://github.com/EliverLara/Andromeda): :rocket: Dark theme for vscode
 * [albogdano/angular2-para](https://github.com/albogdano/angular2-para): Angular + Para quickstart example
 * [satoshin21/Anima](https://github.com/satoshin21/Anima): Anima is chainable Layer-Based Animation library for Swift5.
+* [haystacknews/animate](https://github.com/haystacknews/animate): animate is a library that allows you to programmatically define SceneGraph animations through a simple configuration object.
 * [AILab-CVC/Animate-A-Story](https://github.com/AILab-CVC/Animate-A-Story): Retrieval-Augmented Video Generation for Telling a Story 
 * [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 * [KelvinJin/AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout): A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
@@ -1028,7 +1030,7 @@
 * [BellAppLab/Backgroundable](https://github.com/BellAppLab/Backgroundable): A collection of handy classes, extensions and global functions to handle being in the background using Swift.
 * [bit-team/backintime](https://github.com/bit-team/backintime): Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 * [fuzzy08/backpack-python](https://github.com/fuzzy08/backpack-python): a program that quickly installs programs to a newly loaded arch OS
-* [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open platform for building developer portals
+* [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open framework for building developer portals
 * [backuppc/backuppc](https://github.com/backuppc/backuppc): BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 * [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 * [yagiz/Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
@@ -1607,6 +1609,7 @@
 * [matmoi/create-DASH-HLS](https://github.com/matmoi/create-DASH-HLS): A tutorial to generate fMp4 files compatible with dash and HLS
 * [int128/create-ecr-repository-action](https://github.com/int128/create-ecr-repository-action): Action to create Amazon ECR or ECR Public repository and put lifecycle policy
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
+* [haystacknews/create-roku-app](https://github.com/haystacknews/create-roku-app): A CLI tool to scaffold modern Roku applications
 * [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app): Rapidly scaffold out a new tauri app project.
 * [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme): A Collection of GitHub Profiles with awesome readme
 * [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm): Cross platform terminal library rust
@@ -2258,6 +2261,7 @@
 * [exaile/exaile](https://github.com/exaile/exaile): :notes: Cross-platform music player
 * [oatpp/example-hls-media-stream](https://github.com/oatpp/example-hls-media-stream): Example project how-to build HLS-streaming server using oat++ Async-API.
 * [muxinc/example-ios-live-streaming](https://github.com/muxinc/example-ios-live-streaming): An example app for live streaming from an iOS device using the Mux live streaming service.
+* [arturocuya/example-roku-stack-navigation](https://github.com/arturocuya/example-roku-stack-navigation): None
 * [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app): Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 * [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications): Examples of WebRTC applications that are large, or use 3rd party libraries
 * [electron-react-boilerplate/examples](https://github.com/electron-react-boilerplate/examples): Electron React Boilerplate Examples
@@ -3165,6 +3169,7 @@
 * [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [mdh34/hackup](https://github.com/mdh34/hackup): Read Hacker News from the desktop
 * [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
+* [arturocuya/haiku](https://github.com/arturocuya/haiku): Haiku is a compiler for Roku applications that allows you do more with less code. The shortest form of code poetry 😌
 * [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift): Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 * [linkedin/Hakawai](https://github.com/linkedin/Hakawai): A powerful, extensible UITextView.
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
@@ -4218,7 +4223,7 @@
 * [MediaArea/MediaInfoLib](https://github.com/MediaArea/MediaInfoLib): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [stackrock/mediamachinejava](https://github.com/stackrock/mediamachinejava): Java SDK for Video Transcoding, Thumbnails extraction & Video Summarization. MediaMachine API lets you convert videos between different web-ready formats - perfect for processing & resizing user-generated videos. Uses machine-learning to select the best frame as thumbnail for videos & creates video summaries similar to NLP for articles.
 * [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx): Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-* [google/mediapipe](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
+* [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 * [Intel-Media-SDK/MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK): The Intel® Media SDK
 * [iliya-gr/mediasegmenter](https://github.com/iliya-gr/mediasegmenter): HLS media segmenter.
 * [demuxed/megameetup.video](https://github.com/demuxed/megameetup.video): None
@@ -4402,6 +4407,7 @@
 * [ethaden/MusicLibraryConverter](https://github.com/ethaden/MusicLibraryConverter): MusicLibraryConverter is a software written in Python 3 for batch converting of a music library containing flac files to mp3. It retains all meta tags and can be used iteratively. It uses multi-threading and is based on ffmpeg (Windows) or avconv (Linux) as conversion backend and mutagenx as tagging library. Note that ffmpeg.exe/avconv must be available and it must be possible to find them via the PATH environment. The Python 3 library mutagenx (https://pypi.python.org/pypi/mutagenx/1.22.1) must be installed.
 * [quodlibet/mutagen](https://github.com/quodlibet/mutagen): Python module for handling audio metadata
 * [katana-project/mux](https://github.com/katana-project/mux): An oversimplified media muxing/demuxing/transcoding library for Go.
+* [muxinc/mux-player-android](https://github.com/muxinc/mux-player-android): None
 * [muxinc/mux-player-swift](https://github.com/muxinc/mux-player-swift): Use Mux Player Swift to stream and monitor video from Mux with AVKit and AVFoundation
 * [muxinc/mux-stats-sdk-avplayer](https://github.com/muxinc/mux-stats-sdk-avplayer): Mux integration with `AVPlayer` for iOS Native Applications
 * [muxinc/mux-stats-sdk-exoplayer](https://github.com/muxinc/mux-stats-sdk-exoplayer): Monitors an ExoPlayer instance and reports player analytics to Mux Data
@@ -4946,7 +4952,7 @@
 * [pgrok/pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 * [ariya/phantomjs](https://github.com/ariya/phantomjs): Scriptable Headless Browser
 * [phaserjs/phaser](https://github.com/phaserjs/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-* [phidatahq/phidata](https://github.com/phidatahq/phidata): Memory, knowledge and tools for LLMs
+* [phidatahq/phidata](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools.
 * [philcluff/phils-players](https://github.com/philcluff/phils-players): A collection of video players with vaguely simple GUIs for video engineers.
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh): Manjaro Phosh
@@ -5328,6 +5334,7 @@
 * [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 * [napthedev/react-tuby](https://github.com/napthedev/react-tuby): A React video player library with YouTube-like UI
 * [raphamorim/react-tv](https://github.com/raphamorim/react-tv): [ Unmaintained due to raphamorim/react-ape ] React Renderer for low memory applications
+* [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React video player component for TV devices, with customisable buttons and arrow-key navigation. It can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
 * [PhiloInc/ReactBS](https://github.com/PhiloInc/ReactBS): React-like framework for Roku
 * [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa): Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
@@ -5612,6 +5619,7 @@
 * [googlearchive/sample-media-pwa](https://github.com/googlearchive/sample-media-pwa): A sample video-on-demand media Progressive Web App
 * [rokucommunity/sample-projects](https://github.com/rokucommunity/sample-projects): A collection of sample projects showing ways you can configure your project with different rokucommunity tools
 * [digitalocean/sample-python](https://github.com/digitalocean/sample-python): ⛵ App Platform sample Python application.
+* [arturocuya/sample-setup-ga4-in-roku](https://github.com/arturocuya/sample-setup-ga4-in-roku): Check the full details in this blogpost: https://arturocuya.com/posts/using-ga4-in-roku
 * [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [flutter/samples](https://github.com/flutter/samples): A collection of Flutter examples and demos
 * [rokudev/samples](https://github.com/rokudev/samples): Collection of sample channels for side-loading on your Roku device
@@ -5670,7 +5678,7 @@
 * [justeat/ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController): A view controller that uses root views of child view controllers as views in a UIStackView.
 * [jamesfining/scte](https://github.com/jamesfining/scte): Python library to work with SCTE standards.
 * [futzu/SCTE-35_HLS_x9k3](https://github.com/futzu/SCTE-35_HLS_x9k3): HLS and SCTE-35   x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
-* [futzu/SCTE-35_threefive](https://github.com/futzu/SCTE-35_threefive): #1 Super Happy Funtime SCTE-35! SCTE-35 Parser. SCTE-35 Decoder. SCTE-35 Encoder.  The Best SCTE-35 Parser. Adrian is Super Cool.
+* [futzu/SCTE-35_threefive](https://github.com/futzu/SCTE-35_threefive):  SCTE-35 Parser. SCTE-35 Decoder. SCTE-35 Encoder.  The Best SCTE-35 Parser. Adrian is Super Cool.
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
@@ -5734,6 +5742,7 @@
 * [Showmax/sffmpeg](https://github.com/Showmax/sffmpeg): Full-featured static FFmpeg build helper
 * [pyke369/sffmpeg](https://github.com/pyke369/sffmpeg): full-featured static ffmpeg build helper
 * [drakkan/sftpgo](https://github.com/drakkan/sftpgo): Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+* [haystacknews/sg-flex](https://github.com/haystacknews/sg-flex): A Flexbox component for Roku's SceneGraph
 * [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer): A powerful media play framework for iOS, macOS, and tvOS.
 * [shaarli/Shaarli](https://github.com/shaarli/Shaarli): The personal, minimalist, super-fast, database free, bookmarking service - community repo
 * [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS): Removed according to regulations.
@@ -6773,6 +6782,7 @@
 * [videojs/videojs-contrib-quality-levels](https://github.com/videojs/videojs-contrib-quality-levels): None
 * [chrisboustead/videojs-hls-quality-selector](https://github.com/chrisboustead/videojs-hls-quality-selector): Adds a quality selector menu for HLS sources played in videojs.  Requires `videojs-contrib-quality-levels` plugin.
 * [jfujita/videojs-http-source-selector](https://github.com/jfujita/videojs-http-source-selector): VideoJS plugin that leverages videojs-contrib-quality-levels plugin to offer manual user-select able level selection options for adaptive http streams.
+* [videojs/videojs-overlay](https://github.com/videojs/videojs-overlay): A video.js plugin to display simple overlays during playback.
 * [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist): Playlist plugin for videojs
 * [videojs/videojs-playlist-ui](https://github.com/videojs/videojs-playlist-ui): A playlist video picker for video.js
 * [silvermine/videojs-quality-selector](https://github.com/silvermine/videojs-quality-selector): None

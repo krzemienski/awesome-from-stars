@@ -5846,6 +5846,15 @@
     "artsy/mobile": [
         "Other"
     ],
+    "arturocuya/example-roku-stack-navigation": [
+        "Other"
+    ],
+    "arturocuya/haiku": [
+        "Other"
+    ],
+    "arturocuya/sample-setup-ga4-in-roku": [
+        "Other"
+    ],
     "arturparkhisenko/install-dotfiles-etc": [
         "Other"
     ],
@@ -10211,6 +10220,9 @@
     "goniszewski/grimoire": [
         "Other"
     ],
+    "google-ai-edge/mediapipe": [
+        "Other"
+    ],
     "google-research-datasets/Objectron": [
         "Other"
     ],
@@ -10259,9 +10271,6 @@
     "google/ktsan": [
         "Other"
     ],
-    "google/mediapipe": [
-        "Other"
-    ],
     "google/promises": [
         "Other"
     ],
@@ -10305,6 +10314,9 @@
         "Other"
     ],
     "googlesamples/android-media-controller": [
+        "Other"
+    ],
+    "googlesamples/androidtv-sample-inputs": [
         "Other"
     ],
     "gopavasanth/video-cut-tool": [
@@ -10647,6 +10659,15 @@
         "Other"
     ],
     "hauxir/rapidbay": [
+        "Other"
+    ],
+    "haystacknews/animate": [
+        "Other"
+    ],
+    "haystacknews/create-roku-app": [
+        "Other"
+    ],
+    "haystacknews/sg-flex": [
         "Other"
     ],
     "hboisgibault/unicontent": [
@@ -12986,6 +13007,9 @@
     "lewagon/dotfiles": [
         "Other"
     ],
+    "lewhunt/react-tv-player": [
+        "Other"
+    ],
     "lexmakali/CloudTranscode": [
         "Other"
     ],
@@ -14664,6 +14688,9 @@
         "Other"
     ],
     "muxinc/hlstools": [
+        "Other"
+    ],
+    "muxinc/mux-player-android": [
         "Other"
     ],
     "muxinc/mux-player-swift": [
@@ -19974,6 +20001,9 @@
         "Other"
     ],
     "videojs/videojs-contrib-quality-levels": [
+        "Other"
+    ],
+    "videojs/videojs-overlay": [
         "Other"
     ],
     "videojs/videojs-playlist": [
