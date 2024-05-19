@@ -218,6 +218,9 @@
     "AgentOak/docker-livestreaming": [
         "Other"
     ],
+    "Agenta-AI/agenta": [
+        "Other"
+    ],
     "AgoraIO-Extensions/Electron-SDK": [
         "Other"
     ],
@@ -4487,9 +4490,6 @@
     "WowzaMediaSystems/webrtc-examples": [
         "Other"
     ],
-    "WritingMinds/ffmpeg-android-java": [
-        "Other"
-    ],
     "WyattBlue/auto-editor": [
         "Other"
     ],
@@ -4797,6 +4797,9 @@
         "Other"
     ],
     "adghayes/serverless-ffmpeg": [
+        "Other"
+    ],
+    "adheus/roku-cli": [
         "Other"
     ],
     "adhorn/logtoes": [
@@ -7670,6 +7673,9 @@
     "crelies/FireTVKit": [
         "Other"
     ],
+    "cropsly/ffmpeg-android-java": [
+        "Other"
+    ],
     "crossoverJie/JCSprout": [
         "Other"
     ],
@@ -8852,6 +8858,9 @@
     "eibol/ffmpeg_batch": [
         "Other"
     ],
+    "eingress/docker-compose-traefik-letsencrypt-cloudflare": [
+        "Other"
+    ],
     "eisneim/cytron_tts_gui": [
         "Other"
     ],
@@ -9734,9 +9743,6 @@
     "fraunhoferhhi/vvenc": [
         "Other"
     ],
-    "freelance888/ephyr": [
-        "Other"
-    ],
     "frenck/awesome-home-assistant": [
         "Other"
     ],
@@ -10313,6 +10319,9 @@
     "googlecast/CastVideos-chrome": [
         "Other"
     ],
+    "googlecast/CastVideos-ios": [
+        "Other"
+    ],
     "googlesamples/android-media-controller": [
         "Other"
     ],
@@ -10694,6 +10703,9 @@
     "heff/chg": [
         "Other"
     ],
+    "hegelai/prompttools": [
+        "Other"
+    ],
     "heineiuo/hlsdl": [
         "Other"
     ],
@@ -10830,6 +10842,9 @@
         "Other"
     ],
     "htpcBeginner/AtoMiC-ToolKit-Docker": [
+        "Other"
+    ],
+    "htpcBeginner/auto-traefik": [
         "Other"
     ],
     "htpcBeginner/docker-traefik": [
@@ -13226,6 +13241,9 @@
     "lkzhao/YetAnotherAnimationLibrary": [
         "Other"
     ],
+    "llamasoft/RootMyRoku": [
+        "Other"
+    ],
     "lllyasviel/ControlNet": [
         "Other"
     ],
@@ -14319,6 +14337,9 @@
         "Other"
     ],
     "mislav/hub": [
+        "Other"
+    ],
+    "missingstudio/gateway": [
         "Other"
     ],
     "mistralai/mistral-src": [
@@ -16670,10 +16691,10 @@
     "ramnes/notion-sdk-py": [
         "Other"
     ],
-    "ramonus/flask-video-stream": [
+    "ramon-victor/freegpt-webui": [
         "Other"
     ],
-    "ramonvc/freegpt-webui": [
+    "ramonus/flask-video-stream": [
         "Other"
     ],
     "rancher-sandbox/rancher-desktop": [
@@ -17360,6 +17381,9 @@
     "saki4510t/AudioVideoRecordingSample": [
         "Other"
     ],
+    "salesforce/CodeGen": [
+        "Other"
+    ],
     "salimhamed/dashboard": [
         "Other"
     ],
@@ -17718,6 +17742,9 @@
         "Other"
     ],
     "shadowsocks/shadowsocks-qt5": [
+        "Other"
+    ],
+    "shahednasser/awesome-resources": [
         "Other"
     ],
     "shahraizali/awesome-django": [
