@@ -926,6 +926,9 @@
     "CorentinJ/Real-Time-Voice-Cloning": [
         "Other"
     ],
+    "CorentinTh/it-tools": [
+        "Other"
+    ],
     "Cormanz/smartgpt": [
         "Other"
     ],
@@ -1269,6 +1272,9 @@
         "Other"
     ],
     "Eeems-Org/oxide": [
+        "Other"
+    ],
+    "Efficient-Large-Model/VILA": [
         "Other"
     ],
     "Eitol/ngrok-linux-service": [
@@ -3233,6 +3239,9 @@
     "NorakGithub/django-docker-alpine": [
         "Other"
     ],
+    "NotionX/react-notion-x": [
+        "Other"
+    ],
     "Nova1545/gnome-shell-extension-customreboot": [
         "Other"
     ],
@@ -3761,6 +3770,9 @@
     "RxLaboratory/DuME": [
         "Other"
     ],
+    "Rxm0n/freegpt-webui": [
+        "Other"
+    ],
     "RyanMilligan/BrightScriptTools": [
         "Other"
     ],
@@ -4142,7 +4154,7 @@
     "TabbyML/tabby": [
         "Other"
     ],
-    "Taiko2k/TauonMusicBox": [
+    "Taiko2k/Tauon": [
         "Other"
     ],
     "TakuSemba/go-hls-hosting": [
@@ -5618,6 +5630,39 @@
     "app-developers/top": [
         "Other"
     ],
+    "app-generator/admin-dashboards": [
+        "Other"
+    ],
+    "app-generator/app-generator": [
+        "Other"
+    ],
+    "app-generator/django-admin-coreui": [
+        "Other"
+    ],
+    "app-generator/django-adminlte": [
+        "Other"
+    ],
+    "app-generator/django-atlantis-dark": [
+        "Other"
+    ],
+    "app-generator/django-black-dashboard": [
+        "Other"
+    ],
+    "app-generator/django-dashboards": [
+        "Other"
+    ],
+    "app-generator/django-material-dashboard": [
+        "Other"
+    ],
+    "app-generator/django-react-soft-dashboard": [
+        "Other"
+    ],
+    "app-generator/django-soft-ui-dashboard": [
+        "Other"
+    ],
+    "app-generator/django-volt-dashboard": [
+        "Other"
+    ],
     "app-generator/flask-argon-dashboard": [
         "Other"
     ],
@@ -5625,6 +5670,15 @@
         "Other"
     ],
     "app-generator/flask-material-dashboard": [
+        "Other"
+    ],
+    "app-generator/flask-material-kit": [
+        "Other"
+    ],
+    "app-generator/flask-volt-dashboard": [
+        "Other"
+    ],
+    "app-generator/rocket-django": [
         "Other"
     ],
     "appcoda/GCDSamples": [
@@ -6248,6 +6302,9 @@
     "azimjohn/jprq": [
         "Other"
     ],
+    "azukaar/Cosmos-Server": [
+        "Other"
+    ],
     "b3log/symphony": [
         "Other"
     ],
@@ -6672,6 +6729,9 @@
         "Other"
     ],
     "bluenviron/mediamtx": [
+        "Other"
+    ],
+    "bmaltais/kohya_ss": [
         "Other"
     ],
     "bman46/M3U-List-Checker": [
@@ -8199,6 +8259,9 @@
         "Other"
     ],
     "design-first/system-designer-electron": [
+        "Other"
+    ],
+    "designedbyclu/awesome-notion-api": [
         "Other"
     ],
     "desireevl/awesome-quantum-computing": [
@@ -9732,6 +9795,9 @@
         "Other"
     ],
     "franglais125/no-title-bar": [
+        "Other"
+    ],
+    "frankcbliu/awesome-nextjs-notion-blog": [
         "Other"
     ],
     "frankyw/home-server": [
@@ -11858,9 +11924,6 @@
     "jonmosco/kube-ps1": [
         "Other"
     ],
-    "jordanmerrick/shortcutsdirectory": [
-        "Other"
-    ],
     "jordicenzano/go-ts-segmenter": [
         "Other"
     ],
@@ -12219,12 +12282,6 @@
         "Other"
     ],
     "kassoulet/soundconverter": [
-        "Other"
-    ],
-    "katana-project/ffmpeg": [
-        "Other"
-    ],
-    "katana-project/mux": [
         "Other"
     ],
     "kathhess/notion-utils": [
@@ -12588,6 +12645,12 @@
         "Other"
     ],
     "krzemienski/awesome-from-stars": [
+        "Other"
+    ],
+    "krzemienski/awesome-list-manager": [
+        "Other"
+    ],
+    "krzemienski/awesome-list-site-generator": [
         "Other"
     ],
     "krzemienski/awesome-streaming-ui": [
@@ -14342,7 +14405,7 @@
     "missingstudio/gateway": [
         "Other"
     ],
-    "mistralai/mistral-src": [
+    "mistralai/mistral-inference": [
         "Other"
     ],
     "mitio/useful-ffmpeg-commands": [
@@ -14433,6 +14496,9 @@
         "Other"
     ],
     "mngsk/device-detector": [
+        "Other"
+    ],
+    "mnismt/awesome-notion-site": [
         "Other"
     ],
     "mnotgod96/AppAgent": [
@@ -16691,9 +16757,6 @@
     "ramnes/notion-sdk-py": [
         "Other"
     ],
-    "ramon-victor/freegpt-webui": [
-        "Other"
-    ],
     "ramonus/flask-video-stream": [
         "Other"
     ],
@@ -18854,9 +18917,6 @@
     "system76/thelio": [
         "Other"
     ],
-    "systematicat/hack-captive-portals": [
-        "Other"
-    ],
     "sysulq/httpmq": [
         "Other"
     ],
@@ -19052,10 +19112,10 @@
     "terraform-aws-modules/terraform-aws-eks": [
         "Other"
     ],
-    "terry-r123/Awesome-Captioning": [
+    "terricain/aioboto3": [
         "Other"
     ],
-    "terrycain/aioboto3": [
+    "terry-r123/Awesome-Captioning": [
         "Other"
     ],
     "testdrivenio/cookiecutter-flask-skeleton": [
@@ -20945,6 +21005,9 @@
     "younatics/MotionBook": [
         "Other"
     ],
+    "younho9/awesome-reading-list": [
+        "Other"
+    ],
     "yozepi/rokuservice": [
         "Other"
     ],
@@ -20966,7 +21029,7 @@
     "yuanqing/vdx": [
         "Other"
     ],
-    "yuanxiaosc/DeepNude-an-Image-to-Image-technology": [
+    "yuanxiaosc/DeepImage-an-Image-to-Image-technology": [
         "Other"
     ],
     "yuhuili-lab/Tide": [
