@@ -1682,6 +1682,7 @@
 * [hardpixel/dark-variant](https://github.com/hardpixel/dark-variant): GNOME Shell extension to apply dark window decorations.
 * [Rokin05/darkine-kde](https://github.com/Rokin05/darkine-kde): Darkine KDE - Theme for KDE Plasma 5 desktop > Mirror of https://git.rokin.in/Rokin/darkine-kde
 * [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
+* [3052/dash](https://github.com/3052/dash): MPD
 * [DarraghConnaughton/DASH](https://github.com/DarraghConnaughton/DASH): Leverage ffplay and ffmpeg to implement local DASH server.
 * [Dash-Industry-Forum/DASH](https://github.com/Dash-Industry-Forum/DASH): None
 * [djvergad/dash](https://github.com/djvergad/dash): An MPEG/DASH client-server module for simulating rate adaptation mechanisms over HTTP/TCP.
@@ -2069,7 +2070,7 @@
 * [semanser/dotfiles](https://github.com/semanser/dotfiles): Alacritty + Tmux + Oh My Zsh + Neovim = ❤️
 * [theowenyoung/dotfiles](https://github.com/theowenyoung/dotfiles): dotfiles, init scripts, common scripts
 * [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
-* [yutkat/dotfiles](https://github.com/yutkat/dotfiles): The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: hyprland/sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+* [yutkat/dotfiles](https://github.com/yutkat/dotfiles): The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 * [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro): My personal dotfiles (how do these have so many stars?)
 * [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public): My personal dotfiles
 * [anishathalye/dotfiles_template](https://github.com/anishathalye/dotfiles_template): A template for structuring dotfiles (using Dotbot as an installer) 📜
@@ -2229,7 +2230,6 @@
 * [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI): EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 * [kennell/encodeplz](https://github.com/kennell/encodeplz): video transcoding server with a HTTP-based RESTful API
 * [ystv/EncodeSrv](https://github.com/ystv/EncodeSrv): A database-driven ffmpeg based batch video transcoder, used to automate YSTV video distribution
-* [3052/encoding](https://github.com/3052/encoding): None
 * [Xaymar/encoding-samples](https://github.com/Xaymar/encoding-samples): An attempt at an automated tool for finding the best possible media quality an encoder and codec can give.
 * [AcademySoftwareFoundation/EncodingGuidelines](https://github.com/AcademySoftwareFoundation/EncodingGuidelines): This site provides guidelines for encoding frames to movie files for review.
 * [svt/encore](https://github.com/svt/encore): Transcode media files in an epic manner
@@ -4315,7 +4315,7 @@
 * [Synopsis/ml-ffmpeg-docker](https://github.com/Synopsis/ml-ffmpeg-docker): Machine Learning / FFMPEG NVEnc Docker builds
 * [apple/ml-mgie](https://github.com/apple/ml-mgie): None
 * [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion): Stable Diffusion with Core ML on Apple Silicon
-* [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+* [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm): Universal LLM Deployment Engine with ML Compilation
 * [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder): Find memory leaks in your iOS app at develop time.
 * [mltframework/mlt](https://github.com/mltframework/mlt): MLT Multimedia Framework
 * [ml-explore/mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
@@ -4772,8 +4772,8 @@
 * [openbroadcaster/observer](https://github.com/openbroadcaster/observer):  :radio: OBServer Automation, Scheduler, Media Library and Player Manager
 * [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides): Create markdown-based reveal.js presentations in Obsidian
 * [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin): Allow you to access your calibre libraries and read books directly in Obsidian.
+* [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe): Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 * [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin): A plugin to edit and view Excalidraw drawings in Obsidian
-* [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher): Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 * [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer): Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 * [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban): Create markdown-backed Kanban boards in Obsidian.
 * [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr): Effortlessly save and organize your web links in Obsidian
@@ -4963,7 +4963,7 @@
 * [penpot/penpot](https://github.com/penpot/penpot): Penpot: The open-source design tool for design and code collaboration
 * [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools): A collection of custom security tools for quick needs.
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): articles
-* [antoinehng/per-title-analysis](https://github.com/antoinehng/per-title-analysis): Analysis provider for adapting your OTT bitrate ladder
+* [encoding-ninja/per-title-analysis](https://github.com/encoding-ninja/per-title-analysis): Analysis provider for adapting your OTT bitrate ladder
 * [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect): Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
 * [mikeroyal/Perfect-Ubuntu-Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide): Ubuntu Guide. Learn about getting your Ubuntu Desktop/Server ready for development. Including Ubuntu Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps. 
 * [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit): Universal API for request permission and get its statuses.
@@ -5022,7 +5022,7 @@
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
 * [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher): Pixel™ phone flashing GUI utility with features.
 * [GottaYotta/PixelSDK](https://github.com/GottaYotta/PixelSDK): The modern photo and video editor for your iPhone / iPad app. A fully customizable image & video editing iOS Swift framework.
-* [antoinehng/pixelwalker](https://github.com/antoinehng/pixelwalker): Video encoding quality assessment platform
+* [encoding-ninja/pixelwalker](https://github.com/encoding-ninja/pixelwalker): Video encoding quality assessment platform
 * [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability
 * [AppImageCommunity/pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage): Tool and recipes to convert existing deb packages to AppImage 
 * [anatol/pkgoutofdate](https://github.com/anatol/pkgoutofdate): Checks ArchLinux packages repository for upstream updates
@@ -5361,7 +5361,7 @@
 * [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 * [napthedev/react-tuby](https://github.com/napthedev/react-tuby): A React video player library with YouTube-like UI
 * [raphamorim/react-tv](https://github.com/raphamorim/react-tv): [ Unmaintained due to raphamorim/react-ape ] React Renderer for low memory applications
-* [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React video player component for TV devices, with customisable buttons and arrow-key navigation. It can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
+* [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React media player for TV devices, with customisable buttons and arrow-key navigation. The component can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
 * [PhiloInc/ReactBS](https://github.com/PhiloInc/ReactBS): React-like framework for Roku
 * [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa): Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
@@ -6645,7 +6645,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.

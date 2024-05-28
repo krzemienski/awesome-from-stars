@@ -47,7 +47,7 @@
     "2gis/k8s-handle": [
         "Other"
     ],
-    "3052/encoding": [
+    "3052/dash": [
         "Other"
     ],
     "3052/widevine": [
@@ -1320,6 +1320,9 @@
         "Other"
     ],
     "Entware/Entware": [
+        "Other"
+    ],
+    "Enveloppe/obsidian-enveloppe": [
         "Other"
     ],
     "Eomm/notion-board": [
@@ -3273,9 +3276,6 @@
         "Other"
     ],
     "OT-CONTAINER-KIT/redis-operator": [
-        "Other"
-    ],
-    "ObsidianPublisher/obsidian-github-publisher": [
         "Other"
     ],
     "OlafenwaMoses/ImageAI": [
@@ -5454,12 +5454,6 @@
         "Other"
     ],
     "antoinehng/cpix_tools": [
-        "Other"
-    ],
-    "antoinehng/per-title-analysis": [
-        "Other"
-    ],
-    "antoinehng/pixelwalker": [
         "Other"
     ],
     "antoniocasero/Arrows": [
@@ -9099,6 +9093,12 @@
         "Other"
     ],
     "encode/uvicorn": [
+        "Other"
+    ],
+    "encoding-ninja/per-title-analysis": [
+        "Other"
+    ],
+    "encoding-ninja/pixelwalker": [
         "Other"
     ],
     "eneim/kohii": [
