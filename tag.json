@@ -1181,9 +1181,6 @@
     "DisplayLink/evdi": [
         "Other"
     ],
-    "DivineEngine/Profiles": [
-        "Other"
-    ],
     "Divxeas/Netflix-videos-downloader1": [
         "Other"
     ],
@@ -3662,7 +3659,7 @@
     "ReactiveX/RxSwift": [
         "Other"
     ],
-    "RealChuan/Qt-Ffmpeg": [
+    "RealChuan/Qt-Media": [
         "Other"
     ],
     "RealOrangeOne/dotfiles": [
@@ -3768,9 +3765,6 @@
         "Other"
     ],
     "RxLaboratory/DuME": [
-        "Other"
-    ],
-    "Rxm0n/freegpt-webui": [
         "Other"
     ],
     "RyanMilligan/BrightScriptTools": [
@@ -7904,6 +7898,9 @@
     "danielgtaylor/qtfaststart": [
         "Other"
     ],
+    "danielmiessler/fabric": [
+        "Other"
+    ],
     "danielsaidi/Sheeeeeeeeet": [
         "Other"
     ],
@@ -8154,9 +8151,6 @@
         "Other"
     ],
     "deepjyoti30/ytmdl": [
-        "Other"
-    ],
-    "deepmap/oapi-codegen": [
         "Other"
     ],
     "deepseek-ai/DeepSeek-Coder": [
@@ -11393,6 +11387,9 @@
     "ironsalsa/alpine-node-video-multitool": [
         "Other"
     ],
+    "isDipesh/gnome-shell-extension-sensors": [
+        "Other"
+    ],
     "isaacbernat/netflix-to-srt": [
         "Other"
     ],
@@ -11408,10 +11405,10 @@
     "ishantanu/awesome-kubectl-plugins": [
         "Other"
     ],
-    "ishgunacar/gitsidian": [
+    "ishkawa/DataSourceKit": [
         "Other"
     ],
-    "ishkawa/DataSourceKit": [
+    "ismailgunacar/gitsidian": [
         "Other"
     ],
     "istepanov/docker-backup-to-s3": [
@@ -12221,6 +12218,9 @@
     "kamranahmedse/githunt": [
         "Other"
     ],
+    "kangeek/infra-docker-compose": [
+        "Other"
+    ],
     "kanishka-linux/kawaii-player": [
         "Other"
     ],
@@ -12884,6 +12884,9 @@
     "kuu/hls-parser": [
         "Other"
     ],
+    "kvonrussell/Roku-S3-VideoPlayer-Channel": [
+        "Other"
+    ],
     "kwodzicki/video_utils": [
         "Other"
     ],
@@ -13088,9 +13091,6 @@
     "lewhunt/react-tv-player": [
         "Other"
     ],
-    "lexmakali/CloudTranscode": [
-        "Other"
-    ],
     "lexrus/RegExPlus": [
         "Other"
     ],
@@ -13272,9 +13272,6 @@
         "Other"
     ],
     "liujingxing/rxhttp": [
-        "Other"
-    ],
-    "liukango/infra-docker-compose": [
         "Other"
     ],
     "liuyishengalan/ThinkPad-P52-Hackintosh": [
@@ -14753,6 +14750,9 @@
     "munagekar/vidsleuth": [
         "Other"
     ],
+    "mutablealligator/CloudTranscode": [
+        "Other"
+    ],
     "mutablelogic/go-media": [
         "Other"
     ],
@@ -15402,6 +15402,9 @@
         "Other"
     ],
     "oae/gnome-shell-pano": [
+        "Other"
+    ],
+    "oapi-codegen/oapi-codegen": [
         "Other"
     ],
     "oatpp/example-hls-media-stream": [
@@ -16730,9 +16733,6 @@
     "raisoblast/bottle-pgsql": [
         "Other"
     ],
-    "rajshekhar26/dotfiles": [
-        "Other"
-    ],
     "rakam-io/rakam-api": [
         "Other"
     ],
@@ -16755,6 +16755,9 @@
         "Other"
     ],
     "ramnes/notion-sdk-py": [
+        "Other"
+    ],
+    "ramon-victor/freegpt-webui": [
         "Other"
     ],
     "ramonus/flask-video-stream": [
@@ -17046,6 +17049,9 @@
         "Other"
     ],
     "rjmacarthy/twinny": [
+        "Other"
+    ],
+    "rjshkhr/dotfiles": [
         "Other"
     ],
     "rkoshak/sensorReporter": [
@@ -19418,9 +19424,6 @@
     "tohodog/QSVideoPlayer": [
         "Other"
     ],
-    "tomasrinta116/Roku-S3-VideoPlayer-Channel": [
-        "Other"
-    ],
     "tomcool420/SMFramework": [
         "Other"
     ],
@@ -20883,9 +20886,6 @@
         "Other"
     ],
     "xtne6f/tsmemseg": [
-        "Other"
-    ],
-    "xtranophilist/gnome-shell-extension-sensors": [
         "Other"
     ],
     "xuancong84/indicator-cpufreq": [
