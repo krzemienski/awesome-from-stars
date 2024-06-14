@@ -5342,6 +5342,18 @@
     "analyserdmz/ffmpeg-multi-threaded-convert": [
         "Other"
     ],
+    "anandslab/AtoMiC-ToolKit": [
+        "Other"
+    ],
+    "anandslab/AtoMiC-ToolKit-Docker": [
+        "Other"
+    ],
+    "anandslab/auto-traefik": [
+        "Other"
+    ],
+    "anandslab/docker-traefik": [
+        "Other"
+    ],
     "anantn/glendix": [
         "Other"
     ],
@@ -10899,18 +10911,6 @@
         "Other"
     ],
     "hslatman/awesome-threat-intelligence": [
-        "Other"
-    ],
-    "htpcBeginner/AtoMiC-ToolKit": [
-        "Other"
-    ],
-    "htpcBeginner/AtoMiC-ToolKit-Docker": [
-        "Other"
-    ],
-    "htpcBeginner/auto-traefik": [
-        "Other"
-    ],
-    "htpcBeginner/docker-traefik": [
         "Other"
     ],
     "htr-tech/zphisher": [

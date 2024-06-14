@@ -468,8 +468,8 @@
 * [facebookarchive/atom-ide-ui](https://github.com/facebookarchive/atom-ide-ui): A collection of user interfaces for Atom IDE.
 * [cwright017/atom-language-brightscript](https://github.com/cwright017/atom-language-brightscript): Brightscript language package for Atom
 * [atom/atom-languageclient](https://github.com/atom/atom-languageclient): Language Server Protocol support for Atom (the basis of Atom-IDE)
-* [htpcBeginner/AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit): AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.
-* [htpcBeginner/AtoMiC-ToolKit-Docker](https://github.com/htpcBeginner/AtoMiC-ToolKit-Docker): Moved - https://github.com/htpcBeginner/docker-traefik
+* [anandslab/AtoMiC-ToolKit](https://github.com/anandslab/AtoMiC-ToolKit): AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.
+* [anandslab/AtoMiC-ToolKit-Docker](https://github.com/anandslab/AtoMiC-ToolKit-Docker): Moved - https://github.com/htpcBeginner/docker-traefik
 * [wez/atomicparsley](https://github.com/wez/atomicparsley): AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 * [rokudev/atomio-package](https://github.com/rokudev/atomio-package): The package for Atom IO Text Editor 
 * [attaswift/Attabench](https://github.com/attaswift/Attabench): Microbenchmarking app for Swift with nice log-log plots
@@ -514,14 +514,14 @@
 * [bhavita/Auto-Audio-Books](https://github.com/bhavita/Auto-Audio-Books): Convert pdf to audiobooks 📚
 * [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq): Automatic CPU speed & power optimizer for Linux
 * [majamee/auto-dash-hls](https://github.com/majamee/auto-dash-hls): Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder
-* [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Effort free video editing!
+* [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Auto-Editor: Efficient media analyze and rendering
 * [yavorsky/auto-github-topics](https://github.com/yavorsky/auto-github-topics): 📝 Fetch and set topics to github from package.json
 * [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins): Plugins for Auto-GPT
 * [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin): A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 * [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle): Automatically generate and overlay subtitles for any video.
 * [Eyevinn/auto-subtitles](https://github.com/Eyevinn/auto-subtitles): Automatically generate subtitles from an input audio or video file using OpenAI Whisper
 * [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder): 🖖 Train an artificial intelligence to play tinder for you
-* [htpcBeginner/auto-traefik](https://github.com/htpcBeginner/auto-traefik): Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
+* [anandslab/auto-traefik](https://github.com/anandslab/auto-traefik): Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
 * [sunrise2575/AutoAVS](https://github.com/sunrise2575/AutoAVS):  Automated Audio, Video, Subtitle Tool (ffmpeg 벌크 인코딩 툴)
 * [thehemi/AutoCoder](https://github.com/thehemi/AutoCoder): GPT-4 powered code tool with no token limits. Works on repos or files.  Can cleanup, optimize, comment, convert languages and more
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
@@ -1550,7 +1550,7 @@
 * [aws-solutions/content-localization-on-aws](https://github.com/aws-solutions/content-localization-on-aws): Automatically generate multi-language subtitles using AWS  AI/ML services. Machine generated subtitles can be edited to improve accuracy and downstream tracks will automatically be regenerated based on the edits. Built on Media Insights Engine (https://github.com/awslabs/aws-media-insights-engine)
 * [ebu/content-manager](https://github.com/ebu/content-manager): The Content Manager is a visual production tool which is able to generate on the fly visualisation for DAB slideshow and RadioVIS. .NET framework based, it is developed in C# and is distributed under LGPL licence.
 * [webtor-io/content-transcoder](https://github.com/webtor-io/content-transcoder): Transcodes HTTP-stream to HLS
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
 * [contour-terminal/contour](https://github.com/contour-terminal/contour): Modern C++ Terminal Emulator
 * [bryanbrunetti/controku](https://github.com/bryanbrunetti/controku): An app to control Roku devices, written with ElectronJS
@@ -2004,7 +2004,7 @@
 * [EugenMayer/docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate): A simple boilerplate for docker-sync
 * [Eyevinn/docker-toolbelt](https://github.com/Eyevinn/docker-toolbelt): A Docker container filled with pre-built versions of video streaming related tools
 * [Starttoaster/docker-traefik](https://github.com/Starttoaster/docker-traefik): Script to setup Traefik reverse-proxy in Docker with Compose
-* [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik): Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+* [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik): Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 * [tiredofit/docker-traefik-cloudflare-companion](https://github.com/tiredofit/docker-traefik-cloudflare-companion): Automatically Create CNAME records for containers served by Traefik
 * [rafrasenberg/docker-traefik-portainer](https://github.com/rafrasenberg/docker-traefik-portainer): Docker container management with Traefik v2 and Portainer.
 * [TheTaylorLee/docker-transcodeautomation](https://github.com/TheTaylorLee/docker-transcodeautomation): An automated media transcoding solution.
@@ -5303,7 +5303,7 @@
 * [modal-labs/quillman](https://github.com/modal-labs/quillman): A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+* [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr): Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Efficient retrieval augmented generation framework
 * [qwinff/qwinff](https://github.com/qwinff/qwinff): A Qt4/5 GUI Frontend for FFmpeg
 * [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 * [cta-wave/R4WG20-QoE-Metrics](https://github.com/cta-wave/R4WG20-QoE-Metrics): Issue tracking repository for the R4-Wg20 QoE Initiative
@@ -6360,7 +6360,7 @@
 * [redox-os/termion](https://github.com/redox-os/termion): Mirror of https://gitlab.redox-os.org/redox-os/termion
 * [termux/termux-api](https://github.com/termux/termux-api): Termux add-on app which exposes device functionality as API to command line programs.
 * [termux/termux-packages](https://github.com/termux/termux-packages): A package build system for Termux.
-* [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks): Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+* [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks): Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 * [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk): Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 * [simonknittel/terraform-google-video-transcoding](https://github.com/simonknittel/terraform-google-video-transcoding): Terraform Module to transcode and serve videos via Google Cloud services.
 * [mumoshu/terraform-provider-eksctl](https://github.com/mumoshu/terraform-provider-eksctl): Manage AWS EKS clusters using Terraform and eksctl
@@ -7004,7 +7004,7 @@
 * [Eyevinn/webrtc-player](https://github.com/Eyevinn/webrtc-player): WebRTC (recvonly) player
 * [webslides/WebSlides](https://github.com/webslides/WebSlides): Create HTML presentations in seconds —
 * [vapor/websocket-kit](https://github.com/vapor/websocket-kit): WebSocket client library built on SwiftNIO
-* [glut23/webvtt-py](https://github.com/glut23/webvtt-py): Read, write and segment WebVTT caption files in Python.
+* [glut23/webvtt-py](https://github.com/glut23/webvtt-py): Read, write, convert and segment WebVTT caption files in Python.
 * [opencoconut/webvtt-ruby](https://github.com/opencoconut/webvtt-ruby): WebVTT Ruby parser and segmenter
 * [w3c/webvtt.js](https://github.com/w3c/webvtt.js): WebVTT parser and validator
 * [alibaba/weex](https://github.com/alibaba/weex): A framework for building Mobile cross-platform UI
