@@ -270,7 +270,7 @@
 * [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF): The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 * [semperai/amica](https://github.com/semperai/amica): Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 * [pegasusict/AMM](https://github.com/pegasusict/AMM): Audiophiles' Music Manager is a Python3/Laravel8 suite which tries to overcome the shortcomings of most music management programs out there. This project is in it's infancy and I use this as a study project.
-* [amplication/amplication](https://github.com/amplication/amplication): 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+* [amplication/amplication](https://github.com/amplication/amplication): 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 * [gabek/Amplitude-Brightscript](https://github.com/gabek/Amplitude-Brightscript): A Brightscript (Roku) library for submitting analytics to Amplitude
 * [Amplitude-Developer-Docs/amplitude-dev-center](https://github.com/Amplitude-Developer-Docs/amplitude-dev-center): Amplitude's Developer Center docs.
 * [andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip): An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
@@ -2187,7 +2187,7 @@
 * [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open, Distributed, RESTful Search Engine
 * [lkzhao/ElasticTransition](https://github.com/lkzhao/ElasticTransition): A UIKit custom transition that simulates an elastic drag. Written in Swift.
 * [taglia3/ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC): A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao 
-* [electerm/electerm](https://github.com/electerm/electerm): 📻Terminal/ssh/telnet/serialport/RDP/sftp client(linux, mac, win)
+* [electerm/electerm](https://github.com/electerm/electerm): 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 * [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD): Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 * [electron/electron](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store): A Cross-Platform App Store for Electron.js Apps
@@ -2585,7 +2585,6 @@
 * [rust-av/ffms2-rs](https://github.com/rust-av/ffms2-rs): ffms2 bindings
 * [rockcarry/ffplayer](https://github.com/rockcarry/ffplayer): a video player based on ffmpeg for win32 and android platform.
 * [ffplayout/ffplayout](https://github.com/ffplayout/ffplayout): Rust and ffmpeg based playout 
-* [ffplayout/ffplayout-docker](https://github.com/ffplayout/ffplayout-docker): Dockerized playout solution
 * [ffplayout/ffplayout-frontend](https://github.com/ffplayout/ffplayout-frontend): Web based frontend for ffplayout-engine
 * [joeflateau/ffpreset](https://github.com/joeflateau/ffpreset): None
 * [anacrolix/ffprobe](https://github.com/anacrolix/ffprobe): Go ffprobe wrapper
@@ -2768,6 +2767,7 @@
 * [Eyevinn/function-probe](https://github.com/Eyevinn/function-probe): Serverless Media Function to obtain Media Info of a video file or video stream
 * [Eyevinn/function-scenes](https://github.com/Eyevinn/function-scenes): A serverless media function to detect scene changes and extract keyframes in a video file or a stream.
 * [acode/FunctionScript](https://github.com/acode/FunctionScript): An API gateway and framework for turning functions into web services
+* [kevleyski/funque](https://github.com/kevleyski/funque): The official Python implementation of the FUNQUE framework for Video Quality Assessment (VQA)
 * [erkexzcx/funstream](https://github.com/erkexzcx/funstream): Proxy application that allows making combined HLS (M3U) playlist out of different HLS playlist, channels as well as remote/local media files.
 * [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable documentation theme for Sphinx
 * [apioo/fusio](https://github.com/apioo/fusio): Open source API management platform
@@ -4210,6 +4210,7 @@
 * [FreeMasen/mdbook-presentation-preprocessor](https://github.com/FreeMasen/mdbook-presentation-preprocessor): A preprocessor for utilizing an MDBook as slides for a presentation.
 * [ericlink/mdp](https://github.com/ericlink/mdp): markdown preview using marked, highlight.js, mermaid, node-emoji and live reload
 * [bwasti/mebm](https://github.com/bwasti/mebm): zero-dependency browser-based video editor
+* [3052/media](https://github.com/3052/media): Download media or send API requests
 * [androidx/media](https://github.com/androidx/media): Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 * [svt/media-analyzer](https://github.com/svt/media-analyzer): A kotlin media analyzer library that utilizes FFprobe and Mediainfo and merges their results into one data model.
 * [w3c/media-and-entertainment](https://github.com/w3c/media-and-entertainment): Repository for the Media and Entertainment Interest Group
@@ -4341,6 +4342,7 @@
 * [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu): Run Ubuntu GUI on your termux with much features.
 * [go-skynet/model-gallery](https://github.com/go-skynet/model-gallery): :card_file_box: a curated collection of models ready-to-use with LocalAI
 * [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks): System font stack CSS organized by typeface classification for every modern operating system
+* [duliodenis/modern-swift-reachability](https://github.com/duliodenis/modern-swift-reachability): Swift utility class that allows app to monitor and react to network status changes in real-time.
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 * [noreasonprojects/ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer): ModernAVPlayer is a persistence AVPlayer wrapper
 * [rentzsch/mogenerator](https://github.com/rentzsch/mogenerator): Core Data code generation
@@ -4832,7 +4834,7 @@
 * [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [ErikWittern/openapi-snippet](https://github.com/ErikWittern/openapi-snippet): Generates code snippets for given Swagger / Open API documents
-* [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
+* [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
 * [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen): NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 * [opencast/opencast](https://github.com/opencast/opencast): The free and open source solution for automated video capture and distribution at scale.
 * [opencast/opencast-docker](https://github.com/opencast/opencast-docker): Dockerfiles for Opencast
@@ -5416,7 +5418,7 @@
 * [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence): Self-Hosted Bookmark And Archive Manager
 * [johnno1962/Remote](https://github.com/johnno1962/Remote): Control your iPhone from inside Xcode for end-to-end testing.
 * [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter): Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
-* [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save): Yet another unofficial Obsidian plugin allowing users to synchronize notes between local device and the cloud service. Supports S3, Dropbox, OneDrive, webdav.
+* [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save): Sync notes between local and cloud services with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr.
 * [dineshabe/RemoteMedia](https://github.com/dineshabe/RemoteMedia): tvOS App that allows people to stream videos from phone to tv
 * [dineshabe/RemoteMedia-iOS](https://github.com/dineshabe/RemoteMedia-iOS): iOS App client that works with the tvOS or Android TV apps to play videos remotely
 * [fasmide/remotemoe](https://github.com/fasmide/remotemoe): tunnels to localhost and other ssh plumbing
@@ -6126,7 +6128,7 @@
 * [streamlit/streamlit](https://github.com/streamlit/streamlit): Streamlit — A faster way to build and share data apps.
 * [video-dev/streamlyser](https://github.com/video-dev/streamlyser): An exploration into synthetic HLS and DASH monitoring, and conformance testing.
 * [Neeraj319/streammmm](https://github.com/Neeraj319/streammmm): A twitch like platform.
-* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): RTMP/RTMPS and SRT live streaming libraries for Android
+* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): SRT/RTMP/RTMPS live streaming libraries for Android
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
 * [grafov/streamsurfer](https://github.com/grafov/streamsurfer): Software for monitoring of HTTP video streams.
@@ -6197,7 +6199,7 @@
 * [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution): This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 * [kartik-venugopal/swift-ffmpeg-transcode](https://github.com/kartik-venugopal/swift-ffmpeg-transcode): Experimental Swift app to transcode audio using FFmpeg
 * [xmartlabs/Swift-Framework-Template](https://github.com/xmartlabs/Swift-Framework-Template): Swift script to easily create Swift frameworks!
-* [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts): None
+* [swiftlang/swift-installer-scripts](https://github.com/swiftlang/swift-installer-scripts): None
 * [google/swift-integration-tests](https://github.com/google/swift-integration-tests): Automated tests for validating the generated Swift snapshots behave correctly
 * [owensd/swift-langsrv](https://github.com/owensd/swift-langsrv): The language service implementation for VS Code.
 * [geberl/swift-localstorage](https://github.com/geberl/swift-localstorage): Local Storage for iOS
@@ -6212,7 +6214,7 @@
 * [mxcl/swift-sh](https://github.com/mxcl/swift-sh): Easily script with third-party Swift dependencies.
 * [dankogai/swift-sion](https://github.com/dankogai/swift-sion): SION handler in Swift.  also handles / JSON / Property List / msgpack.org[SION,Swift]
 * [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing): 📸 Delightful Swift snapshot testing.
-* [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite): The infrastructure and project index comprising the Swift source compatibility suite.
+* [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite): The infrastructure and project index comprising the Swift source compatibility suite.
 * [Eyevinn/swift-srt](https://github.com/Eyevinn/swift-srt): None
 * [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview): None
 * [apple/swift-syntax](https://github.com/apple/swift-syntax): A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
@@ -6623,7 +6625,7 @@
 * [TechSquidTV/UltimateHomeServer](https://github.com/TechSquidTV/UltimateHomeServer): Configure the ultimate home server with k3s and helm
 * [CESNET/UltraGrid](https://github.com/CESNET/UltraGrid): UltraGrid low-latency audio and video network transmission system
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
-* [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
+* [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 * [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
 * [Radiokot/umbrel-cloudflared](https://github.com/Radiokot/umbrel-cloudflared): 🔌 Umbrel app for Cloudflare Tunnel (cloudflared)
 * [rabbitrepo/umbrel-cloudflaretunnel-guide](https://github.com/rabbitrepo/umbrel-cloudflaretunnel-guide): 🌐 The easiest way to make Umbrel Apps public!
@@ -7143,7 +7145,7 @@
 * [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * [synox/youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive): OBSOLETE - Interactively select the quality and format for youtube-dl
 * [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server): Web / REST interface for downloading youtube videos onto a server.
-* [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+* [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 * [aslanyanhaik/youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): youtube iOS app template written in swift 5
 * [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
 * [dangdungcntt/youtube-stream-url](https://github.com/dangdungcntt/youtube-stream-url): Get youtube video url (included copyright music video)

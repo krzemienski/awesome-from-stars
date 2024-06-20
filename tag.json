@@ -50,6 +50,9 @@
     "3052/dash": [
         "Other"
     ],
+    "3052/media": [
+        "Other"
+    ],
     "3052/widevine": [
         "Other"
     ],
@@ -5756,9 +5759,6 @@
     "apple/swift-driver": [
         "Other"
     ],
-    "apple/swift-installer-scripts": [
-        "Other"
-    ],
     "apple/swift-nio": [
         "Other"
     ],
@@ -5769,9 +5769,6 @@
         "Other"
     ],
     "apple/swift-protobuf": [
-        "Other"
-    ],
-    "apple/swift-source-compat-suite": [
         "Other"
     ],
     "apple/swift-standard-library-preview": [
@@ -8732,9 +8729,6 @@
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
     ],
-    "drwpow/openapi-typescript": [
-        "Other"
-    ],
     "dsbmac/variety-goodreads-quotes": [
         "Other"
     ],
@@ -8760,6 +8754,9 @@
         "Other"
     ],
     "dukebw/lintel": [
+        "Other"
+    ],
+    "duliodenis/modern-swift-reachability": [
         "Other"
     ],
     "dullage/flatnotes": [
@@ -9615,9 +9612,6 @@
         "Other"
     ],
     "ffplayout/ffplayout": [
-        "Other"
-    ],
-    "ffplayout/ffplayout-docker": [
         "Other"
     ],
     "ffplayout/ffplayout-frontend": [
@@ -12405,6 +12399,9 @@
         "Other"
     ],
     "kevinzhow/PNChart-Swift": [
+        "Other"
+    ],
+    "kevleyski/funque": [
         "Other"
     ],
     "kewlbear/FFmpeg-iOS": [
@@ -15621,6 +15618,9 @@
         "Other"
     ],
     "openai/whisper": [
+        "Other"
+    ],
+    "openapi-ts/openapi-typescript": [
         "Other"
     ],
     "openbridge/ob_bulkstash": [
@@ -18887,6 +18887,12 @@
     "swiftlang/swift-evolution": [
         "Other"
     ],
+    "swiftlang/swift-installer-scripts": [
+        "Other"
+    ],
+    "swiftlang/swift-source-compat-suite": [
+        "Other"
+    ],
     "swisspol/GCDWebServer": [
         "Other"
     ],
@@ -20771,6 +20777,9 @@
     "xbrowsersync/app": [
         "Other"
     ],
+    "xcodian/youtube-dl-web": [
+        "Other"
+    ],
     "xcpretty/xcode-install": [
         "Other"
     ],
@@ -20910,9 +20919,6 @@
         "Other"
     ],
     "xwmx/search.sh": [
-        "Other"
-    ],
-    "xxcodianxx/youtube-dl-web": [
         "Other"
     ],
     "xyk2/cloud-transcoder": [
