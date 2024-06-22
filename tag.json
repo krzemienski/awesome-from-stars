@@ -74,6 +74,9 @@
     "3lvis/Sync": [
         "Other"
     ],
+    "3xploitGuy/lazyaircrack": [
+        "Other"
+    ],
     "500px/greedo-layout-for-ios": [
         "Other"
     ],
@@ -1874,6 +1877,9 @@
     "FLEXTool/FLEX": [
         "Other"
     ],
+    "FLOCK4H/Freeway": [
+        "Other"
+    ],
     "FSecureLABS/Ellume-COVID-Test_Research-Files": [
         "Other"
     ],
@@ -2313,6 +2319,9 @@
         "Other"
     ],
     "JNoDuq/videobench": [
+        "Other"
+    ],
+    "JPaulMora/Pyrit": [
         "Other"
     ],
     "JREAM/ubuntu-cheatsheet": [
@@ -2840,6 +2849,12 @@
     "MPEGGroup/isobmff": [
         "Other"
     ],
+    "MS-WEB-BN/c41n": [
+        "Other"
+    ],
+    "MS-WEB-BN/h4rpy": [
+        "Other"
+    ],
     "MSzturc/obsidian-advanced-slides": [
         "Other"
     ],
@@ -3122,6 +3137,9 @@
     "NVIDIA/video-sdk-samples": [
         "Other"
     ],
+    "NachoSoto/Pulse": [
+        "Other"
+    ],
     "NaiboWang/EasySpider": [
         "Other"
     ],
@@ -3368,6 +3386,9 @@
     "OwenEdwards/ElephantsDreamHLS": [
         "Other"
     ],
+    "P0cL4bs/WiFi-Pumpkin-deprecated": [
+        "Other"
+    ],
     "P0cL4bs/wifipumpkin3": [
         "Other"
     ],
@@ -3579,6 +3600,9 @@
         "Other"
     ],
     "QuivrHQ/quivr": [
+        "Other"
+    ],
+    "R3LI4NT/Wifi-Hack": [
         "Other"
     ],
     "R3S3t9999/DoVi_Scripts": [
@@ -3801,6 +3825,9 @@
         "Other"
     ],
     "SVProgressHUD/SVProgressHUD": [
+        "Other"
+    ],
+    "SYWorks/waidps": [
         "Other"
     ],
     "SachinKalsi/video-upload-and-video-streaming": [
@@ -4038,6 +4065,9 @@
         "Other"
     ],
     "SquaredTiki/Dringend-Issues": [
+        "Other"
+    ],
+    "Squuv/WifiBF": [
         "Other"
     ],
     "Sriharia/ExoPlayer-StatsForNerds": [
@@ -4346,6 +4376,9 @@
     "TysonWorks/cdk-examples": [
         "Other"
     ],
+    "U7P4L-IN/WIFI-HACKING": [
+        "Other"
+    ],
     "UCI-Networking-Group/firetastic": [
         "Other"
     ],
@@ -4470,6 +4503,9 @@
         "Other"
     ],
     "WZMIAOMIAO/deep-learning-for-image-processing": [
+        "Other"
+    ],
+    "We5ter/Scanners-Box": [
         "Other"
     ],
     "WeTransfer/WeScan": [
@@ -4802,6 +4838,9 @@
     "adamcichy/SwiftySound": [
         "Other"
     ],
+    "adamff-dev/ESP8266-Captive-Portal": [
+        "Other"
+    ],
     "adamlatchem/toolchest": [
         "Other"
     ],
@@ -5016,6 +5055,9 @@
         "Other"
     ],
     "akash-rajak/Image-Watermark-Remover": [
+        "Other"
+    ],
+    "akashblackhat/wifi-hacking.py": [
         "Other"
     ],
     "akitten/linkedin-public-profile-parser": [
@@ -5429,6 +5471,9 @@
     "ankbul/node-rats": [
         "Other"
     ],
+    "ankit0183/Wifi-Hacking": [
+        "Other"
+    ],
     "ankur4u007/drift": [
         "Other"
     ],
@@ -5738,9 +5783,6 @@
     "apple/sourcekit-lsp": [
         "Other"
     ],
-    "apple/swift": [
-        "Other"
-    ],
     "apple/swift-algorithms": [
         "Other"
     ],
@@ -5832,6 +5874,9 @@
         "Other"
     ],
     "archlinux/devtools": [
+        "Other"
+    ],
+    "aress31/wirespy": [
         "Other"
     ],
     "arex1337/lichess-daily-puzzle-slack-app": [
@@ -7844,6 +7889,9 @@
     "czqasngit/ffmpeg-player": [
         "Other"
     ],
+    "d-demirci/django-adminlte3": [
+        "Other"
+    ],
     "d2-projects/d2-admin": [
         "Other"
     ],
@@ -9344,6 +9392,9 @@
     "eyecuvision/bumblebee": [
         "Other"
     ],
+    "eyevinn-osaas/livesim2": [
+        "Other"
+    ],
     "ezaquarii/vpn-at-home": [
         "Other"
     ],
@@ -9354,6 +9405,9 @@
         "Other"
     ],
     "f11894/video_benchmark": [
+        "Other"
+    ],
+    "f4rih/websploit": [
         "Other"
     ],
     "fabian1811/cmdline-musicdetection": [
@@ -11483,7 +11537,7 @@
     "jackie1in/jre-ffmpeg-apline": [
         "Other"
     ],
-    "jackrobertscott/forge": [
+    "jackrobertscott/forge-1dec18": [
         "Other"
     ],
     "jacksalici/notion-cli-list-manager": [
@@ -12594,6 +12648,9 @@
         "Other"
     ],
     "korosuke613/gh-user-stars": [
+        "Other"
+    ],
+    "koutto/pi-pwnbox-rogueap": [
         "Other"
     ],
     "kovidgoyal/calibre": [
@@ -14846,6 +14903,9 @@
     "n-thumann/IPTV-ReStream": [
         "Other"
     ],
+    "n0mi1k/pmkidcracker": [
+        "Other"
+    ],
     "n1207n/video-transcode-queue": [
         "Other"
     ],
@@ -17009,6 +17069,9 @@
     "rianhunter/dbxfs": [
         "Other"
     ],
+    "ricardojoserf/wifi-pentesting-guide": [
+        "Other"
+    ],
     "ricasiano/slave-api": [
         "Other"
     ],
@@ -17694,6 +17757,9 @@
         "Other"
     ],
     "sebyddd/SDVersion": [
+        "Other"
+    ],
+    "secdev/scapy": [
         "Other"
     ],
     "secfigo/Awesome-Fuzzing": [
@@ -18881,6 +18947,9 @@
     "swiftengine/SwiftEngine": [
         "Other"
     ],
+    "swiftlang/swift": [
+        "Other"
+    ],
     "swiftlang/swift-docker": [
         "Other"
     ],
@@ -19550,6 +19619,9 @@
     "trekhleb/learn-python": [
         "Other"
     ],
+    "trevatk/Wifi-Cracker": [
+        "Other"
+    ],
     "trexminer/T-Rex": [
         "Other"
     ],
@@ -19884,6 +19956,9 @@
         "Other"
     ],
     "utmapp/UTM": [
+        "Other"
+    ],
+    "v1s1t0r1sh3r3/airgeddon": [
         "Other"
     ],
     "v2ray/v2ray-core": [

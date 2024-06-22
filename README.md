@@ -206,6 +206,7 @@
 * [mpolatcan/airflow-docker](https://github.com/mpolatcan/airflow-docker): Scalable Airflow Docker image that works Docker and Kubernetes
 * [bhavaniravi/airflow-kube-setup](https://github.com/bhavaniravi/airflow-kube-setup): How to deploy airflow on Kubernetes
 * [rolanddb/airflow-on-kubernetes](https://github.com/rolanddb/airflow-on-kubernetes): A guide to running Airflow on Kubernetes
+* [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon): This is a multi-use bash script for Linux systems to audit wireless networks.
 * [dtyutyunik/aiWeather](https://github.com/dtyutyunik/aiWeather): None
 * [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B): official repository of aiXcoder-7B Code Large Language Model
 * [ajenti/ajenti](https://github.com/ajenti/ajenti): Ajenti Core and stock plugins
@@ -1242,6 +1243,7 @@
 * [TheAlgorithms/C](https://github.com/TheAlgorithms/C): Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus): Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 * [goplus/c2go](https://github.com/goplus/c2go): Convert C to Go
+* [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n): Automated rogue access point setup tool.
 * [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go): Transpiling C code to Go code
 * [VideoFlint/Cabbage](https://github.com/VideoFlint/Cabbage): A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.
 * [vmware-archive/cabin](https://github.com/vmware-archive/cabin): The Mobile Dashboard for Kubernetes
@@ -1425,7 +1427,7 @@
 * [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox): Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 * [LINKIWI/cloudflare-ddns-client](https://github.com/LINKIWI/cloudflare-ddns-client): Linux client for automatic dynamic DNS updates on CloudFlare-managed domains
 * [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared): Cloudflare Tunnel client (formerly Argo Tunnel)
-* [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web): None
+* [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web): Cloudflared-web is a docker image that packages both cloudflared cli and a no-frills Web UI for easy starting/stopping of cloudflare tunnel.
 * [claffin/cloudproxy](https://github.com/claffin/cloudproxy): Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 * [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 * [scality/cloudserver](https://github.com/scality/cloudserver): Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
@@ -1878,6 +1880,7 @@
 * [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface): :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 * [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools): Extends the Django Admin to include a extensible dashboard and navigation menu
 * [app-generator/django-adminlte](https://github.com/app-generator/django-adminlte): AdminLTE Django - Open-source seed project | AppSeed
+* [d-demirci/django-adminlte3](https://github.com/d-demirci/django-adminlte3): AdminLTE Templates, Template Tags, and Admin Theme for Django
 * [app-generator/django-atlantis-dark](https://github.com/app-generator/django-atlantis-dark): Django Dashboard - Atlantis Lite (Dark Version) | AppSeed
 * [app-generator/django-black-dashboard](https://github.com/app-generator/django-black-dashboard): Django Dashboard Black - Open-source Seed Project | AppSeed
 * [zostera/django-bootstrap4](https://github.com/zostera/django-bootstrap4): Bootstrap 4 integration with Django.
@@ -2023,7 +2026,7 @@
 * [CircleCI-Archived/dockerfile-wizard](https://github.com/CircleCI-Archived/dockerfile-wizard): Use CircleCI to build custom Docker images with combinations of common languages/dependencies
 * [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles): Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
 * [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles): Various Dockerfiles I use on the desktop and on servers.
-* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
+* [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles): :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
 * [waylybaye/dockerfiles](https://github.com/waylybaye/dockerfiles): :whale: A collection of delicious docker recipes
 * [bstiel/dockerize-celery-django-app](https://github.com/bstiel/dockerize-celery-django-app): https://www.distributedpython.com/2018/06/12/celery-django-docker
 * [smellouk/Dockerized.Home-Server](https://github.com/smellouk/Dockerized.Home-Server): Dockerized.Home-Server is a setup which provides a dockerized home server, dns server, ad blocking server , cloud and monitoring.
@@ -2259,6 +2262,7 @@
 * [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV): Stream custom live channels using your own media
 * [atlassian/escalator](https://github.com/atlassian/escalator): Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 * [RokuRoad/eslint-plugin-roku](https://github.com/RokuRoad/eslint-plugin-roku): ESLint plugin to parse and lint BrightScript files
+* [adamff-dev/ESP8266-Captive-Portal](https://github.com/adamff-dev/ESP8266-Captive-Portal): :key: WiFi captive portal for ESP8266 for phishing WiFi passwords
 * [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther): Affordable WiFi hacking platform for testing and learning
 * [rossumur/espflix](https://github.com/rossumur/espflix): A free video streaming service that runs on a ESP32
 * [espnet/espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit
@@ -2735,7 +2739,7 @@
 * [forem/forem](https://github.com/forem/forem): For empowering community 🌱
 * [electron/forge](https://github.com/electron/forge): :electron: A complete tool for building and publishing Electron applications
 * [forge-ext/forge](https://github.com/forge-ext/forge): Forge - Tiling and Window Manager for Gnome-Shell
-* [jackrobertscott/forge](https://github.com/jackrobertscott/forge): 🏹 Free and open source developer tool.
+* [jackrobertscott/forge-1dec18](https://github.com/jackrobertscott/forge-1dec18): 🏹 Free and open source developer tool.
 * [jonan/ForkHub](https://github.com/jonan/ForkHub): GitHub client for Android based on the abandoned official app
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
 * [wader/fq](https://github.com/wader/fq): jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -2748,6 +2752,7 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [inferred/FreeBuilder](https://github.com/inferred/FreeBuilder): Automatic generation of the Builder pattern for Java
 * [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui): GPT 3.5/4 with a Chat Web UI. No API key required.
+* [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway): WiFi Penetration Testing & Auditing Tool
 * [dyne/frei0r](https://github.com/dyne/frei0r): A large collection of free and portable video plugins
 * [dehydratedpotato/FrequencyStats](https://github.com/dehydratedpotato/FrequencyStats): For Apple Silicon 🍎 Daemonless, kextless CPU and GPU frequency stats in your menubar!
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable news aggregator…
@@ -3098,7 +3103,7 @@
 * [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader): Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 * [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer): Software design & development with AI
 * [MachWheel/GPT-to-FFmpeg](https://github.com/MachWheel/GPT-to-FFmpeg): Converta e manipule qualquer arquivo de áudio ou vídeo suportado pelo ffmpeg através de prompts com o ChatGPT; interface amigável; suporte a digitação por voz
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: run open-source LLMs anywhere
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Chat with Local LLMs on Any Device
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts): Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 * [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
@@ -3179,6 +3184,7 @@
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
 * [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
+* [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy): Automated WPA/WPA2 PSK attack tool.
 * [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc): :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green_apple: 实时直播：WebRTC
 * [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote): Apple TV, Amazon Fire TV, Fire streaming stick, Chromecast, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
 * [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu): Hacker News Delivered to Desktop :dancers:
@@ -3881,6 +3887,7 @@
 * [jy0205/LaVIT](https://github.com/jy0205/LaVIT): LaVIT: Empower the Large Language Model to Understand and Generate Visual Content
 * [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair): No clever tagline needed.
 * [nicklockwood/layout](https://github.com/nicklockwood/layout): A declarative UI framework for iOS
+* [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack): Automated tool for WiFi hacking.
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [leedowthwaite/LDOverlayMessage](https://github.com/leedowthwaite/LDOverlayMessage): A native tvOS message overlay, for transient, popup messages.
@@ -4002,6 +4009,7 @@
 * [rac-sri/Livepeer-Video-Streaming](https://github.com/rac-sri/Livepeer-Video-Streaming): DApp to stream videos on livepeer protocol.
 * [back-to/liveproxy](https://github.com/back-to/liveproxy): LiveProxy can redirect Livestreams to your favorite player
 * [Dash-Industry-Forum/livesim2](https://github.com/Dash-Industry-Forum/livesim2): DASH Live Source Simulator v2 in Go
+* [eyevinn-osaas/livesim2](https://github.com/eyevinn-osaas/livesim2): DASH Live Source Simulator v2 in Go
 * [cupcakearmy/livestream](https://github.com/cupcakearmy/livestream): Dockerized nginx real time streaming with hsl and dash
 * [glubsy/livestream_saver](https://github.com/glubsy/livestream_saver): Monitor a Youtube channel and download live-streams from the first segment
 * [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR): An automatic livestream recorder
@@ -4996,6 +5004,7 @@
 * [studioimaginaire/phue](https://github.com/studioimaginaire/phue): A Python library for the Philips Hue system
 * [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole): A black hole for Internet advertisements
 * [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted): Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
+* [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap): Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb: 
 * [open-mmlab/PIA](https://github.com/open-mmlab/PIA): [CVPR 2024] PIA, your Personalized Image Animator. Animate your images by text prompt, combing with Dreambooth, achieving stunning videos.           PIA，你的个性化图像动画生成器，利用文本提示将图像变为奇妙的动画
 * [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo): A fast, user friendly ORM and query builder which supports asyncio.
 * [spring-media/PiedPiper](https://github.com/spring-media/PiedPiper): A small set of classes and functions to make easy use of Futures, Promises and async computation in general. All written in Swift for iOS 10+, WatchOS 3, tvOS and Mac OS X apps.
@@ -5070,6 +5079,7 @@
 * [Tjatse/pm2-gui](https://github.com/Tjatse/pm2-gui): An elegant web & terminal interface for Unitech/PM2.
 * [olexnzarov/pm2-web-ui](https://github.com/olexnzarov/pm2-web-ui): (Not so) modern web interface for PM2
 * [DolbyLaboratories/pmd_tool](https://github.com/DolbyLaboratories/pmd_tool): pmd_tool is a command line utility that converts between different representations of SMPTE RDD49 metadata and Serial ADM metadata. PMD Studio is an authoring tool for such metadata.
+* [n0mi1k/pmkidcracker](https://github.com/n0mi1k/pmkidcracker): A tool to crack WPA2 passphrase with PMKID value without clients or de-authentication 
 * [kevinzhow/PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift): A simple and beautiful chart lib used in Piner and CoinsMan for iOS(https://github.com/kevinzhow/PNChart) Swift Implementation 
 * [righettod/poc-graphql](https://github.com/righettod/poc-graphql): Research on GraphQL from an AppSec point of view.
 * [0xdevalias/poc-kubernetes-batch](https://github.com/0xdevalias/poc-kubernetes-batch): PoC to create a new k8s Job using the Golang API, making use of Init Containers.
@@ -5181,6 +5191,7 @@
 * [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired database library for Python
 * [sturob/pullstar](https://github.com/sturob/pullstar): Pull all the repos you've starred from GitHub
 * [apache/pulsar](https://github.com/apache/pulsar): Apache Pulsar - distributed pub-sub messaging system
+* [NachoSoto/Pulse](https://github.com/NachoSoto/Pulse): Network logger for Apple platforms
 * [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Infrastructure as Code in any programming language 🚀
 * [krad/pupil](https://github.com/krad/pupil): 👁️Video Ingest Server that creates & syncs HLS assets to the cloud
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): Node.js API for Chrome 
@@ -5223,6 +5234,7 @@
 * [owncloud/pyocclient](https://github.com/owncloud/pyocclient): ownCloud client library for Python
 * [Pylons/pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter): A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
+* [JPaulMora/Pyrit](https://github.com/JPaulMora/Pyrit): The famous WPA precomputed cracker, Migrated from Google.
 * [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect): :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
 * [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet): Python Cheat Sheet
 * [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper): Never use print for debugging again
@@ -5418,7 +5430,7 @@
 * [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence): Self-Hosted Bookmark And Archive Manager
 * [johnno1962/Remote](https://github.com/johnno1962/Remote): Control your iPhone from inside Xcode for end-to-end testing.
 * [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter): Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
-* [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save): Sync notes between local and cloud services with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr.
+* [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save): Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 * [dineshabe/RemoteMedia](https://github.com/dineshabe/RemoteMedia): tvOS App that allows people to stream videos from phone to tv
 * [dineshabe/RemoteMedia-iOS](https://github.com/dineshabe/RemoteMedia-iOS): iOS App client that works with the tvOS or Android TV apps to play videos remotely
 * [fasmide/remotemoe](https://github.com/fasmide/remotemoe): tunnels to localhost and other ssh plumbing
@@ -5674,6 +5686,8 @@
 * [truenas/scale-build](https://github.com/truenas/scale-build): TrueNAS SCALE Build System
 * [scalecube/scalecube-services](https://github.com/scalecube/scalecube-services): Microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. it features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing
 * [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
+* [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box): A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
+* [secdev/scapy](https://github.com/secdev/scapy): Scapy: the Python-based interactive packet manipulation program & library.
 * [cloudkj/scar](https://github.com/cloudkj/scar): Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 * [gitfu/scc2vtt](https://github.com/gitfu/scc2vtt): Translates Scenarist SCC caption files to WebVTT subtitles
 * [flyingrub/scdl](https://github.com/flyingrub/scdl): Soundcloud Music Downloader
@@ -6173,8 +6187,8 @@
 * [EliverLara/Sweet](https://github.com/EliverLara/Sweet): Light and dark colorful Gtk3.20+ theme
 * [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 * [agens-no/swiff](https://github.com/agens-no/swiff): Human readable time diffs on lines of output when running e.g. build commands like fastlane
-* [apple/swift](https://github.com/apple/swift): The Swift Programming Language
 * [openstack/swift](https://github.com/openstack/swift): OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
+* [swiftlang/swift](https://github.com/swiftlang/swift): The Swift Programming Language
 * [tensorflow/swift](https://github.com/tensorflow/swift): Swift for TensorFlow
 * [soapyigu/Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects): 30 mini Swift Apps for self-study
 * [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club): Algorithms and data structures in Swift, with explanations!
@@ -6879,7 +6893,7 @@
 * [digimezzo/vitomu](https://github.com/digimezzo/vitomu): Easy to use video to audio converter
 * [vivictorg/vivict](https://github.com/vivictorg/vivict): An easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.
 * [Netflix/vizceral](https://github.com/Netflix/vizceral): WebGL visualization for displaying animated traffic graphs
-* [videolan/vlc](https://github.com/videolan/vlc): VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+* [videolan/vlc](https://github.com/videolan/vlc): VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 * [videolan/vlc-ios](https://github.com/videolan/vlc-ios): VLC for iOS/iPadOS and tvOS official mirror
 * [dklinzh/VLCKit](https://github.com/dklinzh/VLCKit): A powerful library of audio/video on iOS, macOS and tvOS. Fork from https://code.videolan.org/videolan/VLCKit. Official mirror https://github.com/videolan/vlckit.
 * [videolan/vlckit](https://github.com/videolan/vlckit): libvlc bindings for OS X, iOS and tvOS in Objective-C, official mirror
@@ -6962,6 +6976,7 @@
 * [vyos/vyos-build](https://github.com/vyos/vyos-build): VyOS image build scripts
 * [vyos/vyos-documentation](https://github.com/vyos/vyos-documentation): VyOS readthedocs
 * [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content management system focused on flexibility and user experience
+* [SYWorks/waidps](https://github.com/SYWorks/waidps): Wireless Auditing, Intrusion Detection & Prevention System
 * [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
 * [wailsapp/wails](https://github.com/wailsapp/wails): Create beautiful applications using Go
 * [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it): Pure bash script to test and wait on the availability of a TCP host and port
@@ -7006,6 +7021,7 @@
 * [Eyevinn/webrtc-player](https://github.com/Eyevinn/webrtc-player): WebRTC (recvonly) player
 * [webslides/WebSlides](https://github.com/webslides/WebSlides): Create HTML presentations in seconds —
 * [vapor/websocket-kit](https://github.com/vapor/websocket-kit): WebSocket client library built on SwiftNIO
+* [f4rih/websploit](https://github.com/f4rih/websploit): Websploit is a high level MITM framework
 * [glut23/webvtt-py](https://github.com/glut23/webvtt-py): Read, write, convert and segment WebVTT caption files in Python.
 * [opencoconut/webvtt-ruby](https://github.com/opencoconut/webvtt-ruby): WebVTT Ruby parser and segmenter
 * [w3c/webvtt.js](https://github.com/w3c/webvtt.js): WebVTT parser and validator
@@ -7037,6 +7053,14 @@
 * [Satsuoni/widevine-l3-guesser](https://github.com/Satsuoni/widevine-l3-guesser): None
 * [medvm/widevine_keys](https://github.com/medvm/widevine_keys): This repo created for bypassing Widevine L3 DRM and obtaining keys.
 * [lixmk/Wiegotcha](https://github.com/lixmk/Wiegotcha): Wiegotcha: Long Range RFID Thief
+* [trevatk/Wifi-Cracker](https://github.com/trevatk/Wifi-Cracker): Wifi Cracking 
+* [R3LI4NT/Wifi-Hack](https://github.com/R3LI4NT/Wifi-Hack): Herramienta automatizada para crackear redes WiFi con protección WPA2 y WPS.
+* [U7P4L-IN/WIFI-HACKING](https://github.com/U7P4L-IN/WIFI-HACKING): Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES) hacking is not a crime it's a skills .
+* [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking): Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
+* [akashblackhat/wifi-hacking.py](https://github.com/akashblackhat/wifi-hacking.py): Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES) hacking is not a crime it's a skills , 
+* [ricardojoserf/wifi-pentesting-guide](https://github.com/ricardojoserf/wifi-pentesting-guide): WiFi Penetration Testing Guide
+* [P0cL4bs/WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated): DEPRECATED, wifipumpkin3 -> https://github.com/P0cL4bs/wifipumpkin3
+* [Squuv/WifiBF](https://github.com/Squuv/WifiBF): This is a wifi Brute Force. script undetectable and secure!
 * [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher): The Rogue Access Point Framework
 * [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3): Powerful framework for rogue access point attack.
 * [derv82/wifite2](https://github.com/derv82/wifite2): Rewrite of the popular wireless network auditor, "wifite"
@@ -7052,6 +7076,7 @@
 * [google/wire](https://github.com/google/wire): Compile-time Dependency Injection for Go
 * [wireapp/wire-ios](https://github.com/wireapp/wire-ios): 📱 Wire for iOS (iPhone and iPad)
 * [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install): WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+* [aress31/wirespy](https://github.com/aress31/wirespy): Framework designed to automate various wireless networks attacks (the project was presented on Pentester Academy TV's toolbox in 2017).
 * [willowtreeapps/wist](https://github.com/willowtreeapps/wist): A linter for BrightScript
 * [MarcAntoine-Arnaud/wisual](https://github.com/MarcAntoine-Arnaud/wisual): Web for Visual Quality Assessment
 * [microsoftarchive/wlist](https://github.com/microsoftarchive/wlist): A command line client for Wunderlist
