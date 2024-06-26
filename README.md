@@ -358,7 +358,7 @@
 * [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation): AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Check WebServices Status - https://status.getappbox.com/status/web
 * [microsoft/appcenter](https://github.com/microsoft/appcenter): Central repository for App Center open source resources and planning.
 * [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit): AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
-* [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+* [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 * [dreymonde/AppFolder](https://github.com/dreymonde/AppFolder): 🗂 Never use NSSearchPathForDirectoriesInDomains again
 * [maoschanz/appfolders-manager-gnome-extension](https://github.com/maoschanz/appfolders-manager-gnome-extension): A GNOME extension allowing easy management of "appfolders" directly from the applications grid.
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
@@ -1427,7 +1427,7 @@
 * [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox): Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 * [LINKIWI/cloudflare-ddns-client](https://github.com/LINKIWI/cloudflare-ddns-client): Linux client for automatic dynamic DNS updates on CloudFlare-managed domains
 * [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared): Cloudflare Tunnel client (formerly Argo Tunnel)
-* [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web): Cloudflared-web is a docker image that packages both cloudflared cli and a no-frills Web UI for easy starting/stopping of cloudflare tunnel.
+* [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web): Cloudflared-web is a docker image that packages both cloudflared cli and a simple Web UI to easily start or stop remotely-managed Cloudflare tunnel.
 * [claffin/cloudproxy](https://github.com/claffin/cloudproxy): Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 * [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 * [scality/cloudserver](https://github.com/scality/cloudserver): Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
@@ -1648,6 +1648,7 @@
 * [mackworth/cTiVo](https://github.com/mackworth/cTiVo): TiVo Show Downloads for MacOS
 * [PJ-Singh-001/Cubic](https://github.com/PJ-Singh-001/Cubic): The Official Web Site for Cubic (Custom Ubuntu ISO Creator) (https://github.com/PJ-Singh-001/Cubic)
 * [NVIDIA/cuda-profiler](https://github.com/NVIDIA/cuda-profiler): Tools and extensions for CUDA profiling
+* [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples): Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 * [cats-oss/cujira](https://github.com/cats-oss/cujira): 🐳 cujira is a command line tool that makes easy to show issue list from Jira.
 * [Mebus/cupp](https://github.com/Mebus/cupp): Common User Passwords Profiler (CUPP)
 * [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists): Curated lists on various topics
@@ -1679,6 +1680,7 @@
 * [pshanmu3/dailymotion_to_m3u8](https://github.com/pshanmu3/dailymotion_to_m3u8): DailyMotion IPTV News Channels .m3u8 file
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Mar2ck/DAIN-Vulkan-GUI](https://github.com/Mar2ck/DAIN-Vulkan-GUI): AI-Powered video interpolater (eg. 30fps -> 60fps) for Vulkan devices. Based on dain-ncnn-vulkan and ffmpeg
+* [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai): The simplest way to run LLaMA on your local machine
 * [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
 * [django/daphne](https://github.com/django/daphne): Django Channels HTTP/WebSocket server
 * [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -2641,7 +2643,7 @@
 * [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 * [pleisto/flappy](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer
 * [pallets/flask](https://github.com/pallets/flask): The Python micro framework for building web applications.
-* [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin): Simple and extensible administrative interface framework for Flask
+* [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin): Simple and extensible administrative interface framework for Flask
 * [jonalxh/Flask-Admin-Dashboard](https://github.com/jonalxh/Flask-Admin-Dashboard): Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX
 * [dellintosh/flask-adminlte](https://github.com/dellintosh/flask-adminlte): Flask extension for AdminLTE dashboard and control panel template
 * [jelmerdejong/flask-app-blueprint](https://github.com/jelmerdejong/flask-app-blueprint): Flask App Blueprint / Boilerplate including user registration/login, admin only section, CRUD on database, and more. Based on Python, Flask, PostgreSQL, et al. deployed on Heroku. The #1 starter project.
@@ -3187,6 +3189,7 @@
 * [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy): Automated WPA/WPA2 PSK attack tool.
 * [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc): :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green_apple: 实时直播：WebRTC
 * [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote): Apple TV, Amazon Fire TV, Fire streaming stick, Chromecast, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
+* [cuddlexyz/Hack-Wifi](https://github.com/cuddlexyz/Hack-Wifi): WPA2 PSK No Root
 * [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu): Hacker News Delivered to Desktop :dancers:
 * [ndarilek/hacker-resume](https://github.com/ndarilek/hacker-resume): None
 * [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): A collection of hacking tools, resources and references to practice ethical hacking.
@@ -3707,7 +3710,7 @@
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
 * [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab. This is NOT a bootloader
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
-* [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+* [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 * [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab): JupyterLab computational environment.
 * [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop): JupyterLab desktop application, based on Electron.
 * [casey/just](https://github.com/casey/just): 🤖 Just a command runner
@@ -3890,6 +3893,7 @@
 * [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack): Automated tool for WiFi hacking.
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
+* [mkhasson97/LBTATools](https://github.com/mkhasson97/LBTATools): Set of tools to drastically improve development speed of UI in iOS applications
 * [leedowthwaite/LDOverlayMessage](https://github.com/leedowthwaite/LDOverlayMessage): A native tvOS message overlay, for transient, popup messages.
 * [seanpm2001/Learn-BrightScript](https://github.com/seanpm2001/Learn-BrightScript): A repository for showcasing my knowledge of the BrightScript programming language, and continuing to learn the language.
 * [Lax/Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples): 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
@@ -3926,6 +3930,7 @@
 * [Matroska-Org/libmatroska](https://github.com/Matroska-Org/libmatroska): a C++ libary to parse Matroska files (.mkv and .mka)
 * [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container): NVIDIA container runtime library
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
+* [chapmanjacobd/library](https://github.com/chapmanjacobd/library): 70+ CLI tools to build, browse, and blend your media library. An index for your archive.
 * [ddd-by-examples/library](https://github.com/ddd-by-examples/library): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 * [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [sumitk/librokudev](https://github.com/sumitk/librokudev): A community-created library of useful Roku BrightScript functions and classes
@@ -3991,7 +3996,7 @@
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-* [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
+* [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): Load, pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
 * [ltebean/Live](https://github.com/ltebean/Live): Demonstrates how to build a live broadcast app(Swift 3)
 * [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch): This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
@@ -4038,6 +4043,7 @@
 * [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+* [lobehub/lobe-midjourney-webui](https://github.com/lobehub/lobe-midjourney-webui): ⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [mudler/LocalAGI](https://github.com/mudler/LocalAGI): 100% Local AGI with LocalAI
@@ -4071,6 +4077,7 @@
 * [QMUI/LookinServer](https://github.com/QMUI/LookinServer): Free macOS app for iOS view debugging.
 * [zsiec/loom](https://github.com/zsiec/loom): None
 * [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf): A Rust library for PDF document manipulation.
+* [predibase/lorax](https://github.com/predibase/lorax): Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
 * [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army knife of lossless video/audio editing
 * [Dashibase/lotion](https://github.com/Dashibase/lotion): An open-source Notion UI built with Vue 3 
 * [puneetsl/lotion](https://github.com/puneetsl/lotion): Unofficial Notion.so app for Linux
@@ -4083,6 +4090,7 @@
 * [iamgmujtaba/LTC-SUM](https://github.com/iamgmujtaba/LTC-SUM): Implementation of  LTC-SUM: Lightweight Client-driven Personalized Video Summarization Framework Using 2D CNN
 * [openwrt/luci](https://github.com/openwrt/luci): LuCI - OpenWrt Configuration Interface
 * [lucide-icons/lucide](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+* [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig): Low-code framework for building custom LLMs, neural networks, and other AI models
 * [spotify/luigi](https://github.com/spotify/luigi): Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
 * [craigcabrey/luminance](https://github.com/craigcabrey/luminance): A Philips Hue client for Linux written in Python and GTK+.
 * [cameramanben/LUTCalc](https://github.com/cameramanben/LUTCalc): Web App for generating 1D and 3D Lookup Tables (LUTs) for video cameras that shoot log gammas.
@@ -4303,7 +4311,7 @@
 * [dvorka/mindforger](https://github.com/dvorka/mindforger): Thinking notebook and Markdown editor with LLM wingman.
 * [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 * [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally
-* [AssemblyAI-Examples/MinImagen](https://github.com/AssemblyAI-Examples/MinImagen): MinImagen: A minimal implementation of the Imagen text-to-image model
+* [AssemblyAI-Community/MinImagen](https://github.com/AssemblyAI-Community/MinImagen): MinImagen: A minimal implementation of the Imagen text-to-image model
 * [lieff/minimp4](https://github.com/lieff/minimp4): Minimalistic MP4 mux/demux single header library 
 * [minio/minio](https://github.com/minio/minio): The Object Store for AI Data Infrastructure
 * [minio/minio-go](https://github.com/minio/minio-go): MinIO Go client SDK for S3 compatible object storage
@@ -4937,6 +4945,7 @@
 * [DerekTBrown/pacmanity](https://github.com/DerekTBrown/pacmanity): Package List Gist Backup via ALPM-Hooks
 * [pacstall/pacstall](https://github.com/pacstall/pacstall): An AUR-inspired package manager for Ubuntu
 * [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
+* [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP): 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis etc.
 * [mps-youtube/pafy](https://github.com/mps-youtube/pafy): Python library to download YouTube content and retrieve metadata
 * [lalit2005/pagely](https://github.com/lalit2005/pagely): Launch beautiful websites straight from your Notion workspace or from your GitHub repo
 * [microsoft/pai](https://github.com/microsoft/pai): Resource scheduling and cluster management for AI
@@ -5134,6 +5143,7 @@
 * [Ramotion/preview-transition](https://github.com/Ramotion/preview-transition): :octocat: PreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library made by @Ramotion
 * [marty-suzuki/Prex](https://github.com/marty-suzuki/Prex): 🔁Unidirectional data flow architecture with MVP and Flux combination for Swift 
 * [alexispurslane/PRIME-GPU-Profile-Selector](https://github.com/alexispurslane/PRIME-GPU-Profile-Selector): A GNOME Extension for GNOME 43 and above to allow you to switch between integrated, discrete, and offloading hybrid graphics from the control panel.
+* [primefaces/primevue](https://github.com/primefaces/primevue): Next Generation Vue UI Component Library
 * [lvcabral/Prince-of-Persia-Roku](https://github.com/lvcabral/Prince-of-Persia-Roku): A port of the classic game Prince of Persia (1989) to Roku (BrightScript)
 * [PrismJS/prism](https://github.com/PrismJS/prism): Lightweight, robust, elegant syntax highlighting.
 * [stoplightio/prism](https://github.com/stoplightio/prism): Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
@@ -5342,6 +5352,7 @@
 * [Eyevinn/ratings-api](https://github.com/Eyevinn/ratings-api): Example of a simple implementation to build a ratings api on top of Redis
 * [xiph/rav1e](https://github.com/xiph/rav1e): The fastest and safest AV1 encoder.
 * [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader): 📖 All your articles in one place. Beautiful.
+* [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 * [avneesh0612/rayli](https://github.com/avneesh0612/rayli): 📸 A command-line tool to generate code images of your local code right away from the terminal
 * [Lakr233/Rayon](https://github.com/Lakr233/Rayon): yet another SSH machine manager
 * [rolandguelle/razer-blade-stealth-linux](https://github.com/rolandguelle/razer-blade-stealth-linux): Install and run Linux on a Razer Blade Stealth (late 2016) and Razer Core.
@@ -5387,7 +5398,7 @@
 * [1ec5/read-only-coding](https://github.com/1ec5/read-only-coding): Automator services to make coding in Xcode easier
 * [mozilla/readability](https://github.com/mozilla/readability): A standalone version of the readability lib
 * [jina-ai/reader](https://github.com/jina-ai/reader): Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
-* [eli64s/readme-ai](https://github.com/eli64s/readme-ai): 🚀 Automated README file generator, powered by large language model APIs.
+* [eli64s/readme-ai](https://github.com/eli64s/readme-ai): README file generator, powered by large language model APIs 👾
 * [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator): 📄 CLI that generates beautiful README.md files
 * [mayur091193/readme-pro](https://github.com/mayur091193/readme-pro): Simple and Easy way to create any ReadMe. Make readme in just few clicks!
 * [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal): Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
@@ -5725,13 +5736,14 @@
 * [reHackable/scripts](https://github.com/reHackable/scripts): [ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience
 * [justeat/ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController): A view controller that uses root views of child view controllers as views in a UIStackView.
 * [jamesfining/scte](https://github.com/jamesfining/scte): Python library to work with SCTE standards.
+* [futzu/SCTE-35](https://github.com/futzu/SCTE-35): threefive is the best SCTE-35 tool available. SCTE-35 Decoder, SCTE-35 Encoder, SCTE-35 Parser. 
 * [futzu/SCTE-35_HLS_x9k3](https://github.com/futzu/SCTE-35_HLS_x9k3): HLS and SCTE-35   x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
-* [futzu/SCTE-35_threefive](https://github.com/futzu/SCTE-35_threefive):  SCTE-35 Parser. SCTE-35 Decoder. SCTE-35 Encoder.  The Best SCTE-35 Parser. Adrian is Super Cool.
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
 * [lopho/sd-video](https://github.com/lopho/sd-video): Text to Video
+* [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme): 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 * [kabachuha/sd-webui-text2video](https://github.com/kabachuha/sd-webui-text2video): Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
@@ -5977,7 +5989,7 @@
 * [CoderLNHui/SourceCodeAnalysis](https://github.com/CoderLNHui/SourceCodeAnalysis): iOS 常用第三方库源码分析，跟迭式积累，欢迎阅读！
 * [SourceDocs/SourceDocs](https://github.com/SourceDocs/SourceDocs): Generate Markdown documentation from source code
 * [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph): Code AI platform with Code Search & Cody
-* [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
+* [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
 * [jinmingjian/sourcekite](https://github.com/jinmingjian/sourcekite): the backend of SDE's language server
 * [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery): Meta-programming for Swift, stop writing boilerplate code.
 * [sovereign/sovereign](https://github.com/sovereign/sovereign): A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -6222,7 +6234,7 @@
 * [pointfreeco/swift-nonempty](https://github.com/pointfreeco/swift-nonempty): 🎁 A compile-time guarantee that a collection contains a value.
 * [wassimseif/Swift-on-linux](https://github.com/wassimseif/Swift-on-linux): a shell script for installing swift on linux with libdispatch
 * [pointfreeco/swift-overture](https://github.com/pointfreeco/swift-overture): 🎼 A library for function composition.
-* [apple/swift-package-manager](https://github.com/apple/swift-package-manager): The Package Manager for the Swift Programming Language
+* [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager): The Package Manager for the Swift Programming Language
 * [apple/swift-protobuf](https://github.com/apple/swift-protobuf): Plugin and runtime library for using protobuf with Swift
 * [analogcode/Swift-Radio-Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional Radio Station App for iOS!
 * [mxcl/swift-sh](https://github.com/mxcl/swift-sh): Easily script with third-party Swift dependencies.
@@ -6231,7 +6243,7 @@
 * [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite): The infrastructure and project index comprising the Swift source compatibility suite.
 * [Eyevinn/swift-srt](https://github.com/Eyevinn/swift-srt): None
 * [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview): None
-* [apple/swift-syntax](https://github.com/apple/swift-syntax): A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+* [swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax): A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 * [Ramotion/swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries): Swift UI libraries, iOS components and animations by @Ramotion
 * [pointfreeco/swift-validated](https://github.com/pointfreeco/swift-validated): 🛂 A result type that accumulates multiple errors.
 * [dev-labs-bg/swift-video-generator](https://github.com/dev-labs-bg/swift-video-generator): None
@@ -6276,6 +6288,7 @@
 * [JohnSundell/SwiftTips](https://github.com/JohnSundell/SwiftTips): A collection of Swift tips & tricks that I've shared on Twitter
 * [williamFalcon/SwiftTryCatch](https://github.com/williamFalcon/SwiftTryCatch): Adds try-catch support for Swift
 * [ahmetws/swifttube](https://github.com/ahmetws/swifttube): iOS conference videos in one place
+* [frzi/swiftui-router](https://github.com/frzi/swiftui-router): Path-based routing in SwiftUI
 * [unpause-live/SwiftVideo](https://github.com/unpause-live/SwiftVideo): Swift Video Framework for Linux, macOS, and iOS/iPadOS
 * [abdullahselek/Swifty360Player](https://github.com/abdullahselek/Swifty360Player): iOS 360-degree video player streaming from an AVPlayer.
 * [vapor-community/swiftybeaver-provider](https://github.com/vapor-community/swiftybeaver-provider): SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework https://swiftybeaver.com
@@ -6390,7 +6403,7 @@
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
-* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models.
 * [Atinoda/text-generation-webui-docker](https://github.com/Atinoda/text-generation-webui-docker): Docker variants of oobabooga's text-generation-webui, including pre-built images.
 * [saravanakumarjsk/Text-to-speach-with-gTTS](https://github.com/saravanakumarjsk/Text-to-speach-with-gTTS): Converting text file to mp3 speach format using gTTS
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
@@ -6686,6 +6699,7 @@
 * [thiagolioy/useful_scripts](https://github.com/thiagolioy/useful_scripts): some useful scripts with different purposes .
 * [Eyevinn/user-segmentation-api](https://github.com/Eyevinn/user-segmentation-api): Example of a simple implementation to build a user segmentation api on top of Redis
 * [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x): Customizable user-theme with user stylesheet and night theme auto-switch based on the Night Light.
+* [duliodenis/userdefaults-wrapper](https://github.com/duliodenis/userdefaults-wrapper): This is a Swift / SwiftUI property wrapper that simplifies working with UserDefaults, allowing developers to use properties that automatically sync with UserDefaults.
 * [omaralbeik/UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore): Why not use UserDefaults to store Codable objects 😉
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [encode/uvicorn](https://github.com/encode/uvicorn): An ASGI web server, for Python. 🦄
@@ -6897,6 +6911,7 @@
 * [videolan/vlc-ios](https://github.com/videolan/vlc-ios): VLC for iOS/iPadOS and tvOS official mirror
 * [dklinzh/VLCKit](https://github.com/dklinzh/VLCKit): A powerful library of audio/video on iOS, macOS and tvOS. Fork from https://code.videolan.org/videolan/VLCKit. Official mirror https://github.com/videolan/vlckit.
 * [videolan/vlckit](https://github.com/videolan/vlckit): libvlc bindings for OS X, iOS and tvOS in Objective-C, official mirror
+* [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
 * [Netflix/vmaf](https://github.com/Netflix/vmaf): Perceptual video quality assessment based on multi-method fusion.
 * [leandromoreira/vmaf](https://github.com/leandromoreira/vmaf): Perceptual video quality assessment based on multi-method fusion.
 * [Eyevinn/vmaf-analyze](https://github.com/Eyevinn/vmaf-analyze): None
@@ -7055,6 +7070,8 @@
 * [lixmk/Wiegotcha](https://github.com/lixmk/Wiegotcha): Wiegotcha: Long Range RFID Thief
 * [trevatk/Wifi-Cracker](https://github.com/trevatk/Wifi-Cracker): Wifi Cracking 
 * [R3LI4NT/Wifi-Hack](https://github.com/R3LI4NT/Wifi-Hack): Herramienta automatizada para crackear redes WiFi con protección WPA2 y WPS.
+* [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker): Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
+* [esc0rtd3w/wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker): Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 * [U7P4L-IN/WIFI-HACKING](https://github.com/U7P4L-IN/WIFI-HACKING): Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES) hacking is not a crime it's a skills .
 * [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking): Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 * [akashblackhat/wifi-hacking.py](https://github.com/akashblackhat/wifi-hacking.py): Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES) hacking is not a crime it's a skills , 

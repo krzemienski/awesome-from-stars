@@ -413,7 +413,7 @@
     "AsahiLinux/m1n1": [
         "Other"
     ],
-    "AssemblyAI-Examples/MinImagen": [
+    "AssemblyAI-Community/MinImagen": [
         "Other"
     ],
     "AstraExt/astra-monitor": [
@@ -3110,6 +3110,9 @@
     "NVIDIA/cuda-profiler": [
         "Other"
     ],
+    "NVIDIA/cuda-samples": [
+        "Other"
+    ],
     "NVIDIA/gpu-monitoring-tools": [
         "Other"
     ],
@@ -3411,6 +3414,9 @@
         "Other"
     ],
     "PaddlePaddle/PaddleHub": [
+        "Other"
+    ],
+    "PaddlePaddle/PaddleNLP": [
         "Other"
     ],
     "Palethorn/multibitrate-vod": [
@@ -4239,6 +4245,9 @@
         "Other"
     ],
     "Tencent/OOMDetector": [
+        "Other"
+    ],
+    "TermuxHackz/wifi-hacker": [
         "Other"
     ],
     "TextureGroup/Texture": [
@@ -5780,9 +5789,6 @@
     "apple/sample-food-truck": [
         "Other"
     ],
-    "apple/sourcekit-lsp": [
-        "Other"
-    ],
     "apple/swift-algorithms": [
         "Other"
     ],
@@ -5807,16 +5813,10 @@
     "apple/swift-nio-http2": [
         "Other"
     ],
-    "apple/swift-package-manager": [
-        "Other"
-    ],
     "apple/swift-protobuf": [
         "Other"
     ],
     "apple/swift-standard-library-preview": [
-        "Other"
-    ],
-    "apple/swift-syntax": [
         "Other"
     ],
     "apprenticeharper/DeDRM_tools": [
@@ -7253,6 +7253,9 @@
     "chaosblade-io/chaosblade": [
         "Other"
     ],
+    "chapmanjacobd/library": [
+        "Other"
+    ],
     "charleyup/banzou": [
         "Other"
     ],
@@ -7500,6 +7503,9 @@
         "Other"
     ],
     "cockpit-project/cockpit": [
+        "Other"
+    ],
+    "cocktailpeanut/dalai": [
         "Other"
     ],
     "code-vicar/rpm": [
@@ -7821,6 +7827,9 @@
         "Other"
     ],
     "cta-wave/dpctf-deploy": [
+        "Other"
+    ],
+    "cuddlexyz/Hack-Wifi": [
         "Other"
     ],
     "cuigh/swirl": [
@@ -8807,6 +8816,9 @@
     "duliodenis/modern-swift-reachability": [
         "Other"
     ],
+    "duliodenis/userdefaults-wrapper": [
+        "Other"
+    ],
     "dullage/flatnotes": [
         "Other"
     ],
@@ -9261,6 +9273,9 @@
         "Other"
     ],
     "esaygiver/EVPlayer": [
+        "Other"
+    ],
+    "esc0rtd3w/wifi-hacker": [
         "Other"
     ],
     "escaped/django-video-encoding": [
@@ -9719,9 +9734,6 @@
     "flameshot-org/flameshot": [
         "Other"
     ],
-    "flask-admin/flask-admin": [
-        "Other"
-    ],
     "flask-dashboard/Flask-MonitoringDashboard": [
         "Other"
     ],
@@ -9881,6 +9893,9 @@
     "frol/completely-unscientific-benchmarks": [
         "Other"
     ],
+    "frzi/swiftui-router": [
+        "Other"
+    ],
     "fsaragoca/fastlane-plugin-changelog_generator": [
         "Other"
     ],
@@ -9923,10 +9938,10 @@
     "futurice/ios-good-practices": [
         "Other"
     ],
-    "futzu/SCTE-35_HLS_x9k3": [
+    "futzu/SCTE-35": [
         "Other"
     ],
-    "futzu/SCTE-35_threefive": [
+    "futzu/SCTE-35_HLS_x9k3": [
         "Other"
     ],
     "futzu/umzz": [
@@ -13397,6 +13412,12 @@
     "lobehub/lobe-chat": [
         "Other"
     ],
+    "lobehub/lobe-midjourney-webui": [
+        "Other"
+    ],
+    "lobehub/sd-webui-lobe-theme": [
+        "Other"
+    ],
     "lobre/rmuploader": [
         "Other"
     ],
@@ -13509,6 +13530,9 @@
         "Other"
     ],
     "luckymarmot/API-Flow": [
+        "Other"
+    ],
+    "ludwig-ai/ludwig": [
         "Other"
     ],
     "luebke-dev/smbios-thermal-ctl-gnome-ext": [
@@ -14496,6 +14520,9 @@
         "Other"
     ],
     "mkaflowski/HybridMediaPlayer": [
+        "Other"
+    ],
+    "mkhasson97/LBTATools": [
         "Other"
     ],
     "ml-archive/aws": [
@@ -15941,6 +15968,9 @@
     "palfrey/wharf": [
         "Other"
     ],
+    "pallets-eco/flask-admin": [
+        "Other"
+    ],
     "pallets/flask": [
         "Other"
     ],
@@ -16460,10 +16490,16 @@
     "prcongithub/do-assets": [
         "Other"
     ],
+    "predibase/lorax": [
+        "Other"
+    ],
     "prettier/prettier": [
         "Other"
     ],
     "pricingassistant/mrq": [
+        "Other"
+    ],
+    "primefaces/primevue": [
         "Other"
     ],
     "priore/SOAPEngine": [
@@ -16887,6 +16923,9 @@
         "Other"
     ],
     "raviranjan0309/Flask-NGINX-Gunicorn-Docker-Kubernetes": [
+        "Other"
+    ],
+    "ray-project/ray": [
         "Other"
     ],
     "rb-de0/go-mp4-stream": [
@@ -18947,6 +18986,9 @@
     "swiftengine/SwiftEngine": [
         "Other"
     ],
+    "swiftlang/sourcekit-lsp": [
+        "Other"
+    ],
     "swiftlang/swift": [
         "Other"
     ],
@@ -18959,7 +19001,13 @@
     "swiftlang/swift-installer-scripts": [
         "Other"
     ],
+    "swiftlang/swift-package-manager": [
+        "Other"
+    ],
     "swiftlang/swift-source-compat-suite": [
+        "Other"
+    ],
+    "swiftlang/swift-syntax": [
         "Other"
     ],
     "swisspol/GCDWebServer": [
@@ -20304,6 +20352,9 @@
         "Other"
     ],
     "vlang/v": [
+        "Other"
+    ],
+    "vllm-project/vllm": [
         "Other"
     ],
     "vmarkovtsev/GitHubStars": [
