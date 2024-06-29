@@ -110,7 +110,7 @@
 
 # Other
 
-* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Short code snippets for all your development needs
 * [Jnzzi/4464_L3-CDM](https://github.com/Jnzzi/4464_L3-CDM): None
 * [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code): 500 AI Machine learning Deep learning Computer vision NLP Projects with code
@@ -3996,7 +3996,7 @@
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-* [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): Load, pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
+* [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLM implementations with recipes to pretrain, finetune and deploy at scale.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
 * [ltebean/Live](https://github.com/ltebean/Live): Demonstrates how to build a live broadcast app(Swift 3)
 * [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch): This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
@@ -4288,7 +4288,7 @@
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
-* [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的测试管理和接口测试工具，让测试工作更简单、更高效，不再成为持续交付的瓶颈。
+* [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的测试管理和接口测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server): Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 * [Yamazaki93/MetroGit](https://github.com/Yamazaki93/MetroGit): A git visualization tool that's more than just git
@@ -4431,7 +4431,7 @@
 * [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream): The easiest music streaming server available
 * [manti-by/mtools](https://github.com/manti-by/mtools): Useful bash shell scripts for updates, converting media files, etc.
 * [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy): None
-* [mallowigi/mtslack](https://github.com/mallowigi/mtslack): Customize your Slack experience with tweaks and themes. Includes the famous Material Themes as well as other popular themes such as Monokai Pro, Dracula, Atom One, GitHub, Solarized, Night Owl...
+* [AtomMaterialUI/mtslack](https://github.com/AtomMaterialUI/mtslack): Customize your Slack experience with tweaks and themes. Includes the famous Material Themes as well as other popular themes such as Monokai Pro, Dracula, Atom One, GitHub, Solarized, Night Owl...
 * [RonRothman/mtwsgi](https://github.com/RonRothman/mtwsgi): A Multithreaded Python WSGI Implementation
 * [mugiseyebrows/mugi-ffmpeg](https://github.com/mugiseyebrows/mugi-ffmpeg): Gui for ffmpeg to simplify transcoding and embeding audio / subtitles in mkv videos
 * [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer): MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
@@ -4482,7 +4482,6 @@
 * [NAStool/nas-tools](https://github.com/NAStool/nas-tools): NAS媒体库管理工具
 * [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie): Natalie - Storyboard Code Generator (for Swift)
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
-* [natmlx/NatReader](https://github.com/natmlx/NatReader): Cross-platform video decoding for Unity Engine.
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
 * [navidrome/navidrome](https://github.com/navidrome/navidrome): 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 * [phuctm97/nbundle-create-notion-app](https://github.com/phuctm97/nbundle-create-notion-app): Create nbundle-powered Notion apps with one command.
@@ -4817,7 +4816,7 @@
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 * [ollama-interface/Ollama-Gui](https://github.com/ollama-interface/Ollama-Gui): A GUI interface for Ollama
 * [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI): User Interface made for Ollama.ai using Swift
 * [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac): Mac compatible Ollama Voice
@@ -5134,7 +5133,7 @@
 * [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources): Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course 
 * [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python): Practical Python Programming (course by @dabeaz)
 * [connervieira/Predator](https://github.com/connervieira/Predator): A multi-purpose camera system focused on offline license plate and object recognition
-* [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+* [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 * [kean/Preheat](https://github.com/kean/Preheat): Automates prefetching of content in UITableView and UICollectionView
 * [IcaliaLabs/Presentr](https://github.com/IcaliaLabs/Presentr): Swift wrapper for custom ViewController presentations on iOS
 * [prettier/prettier](https://github.com/prettier/prettier): Prettier is an opinionated code formatter.
@@ -5276,7 +5275,7 @@
 * [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template): 🚀 Your next Python package needs a bleeding-edge project structure.
 * [faif/python-patterns](https://github.com/faif/python-patterns): A collection of design patterns/idioms in Python
 * [jcarbaugh/python-roku](https://github.com/jcarbaugh/python-roku): Screw remotes. Control your Roku with Python.
-* [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples): 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 https://www.zglg.work
+* [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples): 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com
 * [omab/python-social-auth](https://github.com/omab/python-social-auth): Social auth made simple
 * [openstack/python-swiftclient](https://github.com/openstack/python-swiftclient): OpenStack Storage (Swift) Client. Mirror of code maintained at opendev.org.
 * [senko/python-video-converter](https://github.com/senko/python-video-converter): Python Video Converter (ffmpeg wrapper)
@@ -5628,7 +5627,7 @@
 * [zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys): FFmpeg bindings for Rust.
 * [chrisballinger/rust-framework-template](https://github.com/chrisballinger/rust-framework-template): Template for creating cross-platform Rust libraries as iOS/macOS/tvOS/watchOS Swift frameworks.
 * [polyfloyd/rust-id3](https://github.com/polyfloyd/rust-id3): A rust library for reading and writing ID3 metadata
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop, and alternative to TeamViewer.
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings): :crab: Small exercises to get you used to reading and writing Rust code!
 * [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
 * [rust-lang/rustup](https://github.com/rust-lang/rustup): The Rust toolchain installer

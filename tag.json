@@ -425,6 +425,9 @@
     "Atinoda/text-generation-webui-docker": [
         "Other"
     ],
+    "AtomMaterialUI/mtslack": [
+        "Other"
+    ],
     "AudioKit/AudioKit": [
         "Other"
     ],
@@ -13757,9 +13760,6 @@
     "malcommac/UIWindowTransitions": [
         "Other"
     ],
-    "mallowigi/mtslack": [
-        "Other"
-    ],
     "manasesjesus/manasesjesus": [
         "Other"
     ],
@@ -15012,9 +15012,6 @@
         "Other"
     ],
     "nativefier/nativefier": [
-        "Other"
-    ],
-    "natmlx/NatReader": [
         "Other"
     ],
     "naveenland4/YouTube_to_m3u": [
