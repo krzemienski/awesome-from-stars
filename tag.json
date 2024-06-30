@@ -446,6 +446,9 @@
     "AutoFixture/AutoFixture": [
         "Other"
     ],
+    "AutoGPTQ/AutoGPTQ": [
+        "Other"
+    ],
     "Automattic/node-canvas": [
         "Other"
     ],
@@ -2816,6 +2819,9 @@
     "LorneFlindall/Roku_Command_Grabber": [
         "Other"
     ],
+    "LostRuins/koboldcpp": [
+        "Other"
+    ],
     "LuaxY/Nitro": [
         "Other"
     ],
@@ -3024,6 +3030,9 @@
         "Other"
     ],
     "Mobile-Artificial-Intelligence/maid": [
+        "Other"
+    ],
+    "Mobile-Artificial-Intelligence/maid_llm": [
         "Other"
     ],
     "MobileNativeFoundation/XCLogParser": [
@@ -3983,6 +3992,9 @@
     "SilentVoid13/Templater": [
         "Other"
     ],
+    "SillyTavern/SillyTavern": [
+        "Other"
+    ],
     "SimformSolutionsPvtLtd/SSffmpegVideoOperation": [
         "Other"
     ],
@@ -4385,6 +4397,9 @@
     "TuomoKu/SPX-GC": [
         "Other"
     ],
+    "TypingMind/plugins-server": [
+        "Other"
+    ],
     "TysonWorks/cdk-examples": [
         "Other"
     ],
@@ -4661,6 +4676,9 @@
     "ZeStream/zestream-server": [
         "Other"
     ],
+    "ZerBea/hcxtools": [
+        "Other"
+    ],
     "ZeroX-DG/SnippetStore": [
         "Other"
     ],
@@ -4821,6 +4839,9 @@
         "Other"
     ],
     "actions/container-toolkit-action": [
+        "Other"
+    ],
+    "actions/deploy-pages": [
         "Other"
     ],
     "actions/runner-images": [
@@ -5039,6 +5060,9 @@
     "airbnb/streamalert": [
         "Other"
     ],
+    "aircrack-ng/aircrack-ng": [
+        "Other"
+    ],
     "aixcoder-plugin/aiXcoder-7B": [
         "Other"
     ],
@@ -5154,6 +5178,9 @@
         "Other"
     ],
     "alexpate/awesome-design-systems": [
+        "Other"
+    ],
+    "alexpinel/Dot": [
         "Other"
     ],
     "alextall/plexify": [
@@ -6857,6 +6884,9 @@
     "brandonsaldan/codex": [
         "Other"
     ],
+    "brannondorsey/wifi-cracking": [
+        "Other"
+    ],
     "brarcher/video-transcoder": [
         "Other"
     ],
@@ -7406,6 +7436,9 @@
     "cinatic/kubectl-extension": [
         "Other"
     ],
+    "cinquemb/WifiBruteCrack": [
+        "Other"
+    ],
     "circleci/circleci-docs": [
         "Other"
     ],
@@ -7901,6 +7934,9 @@
     "czqasngit/ffmpeg-player": [
         "Other"
     ],
+    "cztomsik/ava": [
+        "Other"
+    ],
     "d-demirci/django-adminlte3": [
         "Other"
     ],
@@ -7968,6 +8004,9 @@
         "Other"
     ],
     "danielgtaylor/qtfaststart": [
+        "Other"
+    ],
+    "danielmiessler/SecLists": [
         "Other"
     ],
     "danielmiessler/fabric": [
@@ -10772,6 +10811,9 @@
     "haseeb-heaven/heavens-gpt": [
         "Other"
     ],
+    "hashcat/hashcat": [
+        "Other"
+    ],
     "hashicorp/consul": [
         "Other"
     ],
@@ -12035,6 +12077,9 @@
     "joshpxyne/gpt-migrate": [
         "Other"
     ],
+    "joshskidmore/gpd-pocket2-ubuntu": [
+        "Other"
+    ],
     "joshuaavalon/SynologyCloudflareDDNS": [
         "Other"
     ],
@@ -12708,6 +12753,9 @@
         "Other"
     ],
     "krishnakumarsekar/awesome-quantum-machine-learning": [
+        "Other"
+    ],
+    "kriswebdev/android_aircrack": [
         "Other"
     ],
     "kronenthaler/mod-pbxproj": [
@@ -16671,6 +16719,9 @@
         "Other"
     ],
     "pythonprofilers/memory_profiler": [
+        "Other"
+    ],
+    "pythops/tenere": [
         "Other"
     ],
     "pytorch/pytorch": [

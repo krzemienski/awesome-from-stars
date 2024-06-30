@@ -202,6 +202,7 @@
 * [bachya/aiolinkding](https://github.com/bachya/aiolinkding): A Python3, async interface to the linkding REST API
 * [aiortc/aioquic](https://github.com/aiortc/aioquic): QUIC and HTTP/3 implementation in Python
 * [IBM/air-traffic-control](https://github.com/IBM/air-traffic-control): # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
+* [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng): WiFi security auditing tools suite
 * [apache/airflow](https://github.com/apache/airflow): Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 * [mpolatcan/airflow-docker](https://github.com/mpolatcan/airflow-docker): Scalable Airflow Docker image that works Docker and Kubernetes
 * [bhavaniravi/airflow-kube-setup](https://github.com/bhavaniravi/airflow-kube-setup): How to deploy airflow on Kubernetes
@@ -287,6 +288,7 @@
 * [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
 * [iknow4/Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer): Android-Video-Trimmer项目实现了对长短视频进行片段的裁剪选择。使用MediaMetadataRetriever获取视频帧，采用ffmpeg进行视频裁剪，和视频压缩。
+* [kriswebdev/android_aircrack](https://github.com/kriswebdev/android_aircrack): Aircrack-ng command-line for Android. Binaries & source. 🇺🇦 SUPPORT UKRAINE! 🇺🇦
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
 * [googlesamples/androidtv-sample-inputs](https://github.com/googlesamples/androidtv-sample-inputs): Sample Channel App (TV Input Service) on Android TV using TIF
 * [ArezooNazer/AndroidVideoPlayer](https://github.com/ArezooNazer/AndroidVideoPlayer): A video player based on Media3 Exoplayer
@@ -536,6 +538,7 @@
 * [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 * [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 * [aorumbayev/autogpt4all](https://github.com/aorumbayev/autogpt4all): 🛠️ User-friendly bash script for setting up and configuring your LocalAI server with the GPT4All for free! 💸
+* [AutoGPTQ/AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ): An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 * [akordadev/AutoLayoutMagic](https://github.com/akordadev/AutoLayoutMagic): Build 1 scene, let AutoLayoutMagic generate the constraints for you!
 * [kishikawakatsumi/AutoLayoutManiacs](https://github.com/kishikawakatsumi/AutoLayoutManiacs): None
@@ -577,6 +580,7 @@
 * [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an): Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 * [Kidsnd274/Av1anStaxRipWrapper](https://github.com/Kidsnd274/Av1anStaxRipWrapper): Wrapper script to use Av1an with StaxRip
 * [luziferius/av1transcoder](https://github.com/luziferius/av1transcoder): Transcode video files to the AV1 format using ffmpeg and libaom-av1.
+* [cztomsik/ava](https://github.com/cztomsik/ava): All-in-one desktop app for running LLMs locally.
 * [media-toolbox/avbroadcast](https://github.com/media-toolbox/avbroadcast): avbroadcast - republish media streams for mass consumption
 * [wang-bin/avbuild](https://github.com/wang-bin/avbuild): ffmpeg花式编译. build tool for all platforms: iOS, android, raspberry pi, win32, uwp, linux, macOS etc.
 * [h4tr3d/avcpp](https://github.com/h4tr3d/avcpp): C++ wrapper for FFmpeg
@@ -1801,6 +1805,7 @@
 * [pandora-next/deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
 * [coder/deploy-code-server](https://github.com/coder/deploy-code-server): Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 * [Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS](https://github.com/Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS): None
+* [actions/deploy-pages](https://github.com/actions/deploy-pages): GitHub Action to publish artifacts to GitHub Pages for deployments
 * [jay-johnson/deploy-to-kubernetes](https://github.com/jay-johnson/deploy-to-kubernetes): Deploy a distributed AI stack to a multi-host or single-host Kubernetes cluster on CentOS 7 and also works on AWS - and comes with: cert-manager + redis-cluster + rook-ceph for persistent storage + minio s3 object store + splunk + optional external dns server + affinity examples - validated with K8 version 1.13.4 :hammer: :wrench: :cloud:
 * [ziishaned/deployer](https://github.com/ziishaned/deployer): Cross-platform application to deploy your applications through Jenkins.
 * [Villanuevand/deployment-circleci-gh-pages](https://github.com/Villanuevand/deployment-circleci-gh-pages): CircleCi and Github Pages integration...:computer: :zap: :thought_balloon:
@@ -2057,6 +2062,7 @@
 * [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler): Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 * [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io): 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 * [kraanzu/dooit](https://github.com/kraanzu/dooit): An awesome TUI todo manager
+* [alexpinel/Dot](https://github.com/alexpinel/Dot): Text-To-Speech, RAG, and LLMs. All local!
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
 * [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles): KDE Plasma for twm users.
@@ -2555,7 +2561,7 @@
 * [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm): FFmpeg for browser, powered by WebAssembly
 * [ffmpegwasm/ffmpeg.wasm-core](https://github.com/ffmpegwasm/ffmpeg.wasm-core): Mirror of git://source.ffmpeg.org/ffmpeg.git
 * [Manevolent/ffmpeg4j](https://github.com/Manevolent/ffmpeg4j): A Java OOP FFmpeg wrapper around the JavaCPP FFmpeg native library bindings
-* [nextbreakpoint/ffmpeg4java](https://github.com/nextbreakpoint/ffmpeg4java): FFmpeg4Java provides a JNI wrapper of FFmpeg library
+* [nextbreakpoint/ffmpeg4java](https://github.com/nextbreakpoint/ffmpeg4java): FFmpeg4Java provides a Java wrapper of FFmpeg library
 * [eibol/ffmpeg_batch](https://github.com/eibol/ffmpeg_batch): FFmpeg Batch AV Converter
 * [apirrone/ffmpeg_gpt](https://github.com/apirrone/ffmpeg_gpt): Using GPT to generate bash scripts that use ffmpeg commands to process videos
 * [chinahbcq/ffmpeg_hw_decode](https://github.com/chinahbcq/ffmpeg_hw_decode): video stream hardware decoding and color space conversion by ffmpeg and cuda. thread safe.
@@ -3091,6 +3097,7 @@
 * [stockmind/gpd-pocket-screen-indicator](https://github.com/stockmind/gpd-pocket-screen-indicator): Screen and touch rotation helper and indicator for GPD Pocket
 * [stockmind/gpd-pocket-ubuntu-respin](https://github.com/stockmind/gpd-pocket-ubuntu-respin): Collection of scripts and tweaks to adapt Ubuntu and Linux Mint ISO images to let them run smooth on GPD Pocket
 * [jibsaramnim/gpd-pocket2-hackintosh](https://github.com/jibsaramnim/gpd-pocket2-hackintosh): Clover configuration and required/related Kexts to run macOS on your GPD Pocket 2.
+* [joshskidmore/gpd-pocket2-ubuntu](https://github.com/joshskidmore/gpd-pocket2-ubuntu): A couple of scripts for GPD Pocket and GPD Pocket 2 Ubuntu users.
 * [kyaukyuai/gpt-all-star](https://github.com/kyaukyuai/gpt-all-star): 🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
 * [kyaukyuai/gpt-all-star-ui](https://github.com/kyaukyuai/gpt-all-star-ui): 🤖 UI for gpt-all-star: https://github.com/kyaukyuai/gpt-all-star
 * [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant): gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
@@ -3216,10 +3223,12 @@
 * [alibaba/HandyJSON](https://github.com/alibaba/HandyJSON): A handy swift json-object serialization/deserialization library
 * [Haneke/HanekeSwift](https://github.com/Haneke/HanekeSwift): A lightweight generic cache for iOS written in Swift with extra love for images.
 * [goharbor/harbor](https://github.com/goharbor/harbor): An open source trusted cloud native registry project that stores, signs, and scans content.
+* [hashcat/hashcat](https://github.com/hashcat/hashcat): World's fastest and most advanced password recovery utility
 * [vinteo/hass-neeo](https://github.com/vinteo/hass-neeo): NEEO custom component for Home Assistant
 * [codeabovelab/haven-platform](https://github.com/codeabovelab/haven-platform): Haven is an open source Docker container management system. It integrates container, application, cluster, image, and registry management in one single place. 
 * [deepset-ai/haystack](https://github.com/deepset-ai/haystack): :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 * [Samsung/HbbPlayer](https://github.com/Samsung/HbbPlayer): HbbPlayer is HbbTV application which can playback media by using url of media as parameter. It conforms to W3C and HbbTV specification.
+* [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools): A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
 * [ThaCheeseBun/hdr-sucks](https://github.com/ThaCheeseBun/hdr-sucks): libx265 transcoding wrapper with HDR support
 * [quietvoid/hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool): CLI utility to work with HDR10+ in HEVC files.
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox): HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
@@ -3792,6 +3801,7 @@
 * [ethanhuang13/knil](https://github.com/ethanhuang13/knil): Universal Links testing made easy
 * [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo): A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 * [digimezzo/knowte](https://github.com/digimezzo/knowte): Cross platform note taking application
+* [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 * [eneim/kohii](https://github.com/eneim/kohii): Android Video Playback made easy.
 * [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss): None
 * [shibapm/Komondor](https://github.com/shibapm/Komondor): Git Hooks for Swift projects 🐩
@@ -4149,6 +4159,7 @@
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [Prismadic/magnet](https://github.com/Prismadic/magnet): the small distributed language model toolkit; fine-tune state-of-the-art LLMs anywhere, rapidly
 * [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid): Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. 
+* [Mobile-Artificial-Intelligence/maid_llm](https://github.com/Mobile-Artificial-Intelligence/maid_llm): maid_llm is a dart implementation of llama.cpp used by the mobile artificial intelligence distribution (maid)
 * [bkw777/mainline](https://github.com/bkw777/mainline): Install mainline kernel packages from kernel.ubuntu.com
 * [makedeb/makedeb](https://github.com/makedeb/makedeb): A simplicity-focused packaging tool for Debian archives
 * [uber-archive/makisu](https://github.com/uber-archive/makisu): Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
@@ -5080,6 +5091,7 @@
 * [zeroepoch/plotbitrate](https://github.com/zeroepoch/plotbitrate): FFProbe Bitrate Graph
 * [flutter/plugins](https://github.com/flutter/plugins): Plugins for Flutter maintained by the Flutter team
 * [swc-project/plugins](https://github.com/swc-project/plugins): Plugins for swc, written in rust
+* [TypingMind/plugins-server](https://github.com/TypingMind/plugins-server): Open-source proxy server for Typing Mind's Plugins
 * [PlumMediaCenter/PlumMediaCenter.RokuOld](https://github.com/PlumMediaCenter/PlumMediaCenter.RokuOld): Source code for a Roku Application that interfaces with an instance of PlumMediaServer
 * [pluralsh/plural](https://github.com/pluralsh/plural): Deploy open source software on Kubernetes in record time. 🚀
 * [itsuka-dev/plurality](https://github.com/itsuka-dev/plurality): A cornucopia of open source UIs built with ChatGPT API.
@@ -5756,6 +5768,7 @@
 * [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer): Script collection to setup production-ready Seafile server installations with HTTPS
 * [xwmx/search.sh](https://github.com/xwmx/search.sh): A command line search multi-tool.
 * [apasccon/SearchTextField](https://github.com/apasccon/SearchTextField): UITextField subclass with autocompletion suggestions list
+* [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [oslabs-beta/seeql](https://github.com/oslabs-beta/seeql): see your database in a new way
 * [segmentio/segment-proxy](https://github.com/segmentio/segment-proxy): Proxies requests to the Segment CDN and Tracking API.
 * [gabek/SegmentIO-Brightscript](https://github.com/gabek/SegmentIO-Brightscript): A BrightScript interface to SegmentIO event tracking
@@ -5846,6 +5859,7 @@
 * [klaudiosinani/signale](https://github.com/klaudiosinani/signale): Highly configurable logging utility
 * [uber/signals-ios](https://github.com/uber/signals-ios): Typeful eventing
 * [Tourenathan-G5organisation/SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor): A powerful, flexible and easy to use Video and Image compression library for Android.
+* [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern): LLM Frontend for Power Users.
 * [a2nt/silverstripe-digitalocean-nginx-backup-scripts](https://github.com/a2nt/silverstripe-digitalocean-nginx-backup-scripts): SilverStripe Digital Ocean + NGINX + Dropbox service sripts
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [Ikuyadeu/similar-code-searcher](https://github.com/Ikuyadeu/similar-code-searcher): a GitHub App built with probot that searches files similar with deleted code in Pull Request.
@@ -6377,6 +6391,7 @@
 * [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater): A template plugin for obsidian
 * [easypanel-io/templates](https://github.com/easypanel-io/templates): None
 * [portainer/templates](https://github.com/portainer/templates): App Templates used by Portainer
+* [pythops/tenere](https://github.com/pythops/tenere): 🔥 TUI interface for LLMs written in Rust
 * [DavidBrightSparc/Tenets-of-IT](https://github.com/DavidBrightSparc/Tenets-of-IT): The Tenets of IT: an accumulation of IT advice, wisdom, and humour.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
@@ -7068,6 +7083,7 @@
 * [medvm/widevine_keys](https://github.com/medvm/widevine_keys): This repo created for bypassing Widevine L3 DRM and obtaining keys.
 * [lixmk/Wiegotcha](https://github.com/lixmk/Wiegotcha): Wiegotcha: Long Range RFID Thief
 * [trevatk/Wifi-Cracker](https://github.com/trevatk/Wifi-Cracker): Wifi Cracking 
+* [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking): Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 * [R3LI4NT/Wifi-Hack](https://github.com/R3LI4NT/Wifi-Hack): Herramienta automatizada para crackear redes WiFi con protección WPA2 y WPS.
 * [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker): Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 * [esc0rtd3w/wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker): Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
@@ -7077,6 +7093,7 @@
 * [ricardojoserf/wifi-pentesting-guide](https://github.com/ricardojoserf/wifi-pentesting-guide): WiFi Penetration Testing Guide
 * [P0cL4bs/WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated): DEPRECATED, wifipumpkin3 -> https://github.com/P0cL4bs/wifipumpkin3
 * [Squuv/WifiBF](https://github.com/Squuv/WifiBF): This is a wifi Brute Force. script undetectable and secure!
+* [cinquemb/WifiBruteCrack](https://github.com/cinquemb/WifiBruteCrack): Program to attempt to brute force all wifi networks in range of a device, and return a possible set of networks to connect to and the password,
 * [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher): The Rogue Access Point Framework
 * [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3): Powerful framework for rogue access point attack.
 * [derv82/wifite2](https://github.com/derv82/wifite2): Rewrite of the popular wireless network auditor, "wifite"
