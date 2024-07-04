@@ -986,6 +986,12 @@
     "CyanSalt/todu": [
         "Other"
     ],
+    "Cyber-Dioxide/CyberPhish": [
+        "Other"
+    ],
+    "Cyber-Dioxide/Wifi-Brute": [
+        "Other"
+    ],
     "CyberShadow/aconfmgr": [
         "Other"
     ],
@@ -1281,9 +1287,6 @@
         "Other"
     ],
     "Eeems-Org/oxide": [
-        "Other"
-    ],
-    "Efficient-Large-Model/VILA": [
         "Other"
     ],
     "Eitol/ngrok-linux-service": [
@@ -3152,6 +3155,9 @@
     "NVIDIA/video-sdk-samples": [
         "Other"
     ],
+    "NVlabs/VILA": [
+        "Other"
+    ],
     "NachoSoto/Pulse": [
         "Other"
     ],
@@ -3839,9 +3845,6 @@
     "SRGSSR/srgmediaplayer-apple": [
         "Other"
     ],
-    "SRVFI-Raws/batch-video-encoder": [
-        "Other"
-    ],
     "SVProgressHUD/SVProgressHUD": [
         "Other"
     ],
@@ -4260,6 +4263,9 @@
         "Other"
     ],
     "Tencent/OOMDetector": [
+        "Other"
+    ],
+    "TensoRaws/batch-video-encoder": [
         "Other"
     ],
     "TermuxHackz/wifi-hacker": [
@@ -5832,9 +5838,6 @@
         "Other"
     ],
     "apple/swift-collections": [
-        "Other"
-    ],
-    "apple/swift-driver": [
         "Other"
     ],
     "apple/swift-nio": [
@@ -11597,7 +11600,7 @@
     "jackie1in/jre-ffmpeg-apline": [
         "Other"
     ],
-    "jackrobertscott/forge-1dec18": [
+    "jackrobertscott/forge-181201": [
         "Other"
     ],
     "jacksalici/notion-cli-list-manager": [
@@ -12990,6 +12993,9 @@
         "Other"
     ],
     "kujian/githubTrending": [
+        "Other"
+    ],
+    "kumpulanremaja/wifi": [
         "Other"
     ],
     "kupferlauncher/kupfer": [
@@ -17201,9 +17207,6 @@
     "rizinorg/cutter": [
         "Other"
     ],
-    "rjmacarthy/twinny": [
-        "Other"
-    ],
     "rjshkhr/dotfiles": [
         "Other"
     ],
@@ -19043,6 +19046,9 @@
     "swiftlang/swift-docker": [
         "Other"
     ],
+    "swiftlang/swift-driver": [
+        "Other"
+    ],
     "swiftlang/swift-evolution": [
         "Other"
     ],
@@ -19818,6 +19824,9 @@
         "Other"
     ],
     "twilio-labs/NgrokExtensions": [
+        "Other"
+    ],
+    "twinnydotdev/twinny": [
         "Other"
     ],
     "twitter-archive/CocoaSPDY": [
