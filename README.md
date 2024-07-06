@@ -463,7 +463,7 @@
 * [briancoyner/AsyncWorkflow](https://github.com/briancoyner/AsyncWorkflow): Techniques for building "async workflows" using `NSOperation` and `NSOperationQueue`.
 * [hibiken/asynq](https://github.com/hibiken/asynq): Simple, reliable, and efficient distributed task queue in Go
 * [msartore/ATA-GUI](https://github.com/msartore/ATA-GUI): ATA GUI is a project to make ATA available to all the users. ATA GUI is an Advance Tool for Android™ powered by SDK Platform Tools.
-* [athensresearch/athens](https://github.com/athensresearch/athens): ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
+* [athensresearch/athens](https://github.com/athensresearch/athens): Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 * [YadominJinta/atilo](https://github.com/YadominJinta/atilo): Linux installer for termux
 * [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis): Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
@@ -639,6 +639,7 @@
 * [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics): A curated list of awesome Bioinformatics libraries and software.
 * [keller-mark/awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations): A list of web-based interactive biological data visualizations.
 * [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender): 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
+* [engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security): List of Bluetooth BR/EDR/LE security resources
 * [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots): The most awesome list about bots ⭐️🤖
 * [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting): A curated list of amazingly awesome open source resources related to broadcast technologies
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
@@ -1488,7 +1489,7 @@
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [brandonsaldan/codex](https://github.com/brandonsaldan/codex): A minimal genetic data explorer that processes all genetic information locally.
-* [sourcegraph/cody](https://github.com/sourcegraph/cody): AI that knows your entire codebase
+* [sourcegraph/cody](https://github.com/sourcegraph/cody): Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
 * [rokibulislaam/colab-ffmpeg-cuda](https://github.com/rokibulislaam/colab-ffmpeg-cuda): FFmpeg build with CUDA support for Linux (especially for  Google Colab)
 * [abiosoft/colima](https://github.com/abiosoft/colima): Container runtimes on macOS (and Linux) with minimal setup
@@ -1993,7 +1994,6 @@
 * [nodejs/docker-node](https://github.com/nodejs/docker-node): Official Docker Image for Node.js :whale: :turtle: :rocket: 
 * [aperim/docker-nvidia-cuda-ffmpeg](https://github.com/aperim/docker-nvidia-cuda-ffmpeg): A docker container, with ffmpeg that supports scale_cuda among other things
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-* [ttyS0/docker-other-transcode](https://github.com/ttyS0/docker-other-transcode): None
 * [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole): Pi-hole in a docker container
 * [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex): None
 * [evertramos/docker-portainer-letsencrypt](https://github.com/evertramos/docker-portainer-letsencrypt): Portainer docker container over SSL Certificate using Let's Encrypt automated by our webproxy docker-compose-letsencrypt-nginx-proxy
@@ -2052,6 +2052,7 @@
 * [skanehira/docui](https://github.com/skanehira/docui): TUI Client for Docker
 * [DP-3T/documents](https://github.com/DP-3T/documents): Decentralized Privacy-Preserving Proximity Tracing -- Documents
 * [docuowl/docuowl](https://github.com/docuowl/docuowl): 🦉 A documentation generator
+* [facebook/docusaurus](https://github.com/facebook/docusaurus): Easy to maintain open source documentation websites.
 * [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin): very currency
 * [didi/DoKit](https://github.com/didi/DoKit): 一款面向泛前端产品研发全生命周期的效率平台。
 * [dokku/dokku](https://github.com/dokku/dokku): A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -2720,7 +2721,7 @@
 * [fluendo/fluster](https://github.com/fluendo/fluster): Testing framework for decoders conformance
 * [flutter/flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 * [wewehao/flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt): Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner advertisements, etc.
-* [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box): GPTBox - a third-party GPT Client for OpenAI API.
+* [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box): GPTBox - a third-party ChatGPT Client for OpenAI API.
 * [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): ServerBox - server status & toolbox app using Flutter
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
@@ -2915,6 +2916,7 @@
 * [Abhishek-2505/Github_topics_scraper](https://github.com/Abhishek-2505/Github_topics_scraper): None
 * [ameygat/githuballrepo](https://github.com/ameygat/githuballrepo): Python Scripts to download all repository or user or organization
 * [ReSwift/GitHubBrowserExample](https://github.com/ReSwift/GitHubBrowserExample): [WIP] Real World Example for ReSwift
+* [ExistOrLive/GithubClient](https://github.com/ExistOrLive/GithubClient): Github iOS Client  based on Github REST V3 API and GraphQL V4 API
 * [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner): A script that clones Github repositories of users and organizations.
 * [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 * [jsbain/GitHubGet](https://github.com/jsbain/GitHubGet): Quick script to zip and download a repo from github, for those afraid of shellista
@@ -4318,6 +4320,7 @@
 * [hussien89aa/MigrationMiner](https://github.com/hussien89aa/MigrationMiner): A tool to detect migration code between two Java third-party libraries
 * [dongyg/mildred](https://github.com/dongyg/mildred): None
 * [Kademi/milton-aws](https://github.com/Kademi/milton-aws): This is an open source project of using Amazon S3 (Simple Storage Service) in milton
+* [milvus-io/milvus](https://github.com/milvus-io/milvus): A cloud-native vector database, storage for next generation AI applications
 * [karpathy/minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books):  :books: Find your next book to read!
 * [dvorka/mindforger](https://github.com/dvorka/mindforger): Thinking notebook and Markdown editor with LLM wingman.
@@ -4821,6 +4824,7 @@
 * [bellingcat/octosuite](https://github.com/bellingcat/octosuite): GitHub Data Analysis Framework.
 * [ovity/octotree](https://github.com/ovity/octotree): GitHub on steroids
 * [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks): [MIRROR]
+* [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business.
 * [liberodark/ODrive](https://github.com/liberodark/ODrive): Google Drive GUI for Windows / Mac / Linux
 * [open-guides/og-aws](https://github.com/open-guides/og-aws): 📙 Amazon Web Services — a practical guide
 * [xiph/ogg](https://github.com/xiph/ogg): Reference implementation of the Ogg media container
@@ -5204,6 +5208,7 @@
 * [HHK1/PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView): A set of tools to trim, crop and select frames inside a video
 * [Jahaja/psdash](https://github.com/Jahaja/psdash): A linux system information web dashboard using psutils and flask
 * [Eyevinn/pseudo-live-playout](https://github.com/Eyevinn/pseudo-live-playout): None
+* [emarsden/pssh-box-wasm](https://github.com/emarsden/pssh-box-wasm): Parsing and printing PSSH boxes for DRM systems, in WebAssembly.
 * [feedsbrain/pssh-tools](https://github.com/feedsbrain/pssh-tools): Tools to generate PSSH Data and PSSH Box
 * [giampaolo/psutil](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
@@ -5558,7 +5563,7 @@
 * [bcingle/roku-remote](https://github.com/bcingle/roku-remote): A web app that forwards Roku commands to a Roku device on the server's local network.  Enables control of Roku devices from outside of the local network, specifically for smart home control.
 * [rokucommunity/roku-requests](https://github.com/rokucommunity/roku-requests): Python requests inspired Brightscript Network Library for Roku
 * [jamiemaison/roku-roRunner](https://github.com/jamiemaison/roku-roRunner): Random key press runner for Roku devices
-* [kvonrussell/Roku-S3-VideoPlayer-Channel](https://github.com/kvonrussell/Roku-S3-VideoPlayer-Channel): None
+* [zk94007/Roku-S3-VideoPlayer-Channel](https://github.com/zk94007/Roku-S3-VideoPlayer-Channel): None
 * [BrightcoveOS/Roku-Sample-App](https://github.com/BrightcoveOS/Roku-Sample-App): Sample application for Roku using Brightcove VideoCloud
 * [rpetersen29/roku-slack-app](https://github.com/rpetersen29/roku-slack-app): Flask API to control a Roku via Slack app
 * [CCecilia/roku-suite-desktop](https://github.com/CCecilia/roku-suite-desktop): Tool suite for Roku channel development.
@@ -5893,7 +5898,7 @@
 * [changsanjiang/SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer): iOS VideoPlayer MediaPlayer video player media player 短视频播放器 可接入 ijkplayer aliplayer alivodplayer plplayer
 * [openjdk/skara](https://github.com/openjdk/skara): https://openjdk.org/projects/skara
 * [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView): ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
-* [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk): None
+* [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk): Skeuos is a GTK application theme inspired by the latest skeumorphic design trends, by embracing the bevels, drop-shadows, and gradients most modern themes actively avoid.
 * [chika-kasymov/SKFormTextField](https://github.com/chika-kasymov/SKFormTextField): Custom UITextField/UITextView container with form validation, description texts and more
 * [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Any Linux distribution, anywhere.
 * [scrapinghub/skinfer](https://github.com/scrapinghub/skinfer): Skinfer is a tool for inferring and merging JSON schemas
@@ -6439,6 +6444,7 @@
 * [system76/thelio](https://github.com/system76/thelio): Thelio Desktop by System76
 * [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList): A list of Awesome Server Side Swift 3 projects
 * [hiberbee/themes](https://github.com/hiberbee/themes): Dark color schemes for Jetbrains IDEs
+* [videojs/themes](https://github.com/videojs/themes): Videojs themes 💅
 * [warpdotdev/themes](https://github.com/warpdotdev/themes): Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 * [themix-project/themix-gui](https://github.com/themix-project/themix-gui): Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.
 * [theos/theos](https://github.com/theos/theos): A cross-platform suite of tools for building and deploying software for iOS and other platforms.

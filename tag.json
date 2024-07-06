@@ -1397,6 +1397,9 @@
     "EwingYangs/awesome-open-gpt": [
         "Other"
     ],
+    "ExistOrLive/GithubClient": [
+        "Other"
+    ],
     "ExistentialAudio/SwiftOSC": [
         "Other"
     ],
@@ -9152,6 +9155,9 @@
     "emarsden/dash-mpd-rs": [
         "Other"
     ],
+    "emarsden/pssh-box-wasm": [
+        "Other"
+    ],
     "embedly/player.js": [
         "Other"
     ],
@@ -9216,6 +9222,9 @@
         "Other"
     ],
     "engineering-management/awesome-engineering-management": [
+        "Other"
+    ],
+    "engn33r/awesome-bluetooth-security": [
         "Other"
     ],
     "enkia/tokyo-night-vscode-theme": [
@@ -9495,6 +9504,9 @@
         "Other"
     ],
     "facebook/create-react-app": [
+        "Other"
+    ],
+    "facebook/docusaurus": [
         "Other"
     ],
     "facebook/facebook-ios-sdk": [
@@ -13013,9 +13025,6 @@
     "kuu/hls-parser": [
         "Other"
     ],
-    "kvonrussell/Roku-S3-VideoPlayer-Channel": [
-        "Other"
-    ],
     "kwodzicki/video_utils": [
         "Other"
     ],
@@ -14498,6 +14507,9 @@
     "miloyip/game-programmer": [
         "Other"
     ],
+    "milvus-io/milvus": [
+        "Other"
+    ],
     "mingrammer/diagrams": [
         "Other"
     ],
@@ -15603,6 +15615,9 @@
         "Other"
     ],
     "oddnetworks/oddworks": [
+        "Other"
+    ],
+    "odoo/odoo": [
         "Other"
     ],
     "oguzhaninan/Buka": [
@@ -19775,9 +19790,6 @@
     "ttt30ga/awesome-product-design": [
         "Other"
     ],
-    "ttyS0/docker-other-transcode": [
-        "Other"
-    ],
     "tuanngominh/celery-django-kubernetes-experiment": [
         "Other"
     ],
@@ -20274,6 +20286,9 @@
         "Other"
     ],
     "videojs/mux.js": [
+        "Other"
+    ],
+    "videojs/themes": [
         "Other"
     ],
     "videojs/video.js": [
@@ -21408,6 +21423,9 @@
         "Other"
     ],
     "zixun/GodEye": [
+        "Other"
+    ],
+    "zk94007/Roku-S3-VideoPlayer-Channel": [
         "Other"
     ],
     "zmalrobot/JavaLinuxUndervolt": [
