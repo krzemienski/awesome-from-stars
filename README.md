@@ -3965,7 +3965,7 @@
 * [Matroska-Org/libmatroska](https://github.com/Matroska-Org/libmatroska): a C++ libary to parse Matroska files (.mkv and .mka)
 * [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container): NVIDIA container runtime library
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
-* [chapmanjacobd/library](https://github.com/chapmanjacobd/library): 80+ CLI tools to build, browse, and blend your media library. An index for your archive.
+* [chapmanjacobd/library](https://github.com/chapmanjacobd/library): 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
 * [ddd-by-examples/library](https://github.com/ddd-by-examples/library): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 * [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [sumitk/librokudev](https://github.com/sumitk/librokudev): A community-created library of useful Roku BrightScript functions and classes
