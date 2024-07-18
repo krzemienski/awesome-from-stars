@@ -323,7 +323,7 @@
 * [abema/antares](https://github.com/abema/antares): Monitoring System for HTTP Adaptive Streaming
 * [antares-sql/antares](https://github.com/antares-sql/antares): A modern, fast and productivity driven SQL client with a focus in UX
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
-* [panjf2000/ants](https://github.com/panjf2000/ants): 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go.
+* [panjf2000/ants](https://github.com/panjf2000/ants): 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
 * [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable): Type-erased wrappers for Encodable, Decodable, and Codable values
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
@@ -845,7 +845,7 @@
 * [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context. 
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
-* [designedbyclu/awesome-notion-api](https://github.com/designedbyclu/awesome-notion-api): This is a collection of awesome idea, tools, integrations build by Notion API.
+* [thexclu/awesome-notion-api](https://github.com/thexclu/awesome-notion-api): This is a collection of awesome idea, tools, integrations build by Notion API.
 * [mnismt/awesome-notion-site](https://github.com/mnismt/awesome-notion-site): A curated list of awesome Notion related things
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
 * [ConnectAI-E/Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment): 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
@@ -4771,7 +4771,7 @@
 * [5hay/notionbackup](https://github.com/5hay/notionbackup): A small utility command line application that can recursively download Notion pages
 * [ChengHongyun/notionBackup](https://github.com/ChengHongyun/notionBackup): in case offline write don;t work
 * [DavidDeBels/NotionClient](https://github.com/DavidDeBels/NotionClient): Unofficial iOS/macOS SDK for the Notion API.
-* [ngviethoang/notiondb](https://github.com/ngviethoang/notiondb): Python 3 tools for interacting with Notion API
+* [hoangv97/notiondb](https://github.com/hoangv97/notiondb): Python 3 tools for interacting with Notion API
 * [Xheldon/NotionEditor](https://github.com/Xheldon/NotionEditor): A Notion's editor implement based on ProseMirror, just for feasibility studies, IT'S NOT COMPLETED YET AND IN A VERY RAW STATUS.
 * [alessandrobelli/NotionHook](https://github.com/alessandrobelli/NotionHook): Sync your GitHub commits into a Notion Database
 * [ariary/Notionion](https://github.com/ariary/Notionion): Notion as an HTTP proxy
@@ -5888,7 +5888,7 @@
 * [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 * [sarugaku/shellingham](https://github.com/sarugaku/shellingham): Tool to Detect Surrounding Shell
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
-* [tnfe/shida](https://github.com/tnfe/shida): 《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。
+* [tnfe/shida](https://github.com/tnfe/shida): 《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或Maka 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 * [a2/shortcuts-swift](https://github.com/a2/shortcuts-swift): Write Shortcuts in Playgrounds
