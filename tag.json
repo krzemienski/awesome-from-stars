@@ -1,4 +1,7 @@
 {
+    "0n1cOn3/FluxER": [
+        "Other"
+    ],
     "0oljyo0/EZRclone": [
         "Other"
     ],
@@ -339,6 +342,9 @@
         "Other"
     ],
     "AmruthPillai/Reactive-Resume": [
+        "Other"
+    ],
+    "Andrews54757/FastStream": [
         "Other"
     ],
     "AndreyPavlenko/Fermata": [
@@ -2678,6 +2684,9 @@
     "Konstantin8105/c4go": [
         "Other"
     ],
+    "Koranir/cosmic-dirstat": [
+        "Other"
+    ],
     "Koushikphy/Interactive_Data_Editor": [
         "Other"
     ],
@@ -2771,10 +2780,10 @@
     "Lekensteyn/dmg2img": [
         "Other"
     ],
-    "Leleat/AltTab-Mod": [
+    "Leleat/Tiling-Assistant": [
         "Other"
     ],
-    "Leleat/Tiling-Assistant": [
+    "Leleat/alttab-mod": [
         "Other"
     ],
     "LemmyNet/lemmy": [
@@ -3989,6 +3998,9 @@
     "SharpAI/DeepCamera": [
         "Other"
     ],
+    "ShawhinT/YouTube-Blog": [
+        "Other"
+    ],
     "Shishkebaboo/VodRecovery": [
         "Other"
     ],
@@ -4994,6 +5006,9 @@
     "adwardlee/multitask-end-to-end-video-captioning": [
         "Other"
     ],
+    "adwski/vidi": [
+        "Other"
+    ],
     "aeksco/aws-pdf-textract-pipeline": [
         "Other"
     ],
@@ -5655,9 +5670,6 @@
         "Other"
     ],
     "anuraghazra/github-readme-stats": [
-        "Other"
-    ],
-    "anymaniax/orval": [
         "Other"
     ],
     "anyproto/anytype-ts": [
@@ -11204,6 +11216,9 @@
     "hwittenborn/celeste": [
         "Other"
     ],
+    "hxrofo/hotspotphisher": [
+        "Other"
+    ],
     "hybridgroup/gocv": [
         "Other"
     ],
@@ -15503,6 +15518,9 @@
     "nonameplum/Changeable": [
         "Other"
     ],
+    "noob-hackers/kalimux": [
+        "Other"
+    ],
     "noob-hackers/lazybee": [
         "Other"
     ],
@@ -16016,6 +16034,9 @@
     "orucanil/ANWExpandScrollView": [
         "Other"
     ],
+    "orval-labs/orval": [
+        "Other"
+    ],
     "orvice/ss-panel": [
         "Other"
     ],
@@ -16398,6 +16419,9 @@
         "Other"
     ],
     "piccolo-orm/piccolo": [
+        "Other"
+    ],
+    "pieces-app/documentation": [
         "Other"
     ],
     "piemonte/PBJVideoPlayer": [
@@ -18830,6 +18854,9 @@
     "squid-cache/squid": [
         "Other"
     ],
+    "squidfunk/mkdocs-material": [
+        "Other"
+    ],
     "squidpickles/mpd-to-m3u8": [
         "Other"
     ],
@@ -19469,6 +19496,9 @@
     "termux/termux-packages": [
         "Other"
     ],
+    "termux/termux-tasker": [
+        "Other"
+    ],
     "terraform-aws-modules/terraform-aws-eks": [
         "Other"
     ],
@@ -19869,6 +19899,9 @@
         "Other"
     ],
     "trackawesomelist/trackawesomelist": [
+        "Other"
+    ],
+    "trackawesomelist/trackawesomelist-source": [
         "Other"
     ],
     "tradytics/eiten": [
