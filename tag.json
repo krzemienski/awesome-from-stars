@@ -5807,9 +5807,6 @@
     "app-generator/admin-dashboards": [
         "Other"
     ],
-    "app-generator/app-generator": [
-        "Other"
-    ],
     "app-generator/django-admin-coreui": [
         "Other"
     ],
@@ -5850,6 +5847,9 @@
         "Other"
     ],
     "app-generator/flask-volt-dashboard": [
+        "Other"
+    ],
+    "app-generator/intro": [
         "Other"
     ],
     "app-generator/rocket-django": [
@@ -5907,9 +5907,6 @@
         "Other"
     ],
     "apple/swift-async-algorithms": [
-        "Other"
-    ],
-    "apple/swift-book": [
         "Other"
     ],
     "apple/swift-collections": [
@@ -10739,9 +10736,6 @@
     "gsantiago/subtitle.js": [
         "Other"
     ],
-    "gsfalcon/tts_python": [
-        "Other"
-    ],
     "gsingers/slack-jira-plugin": [
         "Other"
     ],
@@ -13835,6 +13829,12 @@
     "mackworth/cTiVo": [
         "Other"
     ],
+    "macmade/Console": [
+        "Other"
+    ],
+    "macmade/Hot": [
+        "Other"
+    ],
     "macoscope/GrandCentralBoard": [
         "Other"
     ],
@@ -16284,6 +16284,9 @@
         "Other"
     ],
     "peak/s5cmd": [
+        "Other"
+    ],
+    "peci1/nvidia-htop": [
         "Other"
     ],
     "peco/peco": [
@@ -19235,6 +19238,9 @@
     "swiftlang/swift": [
         "Other"
     ],
+    "swiftlang/swift-book": [
+        "Other"
+    ],
     "swiftlang/swift-docker": [
         "Other"
     ],
@@ -19335,6 +19341,9 @@
         "Other"
     ],
     "taehoio/notionproxy": [
+        "Other"
+    ],
+    "tagatac/bagoup": [
         "Other"
     ],
     "taglia3/ElasticTransition-ObjC": [
@@ -20846,6 +20855,9 @@
     "wattson12/Moya-Argo": [
         "Other"
     ],
+    "wavebox/waveboxapp": [
+        "Other"
+    ],
     "waylybaye/HyperAppScripts": [
         "Other"
     ],
@@ -21096,6 +21108,12 @@
         "Other"
     ],
     "wolverinn/HEVC-deep-learning-pipeline": [
+        "Other"
+    ],
+    "wookayin/gpustat": [
+        "Other"
+    ],
+    "wookayin/gpustat-web": [
         "Other"
     ],
     "workpieces/etcdwp": [

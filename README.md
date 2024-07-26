@@ -358,7 +358,6 @@
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
 * [ubuntu/app-center](https://github.com/ubuntu/app-center): App Store for Ubuntu made with Flutter 🧡 💙
-* [app-generator/app-generator](https://github.com/app-generator/app-generator): App Generator - Deliver your projects faster | AppSeed
 * [Selenium-H/App-Grid-Tweaks](https://github.com/Selenium-H/App-Grid-Tweaks): A GNOME Shell extension to tweak application grid and customizations.
 * [Digipolitan/app-swift-template-cli](https://github.com/Digipolitan/app-swift-template-cli): None
 * [Digipolitan/app-swift-template-tvos](https://github.com/Digipolitan/app-swift-template-tvos): None
@@ -1061,6 +1060,7 @@
 * [backuppc/backuppc](https://github.com/backuppc/backuppc): BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 * [lovasoa/bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 * [yagiz/Bagel](https://github.com/yagiz/Bagel): a little native network debugging tool for iOS
+* [tagatac/bagoup](https://github.com/tagatac/bagoup): Mac OS Messages export
 * [krzemienski/bakery](https://github.com/krzemienski/bakery): HLS and DASH Manifest Service
 * [soldiermoth/bakery](https://github.com/soldiermoth/bakery): HLS and DASH Manifest Service
 * [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo): Next generation Wagtail demo, born in Reykjavik
@@ -1557,6 +1557,7 @@
 * [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip): Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
 * [rwbutler/Connectivity](https://github.com/rwbutler/Connectivity): 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 * [joshdholtz/connectkit-examples](https://github.com/joshdholtz/connectkit-examples): None
+* [macmade/Console](https://github.com/macmade/Console): OS X console application.
 * [DevopensourceTeam/Console_Box_AWS](https://github.com/DevopensourceTeam/Console_Box_AWS): Browser that allows you to open different sessions of AWS console in the same app.
 * [Netflix/consoleme](https://github.com/Netflix/consoleme): A Central Control Plane for AWS Permissions and Access
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -2335,7 +2336,7 @@
 * [intoli/exodus](https://github.com/intoli/exodus): Painless relocation of Linux binaries–and all of their dependencies–without containers.
 * [xyoye/ExoFFmpegPlayer](https://github.com/xyoye/ExoFFmpegPlayer): 适用于ExoPlayer的FFmpeg扩展
 * [brianwernick/ExoMedia](https://github.com/brianwernick/ExoMedia): An Android ExoPlayer wrapper to simplify Audio and Video implementations
-* [google/ExoPlayer](https://github.com/google/ExoPlayer): An extensible media player for Android
+* [google/ExoPlayer](https://github.com/google/ExoPlayer): This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
 * [amzn/exoplayer-amazon-port](https://github.com/amzn/exoplayer-amazon-port): Official port of ExoPlayer for Amazon devices
 * [prateek54/ExoPlayer-Demo](https://github.com/prateek54/ExoPlayer-Demo): This is basic exo player demo
 * [yoobi/exoplayer-kotlin](https://github.com/yoobi/exoplayer-kotlin): Cookbook of multiple feature for Exoplayer
@@ -3149,6 +3150,8 @@
 * [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools): Tools for monitoring NVIDIA GPUs on Linux 
 * [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial): None
 * [BradLarson/GPUImage3](https://github.com/BradLarson/GPUImage3): GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
+* [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple command-line utility for querying and monitoring GPU status
+* [wookayin/gpustat-web](https://github.com/wookayin/gpustat-web): 👓 A web interface of gpustat: monitor GPU clusters at a look
 * [MasayukiSuda/GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android): This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
 * [go-python/gpython](https://github.com/go-python/gpython): gpython is a python interpreter written in go "batteries not included"
 * [99designs/gqlgen](https://github.com/99designs/gqlgen): go generate based graphql server library
@@ -3413,6 +3416,7 @@
 * [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh): Honukai theme and colors for Oh My ZSH and iTerm
 * [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 * [horahoradev/horahora](https://github.com/horahoradev/horahora): Multi-user video download manager supporting hundreds of sites
+* [macmade/Hot](https://github.com/macmade/Hot): Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 * [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
 * [hxrofo/hotspotphisher](https://github.com/hxrofo/hotspotphisher): Turn Your Smart Phone into a Phishing Tool 
 * [hantsaniala/hStream](https://github.com/hantsaniala/hStream): A simple HLS VOD server made with Go.
@@ -3568,6 +3572,7 @@
 * [Koushikphy/Interactive_Data_Editor](https://github.com/Koushikphy/Interactive_Data_Editor): A Software to interactively edit data in a graphical manner
 * [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo): [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 * [okikio/inthistweet](https://github.com/okikio/inthistweet): ✨ Futuristic ✨ twitter image, gif and video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
+* [app-generator/intro](https://github.com/app-generator/intro): App Generator - Deliver your projects faster | AppSeed
 * [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting): Free Introduction to Bash Scripting eBook
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
@@ -4035,7 +4040,7 @@
 * [asciimoo/ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists): List of github lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
@@ -4334,7 +4339,7 @@
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
-* [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的测试管理和接口测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+* [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server): Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 * [Yamazaki93/MetroGit](https://github.com/Yamazaki93/MetroGit): A git visualization tool that's more than just git
@@ -4810,6 +4815,7 @@
 * [rigaya/NVEnc](https://github.com/rigaya/NVEnc): NVENCによる高速エンコードの性能実験
 * [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime): NVIDIA container runtime
 * [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
+* [peci1/nvidia-htop](https://github.com/peci1/nvidia-htop): A tool for enriching the output of nvidia-smi.
 * [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer): NVIDIA driver installer
 * [Snawoot/nvidia-patch](https://github.com/Snawoot/nvidia-patch):   This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 * [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
@@ -4872,7 +4878,7 @@
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 * [ollama-interface/Ollama-Gui](https://github.com/ollama-interface/Ollama-Gui): A GUI interface for Ollama
 * [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI): User Interface made for Ollama.ai using Swift
 * [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac): Mac compatible Ollama Voice
@@ -4925,7 +4931,7 @@
 * [OpenHEVC/openHEVC](https://github.com/OpenHEVC/openHEVC): HEVC decoder
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9): Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
-* [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
+* [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 * [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
 * [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault): openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
 * [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
@@ -6278,7 +6284,7 @@
 * [Mybridge/swift-articles](https://github.com/Mybridge/swift-articles): Monthly Series - Top 10 Angular Articles
 * [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms): Async Algorithms for Swift
 * [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime): Swift implementation of AWS Lambda Runtime
-* [apple/swift-book](https://github.com/apple/swift-book): The Swift Programming Language book
+* [swiftlang/swift-book](https://github.com/swiftlang/swift-book): The Swift Programming Language book
 * [CassiusPacheco/Swift-CleanArchitecture](https://github.com/CassiusPacheco/Swift-CleanArchitecture): Simple Swift project applying concepts inspired on the Clean Architecture
 * [apple/swift-collections](https://github.com/apple/swift-collections): Commonly used data structures for Swift
 * [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture): A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
@@ -6384,7 +6390,7 @@
 * [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 * [kozec/syncthing-gtk](https://github.com/kozec/syncthing-gtk): GTK3 & python based GUI for Syncthing
 * [RblSb/SyncTube](https://github.com/RblSb/SyncTube): Synchronized video viewing with chat and other features (one-channel web service)
-* [syndesisio/syndesis](https://github.com/syndesisio/syndesis): A flexible, customizable, open source platform that provides core integration capabilities as a service.
+* [syndesisio/syndesis](https://github.com/syndesisio/syndesis): This project is archived. A flexible, customizable, open source platform that provides core integration capabilities as a service.
 * [joshuaavalon/SynologyCloudflareDDNS](https://github.com/joshuaavalon/SynologyCloudflareDDNS): 📜 Cloudflare DDNS script for Synology
 * [MatthiasSchinzel/sysmon](https://github.com/MatthiasSchinzel/sysmon): Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
 * [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux): None
@@ -6633,7 +6639,6 @@
 * [amriteya/tts](https://github.com/amriteya/tts): Convert words to mp3 files to be played anytime.
 * [coqui-ai/TTS](https://github.com/coqui-ai/TTS): 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 * [pqyptixa/tts2media](https://github.com/pqyptixa/tts2media): Go library to run TTS engines, convert their output to mp3/ogg, and make videos from images or other videos
-* [gsfalcon/tts_python](https://github.com/gsfalcon/tts_python):  Welcome to tts_python! Convert text to .mp3 effortlessly, creating a personalized listening experience. Quick conversion, universal compatibility, and customization with diverse voices. Explore the open-source code, contribute, and bring words to life! 🎙️🚀
 * [alspore/ttsmp3](https://github.com/alspore/ttsmp3): A node.js script used to download text-to-speech mp3 files.
 * [soyvillareal/Tubeak](https://github.com/soyvillareal/Tubeak): Live Streaming & Video Sharing Platform
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
@@ -6753,7 +6758,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
@@ -7093,6 +7098,7 @@
 * [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip): This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs 
 * [h2oai/wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python and R
 * [onmyway133/Wave](https://github.com/onmyway133/Wave): :ocean: Declarative chainable animations in Swift
+* [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp): Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 * [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist): Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.
 * [wabarc/wayback](https://github.com/wabarc/wayback): An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
