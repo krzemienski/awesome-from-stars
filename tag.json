@@ -6860,6 +6860,9 @@
     "blaCCkHatHacEEkr/PENTESTING-BIBLE": [
         "Other"
     ],
+    "blackhillsinfosec/Wifi-Forge": [
+        "Other"
+    ],
     "blackjack4494/yt-dlc": [
         "Other"
     ],
@@ -7194,6 +7197,9 @@
         "Other"
     ],
     "canonical/snapcraft.io": [
+        "Other"
+    ],
+    "canonical/snapd": [
         "Other"
     ],
     "caorushizi/hls-downloader": [
@@ -9713,6 +9719,9 @@
     "fastapi-admin/fastapi-admin": [
         "Other"
     ],
+    "fastapi/fastapi": [
+        "Other"
+    ],
     "fastlane/boarding": [
         "Other"
     ],
@@ -11010,9 +11019,6 @@
         "Other"
     ],
     "heppu/gkill": [
-        "Other"
-    ],
-    "her3ticAVI/Wifi-Forge": [
         "Other"
     ],
     "herrbischoff/awesome-macos-command-line": [
@@ -18590,9 +18596,6 @@
     "smplayer-dev/smplayer": [
         "Other"
     ],
-    "snapcore/snapd": [
-        "Other"
-    ],
     "snapcrafters/alacritty": [
         "Other"
     ],
@@ -19713,9 +19716,6 @@
         "Other"
     ],
     "tiagomartinho/ProjectTemplate": [
-        "Other"
-    ],
-    "tiangolo/fastapi": [
         "Other"
     ],
     "tiangolo/full-stack-fastapi-template": [

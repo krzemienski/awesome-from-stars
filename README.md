@@ -294,7 +294,7 @@
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
 * [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
-* [iknow4/Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer): Android-Video-Trimmer项目实现了对长短视频进行片段的裁剪选择。使用MediaMetadataRetriever获取视频帧，采用ffmpeg进行视频裁剪，和视频压缩。
+* [iknow4/Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer): The Android-Video-Trimmer project implements the selection of clips for long and short videos. It uses MediaMetadataRetriever to obtain video frames, and uses ffmpeg for video cropping and video compression.
 * [kriswebdev/android_aircrack](https://github.com/kriswebdev/android_aircrack): Aircrack-ng command-line for Android. Binaries & source. 🇺🇦 SUPPORT UKRAINE! 🇺🇦
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
 * [googlesamples/androidtv-sample-inputs](https://github.com/googlesamples/androidtv-sample-inputs): Sample Channel App (TV Input Service) on Android TV using TIF
@@ -945,7 +945,7 @@
 * [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
 * [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs): A list of Tech Blogs.
 * [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals): Terminal Emulators
-* [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation): A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech
+* [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation): A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 * [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing): A curated list of testing resources
 * [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf): Curated list of resources on HashiCorp's Terraform and OpenTofu
 * [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science): The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
@@ -2402,7 +2402,7 @@
 * [amitshekhariitbhu/Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking): 🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
 * [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli): Test your download and upload speed using fast.com
 * [dromara/fast-request](https://github.com/dromara/fast-request): IntelliJ IDEA plugin Restful Fast Request
-* [tiangolo/fastapi](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
+* [fastapi/fastapi](https://github.com/fastapi/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin): A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 * [Aeternalis-Ingenium/FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template): A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
 * [GregaVrbancic/fastapi-celery](https://github.com/GregaVrbancic/fastapi-celery): Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for monitoring the celery tasks.
@@ -4093,7 +4093,7 @@
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [mudler/LocalAGI](https://github.com/mudler/LocalAGI): 100% Local AGI with LocalAI
-* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities
 * [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend): None
 * [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 * [ghostwords/localore](https://github.com/ghostwords/localore): Wagtail-based CMS and Ansible playbooks for Localore: Finding America
@@ -4934,7 +4934,7 @@
 * [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 * [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
 * [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault): openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
-* [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics.
+* [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 * [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 * [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB): Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 * [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner): Inference engine powering open source models on OpenRouter
@@ -6003,7 +6003,7 @@
 * [fthx/snap-manager-lite](https://github.com/fthx/snap-manager-lite): None
 * [canonical/snapcraft](https://github.com/canonical/snapcraft): Package, distribute, and update any app for Linux and IoT.
 * [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io): The official website's repository for the Snap store
-* [snapcore/snapd](https://github.com/snapcore/snapd): The snapd and snap tools enable systems to work with .snap files.
+* [canonical/snapd](https://github.com/canonical/snapd): The snapd and snap tools enable systems to work with .snap files.
 * [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit): A Swift Autolayout DSL for iOS & OS X
 * [reportmill/SnapKit](https://github.com/reportmill/SnapKit): A Java UI toolkit
 * [parski/SnapshotTest](https://github.com/parski/SnapshotTest): Snapshot testing tool for iOS and tvOS
@@ -7159,7 +7159,7 @@
 * [Whomrx666/Wifi-crackerX](https://github.com/Whomrx666/Wifi-crackerX): Wifi-crackerX is a tool for hacking a WPS/WPA/WPA2 Networks
 * [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking): Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 * [david-palma/wifi-cracking](https://github.com/david-palma/wifi-cracking): Crack 802.11 WEP and WPA/WPA2-PSK keys using Aircrack-ng suite
-* [her3ticAVI/Wifi-Forge](https://github.com/her3ticAVI/Wifi-Forge): WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
+* [blackhillsinfosec/Wifi-Forge](https://github.com/blackhillsinfosec/Wifi-Forge): WifiForge is a tool developed by Black Hills InfoSec to help train Pentesters on different Wi-Fi attack vectors and Wireless capabilities.
 * [R3LI4NT/Wifi-Hack](https://github.com/R3LI4NT/Wifi-Hack): Herramienta automatizada para crackear redes WiFi con protección WPA2 y WPS.
 * [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker): Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 * [esc0rtd3w/wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker): Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
