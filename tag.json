@@ -2225,6 +2225,9 @@
     "HaveAGitGat/Tdarr_Plugins": [
         "Other"
     ],
+    "Hax4us/TermuxBlack": [
+        "Other"
+    ],
     "HeZhang1994/video-audio-tools": [
         "Other"
     ],
@@ -4001,9 +4004,6 @@
     "ShawhinT/YouTube-Blog": [
         "Other"
     ],
-    "Shishkebaboo/VodRecovery": [
-        "Other"
-    ],
     "Shopify/semian": [
         "Other"
     ],
@@ -4914,6 +4914,9 @@
         "Other"
     ],
     "actions/deploy-pages": [
+        "Other"
+    ],
+    "actions/runner": [
         "Other"
     ],
     "actions/runner-images": [
@@ -6105,9 +6108,6 @@
         "Other"
     ],
     "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code": [
-        "Other"
-    ],
-    "ashleykleynhans/llava-docker": [
         "Other"
     ],
     "ashphy/jsonpath-online-evaluator": [
@@ -8369,6 +8369,9 @@
     "deepjyoti30/ytmdl": [
         "Other"
     ],
+    "deepmedia/Transcoder": [
+        "Other"
+    ],
     "deepseek-ai/DeepSeek-Coder": [
         "Other"
     ],
@@ -9722,6 +9725,12 @@
     "fastapi/fastapi": [
         "Other"
     ],
+    "fastapi/full-stack-fastapi-template": [
+        "Other"
+    ],
+    "fastapi/sqlmodel": [
+        "Other"
+    ],
     "fastlane/boarding": [
         "Other"
     ],
@@ -10958,10 +10967,10 @@
     "hauxir/rapidbay": [
         "Other"
     ],
-    "haystacknews/animate": [
+    "haystacknews/create-roku-app": [
         "Other"
     ],
-    "haystacknews/create-roku-app": [
+    "haystacknews/roku-animate": [
         "Other"
     ],
     "haystacknews/sg-flex": [
@@ -11508,6 +11517,9 @@
         "Other"
     ],
     "int128/devops-compose": [
+        "Other"
+    ],
+    "integration-os/integrationos": [
         "Other"
     ],
     "intel-iot-devkit/concurrent-video-analytic-pipeline-optimization-sample-w": [
@@ -15191,9 +15203,6 @@
     "naseemkullah/k8s-job-dispatcher": [
         "Other"
     ],
-    "natario1/Transcoder": [
-        "Other"
-    ],
     "natelandau/shell-scripting-templates": [
         "Other"
     ],
@@ -15750,6 +15759,9 @@
         "Other"
     ],
     "ocrmypdf/OCRmyPDF": [
+        "Other"
+    ],
+    "oddity-ai/video-rs": [
         "Other"
     ],
     "oddnetworks/oddworks": [
@@ -17619,6 +17631,9 @@
         "Other"
     ],
     "rsnk96/Ubuntu-Setup-Scripts": [
+        "Other"
+    ],
+    "rsxdalv/tts-generation-webui": [
         "Other"
     ],
     "rsyncOSX/RsyncOSX": [
@@ -19718,13 +19733,7 @@
     "tiagomartinho/ProjectTemplate": [
         "Other"
     ],
-    "tiangolo/full-stack-fastapi-template": [
-        "Other"
-    ],
     "tiangolo/nginx-rtmp-docker": [
-        "Other"
-    ],
-    "tiangolo/sqlmodel": [
         "Other"
     ],
     "tiangolo/uvicorn-gunicorn-fastapi-docker": [
