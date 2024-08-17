@@ -1163,9 +1163,6 @@
     "Delgan/loguru": [
         "Other"
     ],
-    "Depado/parakeet": [
-        "Other"
-    ],
     "DerekTBrown/pacmanity": [
         "Other"
     ],
@@ -8445,6 +8442,9 @@
         "Other"
     ],
     "denysvitali/sonos-web": [
+        "Other"
+    ],
+    "depado/parakeet": [
         "Other"
     ],
     "derailed/k9s": [

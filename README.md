@@ -1612,7 +1612,7 @@
 * [datarhei/core-client-python](https://github.com/datarhei/core-client-python): An API client library for datarhei Core in Python3.
 * [JohnEstropia/CoreStore](https://github.com/JohnEstropia/CoreStore): Unleashing the real power of Core Data with the elegance and safety of Swift
 * [nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data): This repository contains data on Coronavirus Disease 2019 (COVID-19) in New York City (NYC), from the NYC Department of Health and Mental Hygiene.
-* [pop-os/cosmic](https://github.com/pop-os/cosmic): Computer Operating System Main Interface Components
+* [pop-os/cosmic](https://github.com/pop-os/cosmic): GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 * [Koranir/cosmic-dirstat](https://github.com/Koranir/cosmic-dirstat): WIP - KDirStat-esque disk usage analyzer using the libcosmic toolkit
 * [evgenyneu/Cosmos](https://github.com/evgenyneu/Cosmos): A star rating control for iOS/tvOS written in Swift
 * [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server): ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -1887,7 +1887,7 @@
 * [anaganisk/digitalocean-dynamic-dns-ip](https://github.com/anaganisk/digitalocean-dynamic-dns-ip): A simple script to automatically update Digital ocean DNS records with dynamic IP
 * [phillbaker/digitalocean-node](https://github.com/phillbaker/digitalocean-node): Unofficial node client for the v2 DigitalOcean API
 * [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-* [saoudrizwan/Disk](https://github.com/saoudrizwan/Disk): Delightful framework for iOS to easily persist structs, images, and data
+* [saoudrizwan/Disk](https://github.com/saoudrizwan/Disk): Easily persist structs, images, and data on iOS
 * [widevineleak/DisneyPlus-V.5.0.4-2022](https://github.com/widevineleak/DisneyPlus-V.5.0.4-2022): DRM Tool to download DRM Videos
 * [Netflix/dispatch](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 * [AdnanHodzic/displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian): DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
@@ -5019,7 +5019,7 @@
 * [jdisho/Papr](https://github.com/jdisho/Papr): 🌁 An Unsplash app for iOS
 * [Erudika/para](https://github.com/Erudika/para): Multitenant backend server for building web and mobile apps rapidly. The backend for busy developers. (self-hosted or hosted)
 * [HelloElephant/Parade](https://github.com/HelloElephant/Parade): Parallax Scroll-Jacking Effects Engine for iOS / tvOS
-* [Depado/parakeet](https://github.com/Depado/parakeet): A SoundCloud player in your terminal
+* [depado/parakeet](https://github.com/depado/parakeet): A SoundCloud player in your terminal
 * [PGSSoft/ParallaxView](https://github.com/PGSSoft/ParallaxView): tvOS controls and extensions that add parallax effect to your application.
 * [pillarjs/parseurl](https://github.com/pillarjs/parseurl): parse a url with memoization
 * [hjmangalam/parsyncfp](https://github.com/hjmangalam/parsyncfp): follow-on to parsync (parallel rsync) with better startup perf
