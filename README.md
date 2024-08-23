@@ -294,7 +294,7 @@
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
 * [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit): A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
 * [a914-gowtham/android-video-trimmer](https://github.com/a914-gowtham/android-video-trimmer): Helps to trim local videos with compress option on Android applications using Exoplayer 2 and FFmpeg.
-* [iknow4/Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer): The Android-Video-Trimmer project implements the selection of clips for long and short videos. It uses MediaMetadataRetriever to obtain video frames, and uses ffmpeg for video cropping and video compression.
+* [iknow4x/Android-Video-Trimmer](https://github.com/iknow4x/Android-Video-Trimmer): The Android-Video-Trimmer project implements the selection of clips for long and short videos. It uses MediaMetadataRetriever to obtain video frames, and uses ffmpeg for video cropping and video compression.
 * [kriswebdev/android_aircrack](https://github.com/kriswebdev/android_aircrack): Aircrack-ng command-line for Android. Binaries & source. 🇺🇦 SUPPORT UKRAINE! 🇺🇦
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data): Some Android learning materials, hoping to help you learn Android development.
 * [googlesamples/androidtv-sample-inputs](https://github.com/googlesamples/androidtv-sample-inputs): Sample Channel App (TV Input Service) on Android TV using TIF
@@ -944,6 +944,7 @@
 * [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri): 🚀 Awesome Tauri Apps, Plugins and Resources
 * [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs): A list of Tech Blogs.
 * [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals): Terminal Emulators
+* [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking): ⚡️An awesome list of the best Termux hacking tools 
 * [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation): A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 * [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing): A curated list of testing resources
 * [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf): Curated list of resources on HashiCorp's Terraform and OpenTofu
@@ -1226,6 +1227,7 @@
 * [MarkRoddy/brstest](https://github.com/MarkRoddy/brstest): None
 * [ustwo/brunel](https://github.com/ustwo/brunel): A demonstration of organisation for an app that runs on both iOS and tvOS platforms using a unified code base. ⚠️ No longer maintained ⚠️
 * [chaton2325/Brute-force-wifi](https://github.com/chaton2325/Brute-force-wifi): A wifi brute force program using python 
+* [FR13ND8/BRUTEFORCEnew](https://github.com/FR13ND8/BRUTEFORCEnew): None
 * [rokucommunity/bslib](https://github.com/rokucommunity/bslib): The BrightScript runtime for the BrighterScript language
 * [rokucommunity/bslint](https://github.com/rokucommunity/bslint): A linter for BrightScript and BrighterScript.
 * [sky-uk/bslint](https://github.com/sky-uk/bslint): A linter for the BrightScript language.
@@ -2830,7 +2832,7 @@
 * [gaphor/gaphor](https://github.com/gaphor/gaphor): Gaphor is the simple modeling tool
 * [gardener/gardener](https://github.com/gardener/gardener): Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 * [sdslabs/gasper](https://github.com/sdslabs/gasper): Your Cloud in a Binary
-* [missingstudio/gateway](https://github.com/missingstudio/gateway): AI Gateway - core infrastructure stack for building production-ready AI Applications
+* [missingstudio/gateway](https://github.com/missingstudio/gateway): [deprecated] AI Gateway - core infrastructure stack for building production-ready AI Applications
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The best React-based framework with performance, scalability and security built in.
 * [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter): Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
 * [c-jacquin/gatsby-plugin-linkedin-resume](https://github.com/c-jacquin/gatsby-plugin-linkedin-resume): None
@@ -3235,6 +3237,7 @@
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [corpnewt/Hackintosh-Guide](https://github.com/corpnewt/Hackintosh-Guide): None
 * [SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme](https://github.com/SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme): None
+* [noob-hackers/hacklock](https://github.com/noob-hackers/hacklock): Hack Android Pattern From Termux With This Tool
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 * [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian): Tools for Pentesting
@@ -3810,7 +3813,7 @@
 * [Colin-b/keepachangelog](https://github.com/Colin-b/keepachangelog): Convert keep a changelog markdown file into python dict
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
-* [keploy/keploy](https://github.com/keploy/keploy): Test generation for Developers. Generate tests and stubs for your application that actually work!
+* [keploy/keploy](https://github.com/keploy/keploy): Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
 * [androbility/keydroid](https://github.com/androbility/keydroid): Send keystrokes from the terminal to an Android device.  Requires adb.
 * [kubernetes-for-developers/kfd-celery](https://github.com/kubernetes-for-developers/kfd-celery): example celery worker and deployment specs for Kubernetes for Developers
@@ -3837,7 +3840,7 @@
 * [ethanhuang13/knil](https://github.com/ethanhuang13/knil): Universal Links testing made easy
 * [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo): A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 * [digimezzo/knowte](https://github.com/digimezzo/knowte): Cross platform note taking application
-* [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): A simple one-file way to run various GGML and GGUF models with a KoboldAI UI
+* [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 * [eneim/kohii](https://github.com/eneim/kohii): Android Video Playback made easy.
 * [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss): None
 * [shibapm/Komondor](https://github.com/shibapm/Komondor): Git Hooks for Swift projects 🐩
@@ -3857,7 +3860,7 @@
 * [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from textual descriptions!
 * [kstenerud/KSCrash](https://github.com/kstenerud/KSCrash): The Ultimate iOS Crash Reporter
 * [easonlin404/ksm](https://github.com/easonlin404/ksm): FairPlay Key Security Module written in Go (Golang).
-* [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer): A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
+* [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer): A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
 * [ksvc/KSYLive_iOS](https://github.com/ksvc/KSYLive_iOS): 金山云直播SDK [ iOS推流+播放 ]融合版 支持美颜滤镜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Audio Mixer)、混响(Reverb)、画中画(PIP)
 * [ksvc/KSYMediaPlayer_iOS](https://github.com/ksvc/KSYMediaPlayer_iOS): 金山云iOS播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds）
 * [google/ktsan](https://github.com/google/ktsan): Kernel Thread Sanitizer, a fast data race detector for the Linux kernel
@@ -3978,7 +3981,7 @@
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
 * [chapmanjacobd/library](https://github.com/chapmanjacobd/library): 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
 * [ddd-by-examples/library](https://github.com/ddd-by-examples/library): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 * [sumitk/librokudev](https://github.com/sumitk/librokudev): A community-created library of useful Roku BrightScript functions and classes
 * [librosa/librosa](https://github.com/librosa/librosa): Python library for audio and music analysis
 * [ColdGrub1384/LibTerm](https://github.com/ColdGrub1384/LibTerm): iOS sandboxed terminal with Python, Lua and Clang
@@ -4011,7 +4014,7 @@
 * [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper): A library that scrapes Linkedin for user data
 * [zeshuaro/LinkedRW](https://github.com/zeshuaro/LinkedRW): A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file
 * [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources): None
@@ -4040,7 +4043,7 @@
 * [asciimoo/ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists): List of github lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
@@ -4087,7 +4090,7 @@
 * [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
 * [lobehub/lobe-midjourney-webui](https://github.com/lobehub/lobe-midjourney-webui): ⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
@@ -4554,7 +4557,7 @@
 * [Jigsaw-Code/net-analysis](https://github.com/Jigsaw-Code/net-analysis): Tools, libraries and applications to analyze network measurements and detect interference.
 * [apache/netbeans](https://github.com/apache/netbeans): Apache NetBeans
 * [netbox-community/netbox](https://github.com/netbox-community/netbox): The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-* [netdata/netdata](https://github.com/netdata/netdata): The open-source observability platform everyone needs!
+* [netdata/netdata](https://github.com/netdata/netdata): The open-source observability platfrom everyone needs!
 * [arjunkomath/netdata-ios](https://github.com/arjunkomath/netdata-ios): Unofficial Netdata client for iOS, iPadOS & macOS
 * [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi): 网易云音乐 Node.js API service
 * [nickdesaulniers/netfix](https://github.com/nickdesaulniers/netfix): Let's build a Netflix
@@ -4940,7 +4943,7 @@
 * [openstack/openstack](https://github.com/openstack/openstack): Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 * [louisdh/openterm](https://github.com/louisdh/openterm): OpenTerm, a sandboxed command line interface for iOS
 * [synesthesiam/opentts](https://github.com/synesthesiam/opentts): Open Text to Speech Server
-* [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
+* [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MIT and MyShell.
 * [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install): OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 * [angristan/openvpn-install](https://github.com/angristan/openvpn-install): Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 * [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server): Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
@@ -5455,7 +5458,7 @@
 * [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 * [napthedev/react-tuby](https://github.com/napthedev/react-tuby): A React video player library with YouTube-like UI
 * [raphamorim/react-tv](https://github.com/raphamorim/react-tv): [ Unmaintained due to raphamorim/react-ape ] React Renderer for low memory applications
-* [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React media player for TV devices, with customisable buttons and arrow-key navigation. The component can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
+* [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React video player for TV devices, with customisable buttons and arrow-key navigation. The component can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
 * [PhiloInc/ReactBS](https://github.com/PhiloInc/ReactBS): React-like framework for Roku
 * [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa): Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
@@ -6062,7 +6065,7 @@
 * [louisdh/source-editor](https://github.com/louisdh/source-editor): A native source editor for iOS and macOS, written in Swift
 * [CoderLNHui/SourceCodeAnalysis](https://github.com/CoderLNHui/SourceCodeAnalysis): iOS 常用第三方库源码分析，跟迭式积累，欢迎阅读！
 * [SourceDocs/SourceDocs](https://github.com/SourceDocs/SourceDocs): Generate Markdown documentation from source code
-* [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph): Code AI platform with Code Search & Cody
+* [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
 * [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
 * [jinmingjian/sourcekite](https://github.com/jinmingjian/sourcekite): the backend of SDE's language server
 * [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery): Meta-programming for Swift, stop writing boilerplate code.
@@ -6561,6 +6564,7 @@
 * [adamlatchem/toolchest](https://github.com/adamlatchem/toolchest): Useful Tools
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 * [actions/toolkit](https://github.com/actions/toolkit): The GitHub ToolKit for developing GitHub Actions.
+* [AnonHackerr/toolss](https://github.com/AnonHackerr/toolss): Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 * [app-developers/top](https://github.com/app-developers/top): Top App Developers - September 2022
 * [fflewddur/tophat](https://github.com/fflewddur/tophat): View CPU, memory, disk, and network activity in the GNOME top bar.
 * [matteom/TopQuestion](https://github.com/matteom/TopQuestion): An example of calling REST APIs in iOS
@@ -6713,7 +6717,7 @@
 * [rsnk96/Ubuntu-Setup-Scripts](https://github.com/rsnk96/Ubuntu-Setup-Scripts): Scripts to help you set up your Ubuntu quickly, especially if you're in any subfield of Data Science or AI!
 * [rastasheep/ubuntu-sshd](https://github.com/rastasheep/ubuntu-sshd): Dockerized Ubuntu SSH service
 * [slikdijit/Ubuntu-Swift-Installer](https://github.com/slikdijit/Ubuntu-Swift-Installer): Auto installer script for swift on Ubuntu 20.04
-* [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch): A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
+* [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch): Ubuntu Touch's issue inbox is now migrated to GitLab.
 * [ubports/ubuntu_kernel_xenial](https://github.com/ubports/ubuntu_kernel_xenial): None
 * [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl): A cross-platform python based utility to download courses from udemy for personal offline use.
 * [thomseddon/udp-replicator](https://github.com/thomseddon/udp-replicator): A tiny UDP proxy that can replicate traffic to one or more endpoints.
