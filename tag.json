@@ -1919,6 +1919,9 @@
     "FR13ND8/BRUTEFORCEnew": [
         "Other"
     ],
+    "FR13ND8/BruteFb": [
+        "Other"
+    ],
     "FSecureLABS/Ellume-COVID-Test_Research-Files": [
         "Other"
     ],
@@ -12950,6 +12953,9 @@
     "krzemienski/nv-codec-headers": [
         "Other"
     ],
+    "krzemienski/scdl": [
+        "Other"
+    ],
     "krzemienski/scdl_threaded": [
         "Other"
     ],
@@ -14198,10 +14204,10 @@
     "matteom/TopQuestion": [
         "Other"
     ],
-    "mattermost/desktop": [
+    "mattermost-community/focalboard": [
         "Other"
     ],
-    "mattermost/focalboard": [
+    "mattermost/desktop": [
         "Other"
     ],
     "matthew-cox/sn-theme-mojave-dark-mode": [
@@ -14400,6 +14406,9 @@
         "Other"
     ],
     "meta-llama/codellama": [
+        "Other"
+    ],
+    "meta-llama/llama-models": [
         "Other"
     ],
     "meta-llama/llama-recipes": [
@@ -14706,6 +14715,9 @@
         "Other"
     ],
     "mitmproxy/pdoc": [
+        "Other"
+    ],
+    "mix1009/sdwebuiapi": [
         "Other"
     ],
     "mixmaxhq/eb-fix-npm": [
@@ -15453,6 +15465,9 @@
         "Other"
     ],
     "nlpsuge/gnome-shell-extension-another-window-session-manager": [
+        "Other"
+    ],
+    "nlpxucan/WizardLM": [
         "Other"
     ],
     "nm-l2tp/NetworkManager-l2tp": [
@@ -18902,9 +18917,6 @@
     "srikanth235/benchllama": [
         "Other"
     ],
-    "ssaguiar/ArepaTV-Roku": [
-        "Other"
-    ],
     "sshuttle/sshuttle": [
         "Other"
     ],
@@ -20342,9 +20354,6 @@
     "valeriomazzeo/fastlane-plugin-jira_transition": [
         "Other"
     ],
-    "valin4tor/notion-linux": [
-        "Other"
-    ],
     "vansante/go-ffprobe": [
         "Other"
     ],
@@ -20721,6 +20730,9 @@
         "Other"
     ],
     "vt-vl-lab/FGVC": [
+        "Other"
+    ],
+    "vtenfys/notion-linux": [
         "Other"
     ],
     "vuejs/devtools": [
@@ -21738,6 +21750,9 @@
         "Other"
     ],
     "ztimson/transmute": [
+        "Other"
+    ],
+    "ztjhz/BetterChatGPT": [
         "Other"
     ],
     "zudochkin/awesome-newsletters": [
