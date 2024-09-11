@@ -875,7 +875,13 @@
     "ColdGrub1384/LibTerm-Packages": [
         "Other"
     ],
+    "ColdGrub1384/Parat_iOS": [
+        "Other"
+    ],
     "ColdGrub1384/Pyto": [
+        "Other"
+    ],
+    "ColdGrub1384/ShortWebCore": [
         "Other"
     ],
     "ColdGrub1384/compile_ios": [
@@ -1925,7 +1931,7 @@
     "FSecureLABS/Ellume-COVID-Test_Research-Files": [
         "Other"
     ],
-    "FSoft-AI4Code/RepoPilot": [
+    "FSoft-AI4Code/HyperAgent": [
         "Other"
     ],
     "FabriceSalvaire/CodeReview": [
@@ -11301,6 +11307,9 @@
         "Other"
     ],
     "iamgmujtaba/LTC-SUM": [
+        "Other"
+    ],
+    "ian-mcdowell/InputAssistant": [
         "Other"
     ],
     "ianyh/Amethyst": [
@@ -20735,7 +20744,7 @@
     "vtenfys/notion-linux": [
         "Other"
     ],
-    "vuejs/devtools": [
+    "vuejs/devtools-v6": [
         "Other"
     ],
     "vuejs/vue": [
@@ -21287,9 +21296,6 @@
     "xingshaocheng/architect-awesome": [
         "Other"
     ],
-    "xinitd/python-download-m3u8": [
-        "Other"
-    ],
     "xinnjie/extract-subtitle": [
         "Other"
     ],
@@ -21543,6 +21549,9 @@
         "Other"
     ],
     "yzhao062/anomaly-detection-resources": [
+        "Other"
+    ],
+    "zackees/gptrepo": [
         "Other"
     ],
     "zackradisic/node-soundcloud-downloader": [
