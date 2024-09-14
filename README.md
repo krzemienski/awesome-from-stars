@@ -326,7 +326,7 @@
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
 * [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable): Type-erased wrappers for Encodable, Decodable, and Codable values
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
-* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 * [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts): Official Anytype client for MacOS, Linux, and Windows
 * [klaudiosinani/ao](https://github.com/klaudiosinani/ao): Elegant Microsoft To-Do desktop app
 * [xiph/aomanalyzer](https://github.com/xiph/aomanalyzer): AV1 / VP9 Bitstream Analyzer
@@ -1889,7 +1889,7 @@
 * [DigitalMediaServer/DigitalMediaServer](https://github.com/DigitalMediaServer/DigitalMediaServer): A UPnP AV/DLNA Media Server.
 * [anaganisk/digitalocean-dynamic-dns-ip](https://github.com/anaganisk/digitalocean-dynamic-dns-ip): A simple script to automatically update Digital ocean DNS records with dynamic IP
 * [phillbaker/digitalocean-node](https://github.com/phillbaker/digitalocean-node): Unofficial node client for the v2 DigitalOcean API
-* [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+* [directus/directus](https://github.com/directus/directus): The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 * [saoudrizwan/Disk](https://github.com/saoudrizwan/Disk): Easily persist structs, images, and data on iOS
 * [widevineleak/DisneyPlus-V.5.0.4-2022](https://github.com/widevineleak/DisneyPlus-V.5.0.4-2022): DRM Tool to download DRM Videos
 * [Netflix/dispatch](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
@@ -2422,7 +2422,7 @@
 * [fastai/fastbook](https://github.com/fastai/fastbook): The fastai book, published as Jupyter Notebooks
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
-* [BERNARDO31P/FastDownloader](https://github.com/BERNARDO31P/FastDownloader): FastDownloader: A fast YouTube video/audio downloader in electron.js (and many more websites)
+* [BERNARDO31P/FastDownloader](https://github.com/BERNARDO31P/FastDownloader): FastDownloader: A fast video/audio downloader for over 1800 websites!
 * [kibotu/FastExoPlayerSeeker](https://github.com/kibotu/FastExoPlayerSeeker): Fast Seek for ExoPlayer
 * [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix): FastFlix is a free GUI for H.264, HEVC and AV1 hardware and software encoding!
 * [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
@@ -3985,7 +3985,7 @@
 * [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks): A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework
 * [chapmanjacobd/library](https://github.com/chapmanjacobd/library): 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
 * [ddd-by-examples/library](https://github.com/ddd-by-examples/library): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 * [sumitk/librokudev](https://github.com/sumitk/librokudev): A community-created library of useful Roku BrightScript functions and classes
 * [librosa/librosa](https://github.com/librosa/librosa): Python library for audio and music analysis
 * [ColdGrub1384/LibTerm](https://github.com/ColdGrub1384/LibTerm): iOS sandboxed terminal with Python, Lua and Clang
@@ -3993,7 +3993,7 @@
 * [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd): A client library to multiplex connections from and to iOS devices
 * [intel/libva](https://github.com/intel/libva): Libva is an implementation for VA-API (Video Acceleration API)
 * [intel/libva-utils](https://github.com/intel/libva-utils): Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
-* [adrg/libvlc-go](https://github.com/adrg/libvlc-go): Go bindings for libVLC and high-level media player interface
+* [adrg/libvlc-go](https://github.com/adrg/libvlc-go): Handcrafted Go bindings for libVLC and high-level media player interface
 * [kala13x/libxmedia](https://github.com/kala13x/libxmedia): Implementation of audio/video transmuxing library based on FFMPEG API
 * [arex1337/lichess-daily-puzzle-slack-app](https://github.com/arex1337/lichess-daily-puzzle-slack-app): This is a Slack app that posts a daily chess puzzle from lichess.org to the Slack channel in which the app is installed.
 * [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker): Find retain cycles / memory leaks sooner.
@@ -4883,9 +4883,10 @@
 * [xiph/ogg](https://github.com/xiph/ogg): Reference implementation of the Ogg media container
 * [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars): An offline CLI tool to search your GitHub Stars.
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 * [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+* [valiantlynx/ollama-docker](https://github.com/valiantlynx/ollama-docker): Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * [ollama-interface/Ollama-Gui](https://github.com/ollama-interface/Ollama-Gui): A GUI interface for Ollama
 * [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI): User Interface made for Ollama.ai using Swift
 * [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac): Mac compatible Ollama Voice
@@ -5013,7 +5014,7 @@
 * [DerekTBrown/pacmanity](https://github.com/DerekTBrown/pacmanity): Package List Gist Backup via ALPM-Hooks
 * [pacstall/pacstall](https://github.com/pacstall/pacstall): An AUR-inspired package manager for Ubuntu
 * [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)【安全加固，暂停交互，请耐心等待】
-* [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP): 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis etc. 【安全加固，暂停交互，请耐心等待】
+* [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP): 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis etc. 
 * [mps-youtube/pafy](https://github.com/mps-youtube/pafy): Python library to download YouTube content and retrieve metadata
 * [lalit2005/pagely](https://github.com/lalit2005/pagely): Launch beautiful websites straight from your Notion workspace or from your GitHub repo
 * [microsoft/pai](https://github.com/microsoft/pai): Resource scheduling and cluster management for AI
@@ -5170,7 +5171,7 @@
 * [Re4son/Pocket-Kali-live-build](https://github.com/Re4son/Pocket-Kali-live-build): Debian live build for the Pocket-Kali
 * [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo): Go microservice template for Kubernetes
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
-* [containers/podman-desktop](https://github.com/containers/podman-desktop): Podman Desktop - A graphical tool for developing on containers and Kubernetes
+* [containers/podman-desktop](https://github.com/containers/podman-desktop): Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 * [marhkb/pods](https://github.com/marhkb/pods): Keep track of your podman containers
 * [kizitonwose/PodsUpdater](https://github.com/kizitonwose/PodsUpdater): A macOS app that helps you manage dependency releases in your Podfile.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
@@ -6083,7 +6084,7 @@
 * [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi): Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 * [zhuhaow/Specht](https://github.com/zhuhaow/Specht): A rule-based proxy app built with Network Extension for macOS
 * [mdx-js/specification](https://github.com/mdx-js/specification): MDX language and AST definitions
-* [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+* [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 * [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum): A client-side image transcoding library.
 * [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test): Test your internet connection speed and ping using speedtest.net from the CLI
 * [acoustid/speexdsp](https://github.com/acoustid/speexdsp): Speex audio processing library
