@@ -4544,9 +4544,6 @@
     "ViBiOh/hue": [
         "Other"
     ],
-    "ViBiOh/vith": [
-        "Other"
-    ],
     "ViacomInc/roku_builder": [
         "Other"
     ],
@@ -5109,6 +5106,9 @@
         "Other"
     ],
     "ai-boost/awesome-prompts": [
+        "Other"
+    ],
+    "ai-shifu/ChatALL": [
         "Other"
     ],
     "aigc-studio/awesome-ai": [
@@ -13337,6 +13337,9 @@
     "leixiaohua1020/simplest_ffmpeg_streamer": [
         "Other"
     ],
+    "lemmy/BlockingQueue": [
+        "Other"
+    ],
     "lencx/ChatGPT": [
         "Other"
     ],
@@ -19182,9 +19185,6 @@
         "Other"
     ],
     "sunlubo/SwiftFFmpeg": [
-        "Other"
-    ],
-    "sunner/ChatALL": [
         "Other"
     ],
     "suno-ai/bark": [

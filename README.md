@@ -187,7 +187,7 @@
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
 * [gitbito/AI-Automation](https://github.com/gitbito/AI-Automation): Intelligent AI automation examples using Bito CLI and tools
 * [Abhii-07/AI-Code-Converter](https://github.com/Abhii-07/AI-Code-Converter): This web application allows you to convert code from one programming language to another using the ChatGPT API. It also provides code debugging and code quality checking features.
-* [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator): Use AI to translate code from one language to another.
+* [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator): Come join the best place on the internet to learn AI skills. Use code "aicodetranslator" for an extra 20% off.
 * [eumemic/ai-legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
 * [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator): AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved viewing experience. This project combines the capabilities of GPT-4, FFmpeg, and OpenCV to automate the process of identifying highlights in videos
 * [greenteabots/Ai-Soundcloudviewer-written-by-chatGPT](https://github.com/greenteabots/Ai-Soundcloudviewer-written-by-chatGPT): Soundcloud ViewBot written by ChatGPT
@@ -665,7 +665,7 @@
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 * [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 * [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools): Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-* [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
+* [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): The list of continuous integration services and tools
 * [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd): continuous integration and continuous delivery
 * [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl): A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 * [lebensterben/awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux): Let's make Clear Linux distribution great
@@ -1141,6 +1141,7 @@
 * [blinksh/blink](https://github.com/blinksh/blink): Blink Mobile Shell for iOS (Mosh based)
 * [seanpm2001/Bliss_Browser_BrightScript](https://github.com/seanpm2001/Bliss_Browser_BrightScript): 🌳️🌐️#️⃣️ The Bliss Browser BrightScript language support module, allowing BrightScript programs to be written in and ran within the browser.
 * [objective-see/BlockBlock](https://github.com/objective-see/BlockBlock): BlockBlock provides continual protection by monitoring persistence locations.
+* [lemmy/BlockingQueue](https://github.com/lemmy/BlockingQueue): Tutorial "Weeks of debugging can save you hours of TLA+".  Each git commit introduces a new concept => check the git history!
 * [phil-opp/blog_os](https://github.com/phil-opp/blog_os): Writing an OS in Rust
 * [madeden/blogposts](https://github.com/madeden/blogposts): Repository for all posts by Mad Eden S.L
 * [ab-dx/blood_i3](https://github.com/ab-dx/blood_i3): None
@@ -1344,10 +1345,10 @@
 * [huggingface/chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app
 * [peterw/Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo): This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
 * [tobuya/chat_gpt_ui](https://github.com/tobuya/chat_gpt_ui): ChapGPT ui is a powerful app that allows one to harness the power of advanced machine learning algorithms to create intelligent application that can answer questions, translate text, convert code from one language to another and more.  It's built using React and ChatGPT's own APIs
-* [sunner/ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+* [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
-* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for every model.
-* [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite): A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
+* [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+* [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite): Come join the best place on the internet to learn AI skills. Use code "chatbotuilite" for an extra 20% off.
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 * [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles): Document Chatbot — multiple files. Powered by GPT / Embedding.
 * [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)
@@ -2218,7 +2219,7 @@
 * [mehmettaskiner/eksi-sozluk-reloaded](https://github.com/mehmettaskiner/eksi-sozluk-reloaded): eksi sozluk clone with python and flask
 * [elunez/eladmin](https://github.com/elunez/eladmin): eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 * [awsdocs/elastic-beanstalk-samples](https://github.com/awsdocs/elastic-beanstalk-samples): This repository contains code and configuration samples (e.g. .ebextensions) for AWS Elastic Beanstalk.
-* [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open, Distributed, RESTful Search Engine
+* [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open Source, Distributed, RESTful Search Engine
 * [lkzhao/ElasticTransition](https://github.com/lkzhao/ElasticTransition): A UIKit custom transition that simulates an elastic drag. Written in Swift.
 * [taglia3/ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC): A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao 
 * [electerm/electerm](https://github.com/electerm/electerm): 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
@@ -2391,7 +2392,7 @@
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk): Used to integrate the Facebook Platform with your iOS & tvOS apps.
 * [facebookarchive/facebook-swift-sdk](https://github.com/facebookarchive/facebook-swift-sdk): Integrate your iOS apps in Swift with Facebook Platform.
-* [facefusion/facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
+* [facefusion/facefusion](https://github.com/facefusion/facefusion): Industry leading face manipulation platform
 * [deepfakes/faceswap](https://github.com/deepfakes/faceswap): Deepfakes Software For All
 * [faiproject/fai](https://github.com/faiproject/fai): non-interactive system to install, customize and manage Linux systems
 * [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame): Tool to help us buy hard to find items. 
@@ -2441,7 +2442,7 @@
 * [valeriomazzeo/fastlane-plugin-jira_transition](https://github.com/valeriomazzeo/fastlane-plugin-jira_transition): Apply a JIRA transition to issues mentioned in the changelog
 * [SandyChapman/fastlane-plugin-jira_versions](https://github.com/SandyChapman/fastlane-plugin-jira_versions): A Fastlane plugin for managing JIRA releases / versions
 * [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center): 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
-* [fastogt/fastocloud](https://github.com/fastogt/fastocloud): FastoCloud Media
+* [fastogt/fastocloud](https://github.com/fastogt/fastocloud): FastoCloud COMMUNITY version
 * [fastogt/fastocloud_env](https://github.com/fastogt/fastocloud_env): Build scripts for FastoCloud services
 * [fastogt/fastonosql](https://github.com/fastogt/fastonosql): FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 * [fastogt/fastotv](https://github.com/fastogt/fastotv): IPTV/OTT Solution
@@ -5019,7 +5020,7 @@
 * [lalit2005/pagely](https://github.com/lalit2005/pagely): Launch beautiful websites straight from your Notion workspace or from your GitHub repo
 * [microsoft/pai](https://github.com/microsoft/pai): Resource scheduling and cluster management for AI
 * [kitsunyan/pakku](https://github.com/kitsunyan/pakku): Pacman wrapper with AUR support
-* [manjaro/pamac](https://github.com/manjaro/pamac): This repo has been archived. Our code is now hosted at
+* [manjaro/pamac](https://github.com/manjaro/pamac): Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support
 * [louisdh/panelkit](https://github.com/louisdh/panelkit): A UI framework that enables panels on iOS.
 * [antoniocasero/Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
 * [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime): A tiny Clojure library that deals with MIME types (Internet media types)
@@ -5528,7 +5529,7 @@
 * [reorproject/reor](https://github.com/reorproject/reor): Private & local AI personal knowledge management app.
 * [malcommac/Repeat](https://github.com/malcommac/Repeat): 🕦 Modern Timer in Swift, Debouncer and Throttler (alternative to NSTimer) made with GCD
 * [vimond/replay](https://github.com/vimond/replay): A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
-* [mckaywrigley/repo-chat](https://github.com/mckaywrigley/repo-chat): Use AI to ask questions about any GitHub repo.
+* [mckaywrigley/repo-chat](https://github.com/mckaywrigley/repo-chat): Come join the best place on the internet to learn AI skills. Use code "repochat" for an extra 20% off.
 * [pop-os/repo-proprietary](https://github.com/pop-os/repo-proprietary): Configuration for building the proprietary repo with debrep
 * [cassava/repoctl](https://github.com/cassava/repoctl): Make it easy to manage your local Arch Linux repository.
 * [RepositoryStream/RepositoryStream](https://github.com/RepositoryStream/RepositoryStream): None
@@ -6846,7 +6847,7 @@
 * [bcedu/VGrive](https://github.com/bcedu/VGrive): Google Drive client  for linux
 * [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
 * [davesteele/viagee](https://github.com/davesteele/viagee): Integrate GMail into the Linux Desktop
-* [igolaizola/vidai](https://github.com/igolaizola/vidai): Video generation using AI
+* [igolaizola/vidai](https://github.com/igolaizola/vidai): RunwayML Gen2 and Gen3 unofficial client to generate videos using AI
 * [HeZhang1994/video-audio-tools](https://github.com/HeZhang1994/video-audio-tools): To process/edit video and audio with Python+FFmpeg. [简单实用] 基于Python+FFmpeg的视频和音频的处理/剪辑。
 * [nytimes/video-captions-api](https://github.com/nytimes/video-captions-api): Agnostic API to generate captions for media assets across different transcription services. 
 * [pixop/video-compare](https://github.com/pixop/video-compare): Split screen video comparison tool using FFmpeg and SDL2
@@ -7001,7 +7002,6 @@
 * [gianpispi/visionos-avplayer-sample](https://github.com/gianpispi/visionos-avplayer-sample): None
 * [zernonia/vista](https://github.com/zernonia/vista): Add animated subtitle to your video automatically
 * [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage): Visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
-* [ViBiOh/vith](https://github.com/ViBiOh/vith): Video Thumbnailer
 * [digimezzo/vitomu](https://github.com/digimezzo/vitomu): Easy to use video to audio converter
 * [vivictorg/vivict](https://github.com/vivictorg/vivict): An easy to use in-browser tool for subjective comparison of the visual quality of different encodings of the same video source.
 * [Netflix/vizceral](https://github.com/Netflix/vizceral): WebGL visualization for displaying animated traffic graphs
