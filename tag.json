@@ -17,6 +17,9 @@
     "0xAX/linux-insides": [
         "Other"
     ],
+    "0xFA11/GameNetworkingResources": [
+        "Other"
+    ],
     "0xW1sKy/Stitch-For-Roku": [
         "Other"
     ],
@@ -182,7 +185,7 @@
     "AUTOMATIC1111/stable-diffusion-webui": [
         "Other"
     ],
-    "AXERA-TECH/ax-pipeline": [
+    "AUTOMATIC1111/stable-diffusion-webui-extensions": [
         "Other"
     ],
     "Aakash074/Tinder-Bumble-Auto-Match-Script": [
@@ -252,6 +255,9 @@
         "Other"
     ],
     "Ahmedbadereldin/Video-Trimmer-Android": [
+        "Other"
+    ],
+    "Aider-AI/aider": [
         "Other"
     ],
     "Airblader/dotfiles-manjaro": [
@@ -1275,6 +1281,9 @@
         "Other"
     ],
     "DopplerHQ/awesome-interview-questions": [
+        "Other"
+    ],
+    "Doriandarko/o1-engineer": [
         "Other"
     ],
     "Doubiiu/DynamiCrafter": [
@@ -3308,6 +3317,9 @@
     "NiciDieNase/chaosflix": [
         "Other"
     ],
+    "NielsRogge/Transformers-Tutorials": [
+        "Other"
+    ],
     "NikNakk/ffmpeg-aws-bento4": [
         "Other"
     ],
@@ -3408,6 +3420,12 @@
         "Other"
     ],
     "OpenAPITools/openapi-generator": [
+        "Other"
+    ],
+    "OpenAdaptAI/OpenAdapt": [
+        "Other"
+    ],
+    "OpenCSGs/csghub": [
         "Other"
     ],
     "OpenGVLab/Ask-Anything": [
@@ -4100,9 +4118,6 @@
     "SnapKit/SnapKit": [
         "Other"
     ],
-    "Snawoot/nvidia-patch": [
-        "Other"
-    ],
     "SoMainline/linux-apple-resources": [
         "Other"
     ],
@@ -4412,9 +4427,6 @@
     "Thurinum/simple-media-encoder": [
         "Other"
     ],
-    "ThusSpokeNomad/GameNetworkingResources": [
-        "Other"
-    ],
     "Tim-Barton/gogs-migration": [
         "Other"
     ],
@@ -4640,6 +4652,9 @@
     "Wolg/awesome-swift": [
         "Other"
     ],
+    "Woolverine94/biniou": [
+        "Other"
+    ],
     "WowzaMediaSystems/webrtc-examples": [
         "Other"
     ],
@@ -4845,6 +4860,9 @@
         "Other"
     ],
     "abhimanyulp/Code-Checker": [
+        "Other"
+    ],
+    "abhimishra91/insight": [
         "Other"
     ],
     "abhirooptalasila/AutoSub": [
@@ -6737,6 +6755,9 @@
     "bhaskatripathi/pdfGPT": [
         "Other"
     ],
+    "bhattbhavesh91/voice-assistant-whisper-chatgpt": [
+        "Other"
+    ],
     "bhavaniravi/airflow-kube-setup": [
         "Other"
     ],
@@ -6753,9 +6774,6 @@
         "Other"
     ],
     "bigcode-project/starcoder": [
-        "Other"
-    ],
-    "bigsillybear/livego": [
         "Other"
     ],
     "bilashcse/video-editor": [
@@ -6933,6 +6951,9 @@
         "Other"
     ],
     "bobbyiliev/introduction-to-bash-scripting": [
+        "Other"
+    ],
+    "bodaay/HuggingFaceModelDownloader": [
         "Other"
     ],
     "bookwyrm-social/bookwyrm": [
@@ -7260,6 +7281,9 @@
         "Other"
     ],
     "cash2one/VideoTranscoding-Backend": [
+        "Other"
+    ],
+    "casibase/casibase": [
         "Other"
     ],
     "cassava/repoctl": [
@@ -8108,6 +8132,9 @@
     "dangdungcntt/youtube-stream-url": [
         "Other"
     ],
+    "danielbodnar/awesome-stars": [
+        "Other"
+    ],
     "danielchatfield/trello-desktop": [
         "Other"
     ],
@@ -8181,6 +8208,9 @@
         "Other"
     ],
     "darlinghq/darling": [
+        "Other"
+    ],
+    "dartungar/obsidian-mermaid": [
         "Other"
     ],
     "darwiin/yaac-another-awesome-cv": [
@@ -9794,6 +9824,9 @@
     "fbdesignpro/sweetviz": [
         "Other"
     ],
+    "fboulnois/stable-diffusion-docker": [
+        "Other"
+    ],
     "fbritoferreira/m3u8-parser": [
         "Other"
     ],
@@ -10139,6 +10172,9 @@
     "fyne-io/fyne": [
         "Other"
     ],
+    "fynnfluegge/rocketnotes": [
+        "Other"
+    ],
     "fzakaria/transcoding": [
         "Other"
     ],
@@ -10233,6 +10269,9 @@
         "Other"
     ],
     "georgewhewell/undervolt": [
+        "Other"
+    ],
+    "georgia-tech-db/evadb": [
         "Other"
     ],
     "gerard/ext4fuse": [
@@ -10937,6 +10976,9 @@
     "harvard-dce/encode-for-mediasource": [
         "Other"
     ],
+    "haseeb-heaven/code-interpreter": [
+        "Other"
+    ],
     "haseeb-heaven/heavens-gpt": [
         "Other"
     ],
@@ -10973,7 +11015,7 @@
     "hasura/graphql-engine": [
         "Other"
     ],
-    "hatienloi/Soundcloud": [
+    "hatienl0i2612/Soundcloud": [
         "Other"
     ],
     "hating/AwesomeGithub": [
@@ -11190,6 +11232,9 @@
         "Other"
     ],
     "huggingface/swift-coreml-diffusers": [
+        "Other"
+    ],
+    "huggingface/text-embeddings-inference": [
         "Other"
     ],
     "huggingface/transformers": [
@@ -11609,9 +11654,6 @@
     "ios-driver/ios-driver": [
         "Other"
     ],
-    "ios-utils/XRouter": [
-        "Other"
-    ],
     "iosre/iOSAppReverseEngineering": [
         "Other"
     ],
@@ -11697,6 +11739,9 @@
         "Other"
     ],
     "ityouknow/spring-boot-examples": [
+        "Other"
+    ],
+    "iusztinpaul/hands-on-llms": [
         "Other"
     ],
     "iv-org/invidious": [
@@ -11793,6 +11838,9 @@
         "Other"
     ],
     "jamesfining/scte": [
+        "Other"
+    ],
+    "jamesmurdza/awesome-ai-devtools": [
         "Other"
     ],
     "jamiemaison/roku-roRunner": [
@@ -12339,6 +12387,18 @@
         "Other"
     ],
     "jupyter-naas/awesome-notebooks": [
+        "Other"
+    ],
+    "jupyter/docker-stacks": [
+        "Other"
+    ],
+    "jupyter/jupyter": [
+        "Other"
+    ],
+    "jupyter/notebook": [
+        "Other"
+    ],
+    "jupyterlab/jupyter-ai": [
         "Other"
     ],
     "jupyterlab/jupyterlab": [
@@ -12926,6 +12986,9 @@
     "krzemienski/awesome-list-site-generator": [
         "Other"
     ],
+    "krzemienski/awesome-starz": [
+        "Other"
+    ],
     "krzemienski/awesome-streaming-ui": [
         "Other"
     ],
@@ -12963,9 +13026,6 @@
         "Other"
     ],
     "krzemienski/scdl": [
-        "Other"
-    ],
-    "krzemienski/scdl_threaded": [
         "Other"
     ],
     "krzysztofzablocki/LifetimeTracker": [
@@ -13173,6 +13233,9 @@
         "Other"
     ],
     "kyaukyuai/gpt-all-star-ui": [
+        "Other"
+    ],
+    "kyegomez/swarms": [
         "Other"
     ],
     "kylef/Mockingjay": [
@@ -14237,6 +14300,9 @@
     "matvp91/indigo-player": [
         "Other"
     ],
+    "matvp91/mixwave": [
+        "Other"
+    ],
     "matvp91/shaka-player-react": [
         "Other"
     ],
@@ -14445,6 +14511,9 @@
         "Other"
     ],
     "mewkiz/flac": [
+        "Other"
+    ],
+    "mezbaul-h/june": [
         "Other"
     ],
     "mezod/awesome-indie": [
@@ -15509,7 +15578,7 @@
     "nocodb/nocodb": [
         "Other"
     ],
-    "nod-ai/SHARK": [
+    "nod-ai/SHARK-Studio": [
         "Other"
     ],
     "nod/rokumote": [
@@ -16295,9 +16364,6 @@
     "patrickclery/firetv": [
         "Other"
     ],
-    "paul-gauthier/aider": [
-        "Other"
-    ],
     "paulpacifico/shutter-encoder": [
         "Other"
     ],
@@ -16374,6 +16440,9 @@
         "Other"
     ],
     "peotr26/Fedora-Scripts": [
+        "Other"
+    ],
+    "peremartra/Large-Language-Model-Notebooks-Course": [
         "Other"
     ],
     "perenecabuto/json_schema_generator": [
@@ -16611,6 +16680,9 @@
         "Other"
     ],
     "pmusolino/Wormholy": [
+        "Other"
+    ],
+    "pnkvalavala/repochat": [
         "Other"
     ],
     "pobrejuanito/ffmpeg-hls-factory": [
@@ -17927,6 +17999,9 @@
     "saoudrizwan/DynamicJSON": [
         "Other"
     ],
+    "saoudrizwan/claude-dev": [
+        "Other"
+    ],
     "saravanakumarjsk/Text-to-speach-with-gTTS": [
         "Other"
     ],
@@ -18375,6 +18450,9 @@
         "Other"
     ],
     "sickcodes/Docker-OSX": [
+        "Other"
+    ],
+    "sigoden/aichat": [
         "Other"
     ],
     "siimon/prom-client": [
@@ -18911,6 +18989,9 @@
     "square/okhttp": [
         "Other"
     ],
+    "squaredtechnologies/vizly-notebook": [
+        "Other"
+    ],
     "squid-cache/squid": [
         "Other"
     ],
@@ -19214,7 +19295,7 @@
     "superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform": [
         "Other"
     ],
-    "surajit039/fedora-desktop-setup": [
+    "surajit039/FedoraSetup": [
         "Other"
     ],
     "surebert/docker-ffmpeg-service": [
@@ -19592,6 +19673,9 @@
     "testdrivenio/simple-task-queue": [
         "Other"
     ],
+    "teticio/audio-diffusion": [
+        "Other"
+    ],
     "tfoldi/clj-slack-sql": [
         "Other"
     ],
@@ -19653,6 +19737,9 @@
         "Other"
     ],
     "themix-project/themix-gui": [
+        "Other"
+    ],
+    "theodo-group/GenossGPT": [
         "Other"
     ],
     "theolampert/dash-server": [
@@ -20451,6 +20538,9 @@
         "Other"
     ],
     "ventoy/Ventoy": [
+        "Other"
+    ],
+    "vercel/ai": [
         "Other"
     ],
     "vercel/hyper": [
@@ -21465,6 +21555,9 @@
         "Other"
     ],
     "yermak/AudioBookConverter": [
+        "Other"
+    ],
+    "yeyupiaoling/Whisper-Finetune": [
         "Other"
     ],
     "yigiterinc/video-streaming-over-http": [
