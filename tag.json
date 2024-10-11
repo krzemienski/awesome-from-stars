@@ -7643,6 +7643,9 @@
     "cliffordkleinsr/DE-SRFREN": [
         "Other"
     ],
+    "clinebot/cline": [
+        "Other"
+    ],
     "clipable/clipable": [
         "Other"
     ],
@@ -7818,9 +7821,6 @@
         "Other"
     ],
     "contention/rsync-deployments": [
-        "Other"
-    ],
-    "contently/videojs-annotation-comments": [
         "Other"
     ],
     "context-labs/mactop": [
@@ -9846,6 +9846,9 @@
         "Other"
     ],
     "fedecalendino/pysub-parser": [
+        "Other"
+    ],
+    "feder-cr/Auto_Jobs_Applier_AIHawk": [
         "Other"
     ],
     "federicocarboni/setup-ffmpeg": [
@@ -17999,9 +18002,6 @@
     "saoudrizwan/DynamicJSON": [
         "Other"
     ],
-    "saoudrizwan/claude-dev": [
-        "Other"
-    ],
     "saravanakumarjsk/Text-to-speach-with-gTTS": [
         "Other"
     ],
@@ -20079,6 +20079,9 @@
         "Other"
     ],
     "trgino/nginx-streamer-ubuntu": [
+        "Other"
+    ],
+    "trilogy-group/contently-videojs-annotation-comments": [
         "Other"
     ],
     "trimstray/the-book-of-secret-knowledge": [
