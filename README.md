@@ -1441,7 +1441,7 @@
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [soundcloud-py/client-api](https://github.com/soundcloud-py/client-api): Official web api for the SoundCloud Python service.
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms
-* [clinebot/cline](https://github.com/clinebot/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+* [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * [openai/CLIP](https://github.com/openai/CLIP): CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 * [clipable/clipable](https://github.com/clipable/clipable): A simple, self-hosted, alternative to Streamable
 * [arslancb/clipbucket](https://github.com/arslancb/clipbucket): Open source video sharing website script, Tune.pk clone, Youtube clone, dailymotion clone. PHP.
@@ -7192,7 +7192,7 @@
 * [Eyevinn/whpp-client](https://github.com/Eyevinn/whpp-client): WebRTC HTTP Playback Protocol client library
 * [akr3ch/wicker-gui](https://github.com/akr3ch/wicker-gui): automate wifi hacking with wicker
 * [apache/wicket](https://github.com/apache/wicket): Apache Wicket - Component-based Java web framework
-* [3052/widevine](https://github.com/3052/widevine): DRM
+* [3052/widevine](https://github.com/3052/widevine): Widevine implementation
 * [WHTJEON/widevine-dl](https://github.com/WHTJEON/widevine-dl): Widevine MPD Content Downloader & Decryptor
 * [cryptonek/widevine-l3-decryptor](https://github.com/cryptonek/widevine-l3-decryptor): Mirror of the original repo
 * [tbodt/widevine-l3-decryptor](https://github.com/tbodt/widevine-l3-decryptor): None
