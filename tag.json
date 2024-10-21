@@ -317,6 +317,9 @@
     "Alir3z4/html2text": [
         "Other"
     ],
+    "AlistGo/alist": [
+        "Other"
+    ],
     "AlkTheOrg/reddit-saved-to-csv": [
         "Other"
     ],
@@ -1925,6 +1928,9 @@
     "FFmpeg/nv-codec-headers": [
         "Other"
     ],
+    "FFmpeg/web": [
+        "Other"
+    ],
     "FLEXTool/FLEX": [
         "Other"
     ],
@@ -2235,6 +2241,9 @@
         "Other"
     ],
     "HasseNasse/HyperTheme": [
+        "Other"
+    ],
+    "HasseNasse/hyper-term-theme": [
         "Other"
     ],
     "HaujetZhao/QuickCut": [
@@ -3956,6 +3965,9 @@
     "SansGuidon/bookmarks": [
         "Other"
     ],
+    "SartreShao/video-editor.webassembly": [
+        "Other"
+    ],
     "Sasa94s/Deploy-Flask-App-to-Kubernetes-using-EKS": [
         "Other"
     ],
@@ -4116,6 +4128,9 @@
         "Other"
     ],
     "SnapKit/SnapKit": [
+        "Other"
+    ],
+    "Snowiiii/Pumpkin": [
         "Other"
     ],
     "SoMainline/linux-apple-resources": [
@@ -4475,6 +4490,9 @@
     "TryFetch/Fetch": [
         "Other"
     ],
+    "TryGhost/Ghost": [
+        "Other"
+    ],
     "Tubitv/TubiPlayer": [
         "Other"
     ],
@@ -4605,6 +4623,9 @@
         "Other"
     ],
     "WHTJEON/widevine-dl": [
+        "Other"
+    ],
+    "WINOFFRG/limeplay": [
         "Other"
     ],
     "WWBN/AVideo": [
@@ -4749,6 +4770,9 @@
         "Other"
     ],
     "Z4nzu/hackingtool": [
+        "Other"
+    ],
+    "ZLMediaKit/ZLMediaKit": [
         "Other"
     ],
     "ZackAkil/transcoder-api-cloud-function": [
@@ -5342,6 +5366,9 @@
     "alfg/openencoder": [
         "Other"
     ],
+    "alfianlosari/ChatGPTSwift": [
+        "Other"
+    ],
     "alfianlosari/ChatGPTSwiftUI": [
         "Other"
     ],
@@ -5415,9 +5442,6 @@
         "Other"
     ],
     "alirezamika/autoscraper": [
-        "Other"
-    ],
-    "alist-org/alist": [
         "Other"
     ],
     "alkerway/hls-simulator": [
@@ -6384,6 +6408,9 @@
         "Other"
     ],
     "aws/amazon-eks-pod-identity-webhook": [
+        "Other"
+    ],
+    "aws/aws-cdk": [
         "Other"
     ],
     "aws/aws-cli": [
@@ -7397,6 +7424,9 @@
     "chabou/hyper-pane": [
         "Other"
     ],
+    "chaimPaneth/react-native-jw-media-player": [
+        "Other"
+    ],
     "chakra-ui/chakra-ui": [
         "Other"
     ],
@@ -7758,6 +7788,9 @@
         "Other"
     ],
     "cokaholic/TKParallaxScrollView": [
+        "Other"
+    ],
+    "coleam00/bolt.new-any-llm": [
         "Other"
     ],
     "coleifer/huey": [
@@ -9635,7 +9668,7 @@
     "fabiocaccamo/django-admin-interface": [
         "Other"
     ],
-    "fabquenneville/MediaCurator": [
+    "fabquenneville/mediacurator": [
         "Other"
     ],
     "fabric8io/gitcontroller": [
@@ -10154,10 +10187,10 @@
     "futurice/ios-good-practices": [
         "Other"
     ],
-    "futzu/SCTE-35_HLS_x9k3": [
+    "futzu/SCTE-35": [
         "Other"
     ],
-    "futzu/SCTE35_threefive": [
+    "futzu/SCTE-35_HLS_x9k3": [
         "Other"
     ],
     "futzu/umzz": [
@@ -13268,6 +13301,9 @@
     "lalit2005/pagely": [
         "Other"
     ],
+    "langchain-ai/open-canvas": [
+        "Other"
+    ],
     "langfordw/GPT-ffmpeg": [
         "Other"
     ],
@@ -14426,6 +14462,9 @@
     "mediaelement/mediaelement": [
         "Other"
     ],
+    "mediaelement/mediaelement-files": [
+        "Other"
+    ],
     "mediaelement/mediaelement-plugins": [
         "Other"
     ],
@@ -15018,6 +15057,9 @@
         "Other"
     ],
     "mozilla/readability": [
+        "Other"
+    ],
+    "mozilla/vtt.js": [
         "Other"
     ],
     "mpadge/ubuntu-setup": [
@@ -16031,6 +16073,9 @@
     "openai/openai-cookbook": [
         "Other"
     ],
+    "openai/swarm": [
+        "Other"
+    ],
     "openai/tiktoken": [
         "Other"
     ],
@@ -16404,6 +16449,9 @@
         "Other"
     ],
     "pdf-rs/pdf": [
+        "Other"
+    ],
+    "peaBerberian/wasp-hls": [
         "Other"
     ],
     "peaceiris/actions-gh-pages": [
@@ -16839,6 +16887,9 @@
         "Other"
     ],
     "prateekmedia/appimagepool": [
+        "Other"
+    ],
+    "pratikpatel8982/yt-dlp-mp4decrypt": [
         "Other"
     ],
     "prcongithub/do-assets": [
@@ -17867,6 +17918,9 @@
     "ryanmcdermott/starmark": [
         "Other"
     ],
+    "ryanoasis/nerd-fonts": [
+        "Other"
+    ],
     "ryanwiemer/gatsby-starter-gcn": [
         "Other"
     ],
@@ -17958,6 +18012,9 @@
         "Other"
     ],
     "samshadwell/TrumpScript": [
+        "Other"
+    ],
+    "samuel-vitorino/lm.rs": [
         "Other"
     ],
     "samueleastdev/streaming-analyzer": [
@@ -18887,6 +18944,9 @@
     "sparrowcode/PermissionsKit": [
         "Other"
     ],
+    "spchuang/videojs-markers": [
+        "Other"
+    ],
     "spekt8/spekt8": [
         "Other"
     ],
@@ -19014,6 +19074,12 @@
         "Other"
     ],
     "ssut/ffmpeg-on-apple-silicon": [
+        "Other"
+    ],
+    "stackblitz/bolt.new": [
+        "Other"
+    ],
+    "stackblitz/starters": [
         "Other"
     ],
     "stackgl/headless-gl": [
@@ -19578,6 +19644,9 @@
         "Other"
     ],
     "technicalpickles/homesick": [
+        "Other"
+    ],
+    "technovangelist/videoprojects": [
         "Other"
     ],
     "teddysun/shadowsocks_install": [
