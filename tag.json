@@ -11138,6 +11138,9 @@
     "hishamhm/htop": [
         "Other"
     ],
+    "hiteshchoudhary/video-streaming": [
+        "Other"
+    ],
     "hitode909/rokuga": [
         "Other"
     ],
@@ -14339,10 +14342,10 @@
     "matvp91/indigo-player": [
         "Other"
     ],
-    "matvp91/mixwave": [
+    "matvp91/shaka-player-react": [
         "Other"
     ],
-    "matvp91/shaka-player-react": [
+    "matvp91/superstreamer": [
         "Other"
     ],
     "matyo91/awesome-stars": [
@@ -15789,6 +15792,9 @@
         "Other"
     ],
     "numberwolf/FFmpeg-PlusPlus": [
+        "Other"
+    ],
+    "numberwolf/h265web.js": [
         "Other"
     ],
     "numixproject/numix-gtk-theme": [
