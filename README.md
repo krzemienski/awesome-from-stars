@@ -195,7 +195,7 @@
 * [google/ai_video_dubbing](https://github.com/google/ai_video_dubbing): None
 * [gofireflyio/aiac](https://github.com/gofireflyio/aiac): Artificial Intelligence Infrastructure-as-Code Generator.
 * [Panl/AICat](https://github.com/Panl/AICat): Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS
-* [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+* [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 * [Nutlope/aicommits](https://github.com/Nutlope/aicommits): A CLI that writes your git commit messages for you with AI
 * [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
@@ -578,7 +578,7 @@
 * [Eyevinn/autovmaf-api](https://github.com/Eyevinn/autovmaf-api): API to orchestrate AutoVMAF jobs
 * [Eyevinn/AutoVMAF-Excel-Accel](https://github.com/Eyevinn/AutoVMAF-Excel-Accel): Python script to generate spreadsheets from AutoVMAF-API results.
 * [Eyevinn/autovmaf-preprocessing](https://github.com/Eyevinn/autovmaf-preprocessing):  Tool that analyses a video via a combination of motion and sharpness to determine the most suitable parts to be used for VMAF analysis. https://github.com/Eyevinn/autovmaf
-* [CrypticSignal/AV-converter](https://github.com/CrypticSignal/AV-converter): A web app to convert an audio/video file to another format. You can also download YouTube videos at the /yt endpoint.
+* [CrypticSignal/AV-converter](https://github.com/CrypticSignal/AV-converter): A web app to convert an audio or video file to another format. You can also download YouTube videos at the /yt endpoint.
 * [AOMediaCodec/av1-isobmff](https://github.com/AOMediaCodec/av1-isobmff): Official specification of the AOM group for the carriage of AV1 in ISOBMFF
 * [federicoserraino/AV1-performance-analysis](https://github.com/federicoserraino/AV1-performance-analysis): Performance analysis about AV1, HEVC and AVC video compression formats in desktop and mobile environment. Some sample of encoding, decoding and performance data collection scripts have been included.
 * [Eyevinn/av1-player](https://github.com/Eyevinn/av1-player): Eyevinn AV1 player
@@ -605,7 +605,7 @@
 * [Telecommunication-Telemedia-Assessment/AVRate](https://github.com/Telecommunication-Telemedia-Assessment/AVRate): An open source modular Audio/Visual subjective evaluation test interface
 * [Telecommunication-Telemedia-Assessment/avrateNG](https://github.com/Telecommunication-Telemedia-Assessment/avrateNG): avrateNG -- next generation of avrate
 * [x3525/avsub](https://github.com/x3525/avsub): A simplified command-line interface for FFmpeg
-* [CurtisLeeBolin/avtc](https://github.com/CurtisLeeBolin/avtc): Audio Video TransCoder - Batch transcodes Audio Video files to HEVC/Opus/ASS/Matroska.
+* [CurtisLeeBolin/avtc](https://github.com/CurtisLeeBolin/avtc): Audio Video TransCoder - Batch transcodes Audio Video files to AV1/Opus/WebVTT/WebM.
 * [senko/avtk](https://github.com/senko/avtk): Audio/Video toolkit for Python
 * [avTranscoder/avTranscoder](https://github.com/avTranscoder/avTranscoder): C++ API for LibAV / FFMpeg
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -1112,7 +1112,7 @@
 * [axiomatic-systems/Bento4](https://github.com/axiomatic-systems/Bento4): Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools
 * [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python): 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 * [pop-os/beta](https://github.com/pop-os/beta): Pop!_OS Beta
-* [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress): A Python package that allows you to run an FFmpeg command & see percentage progress, ETA, etc.
+* [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress): A Python package for running an FFmpeg command & showing better progress info - percentage progress, a progress bar and ETA.
 * [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 * [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython): Code examples for my Write Better Python Code series on YouTube.
 * [anachirino/bifserver](https://github.com/anachirino/bifserver): Server which creates and serves up BIF files for Roku players
@@ -1445,7 +1445,7 @@
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
 * [soundcloud-py/client-api](https://github.com/soundcloud-py/client-api): Official web api for the SoundCloud Python service.
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms
-* [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+* [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 * [openai/CLIP](https://github.com/openai/CLIP): CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 * [clipable/clipable](https://github.com/clipable/clipable): A simple, self-hosted, alternative to Streamable
 * [arslancb/clipbucket](https://github.com/arslancb/clipbucket): Open source video sharing website script, Tune.pk clone, Youtube clone, dailymotion clone. PHP.
@@ -1500,7 +1500,7 @@
 * [Ajitroy01/Code_Genius](https://github.com/Ajitroy01/Code_Genius): Code_Genius empowers developers with code conversion, debugging, and code quality checks, making it easier to work on code in multiple programming languages while ensuring it's error-free and adheres to best practices.
 * [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad
 * [CodingDemon1/CodeConverter-GenAI](https://github.com/CodingDemon1/CodeConverter-GenAI): The Code Converter App is a versatile tool that allows users to convert, debug, and analyze code written in various programming languages. It utilizes the OpenAI GPT-3.5 turbo model to provide dynamic code conversion, debugging assistance, and code analysis.
-* [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+* [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface): Typefaces for source code beautification
 * [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX): CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 * [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
@@ -5107,7 +5107,7 @@
 * [pgrok/pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 * [ariya/phantomjs](https://github.com/ariya/phantomjs): Scriptable Headless Browser
 * [phaserjs/phaser](https://github.com/phaserjs/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-* [phidatahq/phidata](https://github.com/phidatahq/phidata): Build AI Agents with memory, knowledge, tools and reasoning
+* [phidatahq/phidata](https://github.com/phidatahq/phidata): Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 * [philcluff/phils-players](https://github.com/philcluff/phils-players): A collection of video players with vaguely simple GUIs for video engineers.
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh): Manjaro Phosh
@@ -5855,7 +5855,7 @@
 * [reHackable/scripts](https://github.com/reHackable/scripts): [ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience
 * [justeat/ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController): A view controller that uses root views of child view controllers as views in a UIStackView.
 * [jamesfining/scte](https://github.com/jamesfining/scte): Python library to work with SCTE standards.
-* [futzu/SCTE-35](https://github.com/futzu/SCTE-35): threefive is SCTE-35.  SCTE-35 Decoder, SCTE-35 Encoder, SCTE-35 Parser. 
+* [futzu/SCTE-35](https://github.com/futzu/SCTE-35): threefive is SCTE-35.
 * [futzu/SCTE-35_HLS_x9k3](https://github.com/futzu/SCTE-35_HLS_x9k3): HLS and SCTE-35   x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
@@ -5999,7 +5999,7 @@
 * [siyuan-note/siyuan-ios](https://github.com/siyuan-note/siyuan-ios): SiYuan iOS APP
 * [marcosgriselli/Sizes](https://github.com/marcosgriselli/Sizes): View your app on different device and font sizes 
 * [changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer): video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.
-* [changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer): A HTTP Media Caching Framework. It can cache FILE or HLS media. 音视频边播边缓存框架, 支持 HLS(m3u8) 和 FILE(mp4, mp3等).
+* [changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer): SJMediaCacheServer 是一个高效的 HTTP 媒体缓存框架，旨在代理媒体数据请求并优先提供缓存数据，从而减少网络流量并增强播放的流畅性。该框架支持两种类型的远程资源：基于文件的媒体，如 MP3、AAC、WAV、FLAC、OGG、MP4 和 MOV 等常见格式，以及 HLS（HTTP Live Streaming）流。它会自动解析 HLS 播放列表并代理各个媒体片段。
 * [changsanjiang/SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer): iOS VideoPlayer MediaPlayer video player media player 短视频播放器 可接入 ijkplayer aliplayer alivodplayer plplayer
 * [openjdk/skara](https://github.com/openjdk/skara): https://openjdk.org/projects/skara
 * [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView): ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
@@ -6149,7 +6149,7 @@
 * [schollz/spotifydownload](https://github.com/schollz/spotifydownload): A dependency-free Spotify playlist downloader that should just work
 * [zenangst/Spots](https://github.com/zenangst/Spots): :bamboo: Spots is a cross-platform view controller framework for building component-based UIs
 * [MengTo/Spring](https://github.com/MengTo/Spring): A library to simplify iOS animations in Swift.
-* [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot): Spring Boot
+* [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot): Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 * [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin): Admin UI for administration of spring boot applications
 * [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples): about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 
 * [jonashackt/spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs): Example project showing how to build a Spring Boot App providing a GUI with Vue.js
@@ -6315,7 +6315,7 @@
 * [spl0k/supysonic](https://github.com/spl0k/supysonic): Supysonic is a Python implementation of the Subsonic server API.
 * [Netflix/sureal](https://github.com/Netflix/sureal): Subjective quality scores recovery from noisy measurements.
 * [tradytics/surpriver](https://github.com/tradytics/surpriver): Find big moving stocks before they move using machine learning and anomaly detection
-* [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
+* [sveltejs/svelte](https://github.com/sveltejs/svelte): web development for the rest of us
 * [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD): A clean and lightweight progress HUD for your iOS and tvOS app.
 * [OpenVisualCloud/SVT-HEVC](https://github.com/OpenVisualCloud/SVT-HEVC): SVT HEVC encoder. Scalable Video Technology (SVT) is a software-based video coding technology that is highly optimized for Intel® Xeon® processors. Using the open source SVT-HEVC encoder, it is possible to spread video encoding processing across multiple Intel® Xeon® processors to achieve a real advantage of processing efficiency. 
 * [OpenVisualCloud/SVT-VP9](https://github.com/OpenVisualCloud/SVT-VP9): SVT VP9 encoder. Scalable Video Technology (SVT) is a software-based video coding technology that is highly optimized for Intel® Xeon® processors. Using the open source SVT-VP9 encoder, it is possible to spread video encoding processing across multiple Intel® Xeon® processors to achieve a real advantage of processing efficiency. 
@@ -6900,7 +6900,7 @@
 * [pixop/video-compare](https://github.com/pixop/video-compare): Split screen video comparison tool using FFmpeg and SDL2
 * [bergkamp/video-comparison-player](https://github.com/bergkamp/video-comparison-player): 🎦 Video comparison player for Mac and Windows, built using Electron
 * [AK1194/Video-Compression-motion-estimation-block-video-encoder](https://github.com/AK1194/Video-Compression-motion-estimation-block-video-encoder): This repository is about video compression, and more specifically about the motion estimation block (ME block) of a video encoder. It is a research project for developing an efficient motion estimation algorithm, so that the video compression technology can keep pace with the high frame rate videos and high resolution videos.
-* [cheezos/video-compressor](https://github.com/cheezos/video-compressor): A graphical interface to compress videos to any file size.
+* [cheezos/video-compressor](https://github.com/cheezos/video-compressor): A graphical video compressor, compress videos to any file size!
 * [leandromoreira/video-containers-debugging-tools](https://github.com/leandromoreira/video-containers-debugging-tools): A set of command lines to debug video streaming files like mp4 (MPEG-4 Part 14), ts (MPEG-2 Part 1), fmp4 in Dash, HLS, or MSS, with or without DRM.
 * [caacuk/video-conversion-app](https://github.com/caacuk/video-conversion-app): Flask Web Application - Video Conversion
 * [dPro-Software/Video-converter](https://github.com/dPro-Software/Video-converter): A GUI for the ffmpeg library written in Swift
@@ -6917,7 +6917,7 @@
 * [aristotelesbr/video-enconder](https://github.com/aristotelesbr/video-enconder): This is a simple video encoder that uses ffmpeg to encode videos to a specific format.
 * [Eyevinn/video-event-filter](https://github.com/Eyevinn/video-event-filter): A simple module to filter the events sent from the video element in a way that align with what is, most probably, expected from an analytics perspective.
 * [aizvorski/video-quality](https://github.com/aizvorski/video-quality): Video quality metrics, reference implementation in python: VIF, SSIM, PSNR, ...
-* [CrypticSignal/video-quality-metrics](https://github.com/CrypticSignal/video-quality-metrics): Test specified presets/CRF values for the x264 or x265 encoder. Compares VMAF/SSIM/PSNR numerically & via graphs.
+* [CrypticSignal/video-quality-metrics](https://github.com/CrypticSignal/video-quality-metrics): Uses FFmpeg to benchmark video encoders to compare VMAF/SSIM/PSNR with different encoder settings.
 * [Eyevinn/video-quality-monitor](https://github.com/Eyevinn/video-quality-monitor): A small package to monitor buffering and dropped frames on the video element, reporting it back as state updates into a sent in callback.
 * [video-react/video-react](https://github.com/video-react/video-react): A web video player built for the HTML5 world using React library.
 * [josepsoares/video-render-api](https://github.com/josepsoares/video-render-api): A somewhat simple golang REST API with the fiber framework with routes which process video and audio using the open-source software ffmpeg
