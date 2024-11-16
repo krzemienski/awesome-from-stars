@@ -146,7 +146,7 @@
     "AIGC-Audio/AudioGPT.github.io": [
         "Other"
     ],
-    "AIHawk-co/Auto_Jobs_Applier": [
+    "AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent": [
         "Other"
     ],
     "AILab-CVC/Animate-A-Story": [
@@ -959,6 +959,9 @@
     "Commandcracker/alpine-ffmpeg": [
         "Other"
     ],
+    "ComposioHQ/composio": [
+        "Other"
+    ],
     "ConnectAI-E/AutoGPT-Next-Web": [
         "Other"
     ],
@@ -984,6 +987,9 @@
         "Other"
     ],
     "ContainerSolutions/template-spring-boot": [
+        "Other"
+    ],
+    "CopilotKit/CopilotKit": [
         "Other"
     ],
     "CorentinJ/Real-Time-Voice-Cloning": [
@@ -2948,6 +2954,9 @@
     "MGPoirot/web2mp3": [
         "Other"
     ],
+    "MKSG-MugunthKumar/MKNetworkKit-Swift": [
+        "Other"
+    ],
     "MLSDev/TRON": [
         "Other"
     ],
@@ -3186,9 +3195,6 @@
         "Other"
     ],
     "MuShare/Httper-iOS": [
-        "Other"
-    ],
-    "MugunthKumar/MKNetworkKit-Swift": [
         "Other"
     ],
     "MunGell/awesome-for-beginners": [
@@ -3747,6 +3753,9 @@
         "Other"
     ],
     "QuivrHQ/quivr": [
+        "Other"
+    ],
+    "QwenLM/Qwen2.5-Coder": [
         "Other"
     ],
     "R3LI4NT/Wifi-Hack": [
@@ -4311,9 +4320,6 @@
         "Other"
     ],
     "Synopsis/ml-ffmpeg-docker": [
-        "Other"
-    ],
-    "Sysinternals/SysmonForLinux": [
         "Other"
     ],
     "T-Pham/RokuJSONHelperNode": [
@@ -9159,6 +9165,9 @@
         "Other"
     ],
     "e2b-dev/E2B": [
+        "Other"
+    ],
+    "e2b-dev/e2b-cookbook": [
         "Other"
     ],
     "e2iplayer/hlsdl": [
@@ -14399,9 +14408,6 @@
     "matvp91/shaka-player-react": [
         "Other"
     ],
-    "matvp91/superstreamer": [
-        "Other"
-    ],
     "matyo91/awesome-stars": [
         "Other"
     ],
@@ -14715,6 +14721,9 @@
         "Other"
     ],
     "microsoft/Peekaboo": [
+        "Other"
+    ],
+    "microsoft/SysmonForLinux": [
         "Other"
     ],
     "microsoft/appcenter": [
@@ -17636,9 +17645,6 @@
     "rnorth/mkdocs-codeinclude-plugin": [
         "Other"
     ],
-    "roaldnefs/awesome-prometheus": [
-        "Other"
-    ],
     "robbie-cahill/tunnelmole-client": [
         "Other"
     ],
@@ -19427,6 +19433,9 @@
     "superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform": [
         "Other"
     ],
+    "superstreamerapp/superstreamer": [
+        "Other"
+    ],
     "surajit039/FedoraSetup": [
         "Other"
     ],
@@ -21107,6 +21116,9 @@
     "warpdotdev/themes": [
         "Other"
     ],
+    "warpnet/awesome-prometheus": [
+        "Other"
+    ],
     "warren-bank/Android-ExoPlayer-AirPlay-Receiver": [
         "Other"
     ],
@@ -21447,9 +21459,6 @@
         "Other"
     ],
     "x1wins/CW-OVP": [
-        "Other"
-    ],
-    "x3525/avsub": [
         "Other"
     ],
     "xXSentryBotXx/roku-rac-example": [
