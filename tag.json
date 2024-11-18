@@ -962,12 +962,6 @@
     "ComposioHQ/composio": [
         "Other"
     ],
-    "ConnectAI-E/AutoGPT-Next-Web": [
-        "Other"
-    ],
-    "ConnectAI-E/Awesome-One-Click-Deployment": [
-        "Other"
-    ],
     "ConsciousBone/adb-tools": [
         "Other"
     ],
@@ -1386,6 +1380,12 @@
         "Other"
     ],
     "EliverLara/Sweet": [
+        "Other"
+    ],
+    "ElricLiu/AutoGPT-Next-Web": [
+        "Other"
+    ],
+    "ElricLiu/Awesome-One-Click-Deployment": [
         "Other"
     ],
     "Eltik/M3U8-Proxy": [
@@ -9807,9 +9807,6 @@
         "Other"
     ],
     "facefusion/facefusion": [
-        "Other"
-    ],
-    "facert/awesome-spider": [
         "Other"
     ],
     "facetdigital/QuiltView": [

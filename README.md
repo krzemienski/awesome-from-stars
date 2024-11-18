@@ -181,7 +181,7 @@
 * [marco-gallegos/after-install](https://github.com/marco-gallegos/after-install): shell scripts para operaciones comunes despues de instalar distros linux
 * [hyperoslo/Aftermath](https://github.com/hyperoslo/Aftermath): :crystal_ball: Stateless message-driven micro-framework in Swift.
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
-* [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
+* [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
@@ -546,8 +546,8 @@
 * [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI 🤖
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 * [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui): A graphical user interface for AutoGPT
-* [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 * [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+* [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 * [aorumbayev/autogpt4all](https://github.com/aorumbayev/autogpt4all): 🛠️ User-friendly bash script for setting up and configuring your LocalAI server with the GPT4All for free! 💸
 * [AutoGPTQ/AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ): An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
@@ -853,7 +853,7 @@
 * [thexclu/awesome-notion-api](https://github.com/thexclu/awesome-notion-api): This is a collection of awesome idea, tools, integrations build by Notion API.
 * [mnismt/awesome-notion-site](https://github.com/mnismt/awesome-notion-site): A curated list of awesome Notion related things
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
-* [ConnectAI-E/Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment): 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+* [ElricLiu/Awesome-One-Click-Deployment](https://github.com/ElricLiu/Awesome-One-Click-Deployment): 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
 * [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide): 🌩️ A list of awesome online development environments
 * [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt): Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 * [APIs-guru/awesome-openapi3](https://github.com/APIs-guru/awesome-openapi3): 😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community
@@ -922,7 +922,6 @@
 * [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify): 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 * [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv): :zap:A curated list of awesome resources for building Smart TV apps
 * [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity): ⟠ A curated list of awesome Solidity resources, libraries, tools and more
-* [facert/awesome-spider](https://github.com/facert/awesome-spider): 爬虫集合
 * [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot): Spring Boot Resources
 * [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy): A curated list of awesome tools for SQLAlchemy
 * [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre): A curated list of Site Reliability and Production Engineering resources.
@@ -4239,7 +4238,7 @@
 * [vladkens/macmon](https://github.com/vladkens/macmon): 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 * [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
-* [context-labs/mactop](https://github.com/context-labs/mactop): mactop - Apple Silicon Monitor Top written in pure Golang! Under 1,000 lines of code.
+* [context-labs/mactop](https://github.com/context-labs/mactop): mactop - Apple Silicon Monitor Top
 * [KhaosT/MacVM](https://github.com/KhaosT/MacVM): macOS VM for Apple Silicon using Virtualization API
 * [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro): Painless Mobile UI Automation
 * [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku): None
