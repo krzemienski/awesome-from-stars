@@ -149,6 +149,12 @@
     "AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent": [
         "Other"
     ],
+    "AIHawk-FOSS/lib_resume_builder_AIHawk": [
+        "Other"
+    ],
+    "AIHawk-FOSS/resume_render_from_job_description": [
+        "Other"
+    ],
     "AILab-CVC/Animate-A-Story": [
         "Other"
     ],
@@ -9929,12 +9935,6 @@
     "fedecalendino/pysub-parser": [
         "Other"
     ],
-    "feder-cr/lib_resume_builder_AIHawk": [
-        "Other"
-    ],
-    "feder-cr/resume_render_from_job_description": [
-        "Other"
-    ],
     "federicocarboni/setup-ffmpeg": [
         "Other"
     ],
@@ -13608,9 +13608,6 @@
         "Other"
     ],
     "liltom-eth/llama2-webui": [
-        "Other"
-    ],
-    "liluxdev/soundmanager2-livem3u": [
         "Other"
     ],
     "lima-vm/lima": [

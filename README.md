@@ -4007,7 +4007,7 @@
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
 * [letta-ai/letta](https://github.com/letta-ai/letta): Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 * [jordicenzano/lhls-simple-live-platform](https://github.com/jordicenzano/lhls-simple-live-platform): Very simple low latency live platform prototype
-* [feder-cr/lib_resume_builder_AIHawk](https://github.com/feder-cr/lib_resume_builder_AIHawk): None
+* [AIHawk-FOSS/lib_resume_builder_AIHawk](https://github.com/AIHawk-FOSS/lib_resume_builder_AIHawk): None
 * [libass/libass](https://github.com/libass/libass): libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
 * [libav/libav](https://github.com/libav/libav): Libav github mirror, clone of git://git.libav.org/libav
 * [Yahweasel/libav.js](https://github.com/Yahweasel/libav.js): This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web.
@@ -5615,7 +5615,7 @@
 * [datarhei/restreamer-ui](https://github.com/datarhei/restreamer-ui): The user interface of the Restreamer for the connection to the Core application.
 * [leandromoreira/resty-bakery](https://github.com/leandromoreira/resty-bakery): An Nginx+Lua library to modify media manifests like HLS and MPEG Dash, acting like a proxy.
 * [sb2nov/resume](https://github.com/sb2nov/resume): Software developer resume in Latex
-* [feder-cr/resume_render_from_job_description](https://github.com/feder-cr/resume_render_from_job_description): Resume_Builder_AIHawk is a powerful Python tool that allows you to automatically customize your resume based on a job URL, ensuring it perfectly aligns with the job requirements and skills. With an interactive command-line interface, this tool makes it easy to navigate through options and select from various pre-defined styles
+* [AIHawk-FOSS/resume_render_from_job_description](https://github.com/AIHawk-FOSS/resume_render_from_job_description): Resume_Builder_AIHawk is a powerful Python tool that allows you to automatically customize your resume based on a job URL, ensuring it perfectly aligns with the job requirements and skills. With an interactive command-line interface, this tool makes it easy to navigate through options and select from various pre-defined styles
 * [ReSwift/ReSwift](https://github.com/ReSwift/ReSwift): Unidirectional Data Flow in Swift - Inspired by Redux
 * [ReSwift/ReSwift-Router](https://github.com/ReSwift/ReSwift-Router): Declarative Routing in Swift, Extension for ReSwift
 * [AliSoftware/Reusable](https://github.com/AliSoftware/Reusable): A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)
@@ -6123,7 +6123,6 @@
 * [bspst/soundground](https://github.com/bspst/soundground): Native soundcloud client built on Python and curses
 * [barenddt/soundify](https://github.com/barenddt/soundify): Soundcloud Client built using React & Redux
 * [scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2): A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.
-* [liluxdev/soundmanager2-livem3u](https://github.com/liluxdev/soundmanager2-livem3u): Soundmanager2 lightweight live audio streaming with .M3U (inspired by Cupertino Streaming - HLS / .M3U8)
 * [haikelfazzani/soundme](https://github.com/haikelfazzani/soundme): 🔥 Search for lyrics and listen to your favorite music from SoundCloud
 * [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app): Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 * [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape): SoundCloud (and Bandcamp and Mixcloud) downloader in Python. 
