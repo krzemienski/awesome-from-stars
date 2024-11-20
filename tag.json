@@ -12128,9 +12128,6 @@
     "jgillick/jira-changelog": [
         "Other"
     ],
-    "jgraph/drawio": [
-        "Utility"
-    ],
     "jgraph/drawio-desktop": [
         "Other"
     ],
@@ -14028,6 +14025,9 @@
         "Other"
     ],
     "macabeus/InputStepByStep": [
+        "Other"
+    ],
+    "macfuse/macfuse": [
         "Other"
     ],
     "mackworth/cTiVo": [
@@ -16305,9 +16305,6 @@
         "Other"
     ],
     "ossu/computer-science": [
-        "Other"
-    ],
-    "osxfuse/osxfuse": [
         "Other"
     ],
     "osy/Jitterbug": [

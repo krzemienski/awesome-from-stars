@@ -32,7 +32,6 @@
   * [HarmonyOS](#harmonyos)
 * [Other](#other)
 * [Python](#python)
-* [Utility](#utility-2)
 
 # Android
 
@@ -4232,6 +4231,7 @@
 * [mrdbourke/mac-ml-speed-test](https://github.com/mrdbourke/mac-ml-speed-test): A few quick scripts focused on testing TensorFlow/PyTorch/Llama 2 on macOS.
 * [exyte/Macaw](https://github.com/exyte/Macaw): Powerful and easy-to-use vector graphics Swift library with SVG support
 * [MacDownApp/macdown](https://github.com/MacDownApp/macdown): Open source Markdown editor for macOS.
+* [macfuse/macfuse](https://github.com/macfuse/macfuse): macFUSE umbrella repository
 * [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading): Code for Machine Learning for Algorithmic Trading, 2nd edition.
 * [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials): machine learning and deep learning tutorials, articles and other resources 
 * [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
@@ -5037,7 +5037,6 @@
 * [dkhamsing/osia](https://github.com/dkhamsing/osia): :octocat: iOS app to browse open-source-ios-apps
 * [compuccino/osk-encoder-validator](https://github.com/compuccino/osk-encoder-validator): A web based tool to check live encoders output on rtmp/srt streams.
 * [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-* [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse): FUSE extends macOS by adding support for user space file systems
 * [lisamelton/other_video_transcoding](https://github.com/lisamelton/other_video_transcoding): Other tools to transcode videos.
 * [ebitengine/oto](https://github.com/ebitengine/oto): ♪ A low-level library to play sound on multiple platforms ♪
 * [Eyevinn/ott-multiview](https://github.com/Eyevinn/ott-multiview): This is a web based multiview screen for HLS and MPEG-DASH streams based on hls.js and Shaka Player.
@@ -7442,9 +7441,5 @@
 
 * [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
-
-# Utility
-
-* [jgraph/drawio](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming.
 
 
