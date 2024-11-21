@@ -2949,7 +2949,7 @@
 * [jeroenoomsNL/github-project-starter](https://github.com/jeroenoomsNL/github-project-starter): A boilerplate for Github frontend projects to save time on creating a build process and a demo pages for Github Pages.
 * [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking): :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 * [soroushchehresa/github-react-native-apollo-graphql](https://github.com/soroushchehresa/github-react-native-apollo-graphql):  📱 A GitHub mobile app built with React-Native and Apollo GraphQL
-* [Reinforz/github-readme-learn-section-notion](https://github.com/Reinforz/github-readme-learn-section-notion): Update your github README with data fetched from a notion database
+* [Devorein/github-readme-learn-section-notion](https://github.com/Devorein/github-readme-learn-section-notion): Update your github README with data fetched from a notion database
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [Moin-Islam/Github-Scraper](https://github.com/Moin-Islam/Github-Scraper): A web scraper which scraps github topics and details 
 * [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper): 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡
@@ -6313,7 +6313,7 @@
 * [basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome): ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.
 * [GitHawkApp/StyledTextKit](https://github.com/GitHawkApp/StyledTextKit): Declarative building and fast rendering attributed string library.
 * [pannal/Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle): Subtitles for Plex, as good you would expect them to be.
-* [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer): :memo: SubPlayer is an online subtitle editor
+* [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer): SubPlayer is no longer maintained, please consider Aimu
 * [cessen/subs_extract](https://github.com/cessen/subs_extract): Extracts per-sentence subtitles + audio from a subtitle file + video file.
 * [sc0ty/subsync](https://github.com/sc0ty/subsync): Subtitle Speech Synchronizer
 * [tympanix/subsync](https://github.com/tympanix/subsync): Synchronize your subtitles using machine learning
