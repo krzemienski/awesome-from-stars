@@ -251,6 +251,9 @@
     "AgentOak/docker-livestreaming": [
         "Other"
     ],
+    "AgentOps-AI/agentops": [
+        "Other"
+    ],
     "Agenta-AI/agenta": [
         "Other"
     ],
@@ -2501,6 +2504,9 @@
     "JeffWang987/WorldDreamer": [
         "Other"
     ],
+    "JeremiahPetersen/RepoToText": [
+        "Other"
+    ],
     "Jerrywx/VideoPlayer": [
         "Other"
     ],
@@ -4458,6 +4464,9 @@
         "Other"
     ],
     "TheAssassin/AppImageLauncher": [
+        "Other"
+    ],
+    "TheBlewish/Automated-AI-Web-Researcher-Ollama": [
         "Other"
     ],
     "TheGreatMcPain/python-media-scripts": [
@@ -7038,6 +7047,9 @@
         "Other"
     ],
     "bodaay/HuggingFaceModelDownloader": [
+        "Other"
+    ],
+    "bookkojot/mp4fixer": [
         "Other"
     ],
     "bookwyrm-social/bookwyrm": [
@@ -12704,6 +12716,9 @@
     "kb-dk/tv-subtitle-extraction": [
         "Other"
     ],
+    "kbravh/tweet-to-markdown": [
+        "Other"
+    ],
     "kdash-rs/kdash": [
         "Other"
     ],
@@ -13062,6 +13077,9 @@
         "Other"
     ],
     "krydos/todoist-linux": [
+        "Other"
+    ],
+    "krzemienski/CodeNexus": [
         "Other"
     ],
     "krzemienski/Download_soundcloud": [
@@ -15017,6 +15035,9 @@
     "modded-ubuntu/modded-ubuntu": [
         "Other"
     ],
+    "modelcontextprotocol/servers": [
+        "Other"
+    ],
     "mofo7777/Stackoverflow": [
         "Other"
     ],
@@ -16575,6 +16596,12 @@
         "Other"
     ],
     "pezzolabs/pezzo": [
+        "Other"
+    ],
+    "pfgithub/scpl": [
+        "Other"
+    ],
+    "pfgithub/scpl-editor": [
         "Other"
     ],
     "pfsense/pfsense": [
@@ -18281,6 +18308,9 @@
     "seanpm2001/Learn-BrightScript": [
         "Other"
     ],
+    "sebj/iOS-Shortcuts-Reference": [
+        "Other"
+    ],
     "sebyddd/SDVersion": [
         "Other"
     ],
@@ -18600,6 +18630,9 @@
         "Other"
     ],
     "simon987/awesome-datahoarding": [
+        "Other"
+    ],
+    "simonbs/Runestone": [
         "Other"
     ],
     "simonecorsi/awesome": [
@@ -19418,6 +19451,9 @@
     "supabase/supabase": [
         "Other"
     ],
+    "supabase/supabase-swift": [
+        "Other"
+    ],
     "superduper-io/superduper": [
         "Other"
     ],
@@ -20055,6 +20091,9 @@
         "Other"
     ],
     "tldr-pages/tldr": [
+        "Other"
+    ],
+    "tldraw/tldraw": [
         "Other"
     ],
     "tlkh/asitop": [
@@ -21452,6 +21491,9 @@
     "x1wins/CW-OVP": [
         "Other"
     ],
+    "xAlien95/shortcut-preview": [
+        "Other"
+    ],
     "xXSentryBotXx/roku-rac-example": [
         "Other"
     ],
@@ -21786,6 +21828,9 @@
         "Other"
     ],
     "yzhao062/anomaly-detection-resources": [
+        "Other"
+    ],
+    "zachary7829/Buttermilk": [
         "Other"
     ],
     "zackees/gptrepo": [

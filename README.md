@@ -155,7 +155,7 @@
 * [sunwicked/adbGUI](https://github.com/sunwicked/adbGUI): Desktop client for adb commands inspired from adb idea plugin for android studio 
 * [s3h10r/AddToReminiscence-Chromium-Extension](https://github.com/s3h10r/AddToReminiscence-Chromium-Extension): This extension adds a button to your toolbar which lets you add the current page you're browsing to your Reminiscence instance.
 * [GPUOpen-LibrariesAndSDKs/ADLX](https://github.com/GPUOpen-LibrariesAndSDKs/ADLX): AMD Device Library eXtra
-* [app-generator/admin-dashboards](https://github.com/app-generator/admin-dashboards): Admin Dashboards - Open-Source and Free | AppSeed
+* [app-generator/admin-dashboards](https://github.com/app-generator/admin-dashboards): Admin Dashboards - Open-Source and Free | App-Generator.dev
 * [adminfaces/admin-template](https://github.com/adminfaces/admin-template): JSF responsive admin template based on Bootstrap and AdminLTE 
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 5
 * [shobrook/adrenaline](https://github.com/shobrook/adrenaline): Instant answers to any programming question
@@ -183,6 +183,7 @@
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
+* [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): Build AI-powered applications with React, Svelte, Vue, and Solid
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -553,6 +554,7 @@
 * [akordadev/AutoLayoutMagic](https://github.com/akordadev/AutoLayoutMagic): Build 1 scene, let AutoLayoutMagic generate the constraints for you!
 * [kishikawakatsumi/AutoLayoutManiacs](https://github.com/kishikawakatsumi/AutoLayoutManiacs): None
 * [saurabh0719/automate-mediaconvert](https://github.com/saurabh0719/automate-mediaconvert): Automate video transcoding and generate thumbnails with AWS Elemental Mediaconvert and S3 :zap:
+* [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama): A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
 * [rokudev/automated-channel-testing](https://github.com/rokudev/automated-channel-testing): Roku Automated Channel Testing: Selenium-based WebDriver + Robot Framework + JS Framework + Samples
 * [disneystreaming/automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor): Automated Cloud Advisor is a extensible tool that aims at facilitating cost optimization in AWS, by collecting data for resources that are under utilized. In addition, this is a great learning tool for new DevOps/Cloud engineers that want to start automating things in AWS. 
 * [snapfast/AutoMates](https://github.com/snapfast/AutoMates): a script to apply for jobs, swipe on bumble, and more.
@@ -1271,6 +1273,7 @@
 * [eyecuvision/bumblebee](https://github.com/eyecuvision/bumblebee): Video Processing API
 * [bup/bup](https://github.com/bup/bup): Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).
 * [flavioribeiro/butterfly](https://github.com/flavioribeiro/butterfly): transcode videos on the fly
+* [zachary7829/Buttermilk](https://github.com/zachary7829/Buttermilk): Make shortcuts from Text.
 * [TheAlgorithms/C](https://github.com/TheAlgorithms/C): Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus): Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 * [goplus/c2go](https://github.com/goplus/c2go): Convert C to Go
@@ -1517,6 +1520,7 @@
 * [Dash-Industry-Forum/codem-isoboxer](https://github.com/Dash-Industry-Forum/codem-isoboxer): A lightweight browser-based MPEG-4 (ISOBMFF) file/box parser.
 * [madebyhiro/codem-transcode](https://github.com/madebyhiro/codem-transcode): Offline video transcoder written in node.js
 * [codemirror/codemirror5](https://github.com/codemirror/codemirror5): In-browser code editor (version 5, legacy)
+* [krzemienski/CodeNexus](https://github.com/krzemienski/CodeNexus): None
 * [coder/coder](https://github.com/coder/coder): Provision remote development environments via Terraform
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
@@ -1928,17 +1932,17 @@
 * [app-generator/django-admin-coreui](https://github.com/app-generator/django-admin-coreui): Django Theme CoreUI - Free template for Django Admin UI | AppSeed
 * [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface): :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 * [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools): Extends the Django Admin to include a extensible dashboard and navigation menu
-* [app-generator/django-adminlte](https://github.com/app-generator/django-adminlte): AdminLTE Django - Open-source seed project | AppSeed
+* [app-generator/django-adminlte](https://github.com/app-generator/django-adminlte): AdminLTE Django - Open-source seed project | App-Generator.dev
 * [d-demirci/django-adminlte3](https://github.com/d-demirci/django-adminlte3): AdminLTE Templates, Template Tags, and Admin Theme for Django
 * [app-generator/django-atlantis-dark](https://github.com/app-generator/django-atlantis-dark): Django Dashboard - Atlantis Lite (Dark Version) | AppSeed
 * [app-generator/django-black-dashboard](https://github.com/app-generator/django-black-dashboard): Django Dashboard Black - Open-source Seed Project | AppSeed
 * [zostera/django-bootstrap4](https://github.com/zostera/django-bootstrap4): Bootstrap 4 integration with Django.
 * [just-work/django-celery-rpc](https://github.com/just-work/django-celery-rpc): Remote access from one system to models of another one using Celery machinery.
-* [app-generator/django-dashboards](https://github.com/app-generator/django-dashboards): Django Dashboards - Admin Panels coded in Django | AppSeed
+* [app-generator/django-dashboards](https://github.com/app-generator/django-dashboards): Django Dashboards - Admin Panels coded in Django | App-Generator.dev
 * [NorakGithub/django-docker-alpine](https://github.com/NorakGithub/django-docker-alpine): Example building Django docker image with Alpine
 * [jazzband/django-downloadview](https://github.com/jazzband/django-downloadview): Serve files with Django.
 * [viewflow/django-material](https://github.com/viewflow/django-material): Material Design for Django
-* [app-generator/django-material-dashboard](https://github.com/app-generator/django-material-dashboard): Django Dashboard - Material Design | AppSeed
+* [app-generator/django-material-dashboard](https://github.com/app-generator/django-material-dashboard): Django Dashboard - Open-Source Starter with Material Bootstrap 5 Design | App-Generator.dev
 * [app-generator/django-react-soft-dashboard](https://github.com/app-generator/django-react-soft-dashboard): Django React - Soft UI Dashboard (Free Product) | AppSeed
 * [encode/django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸
 * [django-json-api/django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api): JSON:API support for Django REST framework
@@ -3648,6 +3652,7 @@
 * [nst/iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers): iOS Objective-C headers as derived from runtime introspection
 * [guidomb/ios-scripts](https://github.com/guidomb/ios-scripts): A set of scripts to manage iOS projects
 * [appspector/ios-sdk](https://github.com/appspector/ios-sdk): AppSpector is a debugging service for mobile apps
+* [sebj/iOS-Shortcuts-Reference](https://github.com/sebj/iOS-Shortcuts-Reference): Reference documentation for the iOS Shortcuts app file structure
 * [facebookarchive/ios-snapshot-test-case](https://github.com/facebookarchive/ios-snapshot-test-case): Snapshot view unit tests for iOS
 * [allaboutapps/ios-starter](https://github.com/allaboutapps/ios-starter): Cookiecutter and XcodeGen template for our iOS apps.
 * [kelvinfok/iOS-Swift-HLS-Stream-Video-Player](https://github.com/kelvinfok/iOS-Swift-HLS-Stream-Video-Player): Sample Project featuring AVPlayer that streams HLS videos (m3u8)
@@ -3841,7 +3846,7 @@
 * [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
 * [influxdata/kapacitor](https://github.com/influxdata/kapacitor): Open source framework for processing, monitoring, and alerting on time series data
 * [carvel-dev/kapp](https://github.com/carvel-dev/kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 * [gree-gorey/karavel](https://github.com/gree-gorey/karavel): Yet another Kubernetes tempalting tool, Python-based
 * [kanishka-linux/kawaii-player](https://github.com/kanishka-linux/kawaii-player): Multimedia player, media library manager and portable media server with PC-To-PC casting feature.
 * [gnebbia/kb](https://github.com/gnebbia/kb): A minimalist command line knowledge base manager
@@ -4507,6 +4512,7 @@
 * [gpac/mp4box.js](https://github.com/gpac/mp4box.js): JavaScript version of GPAC's MP4Box tool
 * [MasayukiSuda/Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android): This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
 * [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff): Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.
+* [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer): Recover damaged/unfinished mp4 files with h264 video
 * [kevinGodell/mp4frag](https://github.com/kevinGodell/mp4frag): Parser that works with ffmpeg to read piped data and fragment mp4 into an initialization segment and media segments. It can also get the codec info and generate an fmp4 HLS m3u8 playlist.
 * [mozilla/mp4parse-rust](https://github.com/mozilla/mp4parse-rust): Parser for ISO Base Media Format aka video/mp4 written in Rust.
 * [sannies/mp4parser](https://github.com/sannies/mp4parser): A Java API to read, write and create MP4 files
@@ -4563,7 +4569,7 @@
 * [quodlibet/mutagen](https://github.com/quodlibet/mutagen): Python module for handling audio metadata
 * [muxinc/mux-player-android](https://github.com/muxinc/mux-player-android): None
 * [muxinc/mux-player-swift](https://github.com/muxinc/mux-player-swift): Use Mux Player Swift to stream and monitor video from Mux with AVKit and AVFoundation
-* [muxinc/mux-stats-sdk-avplayer](https://github.com/muxinc/mux-stats-sdk-avplayer): Mux integration with `AVPlayer` for iOS Native Applications
+* [muxinc/mux-stats-sdk-avplayer](https://github.com/muxinc/mux-stats-sdk-avplayer): Mux integration with `AVPlayer` for native iOS, tvOS, and visionOS applications
 * [muxinc/mux-stats-sdk-exoplayer](https://github.com/muxinc/mux-stats-sdk-exoplayer): Monitors an ExoPlayer instance and reports player analytics to Mux Data
 * [muxinc/mux-stats-sdk-media3](https://github.com/muxinc/mux-stats-sdk-media3): Mux Data SDK for AndroidX Media3
 * [videojs/mux.js](https://github.com/videojs/mux.js): Lightweight utilities for inspecting and manipulating video container formats.
@@ -5592,6 +5598,7 @@
 * [cassava/repoctl](https://github.com/cassava/repoctl): Make it easy to manage your local Arch Linux repository.
 * [RepositoryStream/RepositoryStream](https://github.com/RepositoryStream/RepositoryStream): None
 * [thedillonb/RepoStumble](https://github.com/thedillonb/RepoStumble): A mobile application for viewing GitHub repositories in a fashion similar to StumbleUpon
+* [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText): Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (GPT-4, Claude Opus, Gemini, etc)
 * [requestly/requestly](https://github.com/requestly/requestly): Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000+ front-end developers and 11,000+ companies worldwide.
 * [asmcos/requests](https://github.com/asmcos/requests): A golang HTTP client library. Salute to python requests.
 * [encode/requests-async](https://github.com/encode/requests-async): async-await support for `requests`. ✨ 🍰 ✨
@@ -5636,9 +5643,9 @@
 * [robotframework/robotframework](https://github.com/robotframework/robotframework): Generic automation framework for acceptance testing and RPA
 * [grammarly/rocker](https://github.com/grammarly/rocker): Rocker breaks the limits of Dockerfile.
 * [rwf2/Rocket](https://github.com/rwf2/Rocket): A web framework for Rust.
-* [app-generator/rocket-django](https://github.com/app-generator/rocket-django): Rocket Django - Free Starter styled with Tailwind/Flowbite | AppSeed
+* [app-generator/rocket-django](https://github.com/app-generator/rocket-django): Rocket Django - Free Starter styled with Tailwind/Flowbite | App-Generator.dev
 * [apache/rocketmq](https://github.com/apache/rocketmq): Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
-* [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes): AI-powered Markdown note-taking app. Leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud.
+* [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes): AI-powered Markdown note taking app - leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
 * [diego3g/rocketredis](https://github.com/diego3g/rocketredis): A beautiful Redis GUI :fire: (under development)
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [rockstor/rockstor-core](https://github.com/rockstor/rockstor-core): Linux/BTRFS based Network Attached Storage(NAS)
@@ -5748,6 +5755,7 @@
 * [penDerGraft/run-k8s-job](https://github.com/penDerGraft/run-k8s-job): GitHub Action to run a Kubernetes job in a cluster
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
 * [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker, even OpenWrt - in VMs using 'docker run`
+* [simonbs/Runestone](https://github.com/simonbs/Runestone): 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
 * [actions/runner](https://github.com/actions/runner): The Runner for GitHub Actions :rocket:
 * [actions/runner-images](https://github.com/actions/runner-images): GitHub Actions runner images
@@ -5859,6 +5867,8 @@
 * [soravux/scoop](https://github.com/soravux/scoop): SCOOP (Scalable COncurrent Operations in Python)
 * [weaveworks/scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security Auditing Tool
+* [pfgithub/scpl](https://github.com/pfgithub/scpl): text language for writing ios shortcuts faster
+* [pfgithub/scpl-editor](https://github.com/pfgithub/scpl-editor): a web editor for scpl with syntax highlighting, diagnostics, and a preview
 * [ericfourrier/scrape-linkedin](https://github.com/ericfourrier/scrape-linkedin): Scrape a public LinkedIn profile.
 * [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai): Python scraper based on AI
 * [restyler/scrapeninja-api-php-client](https://github.com/restyler/scrapeninja-api-php-client): Web scraper with proxy rotation, retries, and with Chrome TLS fingerprint emulation. PHP Client
@@ -5928,6 +5938,7 @@
 * [awslabs/serverless-subtitles](https://github.com/awslabs/serverless-subtitles): Serverless Subtitles can handle a video input, extract the sound, transcript it and generate different subtitle files for your video.
 * [bnusunny/serverless-video-transcoder](https://github.com/bnusunny/serverless-video-transcoder): None
 * [sahin/serverless-youtube-dl](https://github.com/sahin/serverless-youtube-dl): Amazon Lambda - Serverless youtube-dl
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 * [Jinxiansen/ServerSideSwift](https://github.com/Jinxiansen/ServerSideSwift): 🦄 Swift server open source projects based on the Swift 4.1 and Vapor 3 frameworks. (Swift 服务端开源项目) 
 * [martinlasek/serversideswift.racing](https://github.com/martinlasek/serversideswift.racing): statistics on growth trend of all major server-side swift frameworks
 * [SmartJSONEditor/ServerSideSwift_VaporConfigurations](https://github.com/SmartJSONEditor/ServerSideSwift_VaporConfigurations): Server Side Swift with Vapor, how to configure local testing environments and deploying to AWS EC2
@@ -5975,6 +5986,7 @@
 * [tnfe/shida](https://github.com/tnfe/shida): 《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或Maka 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
+* [xAlien95/shortcut-preview](https://github.com/xAlien95/shortcut-preview): A React component to preview iOS Shortcuts
 * [a2/shortcuts-swift](https://github.com/a2/shortcuts-swift): Write Shortcuts in Playgrounds
 * [ColdGrub1384/ShortWebCore](https://github.com/ColdGrub1384/ShortWebCore): Run automations on Web Views (iOS)
 * [albanie/shot-detection-benchmarks](https://github.com/albanie/shot-detection-benchmarks): A comparison of ffmpeg, Shotdetect and PySceneDetect for shot transition detection
@@ -6324,6 +6336,7 @@
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
 * [supabase/supabase](https://github.com/supabase/supabase): The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+* [supabase/supabase-swift](https://github.com/supabase/supabase-swift): A Swift client for Supabase
 * [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity): Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 * [dehatanes/super-useful-notion-cli](https://github.com/dehatanes/super-useful-notion-cli): Criando uma comand line interface SÚPER ÚTIL para quem usa Notion :)
 * [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -6625,6 +6638,7 @@
 * [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy): tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 * [cokaholic/TKParallaxScrollView](https://github.com/cokaholic/TKParallaxScrollView): TKParallaxScrollView is the interactive moving library for header and middle views on scrollview.
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands
+* [tldraw/tldraw](https://github.com/tldraw/tldraw): whiteboard / infinite canvas SDK
 * [nathanwdavis/todo_bottle_example](https://github.com/nathanwdavis/todo_bottle_example): Yet another ToDo example app - this one built with Bottle ( http://bottlepy.org )
 * [IBM/ToDoBackend](https://github.com/IBM/ToDoBackend): This tutorial teaches how to create a Kitura backend for the Todo-Backend project, which provides tests and a web client for a "To Do List" application.
 * [cyfrost/todoist-linux](https://github.com/cyfrost/todoist-linux): Todoist for Linux
@@ -6769,6 +6783,7 @@
 * [kodlian/TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer): TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps.
 * [linagora/Twake](https://github.com/linagora/Twake): Twake is a secure open source collaboration platform to improve organizational productivity. 
 * [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks): An easy way to fine-tune, and adjust parameters for iOS apps in development.
+* [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
 * [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny): The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 * [amiechen/twitch-batch-loader](https://github.com/amiechen/twitch-batch-loader): Batch download twitch clips in terminal
 * [TorbenCapiau/Twitch-Clips-Downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader): Streamers have been receiving a lot of copyright complaints and are forced to delete all their clips to avoid their Twitch account being closed. Save the clips you've made with this tool.
@@ -7270,7 +7285,7 @@
 * [phenotypic/WiFiCrackPy](https://github.com/phenotypic/WiFiCrackPy): Automated Wi-Fi cracker for macOS
 * [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher): The Rogue Access Point Framework
 * [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3): Powerful framework for rogue access point attack.
-* [Kidd3n/WifiPwnedd](https://github.com/Kidd3n/WifiPwnedd): Tool for Wifi Network Attacks (Fast Use)
+* [Kidd3n/WifiPwnedd](https://github.com/Kidd3n/WifiPwnedd): Tool for Wifi Network Attacks 
 * [derv82/wifite2](https://github.com/derv82/wifite2): Rewrite of the popular wireless network auditor, "wifite"
 * [WikidPad/WikidPad](https://github.com/WikidPad/WikidPad): WikidPad is a single user desktop wiki
 * [attardi/wikiextractor](https://github.com/attardi/wikiextractor): A tool for extracting plain text from Wikipedia dumps
