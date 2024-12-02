@@ -685,7 +685,7 @@
 * [unskript/Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation): Cloud-ops automation runbooks that are ready to use. Build your own automations using the hundreds of drag and drop actions included in the repository.  Built on Jupyter Notebooks, our automation platform jumpstarts your SRE RunBook creation. 😎 published by the unSkript community.
 * [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake): A curated list of awesome CMake resources, scripts, modules and examples.
 * [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai): A list of AI coding tools (assistants, completions, refactoring, etc.)
-* [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM): [TMLR] A curated list of language modeling researches for code and related datasets.
+* [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM): [TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.
 * [joho/awesome-code-review](https://github.com/joho/awesome-code-review): An "Awesome" list of code review resources - articles, papers, tools, etc
 * [coder/awesome-code-server](https://github.com/coder/awesome-code-server): Projects, resources, and tutorials that take code-server to the next level
 * [dremeika/awesome-coding-assistants](https://github.com/dremeika/awesome-coding-assistants): Awesome curated list of coding assistants and related resources
@@ -1934,7 +1934,7 @@
 * [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools): Extends the Django Admin to include a extensible dashboard and navigation menu
 * [app-generator/django-adminlte](https://github.com/app-generator/django-adminlte): AdminLTE Django - Open-source seed project | App-Generator.dev
 * [d-demirci/django-adminlte3](https://github.com/d-demirci/django-adminlte3): AdminLTE Templates, Template Tags, and Admin Theme for Django
-* [app-generator/django-atlantis-dark](https://github.com/app-generator/django-atlantis-dark): Django Dashboard - Atlantis Lite (Dark Version) | AppSeed
+* [app-generator/django-atlantis-dark](https://github.com/app-generator/django-atlantis-dark): Django Dashboard - Atlantis Lite (Dark Version) | App-Generator.dev
 * [app-generator/django-black-dashboard](https://github.com/app-generator/django-black-dashboard): Django Dashboard Black - Open-source Seed Project | AppSeed
 * [zostera/django-bootstrap4](https://github.com/zostera/django-bootstrap4): Bootstrap 4 integration with Django.
 * [just-work/django-celery-rpc](https://github.com/just-work/django-celery-rpc): Remote access from one system to models of another one using Celery machinery.
@@ -2425,7 +2425,7 @@
 * [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame): Tool to help us buy hard to find items. 
 * [andreyrikunov/fairplay-ksm](https://github.com/andreyrikunov/fairplay-ksm): FairPlay Key Security Module
 * [Haki-22/FakeFLac-Lossless-audio-checker](https://github.com/Haki-22/FakeFLac-Lossless-audio-checker): Python GUI Lossless audio checker
-* [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+* [falconry/falcon](https://github.com/falconry/falcon): The no-magic web API and microservices framework for Python developers, with an emphasis on reliability, correctness, and performance at scale.
 * [testdrivenio/falcon-celery](https://github.com/testdrivenio/falcon-celery): Example of how to handle background processes with Falcon, Celery, and Docker
 * [rockcarry/fanplayer](https://github.com/rockcarry/fanplayer): A portable video player based on ffmpeg for windows and android platform.
 * [ClearSlide/Fantastic-Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder): Fantastic transcoder is a video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
@@ -4144,7 +4144,7 @@
 * [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs): Minimal LLM inference in Rust
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 * [lobehub/lobe-midjourney-webui](https://github.com/lobehub/lobe-midjourney-webui): ⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
@@ -4608,7 +4608,7 @@
 * [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
 * [uber/needle](https://github.com/uber/needle): Compile-time safe Swift dependency injection framework
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
-* [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop): 💪🏻 htop on steroids
+* [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop): 💪🏻 system monitoring on steroids
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [containerd/nerdctl](https://github.com/containerd/nerdctl): contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 * [nesorter/nesorter](https://github.com/nesorter/nesorter): An attempt to sort and stream music in a convenient way ✨
@@ -6811,6 +6811,7 @@
 * [slikdijit/Ubuntu-Swift-Installer](https://github.com/slikdijit/Ubuntu-Swift-Installer): Auto installer script for swift on Ubuntu 20.04
 * [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch): Ubuntu Touch's issue inbox is now migrated to GitLab.
 * [ubports/ubuntu_kernel_xenial](https://github.com/ubports/ubuntu_kernel_xenial): None
+* [muzammildafedar/udayah](https://github.com/muzammildafedar/udayah): Udayah offers AI-powered tools to help job hunters create standout resumes, send personalized cold emails, and optimize applications with an AI ATS system. Take control of your job search with our innovative platform.
 * [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl): A cross-platform python based utility to download courses from udemy for personal offline use.
 * [thomseddon/udp-replicator](https://github.com/thomseddon/udp-replicator): A tiny UDP proxy that can replicate traffic to one or more endpoints.
 * [Eyevinn/udpproxy](https://github.com/Eyevinn/udpproxy): Udp Proxy util for proxy udp unicast to multicast and vice versa.
