@@ -110,7 +110,7 @@
 # Other
 
 * [Deadshot0x7/007-TheBond](https://github.com/Deadshot0x7/007-TheBond): This Script will help you to gather information about your victim or friend.
-* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Short code snippets for all your development needs
 * [Jnzzi/4464_L3-CDM](https://github.com/Jnzzi/4464_L3-CDM): None
 * [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code): 500 AI Machine learning Deep learning Computer vision NLP Projects with code
@@ -190,6 +190,7 @@
 * [gitbito/AI-Automation](https://github.com/gitbito/AI-Automation): Intelligent AI automation examples using Bito CLI and tools
 * [Abhii-07/AI-Code-Converter](https://github.com/Abhii-07/AI-Code-Converter): This web application allows you to convert code from one programming language to another using the ChatGPT API. It also provides code debugging and code quality checking features.
 * [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator): Come join the best place on the internet to learn AI skills. Use code "aicodetranslator" for an extra 20% off.
+* [amusi/AI-Job-Recommend](https://github.com/amusi/AI-Job-Recommend): 国内公司人工智能方向（含机器学习、深度学习、计算机视觉和自然语言处理）岗位的招聘信息（含全职、实习和校招）
 * [eumemic/ai-legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
 * [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator): AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved viewing experience. This project combines the capabilities of GPT-4, FFmpeg, and OpenCV to automate the process of identifying highlights in videos
 * [greenteabots/Ai-Soundcloudviewer-written-by-chatGPT](https://github.com/greenteabots/Ai-Soundcloudviewer-written-by-chatGPT): Soundcloud ViewBot written by ChatGPT
@@ -535,7 +536,7 @@
 * [Eyevinn/auto-subtitles](https://github.com/Eyevinn/auto-subtitles): Automatically generate subtitles from an input audio or video file using OpenAI Whisper
 * [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder): 🖖 Train an artificial intelligence to play tinder for you
 * [anandslab/auto-traefik](https://github.com/anandslab/auto-traefik): Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
-* [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent): Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+* [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent): Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * [sunrise2575/AutoAVS](https://github.com/sunrise2575/AutoAVS):  Automated Audio, Video, Subtitle Tool (ffmpeg 벌크 인코딩 툴)
 * [thehemi/AutoCoder](https://github.com/thehemi/AutoCoder): GPT-4 powered code tool with no token limits. Works on repos or files.  Can cleanup, optimize, comment, convert languages and more
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
@@ -824,6 +825,7 @@
 * [liwf616/awesome-live-stream](https://github.com/liwf616/awesome-live-stream): Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中
 * [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding): All things livecoding
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
+* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
 * [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
 * [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code): Awesome Low Code platforms, vendors, tools and resources
 * [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode): 国内低代码平台从业者交流
@@ -2205,6 +2207,7 @@
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
+* [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot): A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 * [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin): open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 * [mailru/easyjson](https://github.com/mailru/easyjson): Fast JSON serializer for golang.
 * [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -2878,6 +2881,7 @@
 * [mauri870/gcsfs](https://github.com/mauri870/gcsfs): Golang io/fs implementation for Google Cloud Storage
 * [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 * [prasmussen/gdrive](https://github.com/prasmussen/gdrive): Google Drive CLI Client
+* [mozilla/geckodriver](https://github.com/mozilla/geckodriver): WebDriver for Firefox
 * [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat): GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 * [vitalyrodnenko/geeknote](https://github.com/vitalyrodnenko/geeknote): Console client for Evernote.
 * [docker/genai-stack](https://github.com/docker/genai-stack): Langchain + Docker + Neo4j + Ollama
@@ -3046,7 +3050,7 @@
 * [oae/gnome-shell-minimize-to-tray](https://github.com/oae/gnome-shell-minimize-to-tray): Minimize any app to tray
 * [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano): Next-gen Clipboard Manager for Gnome Shell
 * [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot): Gnome Shell extension for making and uploading screenshots
-* [mgalgs/gnome-shell-system-monitor-applet](https://github.com/mgalgs/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
+* [mgalgs/gnome-shell-system-monitor-next-applet](https://github.com/mgalgs/gnome-shell-system-monitor-next-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [mzur/gnome-shell-wsmatrix](https://github.com/mzur/gnome-shell-wsmatrix): GNOME shell extension to arrange workspaces in a two-dimensional grid with workspace thumbnails
 * [MichielJ1998/Gnome-tweak-screensaver](https://github.com/MichielJ1998/Gnome-tweak-screensaver): A gnome tweak extension which operates as a screensaver. 
 * [axxapy/gnome-ui-tune](https://github.com/axxapy/gnome-ui-tune): Tunes overview UI of the gnome 40 a bit
@@ -3759,6 +3763,7 @@
 * [osy/Jitterbug](https://github.com/osy/Jitterbug): Launch JIT enabled iOS app with a second iOS device
 * [kevinadhiguna/jiyu](https://github.com/kevinadhiguna/jiyu): A repo for... whatever 🤷
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
+* [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel): Scrape job websites into a single spreadsheet with no duplicates.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 * [zthxxx/jovial](https://github.com/zthxxx/jovial): Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
 * [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
@@ -4058,6 +4063,7 @@
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly): 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 * [krzysztofzablocki/LinkedConsole](https://github.com/krzysztofzablocki/LinkedConsole): Clickable links in your Xcode console, so you never wonder which class logged the message.
+* [aminblm/linkedin-application-bot](https://github.com/aminblm/linkedin-application-bot): A python bot to apply all Linkedin Easy Apply jobs based on your preferences.
 * [hellpanderrr/linkedin-pdf-parsing](https://github.com/hellpanderrr/linkedin-pdf-parsing): Parsing resumes in a PDF format from linkedIn 
 * [akitten/linkedin-public-profile-parser](https://github.com/akitten/linkedin-public-profile-parser): :innocent: Parse a *Public* LinkedIn Profile Page
 * [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume): An exporter from a LinkedIn profile to JSON Résumé
@@ -4144,7 +4150,7 @@
 * [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs): Minimal LLM inference in Rust
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 * [lobehub/lobe-midjourney-webui](https://github.com/lobehub/lobe-midjourney-webui): ⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
@@ -4487,6 +4493,7 @@
 * [softdevca/mootranscode](https://github.com/softdevca/mootranscode): Local audio and video transcoding for Moodle
 * [mopidy/mopidy](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log): 😎 A static blog using notion database
+* [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM): This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
 * [acotilla91/Morse-Vision](https://github.com/acotilla91/Morse-Vision): More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text. 
 * [krad/morsel](https://github.com/krad/morsel): 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS.
 * [learn-video/mosaic-video](https://github.com/learn-video/mosaic-video): Generate mosaics from video inputs
@@ -4729,7 +4736,7 @@
 * [Eyevinn/node-m3u8](https://github.com/Eyevinn/node-m3u8): Streaming parser for m3u8 files in node
 * [fent/node-m3u8stream](https://github.com/fent/node-m3u8stream): Concatenates segments from a m3u8/dash-mpd playlist into a consumable stream.
 * [gkozlenko/node-media-server](https://github.com/gkozlenko/node-media-server): Node.js Media Server / VOD / HLS / DRM
-* [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server): A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
+* [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server): A Node.js implementation of RTMP/HTTP-FLV Media Server
 * [illuspas/Node-Media-Server-Admin](https://github.com/illuspas/Node-Media-Server-Admin): None
 * [sindresorhus/node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate): Boilerplate to kickstart creating a Node.js module
 * [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android): Make Node.JS apps for Android
@@ -6157,6 +6164,7 @@
 * [mdx-js/specification](https://github.com/mdx-js/specification): Archived info on MDX language and AST definitions
 * [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 * [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum): A client-side image transcoding library.
+* [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test): SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 * [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test): Test your internet connection speed and ping using speedtest.net from the CLI
 * [acoustid/speexdsp](https://github.com/acoustid/speexdsp): Speex audio processing library
 * [spekt8/spekt8](https://github.com/spekt8/spekt8): Visualize your Kubernetes cluster in real time
@@ -6990,7 +6998,7 @@
 * [videojs/video.js](https://github.com/videojs/video.js): Video.js - open source HTML5 video player
 * [vfdev-5/Video2Frames](https://github.com/vfdev-5/Video2Frames): Simple video to frames converter using Opencv
 * [vincentbernat/video2hls](https://github.com/vincentbernat/video2hls): Prepare a video to be streamed with HLS
-* [k4yt3x/video2x](https://github.com/k4yt3x/video2x): A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
+* [k4yt3x/video2x](https://github.com/k4yt3x/video2x): A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 * [f11894/video_benchmark](https://github.com/f11894/video_benchmark): None
 * [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter): Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 * [IORoot/Video_FFMPEG-Scriptflow](https://github.com/IORoot/Video_FFMPEG-Scriptflow): 🎞 FFMPEG Utility scripts and JSON scripter. 💡Run multi-stage ffmpeg workflows using a JSON config.
