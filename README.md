@@ -850,7 +850,7 @@
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
-* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context. 
+* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
 * [thexclu/awesome-notion-api](https://github.com/thexclu/awesome-notion-api): This is a collection of awesome idea, tools, integrations build by Notion API.
@@ -7196,7 +7196,7 @@
 * [pypi/warehouse](https://github.com/pypi/warehouse): The Python Package Index
 * [warpdotdev/Warp](https://github.com/warpdotdev/Warp): Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 * [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
-* [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
+* [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 * [sonysuqin/WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer): Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.
 * [peaBerberian/wasp-hls](https://github.com/peaBerberian/wasp-hls): WebAssembly-based (Rust) & in-worker HLS Media Player for the web
 * [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog): Class for logging excessive blocking on the main thread
