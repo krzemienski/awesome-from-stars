@@ -536,6 +536,7 @@
 * [Eyevinn/auto-subtitles](https://github.com/Eyevinn/auto-subtitles): Automatically generate subtitles from an input audio or video file using OpenAI Whisper
 * [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder): 🖖 Train an artificial intelligence to play tinder for you
 * [anandslab/auto-traefik](https://github.com/anandslab/auto-traefik): Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
+* [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn): Make your job hunt easy by automating your application process with this Auto Applier
 * [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent): Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * [sunrise2575/AutoAVS](https://github.com/sunrise2575/AutoAVS):  Automated Audio, Video, Subtitle Tool (ffmpeg 벌크 인코딩 툴)
 * [thehemi/AutoCoder](https://github.com/thehemi/AutoCoder): GPT-4 powered code tool with no token limits. Works on repos or files.  Can cleanup, optimize, comment, convert languages and more
@@ -544,7 +545,7 @@
 * [mli/autocut](https://github.com/mli/autocut): 用文本编辑器剪视频
 * [cbbrowne/autodoc](https://github.com/cbbrowne/autodoc): PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
 * [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture): AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
-* [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI 🤖
+* [microsoft/autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 * [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui): A graphical user interface for AutoGPT
 * [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -1124,7 +1125,6 @@
 * [enricoros/big-AGI](https://github.com/enricoros/big-AGI): Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 * [bbc/bigscreen-player](https://github.com/bbc/bigscreen-player): Simplified media playback for bigscreen devices
 * [monyone/biim](https://github.com/monyone/biim): LL-HLS implementation written in Python3
-* [galaxy-s10/billd-live-admin](https://github.com/galaxy-s10/billd-live-admin): 基于Vue3 + Vite4 + NaiveUI搭建的直播间后台
 * [Gerzer/Binary-Shark](https://github.com/Gerzer/Binary-Shark): Manage your DigitalOcean account from iPhone and Apple Watch.
 * [Woolverine94/biniou](https://github.com/Woolverine94/biniou): a self-hosted webui for 30+ generative ai
 * [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt): BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
@@ -1450,6 +1450,7 @@
 * [gitbito/CLI](https://github.com/gitbito/CLI): Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows.  This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
 * [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [npm/cli](https://github.com/npm/cli): the package manager for JavaScript
+* [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a real-time analytics DBMS
 * [soundcloud-py/client-api](https://github.com/soundcloud-py/client-api): Official web api for the SoundCloud Python service.
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms
 * [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
@@ -2207,6 +2208,8 @@
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
+* [madingess/EasyApplyBot](https://github.com/madingess/EasyApplyBot): Automate LinkedIn Easy Apply job applications and answer application-specific questions.
+* [voidbydefault/EasyApplyBot](https://github.com/voidbydefault/EasyApplyBot): Bot for applying jobs using LinkedIn Easy Apply feature on LinkedIn
 * [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot): A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 * [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin): open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 * [mailru/easyjson](https://github.com/mailru/easyjson): Fast JSON serializer for golang.
@@ -2249,6 +2252,7 @@
 * [mehmettaskiner/eksi-sozluk-reloaded](https://github.com/mehmettaskiner/eksi-sozluk-reloaded): eksi sozluk clone with python and flask
 * [elunez/eladmin](https://github.com/elunez/eladmin): eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 * [awsdocs/elastic-beanstalk-samples](https://github.com/awsdocs/elastic-beanstalk-samples): This repository contains code and configuration samples (e.g. .ebextensions) for AWS Elastic Beanstalk.
+* [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open Source, Distributed, RESTful Search Engine
 * [lkzhao/ElasticTransition](https://github.com/lkzhao/ElasticTransition): A UIKit custom transition that simulates an elastic drag. Written in Swift.
 * [taglia3/ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC): A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao 
 * [electerm/electerm](https://github.com/electerm/electerm): 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
@@ -2428,7 +2432,7 @@
 * [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame): Tool to help us buy hard to find items. 
 * [andreyrikunov/fairplay-ksm](https://github.com/andreyrikunov/fairplay-ksm): FairPlay Key Security Module
 * [Haki-22/FakeFLac-Lossless-audio-checker](https://github.com/Haki-22/FakeFLac-Lossless-audio-checker): Python GUI Lossless audio checker
-* [falconry/falcon](https://github.com/falconry/falcon): The no-magic web API and microservices framework for Python developers, with an emphasis on reliability, correctness, and performance at scale.
+* [falconry/falcon](https://github.com/falconry/falcon): The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 * [testdrivenio/falcon-celery](https://github.com/testdrivenio/falcon-celery): Example of how to handle background processes with Falcon, Celery, and Docker
 * [rockcarry/fanplayer](https://github.com/rockcarry/fanplayer): A portable video player based on ffmpeg for windows and android platform.
 * [ClearSlide/Fantastic-Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder): Fantastic transcoder is a video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
@@ -2607,7 +2611,7 @@
 * [ddragosd/ffmpeg-vod-transcoder](https://github.com/ddragosd/ffmpeg-vod-transcoder): A micro-service with Springboot and Docker used to transcode a single video file in multiple formats, in the cloud.
 * [wide-video/ffmpeg-wasm](https://github.com/wide-video/ffmpeg-wasm): WebAssembly port of FFmpeg
 * [ColinEberhardt/ffmpeg-wasm-streaming-video-player](https://github.com/ColinEberhardt/ffmpeg-wasm-streaming-video-player): An example of using FFmpeg.wasm to perform streaming transcoding within the browser
-* [Dinoosauro/ffmpeg-web](https://github.com/Dinoosauro/ffmpeg-web): A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer. 
+* [dinoosauro/ffmpeg-web](https://github.com/dinoosauro/ffmpeg-web): A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer. 
 * [huzaifa-99/ffmpeg-web](https://github.com/huzaifa-99/ffmpeg-web): A browser based terminal to run ffmpeg with webassembly [Experimental]
 * [alfg/ffmpeg-webassembly-example](https://github.com/alfg/ffmpeg-webassembly-example): FFmpeg +  WebAssembly
 * [rdp/ffmpeg-windows-build-helpers](https://github.com/rdp/ffmpeg-windows-build-helpers): Helper script for cross compiling some media tools for windows, like customizable ffmpeg.exe (with or without non-free components, etc), and some other bonuses like mplayer, mp4box, mxf, etc.
@@ -3738,7 +3742,7 @@
 * [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server): A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 * [contentful/jekyll-contentful-data-import](https://github.com/contentful/jekyll-contentful-data-import): Contentful Plugin for the Jekyll Static Site Generator
 * [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly): 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
-* [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System
+* [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System - Server Backend & API
 * [jellyfin/jellyfin-androidx-media](https://github.com/jellyfin/jellyfin-androidx-media): Prebuilt AndroidX Media3 extension(s) used in the Jellyfin project.
 * [jellyfin/jellyfin-roku](https://github.com/jellyfin/jellyfin-roku): The Official Roku Client for Jellyfin
 * [jellyfin-archive/jellyfin-roku-original](https://github.com/jellyfin-archive/jellyfin-roku-original): Roku Client for Jellyfin
@@ -4007,6 +4011,7 @@
 * [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs): Code documentation written as code! How novel and totally my idea!
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede): Lean's LEDE source
 * [doocs/leetcode](https://github.com/doocs/leetcode): 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+* [notanewbie/LegalStream](https://github.com/notanewbie/LegalStream): An m3u8 playlist featuring many LEGALLY FREE IPTV streams. For use with VLC.
 * [leixiaohua1020/leixiaohua1020.github.io](https://github.com/leixiaohua1020/leixiaohua1020.github.io): None
 * [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy): 🐀 A link aggregator and forum for the fediverse
 * [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible): A docker deploy for ansible
@@ -4056,6 +4061,7 @@
 * [gokselkoksal/Lightning](https://github.com/gokselkoksal/Lightning): Lightning provides components to make Swift development easier.
 * [alibaba/lightproxy](https://github.com/alibaba/lightproxy): 💎 Cross platform Web debugging proxy
 * [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
+* [lichess-org/lila](https://github.com/lichess-org/lila): ♞ lichess.org: the forever free, adless and open source chess server ♞
 * [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines, with a focus on running containers
 * [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern Headless UI Library for Media Player (Shaka Player & HTML5) in React
 * [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev): Lightweight Google-searchable Slack alternative for Communities
@@ -4064,6 +4070,7 @@
 * [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly): 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 * [krzysztofzablocki/LinkedConsole](https://github.com/krzysztofzablocki/LinkedConsole): Clickable links in your Xcode console, so you never wonder which class logged the message.
 * [aminblm/linkedin-application-bot](https://github.com/aminblm/linkedin-application-bot): A python bot to apply all Linkedin Easy Apply jobs based on your preferences.
+* [joaosilvalopes/linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot): None
 * [hellpanderrr/linkedin-pdf-parsing](https://github.com/hellpanderrr/linkedin-pdf-parsing): Parsing resumes in a PDF format from linkedIn 
 * [akitten/linkedin-public-profile-parser](https://github.com/akitten/linkedin-public-profile-parser): :innocent: Parse a *Public* LinkedIn Profile Page
 * [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume): An exporter from a LinkedIn profile to JSON Résumé
@@ -4105,10 +4112,12 @@
 * [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
 * [ltebean/Live](https://github.com/ltebean/Live): Demonstrates how to build a live broadcast app(Swift 3)
+* [billd-project/live-admin](https://github.com/billd-project/live-admin): 基于Vue3 + Vite4 + NaiveUI搭建的直播间后台
 * [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch): (Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch. A Linux to call your own.
 * [unifiedstreaming/live-demo-cmaf](https://github.com/unifiedstreaming/live-demo-cmaf): Live Demo using Live Media Ingest (Interface1) 
 * [MaZderMind/live-hls-transcode](https://github.com/MaZderMind/live-hls-transcode): File to Live-HLS-Transcoder
 * [AwakeningSV/live-infrastructure](https://github.com/AwakeningSV/live-infrastructure): Live video transcoding infrastructure
+* [chandler-stimson/live-stream-downloader](https://github.com/chandler-stimson/live-stream-downloader): Download M3U8 live streams to the local disk
 * [ustoopia/Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash](https://github.com/ustoopia/Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash): This zip file will allow you to start live-streaming in a matter of minutes! Unzip it to any location, preferably a USB drive
 * [aws-solutions/live-streaming-on-aws](https://github.com/aws-solutions/live-streaming-on-aws): The live stream solution is a reference deployment that demonstrates how to deliver highly available live streaming video through an integrated workflow between Elemental Cloud and AWS.
 * [aws-solutions/live-streaming-on-aws-with-amazon-s3](https://github.com/aws-solutions/live-streaming-on-aws-with-amazon-s3): Live streaming on AWS with Amazon S3 automatically configures AWS Elemental MediaLive, Amazon S3 and Amazon CloudFront to ingest, encode, package and deliver a single source live stream through the AWS Cloud. The Solution provides 3 Encoding profiles to support 1080p through 288p HTTP live streaming (HLS) outputs.
@@ -4377,6 +4386,7 @@
 * [mediaelement/mediaelement-files](https://github.com/mediaelement/mediaelement-files): Sample media files (MP4, WebM, Ogv, MP3, etc.) for the MediaElement.js library
 * [mediaelement/mediaelement-plugins](https://github.com/mediaelement/mediaelement-plugins): Plugins for the main mediaelement project 
 * [Petersoj/MediaFission](https://github.com/Petersoj/MediaFission): Download Youtube, Soundcloud, and etc. as Audio, Video, or as a Song (album cover and other metadata)!
+* [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy): A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
 * [caorushizi/mediago](https://github.com/caorushizi/mediago): m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac
 * [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [buzz/mediainfo.js](https://github.com/buzz/mediainfo.js): Extract media file metadata in the browser using WebAssembly.
@@ -5221,7 +5231,7 @@
 * [zeroepoch/plotbitrate](https://github.com/zeroepoch/plotbitrate): FFProbe Bitrate Graph
 * [flutter/plugins](https://github.com/flutter/plugins): Plugins for Flutter maintained by the Flutter team
 * [swc-project/plugins](https://github.com/swc-project/plugins): Plugins for swc, written in rust
-* [TypingMind/plugins-server](https://github.com/TypingMind/plugins-server): Open-source proxy server for Typing Mind's Plugins
+* [TypingMind/plugins-server](https://github.com/TypingMind/plugins-server): Plugin server for TypingMind
 * [PlumMediaCenter/PlumMediaCenter.RokuOld](https://github.com/PlumMediaCenter/PlumMediaCenter.RokuOld): Source code for a Roku Application that interfaces with an instance of PlumMediaServer
 * [pluralsh/plural](https://github.com/pluralsh/plural): Enterprise Kubernetes management, accelerated. 🚀
 * [itsuka-dev/plurality](https://github.com/itsuka-dev/plurality): A cornucopia of open source UIs built with ChatGPT API.
@@ -5357,6 +5367,7 @@
 * [ventoy/PXE](https://github.com/ventoy/PXE): The open source part of iVentoy.
 * [funciton/py-ffmpeg-wrapper](https://github.com/funciton/py-ffmpeg-wrapper): FFmpeg wrapper written in python based on rVideo
 * [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
+* [asweigart/pyautogui](https://github.com/asweigart/pyautogui): A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 * [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV): ﻿﻿Pythonic bindings for FFmpeg's libraries.
 * [pbs/pycaption](https://github.com/pbs/pycaption): Python module to read/write popular video caption formats
 * [jnorton001/pycaption-cli](https://github.com/jnorton001/pycaption-cli): A command line interface for the pycaption module.
@@ -5761,6 +5772,7 @@
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
 * [penDerGraft/run-k8s-job](https://github.com/penDerGraft/run-k8s-job): GitHub Action to run a Kubernetes job in a cluster
 * [bspauld/runBENrun](https://github.com/bspauld/runBENrun): Series of python and postgresql scripts to process Nike+ GPS data into meaningful spatial data
+* [opencontainers/runc](https://github.com/opencontainers/runc): CLI tool for spawning and running containers according to the OCI specification
 * [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm): RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker, even OpenWrt - in VMs using 'docker run`
 * [simonbs/Runestone](https://github.com/simonbs/Runestone): 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 * [runletapp/runlet](https://github.com/runletapp/runlet): :cloud: A cloud-based job manager that integrates your devices
@@ -5962,6 +5974,7 @@
 * [pyke369/sffmpeg](https://github.com/pyke369/sffmpeg): full-featured static ffmpeg build helper
 * [drakkan/sftpgo](https://github.com/drakkan/sftpgo): Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 * [haystacknews/sg-flex](https://github.com/haystacknews/sg-flex): A Flexbox component for Roku's SceneGraph
+* [Eyevinn/sgai-ad-proxy](https://github.com/Eyevinn/sgai-ad-proxy): Experimental http proxy server for Server Guided Ad Insertion
 * [libobjc/SGPlayer](https://github.com/libobjc/SGPlayer): A powerful media play framework for iOS, macOS, and tvOS.
 * [shaarli/Shaarli](https://github.com/shaarli/Shaarli): The personal, minimalist, super-fast, database free, bookmarking service - community repo
 * [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS): Removed according to regulations.
@@ -6750,6 +6763,7 @@
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
 * [Tubitv/TubiPlayer](https://github.com/Tubitv/TubiPlayer): A media streaming video player based on ExoPlayer from google, with convenience methods for ad supported content
 * [fdehau/tui-rs](https://github.com/fdehau/tui-rs): Build terminal user interfaces and dashboards using Rust
+* [tuist/tuist](https://github.com/tuist/tuist): Tuist's CLI
 * [bazelbuild/tulsi](https://github.com/bazelbuild/tulsi): An Xcode Project Generator For Bazel 
 * [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video): [ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 * [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client): Tunnelmole - Connect to local servers from anywhere
@@ -6866,7 +6880,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.3, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.

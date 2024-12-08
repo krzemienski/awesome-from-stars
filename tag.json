@@ -845,6 +845,9 @@
     "ClearSlide/Fantastic-Transcoder": [
         "Other"
     ],
+    "ClickHouse/ClickHouse": [
+        "Other"
+    ],
     "Clinet/ffgoconv": [
         "Other"
     ],
@@ -1260,9 +1263,6 @@
         "Other"
     ],
     "Dimillian/SwiftHN": [
-        "Other"
-    ],
-    "Dinoosauro/ffmpeg-web": [
         "Other"
     ],
     "DisplayLink/evdi": [
@@ -1856,6 +1856,9 @@
     "Eyevinn/scte35-inserter": [
         "Other"
     ],
+    "Eyevinn/sgai-ad-proxy": [
+        "Other"
+    ],
     "Eyevinn/srt-metadata-extractor": [
         "Other"
     ],
@@ -2166,6 +2169,9 @@
         "Other"
     ],
     "GoAdminGroup/go-admin": [
+        "Other"
+    ],
+    "GodsScion/Auto_job_applier_linkedIn": [
         "Other"
     ],
     "GoogleChromeLabs/comlink": [
@@ -6287,6 +6293,9 @@
     "astralapp/astral": [
         "GitHub"
     ],
+    "asweigart/pyautogui": [
+        "Other"
+    ],
     "async-rs/async-std": [
         "Other"
     ],
@@ -6888,6 +6897,9 @@
         "Linux/Utility"
     ],
     "bilibili/ijkplayer": [
+        "Other"
+    ],
+    "billd-project/live-admin": [
         "Other"
     ],
     "billmei/every-chatgpt-gui": [
@@ -7515,6 +7527,9 @@
         "Other"
     ],
     "chalk/chalk": [
+        "Other"
+    ],
+    "chandler-stimson/live-stream-downloader": [
         "Other"
     ],
     "changsanjiang/SJBaseVideoPlayer": [
@@ -8804,6 +8819,9 @@
     "dineshabe/RemoteMedia-iOS": [
         "Other"
     ],
+    "dinoosauro/ffmpeg-web": [
+        "Other"
+    ],
     "dipiash/hls_audio_player_example": [
         "Other"
     ],
@@ -9312,6 +9330,9 @@
         "Other"
     ],
     "ekzhang/bore": [
+        "Other"
+    ],
+    "elastic/elasticsearch": [
         "Other"
     ],
     "elastic/stack-docker": [
@@ -10305,9 +10326,6 @@
         "Other"
     ],
     "gabrielgodoy-zz/github-stars-manager": [
-        "Other"
-    ],
-    "galaxy-s10/billd-live-admin": [
         "Other"
     ],
     "galio-org/galio": [
@@ -12257,6 +12275,9 @@
     "joaomoreno/thyme": [
         "Other"
     ],
+    "joaosilvalopes/linkedin-easy-apply-bot": [
+        "Other"
+    ],
     "joebeachjoebeach/json-path-finder": [
         "Other"
     ],
@@ -13622,6 +13643,9 @@
     "librosa/librosa": [
         "Other"
     ],
+    "lichess-org/lila": [
+        "Other"
+    ],
     "lieff/minimp4": [
         "Other"
     ],
@@ -14085,6 +14109,9 @@
         "Other"
     ],
     "madeindjs/Wifi_BruteForce": [
+        "Other"
+    ],
+    "madingess/EasyApplyBot": [
         "Other"
     ],
     "mafintosh/playback": [
@@ -14685,6 +14712,9 @@
         "Other"
     ],
     "mhausenblas/mkdocs-deploy-gh-pages": [
+        "Other"
+    ],
+    "mhdzumair/mediaflow-proxy": [
         "Other"
     ],
     "mher/flower": [
@@ -15809,6 +15839,9 @@
     "notable/notable": [
         "Other"
     ],
+    "notanewbie/LegalStream": [
+        "Other"
+    ],
     "notbenoit/tvOS-Twitch": [
         "Other"
     ],
@@ -16206,6 +16239,9 @@
         "Other"
     ],
     "opencoconut/webvtt-ruby": [
+        "Other"
+    ],
+    "opencontainers/runc": [
         "Other"
     ],
     "opencv/opencv": [
@@ -20336,6 +20372,9 @@
     "tuberry/user-theme-x": [
         "Other"
     ],
+    "tuist/tuist": [
+        "Other"
+    ],
     "tumblr/collins": [
         "Other"
     ],
@@ -21021,6 +21060,9 @@
         "Other"
     ],
     "vogler/video-server": [
+        "Other"
+    ],
+    "voidbydefault/EasyApplyBot": [
         "Other"
     ],
     "voila-dashboards/voila": [
