@@ -2177,7 +2177,7 @@
 * [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn): A Dead Simple VPN.
 * [eebean2/DTConsole](https://github.com/eebean2/DTConsole): An on-device console for debugging purpose
 * [ebu/dtt2ip](https://github.com/ebu/dtt2ip): Broadcast to IP conversion for Wifi indoor coverage
-* [dubinc/dub](https://github.com/dubinc/dub): Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+* [dubinc/dub](https://github.com/dubinc/dub): Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 * [apache/dubbo](https://github.com/apache/dubbo): The java implementation of Apache Dubbo. An RPC and microservice framework.
 * [apache/dubbo-samples](https://github.com/apache/dubbo-samples): samples for Apache Dubbo
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
@@ -2516,7 +2516,6 @@
 * [ericgriffin/fflock](https://github.com/ericgriffin/fflock): Distributed video transcoding.
 * [bcoudurier/FFmbc](https://github.com/bcoudurier/FFmbc): FFmpeg customized for broadcast and professional usage
 * [unosquare/ffmediaelement](https://github.com/unosquare/ffmediaelement): FFME: The Advanced WPF MediaElement (based on FFmpeg)
-* [Jocker666z/ffmes](https://github.com/Jocker666z/ffmes): FFmpeg Media Encode Script * Simple bash tool for audio/video manipulation
 * [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics): Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
 * [Fmstrat/ffmkv](https://github.com/Fmstrat/ffmkv): A bash wrapper for FFMPEG with an Inquirer menu interface and progress monitoring.
 * [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg): Mirror of https://git.ffmpeg.org/ffmpeg.git
