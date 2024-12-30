@@ -146,9 +146,6 @@
     "AIGC-Audio/AudioGPT.github.io": [
         "Other"
     ],
-    "AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent": [
-        "Other"
-    ],
     "AIHawk-FOSS/lib_resume_builder_AIHawk": [
         "Other"
     ],
@@ -402,6 +399,9 @@
         "Other"
     ],
     "AnthonyGress/Android-Toolkit": [
+        "Other"
+    ],
+    "AntonOsika/gpt-engineer": [
         "Other"
     ],
     "Anuradha2018/VideoContentPlatformwithAngular": [
@@ -3716,6 +3716,9 @@
     "Pulimet/ExoPlayer-Wrapper": [
         "Other"
     ],
+    "Pumpkin-MC/Pumpkin": [
+        "Other"
+    ],
     "PureMVC/puremvc-swift-util-asyncproxy": [
         "Other"
     ],
@@ -4191,9 +4194,6 @@
         "Other"
     ],
     "SnapKit/SnapKit": [
-        "Other"
-    ],
-    "Snowiiii/Pumpkin": [
         "Other"
     ],
     "SoMainline/linux-apple-resources": [
@@ -9182,6 +9182,9 @@
     "dwisiswant0/apkleaks": [
         "Other"
     ],
+    "dwyl/english-words": [
+        "Other"
+    ],
     "dyc87112/SpringBoot-Learning": [
         "Other"
     ],
@@ -9978,6 +9981,9 @@
         "Other"
     ],
     "fedecalendino/pysub-parser": [
+        "Other"
+    ],
+    "feder-cr/Jobs_Applier_AI_Agent": [
         "Other"
     ],
     "federicocarboni/setup-ffmpeg": [
@@ -10845,9 +10851,6 @@
         "Other"
     ],
     "gpouilloux/gnome-shell-extension-docker": [
-        "Other"
-    ],
-    "gpt-engineer-org/gpt-engineer": [
         "Other"
     ],
     "gradio-app/awesome-demos": [
@@ -17396,7 +17399,7 @@
     "ralfbiedert/openh264-rs": [
         "Other"
     ],
-    "rambodrahmani/ffmpeg-video-player": [
+    "rambod-rahmani/ffmpeg-video-player": [
         "Other"
     ],
     "ramimoshe/generator-node-template": [

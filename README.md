@@ -158,7 +158,7 @@
 * [app-generator/admin-dashboards](https://github.com/app-generator/admin-dashboards): Admin Dashboards - Open-Source and Free | App-Generator.dev
 * [adminfaces/admin-template](https://github.com/adminfaces/admin-template): JSF responsive admin template based on Bootstrap and AdminLTE 
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): AdminLTE - Free admin dashboard template based on Bootstrap 5
-* [shobrook/adrenaline](https://github.com/shobrook/adrenaline): Chat with and visualize any codebase
+* [shobrook/adrenaline](https://github.com/shobrook/adrenaline): Chat with (and visualize) any codebase
 * [basil79/ads-manager](https://github.com/basil79/ads-manager): HTML5 Video Ads Manager based on @dailymotion/vast-client
 * [timdonnelly/Advance](https://github.com/timdonnelly/Advance): Physics-based animations for iOS, tvOS, and macOS.
 * [saurabh7412/Advance-Code-Converter](https://github.com/saurabh7412/Advance-Code-Converter): Experience seamless code conversion and GitHub integration with our advanced tool, leveraging OpenAI. Easily convert and push code to your GitHub repository, streamlining your development process and enhancing collaboration. Boost productivity today!
@@ -537,7 +537,6 @@
 * [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder): 🖖 Train an artificial intelligence to play tinder for you
 * [anandslab/auto-traefik](https://github.com/anandslab/auto-traefik): Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
 * [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn): Make your job hunt easy by automating your application process with this Auto Applier
-* [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent): Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * [thehemi/AutoCoder](https://github.com/thehemi/AutoCoder): GPT-4 powered code tool with no token limits. Works on repos or files.  Can cleanup, optimize, comment, convert languages and more
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [sunhailin-Leo/AutoConfigShellScript](https://github.com/sunhailin-Leo/AutoConfigShellScript): Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV, Keras, Tensorflow(CPU Mode) and other relative environment.
@@ -825,7 +824,7 @@
 * [liwf616/awesome-live-stream](https://github.com/liwf616/awesome-live-stream): Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中
 * [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding): All things livecoding
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
-* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Visual Language Model(VLM), AI Generated Content(AIGC), the related Datasets and Applications.
+* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 * [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
 * [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code): Awesome Low Code platforms, vendors, tools and resources
 * [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode): 国内低代码平台从业者交流
@@ -1375,7 +1374,7 @@
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [nezort11/chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile): 🤖💡📱 ChatGPT mobile app built using Expo/React Native
 * [develNerd/ChatGPT-Multiplatform](https://github.com/develNerd/ChatGPT-Multiplatform): ChatGPT-Multiplatform Mobile App
-* [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web): A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+* [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web): A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 * [oceanlvr/ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot): 🤖️ A ChatGPT based GitHub robot. dialogue/CR/etc..
 * [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval): None
 * [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
@@ -1911,7 +1910,7 @@
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi): Lightweight justice for your single-board computer!
 * [google/diff-match-patch](https://github.com/google/diff-match-patch): Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 * [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit): 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
-* [huggingface/diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+* [huggingface/diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 * [langgenius/dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 * [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 * [DigitalMediaServer/DigitalMediaServer](https://github.com/DigitalMediaServer/DigitalMediaServer): A UPnP AV/DLNA Media Server.
@@ -2308,6 +2307,7 @@
 * [vzhd1701/enex2notion](https://github.com/vzhd1701/enex2notion): Import Evernote ENEX files to Notion
 * [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
 * [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders): A framework for Engineering Managers
+* [dwyl/english-words](https://github.com/dwyl/english-words): :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 * [kubernetes/enhancements](https://github.com/kubernetes/enhancements): Enhancements tracking repo for Kubernetes
 * [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr): Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app 
 * [Eyevinn/enigma.io](https://github.com/Eyevinn/enigma.io): NPM library for integration with Red Bee Media Managed OTT APIs
@@ -2602,7 +2602,7 @@
 * [tottokotkd/ffmpeg-tutorial-with-swift](https://github.com/tottokotkd/ffmpeg-tutorial-with-swift): None
 * [zhangpengyf/ffmpeg-tutorial-with-swift](https://github.com/zhangpengyf/ffmpeg-tutorial-with-swift): Translate "An ffmpeg and SDL Tutorial" to swift language
 * [bhuvnesh123/FFmpeg-Video-Editor-Android](https://github.com/bhuvnesh123/FFmpeg-Video-Editor-Android): Sample android project using ffmpeg for cutting and compressing video,reversing video,extracting image frames from video,extracting audio from video,add fade in fade out effect,create fast and slow motion video
-* [rambodrahmani/ffmpeg-video-player](https://github.com/rambodrahmani/ffmpeg-video-player): An FFmpeg and SDL Tutorial.
+* [rambod-rahmani/ffmpeg-video-player](https://github.com/rambod-rahmani/ffmpeg-video-player): An FFmpeg and SDL Tutorial.
 * [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts): Shell scripts to create video slideshows using images and videos
 * [rupakg/ffmpeg-video-thumb](https://github.com/rupakg/ffmpeg-video-thumb): An end-to-end serverless application that extracts thumbnails from video files using AWS Fargate, AWS Lambda and the Serverless Framework.
 * [slhck/ffmpeg-videoparser-comparison](https://github.com/slhck/ffmpeg-videoparser-comparison): Test repo, never mind
@@ -3166,7 +3166,7 @@
 * [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant): gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 * [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui): An open source implementation of OpenAI's ChatGPT Code interpreter
 * [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
-* [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+* [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer): Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 * [langfordw/GPT-ffmpeg](https://github.com/langfordw/GPT-ffmpeg): None
 * [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 * [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox): An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
@@ -3766,6 +3766,7 @@
 * [kevinadhiguna/jiyu](https://github.com/kevinadhiguna/jiyu): A repo for... whatever 🤷
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
 * [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel): Scrape job websites into a single spreadsheet with no duplicates.
+* [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent): Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 * [zthxxx/jovial](https://github.com/zthxxx/jovial): Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
 * [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
@@ -4076,7 +4077,7 @@
 * [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper): A library that scrapes Linkedin for user data
 * [zeshuaro/LinkedRW](https://github.com/zeshuaro/LinkedRW): A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file
 * [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources): None
@@ -4428,7 +4429,7 @@
 * [hussien89aa/MigrationMiner](https://github.com/hussien89aa/MigrationMiner): A tool to detect migration code between two Java third-party libraries
 * [dongyg/mildred](https://github.com/dongyg/mildred): None
 * [Kademi/milton-aws](https://github.com/Kademi/milton-aws): This is an open source project of using Amazon S3 (Simple Storage Service) in milton
-* [milvus-io/milvus](https://github.com/milvus-io/milvus): A cloud-native vector database, storage for next generation AI applications
+* [milvus-io/milvus](https://github.com/milvus-io/milvus): Milvus is a high-performance, cloud-native vector database designed to scale vector search.
 * [karpathy/minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books):  :books: Find your next book to read!
 * [dvorka/mindforger](https://github.com/dvorka/mindforger): Thinking notebook and Markdown editor.
@@ -4898,7 +4899,7 @@
 * [rust-av/nvidia-video-codec-rs](https://github.com/rust-av/nvidia-video-codec-rs): Bindings for the NVIDIA Video Codec SDK
 * [Scotchman0/NVIDIA_Drivers](https://github.com/Scotchman0/NVIDIA_Drivers): A simple bash script for automatic install of the proper nvidia drivers on Debian/ubuntu
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
-* [nrwl/nx](https://github.com/nrwl/nx): Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+* [nrwl/nx](https://github.com/nrwl/nx): Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 * [rosenbjerg/nxplx](https://github.com/rosenbjerg/nxplx): Home media streaming server designed for use on low-power devices, such as Raspberry Pi 4/3 and similar
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
@@ -5353,7 +5354,7 @@
 * [apache/pulsar](https://github.com/apache/pulsar): Apache Pulsar - distributed pub-sub messaging system
 * [NachoSoto/Pulse](https://github.com/NachoSoto/Pulse): Network logger for Apple platforms
 * [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Infrastructure as Code in any programming language 🚀
-* [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin): Empowering everyone to host fast and efficient Minecraft servers.
+* [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin): Empowering everyone to host fast and efficient Minecraft servers.
 * [krad/pupil](https://github.com/krad/pupil): 👁️Video Ingest Server that creates & syncs HLS assets to the cloud
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
 * [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
@@ -6810,7 +6811,7 @@
 * [ancalentari/twitch-stream-recorder](https://github.com/ancalentari/twitch-stream-recorder): Record twitch streams live!
 * [ilyalissoboi/twitch_downloader](https://github.com/ilyalissoboi/twitch_downloader): A universal twitch.tv VOD download script. Compatible with both old- and new-style VODs.
 * [FrozenIronSoftware/Twitched](https://github.com/FrozenIronSoftware/Twitched): Unofficial Twitch app for the Roku
-* [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink): Twitch Stream & Video & Clip Downloader/Recorder. This GUI tool helps you download and record Twitch streams, videos, and clips, including broadcasts and VODs.
+* [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink): Twitch Stream & Video & Clip Downloader/Recorder. This GUI downloader helps you download and record Twitch videos, including broadcasts and VODs.
 * [Eyevinn/twitter-sentiment-analysis](https://github.com/Eyevinn/twitter-sentiment-analysis): None
 * [willemvermeer/typed-actors](https://github.com/willemvermeer/typed-actors): Example code of Typed Actors presentation including GitPitch slides
 * [typhoeus/typhoeus](https://github.com/typhoeus/typhoeus):  Typhoeus wraps libcurl in order to make fast and reliable requests.
