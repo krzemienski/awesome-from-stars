@@ -482,9 +482,6 @@
     "Aufree/PHPHub-iOS": [
         "Other"
     ],
-    "AugustDev/enchanted": [
-        "Other"
-    ],
     "Augustyniak/FileExplorer": [
         "Other"
     ],
@@ -752,7 +749,7 @@
     "CatchChat/Yep": [
         "Other"
     ],
-    "CatchTheTornado/pdf-extract-api": [
+    "CatchTheTornado/text-extract-api": [
         "Other"
     ],
     "Cc-Edit/CcClip": [
@@ -3290,7 +3287,7 @@
     "NVIDIA/video-sdk-samples": [
         "Other"
     ],
-    "NVlabs/VILA": [
+    "NVlabs/Cosmos-Nemotron": [
         "Other"
     ],
     "NachoSoto/Pulse": [
@@ -4427,9 +4424,6 @@
     "Tencent/OOMDetector": [
         "Other"
     ],
-    "TensoRaws/batch-video-encoder": [
-        "Other"
-    ],
     "TermuxHackz/wifi-hacker": [
         "Other"
     ],
@@ -5357,6 +5351,9 @@
     "alexanderepstein/Bash-Snippets": [
         "Other"
     ],
+    "alexaubry/BulletinBoard": [
+        "Other"
+    ],
     "alexballas/go2tv": [
         "Other"
     ],
@@ -5370,9 +5367,6 @@
         "Other"
     ],
     "alexheretic/ab-av1": [
-        "Other"
-    ],
-    "alexisakers/BulletinBoard": [
         "Other"
     ],
     "alexispurslane/PRIME-GPU-Profile-Selector": [
@@ -6843,9 +6837,6 @@
         "Other"
     ],
     "better/jsonschema2db": [
-        "Other"
-    ],
-    "beyondmeh/piu": [
         "Other"
     ],
     "beyondstorage/go-storage": [
@@ -10602,6 +10593,9 @@
         "Other"
     ],
     "glubsy/livestream_saver": [
+        "Other"
+    ],
+    "gluonfield/enchanted": [
         "Other"
     ],
     "glushchenko/fsnotes": [
@@ -17597,6 +17591,12 @@
     "remirobert/Dotzu": [
         "Other"
     ],
+    "remix-run/examples": [
+        "Other"
+    ],
+    "remix-run/remix": [
+        "Other"
+    ],
     "remotely-save/remotely-save": [
         "Other"
     ],
@@ -19386,6 +19386,9 @@
         "Other"
     ],
     "streamaserver/streama": [
+        "Other"
+    ],
+    "streaming-video-technology-alliance/ott_device_matrix": [
         "Other"
     ],
     "streamingriver/go-hls-proxy": [
