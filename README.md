@@ -3623,7 +3623,6 @@
 * [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api): Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 * [instantbox/instantbox](https://github.com/instantbox/instantbox): 📦 Get a clean, ready-to-go Linux box in seconds.
 * [ephread/Instructions](https://github.com/ephread/Instructions): Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
-* [integration-os/integrationos](https://github.com/integration-os/integrationos): The open source Unified API
 * [DataDog/integrations-core](https://github.com/DataDog/integrations-core): Core integrations of the Datadog Agent
 * [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru): The first AI agent that builds third-party integrations through reverse engineering platforms' internal APIs.
 * [kitsunyan/intel-undervolt](https://github.com/kitsunyan/intel-undervolt): Intel CPU undervolting and throttling configuration tool
@@ -5189,6 +5188,7 @@
 * [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted): Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 * [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap): Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb: 
 * [open-mmlab/PIA](https://github.com/open-mmlab/PIA): [CVPR 2024] PIA, your Personalized Image Animator. Animate your images by text prompt, combing with Dreambooth, achieving stunning videos.           PIA，你的个性化图像动画生成器，利用文本提示将图像变为奇妙的动画
+* [picahq/pica](https://github.com/picahq/pica): The Complete Agentic Infrastructure
 * [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo): A fast, user friendly ORM and query builder which supports asyncio.
 * [spring-media/PiedPiper](https://github.com/spring-media/PiedPiper): A small set of classes and functions to make easy use of Futures, Promises and async computation in general. All written in Swift for iOS 10+, WatchOS 3, tvOS and Mac OS X apps.
 * [agconti/piedpiper-web](https://github.com/agconti/piedpiper-web): A sample scaffolded project from https://github.com/agconti/cookiecutter-django-rest
@@ -6842,7 +6842,7 @@
 * [linagora/Twake](https://github.com/linagora/Twake): Twake is a secure open source collaboration platform to improve organizational productivity. 
 * [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks): An easy way to fine-tune, and adjust parameters for iOS apps in development.
 * [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
-* [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny): The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
+* [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny): The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
 * [amiechen/twitch-batch-loader](https://github.com/amiechen/twitch-batch-loader): Batch download twitch clips in terminal
 * [TorbenCapiau/Twitch-Clips-Downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader): Streamers have been receiving a lot of copyright complaints and are forced to delete all their clips to avoid their Twitch account being closed. Save the clips you've made with this tool.
 * [dudik/twitch-m3u8](https://github.com/dudik/twitch-m3u8): Get the stream URL of a Twitch livestream or past broadcast (VOD).

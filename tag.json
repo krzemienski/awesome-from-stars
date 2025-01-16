@@ -11771,9 +11771,6 @@
     "int128/devops-compose": [
         "Other"
     ],
-    "integration-os/integrationos": [
-        "Other"
-    ],
     "intel-iot-devkit/concurrent-video-analytic-pipeline-optimization-sample-w": [
         "Other"
     ],
@@ -16833,6 +16830,9 @@
         "Other"
     ],
     "pi-hole/pi-hole": [
+        "Other"
+    ],
+    "picahq/pica": [
         "Other"
     ],
     "piccolo-orm/piccolo": [
