@@ -1807,7 +1807,7 @@
 * [aferrandi/dbtarzan](https://github.com/aferrandi/dbtarzan): To explore the tables of a database following their relations as defined in their foreign keys.
 * [rianhunter/dbxfs](https://github.com/rianhunter/dbxfs): User-space file system for Dropbox
 * [DataDog/dd-trace-java](https://github.com/DataDog/dd-trace-java): Datadog APM client for Java
-* [ddclient/ddclient](https://github.com/ddclient/ddclient): Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
+* [ddclient/ddclient](https://github.com/ddclient/ddclient): ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 * [martyr-deepin/dde-desktop](https://github.com/martyr-deepin/dde-desktop): dde-desktop is now a part of dde-file-manager
 * [linuxdeepin/dde-file-manager](https://github.com/linuxdeepin/dde-file-manager): File manager for deepin desktop environment.
 * [didi/DDMQ](https://github.com/didi/DDMQ): DDMQ is a distributed messaging product with low latency, high throughput and high availability.
@@ -5740,7 +5740,7 @@
 * [bcingle/roku-remote](https://github.com/bcingle/roku-remote): A web app that forwards Roku commands to a Roku device on the server's local network.  Enables control of Roku devices from outside of the local network, specifically for smart home control.
 * [rokucommunity/roku-requests](https://github.com/rokucommunity/roku-requests): Python requests inspired Brightscript Network Library for Roku
 * [jamiemaison/roku-roRunner](https://github.com/jamiemaison/roku-roRunner): Random key press runner for Roku devices
-* [zk94007/Roku-S3-VideoPlayer-Channel](https://github.com/zk94007/Roku-S3-VideoPlayer-Channel): None
+* [zacharyrichardson212/Roku-S3-VideoPlayer-Channel](https://github.com/zacharyrichardson212/Roku-S3-VideoPlayer-Channel): None
 * [BrightcoveOS/Roku-Sample-App](https://github.com/BrightcoveOS/Roku-Sample-App): Sample application for Roku using Brightcove VideoCloud
 * [rpetersen29/roku-slack-app](https://github.com/rpetersen29/roku-slack-app): Flask API to control a Roku via Slack app
 * [CCecilia/roku-suite-desktop](https://github.com/CCecilia/roku-suite-desktop): Tool suite for Roku channel development.
