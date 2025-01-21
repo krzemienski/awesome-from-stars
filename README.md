@@ -368,7 +368,7 @@
 * [Digipolitan/app-swift-template-cli](https://github.com/Digipolitan/app-swift-template-cli): None
 * [Digipolitan/app-swift-template-tvos](https://github.com/Digipolitan/app-swift-template-tvos): None
 * [pietropizzi/app-talk](https://github.com/pietropizzi/app-talk): Let iOS apps talk - A user contributable directory of iOS apps with x-callback-urls.
-* [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent): AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+* [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent): AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 * [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation): AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Check WebServices Status - https://status.getappbox.com/status/web
 * [microsoft/appcenter](https://github.com/microsoft/appcenter): Central repository for App Center open source resources and planning.
 * [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit): AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
@@ -880,7 +880,7 @@
 * [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity): A curated list of delightful productivity resources.
 * [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates): A collection of awesome readme templates to display on your profile
 * [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers): A list of history's greatest software engineers and tech pioneers
-* [gabrielmrinho/awesome-project](https://github.com/gabrielmrinho/awesome-project): A curated list of awesome project development links
+* [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project): A curated list of awesome project development links
 * [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas): Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 * [warpnet/awesome-prometheus](https://github.com/warpnet/awesome-prometheus): A curated list of awesome Prometheus resources, projects and tools.
 * [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts): 🚨 Collection of Prometheus alerting rules
@@ -2057,7 +2057,7 @@
 * [Eyevinn/docker-s3-mp4split](https://github.com/Eyevinn/docker-s3-mp4split): Unified Origin mp4split S3 output wrapper
 * [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume): Docker container with a data volume from s3.
 * [EasyPi/docker-scrapyd](https://github.com/EasyPi/docker-scrapyd): 🕷️ Scrapyd is an application for deploying and running Scrapy spiders.
-* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 * [CodeMazeBlog/docker-series](https://github.com/CodeMazeBlog/docker-series): Docker Series about containerizing ASP.NET Core app with MySQL..
 * [Eyevinn/docker-serve](https://github.com/Eyevinn/docker-serve): A simple Python based HTTP server that sets CORS allow headers. Useful for streaming from files on local computer
 * [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks): Ready-to-run Docker images containing Jupyter applications
@@ -2256,7 +2256,7 @@
 * [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop): AWS Workshop for Learning EKS
 * [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl): The official CLI for Amazon EKS
 * [mehmettaskiner/eksi-sozluk-reloaded](https://github.com/mehmettaskiner/eksi-sozluk-reloaded): eksi sozluk clone with python and flask
-* [elunez/eladmin](https://github.com/elunez/eladmin): eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+* [elunez/eladmin](https://github.com/elunez/eladmin): eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 * [awsdocs/elastic-beanstalk-samples](https://github.com/awsdocs/elastic-beanstalk-samples): This repository contains code and configuration samples (e.g. .ebextensions) for AWS Elastic Beanstalk.
 * [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open Source, Distributed, RESTful Search Engine
 * [lkzhao/ElasticTransition](https://github.com/lkzhao/ElasticTransition): A UIKit custom transition that simulates an elastic drag. Written in Swift.
@@ -6000,7 +6000,7 @@
 * [federicocarboni/setup-ffmpeg](https://github.com/federicocarboni/setup-ffmpeg): Set up your GitHub Actions workflow with ffmpeg
 * [sauce-archives/setups](https://github.com/sauce-archives/setups): None
 * [pypa/setuptools](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
-* [asottile/setuptools-golang](https://github.com/asottile/setuptools-golang): A setuptools extension for building cpython extensions written in golang.
+* [asottile-archive/setuptools-golang](https://github.com/asottile-archive/setuptools-golang): A setuptools extension for building cpython extensions written in golang.
 * [kubatruhlar/SFDraggableDialogView](https://github.com/kubatruhlar/SFDraggableDialogView): Beautiful dialog view with UIDynamics.
 * [Showmax/sffmpeg](https://github.com/Showmax/sffmpeg): Full-featured static FFmpeg build helper
 * [pyke369/sffmpeg](https://github.com/pyke369/sffmpeg): full-featured static ffmpeg build helper
@@ -6475,7 +6475,6 @@
 * [industriousonesoft/SwiftCodec](https://github.com/industriousonesoft/SwiftCodec): This is a thin Swift wrapper around the popular and excellent FFmpeg library. 
 * [SeverinetsDenis/SwiftCoreAutotests](https://github.com/SeverinetsDenis/SwiftCoreAutotests): None
 * [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate): 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
-* [derekcoder/SwiftDevHints](https://github.com/derekcoder/SwiftDevHints): A very useful set of development tools for Swift.
 * [jaronoff97/SwiftDog](https://github.com/jaronoff97/SwiftDog): This is an (un)official swift library of the datadog API! Many more features to come, but right now it supports sending metrics and events!
 * [swiftengine/SwiftEngine](https://github.com/swiftengine/SwiftEngine): Apple Swift based HTTP server.  The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server.  
 * [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit): SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.

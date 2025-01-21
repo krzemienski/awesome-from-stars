@@ -4457,6 +4457,9 @@
     "Tencent/OOMDetector": [
         "Other"
     ],
+    "TencentQQGYLab/AppAgent": [
+        "Other"
+    ],
     "TermuxHackz/wifi-hacker": [
         "Other"
     ],
@@ -6287,7 +6290,7 @@
     "asmcos/requests": [
         "Other"
     ],
-    "asottile/setuptools-golang": [
+    "asottile-archive/setuptools-golang": [
         "Other"
     ],
     "assembl/url_metadata": [
@@ -8654,9 +8657,6 @@
     "derailed/k9s": [
         "Other"
     ],
-    "derekcoder/SwiftDevHints": [
-        "Other"
-    ],
     "derolf/transcoder": [
         "Other"
     ],
@@ -10373,9 +10373,6 @@
     "gabrielgodoy-zz/github-stars-manager": [
         "Other"
     ],
-    "gabrielmrinho/awesome-project": [
-        "Other"
-    ],
     "galaxy-s10/billd-live-admin": [
         "Other"
     ],
@@ -10410,6 +10407,9 @@
         "Other"
     ],
     "gdavila/easyVmaf": [
+        "Other"
+    ],
+    "gdcmarinho/awesome-project": [
         "Other"
     ],
     "gdoteof/docker-streisand": [
@@ -15126,9 +15126,6 @@
         "Other"
     ],
     "mnismt/awesome-notion-site": [
-        "Other"
-    ],
-    "mnotgod96/AppAgent": [
         "Other"
     ],
     "mnsrulz/rokuMediaPlayer": [
