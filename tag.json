@@ -152,9 +152,6 @@
     "AIHawk-FOSS/lib_resume_builder_AIHawk": [
         "Other"
     ],
-    "AIHawk-FOSS/resume_render_from_job_description": [
-        "Other"
-    ],
     "AILab-CVC/Animate-A-Story": [
         "Other"
     ],
@@ -9989,12 +9986,6 @@
     "fatedier/frp": [
         "Other"
     ],
-    "fatih-yavuz/links.dev": [
-        "Other"
-    ],
-    "fatih-yavuz/my-links": [
-        "Other"
-    ],
     "fauxpilot/fauxpilot": [
         "Other"
     ],
@@ -10026,6 +10017,9 @@
         "Other"
     ],
     "feder-cr/Jobs_Applier_AI_Agent": [
+        "Other"
+    ],
+    "feder-cr/resume_render_from_job_description": [
         "Other"
     ],
     "federicocarboni/setup-ffmpeg": [
@@ -17247,6 +17241,12 @@
         "Other"
     ],
     "puppeteer/puppeteer": [
+        "Other"
+    ],
+    "pusuktv/links.dev": [
+        "Other"
+    ],
+    "pusuktv/my-links": [
         "Other"
     ],
     "pvieito/PythonKit": [
