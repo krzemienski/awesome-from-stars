@@ -149,9 +149,6 @@
     "AIGC-Audio/AudioGPT.github.io": [
         "Other"
     ],
-    "AIHawk-FOSS/lib_resume_builder_AIHawk": [
-        "Other"
-    ],
     "AILab-CVC/Animate-A-Story": [
         "Other"
     ],
@@ -4505,6 +4502,9 @@
     "TheBlewish/Automated-AI-Web-Researcher-Ollama": [
         "Other"
     ],
+    "TheCodeTraveler/GitTrends": [
+        "Other"
+    ],
     "TheGreatMcPain/python-media-scripts": [
         "Other"
     ],
@@ -5217,6 +5217,9 @@
         "Other"
     ],
     "agmmnn/awesome-blender": [
+        "Other"
+    ],
+    "agno-agi/agno": [
         "Other"
     ],
     "agrinman/sift-ios": [
@@ -6302,9 +6305,6 @@
     "asticode/go-astiav": [
         "Other"
     ],
-    "asticode/go-astiencoder": [
-        "Other"
-    ],
     "asticode/go-astisub": [
         "Other"
     ],
@@ -7209,9 +7209,6 @@
         "Other"
     ],
     "britecharts/britecharts": [
-        "Other"
-    ],
-    "brminnick/GitTrends": [
         "Other"
     ],
     "brndnmtthws/conky": [
@@ -9200,6 +9197,9 @@
     "dutchcoders/transfer.sh": [
         "Other"
     ],
+    "dvecy/WifiAttack": [
+        "Other"
+    ],
     "dvershinin/apt-to-dnf": [
         "Other"
     ],
@@ -10016,7 +10016,10 @@
     "fedecalendino/pysub-parser": [
         "Other"
     ],
-    "feder-cr/Jobs_Applier_AI_Agent": [
+    "feder-cr/Jobs_Applier_AI_Agent_AIHawk": [
+        "Other"
+    ],
+    "feder-cr/lib_resume_builder_AIHawk": [
         "Other"
     ],
     "feder-cr/resume_render_from_job_description": [
@@ -15125,7 +15128,7 @@
     "mnsrulz/rokuMediaPlayer": [
         "Other"
     ],
-    "mobile-dev-inc/maestro": [
+    "mobile-dev-inc/Maestro": [
         "Other"
     ],
     "mobile-shell/mosh": [
@@ -16772,9 +16775,6 @@
     "phenotypic/WiFiCrackPy": [
         "Other"
     ],
-    "phidatahq/phidata": [
-        "Other"
-    ],
     "phil-opp/blog_os": [
         "Other"
     ],
@@ -18189,9 +18189,6 @@
         "Other"
     ],
     "saasforge/open-source-saas-boilerpate": [
-        "Other"
-    ],
-    "sadatnazarli/WifiAttack": [
         "Other"
     ],
     "sadiq81/fastlane-plugin-jira_set_fix_version": [
