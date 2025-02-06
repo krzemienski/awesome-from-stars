@@ -3173,10 +3173,10 @@
     "Miserlou/SoundScrape": [
         "Other"
     ],
-    "Mobile-Artificial-Intelligence/maid": [
+    "Mobile-Artificial-Intelligence/llama_dart": [
         "Other"
     ],
-    "Mobile-Artificial-Intelligence/maid_llm": [
+    "Mobile-Artificial-Intelligence/maid": [
         "Other"
     ],
     "MobileNativeFoundation/XCLogParser": [
@@ -4713,9 +4713,6 @@
         "Other"
     ],
     "Vyshnav2255/Notion-Icons-2.0": [
-        "Other"
-    ],
-    "WHTJEON/narrowvine": [
         "Other"
     ],
     "WHTJEON/widevine-dl": [
@@ -7905,6 +7902,9 @@
         "Other"
     ],
     "codespaces-io/codespaces": [
+        "Other"
+    ],
+    "codestoryai/aide": [
         "Other"
     ],
     "codex-team/editor.js": [
@@ -11763,6 +11763,9 @@
         "Other"
     ],
     "insight-platform/Savant": [
+        "Other"
+    ],
+    "instaloader/instaloader": [
         "Other"
     ],
     "instantbox/instantbox": [

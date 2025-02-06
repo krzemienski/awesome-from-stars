@@ -202,6 +202,7 @@
 * [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 * [Nutlope/aicommits](https://github.com/Nutlope/aicommits): A CLI that writes your git commit messages for you with AI
 * [theorlan2/AIDB-APP](https://github.com/theorlan2/AIDB-APP): AIDB (Android - IOS Debug Bridge) commands GUI, to facilitate the development of ios or android applications (included React Native).
+* [codestoryai/aide](https://github.com/codestoryai/aide): The open-source AI-native IDE
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [sozercan/aikit](https://github.com/sozercan/aikit): 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 * [aimhubio/aim](https://github.com/aimhubio/aim): Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
@@ -2185,7 +2186,7 @@
 * [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn): A Dead Simple VPN.
 * [eebean2/DTConsole](https://github.com/eebean2/DTConsole): An on-device console for debugging purpose
 * [ebu/dtt2ip](https://github.com/ebu/dtt2ip): Broadcast to IP conversion for Wifi indoor coverage
-* [dubinc/dub](https://github.com/dubinc/dub): Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+* [dubinc/dub](https://github.com/dubinc/dub): Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 * [apache/dubbo](https://github.com/apache/dubbo): The java implementation of Apache Dubbo. An RPC and microservice framework.
 * [apache/dubbo-samples](https://github.com/apache/dubbo-samples): samples for Apache Dubbo
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
@@ -3623,6 +3624,7 @@
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
 * [ubports/installer-configs](https://github.com/ubports/installer-configs): Install configurations for the UBports Installer
 * [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
+* [instaloader/instaloader](https://github.com/instaloader/instaloader): Download pictures (or videos) along with their captions and other metadata from Instagram.
 * [rokudev/instant-resume](https://github.com/rokudev/instant-resume): Demonstrates how to implement Instant Resume in a channel
 * [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api): Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
 * [instantbox/instantbox](https://github.com/instantbox/instantbox): 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -4161,6 +4163,7 @@
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++
 * [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui): Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.  
 * [meta-llama/llama3](https://github.com/meta-llama/llama3): The official Meta Llama 3 GitHub site
+* [Mobile-Artificial-Intelligence/llama_dart](https://github.com/Mobile-Artificial-Intelligence/llama_dart): llama_dart is a dart implementation of llama.cpp used by the mobile artificial intelligence distribution (maid)
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data.
 * [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS): Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 * [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS): Data framework for your LLM applications. Focus on server side solution
@@ -4290,7 +4293,6 @@
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [Prismadic/magnet](https://github.com/Prismadic/magnet): the small distributed language model toolkit; fine-tune state-of-the-art LLMs anywhere, rapidly
 * [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid): Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. 
-* [Mobile-Artificial-Intelligence/maid_llm](https://github.com/Mobile-Artificial-Intelligence/maid_llm): maid_llm is a dart implementation of llama.cpp used by the mobile artificial intelligence distribution (maid)
 * [bkw777/mainline](https://github.com/bkw777/mainline): Install mainline kernel packages from kernel.ubuntu.com
 * [makedeb/makedeb](https://github.com/makedeb/makedeb): A simplicity-focused packaging tool for Debian archives
 * [uber-archive/makisu](https://github.com/uber-archive/makisu): Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
@@ -4632,7 +4634,6 @@
 * [Eyevinn/nalu-chunker](https://github.com/Eyevinn/nalu-chunker): A transform stream which chunks incoming AVC/H264 bitstream into NAL unit chunks.
 * [jethrocarr/namedmanager](https://github.com/jethrocarr/namedmanager): AGPL web-based DNS management interface in PHP
 * [narkdown/narkdown-py](https://github.com/narkdown/narkdown-py): A tool to use Notion as a Markdown editor.
-* [WHTJEON/narrowvine](https://github.com/WHTJEON/narrowvine): The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)
 * [NAStool/nas-tools](https://github.com/NAStool/nas-tools): NAS媒体库管理工具
 * [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie): Natalie - Storyboard Code Generator (for Swift)
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
@@ -4687,7 +4688,7 @@
 * [inlife/nexrender](https://github.com/inlife/nexrender): 📹  Data-driven render automation for After Effects
 * [BrianRuizy/next-notion-portfolio](https://github.com/BrianRuizy/next-notion-portfolio): 📙 NEXT.js + Notion driven portfolio template. Seamlessly add content with the awesome UX of Notion. Showcase your work through blog format.
 * [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Admin Dashboard Starter with Nextjs15 and shadcn ui
-* [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+* [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [christophetd/nextcloud-docker-compose](https://github.com/christophetd/nextcloud-docker-compose): :cloud: Spin up a Nextcloud instance with automatied backups and SSL certificate issuance.
 * [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi): 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 * [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit): Deploy your own Notion-powered website in minutes with Next.js and Vercel.
@@ -6415,7 +6416,7 @@
 * [postmanlabs/swagger2-postman2](https://github.com/postmanlabs/swagger2-postman2): Module and library to convert Swagger 2.0 to a Postman Collection (v2.0)
 * [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 * [moby/swarmkit](https://github.com/moby/swarmkit): A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-* [kyegomez/swarms](https://github.com/kyegomez/swarms): The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.gg/jM3Z6M9uMq
+* [kyegomez/swarms](https://github.com/kyegomez/swarms): The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 * [swc-project/swc](https://github.com/swc-project/swc): Rust-based platform for the Web
 * [swc-project/swc-playground](https://github.com/swc-project/swc-playground): The SWC playground.
 * [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
