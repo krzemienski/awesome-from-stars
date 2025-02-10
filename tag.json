@@ -41,9 +41,6 @@
     "1ec5/read-only-coding": [
         "Other"
     ],
-    "1ucif3r/aircrackauto": [
-        "Other"
-    ],
     "22bulbs/brom": [
         "Other"
     ],
@@ -3173,7 +3170,7 @@
     "Miserlou/SoundScrape": [
         "Other"
     ],
-    "Mobile-Artificial-Intelligence/llama_dart": [
+    "Mobile-Artificial-Intelligence/lcpp": [
         "Other"
     ],
     "Mobile-Artificial-Intelligence/maid": [
@@ -8139,6 +8136,9 @@
         "Other"
     ],
     "cs50/roku50": [
+        "Other"
+    ],
+    "csansoon/ai-web-designer": [
         "Other"
     ],
     "cshum/imagorvideo": [
@@ -13199,6 +13199,9 @@
     "krzemienski/bakery": [
         "Other"
     ],
+    "krzemienski/deep-job-search": [
+        "Other"
+    ],
     "krzemienski/encodarr": [
         "Other"
     ],
@@ -14055,9 +14058,6 @@
         "Other"
     ],
     "lukaszliniewicz/Pandrator": [
-        "Other"
-    ],
-    "lukechadwick/linux-intel-undervolt-gui": [
         "Other"
     ],
     "luong-komorebi/Awesome-Linux-Software": [
@@ -17831,6 +17831,9 @@
     "rkoshak/sensorReporter": [
         "Other"
     ],
+    "rmjordas/awesome-vue": [
+        "Other"
+    ],
     "rnorth/mkdocs-codeinclude-plugin": [
         "Other"
     ],
@@ -19197,6 +19200,9 @@
         "Other"
     ],
     "sozercan/aikit": [
+        "Other"
+    ],
+    "sp-hy/linux-intel-undervolt-gui": [
         "Other"
     ],
     "spaam/svtplay-dl": [
@@ -20681,6 +20687,9 @@
     "umutphp/awesome-cli": [
         "Other"
     ],
+    "unclecode/crawl4ai": [
+        "Other"
+    ],
     "unetbootin/unetbootin": [
         "Other"
     ],
@@ -21206,6 +21215,9 @@
     "vtenfys/notion-linux": [
         "Other"
     ],
+    "vuejs/awesome-vue": [
+        "Other"
+    ],
     "vuejs/devtools-v6": [
         "Other"
     ],
@@ -21470,10 +21482,10 @@
     "wez/atomicparsley": [
         "Other"
     ],
-    "wez/wezterm": [
+    "wezhai/nginx-hls": [
         "Other"
     ],
-    "wezhai/nginx-hls": [
+    "wezterm/wezterm": [
         "Other"
     ],
     "whittinghamj/restreamer-production": [
