@@ -701,9 +701,6 @@
     "CESNET/UltraGrid": [
         "Other"
     ],
-    "CNajm/flask-ffmpeg-mediaconverter": [
-        "Other"
-    ],
     "CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout": [
         "Other"
     ],
@@ -7829,6 +7826,9 @@
     "cn-kali-team/notion-rss": [
         "Other"
     ],
+    "cnajm/flask-ffmpeg-mediaconverter": [
+        "Other"
+    ],
     "cockpit-project/cockpit": [
         "Other"
     ],
@@ -9986,6 +9986,12 @@
     "fatedier/frp": [
         "Other"
     ],
+    "fatih-yavuz/links.dev": [
+        "Other"
+    ],
+    "fatih-yavuz/my-links": [
+        "Other"
+    ],
     "fauxpilot/fauxpilot": [
         "Other"
     ],
@@ -10511,7 +10517,7 @@
     "getumbrel/umbrel-community-app-store": [
         "Other"
     ],
-    "ggerganov/llama.cpp": [
+    "ggml-org/llama.cpp": [
         "Other"
     ],
     "ggn/manifestmanipulator": [
@@ -11556,6 +11562,9 @@
         "Other"
     ],
     "iawia002/lux": [
+        "Other"
+    ],
+    "ibelick/nim": [
         "Other"
     ],
     "iberianpig/fusuma": [
@@ -13224,6 +13233,9 @@
         "Other"
     ],
     "krzemienski/inlets-traefik-docker": [
+        "Other"
+    ],
+    "krzemienski/lashon-next": [
         "Other"
     ],
     "krzemienski/ngrok-setup": [
@@ -17261,12 +17273,6 @@
     "puppeteer/puppeteer": [
         "Other"
     ],
-    "pusuktv/links.dev": [
-        "Other"
-    ],
-    "pusuktv/my-links": [
-        "Other"
-    ],
     "pvieito/PythonKit": [
         "Other"
     ],
@@ -19413,6 +19419,9 @@
         "Other"
     ],
     "stefanbuck/awesome-browser-extensions-for-github": [
+        "Other"
+    ],
+    "stefanogali/panic-panini-next": [
         "Other"
     ],
     "stefanondisponibile/flask_celery": [

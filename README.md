@@ -184,7 +184,7 @@
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Langchain, Autogen, AG2, and CamelAI
-* [agno-agi/agno](https://github.com/agno-agi/agno): Agno is a lightweight framework for building multi-modal Agents
+* [agno-agi/agno](https://github.com/agno-agi/agno): Agno is a lightweight library for building multi-modal Agents
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): Build AI-powered applications with React, Svelte, Vue, and Solid
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -1326,7 +1326,7 @@
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
 * [intel/cartwheel-ffmpeg](https://github.com/intel/cartwheel-ffmpeg): Intel developer staging area for unmerged upstream patch contributions to FFmpeg
 * [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-* [casibase/casibase](https://github.com/casibase/casibase): AI Cloud: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc., chat bot demo: https://demo.casibase.com, admin UI demo: https://demo-admin.casibase.com
+* [casibase/casibase](https://github.com/casibase/casibase): AI Cloud OS: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
 * [castjs/castjs](https://github.com/castjs/castjs): 📺 Chromecast Sender Library for the Browser
 * [xat/castnow](https://github.com/xat/castnow): commandline chromecast player
 * [googlecast/CastReceiver](https://github.com/googlecast/CastReceiver): Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features.
@@ -2736,7 +2736,7 @@
 * [itsrifat/flask-celery-docker-scale](https://github.com/itsrifat/flask-celery-docker-scale): Example docker-compose config for scaling celery worker with separate code base
 * [miguelgrinberg/flask-celery-example](https://github.com/miguelgrinberg/flask-celery-example): This repository contains the example code for my blog article Using Celery with Flask.
 * [testdrivenio/flask-docker-swarm](https://github.com/testdrivenio/flask-docker-swarm): Running Flask on Docker Swarm
-* [CNajm/flask-ffmpeg-mediaconverter](https://github.com/CNajm/flask-ffmpeg-mediaconverter): A python media converter than uses ffmpeg through the flask framework.
+* [cnajm/flask-ffmpeg-mediaconverter](https://github.com/cnajm/flask-ffmpeg-mediaconverter): A python media converter than uses ffmpeg through the flask framework.
 * [skb1129/flask-kubernetes](https://github.com/skb1129/flask-kubernetes): Deploy Your Flask App to Kubernetes Using EKS project from Udacity's Full Stack Nanodegree
 * [app-generator/flask-material-dashboard](https://github.com/app-generator/flask-material-dashboard): Flask Dashboard - Material Design | AppSeed
 * [app-generator/flask-material-kit](https://github.com/app-generator/flask-material-kit): Flask Boilerplate - Material Kit Design | AppSeed
@@ -4011,6 +4011,7 @@
 * [peremartra/Large-Language-Model-Notebooks-Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): Practical course about Large Language Models. 
 * [ezeoleaf/larry](https://github.com/ezeoleaf/larry): Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 * [Jaredk3nt/laserwave](https://github.com/Jaredk3nt/laserwave): A retro outrun / cyberpunk inspired VS Code theme
+* [krzemienski/lashon-next](https://github.com/krzemienski/lashon-next): lashon music website
 * [system76/launch](https://github.com/system76/launch): System76 Launch Configurable Keyboard
 * [pop-os/launcher](https://github.com/pop-os/launcher): Modular IPC-based desktop launcher service
 * [Laverna/laverna](https://github.com/Laverna/laverna): Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
@@ -4101,7 +4102,7 @@
 * [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume): Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 * [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper): A library that scrapes Linkedin for user data
 * [zeshuaro/LinkedRW](https://github.com/zeshuaro/LinkedRW): A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file
-* [pusuktv/links.dev](https://github.com/pusuktv/links.dev): A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
+* [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
 * [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
@@ -4165,7 +4166,7 @@
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [run-llama/llama-hub](https://github.com/run-llama/llama-hub): A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 * [meta-llama/llama-models](https://github.com/meta-llama/llama-models): Utilities intended for use with Llama models.
-* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++
+* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp): LLM inference in C/C++
 * [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui): Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.  
 * [meta-llama/llama3](https://github.com/meta-llama/llama3): The official Meta Llama 3 GitHub site
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data.
@@ -4449,7 +4450,7 @@
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): An API first development platform 
+* [micro/micro](https://github.com/micro/micro): An API development platform 
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
@@ -4622,7 +4623,7 @@
 * [maxep/MXParallaxHeader](https://github.com/maxep/MXParallaxHeader): Simple parallax header for UIScrollView
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [zoroqi/my-awesome](https://github.com/zoroqi/my-awesome): My Awesome List
-* [pusuktv/my-links](https://github.com/pusuktv/my-links): My personal page for links.dev
+* [fatih-yavuz/my-links](https://github.com/fatih-yavuz/my-links): My personal page for links.dev
 * [brpaz/my-linux-setup](https://github.com/brpaz/my-linux-setup): My Fedora Linux list of installed applications and Ansible provision scripts
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
 * [sankaranramantn/myprojects](https://github.com/sankaranramantn/myprojects): Drag and Drop GUI which converts any ffmpeg supported mp4/mkv into AV1 using Nvidia 40 series av1_nvenc encoder, code can be modified to use hevc_nvenc or any AMF/qsv encoders
@@ -4740,6 +4741,7 @@
 * [twilio-labs/NgrokExtensions](https://github.com/twilio-labs/NgrokExtensions): Visual Studio integration with ngrok
 * [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based user interfaces with Python. The nice way.
 * [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev): Personal website
+* [ibelick/nim](https://github.com/ibelick/nim): Nim is a free and open-source personal website template built with Next.js 15, React 19, Tailwind CSS v4, and Motion-Primitives.
 * [Quick/Nimble](https://github.com/Quick/Nimble): A Matcher Framework for Swift and Objective-C
 * [ashfurrow/Nimble-Snapshots](https://github.com/ashfurrow/Nimble-Snapshots): Nimble matchers for FBSnapshotTestCase.
 * [Spiderpig86/Nimbus](https://github.com/Spiderpig86/Nimbus): :notes: A new way to discover songs and artists on SoundCloud.
@@ -4930,7 +4932,7 @@
 * [rust-av/nvidia-video-codec-rs](https://github.com/rust-av/nvidia-video-codec-rs): Bindings for the NVIDIA Video Codec SDK
 * [Scotchman0/NVIDIA_Drivers](https://github.com/Scotchman0/NVIDIA_Drivers): A simple bash script for automatic install of the proper nvidia drivers on Debian/ubuntu
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
-* [nrwl/nx](https://github.com/nrwl/nx): Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+* [nrwl/nx](https://github.com/nrwl/nx): Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 * [rosenbjerg/nxplx](https://github.com/rosenbjerg/nxplx): Home media streaming server designed for use on low-power devices, such as Raspberry Pi 4/3 and similar
 * [nycdb/nycdb](https://github.com/nycdb/nycdb): Database of NYC Housing Data
 * [JustFixNYC/nycdb-k8s-loader](https://github.com/JustFixNYC/nycdb-k8s-loader): Loading and updating of NYC-DB data via containerized batch processing.
@@ -5049,7 +5051,7 @@
 * [OpenHEVC/openHEVC](https://github.com/OpenHEVC/openHEVC): HEVC decoder
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9): Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
-* [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
+* [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 * [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
 * [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault): openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
 * [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
@@ -5124,7 +5126,7 @@
 * [RubenKelevra/pacman.store](https://github.com/RubenKelevra/pacman.store): Pacman Mirror via IPFS for ArchLinux, Endeavouros, Manjaro plus custom repos ALHP and Chaotic-AUR.
 * [DerekTBrown/pacmanity](https://github.com/DerekTBrown/pacmanity): Package List Gist Backup via ALPM-Hooks
 * [pacstall/pacstall](https://github.com/pacstall/pacstall): An AUR-inspired package manager for Ubuntu
-* [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)【安全加固，暂停交互，请耐心等待】
+* [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub): Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 * [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP): 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis etc. 
 * [mps-youtube/pafy](https://github.com/mps-youtube/pafy): Python library to download YouTube content and retrieve metadata
 * [lalit2005/pagely](https://github.com/lalit2005/pagely): Launch beautiful websites straight from your Notion workspace or from your GitHub repo
@@ -5134,6 +5136,7 @@
 * [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator): Turn PDFs and EPUBs into audiobooks, subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, notably XTTS, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app with a GUI, an installer and all-in-one packages.
 * [louisdh/panelkit](https://github.com/louisdh/panelkit): A UI framework that enables panels on iOS.
 * [antoniocasero/Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
+* [stefanogali/panic-panini-next](https://github.com/stefanogali/panic-panini-next): Next.Js + TailwindCSS starter template for music band.
 * [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime): A tiny Clojure library that deals with MIME types (Internet media types)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
@@ -5656,7 +5659,7 @@
 * [RepositoryStream/RepositoryStream](https://github.com/RepositoryStream/RepositoryStream): None
 * [thedillonb/RepoStumble](https://github.com/thedillonb/RepoStumble): A mobile application for viewing GitHub repositories in a fashion similar to StumbleUpon
 * [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText): Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (GPT-4, Claude Opus, Gemini, etc)
-* [requestly/requestly](https://github.com/requestly/requestly): Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000+ front-end developers and 11,000+ companies worldwide.
+* [requestly/requestly](https://github.com/requestly/requestly): Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy.
 * [asmcos/requests](https://github.com/asmcos/requests): A golang HTTP client library. Salute to python requests.
 * [encode/requests-async](https://github.com/encode/requests-async): async-await support for `requests`. ✨ 🍰 ✨
 * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest): An easy and powerful Rust HTTP Client
@@ -6924,7 +6927,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
