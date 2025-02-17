@@ -1326,7 +1326,7 @@
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
 * [intel/cartwheel-ffmpeg](https://github.com/intel/cartwheel-ffmpeg): Intel developer staging area for unmerged upstream patch contributions to FFmpeg
 * [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-* [casibase/casibase](https://github.com/casibase/casibase): AI Cloud OS: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+* [casibase/casibase](https://github.com/casibase/casibase): AI Cloud OS: ⚡️Open-source RAG knowledge database with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
 * [castjs/castjs](https://github.com/castjs/castjs): 📺 Chromecast Sender Library for the Browser
 * [xat/castnow](https://github.com/xat/castnow): commandline chromecast player
 * [googlecast/CastReceiver](https://github.com/googlecast/CastReceiver): Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features.
@@ -4653,7 +4653,7 @@
 * [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
 * [uber/needle](https://github.com/uber/needle): Compile-time safe Swift dependency injection framework
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
-* [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop): 💪🏻 system monitoring on steroids
+* [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop): 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [containerd/nerdctl](https://github.com/containerd/nerdctl): contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 * [nesorter/nesorter](https://github.com/nesorter/nesorter): An attempt to sort and stream music in a convenient way ✨
@@ -5874,7 +5874,7 @@
 * [peak/s5cmd](https://github.com/peak/s5cmd): Parallel S3 and local filesystem execution tool.
 * [Eyevinn/safari-bitrate-monitor](https://github.com/Eyevinn/safari-bitrate-monitor): Simple approach to monitor bitrate changes in Safari, on the native video element
 * [Steams/salmon-media-server](https://github.com/Steams/salmon-media-server): Local media server utilizing ffmpeg to produce and serve HLS streams for music files (mpeg-dash and webrtc to come)
-* [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
+* [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of infrastructure and applications at scale.
 * [the-xentropy/samlists](https://github.com/the-xentropy/samlists): Free, libre, effective, and data-driven wordlists for all!
 * [bitrise-io/sample-apps-ios-with-bitrise-yml](https://github.com/bitrise-io/sample-apps-ios-with-bitrise-yml): Simple iOS sample app with bitrise.yml
 * [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller): Repository for sample controller. Complements sample-apiserver
@@ -5941,7 +5941,7 @@
 * [scrapy/scrapyd](https://github.com/scrapy/scrapyd): A service daemon to run Scrapy spiders
 * [scrapy/scrapyd-client](https://github.com/scrapy/scrapyd-client): Command line client for Scrapyd server
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
-* [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui): 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
+* [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui): 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 * [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus): A simple GUI for SCRCPY and other ADB functions
 * [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [itforgeuk/Script-Actions](https://github.com/itforgeuk/Script-Actions): Script Examples for Script Actions App
