@@ -743,9 +743,6 @@
     "CatchTheTornado/text-extract-api": [
         "Other"
     ],
-    "Cc-Edit/CcClip": [
-        "Other"
-    ],
     "Ch00k/ffmpy": [
         "Other"
     ],
@@ -2892,6 +2889,9 @@
         "Other"
     ],
     "LetsUpgrade/Python-Essentials": [
+        "Other"
+    ],
+    "Li-vien/CcClip": [
         "Other"
     ],
     "LiLittleCat/awesome-free-chatgpt": [
@@ -7610,6 +7610,9 @@
     "chika-kasymov/SKFormTextField": [
         "Other"
     ],
+    "chinabugotech/hutool": [
+        "Other"
+    ],
     "chinahbcq/ffmpeg_hw_decode": [
         "Other"
     ],
@@ -9132,9 +9135,6 @@
         "Other"
     ],
     "dromara/fast-request": [
-        "Other"
-    ],
-    "dromara/hutool": [
         "Other"
     ],
     "dropwizard/dropwizard": [
@@ -15785,7 +15785,7 @@
     "nikitavoloboev/config": [
         "Other"
     ],
-    "nikitavoloboev/nikiv.dev": [
+    "nikitavoloboev/go": [
         "Other"
     ],
     "nikolay-mamaev/BrightScript-Json-Beautifier": [
@@ -20222,7 +20222,7 @@
     "tilt-dev/tilt": [
         "Other"
     ],
-    "timche/gmail-desktop": [
+    "timche/meru": [
         "Other"
     ],
     "timdonnelly/Advance": [
