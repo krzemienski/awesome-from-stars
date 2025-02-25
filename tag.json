@@ -17,7 +17,7 @@
     "0xAX/linux-insides": [
         "Other"
     ],
-    "0xFA11/GameNetworkingResources": [
+    "0xFA11/MultiplayerNetworkingResources": [
         "Other"
     ],
     "0xW1sKy/Stitch-For-Roku": [
@@ -1307,6 +1307,9 @@
     "DopplerHQ/awesome-interview-questions": [
         "Other"
     ],
+    "Doriandarko/claude-engineer": [
+        "Other"
+    ],
     "Doriandarko/o1-engineer": [
         "Other"
     ],
@@ -1416,6 +1419,9 @@
         "Other"
     ],
     "ErikWittern/openapi-snippet": [
+        "Other"
+    ],
+    "ErlichLiu/DeepClaude": [
         "Other"
     ],
     "ErsatzTV/ErsatzTV": [
@@ -5783,6 +5789,9 @@
     "antares-sql/antares": [
         "Other"
     ],
+    "anthropics/claude-code": [
+        "Other"
+    ],
     "anthwlock/untrunc": [
         "Other"
     ],
@@ -7634,6 +7643,9 @@
     "chrippa/livestreamer": [
         "Other"
     ],
+    "chris-swift-dev/FireTVKit": [
+        "Other"
+    ],
     "chrisballinger/rust-framework-template": [
         "Other"
     ],
@@ -8106,9 +8118,6 @@
         "Other"
     ],
     "creeveliu/HTTPLiveStreamingTools": [
-        "Other"
-    ],
-    "crelies/FireTVKit": [
         "Other"
     ],
     "cropsly/ffmpeg-android-java": [

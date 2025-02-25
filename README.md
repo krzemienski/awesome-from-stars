@@ -1450,6 +1450,8 @@
 * [clappr/clappr-plugins](https://github.com/clappr/clappr-plugins): Main plugins for the Clappr project
 * [clappr/clappr-stats](https://github.com/clappr/clappr-stats): A clappr plugin to report playback statuses (timers: session, buffering, watch and counters: play, pause, error, fps)
 * [elonen/clapshot](https://github.com/elonen/clapshot): Self hosted web based collaborative video review tool
+* [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+* [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
@@ -1832,6 +1834,7 @@
 * [ekreloff/Deep-Link-Tester-tvOS-](https://github.com/ekreloff/Deep-Link-Tester-tvOS-): None
 * [epiclabs-io/DeepAudioClassification](https://github.com/epiclabs-io/DeepAudioClassification): None
 * [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera): Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
+* [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.5 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.0 - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 * [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 * [nagadit/DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux): DeepFaceLab is the leading software for creating deepfakes.
 * [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive): Real-time face swap for PC streaming or video calls
@@ -2711,7 +2714,7 @@
 * [ZaneH/firetv-remote](https://github.com/ZaneH/firetv-remote): A web app that can control your Amazon FireTV (Stick). Just startup Node, fill in your device's IP address and use your web browser as a remote. (Enable ADB debugging)
 * [amzn/firetv-sample-touch-app](https://github.com/amzn/firetv-sample-touch-app): This sample Android project demonstrates how to build the main UI of a Fire TV application in order to support both Touch interactions and Remote D-Pad controls.
 * [rhcp011235/firetv_bootloader_unlock](https://github.com/rhcp011235/firetv_bootloader_unlock): Opensource Amazon FireTv Bootloader Unlock Tool
-* [crelies/FireTVKit](https://github.com/crelies/FireTVKit): Discovering your FireTV and controlling the built-in media player is now easy and reactive
+* [chris-swift-dev/FireTVKit](https://github.com/chris-swift-dev/FireTVKit): Discovering your FireTV and controlling the built-in media player is now easy and reactive
 * [system76/firmware-open](https://github.com/system76/firmware-open): System76 Open Firmware
 * [hanton/Fisheye](https://github.com/hanton/Fisheye): Open Source iOS 360 Degree Panorama Video Player. (HTY360Player is renamed to Fisheye)
 * [fit-project/fit](https://github.com/fit-project/fit): FIT is a Python3 application for forensic acquisition of contents like web pages, emails, social media, etc. directly from the internet.
@@ -2878,7 +2881,6 @@
 * [Boerworz/Gagat](https://github.com/Boerworz/Gagat): A delightful way to transition between visual styles in your iOS applications.
 * [galio-org/galio](https://github.com/galio-org/galio): Galio is a beautifully designed, Free and Open Source React Native Framework
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer): A Study Path for Game Programmer
-* [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources): A Curated List of Multiplayer Game Network Programming Resources
 * [feelobot/gantree](https://github.com/feelobot/gantree): cli tool for automating docker deploys to elastic beanstalk
 * [Zibbp/ganymede](https://github.com/Zibbp/ganymede): Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 * [gaphor/gaphor](https://github.com/gaphor/gaphor): Gaphor is the simple modeling tool
@@ -4186,7 +4188,7 @@
 * [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs): Minimal LLM inference in Rust
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 * [lobehub/lobe-midjourney-webui](https://github.com/lobehub/lobe-midjourney-webui): ⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
@@ -4604,6 +4606,7 @@
 * [fengyuli-dev/multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt): Empowering your ChatGPT with vision and audio inputs.
 * [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances
 * [aparc/MultiPlatform](https://github.com/aparc/MultiPlatform): Just simple template app supporting platforms: iOS, macOS, tvOS, watchOS. Designed wtih SwiftUI.
+* [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources): A curated list of Multiplayer Game Network Programming Resources
 * [Casterlabs/Multistream](https://github.com/Casterlabs/Multistream): This is a small little tool for multistreaming without a huge hassle.
 * [jprjr/multistreamer](https://github.com/jprjr/multistreamer): [discontinued] A webapp for publishing video to multiple streaming services at once.
 * [adwardlee/multitask-end-to-end-video-captioning](https://github.com/adwardlee/multitask-end-to-end-video-captioning): with reinforcement learning
@@ -5063,7 +5066,7 @@
 * [synesthesiam/opentts](https://github.com/synesthesiam/opentts): Open Text to Speech Server
 * [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MIT and MyShell. Audio foundation model.
 * [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install): OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-* [angristan/openvpn-install](https://github.com/angristan/openvpn-install): Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+* [angristan/openvpn-install](https://github.com/angristan/openvpn-install): Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 * [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server): Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 * [openwrt/openwrt](https://github.com/openwrt/openwrt): This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 * [minio/operator](https://github.com/minio/operator): Simple Kubernetes Operator for MinIO clusters :computer:
