@@ -47,9 +47,6 @@
     "22bulbs/brom": [
         "Other"
     ],
-    "239144498/Streaming-Media-Server-Pro": [
-        "Other"
-    ],
     "2501world/transcoding-performance-trial": [
         "Other"
     ],
@@ -1059,9 +1056,6 @@
         "Other"
     ],
     "DP-3T/dp3t-sdk-ios": [
-        "Other"
-    ],
-    "DS4SD/docling": [
         "Other"
     ],
     "DSRCorporation/imf-conversion": [
@@ -2696,6 +2690,9 @@
     "KDAB/hotspot": [
         "Other"
     ],
+    "KRTirtho/spotube": [
+        "Other"
+    ],
     "KSCHdsc/BlackCap-Grabber": [
         "Other"
     ],
@@ -4020,6 +4017,9 @@
         "Other"
     ],
     "RyogaK/Moya-Unbox": [
+        "Other"
+    ],
+    "SIGRobotics-UIUC/LeKiwi": [
         "Other"
     ],
     "SK-Hardwired/nv_hevc_hdr_patcher": [
@@ -5738,9 +5738,6 @@
     "andrei-zgirvaci/expo-stable-diffusion": [
         "Other"
     ],
-    "andrepolischuk/keep": [
-        "Other"
-    ],
     "andressspinetti/video-transcoder": [
         "Other"
     ],
@@ -7184,6 +7181,9 @@
     "boxcast/boxcast-sdk-roku": [
         "Other"
     ],
+    "bprabhus/hyper-ctrl-theme": [
+        "Other"
+    ],
     "br3ndonland/dotfiles": [
         "Other"
     ],
@@ -8318,6 +8318,9 @@
     "daemonza/helmet": [
         "Other"
     ],
+    "dagger/dagger": [
+        "Other"
+    ],
     "dagostini/DADependencyInjection": [
         "Other"
     ],
@@ -9050,6 +9053,9 @@
     "dockup/infrahub": [
         "Other"
     ],
+    "docling-project/docling": [
+        "Other"
+    ],
     "docsifyjs/awesome-docsify": [
         "Other"
     ],
@@ -9660,6 +9666,9 @@
         "Other"
     ],
     "eon01/awesome-chatgpt": [
+        "Other"
+    ],
+    "eosphoros-ai/DB-GPT": [
         "Other"
     ],
     "ephemeral2eternity/DASH-Generator": [
@@ -11453,6 +11462,9 @@
     "hoya012/awesome-anomaly-detection": [
         "Other"
     ],
+    "hpcaitech/Open-Sora": [
+        "Other"
+    ],
     "hraban/opus": [
         "Other"
     ],
@@ -11496,6 +11508,9 @@
         "Other"
     ],
     "huggingface/diffusers": [
+        "Other"
+    ],
+    "huggingface/lerobot": [
         "Other"
     ],
     "huggingface/swift-coreml-diffusers": [
@@ -11559,9 +11574,6 @@
         "Other"
     ],
     "hybrik/hybrik-samples": [
-        "Other"
-    ],
-    "hybrik/hybrik-sdk-go": [
         "Other"
     ],
     "hynek/structlog": [
@@ -11799,6 +11811,9 @@
         "Other"
     ],
     "inferred/FreeBuilder": [
+        "Other"
+    ],
+    "infiniflow/ragflow": [
         "Other"
     ],
     "infinilabs/coco-app": [
@@ -12449,6 +12464,9 @@
     "johannesjo/super-productivity": [
         "Other"
     ],
+    "johnbean393/Sidekick": [
+        "Other"
+    ],
     "johnjones4/Standard-Notes-Clipper": [
         "Other"
     ],
@@ -13017,6 +13035,9 @@
         "Other"
     ],
     "keylase/nvidia-patch": [
+        "Other"
+    ],
+    "kfcx/Streaming-Media-Server-Pro": [
         "Other"
     ],
     "kghandour/Ollama-SwiftUI": [
@@ -14483,6 +14504,9 @@
     "markj/tvos_scripts": [
         "Other"
     ],
+    "markmead/hyperui": [
+        "Other"
+    ],
     "markodenic/awesome-tech-blogs": [
         "Other"
     ],
@@ -14666,6 +14690,9 @@
     "maximbaz/dotfiles": [
         "Other"
     ],
+    "maxutility2011/ezLiveStreaming": [
+        "Other"
+    ],
     "may215/awesome-termux-hacking": [
         "Other"
     ],
@@ -14805,6 +14832,9 @@
         "Other"
     ],
     "mendableai/firecrawl": [
+        "Other"
+    ],
+    "mendableai/firecrawl-mcp-server": [
         "Other"
     ],
     "mercari/Mew": [
@@ -15665,6 +15695,9 @@
     "nang-dev/tinderbot": [
         "Other"
     ],
+    "nanobrowser/nanobrowser": [
+        "Other"
+    ],
     "naomiaro/waveform-playlist": [
         "Other"
     ],
@@ -16433,6 +16466,9 @@
     "openai/jukebox": [
         "Other"
     ],
+    "openai/openai-agents-python": [
+        "Other"
+    ],
     "openai/openai-cookbook": [
         "Other"
     ],
@@ -16706,6 +16742,9 @@
     "pajapro/fastlane-plugin-changelog": [
         "Other"
     ],
+    "palantir/blueprint": [
+        "Other"
+    ],
     "palantir/roboslack": [
         "Other"
     ],
@@ -16782,9 +16821,6 @@
         "Other"
     ],
     "paulpacifico/shutter-encoder": [
-        "Other"
-    ],
-    "paulphys/github-stars-download": [
         "Other"
     ],
     "pavlobu/deskreen": [
@@ -17385,6 +17421,9 @@
         "Other"
     ],
     "puneetsl/lotion": [
+        "Other"
+    ],
+    "punkpeye/awesome-mcp-servers": [
         "Other"
     ],
     "puppeteer/puppeteer": [
@@ -18722,6 +18761,9 @@
     "shaarli/Shaarli": [
         "Other"
     ],
+    "shadcn-ui/ui": [
+        "Other"
+    ],
     "shadowmoose/Web-Video-Editor": [
         "Other"
     ],
@@ -19298,6 +19340,9 @@
     "soumanpaul/Video-streaming-web-app": [
         "Other"
     ],
+    "soumyajiitt/Portfolio": [
+        "Other"
+    ],
     "soundcloud-py/client-api": [
         "Other"
     ],
@@ -19641,6 +19686,9 @@
         "Other"
     ],
     "streamaserver/streama": [
+        "Other"
+    ],
+    "streaming-video-technology-alliance/common-media-library": [
         "Other"
     ],
     "streaming-video-technology-alliance/ott_device_matrix": [
@@ -20823,6 +20871,9 @@
         "Other"
     ],
     "unetbootin/unetbootin": [
+        "Other"
+    ],
+    "unicodeveloper/awesome-nextjs": [
         "Other"
     ],
     "unicodeveloper/awesome-opensource-apps": [
