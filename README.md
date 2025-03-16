@@ -4054,6 +4054,7 @@
 * [mkhasson97/LBTATools](https://github.com/mkhasson97/LBTATools): Set of tools to drastically improve development speed of UI in iOS applications
 * [Mobile-Artificial-Intelligence/lcpp](https://github.com/Mobile-Artificial-Intelligence/lcpp): lcpp is a dart implementation of llama.cpp used by the mobile artificial intelligence distribution (maid)
 * [leedowthwaite/LDOverlayMessage](https://github.com/leedowthwaite/LDOverlayMessage): A native tvOS message overlay, for transient, popup messages.
+* [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet): 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 * [seanpm2001/Learn-BrightScript](https://github.com/seanpm2001/Learn-BrightScript): A repository for showcasing my knowledge of the BrightScript programming language, and continuing to learn the language.
 * [Lax/Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples): 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
 * [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio): ⛵️ Istio resources 🕸
@@ -6983,7 +6984,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
