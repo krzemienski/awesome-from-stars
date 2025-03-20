@@ -572,9 +572,6 @@
     "Bilal-Belli/DictionaryWifiAttackTool": [
         "Other"
     ],
-    "Bin-Huang/chatbox": [
-        "Other"
-    ],
     "Binaryify/NeteaseCloudMusicApi": [
         "Other"
     ],
@@ -1358,6 +1355,9 @@
     "Eitol/ngrok-linux-service": [
         "Other"
     ],
+    "ElMassimo/iles": [
+        "Other"
+    ],
     "Eladlev/AutoPrompt": [
         "Other"
     ],
@@ -1473,6 +1473,9 @@
         "Other"
     ],
     "EvanLi/Github-Ranking": [
+        "Other"
+    ],
+    "Evavic44/portfolio-ideas": [
         "Other"
     ],
     "EwingYangs/awesome-open-gpt": [
@@ -3404,10 +3407,10 @@
     "NielsRogge/Transformers-Tutorials": [
         "Other"
     ],
-    "NikNakk/ffmpeg-aws-bento4": [
+    "NightTrek/Ollama-mcp": [
         "Other"
     ],
-    "Nikitos9I/AAVPlayer": [
+    "NikNakk/ffmpeg-aws-bento4": [
         "Other"
     ],
     "NirDiamant/GenAI_Agents": [
@@ -3989,6 +3992,9 @@
     "RonRothman/mtwsgi": [
         "Other"
     ],
+    "RooVetGit/Roo-Code": [
+        "Other"
+    ],
     "Roverr/rtsp-stream": [
         "Other"
     ],
@@ -4004,6 +4010,9 @@
     "RunaCapital/awesome-oss-alternatives": [
         "Other"
     ],
+    "Rushikeshnimkar/portfolio2025": [
+        "Other"
+    ],
     "RustPython/RustPython": [
         "Other"
     ],
@@ -4011,6 +4020,9 @@
         "Other"
     ],
     "RxLaboratory/DuME": [
+        "Other"
+    ],
+    "RyanFitzgerald/devportfolio": [
         "Other"
     ],
     "RyanMilligan/BrightScriptTools": [
@@ -4125,6 +4137,9 @@
         "Other"
     ],
     "SelfhostedPro/selfhosted_templates": [
+        "Other"
+    ],
+    "Semantic-Org/Semantic-UI-React": [
         "Other"
     ],
     "SeungheonOh/xrdm": [
@@ -5108,6 +5123,9 @@
     "active-video/subtitles": [
         "Other"
     ],
+    "actorFromCalifornia/AAVPlayer": [
+        "Other"
+    ],
     "ad/GithubListener": [
         "Other"
     ],
@@ -5280,6 +5298,9 @@
         "Other"
     ],
     "ai-boost/awesome-prompts": [
+        "Other"
+    ],
+    "ai-christianson/RA.Aid": [
         "Other"
     ],
     "ai-shifu/ChatALL": [
@@ -6308,6 +6329,9 @@
     "ashphy/jsonpath-online-evaluator": [
         "Other"
     ],
+    "ashutosh1919/masterPortfolio": [
+        "Other"
+    ],
     "ashwanijanghu/ExoPlayer-Offline": [
         "Other"
     ],
@@ -6369,6 +6393,9 @@
         "Other"
     ],
     "atinfo/awesome-test-automation": [
+        "Other"
+    ],
+    "atinux/content-wind": [
         "Other"
     ],
     "atlas-engineer/nyxt": [
@@ -7637,6 +7664,9 @@
     "charmbracelet/vhs": [
         "Other"
     ],
+    "chatboxai/chatbox": [
+        "Other"
+    ],
     "chathub-dev/chathub": [
         "Other"
     ],
@@ -7817,6 +7847,9 @@
     "ckotch47/gui_for_adb": [
         "Other"
     ],
+    "ckreiling/mcp-server-docker": [
+        "Other"
+    ],
     "claffin/cloudproxy": [
         "Other"
     ],
@@ -7971,6 +8004,9 @@
         "Other"
     ],
     "codestoryai/aide": [
+        "Other"
+    ],
+    "codewithsadee/vcard-personal-portfolio": [
         "Other"
     ],
     "codex-team/editor.js": [
@@ -8159,6 +8195,9 @@
     "crazyguitar/pysheeet": [
         "Other"
     ],
+    "creativetimofficial/argon-react-native": [
+        "Other"
+    ],
     "creativetimofficial/black-dashboard-django": [
         "Other"
     ],
@@ -8166,6 +8205,9 @@
         "Other"
     ],
     "creativetimofficial/ct-corporate-ui-dashboard-pro": [
+        "Other"
+    ],
+    "creativetimofficial/material-kit-react-native": [
         "Other"
     ],
     "creativetimofficial/purity-ui-dashboard": [
@@ -8999,6 +9041,9 @@
     "dmarmor/epichrome": [
         "Other"
     ],
+    "dmayboroda/minima": [
+        "Other"
+    ],
     "dmdhrumilmistry/pyhtools": [
         "Other"
     ],
@@ -9333,6 +9378,9 @@
         "Other"
     ],
     "e2b-dev/e2b-cookbook": [
+        "Other"
+    ],
+    "e2b-dev/fragments": [
         "Other"
     ],
     "e2b-dev/mcp-server": [
@@ -9819,9 +9867,6 @@
         "Other"
     ],
     "evgenyneu/Cosmos": [
-        "Other"
-    ],
-    "evilsh3ll/datahoarder-website-to-markdown": [
         "Other"
     ],
     "evoactivity/hls-proxy-docker": [
@@ -10874,6 +10919,9 @@
     "google/diff-match-patch": [
         "Other"
     ],
+    "google/docsy": [
+        "Other"
+    ],
     "google/emoji-scavenger-hunt": [
         "Other"
     ],
@@ -11049,6 +11097,9 @@
         "Other"
     ],
     "grobie/soundcloud2000": [
+        "Other"
+    ],
+    "grommet/grommet": [
         "Other"
     ],
     "groue/GRDB.swift": [
@@ -11358,6 +11409,9 @@
         "Other"
     ],
     "heppu/gkill": [
+        "Other"
+    ],
+    "heroui-inc/heroui": [
         "Other"
     ],
     "herrbischoff/awesome-macos-command-line": [
@@ -12014,6 +12068,9 @@
     "ithewei/libhv": [
         "Other"
     ],
+    "itsnitinr/vscode-portfolio": [
+        "Other"
+    ],
     "itsrifat/flask-celery-docker-scale": [
         "Other"
     ],
@@ -12138,9 +12195,6 @@
         "Other"
     ],
     "jamland/samplescope": [
-        "Other"
-    ],
-    "janhq/jan": [
         "Other"
     ],
     "janisdd/vscode-edit-csv": [
@@ -14834,10 +14888,16 @@
     "mem0ai/mem0": [
         "Other"
     ],
+    "mem0ai/mem0-mcp": [
+        "Other"
+    ],
     "mendableai/firecrawl": [
         "Other"
     ],
     "mendableai/firecrawl-mcp-server": [
+        "Other"
+    ],
+    "menloresearch/jan": [
         "Other"
     ],
     "mercari/Mew": [
@@ -15653,6 +15713,9 @@
     "myspaghetti/macos-virtualbox": [
         "Other"
     ],
+    "mythrantic/ollama-docker": [
+        "Other"
+    ],
     "mzur/gnome-shell-wsmatrix": [
         "Other"
     ],
@@ -16206,6 +16269,9 @@
         "Other"
     ],
     "nuxt/nuxt": [
+        "Other"
+    ],
+    "nuxt/ui": [
         "Other"
     ],
     "nvbn/thefuck": [
@@ -16814,6 +16880,9 @@
     "passingthru67/workspaces-to-dock": [
         "Other"
     ],
+    "passthesh3ll/datahoarder-website-to-markdown": [
+        "Other"
+    ],
     "patademahesh/Distributed-Video-Transcoding": [
         "Other"
     ],
@@ -17321,6 +17390,9 @@
     "pricingassistant/mrq": [
         "Other"
     ],
+    "primefaces/primereact": [
+        "Other"
+    ],
     "primefaces/primevue": [
         "Other"
     ],
@@ -17561,6 +17633,9 @@
     "quarkusio/quarkus": [
         "Other"
     ],
+    "quasarframework/quasar": [
+        "Other"
+    ],
     "quasarstream/PHP-FFmpeg-video-streaming": [
         "Other"
     ],
@@ -17787,6 +17862,9 @@
         "Other"
     ],
     "reHackable/scripts": [
+        "Other"
+    ],
+    "react-bootstrap/react-bootstrap": [
         "Other"
     ],
     "reactive-python/reactpy": [
@@ -18224,6 +18302,9 @@
     "rsnk96/Ubuntu-Setup-Scripts": [
         "Other"
     ],
+    "rsuite/rsuite": [
+        "Other"
+    ],
     "rsxdalv/tts-generation-webui": [
         "Other"
     ],
@@ -18374,6 +18455,9 @@
     "s5-dev/S5": [
         "Other"
     ],
+    "saadeghi/daisyui": [
+        "Other"
+    ],
     "saadpasta/developerFolio": [
         "Other"
     ],
@@ -18396,6 +18480,9 @@
         "Other"
     ],
     "sahin/serverless-youtube-dl": [
+        "Other"
+    ],
+    "said7388/developer-portfolio": [
         "Other"
     ],
     "sailist/potion": [
@@ -18426,6 +18513,9 @@
         "Other"
     ],
     "sambios/ffmpeg_transcoder": [
+        "Other"
+    ],
+    "sameerasw/sameerasw.com": [
         "Other"
     ],
     "sameersbn/docker-gitlab": [
@@ -19346,6 +19436,9 @@
     "soumyajiitt/Portfolio": [
         "Other"
     ],
+    "soumyajit4419/Portfolio": [
+        "Other"
+    ],
     "soundcloud-py/client-api": [
         "Other"
     ],
@@ -20009,6 +20102,9 @@
     "taglia3/ElasticTransition-ObjC": [
         "Other"
     ],
+    "tailwindlabs/headlessui": [
+        "Other"
+    ],
     "tal-tech/electron-playground": [
         "Other"
     ],
@@ -20378,6 +20474,9 @@
     "threestudio-project/threestudio": [
         "Other"
     ],
+    "thuliteio/doks": [
+        "Other"
+    ],
     "thyngster/roku-universal-analytics": [
         "Other"
     ],
@@ -20433,6 +20532,9 @@
         "Other"
     ],
     "tiwilliam/istatd": [
+        "Other"
+    ],
+    "tj-actions/changed-files": [
         "Other"
     ],
     "tj/commander.js": [
@@ -20909,6 +21011,9 @@
     "unosquare/ffmediaelement": [
         "Other"
     ],
+    "unovue/shadcn-vue": [
+        "Other"
+    ],
     "unpause-live/SwiftVideo": [
         "Other"
     ],
@@ -21000,9 +21105,6 @@
         "Other"
     ],
     "valeriomazzeo/fastlane-plugin-jira_transition": [
-        "Other"
-    ],
-    "valiantlynx/ollama-docker": [
         "Other"
     ],
     "vansante/go-ffprobe": [
@@ -21407,7 +21509,13 @@
     "vuejs/devtools-v6": [
         "Other"
     ],
+    "vuejs/vitepress": [
+        "Other"
+    ],
     "vuejs/vue": [
+        "Other"
+    ],
+    "vuejs/vuepress": [
         "Other"
     ],
     "vuesion/vuesion": [
@@ -21792,6 +21900,9 @@
         "Other"
     ],
     "withastro/astro": [
+        "Other"
+    ],
+    "withastro/starlight": [
         "Other"
     ],
     "withfig/autocomplete": [
@@ -22259,6 +22370,9 @@
     "zauberzeug/nicegui": [
         "Other"
     ],
+    "zcaceres/fetch-mcp": [
+        "Other"
+    ],
     "zdharma-continuum/zinit": [
         "Other"
     ],
@@ -22443,6 +22557,9 @@
         "Other"
     ],
     "zudochkin/awesome-newsletters": [
+        "Other"
+    ],
+    "zueai/mcp-manager": [
         "Other"
     ],
     "zufardhiyaulhaq/ngrok-operator": [
