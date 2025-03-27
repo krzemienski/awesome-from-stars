@@ -184,7 +184,7 @@
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI
-* [agno-agi/agno](https://github.com/agno-agi/agno): Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
+* [agno-agi/agno](https://github.com/agno-agi/agno): Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -986,7 +986,7 @@
 * [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix): All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 * [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages detailing developer setups, gear, software and configs.
 * [vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor): A curated list of Vapor-related awesome projects.
-* [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video):  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+* [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video): A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 * [sitkevij/awesome-video](https://github.com/sitkevij/awesome-video): A curated list of awesome video frameworks, libraries, specifications and software.
 * [tgc1997/Awesome-Video-Captioning](https://github.com/tgc1997/Awesome-Video-Captioning): A curated list of research papers in Video Captioning
 * [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion): A curated list of recent diffusion models for video generation, editing, and various other applications.
@@ -1696,7 +1696,7 @@
 * [python/cpython](https://github.com/python/cpython): The Python programming language
 * [nystudio107/craft-transcoder](https://github.com/nystudio107/craft-transcoder): Transcode video & audio files to various formats, and provide video thumbnails
 * [learnroku/crash-course](https://github.com/learnroku/crash-course): This course is intended to quickly get you up to speed on Roku SceneGraph. It's aimed at an audience of developers who are familiar with streaming video applications but are unfamiliar with Roku.
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 * [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 * [openshift-evangelists/crd-code-generation](https://github.com/openshift-evangelists/crd-code-generation): None
 * [matmoi/create-DASH-HLS](https://github.com/matmoi/create-DASH-HLS): A tutorial to generate fMp4 files compatible with dash and HLS
@@ -1852,7 +1852,7 @@
 * [ekreloff/Deep-Link-Tester-tvOS-](https://github.com/ekreloff/Deep-Link-Tester-tvOS-): None
 * [epiclabs-io/DeepAudioClassification](https://github.com/epiclabs-io/DeepAudioClassification): None
 * [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera): Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
-* [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.0 - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
+* [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 * [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 * [nagadit/DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux): DeepFaceLab is the leading software for creating deepfakes.
 * [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive): Real-time face swap for PC streaming or video calls
@@ -2920,6 +2920,7 @@
 * [gaphor/gaphor](https://github.com/gaphor/gaphor): Gaphor is the simple modeling tool
 * [gardener/gardener](https://github.com/gardener/gardener): Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 * [sdslabs/gasper](https://github.com/sdslabs/gasper): Your Cloud in a Binary
+* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 * [missingstudio/gateway](https://github.com/missingstudio/gateway): [deprecated] AI Gateway - core infrastructure stack for building production-ready AI Applications
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The best React-based framework with performance, scalability and security built in.
 * [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter): Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
@@ -3832,7 +3833,7 @@
 * [kevinadhiguna/jiyu](https://github.com/kevinadhiguna/jiyu): A repo for... whatever 🤷
 * [samirkumardas/jmuxer](https://github.com/samirkumardas/jmuxer): jMuxer - a simple javascript mp4 muxer that works in both browser and node environment.
 * [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel): Scrape job websites into a single spreadsheet with no duplicates.
-* [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk): Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+* [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk): AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 * [zthxxx/jovial](https://github.com/zthxxx/jovial): Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
 * [nareix/joy4](https://github.com/nareix/joy4): Golang audio/video library and streaming server
@@ -4301,6 +4302,7 @@
 * [oopsguy/m3u8](https://github.com/oopsguy/m3u8): A mini M3U8 downloader written in Golang for downloading and merging TS(Transport Stream) files. 一个迷你 M3U8 视频下载工具。
 * [poccariswet/m3u8-decoder](https://github.com/poccariswet/m3u8-decoder): pure go m3u8 decoder base of https://tools.ietf.org/html/rfc8216
 * [kevinrvaz/m3u8-dl](https://github.com/kevinrvaz/m3u8-dl): A CLI program to download a video played using a m3u8 playlist. Download it here - https://pypi.org/project/m3u8dl/0.5.2/
+* [williamchanrico/m3u8-download](https://github.com/williamchanrico/m3u8-download): Simple shell script to download video from m3u8 address as an mp4 video file using ffmpeg
 * [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader):  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 * [lcy0321/m3u8-downloader](https://github.com/lcy0321/m3u8-downloader): Download the ts files according to the given m3u8 file.
 * [llychao/m3u8-downloader](https://github.com/llychao/m3u8-downloader):  一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。
@@ -4643,7 +4645,7 @@
 * [MPEGDASHPlayer/MPEGDASH-iOS-Player](https://github.com/MPEGDASHPlayer/MPEGDASH-iOS-Player): The MPEG-DASH Player iOS Application
 * [thmatuza/MPEGDASHAVPlayerDemo](https://github.com/thmatuza/MPEGDASHAVPlayerDemo): AVPlayer demo to play MPEG-DASH
 * [sitkevij/mpn](https://github.com/sitkevij/mpn): Rust-based MPEG-4 box inspector with TOML output.
-* [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
+* [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line media player
 * [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android): #mpv-android @ libera.chat
 * [davidde/mpv-autosub](https://github.com/davidde/mpv-autosub): Fully automatic subtitle downloading for the MPV media player
 * [mpv-player/mpv-build](https://github.com/mpv-player/mpv-build): 🔨 Helper scripts to compile mpv on Linux
@@ -5741,7 +5743,7 @@
 * [yamadashy/repomix](https://github.com/yamadashy/repomix): 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 * [RepositoryStream/RepositoryStream](https://github.com/RepositoryStream/RepositoryStream): None
 * [thedillonb/RepoStumble](https://github.com/thedillonb/RepoStumble): A mobile application for viewing GitHub repositories in a fashion similar to StumbleUpon
-* [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText): Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (GPT-4, Claude Opus, Gemini, etc)
+* [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText): Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (ChatGPT, Claude, Gemini, etc)
 * [requestly/requestly](https://github.com/requestly/requestly): Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy.
 * [asmcos/requests](https://github.com/asmcos/requests): A golang HTTP client library. Salute to python requests.
 * [encode/requests-async](https://github.com/encode/requests-async): async-await support for `requests`. ✨ 🍰 ✨
@@ -5959,7 +5961,7 @@
 * [Eyevinn/safari-bitrate-monitor](https://github.com/Eyevinn/safari-bitrate-monitor): Simple approach to monitor bitrate changes in Safari, on the native video element
 * [Steams/salmon-media-server](https://github.com/Steams/salmon-media-server): Local media server utilizing ffmpeg to produce and serve HLS streams for music files (mpeg-dash and webrtc to come)
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of infrastructure and applications at scale.
-* [sameerasw/sameerasw.com](https://github.com/sameerasw/sameerasw.com): My portfolio re-design from scratch
+* [sameerasw/sameerasw.com](https://github.com/sameerasw/sameerasw.com): My place in the internet and here's all the magic :)
 * [the-xentropy/samlists](https://github.com/the-xentropy/samlists): Free, libre, effective, and data-driven wordlists for all!
 * [bitrise-io/sample-apps-ios-with-bitrise-yml](https://github.com/bitrise-io/sample-apps-ios-with-bitrise-yml): Simple iOS sample app with bitrise.yml
 * [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller): Repository for sample controller. Complements sample-apiserver
@@ -6408,7 +6410,7 @@
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [daltoniam/Starscream](https://github.com/daltoniam/Starscream): Websockets in swift for iOS and OSX
 * [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [Start9Labs/start-os](https://github.com/Start9Labs/start-os): Open source Linux distro optimized for self-hosting
+* [Start9Labs/start-os](https://github.com/Start9Labs/start-os): Open source, Linuc-based server OS optimized for self-hosting
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
 * [stackblitz/starters](https://github.com/stackblitz/starters): StackBlitz Starter Project
 * [keryc/starters-swarm](https://github.com/keryc/starters-swarm): Project generator Django + Celery, Angular or Stenciljs for Docker Compose (Dev), Docker Swarm, Kubernetes, Rancher Etc
@@ -7380,6 +7382,7 @@
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
 * [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web
 * [neosapience/web-skeleton](https://github.com/neosapience/web-skeleton): kubernetes + docker-compose + flask + celery + redis + mongo + frontend(any) + nginx
+* [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion): Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support. 
 * [shadowmoose/Web-Video-Editor](https://github.com/shadowmoose/Web-Video-Editor): Web-based video file Editor - Crop video/Adjust time. Supports in-browser conversion or exporting FFmpeg commands.
 * [MGPoirot/web2mp3](https://github.com/MGPoirot/web2mp3): web2mp3 - A scalable command line interface to download music from the internet with proper mp3 tagging and directory structuring
 * [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent): A WebDriver server for iOS and tvOS

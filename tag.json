@@ -3710,6 +3710,9 @@
     "Ponyboy47/TranscodeVideo": [
         "Other"
     ],
+    "Portkey-AI/gateway": [
+        "Other"
+    ],
     "PostHog/posthog": [
         "Other"
     ],
@@ -15314,6 +15317,9 @@
     "mlc-ai/mlc-llm": [
         "Other"
     ],
+    "mlc-ai/web-stable-diffusion": [
+        "Other"
+    ],
     "mli/autocut": [
         "Other"
     ],
@@ -21828,6 +21834,9 @@
         "Other"
     ],
     "williamFalcon/SwiftTryCatch": [
+        "Other"
+    ],
+    "williamchanrico/m3u8-download": [
         "Other"
     ],
     "williamsouef/VideoPlayerSwiftUI": [
