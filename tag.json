@@ -38,6 +38,9 @@
     "1Panel-dev/1Panel": [
         "Other"
     ],
+    "1Panel-dev/MaxKB": [
+        "Other"
+    ],
     "1ec5/read-only-coding": [
         "Other"
     ],
@@ -1872,6 +1875,9 @@
         "Other"
     ],
     "Eyevinn/srt-webrtc": [
+        "Other"
+    ],
+    "Eyevinn/srt-whep": [
         "Other"
     ],
     "Eyevinn/stream-limit-api": [
@@ -3845,6 +3851,9 @@
     "ROCm/MIVisionX": [
         "Other"
     ],
+    "RSSNext/Folo": [
+        "Other"
+    ],
     "RadekMolenda/org-notion": [
         "Other"
     ],
@@ -3882,6 +3891,9 @@
         "Other"
     ],
     "RandomCoderOrg/ubuntu-on-android": [
+        "Other"
+    ],
+    "Ranginang67/DarkFly-Tool": [
         "Other"
     ],
     "Raveler/ffmpeg-cpp": [
@@ -4188,6 +4200,9 @@
         "Other"
     ],
     "Showmax/sffmpeg": [
+        "Other"
+    ],
+    "Shubhamsaboo/awesome-llm-apps": [
         "Other"
     ],
     "SiaFoundation/renterd": [
@@ -9890,6 +9905,9 @@
     "excalidraw/excalidraw": [
         "Other"
     ],
+    "executeautomation/mcp-playwright": [
+        "Other"
+    ],
     "exegersha/network-benchmark": [
         "Other"
     ],
@@ -9921,6 +9939,9 @@
         "Other"
     ],
     "ezeoleaf/larry": [
+        "Other"
+    ],
+    "ezyang/codemcp": [
         "Other"
     ],
     "f/awesome-chatgpt-prompts": [
@@ -10242,6 +10263,9 @@
         "Other"
     ],
     "filipecalegario/awesome-generative-ai": [
+        "Other"
+    ],
+    "filipstrand/mflux": [
         "Other"
     ],
     "firebase/appquality-codelab-ios": [
@@ -12482,6 +12506,9 @@
     "jnv/lists": [
         "Other"
     ],
+    "joanrod/star-vector": [
+        "Other"
+    ],
     "joaomoreno/thyme": [
         "Other"
     ],
@@ -12531,6 +12558,12 @@
         "Other"
     ],
     "johnlinp/pdf-to-markdown": [
+        "Other"
+    ],
+    "johnmai-dev/ChatMLX": [
+        "Other"
+    ],
+    "johnmai-dev/NotebookMLX": [
         "Other"
     ],
     "johnno1962/Refactorator": [
@@ -13688,6 +13721,9 @@
     "larryaasen/dive": [
         "Other"
     ],
+    "lastmile-ai/mcp-agent": [
+        "Other"
+    ],
     "latelee/H264BSAnalyzer": [
         "Other"
     ],
@@ -14081,6 +14117,9 @@
     "lmoroney/tfbook": [
         "Other"
     ],
+    "lmstudio-ai/mlx-engine": [
+        "Other"
+    ],
     "lmxdawn/vue-admin-java": [
         "Other"
     ],
@@ -14367,6 +14406,9 @@
         "Other"
     ],
     "madingess/EasyApplyBot": [
+        "Other"
+    ],
+    "madroidmaq/mlx-omni-server": [
         "Other"
     ],
     "mafintosh/playback": [
@@ -15800,6 +15842,9 @@
     "naseemkullah/k8s-job-dispatcher": [
         "Other"
     ],
+    "nash-app/nash-electron": [
+        "Other"
+    ],
     "natelandau/shell-scripting-templates": [
         "Other"
     ],
@@ -16547,6 +16592,9 @@
     "openai/openai-cookbook": [
         "Other"
     ],
+    "openai/openai-responses-starter-app": [
+        "Other"
+    ],
     "openai/swarm": [
         "Other"
     ],
@@ -16890,6 +16938,9 @@
         "Other"
     ],
     "patademahesh/Distributed-Video-Transcoding": [
+        "Other"
+    ],
+    "patchy631/ai-engineering-hub": [
         "Other"
     ],
     "pathwaycom/llm-app": [
@@ -18035,6 +18086,9 @@
     "ricasiano/slave-api": [
         "Other"
     ],
+    "riccardomusmeci/mlx-llm": [
+        "Other"
+    ],
     "richadams/java-gracenote": [
         "Other"
     ],
@@ -18591,6 +18645,9 @@
         "Other"
     ],
     "sashabaranov/go-openai": [
+        "Other"
+    ],
+    "satnaing/shadcn-admin": [
         "Other"
     ],
     "satoshin21/Anima": [
@@ -19784,9 +19841,6 @@
     "stran9elet/Watermark-Remover": [
         "Other"
     ],
-    "stream-labs/desktop": [
-        "Other"
-    ],
     "streamaserver/streama": [
         "Other"
     ],
@@ -19797,6 +19851,9 @@
         "Other"
     ],
     "streamingriver/go-hls-proxy": [
+        "Other"
+    ],
+    "streamlabs/desktop": [
         "Other"
     ],
     "streamlinevideo/streamline": [
@@ -20696,6 +20753,9 @@
     "traefik/traefik": [
         "Other"
     ],
+    "transformerlab/transformerlab-app": [
+        "Other"
+    ],
     "transitive-bullshit/awesome-ffmpeg": [
         "Other"
     ],
@@ -21200,6 +21260,9 @@
     "ventoy/Ventoy": [
         "Other"
     ],
+    "veovera/enhanced-rtmp": [
+        "Other"
+    ],
     "vercel/ai": [
         "Other"
     ],
@@ -21510,6 +21573,9 @@
         "Other"
     ],
     "vuejs/awesome-vue": [
+        "Other"
+    ],
+    "vuejs/core": [
         "Other"
     ],
     "vuejs/devtools-v6": [
