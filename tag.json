@@ -515,9 +515,6 @@
     "Awesome-Server-Side-Swift/TheList": [
         "Other"
     ],
-    "Awesome-Windows/Awesome": [
-        "Other"
-    ],
     "Axel-Erfurt/ARD-Livestreams-for-Roku-Express": [
         "Other"
     ],
@@ -2702,9 +2699,6 @@
     "KRTirtho/spotube": [
         "Other"
     ],
-    "KSCHdsc/BlackCap-Grabber": [
-        "Other"
-    ],
     "Kademi/milton-aws": [
         "Other"
     ],
@@ -3194,7 +3188,7 @@
     "Miserlou/SoundScrape": [
         "Other"
     ],
-    "Mobile-Artificial-Intelligence/lcpp": [
+    "Mobile-Artificial-Intelligence/llama_sdk": [
         "Other"
     ],
     "Mobile-Artificial-Intelligence/maid": [
@@ -4247,10 +4241,10 @@
     "SimpleHomelab/AtoMiC-ToolKit-Docker": [
         "Other"
     ],
-    "SimpleHomelab/auto-traefik": [
+    "SimpleHomelab/Auto-Traefik": [
         "Other"
     ],
-    "SimpleHomelab/docker-traefik": [
+    "SimpleHomelab/Docker-Traefik": [
         "Other"
     ],
     "SimpleSSAI/SimpleSSAI": [
@@ -4940,9 +4934,6 @@
     "ZaneH/firetv-remote": [
         "Other"
     ],
-    "ZazerConer/YouTube-to-M3U8": [
-        "Other"
-    ],
     "ZeStream/zestream-server": [
         "Other"
     ],
@@ -4998,9 +4989,6 @@
         "Other"
     ],
     "aaaguirrep/offensive-docker": [
-        "Other"
-    ],
-    "aaamoon/copilot-gpt4-service": [
         "Other"
     ],
     "aaberg/sql2o": [
@@ -6053,9 +6041,6 @@
     "app-generator/django-material-dashboard": [
         "Other"
     ],
-    "app-generator/django-react-soft-dashboard": [
-        "Other"
-    ],
     "app-generator/django-soft-ui-dashboard": [
         "Other"
     ],
@@ -6078,6 +6063,9 @@
         "Other"
     ],
     "app-generator/intro": [
+        "Other"
+    ],
+    "app-generator/react-soft-dashboard-django": [
         "Other"
     ],
     "app-generator/rocket-django": [
@@ -6255,9 +6243,6 @@
         "Other"
     ],
     "armbues/SiLLM": [
-        "Other"
-    ],
-    "arpitjindal97/technology_books": [
         "Other"
     ],
     "arslancb/clipbucket": [
@@ -6710,9 +6695,6 @@
     "azukaar/Cosmos-Server": [
         "Other"
     ],
-    "b3log/symphony": [
-        "Other"
-    ],
     "b4skyx/dotfiles": [
         "Other"
     ],
@@ -7115,7 +7097,7 @@
     "blaCCkHatHacEEkr/PENTESTING-BIBLE": [
         "Other"
     ],
-    "blackhillsinfosec/Wifi-Forge": [
+    "blackhillsinfosec/WifiForge": [
         "Other"
     ],
     "blackjack4494/yt-dlc": [
@@ -11117,9 +11099,6 @@
     "greeneca/roku_builder_plugin_sample": [
         "Other"
     ],
-    "greenteabots/Ai-Soundcloudviewer-written-by-chatGPT": [
-        "Other"
-    ],
     "gregheo/gruvbox-theme-for-xcode": [
         "Other"
     ],
@@ -11475,9 +11454,6 @@
         "Other"
     ],
     "hoangv97/notiondb": [
-        "Other"
-    ],
-    "hoarder-app/hoarder": [
         "Other"
     ],
     "hobby-kube/guide": [
@@ -12335,6 +12311,9 @@
     "jekil/awesome-hacking": [
         "Other"
     ],
+    "jellyfin-archive/jellyfin-roku-legacy": [
+        "Other"
+    ],
     "jellyfin-archive/jellyfin-roku-original": [
         "Other"
     ],
@@ -12342,9 +12321,6 @@
         "Other"
     ],
     "jellyfin/jellyfin-androidx-media": [
-        "Other"
-    ],
-    "jellyfin/jellyfin-roku-legacy": [
         "Other"
     ],
     "jelmerdejong/flask-app-blueprint": [
@@ -12942,6 +12918,9 @@
         "Other"
     ],
     "kapitainsky/RcloneBrowser": [
+        "Other"
+    ],
+    "karakeep-app/karakeep": [
         "Other"
     ],
     "karambirov/GitHubSearch": [
@@ -15056,9 +15035,6 @@
     "micahhausler/container-transform": [
         "Other"
     ],
-    "michaelcunningham19/video-speech-recognition": [
-        "Other"
-    ],
     "michaelklishin/pantomime": [
         "Other"
     ],
@@ -15788,9 +15764,6 @@
     "nachifur/MulimgViewer": [
         "Other"
     ],
-    "nagadit/DeepFaceLab_Linux": [
-        "Other"
-    ],
     "nagare-media/ingest": [
         "Other"
     ],
@@ -15858,9 +15831,6 @@
         "Other"
     ],
     "nativefier/nativefier": [
-        "Other"
-    ],
-    "naveenland4/YouTube_to_m3u": [
         "Other"
     ],
     "navidrome/navidrome": [
@@ -16059,9 +16029,6 @@
         "Other"
     ],
     "nikp123/soundcloud-syncer": [
-        "Other"
-    ],
-    "nillbot/WiFi_Cracker": [
         "Other"
     ],
     "ninja-build/ninja": [
@@ -16889,9 +16856,6 @@
     "pallets/werkzeug": [
         "Other"
     ],
-    "pandora-next/deploy": [
-        "Other"
-    ],
     "pangyuteng/k8s-celery-autoscale": [
         "Other"
     ],
@@ -17166,12 +17130,6 @@
         "Other"
     ],
     "pilotpirxie/json-to-ffmpeg": [
-        "Other"
-    ],
-    "pineappleEA/Pineapple-Linux": [
-        "Other"
-    ],
-    "pineappleEA/pineapple-src": [
         "Other"
     ],
     "pinecone-wifi/pinecone": [
@@ -17505,9 +17463,6 @@
         "Other"
     ],
     "psf/black": [
-        "Other"
-    ],
-    "pshanmu3/dailymotion_to_m3u8": [
         "Other"
     ],
     "ptagr/google-cloud-storage-analyzer": [
@@ -19211,9 +19166,6 @@
     "singhkays/docker-ffmpeg-av1-libaom": [
         "Other"
     ],
-    "singhkshitij/MagicPrint-ECommerce-App-Android": [
-        "Other"
-    ],
     "sirredbeard/awesome-unix": [
         "Other"
     ],
@@ -20559,9 +20511,6 @@
         "Other"
     ],
     "tilt-dev/tilt": [
-        "Other"
-    ],
-    "timche/meru": [
         "Other"
     ],
     "timdonnelly/Advance": [
@@ -22376,9 +22325,6 @@
     "yuanqing/vdx": [
         "Other"
     ],
-    "yuanxiaosc/DeepImage-an-Image-to-Image-technology": [
-        "Other"
-    ],
     "yuhuili-lab/Tide": [
         "Other"
     ],
@@ -22581,6 +22527,9 @@
         "Other"
     ],
     "zntfdr/Selenops": [
+        "Other"
+    ],
+    "zoidsh/meru": [
         "Other"
     ],
     "zolinux/MediaArchiver": [
