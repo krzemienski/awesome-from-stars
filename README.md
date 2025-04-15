@@ -4148,7 +4148,7 @@
 * [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper): A library that scrapes Linkedin for user data
 * [zeshuaro/LinkedRW](https://github.com/zeshuaro/LinkedRW): A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file
 * [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev): A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 * [vk496/linset](https://github.com/vk496/linset): Evil Twin Attack Bash script
 * [dukebw/lintel](https://github.com/dukebw/lintel): A Python module to decode video frames directly, using the FFmpeg C API.
 * [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources): None
@@ -4418,7 +4418,7 @@
 * [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome): 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 * [raonetwo/MaximizeToWorkspace](https://github.com/raonetwo/MaximizeToWorkspace): Moves windows to new workspace when Maximized and moves them back when Unmaximized. Inspired by https://github.com/rliang/gnome-shell-extension-maximize-to-workspace with history support
 * [reHackable/maxio](https://github.com/reHackable/maxio): Companion daemon for the reMarkable™ paper tablet
-* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 💬 MaxKB is a ready-to-use AI chatbot that integrates Retrieval-Augmented Generation (RAG) pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
+* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 💬 MaxKB is a powerful and easy-to-use AI assistant that integrates RAG pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
 * [openebs-archive/maya](https://github.com/openebs-archive/maya): Manage Container Attached Storage (CAS) - Data Engines in Kubernetes
 * [jserv/mazu-editor](https://github.com/jserv/mazu-editor): a minimalist text editor with syntax highlight, copy/paste, and search
 * [minio/mc](https://github.com/minio/mc): Unix like utilities for object store
@@ -5064,7 +5064,7 @@
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 * [square/okhttp](https://github.com/square/okhttp): Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 * [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker): Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * [ollama-interface/Ollama-Gui](https://github.com/ollama-interface/Ollama-Gui): A GUI interface for Ollama
 * [NightTrek/Ollama-mcp](https://github.com/NightTrek/Ollama-mcp): None
