@@ -184,7 +184,7 @@
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI
-* [agno-agi/agno](https://github.com/agno-agi/agno): Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+* [agno-agi/agno](https://github.com/agno-agi/agno): Lightweight library for building Agents with memory, knowledge, tools and reasoning.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -1552,6 +1552,7 @@
 * [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview): CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
 * [codespaces-io/codespaces](https://github.com/codespaces-io/codespaces): Devops Workspaces in a Box
 * [brandonsaldan/codex](https://github.com/brandonsaldan/codex): A minimal genetic data explorer that processes all genetic information locally.
+* [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [sourcegraph/cody](https://github.com/sourcegraph/cody): Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
 * [rokibulislaam/colab-ffmpeg-cuda](https://github.com/rokibulislaam/colab-ffmpeg-cuda): FFmpeg build with CUDA support for Linux (especially for  Google Colab)
@@ -1820,7 +1821,7 @@
 * [passthesh3ll/datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown): None
 * [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator): Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 * [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-* [unsplash/datasets](https://github.com/unsplash/datasets): 🎁  5,400,000+ Unsplash images made available for research and machine learning
+* [unsplash/datasets](https://github.com/unsplash/datasets): 🎁  6,500,000+ Unsplash images made available for research and machine learning
 * [ishkawa/DataSourceKit](https://github.com/ishkawa/DataSourceKit): Declarative, testable data source of UICollectionView and UITableView.
 * [videolan/dav1d](https://github.com/videolan/dav1d): A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/
 * [tchapi/davis](https://github.com/tchapi/davis): 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 5, initially inspired by Baïkal.
@@ -2390,7 +2391,6 @@
 * [inaka/EventSource](https://github.com/inaka/EventSource): A simple Swift client library for the Server Sent Events (SSE)
 * [BoostIO/ever2boost](https://github.com/BoostIO/ever2boost): None
 * [Shampra/EvernoteToAnytype](https://github.com/Shampra/EvernoteToAnytype): Enex to JSON converter, for export Evernote to Anytype
-* [aiqinxuancai/EvernoteToNotionChrome](https://github.com/aiqinxuancai/EvernoteToNotionChrome): A tool to import Evernote into Notion, with images stored in Notion.
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui): Every front-end GUI client for ChatGPT, Claude, and other LLMs
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 * [alex8088/EvPlayer](https://github.com/alex8088/EvPlayer): Video player base on Electron
@@ -2801,7 +2801,7 @@
 * [cbrnix/Flatery](https://github.com/cbrnix/Flatery): Flatery is icon theme for linux in flat style licensed under the CC BY-NC-SA 3.0 
 * [dullage/flatnotes](https://github.com/dullage/flatnotes): A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 * [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX): An in-app debugging and exploration tool for iOS
-* [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch): Next-Generation full text search library for Browser and Node.js
+* [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch): Next-Generation full-text search library for Browser and Node.js
 * [apache/flink](https://github.com/apache/flink): Apache Flink
 * [facebook/flipper](https://github.com/facebook/flipper): A desktop debugging platform for mobile developers.
 * [grugnoymeme/flipperzero-GUI-wifi-cracker](https://github.com/grugnoymeme/flipperzero-GUI-wifi-cracker): GUI - Analyze WPA/WPA2 handshakes from FlipperZero's captured .pcaps to find out the WiFi Passwords.
@@ -3530,6 +3530,7 @@
 * [Eyevinn/html-player](https://github.com/Eyevinn/html-player): HTML5 Player with support for HLS, MPEG-DASH and Smooth Streaming
 * [Alir3z4/html2text](https://github.com/Alir3z4/html2text): Convert HTML to Markdown-formatted text.
 * [Eyevinn/html5-hls-player](https://github.com/Eyevinn/html5-hls-player): None
+* [aiqinxuancai/HTMLToNotion](https://github.com/aiqinxuancai/HTMLToNotion): A tool to process HTML exported from Evernote and import it into Notion. It can also process HTML from other sources and import it into Notion, solving the problem that images are referenced by URLs rather than stored in Notion.
 * [hishamhm/htop](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [swift-server/http](https://github.com/swift-server/http): :warning: Historical HTTP API - please use https://github.com/swift-server/async-http-client instead
 * [adimango/http-live-streaming-examples](https://github.com/adimango/http-live-streaming-examples):  A repository that contains a collection of samples of HTTP Live Streaming.
@@ -3587,7 +3588,7 @@
 * [willowtreeapps/Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS): In-app design review tool to inspect measurements, attributes, and animations.
 * [Hyperline/hyperline](https://github.com/Hyperline/hyperline): ✨ Status line plugin for Hyper ✨
 * [HasseNasse/HyperTheme](https://github.com/HasseNasse/HyperTheme): HyperTerm inspired IntelliJ IDEA theme with vivid syntaxcolors and a pitch black UI. Drools on the floor..
-* [markmead/hyperui](https://github.com/markmead/hyperui): Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+* [markmead/hyperui](https://github.com/markmead/hyperui): Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 * [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh): git flavored zsh
 * [hyprwm/Hypr](https://github.com/hyprwm/Hypr): Hypr is a tiling window manager written in modern C++.
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -3933,7 +3934,7 @@
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
 * [keploy/keploy](https://github.com/keploy/keploy): Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
-* [kestra-io/kestra](https://github.com/kestra-io/kestra): :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+* [kestra-io/kestra](https://github.com/kestra-io/kestra): :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
 * [androbility/keydroid](https://github.com/androbility/keydroid): Send keystrokes from the terminal to an Android device.  Requires adb.
 * [kubernetes-for-developers/kfd-celery](https://github.com/kubernetes-for-developers/kfd-celery): example celery worker and deployment specs for Kubernetes for Developers
@@ -4160,7 +4161,7 @@
 * [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit about a linux kernel
 * [EmperorPenguin18/linux-installer](https://github.com/EmperorPenguin18/linux-installer): Universal GNU+Linux installer script
 * [sp-hy/linux-intel-undervolt-gui](https://github.com/sp-hy/linux-intel-undervolt-gui): GUI frontend for undervolting intel CPUs on Linux. React / Electron powered.
-* [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat): The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. "Tested" in an Ubuntu 24.04 host.
+* [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat): The perfect emulation setup to study and develop the Linux kernel, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. "Tested" in an Ubuntu 24.04 host.
 * [corellium/linux-m1](https://github.com/corellium/linux-m1): Linux kernel source tree
 * [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver): None
 * [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface): Linux Kernel for Surface Devices
@@ -4418,7 +4419,7 @@
 * [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome): 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 * [raonetwo/MaximizeToWorkspace](https://github.com/raonetwo/MaximizeToWorkspace): Moves windows to new workspace when Maximized and moves them back when Unmaximized. Inspired by https://github.com/rliang/gnome-shell-extension-maximize-to-workspace with history support
 * [reHackable/maxio](https://github.com/reHackable/maxio): Companion daemon for the reMarkable™ paper tablet
-* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 💬 MaxKB is a powerful and easy-to-use AI assistant that integrates RAG pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
+* [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
 * [openebs-archive/maya](https://github.com/openebs-archive/maya): Manage Container Attached Storage (CAS) - Data Engines in Kubernetes
 * [jserv/mazu-editor](https://github.com/jserv/mazu-editor): a minimalist text editor with syntax highlight, copy/paste, and search
 * [minio/mc](https://github.com/minio/mc): Unix like utilities for object store
@@ -4570,6 +4571,7 @@
 * [adad184/MMPulseView](https://github.com/adad184/MMPulseView): None
 * [artsy/mobile](https://github.com/artsy/mobile): Mobile Team TODO
 * [golang/mobile](https://github.com/golang/mobile): [mirror] Go on Mobile
+* [lichess-org/mobile](https://github.com/lichess-org/mobile): Lichess mobile app v2
 * [raindropio/mobile](https://github.com/raindropio/mobile): Official Raindrop.io mobile app for iOS and Android
 * [standardnotes/mobile](https://github.com/standardnotes/mobile): [Moved to https://github.com/standardnotes/app] Standard Notes for iOS and Android - https://standardnotes.com
 * [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg): FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
@@ -5101,6 +5103,9 @@
 * [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt): Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
 * [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+* [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app): Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
+* [openai/openai-fm](https://github.com/openai/openai-fm): Code for openai.fm, a demo for the OpenAI Speech API
+* [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents): This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 * [openai/openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app): Starter app to build with the OpenAI Responses API
 * [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -5768,8 +5773,8 @@
 * [speakeasy-api/rest-template-go](https://github.com/speakeasy-api/rest-template-go): Template go lang service to showcase REST best practices. Built by the Speakeasy team.
 * [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program
 * [Restofire/Restofire](https://github.com/Restofire/Restofire): Restofire is a protocol oriented networking client for Alamofire
+* [OkoyaUsman/ReStreamer](https://github.com/OkoyaUsman/ReStreamer): A java app for restreaming live stream videos to another HLS source using FFMPEG
 * [datarhei/restreamer](https://github.com/datarhei/restreamer): The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
-* [mokoshalb/ReStreamer](https://github.com/mokoshalb/ReStreamer): A java app for restreaming live stream videos to another HLS source using FFMPEG
 * [shaunschembri/restreamer](https://github.com/shaunschembri/restreamer): Go application/library that re-streams an HLS stream through a Writer interface
 * [datarhei/restreamer-edge](https://github.com/datarhei/restreamer-edge): Experimental stage hog for the Datarhei/Restreamer
 * [whittinghamj/restreamer-production](https://github.com/whittinghamj/restreamer-production): None
@@ -5798,7 +5803,7 @@
 * [rwf2/Rocket](https://github.com/rwf2/Rocket): A web framework for Rust.
 * [app-generator/rocket-django](https://github.com/app-generator/rocket-django): Rocket Django - Free Starter styled with Tailwind/Flowbite | App-Generator.dev
 * [apache/rocketmq](https://github.com/apache/rocketmq): Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
-* [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes): AI-powered markdown note taking app - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
+* [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes): AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 * [diego3g/rocketredis](https://github.com/diego3g/rocketredis): A beautiful Redis GUI :fire: (under development)
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [rockstor/rockstor-core](https://github.com/rockstor/rockstor-core): Linux/BTRFS based Network Attached Storage(NAS)

@@ -3491,6 +3491,9 @@
     "OWASP/Nettacker": [
         "Other"
     ],
+    "OkoyaUsman/ReStreamer": [
+        "Other"
+    ],
     "OlafenwaMoses/ImageAI": [
         "Other"
     ],
@@ -5330,7 +5333,7 @@
     "aiortc/aioquic": [
         "Other"
     ],
-    "aiqinxuancai/EvernoteToNotionChrome": [
+    "aiqinxuancai/HTMLToNotion": [
         "Other"
     ],
     "airbnb/BuckSample": [
@@ -13916,6 +13919,9 @@
     "lichess-org/lila": [
         "Other"
     ],
+    "lichess-org/mobile": [
+        "Other"
+    ],
     "lieff/minimp4": [
         "Other"
     ],
@@ -15413,9 +15419,6 @@
     "mojtaba-arvin/video-service": [
         "Other"
     ],
-    "mokoshalb/ReStreamer": [
-        "Other"
-    ],
     "molnarr2/jEncoder": [
         "Other"
     ],
@@ -16550,6 +16553,9 @@
     "openai/chatgpt-retrieval-plugin": [
         "Other"
     ],
+    "openai/codex": [
+        "Other"
+    ],
     "openai/jukebox": [
         "Other"
     ],
@@ -16557,6 +16563,15 @@
         "Other"
     ],
     "openai/openai-cookbook": [
+        "Other"
+    ],
+    "openai/openai-cua-sample-app": [
+        "Other"
+    ],
+    "openai/openai-fm": [
+        "Other"
+    ],
+    "openai/openai-realtime-agents": [
         "Other"
     ],
     "openai/openai-responses-starter-app": [
