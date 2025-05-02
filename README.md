@@ -110,7 +110,7 @@
 # Other
 
 * [Deadshot0x7/007-TheBond](https://github.com/Deadshot0x7/007-TheBond): This Script will help you to gather information about your victim or friend.
-* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Coding articles to level up your development skills
 * [Jnzzi/4464_L3-CDM](https://github.com/Jnzzi/4464_L3-CDM): None
 * [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code): 500 AI Machine learning Deep learning Computer vision NLP Projects with code
@@ -154,6 +154,8 @@
 * [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit): A Better ADB GUI and More Than a ADB GUI
 * [sunwicked/adbGUI](https://github.com/sunwicked/adbGUI): Desktop client for adb commands inspired from adb idea plugin for android studio 
 * [s3h10r/AddToReminiscence-Chromium-Extension](https://github.com/s3h10r/AddToReminiscence-Chromium-Extension): This extension adds a button to your toolbar which lets you add the current page you're browsing to your Reminiscence instance.
+* [chongdashu/adk-made-simple](https://github.com/chongdashu/adk-made-simple): Agent Development Kit (ADK) Made Simple - Code for the tutorial series - Focusing on Practical use cases for Agents
+* [google/adk-samples](https://github.com/google/adk-samples): A collection of sample agents built with Agent Development (ADK) 
 * [GPUOpen-LibrariesAndSDKs/ADLX](https://github.com/GPUOpen-LibrariesAndSDKs/ADLX): AMD Device Library eXtra
 * [app-generator/admin-dashboards](https://github.com/app-generator/admin-dashboards): Admin Dashboards - Open-Source and Free | App-Generator.dev
 * [adminfaces/admin-template](https://github.com/adminfaces/admin-template): JSF responsive admin template based on Bootstrap and AdminLTE 
@@ -184,7 +186,7 @@
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI
-* [agno-agi/agno](https://github.com/agno-agi/agno): Lightweight library for building Agents with memory, knowledge, tools and reasoning.
+* [agno-agi/agno](https://github.com/agno-agi/agno): Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -333,6 +335,7 @@
 * [zsh-users/antigen](https://github.com/zsh-users/antigen): The plugin manager for zsh.
 * [panjf2000/ants](https://github.com/panjf2000/ants): 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 * [orucanil/ANWExpandScrollView](https://github.com/orucanil/ANWExpandScrollView): Expand - Collapse Scroll View - Animate With Pinch Gesture
+* [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader): Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 
 * [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable): Type-erased wrappers for Encodable, Decodable, and Codable values
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
 * [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -598,7 +601,7 @@
 * [AOMediaCodec/av1-rtp-spec](https://github.com/AOMediaCodec/av1-rtp-spec): Current draft (HTML): https://aomediacodec.github.io/av1-rtp-spec/
 * [AOMediaCodec/av1-spec](https://github.com/AOMediaCodec/av1-spec): AV1 Bitstream & Decoding Process Specification
 * [porcino/Av1ador](https://github.com/porcino/Av1ador): AV1/VVC/HEVC/VP9/H264 parallel encoder GUI for FFmpeg with preview/comparison
-* [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an): Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
+* [rust-av/Av1an](https://github.com/rust-av/Av1an): Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 * [Kidsnd274/Av1anStaxRipWrapper](https://github.com/Kidsnd274/Av1anStaxRipWrapper): Wrapper script to use Av1an with StaxRip
 * [luziferius/av1transcoder](https://github.com/luziferius/av1transcoder): Transcode video files to the AV1 format using ffmpeg and libaom-av1.
 * [cztomsik/ava](https://github.com/cztomsik/ava): All-in-one desktop app for running LLMs locally.
@@ -836,7 +839,7 @@
 * [liwf616/awesome-live-stream](https://github.com/liwf616/awesome-live-stream): Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中
 * [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding): All things livecoding
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
-* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
+* [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc): 🚀🚀🚀A collection of some awesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 * [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 * [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
 * [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code): Awesome Low Code platforms, vendors, tools and resources
@@ -1063,7 +1066,7 @@
 * [awslabs/aws-video-transcriber](https://github.com/awslabs/aws-video-transcriber): This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions which allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
 * [aws-samples/aws-vt-baseami-pipeline](https://github.com/aws-samples/aws-vt-baseami-pipeline): AWS EC2/ECS/EKS reference AMI build scripts using packer.
 * [erankitcs/AWS_VideoshareWebsiteServerless](https://github.com/erankitcs/AWS_VideoshareWebsiteServerless): This project is aiming to build a serverless website on AWS for video sharing.
-* [laithalsaadoon/awsbatch-ffmpeg](https://github.com/laithalsaadoon/awsbatch-ffmpeg): None
+* [theagenticguy/awsbatch-ffmpeg](https://github.com/theagenticguy/awsbatch-ffmpeg): None
 * [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs): AWS CloudWatch logs for Humans™
 * [ade21/awsome-dns](https://github.com/ade21/awsome-dns): Use AWS Route53 with your own domains as your private dynamic dns service.
 * [mekhti/awsome-live-streamin](https://github.com/mekhti/awsome-live-streamin): All about live streaming & video processing
@@ -1333,7 +1336,7 @@
 * [Carthage/Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa
 * [intel/cartwheel-ffmpeg](https://github.com/intel/cartwheel-ffmpeg): Intel developer staging area for unmerged upstream patch contributions to FFmpeg
 * [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS): CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-* [casibase/casibase](https://github.com/casibase/casibase): ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+* [casibase/casibase](https://github.com/casibase/casibase): ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
 * [castjs/castjs](https://github.com/castjs/castjs): 📺 Chromecast Sender Library for the Browser
 * [xat/castnow](https://github.com/xat/castnow): commandline chromecast player
 * [googlecast/CastReceiver](https://github.com/googlecast/CastReceiver): Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features.
@@ -1462,6 +1465,7 @@
 * [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
+* [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
@@ -1523,7 +1527,6 @@
 * [kubernetes/code-generator](https://github.com/kubernetes/code-generator): Generators for kube-like API types
 * [haseeb-heaven/code-interpreter](https://github.com/haseeb-heaven/code-interpreter): An innovative open-source Code Interpreter with (GPT,Gemini,Claude,LLaMa) models.
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
-* [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt): Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [codiga/code-snippets-manager](https://github.com/codiga/code-snippets-manager): Codiga Code Snippets Manager
 * [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt): A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -1537,6 +1540,7 @@
 * [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [salesforce/CodeGen](https://github.com/salesforce/CodeGen): CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 * [vektah/CodeGlance](https://github.com/vektah/CodeGlance): Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime
+* [CodeGuide-dev/codeguide-starter-pro](https://github.com/CodeGuide-dev/codeguide-starter-pro): None
 * [zhengjunbase/codehelper.generator](https://github.com/zhengjunbase/codehelper.generator): source code of codehelper.generator
 * [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub): CodeHub is an iOS application written using Xamarin
 * [semanser/codel](https://github.com/semanser/codel): ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
@@ -1627,6 +1631,7 @@
 * [webtor-io/content-transcoder](https://github.com/webtor-io/content-transcoder): Transcodes HTTP-stream to HLS
 * [atinux/content-wind](https://github.com/atinux/content-wind): A lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
 * [trilogy-group/contently-videojs-annotation-comments](https://github.com/trilogy-group/contently-videojs-annotation-comments): A plugin for video.js to add support for timeline moment/range comments and annotations
+* [upstash/context7](https://github.com/upstash/context7): Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
 * [contour-terminal/contour](https://github.com/contour-terminal/contour): Modern C++ Terminal Emulator
@@ -1658,6 +1663,7 @@
 * [shin-kinoshita/cookiecutter-react-electron](https://github.com/shin-kinoshita/cookiecutter-react-electron): cookiecutter template of react electron app
 * [NorakGithub/cookiecutter-simple-django](https://github.com/NorakGithub/cookiecutter-simple-django): Template for create the minimized Django Project.
 * [m-x-k/cookiecutter-spring-boot](https://github.com/m-x-k/cookiecutter-spring-boot): Cookiecutter for standard java spring boot gradle application
+* [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 * [radianttap/Coordinator](https://github.com/radianttap/Coordinator): Implementation of Coordinators app design pattern.
 * [github/copilot-docs](https://github.com/github/copilot-docs): Documentation for GitHub Copilot
 * [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode): The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -1764,7 +1770,7 @@
 * [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai): The simplest way to run LLaMA on your local machine
 * [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini): DALL·E Mini - Generate images from a text prompt
 * [django/daphne](https://github.com/django/daphne): Django Channels HTTP/WebSocket server
-* [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+* [dapr/dapr](https://github.com/dapr/dapr): Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 * [hardpixel/dark-variant](https://github.com/hardpixel/dark-variant): GNOME Shell extension to apply dark window decorations.
 * [Ranginang67/DarkFly-Tool](https://github.com/Ranginang67/DarkFly-Tool): DarkFly tool V.4.0
 * [Rokin05/darkine-kde](https://github.com/Rokin05/darkine-kde): Darkine KDE - Theme for KDE Plasma 5 desktop > Mirror of https://git.rokin.in/Rokin/darkine-kde
@@ -2132,6 +2138,7 @@
 * [DockStation/dockstation](https://github.com/DockStation/dockstation): DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 * [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch): Automated Container Management and Notifications w/ beautiful WebUI
 * [docling-project/docling](https://github.com/docling-project/docling): Get your documents ready for gen AI
+* [docmost/docmost](https://github.com/docmost/docmost): Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 * [jklukas/docs-on-gh-pages](https://github.com/jklukas/docs-on-gh-pages): Sample of deploying docs to gh-pages branch in CI
 * [arc53/DocsGPT](https://github.com/arc53/DocsGPT): DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
 * [google/docsy](https://github.com/google/docsy): Hugo theme for open source documentation
@@ -2219,7 +2226,7 @@
 * [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn): A Dead Simple VPN.
 * [eebean2/DTConsole](https://github.com/eebean2/DTConsole): An on-device console for debugging purpose
 * [ebu/dtt2ip](https://github.com/ebu/dtt2ip): Broadcast to IP conversion for Wifi indoor coverage
-* [dubinc/dub](https://github.com/dubinc/dub): Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+* [dubinc/dub](https://github.com/dubinc/dub): The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 * [apache/dubbo](https://github.com/apache/dubbo): The java implementation of Apache Dubbo. An RPC and microservice framework.
 * [apache/dubbo-samples](https://github.com/apache/dubbo-samples): samples for Apache Dubbo
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
@@ -2318,6 +2325,7 @@
 * [Eyevinn/elemental](https://github.com/Eyevinn/elemental): Python Client for Elemental On-Premises Appliances
 * [nytimes/elemental-live-client](https://github.com/nytimes/elemental-live-client): JS library to communicate with Elemental live API.
 * [OwenEdwards/ElephantsDreamHLS](https://github.com/OwenEdwards/ElephantsDreamHLS): Script and manifest files to create an HLS program containing the Elephants Dream video with captions, subtitles, and audio description
+* [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp): The official ElevenLabs MCP server
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system that tells you *why* it happened
 * [FSecureLABS/Ellume-COVID-Test_Research-Files](https://github.com/FSecureLABS/Ellume-COVID-Test_Research-Files): None
@@ -2396,6 +2404,7 @@
 * [alex8088/EvPlayer](https://github.com/alex8088/EvPlayer): Video player base on Electron
 * [esaygiver/EVPlayer](https://github.com/esaygiver/EVPlayer): EVPlayer is a customized UIView with AVPlayer, which makes video playback extremely easy with its customizable usage options
 * [crunchyroll/evs-s3helper](https://github.com/crunchyroll/evs-s3helper): A sample sidecar application that uses role based creds to talk to S3
+* [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server): Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * [exaile/exaile](https://github.com/exaile/exaile): 🎶 Cross-platform music player
 * [oatpp/example-hls-media-stream](https://github.com/oatpp/example-hls-media-stream): Example project how-to build HLS-streaming server using oat++ Async-API.
 * [muxinc/example-ios-live-streaming](https://github.com/muxinc/example-ios-live-streaming): An example app for live streaming from an iOS device using the Mux live streaming service.
@@ -2522,6 +2531,7 @@
 * [valeriomazzeo/fastlane-plugin-jira_transition](https://github.com/valeriomazzeo/fastlane-plugin-jira_transition): Apply a JIRA transition to issues mentioned in the changelog
 * [SandyChapman/fastlane-plugin-jira_versions](https://github.com/SandyChapman/fastlane-plugin-jira_versions): A Fastlane plugin for managing JIRA releases / versions
 * [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center): 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
+* [jlowin/fastmcp](https://github.com/jlowin/fastmcp): 🚀 The fast, Pythonic way to build MCP servers and clients
 * [fastogt/fastocloud](https://github.com/fastogt/fastocloud): FastoCloud COMMUNITY version
 * [fastogt/fastocloud_env](https://github.com/fastogt/fastocloud_env): Build scripts for FastoCloud services
 * [fastogt/fastonosql](https://github.com/fastogt/fastonosql): FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
@@ -2690,7 +2700,7 @@
 * [aliakseis/FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer): Simple FFmpeg video player
 * [ArifAltiok26/FFmpegpp](https://github.com/ArifAltiok26/FFmpegpp): Lightweight ffmpeg wrapper for modern cpp
 * [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer): Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
-* [debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial): FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）
+* [debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial): FFmpeg6 step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）
 * [Sub-7/FFmpegUI](https://github.com/Sub-7/FFmpegUI): FFmpegUI is a graphical web interface for the famous FFmpeg.
 * [lijian736/ffmpegutils](https://github.com/lijian736/ffmpegutils): A simple FFMPEG encoder, decoder and transcoder utils
 * [mbalamat/ffmpegWasmHlsToMp4](https://github.com/mbalamat/ffmpegWasmHlsToMp4): Demo of using ffmpegwasm to covert an HLS playlist to mp4, in the browser.
@@ -3006,6 +3016,7 @@
 * [muan/github-dashboard](https://github.com/muan/github-dashboard): [Web extension] Filter events on github.com activity dashboard.
 * [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira): DEPRECATED (moved to private repository) - Connect your code with your project management in Jira
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy TOC creation for GitHub README.md
+* [github/github-mcp-server](https://github.com/github/github-mcp-server): GitHub's official MCP Server
 * [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts): GitHub script samples for automation
 * [HsunGong/github-notion](https://github.com/HsunGong/github-notion): None
 * [krzemienski/github-notion-star](https://github.com/krzemienski/github-notion-star): None
@@ -3068,6 +3079,7 @@
 * [anantn/glendix](https://github.com/anantn/glendix): Porting the good stuff from Plan 9 to Linux
 * [ziutek/glib](https://github.com/ziutek/glib): Go bindings for GLib type system.
 * [thias/glim](https://github.com/thias/glim): GRUB Live ISO Multiboot
+* [global-agent-hackathon/global-agent-hackathon-may-2025](https://github.com/global-agent-hackathon/global-agent-hackathon-may-2025): A month-long, open-source AI Agent Hackathon — open to all builders and dreamers working on agents, RAG, tool use, and multi-agent systems.
 * [3d0c/gmf](https://github.com/3d0c/gmf): Go Media Framework
 * [intel/gmmlib](https://github.com/intel/gmmlib): None
 * [delphiki/gnome-airpods-battery-status](https://github.com/delphiki/gnome-airpods-battery-status): A Gnome Shell Extension to display the battery levels of your Airpods (and case) in the top bar.
@@ -3235,7 +3247,7 @@
 * [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer): Software design & development with AI
 * [MachWheel/GPT-to-FFmpeg](https://github.com/MachWheel/GPT-to-FFmpeg): Converta e manipule qualquer arquivo de áudio ou vídeo suportado pelo ffmpeg através de prompts com o ChatGPT; interface amigável; suporte a digitação por voz
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 * [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts): Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 * [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
 * [alfianlosari/GPTEncoder](https://github.com/alfianlosari/GPTEncoder): Swift BPE Encoder/Decoder for OpenAI GPT Models. A programmatic interface for tokenizing text for OpenAI ChatGPT API.
@@ -3262,6 +3274,7 @@
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
 * [prometheus/graphite_exporter](https://github.com/prometheus/graphite_exporter): Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
+* [getzep/graphiti](https://github.com/getzep/graphiti): Build Real-Time Knowledge Graphs for AI Agents
 * [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins. 
 * [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor): 📺 Visual Editor & GraphQL IDE. 
 * [hasura/graphql-engine](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -3275,7 +3288,7 @@
 * [Grive/grive](https://github.com/Grive/grive): an open source Linux client for Google Drive
 * [grommet/grommet](https://github.com/grommet/grommet): a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 * [teejee2008/groot](https://github.com/teejee2008/groot): Chroot helper utility for all Linux distributions
-* [grpc/grpc](https://github.com/grpc/grpc): The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+* [grpc/grpc](https://github.com/grpc/grpc): C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 * [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway): gRPC to JSON proxy generator following the gRPC HTTP spec
 * [google/grumpy](https://github.com/google/grumpy): Grumpy is a Python to Go source code transcompiler and runtime.
 * [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme): A GTK theme based on the Gruvbox colour palette. 
@@ -3450,7 +3463,7 @@
 * [imsanthosh/HLS-Stream-health-monitoring-tool](https://github.com/imsanthosh/HLS-Stream-health-monitoring-tool): HLS stream health monitoring utility tool provides an report of live HLS stream. This utility tool checks the all available bitrate streams and generates the report in html file format. HTML file is viewable in all devices phone/tablet/PC. Utility tool also recognizes #EXT-X-DISCONTINUITY tag in the stream. Validation will be done at the sub-mili seconds level. This tool also recongises custom markers in the stream, and validates marker position in all the available bitrates. This will save your time in finding stream issues just by looking at the report. This utility tool is created for on mac system and generated report can be viewable in all sytems/phones
 * [tozastation/HLS-Streaming](https://github.com/tozastation/HLS-Streaming): HLSを使ってみたです．
 * [muxinc/hls-subtitles-vexillographer](https://github.com/muxinc/hls-subtitles-vexillographer): A simple proxy service which changes subtitles flags in HLS manifests.
-* [Eyevinn/hls-to-dash](https://github.com/Eyevinn/hls-to-dash): Open source packager and tools to rewrap live HLS to live MPEG DASH
+* [Eyevinn/hls-to-dash](https://github.com/Eyevinn/hls-to-dash): ⛔️DEPRECATED Open source packager and tools to rewrap live HLS to live MPEG DASH
 * [egg-bread/hls-to-mp4](https://github.com/egg-bread/hls-to-mp4): Download HLS videos as MP4 (WebVTT for caption download optional)
 * [theserverfault/HLS-transcoding-nodejs](https://github.com/theserverfault/HLS-transcoding-nodejs): This is a sample example repository to implement video transcoding for buffered bandwidth based streaming videos in Nodejs using Apple HLS + m3u8 to stream over HTTP.
 * [jordicenzano/hls-trimming-frame-accuracy](https://github.com/jordicenzano/hls-trimming-frame-accuracy): JS Code that given a group of HLS chunks, a start timestamp, and end timestamp it creates one MP4 that contains the original V/A frame accuracy trimmed and perfectly aligned
@@ -3634,6 +3647,7 @@
 * [automotive-hub/imvision-ads-gen](https://github.com/automotive-hub/imvision-ads-gen): Immersive Ads
 * [voltrue2/in-app-purchase](https://github.com/voltrue2/in-app-purchase): A Node.js module for in-App-Purchase for iOS, Android, Amazon and Windows.
 * [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger): A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
+* [elie222/inbox-zero](https://github.com/elie222/inbox-zero): AI personal assistant for email. Open source app to help you reach inbox zero fast.
 * [dpfried/incoder](https://github.com/dpfried/incoder): Generative model for code infilling and synthesis
 * [apache/incubator-seata](https://github.com/apache/incubator-seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
@@ -3668,7 +3682,7 @@
 * [klickpages/insomnia-plugin-repo-sync](https://github.com/klickpages/insomnia-plugin-repo-sync): None
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: Install.md with dotfiles and etc
 * [lmlsna/install-scripts](https://github.com/lmlsna/install-scripts): Ubuntu install scripts
-* [zqb7/install-software](https://github.com/zqb7/install-software): One-click installation of common software
+* [gamelife2025/install-software](https://github.com/gamelife2025/install-software): One-click installation of common software
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
 * [ubports/installer-configs](https://github.com/ubports/installer-configs): Install configurations for the UBports Installer
 * [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
@@ -3873,7 +3887,7 @@
 * [openai/jukebox](https://github.com/openai/jukebox): Code for the paper "Jukebox: A Generative Model for Music"
 * [dreemurrs-embedded/Jumpdrive](https://github.com/dreemurrs-embedded/Jumpdrive): Flash/Rescue SD Card image for PinePhone and PineTab. This is NOT a bootloader
 * [JumpFm/jumpfm](https://github.com/JumpFm/jumpfm): A file manager that lets you jump.
-* [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+* [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 * [mezbaul-h/june](https://github.com/mezbaul-h/june): Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and  Coqui TTS Toolkit
 * [jupyter/jupyter](https://github.com/jupyter/jupyter): Jupyter metapackage for installation, docs and chat
 * [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab
@@ -3934,7 +3948,7 @@
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
 * [keploy/keploy](https://github.com/keploy/keploy): Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
-* [kestra-io/kestra](https://github.com/kestra-io/kestra): :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+* [kestra-io/kestra](https://github.com/kestra-io/kestra): :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
 * [androbility/keydroid](https://github.com/androbility/keydroid): Send keystrokes from the terminal to an Android device.  Requires adb.
 * [kubernetes-for-developers/kfd-celery](https://github.com/kubernetes-for-developers/kfd-celery): example celery worker and deployment specs for Kubernetes for Developers
@@ -4341,6 +4355,7 @@
 * [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku): None
 * [georgejecook/maestro-roku-sample](https://github.com/georgejecook/maestro-roku-sample): sample applications for maestro-roku, application framework for roku
 * [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout): A collection view layout capable of laying out views in vertically scrolling grids and lists.
+* [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp): It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 * [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio): ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
 * [HamidrezaAmz/MagicalExoPlayer](https://github.com/HamidrezaAmz/MagicalExoPlayer): The Easiest Way To Play/Stream Video And Audio Using Google ExoPlayer In Your Android Application
 * [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord): Super Awesome Easy Fetching for Core Data!
@@ -4357,7 +4372,7 @@
 * [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode): Collection of malware source code for a variety of platforms in an array of different programming languages.
 * [Comcast/mamba](https://github.com/Comcast/mamba): Mamba is a Swift iOS, tvOS and macOS framework to parse, validate and write HTTP Live Streaming (HLS) data.
 * [state-spaces/mamba](https://github.com/state-spaces/mamba): Mamba SSM architecture
-* [TIGER-AI-Lab/MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH): Code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning" (ICLR 2024)
+* [TIGER-AI-Lab/MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH): Code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning" [ICLR 2024]
 * [mautilus/MAMUT](https://github.com/mautilus/MAMUT): #1 Roku Unit Testing System by Mautilus
 * [jaimevalero/managing-awesome-lists](https://github.com/jaimevalero/managing-awesome-lists): Utilities to find awesome resources
 * [manasesjesus/manasesjesus](https://github.com/manasesjesus/manasesjesus): Awesome readme profile automatically updated by GitHub Actions
@@ -4424,12 +4439,16 @@
 * [jserv/mazu-editor](https://github.com/jserv/mazu-editor): a minimalist text editor with syntax highlight, copy/paste, and search
 * [minio/mc](https://github.com/minio/mc): Unix like utilities for object store
 * [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template): This is the template I use to start new full-stack projects.
+* [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp): A MCP server implementation for hyperbrowser
 * [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent): Build effective agents using Model Context Protocol and simple workflow patterns
+* [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use): None
+* [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go): A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 * [zueai/mcp-manager](https://github.com/zueai/mcp-manager): simple web ui to manage mcp (model context protocol) servers in the claude app
 * [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright): Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 * [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server): Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
 * [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase): Allow LLMs to control a browser with Browserbase and Stagehand
 * [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker): MCP server for Docker
+* [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch): MCP web research server (give Claude real-time info from the web)
 * [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf): Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 * [Cobertos/md2notion](https://github.com/Cobertos/md2notion): A better Notion.so Markdown importer
 * [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
@@ -4484,7 +4503,7 @@
 * [Intel-Media-SDK/MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK): The Intel® Media SDK
 * [iliya-gr/mediasegmenter](https://github.com/iliya-gr/mediasegmenter): HLS media segmenter.
 * [demuxed/megameetup.video](https://github.com/demuxed/megameetup.video): None
-* [mem0ai/mem0](https://github.com/mem0ai/mem0): The Memory layer for AI Agents
+* [mem0ai/mem0](https://github.com/mem0ai/mem0): Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
 * [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp): None
 * [pulsejet/memories](https://github.com/pulsejet/memories): Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 * [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
@@ -4496,11 +4515,11 @@
 * [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli): Command line tool for the Mermaid library
 * [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 * [foyzulkarim/mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming): MERN Video Streaming is a cutting-edge, open-source platform for video streaming, offering a comprehensive, full-stack solution utilizing the latest MERN stack technologies.
-* [zoidsh/meru](https://github.com/zoidsh/meru): :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+* [zoidsh/meru](https://github.com/zoidsh/meru): :postbox: Gmail desktop app for macOS, Windows & Linux
 * [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager
 * [novareto/messages_manager](https://github.com/novareto/messages_manager): FastAPI backend with a vuejs frontend for admin messages management
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
-* [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+* [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
@@ -4514,7 +4533,7 @@
 * [filipstrand/mflux](https://github.com/filipstrand/mflux): A MLX port of FLUX based on the Huggingface Diffusers implementation.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
-* [micro/micro](https://github.com/micro/micro): A microservices platform 
+* [micro/micro](https://github.com/micro/micro): A Go microservices toolkit
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
 * [canonical/microk8s](https://github.com/canonical/microk8s): MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 * [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel): MicroKernel是一个客户端微内核架构
@@ -5088,6 +5107,7 @@
 * [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant): OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 * [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service): Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 * [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas): 📃 A better UX for chat, writing content, and coding with LLMs.
+* [ymichael/open-codex](https://github.com/ymichael/open-codex): Lightweight coding agent that runs in your terminal
 * [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use): AI computer use powered by open source LLMs and E2B Desktop Sandbox
 * [fossasia/open-event-server](https://github.com/fossasia/open-event-server): The Open Event Organizer Server to Manage Events https://test-api.eventyay.com
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
@@ -5115,6 +5135,7 @@
 * [opencast/opencast](https://github.com/opencast/opencast): The free and open source solution for automated video capture and distribution at scale.
 * [opencast/opencast-docker](https://github.com/opencast/opencast-docker): Dockerfiles for Opencast
 * [imoneoi/openchat](https://github.com/imoneoi/openchat): OpenChat: Advancing Open-source Language Models with Imperfect Data
+* [opencode-ai/opencode](https://github.com/opencode-ai/opencode): None
 * [opencv/opencv](https://github.com/opencv/opencv): Open Source Computer Vision Library
 * [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream): OpenCV FFMpeg Live Video Stream over RTMP protocol.
 * [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader): Indexes open directories
@@ -5364,6 +5385,9 @@
 * [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android): Pocket Casts Android 🎧
 * [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios): Pocket Casts iOS app 🎧
 * [Re4son/Pocket-Kali-live-build](https://github.com/Re4son/Pocket-Kali-live-build): Debian live build for the Pocket-Kali
+* [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
+* [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow): Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+* [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge): Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 * [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo): Go microservice template for Kubernetes
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop): Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
@@ -5678,9 +5702,9 @@
 * [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x): Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 * [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 * [taniyow/react-portfolio](https://github.com/taniyow/react-portfolio): A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!
-* [app-generator/react-soft-dashboard-django](https://github.com/app-generator/react-soft-dashboard-django): Django React - Soft UI Dashboard (Free Product) | AppSeed
+* [app-generator/react-soft-dashboard-django](https://github.com/app-generator/react-soft-dashboard-django): React Soft Django - Full-Stack Starter crafted on top of Soft Dashboard, React and Django API | App-Generator.dev
 * [napthedev/react-tuby](https://github.com/napthedev/react-tuby): A React video player library with YouTube-like UI
-* [raphamorim/react-tv](https://github.com/raphamorim/react-tv): [ Unmaintained due to raphamorim/react-ape ] React Renderer for low memory applications
+* [raphamorim/react-tv](https://github.com/raphamorim/react-tv): React Renderer for low memory applications
 * [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React video player for TV devices, with customisable buttons and arrow-key navigation. The component can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
 * [PhiloInc/ReactBS](https://github.com/PhiloInc/ReactBS): React-like framework for Roku
 * [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -5890,6 +5914,7 @@
 * [rokucommunity/ropm](https://github.com/rokucommunity/ropm): A package manager for the Roku platform.
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
+* [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered multi-agent builder
 * [tgogos/rpi_ffmpeg](https://github.com/tgogos/rpi_ffmpeg): FFmpeg on Raspberry Pi 3 Model B with h264 support
 * [code-vicar/rpm](https://github.com/code-vicar/rpm): Roku package manager
 * [rq/rq](https://github.com/rq/rq): Simple job queues for Python
@@ -6069,6 +6094,7 @@
 * [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer): Script collection to setup production-ready Seafile server installations with HTTPS
 * [xwmx/search.sh](https://github.com/xwmx/search.sh): A command line search multi-tool.
 * [apasccon/SearchTextField](https://github.com/apasccon/SearchTextField): UITextField subclass with autocompletion suggestions list
+* [searxng/searxng](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 * [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [oslabs-beta/seeql](https://github.com/oslabs-beta/seeql): see your database in a new way
 * [segmentio/segment-proxy](https://github.com/segmentio/segment-proxy): Proxies requests to the Segment CDN and Tracking API.
@@ -6152,6 +6178,7 @@
 * [tnfe/shida](https://github.com/tnfe/shida): 《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或Maka 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
+* [mattzcarey/shippie](https://github.com/mattzcarey/shippie): an extensible code review agent 🚢
 * [xAlien95/shortcut-preview](https://github.com/xAlien95/shortcut-preview): A React component to preview iOS Shortcuts
 * [a2/shortcuts-swift](https://github.com/a2/shortcuts-swift): Write Shortcuts in Playgrounds
 * [ColdGrub1384/ShortWebCore](https://github.com/ColdGrub1384/ShortWebCore): Run automations on Web Views (iOS)
@@ -6227,7 +6254,7 @@
 * [maaslalani/slides](https://github.com/maaslalani/slides): Terminal based presentation tool
 * [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
 * [slidevjs/slidev-vscode](https://github.com/slidevjs/slidev-vscode): VS Code extension for Slidev
-* [slint-ui/slint](https://github.com/slint-ui/slint): Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+* [slint-ui/slint](https://github.com/slint-ui/slint): Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 * [mergesort/Slope](https://github.com/mergesort/Slope): A simpler way to implement gradients on iOS.
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 * [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast): PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
@@ -6236,7 +6263,7 @@
 * [dotneet/smart-chatbot-ui](https://github.com/dotneet/smart-chatbot-ui): An open source ChatGPT UI.
 * [OpenVisualCloud/Smart-City-Sample](https://github.com/OpenVisualCloud/Smart-City-Sample): The smart city reference pipeline shows how to integrate various media building blocks, with analytics powered by the OpenVINO™ Toolkit, for traffic or stadium sensing, analytics and management tasks.
 * [piskvorky/smart_open](https://github.com/piskvorky/smart_open): Utils for streaming large files (S3, HDFS, gzip, bz2...)
-* [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming): 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下150~300ms)。
+* [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming): 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(延迟低至100~300ms)。
 * [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins.
 * [luebke-dev/smbios-thermal-ctl-gnome-ext](https://github.com/luebke-dev/smbios-thermal-ctl-gnome-ext): Gnome-Shell Extension for setting smbios thermal modes.
 * [artyshko/smd](https://github.com/artyshko/smd): Spotify Music Downloader
@@ -6246,6 +6273,7 @@
 * [amzn/smoke-framework-application-generate](https://github.com/amzn/smoke-framework-application-generate): Code generator to generate SmokeFramework-based applications from service models.
 * [amzn/smoke-framework-examples](https://github.com/amzn/smoke-framework-examples): Sample applications showing the usage of the SmokeFramework and related libraries.
 * [smol-rs/smol](https://github.com/smol-rs/smol): A small and fast async runtime for Rust
+* [huggingface/smolagents](https://github.com/huggingface/smolagents): 🤗 smolagents: a barebones library for agents that think in python code.
 * [jayjays66/smooothstreams.roku](https://github.com/jayjays66/smooothstreams.roku): None
 * [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer): Free Media Player for Windows, Linux and Mac OS with YouTube support.
 * [christianhans/sn-gruvbox-dark-theme](https://github.com/christianhans/sn-gruvbox-dark-theme): Gruvbox Dark Theme for Standard Notes
@@ -6347,7 +6375,7 @@
 * [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [schollz/spotifydownload](https://github.com/schollz/spotifydownload): A dependency-free Spotify playlist downloader that should just work
 * [zenangst/Spots](https://github.com/zenangst/Spots): :bamboo: Spots is a cross-platform view controller framework for building component-based UIs
-* [KRTirtho/spotube](https://github.com/KRTirtho/spotube): 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+* [KRTirtho/spotube](https://github.com/KRTirtho/spotube): 🎧 Open source music client! Available for both desktop & mobile!
 * [MengTo/Spring](https://github.com/MengTo/Spring): A library to simplify iOS animations in Swift.
 * [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot): Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 * [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin): Admin UI for administration of spring boot applications
@@ -6425,7 +6453,7 @@
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [daltoniam/Starscream](https://github.com/daltoniam/Starscream): Websockets in swift for iOS and OSX
 * [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [Start9Labs/start-os](https://github.com/Start9Labs/start-os): Linux server OS optimized for self-hosting
+* [Start9Labs/start-os](https://github.com/Start9Labs/start-os): A graphical server OS optimized for self-hosting
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
 * [stackblitz/starters](https://github.com/stackblitz/starters): StackBlitz Starter Project
 * [keryc/starters-swarm](https://github.com/keryc/starters-swarm): Project generator Django + Celery, Angular or Stenciljs for Docker Compose (Dev), Docker Swarm, Kubernetes, Rancher Etc
@@ -6486,7 +6514,7 @@
 * [streamlit/streamlit](https://github.com/streamlit/streamlit): Streamlit — A faster way to build and share data apps.
 * [video-dev/streamlyser](https://github.com/video-dev/streamlyser): An exploration into synthetic HLS and DASH monitoring, and conformance testing.
 * [Neeraj319/streammmm](https://github.com/Neeraj319/streammmm): A twitch like platform.
-* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): SRT/RTMP/RTMPS live streaming libraries for Android
+* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): Multiprotocol (SRT, RTMP and others) live streaming libraries for Android
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
 * [grafov/streamsurfer](https://github.com/grafov/streamsurfer): Software for monitoring of HTTP video streams.
@@ -6507,9 +6535,10 @@
 * [active-video/subtitles](https://github.com/active-video/subtitles): AV Platform MPEG DASH subtitles
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
+* [kortix-ai/suna](https://github.com/kortix-ai/suna): Suna - Open Source Generalist AI Agent
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
 * [supabase/supabase](https://github.com/supabase/supabase): The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-* [supabase/supabase-swift](https://github.com/supabase/supabase-swift): A Swift client for Supabase
+* [supabase/supabase-swift](https://github.com/supabase/supabase-swift): A Swift client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. 
 * [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity): Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 * [dehatanes/super-useful-notion-cli](https://github.com/dehatanes/super-useful-notion-cli): Criando uma comand line interface SÚPER ÚTIL para quem usa Notion :)
 * [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -6533,7 +6562,7 @@
 * [kyegomez/swarms](https://github.com/kyegomez/swarms): The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 * [swc-project/swc](https://github.com/swc-project/swc): Rust-based platform for the Web
 * [swc-project/swc-playground](https://github.com/swc-project/swc-playground): The SWC playground.
-* [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
+* [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
 * [EliverLara/Sweet](https://github.com/EliverLara/Sweet): Light and dark colorful Gtk3.20+ theme
 * [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 * [agens-no/swiff](https://github.com/agens-no/swiff): Human readable time diffs on lines of output when running e.g. build commands like fastlane
@@ -6660,6 +6689,7 @@
 * [design-first/system-designer](https://github.com/design-first/system-designer): A low-code development platform for creating systems 🇺🇦#standwithUkraine
 * [design-first/system-designer-electron](https://github.com/design-first/system-designer-electron): System Designer for macOS, Windows & Linux
 * [aaronpowell/system-init](https://github.com/aaronpowell/system-init): None
+* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 * [pop-os/system76-driver](https://github.com/pop-os/system76-driver): System76 Driver for Pop!_OS
 * [pop-os/system76-power](https://github.com/pop-os/system76-power): Power profile management for Linux
 * [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler): Auto-configure CFS and process priorities for improved desktop responsiveness
@@ -7035,7 +7065,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 4, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
@@ -7060,6 +7090,7 @@
 * [duliodenis/userdefaults-wrapper](https://github.com/duliodenis/userdefaults-wrapper): This is a Swift / SwiftUI property wrapper that simplifies working with UserDefaults, allowing developers to use properties that automatically sync with UserDefaults.
 * [omaralbeik/UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore): Why not use UserDefaults to store Codable objects 😉
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
+* [astral-sh/uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
 * [encode/uvicorn](https://github.com/encode/uvicorn): An ASGI web server, for Python. 🦄
 * [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker): Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 * [FDH2/UxPlay](https://github.com/FDH2/UxPlay): AirPlay Unix mirroring server
@@ -7585,6 +7616,7 @@
 * [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 * [aslanyanhaik/youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): youtube iOS app template written in swift 5
 * [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
+* [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 * [dangdungcntt/youtube-stream-url](https://github.com/dangdungcntt/youtube-stream-url): Get youtube video url (included copyright music video)
 * [benmoose39/YouTube_to_m3u](https://github.com/benmoose39/YouTube_to_m3u): Grabs m3u from YouTube live.
 * [alexeichhorn/YouTubeKit](https://github.com/alexeichhorn/YouTubeKit): YouTube video and audio extractor for iOS, watchOS, visionOS, tvOS and macOS

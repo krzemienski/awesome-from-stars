@@ -47,6 +47,9 @@
     "1hanzla100/developer-portfolio": [
         "Other"
     ],
+    "21st-dev/magic-mcp": [
+        "Other"
+    ],
     "22bulbs/brom": [
         "Other"
     ],
@@ -405,6 +408,9 @@
         "Other"
     ],
     "Anuradha2018/VideoContentPlatformwithAngular": [
+        "Other"
+    ],
+    "Anxcye/anx-reader": [
         "Other"
     ],
     "AppFlowy-IO/AppFlowy": [
@@ -861,6 +867,9 @@
         "Other"
     ],
     "CodeEditApp/CodeEdit": [
+        "Other"
+    ],
+    "CodeGuide-dev/codeguide-starter-pro": [
         "Other"
     ],
     "CodeHubApp/CodeHub": [
@@ -2052,6 +2061,9 @@
         "Other"
     ],
     "FormulaMonks/llm-benchmarker-suite": [
+        "Other"
+    ],
+    "FoundationAgents/MetaGPT": [
         "Other"
     ],
     "Foxboron/sbctl": [
@@ -4079,6 +4091,9 @@
     "Saif807380/gh-topics-scraper": [
         "Other"
     ],
+    "Saik0s/mcp-browser-use": [
+        "Other"
+    ],
     "Samsung/HbbPlayer": [
         "Other"
     ],
@@ -4533,6 +4548,12 @@
         "Other"
     ],
     "The-Art-of-Hacking/h4cker": [
+        "Other"
+    ],
+    "The-Pocket/PocketFlow": [
+        "Other"
+    ],
+    "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge": [
         "Other"
     ],
     "The-Z-Labs/linux-exploit-suggester": [
@@ -6377,6 +6398,9 @@
     "asticode/go-astits": [
         "Other"
     ],
+    "astral-sh/uv": [
+        "Other"
+    ],
     "astralapp/astral": [
         "GitHub"
     ],
@@ -7724,6 +7748,9 @@
     "chojnac/NotionSwift": [
         "Other"
     ],
+    "chongdashu/adk-made-simple": [
+        "Other"
+    ],
     "chrippa/livestreamer": [
         "Other"
     ],
@@ -8115,6 +8142,9 @@
         "Other"
     ],
     "coolguruji/soundcloud-mp3-downloader-api": [
+        "Other"
+    ],
+    "coollabsio/coolify": [
         "Other"
     ],
     "coolsnowwolf/lede": [
@@ -9107,6 +9137,9 @@
     "docling-project/docling": [
         "Other"
     ],
+    "docmost/docmost": [
+        "Other"
+    ],
     "docsifyjs/awesome-docsify": [
         "Other"
     ],
@@ -9575,6 +9608,9 @@
     "elementary/wallpapers": [
         "Other"
     ],
+    "elevenlabs/elevenlabs-mcp": [
+        "Other"
+    ],
     "eli-schwartz/calibre-installer": [
         "Other"
     ],
@@ -9582,6 +9618,9 @@
         "Other"
     ],
     "eliapasquali/power-profile-switcher": [
+        "Other"
+    ],
+    "elie222/inbox-zero": [
         "Other"
     ],
     "elipapa/markdown-cv": [
@@ -9881,6 +9920,9 @@
     "ex3ndr/llama-coder": [
         "Other"
     ],
+    "exa-labs/exa-mcp-server": [
+        "Other"
+    ],
     "exaile/exaile": [
         "Other"
     ],
@@ -9912,6 +9954,9 @@
         "Other"
     ],
     "exyte/Macaw": [
+        "Other"
+    ],
+    "eyaltoledano/claude-task-master": [
         "Other"
     ],
     "eyecuvision/bumblebee": [
@@ -10520,6 +10565,9 @@
     "galio-org/galio": [
         "Other"
     ],
+    "gamelife2025/install-software": [
+        "Other"
+    ],
     "ganeshh123/notion-pdf-export": [
         "Other"
     ],
@@ -10560,9 +10608,6 @@
         "Other"
     ],
     "gedzeppelin/monitor-window-switcher": [
-        "Other"
-    ],
-    "geekan/MetaGPT": [
         "Other"
     ],
     "geekcomputers/Python": [
@@ -10655,6 +10700,9 @@
     "getumbrel/umbrel-community-app-store": [
         "Other"
     ],
+    "getzep/graphiti": [
+        "Other"
+    ],
     "ggml-org/llama.cpp": [
         "Other"
     ],
@@ -10739,6 +10787,9 @@
     "github/gh-actions-importer": [
         "Other"
     ],
+    "github/github-mcp-server": [
+        "Other"
+    ],
     "githubhaohao/LearnFFmpeg": [
         "Other"
     ],
@@ -10773,6 +10824,9 @@
         "Other"
     ],
     "glideapps/quicktype-xcode": [
+        "Other"
+    ],
+    "global-agent-hackathon/global-agent-hackathon-may-2025": [
         "Other"
     ],
     "globocom/database-as-a-service": [
@@ -10911,6 +10965,9 @@
         "Other"
     ],
     "google/GTMAppAuth": [
+        "Other"
+    ],
+    "google/adk-samples": [
         "Other"
     ],
     "google/ai_video_dubbing": [
@@ -11576,6 +11633,9 @@
     "huggingface/lerobot": [
         "Other"
     ],
+    "huggingface/smolagents": [
+        "Other"
+    ],
     "huggingface/swift-coreml-diffusers": [
         "Other"
     ],
@@ -11640,6 +11700,9 @@
         "Other"
     ],
     "hynek/structlog": [
+        "Other"
+    ],
+    "hyperbrowserai/mcp": [
         "Other"
     ],
     "hyperium/hyper": [
@@ -12462,6 +12525,9 @@
         "Other"
     ],
     "jliljebl/flowblade": [
+        "Other"
+    ],
+    "jlowin/fastmcp": [
         "Other"
     ],
     "jmcantrell/bashful": [
@@ -13301,6 +13367,9 @@
     "korosuke613/gh-user-stars": [
         "Other"
     ],
+    "kortix-ai/suna": [
+        "Other"
+    ],
     "koutto/pi-pwnbox-rogueap": [
         "Other"
     ],
@@ -13662,9 +13731,6 @@
         "Other"
     ],
     "lafleurdeboum/servicewall": [
-        "Other"
-    ],
-    "laithalsaadoon/awsbatch-ffmpeg": [
         "Other"
     ],
     "lakinduakash/linux-wifi-hotspot": [
@@ -14579,6 +14645,9 @@
     "marhkb/pods": [
         "Other"
     ],
+    "mark3labs/mcp-go": [
+        "Other"
+    ],
     "markboard-io/markboard": [
         "Other"
     ],
@@ -14646,9 +14715,6 @@
         "Other"
     ],
     "massCodeIO/massCode": [
-        "Other"
-    ],
-    "master-of-zen/Av1an": [
         "Other"
     ],
     "masterking32/python-rtmp-server": [
@@ -14741,7 +14807,7 @@
     "mattpaletta/docker-xcbuild": [
         "Other"
     ],
-    "mattzcarey/code-review-gpt": [
+    "mattzcarey/shippie": [
         "Other"
     ],
     "matvp91/indigo-player": [
@@ -15746,6 +15812,9 @@
     "mzur/gnome-shell-wsmatrix": [
         "Other"
     ],
+    "mzxrai/mcp-webresearch": [
+        "Other"
+    ],
     "n-thumann/IPTV-ReStream": [
         "Other"
     ],
@@ -16607,6 +16676,9 @@
     "opencoconut/webvtt-ruby": [
         "Other"
     ],
+    "opencode-ai/opencode": [
+        "Other"
+    ],
     "opencontainers/runc": [
         "Other"
     ],
@@ -17253,6 +17325,9 @@
         "Other"
     ],
     "poccariswet/m3u8-decoder": [
+        "Other"
+    ],
+    "pocketbase/pocketbase": [
         "Other"
     ],
     "pockethook/player": [
@@ -18302,6 +18377,9 @@
     "rovo89/XposedBridge": [
         "Other"
     ],
+    "rowboatlabs/rowboat": [
+        "Other"
+    ],
     "rpetersen29/roku-slack-app": [
         "Other"
     ],
@@ -18399,6 +18477,9 @@
         "Other"
     ],
     "rursache/vscode-swift-linuxserver-mod": [
+        "Other"
+    ],
+    "rust-av/Av1an": [
         "Other"
     ],
     "rust-av/ffms2-rs": [
@@ -18771,6 +18852,9 @@
         "Other"
     ],
     "seanpm2001/Learn-BrightScript": [
+        "Other"
+    ],
+    "searxng/searxng": [
         "Other"
     ],
     "sebj/iOS-Shortcuts-Reference": [
@@ -20351,6 +20435,9 @@
     "tgrosinger/advanced-tables-obsidian": [
         "Other"
     ],
+    "th-ch/youtube-music": [
+        "Other"
+    ],
     "thanos-io/thanos": [
         "Other"
     ],
@@ -20373,6 +20460,9 @@
         "Other"
     ],
     "theREDspace/Roku-JWTLib": [
+        "Other"
+    ],
+    "theagenticguy/awsbatch-ffmpeg": [
         "Other"
     ],
     "theahmadov/NIVOS": [
@@ -21066,6 +21156,9 @@
         "Other"
     ],
     "upscayl/upscayl": [
+        "Other"
+    ],
+    "upstash/context7": [
         "Other"
     ],
     "upx/upx": [
@@ -22031,6 +22124,9 @@
     "x1wins/CW-OVP": [
         "Other"
     ],
+    "x1xhlol/system-prompts-and-models-of-ai-tools": [
+        "Other"
+    ],
     "xAlien95/shortcut-preview": [
         "Other"
     ],
@@ -22293,6 +22389,9 @@
         "Other"
     ],
     "ymgenesis/AudioTool": [
+        "Other"
+    ],
+    "ymichael/open-codex": [
         "Other"
     ],
     "yoheimuta/RxMusicPlayer": [
@@ -22563,9 +22662,6 @@
         "Other"
     ],
     "zplug/zplug": [
-        "Other"
-    ],
-    "zqb7/install-software": [
         "Other"
     ],
     "zsh-users/antigen": [
