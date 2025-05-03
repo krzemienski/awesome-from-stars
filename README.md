@@ -4515,7 +4515,7 @@
 * [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli): Command line tool for the Mermaid library
 * [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 * [foyzulkarim/mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming): MERN Video Streaming is a cutting-edge, open-source platform for video streaming, offering a comprehensive, full-stack solution utilizing the latest MERN stack technologies.
-* [zoidsh/meru](https://github.com/zoidsh/meru): :postbox: Gmail desktop app for macOS, Windows & Linux
+* [zoidsh/meru](https://github.com/zoidsh/meru): :postbox: Gmail desktop app for macOS, Windows & Linux (Formerly Gmail Desktop)
 * [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager
 * [novareto/messages_manager](https://github.com/novareto/messages_manager): FastAPI backend with a vuejs frontend for admin messages management
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
