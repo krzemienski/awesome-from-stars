@@ -1025,7 +1025,7 @@
     "CristianCardosoA/installSwiftCentos": [
         "Other"
     ],
-    "CrypticSignal/AV-converter": [
+    "CrypticSignal/av-converter": [
         "Other"
     ],
     "CrypticSignal/better-ffmpeg-progress": [
@@ -2424,6 +2424,9 @@
         "Other"
     ],
     "InderKumarRathore/DeviceUtil": [
+        "Other"
+    ],
+    "InditexTech/mcp-server-simulator-ios-idb": [
         "Other"
     ],
     "IngeoSDK/ingeo-ios-sdk": [
@@ -4640,6 +4643,9 @@
     "ToolJet/ToolJet": [
         "Other"
     ],
+    "Toolbase-AI/toolbase": [
+        "Other"
+    ],
     "TorbenCapiau/Twitch-Clips-Downloader": [
         "Other"
     ],
@@ -5568,9 +5574,6 @@
         "Other"
     ],
     "alfred-workflows/awesome-alfred-workflows": [
-        "Other"
-    ],
-    "algorithm-visualizer/algorithm-visualizer": [
         "Other"
     ],
     "ali-vilab/VGen": [
@@ -7145,6 +7148,9 @@
     "bloc97/Anime4K": [
         "Other"
     ],
+    "block/goose": [
+        "Other"
+    ],
     "blockcypher/explorer": [
         "Other"
     ],
@@ -8642,6 +8648,9 @@
     "dbgate/dbgate": [
         "Other"
     ],
+    "dcSpark/mcp-dockmaster": [
+        "Other"
+    ],
     "dcordero/FocusTvButton": [
         "Other"
     ],
@@ -8817,9 +8826,6 @@
         "Other"
     ],
     "desireevl/awesome-quantum-computing": [
-        "Other"
-    ],
-    "desjare/tabarnak": [
         "Other"
     ],
     "desktop/desktop": [
@@ -9351,9 +9357,6 @@
         "Other"
     ],
     "dutchcoders/transfer.sh": [
-        "Other"
-    ],
-    "dvecy/WifiAttack": [
         "Other"
     ],
     "dvershinin/apt-to-dnf": [
@@ -10169,12 +10172,6 @@
     "fatedier/frp": [
         "Other"
     ],
-    "fatih-yavuz/links.dev": [
-        "Other"
-    ],
-    "fatih-yavuz/my-links": [
-        "Other"
-    ],
     "fauxpilot/fauxpilot": [
         "Other"
     ],
@@ -10182,9 +10179,6 @@
         "Other"
     ],
     "fboulnois/stable-diffusion-docker": [
-        "Other"
-    ],
-    "fbritoferreira/m3u8-parser": [
         "Other"
     ],
     "fcambus/nginx-resources": [
@@ -13457,6 +13451,9 @@
     "krzemienski/developerFolio": [
         "Other"
     ],
+    "krzemienski/djs-agents": [
+        "Other"
+    ],
     "krzemienski/encodarr": [
         "Other"
     ],
@@ -13500,6 +13497,9 @@
         "Other"
     ],
     "krzemienski/scdl": [
+        "Other"
+    ],
+    "krzemienski/video-mosaic-dreamscape": [
         "Other"
     ],
     "krzysztofzablocki/LifetimeTracker": [
@@ -14328,6 +14328,9 @@
         "Other"
     ],
     "lukaszliniewicz/Pandrator": [
+        "Other"
+    ],
+    "luminati-io/brightdata-mcp": [
         "Other"
     ],
     "luong-komorebi/Awesome-Linux-Software": [
@@ -15452,6 +15455,9 @@
     "mobile-dev-inc/Maestro": [
         "Other"
     ],
+    "mobile-next/mobile-mcp": [
+        "Other"
+    ],
     "mobile-shell/mosh": [
         "Other"
     ],
@@ -16490,6 +16496,9 @@
     "ohoachuck/wwdc-downloader": [
         "Other"
     ],
+    "ok2xx/links.dev": [
+        "Other"
+    ],
     "okikio/inthistweet": [
         "Other"
     ],
@@ -16992,6 +17001,9 @@
         "Other"
     ],
     "patchy631/ai-engineering-hub": [
+        "Other"
+    ],
+    "pathintegral-institute/mcpm.sh": [
         "Other"
     ],
     "pathwaycom/llm-app": [
@@ -17717,6 +17729,9 @@
     "qmlbook/qmlbook": [
         "Other"
     ],
+    "qpd-v/mcp-DEEPwebresearch": [
+        "Other"
+    ],
     "qq494257084/m3u8Download": [
         "Other"
     ],
@@ -17846,6 +17861,9 @@
     "rakam-io/rakam-ios": [
         "Other"
     ],
+    "rakibtg/docker-web-gui": [
+        "Other"
+    ],
     "ralfbiedert/openh264-rs": [
         "Other"
     ],
@@ -17973,6 +17991,9 @@
         "Other"
     ],
     "reactos/reactos": [
+        "Other"
+    ],
+    "reading-plus-ai/mcp-server-deep-research": [
         "Other"
     ],
     "realeyes-media/alpine-bento-ffmpeg": [
@@ -18573,6 +18594,9 @@
         "Other"
     ],
     "saasforge/open-source-saas-boilerpate": [
+        "Other"
+    ],
+    "sadatnazarli/WifiAttack": [
         "Other"
     ],
     "sadiq81/fastlane-plugin-jira_set_fix_version": [
@@ -22506,6 +22530,9 @@
         "Other"
     ],
     "zcaceres/fetch-mcp": [
+        "Other"
+    ],
+    "zcaceres/markdownify-mcp": [
         "Other"
     ],
     "zdharma-continuum/zinit": [
