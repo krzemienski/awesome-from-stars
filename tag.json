@@ -2789,6 +2789,9 @@
     "KoalaBear84/OpenDirectoryDownloader": [
         "Other"
     ],
+    "KoleMyers/apple-musickit-example": [
+        "Other"
+    ],
     "Kong/insomnia": [
         "Other"
     ],
@@ -3338,7 +3341,7 @@
     "NarekA/git-notion": [
         "Other"
     ],
-    "Naresh-Khatri/Portfolio": [
+    "Naresh-Khatri/3d-portfolio": [
         "Other"
     ],
     "NathanFlurry/VisualProgrammingLanguage": [
@@ -3423,6 +3426,9 @@
         "Other"
     ],
     "NightTrek/Ollama-mcp": [
+        "Other"
+    ],
+    "NightTrek/Serper-search-mcp": [
         "Other"
     ],
     "NikNakk/ffmpeg-aws-bento4": [
@@ -3821,6 +3827,9 @@
     "QianMo/Awesome-Unity-Shader": [
         "Other"
     ],
+    "QuantGeekDev/docker-mcp": [
+        "Other"
+    ],
     "QuantiusBenignus/blurt": [
         "Other"
     ],
@@ -4019,7 +4028,7 @@
     "RonRothman/mtwsgi": [
         "Other"
     ],
-    "RooVetGit/Roo-Code": [
+    "RooCodeInc/Roo-Code": [
         "Other"
     ],
     "Roverr/rtsp-stream": [
@@ -7256,6 +7265,9 @@
     "bradleyhurley/PyNotion": [
         "Other"
     ],
+    "bradoyler/awesome-all": [
+        "Other"
+    ],
     "bradtraversy/design-resources-for-developers": [
         "Other"
     ],
@@ -7305,6 +7317,9 @@
         "Other"
     ],
     "brightcove/brightcove-player-sdk-ios": [
+        "Other"
+    ],
+    "brightdata-com/brightdata-mcp": [
         "Other"
     ],
     "brightsign/BrightAuthor-Plugins": [
@@ -7929,6 +7944,9 @@
         "Other"
     ],
     "cline/cline": [
+        "Other"
+    ],
+    "cline/prompts": [
         "Other"
     ],
     "clipable/clipable": [
@@ -10286,6 +10304,9 @@
     "files-community/Files": [
         "Other"
     ],
+    "filiksyos/gittodoc": [
+        "Other"
+    ],
     "filipecalegario/awesome-generative-ai": [
         "Other"
     ],
@@ -11820,6 +11841,9 @@
         "Other"
     ],
     "idosal/AgentLLM": [
+        "Other"
+    ],
+    "idosal/mcp-ui": [
         "Other"
     ],
     "ietf-wg-cellar/matroska-specification": [
@@ -13430,6 +13454,9 @@
     "krzemienski/awesome-list-site-generator": [
         "Other"
     ],
+    "krzemienski/awesome-list-weaver": [
+        "Other"
+    ],
     "krzemienski/awesome-starz": [
         "Other"
     ],
@@ -13440,6 +13467,12 @@
         "Other"
     ],
     "krzemienski/bakery": [
+        "Other"
+    ],
+    "krzemienski/codex-universal": [
+        "Other"
+    ],
+    "krzemienski/dark-video-portfolio": [
         "Other"
     ],
     "krzemienski/deep-job-apply": [
@@ -14330,9 +14363,6 @@
     "lukaszliniewicz/Pandrator": [
         "Other"
     ],
-    "luminati-io/brightdata-mcp": [
-        "Other"
-    ],
     "luong-komorebi/Awesome-Linux-Software": [
         "Other"
     ],
@@ -14916,6 +14946,9 @@
         "Other"
     ],
     "mckaywrigley/repo-chat": [
+        "Other"
+    ],
+    "mcp-use/mcp-use": [
         "Other"
     ],
     "mcuadros/go-defaults": [
@@ -16022,6 +16055,9 @@
     "nezort11/chatgpt-mobile": [
         "Other"
     ],
+    "nf1973/Spotify-2-AppleMusic": [
+        "Other"
+    ],
     "nfl/scte35": [
         "Other"
     ],
@@ -16097,7 +16133,7 @@
     "nikitavoloboev/config": [
         "Other"
     ],
-    "nikitavoloboev/go": [
+    "nikitavoloboev/ui": [
         "Other"
     ],
     "nikolay-mamaev/BrightScript-Json-Beautifier": [
@@ -16496,9 +16532,6 @@
     "ohoachuck/wwdc-downloader": [
         "Other"
     ],
-    "ok2xx/links.dev": [
-        "Other"
-    ],
     "okikio/inthistweet": [
         "Other"
     ],
@@ -16632,6 +16665,9 @@
         "Other"
     ],
     "openai/codex": [
+        "Other"
+    ],
+    "openai/codex-universal": [
         "Other"
     ],
     "openai/jukebox": [
@@ -17927,9 +17963,6 @@
     "rapidloop/rtop": [
         "Other"
     ],
-    "rapiz1/rathole": [
-        "Other"
-    ],
     "rasbt/LLMs-from-scratch": [
         "Other"
     ],
@@ -18033,6 +18066,9 @@
         "Other"
     ],
     "recommenders-team/recommenders": [
+        "Other"
+    ],
+    "recursechat/mcp-server-apple-shortcuts": [
         "Other"
     ],
     "red5pro/streaming-html5": [
@@ -18434,7 +18470,7 @@
     "rsuite/rsuite": [
         "Other"
     ],
-    "rsxdalv/tts-generation-webui": [
+    "rsxdalv/TTS-WebUI": [
         "Other"
     ],
     "rsyncOSX/RsyncOSX_archived": [
@@ -19223,6 +19259,9 @@
     "simonknittel/terraform-google-video-transcoding": [
         "Other"
     ],
+    "simonschellaert/spotify2am": [
+        "Other"
+    ],
     "simonschllng/rm-sync": [
         "Other"
     ],
@@ -19239,6 +19278,9 @@
         "Other"
     ],
     "sindresorhus/awesome": [
+        "Other"
+    ],
+    "sindresorhus/awesome-awesome-awesome-awesome": [
         "Other"
     ],
     "sindresorhus/awesome-chatgpt": [
@@ -20229,6 +20271,9 @@
         "Other"
     ],
     "tada/pljava": [
+        "Other"
+    ],
+    "tadata-org/fastapi_mcp": [
         "Other"
     ],
     "taehoio/notionproxy": [
@@ -21977,6 +22022,9 @@
     "willfarrell/alfred-workflows": [
         "Other"
     ],
+    "willfarrell/docker-autoheal": [
+        "Other"
+    ],
     "willhains/Kotoba": [
         "Other"
     ],
@@ -22083,6 +22131,9 @@
         "Other"
     ],
     "wolverinn/HEVC-deep-learning-pipeline": [
+        "Other"
+    ],
+    "wonderwhy-er/DesktopCommanderMCP": [
         "Other"
     ],
     "wookayin/gpustat": [
@@ -22464,6 +22515,9 @@
         "Other"
     ],
     "yuhuili-lab/Tide": [
+        "Other"
+    ],
+    "yujqiao/rathole": [
         "Other"
     ],
     "yukinotenshi/jabami": [
