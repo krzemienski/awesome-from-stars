@@ -248,6 +248,9 @@
     "Agenric/VSCode-CocoaPods-Snippets": [
         "Other"
     ],
+    "AgentDeskAI/browser-tools-mcp": [
+        "Other"
+    ],
     "AgentOak/docker-livestreaming": [
         "Other"
     ],
@@ -1262,6 +1265,9 @@
     "DisplayLink/evdi": [
         "Other"
     ],
+    "Div99/agent-protocol": [
+        "Other"
+    ],
     "Divxeas/Netflix-videos-downloader1": [
         "Other"
     ],
@@ -2063,6 +2069,9 @@
     "FormulaMonks/llm-benchmarker-suite": [
         "Other"
     ],
+    "Fosowl/agenticSeek": [
+        "Other"
+    ],
     "FoundationAgents/MetaGPT": [
         "Other"
     ],
@@ -2447,6 +2456,9 @@
     "IntelligenzaArtificiale/Free-Auto-GPT": [
         "Other"
     ],
+    "Ironclad/rivet": [
+        "Other"
+    ],
     "IrosTheBeggar/mStream": [
         "Other"
     ],
@@ -2532,6 +2544,9 @@
         "Other"
     ],
     "JeffWang987/WorldDreamer": [
+        "Other"
+    ],
+    "JeredBlu/custom-instructions": [
         "Other"
     ],
     "JeremiahPetersen/RepoToText": [
@@ -5270,6 +5285,9 @@
     "afex/hystrix-go": [
         "Other"
     ],
+    "ag-ui-protocol/ag-ui": [
+        "Other"
+    ],
     "ag2816/TorontoWalks": [
         "Other"
     ],
@@ -5585,6 +5603,9 @@
     "alfred-workflows/awesome-alfred-workflows": [
         "Other"
     ],
+    "algorithm-visualizer/algorithm-visualizer": [
+        "Other"
+    ],
     "ali-vilab/VGen": [
         "Other"
     ],
@@ -5879,7 +5900,22 @@
     "antares-sql/antares": [
         "Other"
     ],
+    "anthropics/anthropic-cookbook": [
+        "Other"
+    ],
+    "anthropics/anthropic-quickstarts": [
+        "Other"
+    ],
+    "anthropics/anthropic-sdk-python": [
+        "Other"
+    ],
     "anthropics/claude-code": [
+        "Other"
+    ],
+    "anthropics/claude-code-action": [
+        "Other"
+    ],
+    "anthropics/claude-code-base-action": [
         "Other"
     ],
     "anthwlock/untrunc": [
@@ -6201,6 +6237,9 @@
         "Other"
     ],
     "aptly-dev/aptly": [
+        "Other"
+    ],
+    "aratahikaru5/plurality": [
         "Other"
     ],
     "arbal/awesome-stars": [
@@ -7316,10 +7355,13 @@
     "briatte/awesome-network-analysis": [
         "Other"
     ],
+    "brightcove-archive/ooyala_iq-sdk-roku-sample": [
+        "Other"
+    ],
     "brightcove/brightcove-player-sdk-ios": [
         "Other"
     ],
-    "brightdata-com/brightdata-mcp": [
+    "brightdata/brightdata-mcp": [
         "Other"
     ],
     "brightsign/BrightAuthor-Plugins": [
@@ -7884,6 +7926,9 @@
         "Other"
     ],
     "cjnaz/rclonesync-V2": [
+        "Other"
+    ],
+    "cjo4m06/mcp-shrimp-task-manager": [
         "Other"
     ],
     "ckb-next/ckb-next": [
@@ -9146,6 +9191,9 @@
     "docker/kitematic": [
         "Other"
     ],
+    "docker/labs-ai-tools-for-devs": [
+        "Other"
+    ],
     "dockeron/dockeron": [
         "Other"
     ],
@@ -9602,13 +9650,13 @@
     "electron/electron": [
         "Other"
     ],
-    "electron/electron-quick-start": [
-        "Other"
-    ],
     "electron/fiddle": [
         "Other"
     ],
     "electron/forge": [
+        "Other"
+    ],
+    "electron/minimal-repro": [
         "Other"
     ],
     "electron/simple-samples": [
@@ -12161,9 +12209,6 @@
     "itsrifat/flask-celery-docker-scale": [
         "Other"
     ],
-    "itsuka-dev/plurality": [
-        "Other"
-    ],
     "itszechs/DriveStream": [
         "Other"
     ],
@@ -13451,6 +13496,9 @@
     "krzemienski/awesome-list-manager": [
         "Other"
     ],
+    "krzemienski/awesome-list-site": [
+        "Other"
+    ],
     "krzemienski/awesome-list-site-generator": [
         "Other"
     ],
@@ -13470,6 +13518,9 @@
         "Other"
     ],
     "krzemienski/codex-universal": [
+        "Other"
+    ],
+    "krzemienski/custom-instructions": [
         "Other"
     ],
     "krzemienski/dark-video-portfolio": [
@@ -13770,6 +13821,15 @@
         "Other"
     ],
     "lalit2005/pagely": [
+        "Other"
+    ],
+    "langchain-ai/langchain": [
+        "Other"
+    ],
+    "langchain-ai/langgraph": [
+        "Other"
+    ],
+    "langchain-ai/local-deep-researcher": [
         "Other"
     ],
     "langchain-ai/open-canvas": [
@@ -15191,10 +15251,16 @@
     "microsoft/FluentUIEditableDetailsList": [
         "Other"
     ],
+    "microsoft/NLWeb": [
+        "Other"
+    ],
     "microsoft/Peekaboo": [
         "Other"
     ],
     "microsoft/SysmonForLinux": [
+        "Other"
+    ],
+    "microsoft/TinyTroupe": [
         "Other"
     ],
     "microsoft/appcenter": [
@@ -15228,6 +15294,9 @@
         "Other"
     ],
     "microsoft/fluentui-token-pipeline": [
+        "Other"
+    ],
+    "microsoft/magentic-ui": [
         "Other"
     ],
     "microsoft/nodejstools": [
@@ -15873,6 +15942,9 @@
         "Other"
     ],
     "nachifur/MulimgViewer": [
+        "Other"
+    ],
+    "nagadit/DeepFaceLab_Linux": [
         "Other"
     ],
     "nagare-media/ingest": [
@@ -16631,9 +16703,6 @@
     "oopsguy/m3u8": [
         "Other"
     ],
-    "ooyala/iq-sdk-roku-sample": [
-        "Other"
-    ],
     "oozoofrog/ffmpeg-swift-tutorial": [
         "Other"
     ],
@@ -17046,6 +17115,9 @@
         "Other"
     ],
     "patrickclery/firetv": [
+        "Other"
+    ],
+    "paulDevEth256/Video-streaming-web-app": [
         "Other"
     ],
     "paulpacifico/shutter-encoder": [
@@ -17565,6 +17637,9 @@
         "Other"
     ],
     "productiveAnalytics/EKS-cluster": [
+        "Other"
+    ],
+    "productiveops/dokemon": [
         "Other"
     ],
     "progprnv/Aircrack-ng-144p": [
@@ -18725,6 +18800,9 @@
     "sangwonl/python-mpegdash": [
         "Other"
     ],
+    "sanjeed5/awesome-cursor-rules-mdc": [
+        "Other"
+    ],
     "sankaranramantn/myprojects": [
         "Other"
     ],
@@ -19394,6 +19472,9 @@
     "skywind3000/awesome-cheatsheets": [
         "Other"
     ],
+    "slack-samples/javascript-actionable-requests": [
+        "Other"
+    ],
     "slacka/WoeUSB": [
         "Other"
     ],
@@ -19404,9 +19485,6 @@
         "Other"
     ],
     "slackapi/steno": [
-        "Other"
-    ],
-    "slackapi/template-slash-command-and-dialogs": [
         "Other"
     ],
     "slackhq/SlackTextViewController": [
@@ -19506,6 +19584,9 @@
         "Other"
     ],
     "snapfast/AutoMates": [
+        "Other"
+    ],
+    "snarktank/ai-dev-tasks": [
         "Other"
     ],
     "sneljo1/auryo": [
@@ -19610,9 +19691,6 @@
     "soulsam480/noter": [
         "Other"
     ],
-    "soumanpaul/Video-streaming-web-app": [
-        "Other"
-    ],
     "soumyajiitt/Portfolio": [
         "Other"
     ],
@@ -19674,6 +19752,9 @@
         "Other"
     ],
     "spencerpauly/awesome-notion": [
+        "Other"
+    ],
+    "spences10/mcp-sequentialthinking-tools": [
         "Other"
     ],
     "spersson/Kup": [
@@ -19812,6 +19893,9 @@
         "Other"
     ],
     "stackshareio/awesome-stacks": [
+        "Other"
+    ],
+    "stagewise-io/stagewise": [
         "Other"
     ],
     "stakater/Konfigurator": [
@@ -20751,6 +20835,9 @@
         "Other"
     ],
     "tlkh/asitop": [
+        "Other"
+    ],
+    "tmc/langchaingo": [
         "Other"
     ],
     "tmcdonell/config-alacritty": [
@@ -21906,6 +21993,12 @@
         "Other"
     ],
     "weaveworks/scope": [
+        "Other"
+    ],
+    "weaviate/recipes": [
+        "Other"
+    ],
+    "weaviate/weaviate": [
         "Other"
     ],
     "web-pal/DBGlass": [
