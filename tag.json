@@ -5789,6 +5789,9 @@
     "anaganisk/digitalocean-dynamic-dns-ip": [
         "Other"
     ],
+    "anaisbetts/mcp-installer": [
+        "Other"
+    ],
     "analogcode/Swift-Radio-Pro": [
         "Other"
     ],
@@ -6201,6 +6204,9 @@
         "Other"
     ],
     "apple/swift-collections": [
+        "Other"
+    ],
+    "apple/swift-container-plugin": [
         "Other"
     ],
     "apple/swift-nio": [
@@ -6762,9 +6768,6 @@
         "Other"
     ],
     "azemoh/vscode-onedark": [
-        "Other"
-    ],
-    "azgaresncf/strm2hls": [
         "Other"
     ],
     "azimjohn/jprq": [
@@ -8018,7 +8021,7 @@
     "cloudnativelabs/kube-shell": [
         "Other"
     ],
-    "cloudreve/Cloudreve": [
+    "cloudreve/cloudreve": [
         "Other"
     ],
     "cloudstateio/cloudstate": [
@@ -8118,6 +8121,9 @@
         "Other"
     ],
     "cokaholic/TKParallaxScrollView": [
+        "Other"
+    ],
+    "coleam00/mcp-mem0": [
         "Other"
     ],
     "coleifer/huey": [
@@ -10217,9 +10223,6 @@
     "fastlane/fastlane": [
         "Other"
     ],
-    "fastogt/fastocloud": [
-        "Other"
-    ],
     "fastogt/fastocloud_env": [
         "Other"
     ],
@@ -10782,6 +10785,9 @@
         "Other"
     ],
     "ghouet/chrome-hls": [
+        "Other"
+    ],
+    "ghuntley/claude-code-source-code-deobfuscation": [
         "Other"
     ],
     "giampaolo/psutil": [
@@ -12764,6 +12770,9 @@
     "joshpxyne/gpt-migrate": [
         "Other"
     ],
+    "joshrutkowski/applescript-mcp": [
+        "Other"
+    ],
     "joshskidmore/gpd-pocket2-ubuntu": [
         "Other"
     ],
@@ -13388,6 +13397,9 @@
     "kodlian/TVVLCPlayer": [
         "Other"
     ],
+    "kodu-ai/claude-coder": [
+        "Other"
+    ],
     "kokorin/Jaffree": [
         "Other"
     ],
@@ -13517,6 +13529,9 @@
     "krzemienski/bakery": [
         "Other"
     ],
+    "krzemienski/claude-code-builder": [
+        "Other"
+    ],
     "krzemienski/codex-universal": [
         "Other"
     ],
@@ -13539,6 +13554,9 @@
         "Other"
     ],
     "krzemienski/encodarr": [
+        "Other"
+    ],
+    "krzemienski/enhanced-claude-code": [
         "Other"
     ],
     "krzemienski/ffmpeg-NVEnc-build": [
@@ -18047,6 +18065,9 @@
     "rastasheep/ubuntu-sshd": [
         "Other"
     ],
+    "rathole-org/rathole": [
+        "Other"
+    ],
     "rauchg/slackin": [
         "Other"
     ],
@@ -20172,6 +20193,15 @@
         "Other"
     ],
     "superduper-io/superduper": [
+        "Other"
+    ],
+    "supermemoryai/apple-mcp": [
+        "Other"
+    ],
+    "supermemoryai/supermemory": [
+        "Other"
+    ],
+    "supermemoryai/supermemory-mcp": [
         "Other"
     ],
     "superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform": [
@@ -22608,9 +22638,6 @@
         "Other"
     ],
     "yuhuili-lab/Tide": [
-        "Other"
-    ],
-    "yujqiao/rathole": [
         "Other"
     ],
     "yukinotenshi/jabami": [
