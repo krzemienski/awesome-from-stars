@@ -791,7 +791,7 @@
     "Chimeejs/chimee": [
         "Other"
     ],
-    "Chirag-And-Dheeraj/video-streaming-server": [
+    "Chirag-And-Dheeraj/Dekho": [
         "Other"
     ],
     "ChocolateApp/Chocolate": [
@@ -879,6 +879,9 @@
         "Other"
     ],
     "CodeMazeBlog/docker-series": [
+        "Other"
+    ],
+    "CodeWithHarry/Sigma-Web-Dev-Course": [
         "Other"
     ],
     "Codepth-Technologies/FB-Transcoder": [
@@ -1194,9 +1197,6 @@
         "Other"
     ],
     "DavidDeBels/NotionClient": [
-        "Other"
-    ],
-    "DeadNews/shell-scripts": [
         "Other"
     ],
     "Deadshot0x7/007-TheBond": [
@@ -2777,6 +2777,9 @@
     "Kikobeats/awesome-api": [
         "Other"
     ],
+    "Kilo-Org/kilocode": [
+        "Other"
+    ],
     "Kilograpp/UITableView-Cache": [
         "Other"
     ],
@@ -3641,7 +3644,7 @@
     "PacktPublishing/End-to-End-GUI-development-with-Qt5": [
         "Other"
     ],
-    "PaddlePaddle/PaddleHub": [
+    "PaddlePaddle/PaddleFormers": [
         "Other"
     ],
     "PaddlePaddle/PaddleNLP": [
@@ -4184,9 +4187,6 @@
     "SeleniumHQ/selenium-ide": [
         "Other"
     ],
-    "SelfhostedPro/Yacht": [
-        "Other"
-    ],
     "SelfhostedPro/selfhosted_templates": [
         "Other"
     ],
@@ -4299,6 +4299,9 @@
         "Other"
     ],
     "Skyr/gitea-add-github-mirrors": [
+        "Other"
+    ],
+    "Skyvern-AI/skyvern": [
         "Other"
     ],
     "SlatherOrg/slather": [
@@ -4932,6 +4935,9 @@
         "Other"
     ],
     "YaLTeR/vapoursynth-rs": [
+        "Other"
+    ],
+    "Yacht-sh/Yacht": [
         "Other"
     ],
     "YadominJinta/atilo": [
@@ -5918,6 +5924,12 @@
     "anthropics/claude-code-base-action": [
         "Other"
     ],
+    "anthropics/dxt": [
+        "Other"
+    ],
+    "anthropics/prompt-eng-interactive-tutorial": [
+        "Other"
+    ],
     "anthwlock/untrunc": [
         "Other"
     ],
@@ -6144,6 +6156,9 @@
         "Other"
     ],
     "appcoda/GCDSamples": [
+        "Other"
+    ],
+    "appcypher/awesome-mcp-servers": [
         "Other"
     ],
     "appium-boneyard/appium-ci": [
@@ -8468,6 +8483,9 @@
     "daemonza/helmet": [
         "Other"
     ],
+    "dagger/container-use": [
+        "Other"
+    ],
     "dagger/dagger": [
         "Other"
     ],
@@ -8516,10 +8534,10 @@
     "danielgtaylor/qtfaststart": [
         "Other"
     ],
-    "danielmiessler/SecLists": [
+    "danielmiessler/Fabric": [
         "Other"
     ],
-    "danielmiessler/fabric": [
+    "danielmiessler/SecLists": [
         "Other"
     ],
     "danielsaidi/Sheeeeeeeeet": [
@@ -8757,6 +8775,9 @@
         "Other"
     ],
     "deadc0de6/dotdrop": [
+        "Other"
+    ],
+    "deadnews/shell-scripts": [
         "Other"
     ],
     "deathau/Notation-for-Obsidian": [
@@ -9210,6 +9231,9 @@
         "Other"
     ],
     "dockup/infrahub": [
+        "Other"
+    ],
+    "dockur/macos": [
         "Other"
     ],
     "docling-project/docling": [
@@ -9960,6 +9984,9 @@
         "Other"
     ],
     "eumemic/ai-legion": [
+        "Other"
+    ],
+    "evalstate/fast-agent": [
         "Other"
     ],
     "everit-org/json-schema": [
@@ -10719,6 +10746,9 @@
         "Other"
     ],
     "gesinger/debug-video": [
+        "Other"
+    ],
+    "getAsterisk/claudia": [
         "Other"
     ],
     "getappbox/AppBox-iOSAppsWirelessInstallation": [
@@ -13529,6 +13559,9 @@
     "krzemienski/claude-code-builder": [
         "Other"
     ],
+    "krzemienski/claudia": [
+        "Other"
+    ],
     "krzemienski/codex-universal": [
         "Other"
     ],
@@ -15779,9 +15812,6 @@
     "msdrigg/Roam": [
         "Other"
     ],
-    "mshdg/dadjoke-ui": [
-        "Other"
-    ],
     "mshuber1981/github-react-portfolio-template": [
         "Other"
     ],
@@ -15914,6 +15944,9 @@
     "mxcl/swift-sh": [
         "Other"
     ],
+    "mxhdg/dadjoke-ui": [
+        "Other"
+    ],
     "mycroftwilde/portainer_templates": [
         "Other"
     ],
@@ -16011,9 +16044,6 @@
         "Other"
     ],
     "naseemkullah/k8s-job-dispatcher": [
-        "Other"
-    ],
-    "nash-app/nash-electron": [
         "Other"
     ],
     "natelandau/shell-scripting-templates": [
@@ -16680,6 +16710,9 @@
         "Other"
     ],
     "onema/playlist-dsl": [
+        "Other"
+    ],
+    "onemadgeek/simple-portfolio-html": [
         "Other"
     ],
     "oneronaut/brsHamcrest": [
@@ -17583,9 +17616,6 @@
         "Other"
     ],
     "pottava/aws-s3-proxy": [
-        "Other"
-    ],
-    "powermobileweb/NewsApp": [
         "Other"
     ],
     "pqrs-org/Karabiner-Elements": [
