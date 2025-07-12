@@ -563,6 +563,9 @@
     "BERNARDO31P/FastDownloader": [
         "Other"
     ],
+    "BandarLabs/coderunner": [
+        "Other"
+    ],
     "Bash-it/bash-it": [
         "Other"
     ],
@@ -600,6 +603,9 @@
         "Other"
     ],
     "BloopAI/bloop": [
+        "Other"
+    ],
+    "BloopAI/vibe-kanban": [
         "Other"
     ],
     "Boerworz/Gagat": [
@@ -2267,6 +2273,9 @@
     "Hackzzila/node-ffmpeg-binaries": [
         "Other"
     ],
+    "Haidzai/claude-code-proxy": [
+        "Other"
+    ],
     "HaikuArchives/ffmpegGUI": [
         "Other"
     ],
@@ -3077,6 +3086,9 @@
     "MachWheel/GPT-to-FFmpeg": [
         "Other"
     ],
+    "Maciek-roboblog/Claude-Code-Usage-Monitor": [
+        "Other"
+    ],
     "MagicArena/ngrokd": [
         "Other"
     ],
@@ -3525,6 +3537,9 @@
         "Other"
     ],
     "OWASP/Nettacker": [
+        "Other"
+    ],
+    "ObservedObserver/async-code": [
         "Other"
     ],
     "OkoyaUsman/ReStreamer": [
@@ -4098,6 +4113,9 @@
         "Other"
     ],
     "SRGSSR/srgmediaplayer-apple": [
+        "Other"
+    ],
+    "STRRL/shell-now": [
         "Other"
     ],
     "SVProgressHUD/SVProgressHUD": [
@@ -5708,6 +5726,9 @@
     "alyssaxuu/slashy": [
         "Other"
     ],
+    "amantus-ai/vibetunnel": [
+        "Other"
+    ],
     "amanusk/s-tui": [
         "Other"
     ],
@@ -5922,6 +5943,9 @@
         "Other"
     ],
     "anthropics/claude-code-base-action": [
+        "Other"
+    ],
+    "anthropics/claude-code-sdk-python": [
         "Other"
     ],
     "anthropics/dxt": [
@@ -7991,6 +8015,9 @@
     "clash-verge-rev/clash-verge-rev": [
         "Other"
     ],
+    "claude-did-this/claude-hub": [
+        "Other"
+    ],
     "clayrisser/dotstow": [
         "Other"
     ],
@@ -8087,6 +8114,9 @@
     "codemirror/codemirror5": [
         "Other"
     ],
+    "coder/anyclaude": [
+        "Other"
+    ],
     "coder/awesome-code-server": [
         "Other"
     ],
@@ -8127,6 +8157,9 @@
         "Other"
     ],
     "codiga/code-snippets-manager": [
+        "Other"
+    ],
+    "codingworkflow/claude-code-api": [
         "Other"
     ],
     "codota/TabNine": [
@@ -8717,6 +8750,9 @@
     "davidjamesherzog/videojs-shaka": [
         "Other"
     ],
+    "davidkimai/Context-Engineering": [
+        "Other"
+    ],
     "davidlondono/PlayerView": [
         "Other"
     ],
@@ -8724,6 +8760,9 @@
         "Other"
     ],
     "davidsonfellipe/awesome-wpo": [
+        "Other"
+    ],
+    "davila7/claude-code-templates": [
         "Other"
     ],
     "dbeaver/dbeaver": [
@@ -9279,6 +9318,9 @@
         "Other"
     ],
     "donnemartin/system-design-primer": [
+        "Other"
+    ],
+    "doobidoo/mcp-memory-service": [
         "Other"
     ],
     "doocs/advanced-java": [
@@ -10388,6 +10430,9 @@
     "filipecalegario/awesome-generative-ai": [
         "Other"
     ],
+    "filipecalegario/awesome-vibe-coding": [
+        "Other"
+    ],
     "filipstrand/mflux": [
         "Other"
     ],
@@ -11219,6 +11264,12 @@
     "grafov/streamsurfer": [
         "Other"
     ],
+    "grahama1970/claude-code-mcp-enhanced": [
+        "Other"
+    ],
+    "grahama1970/claude-task-runner": [
+        "Other"
+    ],
     "grahamjenson/list_of_recommender_systems": [
         "Other"
     ],
@@ -11577,6 +11628,9 @@
         "Other"
     ],
     "herrbischoff/awesome-macos-command-line": [
+        "Other"
+    ],
+    "hesreallyhim/awesome-claude-code": [
         "Other"
     ],
     "hhhrrrttt222111/developer-portfolio": [
@@ -12812,6 +12866,9 @@
     "joshuatz/linkedin-to-jsonresume": [
         "Other"
     ],
+    "joshuayoes/ios-simulator-mcp": [
+        "Other"
+    ],
     "joswr1ght/cowpatty": [
         "Other"
     ],
@@ -13146,6 +13203,9 @@
         "Other"
     ],
     "kbravh/tweet-to-markdown": [
+        "Other"
+    ],
+    "kbwo/ccmanager": [
         "Other"
     ],
     "kdash-rs/kdash": [
@@ -13554,6 +13614,9 @@
         "Other"
     ],
     "krzemienski/bakery": [
+        "Other"
+    ],
+    "krzemienski/ccb-ui": [
         "Other"
     ],
     "krzemienski/claude-code-builder": [
@@ -15188,6 +15251,9 @@
     "metachris/pdfx": [
         "Other"
     ],
+    "metatool-ai/metamcp": [
+        "Other"
+    ],
     "metersphere/metersphere": [
         "Other"
     ],
@@ -16724,6 +16790,9 @@
     "onfido/k8s-rabbit-pod-autoscaler": [
         "Other"
     ],
+    "onlook-dev/onlook": [
+        "Other"
+    ],
     "onmyway133/FinderGo": [
         "Other"
     ],
@@ -17606,6 +17675,9 @@
     "posquit0/Awesome-CV": [
         "Other"
     ],
+    "possibilities/claude-composer": [
+        "Other"
+    ],
     "postmanlabs/httpbin": [
         "Other"
     ],
@@ -17871,6 +17943,9 @@
         "Other"
     ],
     "qazbnm456/awesome-web-security": [
+        "Other"
+    ],
+    "qdhenry/Claude-Command-Suite": [
         "Other"
     ],
     "qdm12/ddns-updater": [
@@ -18701,6 +18776,9 @@
     "rustmn/FFMPEG-NVENC-Docker-build": [
         "Other"
     ],
+    "ruvnet/claude-flow": [
+        "Other"
+    ],
     "ruzickap/k8s-harbor": [
         "Other"
     ],
@@ -19469,6 +19547,9 @@
     "sissbruecker/linkding": [
         "Other"
     ],
+    "siteboon/claudecodeui": [
+        "Other"
+    ],
     "sitkevij/awesome-video": [
         "Other"
     ],
@@ -19623,6 +19704,9 @@
         "Other"
     ],
     "smplayer-dev/smplayer": [
+        "Other"
+    ],
+    "smtg-ai/claude-squad": [
         "Other"
     ],
     "snapcrafters/alacritty": [
@@ -19797,6 +19881,12 @@
         "Other"
     ],
     "speakeasy-api/rest-template-go": [
+        "Other"
+    ],
+    "specstoryai/getspecstory": [
+        "Other"
+    ],
+    "specstoryai/specflow": [
         "Other"
     ],
     "spekt8/spekt8": [
@@ -20093,6 +20183,9 @@
     "stran9elet/Watermark-Remover": [
         "Other"
     ],
+    "stravu/crystal": [
+        "Other"
+    ],
     "streamaserver/streama": [
         "Other"
     ],
@@ -20220,6 +20313,9 @@
         "Other"
     ],
     "supabase/supabase-swift": [
+        "Other"
+    ],
+    "superagent-ai/vibekit": [
         "Other"
     ],
     "superduper-io/superduper": [
@@ -20385,6 +20481,12 @@
         "Other"
     ],
     "system76/thelio": [
+        "Other"
+    ],
+    "systempromptio/systemprompt-code-orchestrator": [
+        "Other"
+    ],
+    "systempromptio/systemprompt-mcp-server": [
         "Other"
     ],
     "sysulq/httpmq": [
@@ -20604,6 +20706,9 @@
         "Other"
     ],
     "terry-r123/Awesome-Captioning": [
+        "Other"
+    ],
+    "terryso/claude-auto-resume": [
         "Other"
     ],
     "testdrivenio/cookiecutter-flask-skeleton": [
@@ -21279,6 +21384,9 @@
         "Other"
     ],
     "ubuntupodcast/roku-channel": [
+        "Other"
+    ],
+    "udecode/dotai": [
         "Other"
     ],
     "udpsec/github-tools": [
@@ -22839,6 +22947,9 @@
         "Other"
     ],
     "zilexa/Homeserver": [
+        "Other"
+    ],
+    "zilliztech/CodeIndexer": [
         "Other"
     ],
     "zilliztech/GPTCache": [
