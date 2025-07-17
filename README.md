@@ -4979,7 +4979,6 @@
 * [dlenroc/node-roku](https://github.com/dlenroc/node-roku): Powerful toolbox for controlling Roku devices
 * [bschlenk/node-roku-client](https://github.com/bschlenk/node-roku-client): Discover and control Roku devices with NodeJS.
 * [iizukanao/node-rtsp-rtmp-server](https://github.com/iizukanao/node-rtsp-rtmp-server): RTSP/RTMP/HTTP hybrid server
-* [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader): A SoundCloud API v2 wrapper for Node.js
 * [Eyevinn/node-srt](https://github.com/Eyevinn/node-srt): Nodejs bindings for Secure Reliable Transport SDK
 * [waleedahmad/node-stream](https://github.com/waleedahmad/node-stream): RTMP server in Nodejs for live streaming. 
 * [nikhilm/node-taglib](https://github.com/nikhilm/node-taglib): Simple taglib bindings to Javascript using node.js
