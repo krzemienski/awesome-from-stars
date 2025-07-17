@@ -1271,9 +1271,6 @@
     "DisplayLink/evdi": [
         "Other"
     ],
-    "Div99/agent-protocol": [
-        "Other"
-    ],
     "Divxeas/Netflix-videos-downloader1": [
         "Other"
     ],
@@ -3572,6 +3569,9 @@
     "OpenCSGs/csghub": [
         "Other"
     ],
+    "OpenCut-app/OpenCut": [
+        "Other"
+    ],
     "OpenGVLab/Ask-Anything": [
         "Other"
     ],
@@ -3582,9 +3582,6 @@
         "Other"
     ],
     "OpenHEVC/openHEVC": [
-        "Other"
-    ],
-    "OpenInterpreter/open-interpreter": [
         "Other"
     ],
     "OpenRouterTeam/openrouter-runner": [
@@ -3690,6 +3687,9 @@
         "Other"
     ],
     "ParisNeo/lollms-webui": [
+        "Other"
+    ],
+    "ParthKapoor-dev/devex": [
         "Other"
     ],
     "PatrickJS/awesome-angular": [
@@ -4098,6 +4098,9 @@
         "Other"
     ],
     "RyogaK/Moya-Unbox": [
+        "Other"
+    ],
+    "SDGLBL/mcp-claude-code": [
         "Other"
     ],
     "SIGRobotics-UIUC/LeKiwi": [
@@ -4730,6 +4733,9 @@
     "TypingMind/plugins-server": [
         "Other"
     ],
+    "TypingMind/typingmind": [
+        "Other"
+    ],
     "TysonWorks/cdk-examples": [
         "Other"
     ],
@@ -4743,6 +4749,9 @@
         "Other"
     ],
     "Unrud/video-downloader": [
+        "Other"
+    ],
+    "Upsonic/Upsonic": [
         "Other"
     ],
     "UshakovVasilii/gnome-shell-extension-freon": [
@@ -4785,6 +4794,9 @@
         "Other"
     ],
     "Ventto/pug": [
+        "Other"
+    ],
+    "VeriTeknik/pluggedin-mcp-proxy": [
         "Other"
     ],
     "ViBiOh/dotfiles": [
@@ -5337,6 +5349,9 @@
         "Other"
     ],
     "ageron/handson-ml2": [
+        "Other"
+    ],
+    "agi-inc/agent-protocol": [
         "Other"
     ],
     "agile4you/bottle-smart-filters": [
@@ -6860,6 +6875,9 @@
     "barkerstuff/treadmill": [
         "Other"
     ],
+    "basementstudio/xmcp": [
+        "Other"
+    ],
     "basharovV/StumbleUponAwesome": [
         "Other"
     ],
@@ -7427,6 +7445,9 @@
     "browserbase/mcp-server-browserbase": [
         "Other"
     ],
+    "browserbase/stagehand": [
+        "Other"
+    ],
     "brpaz/my-linux-setup": [
         "Other"
     ],
@@ -7557,6 +7578,9 @@
         "Other"
     ],
     "cameramanben/LUTCalc": [
+        "Other"
+    ],
+    "cameroncooke/XcodeBuildMCP": [
         "Other"
     ],
     "canalplus/rx-player": [
@@ -10547,6 +10571,9 @@
     "fortra/impacket": [
         "Other"
     ],
+    "fosrl/pangolin": [
+        "Other"
+    ],
     "fossasia/open-event-server": [
         "Other"
     ],
@@ -11945,6 +11972,9 @@
     "ibraheemdev/modern-unix": [
         "Other"
     ],
+    "ibrahimcetin/reins": [
+        "Other"
+    ],
     "icanzilb/EasyAnimation": [
         "Other"
     ],
@@ -12183,6 +12213,9 @@
         "Other"
     ],
     "intel/vaapi-fits": [
+        "Other"
+    ],
+    "intellectronica/ruler": [
         "Other"
     ],
     "intellij-rust/intellij-rust": [
@@ -12947,6 +12980,9 @@
     "juju/juju": [
         "Other"
     ],
+    "julien040/anyquery": [
+        "Other"
+    ],
     "julio641742/extend-panel-menu": [
         "Other"
     ],
@@ -13580,6 +13616,9 @@
     "krydos/todoist-linux": [
         "Other"
     ],
+    "krzemienski/CodeAgentsMobile": [
+        "Other"
+    ],
     "krzemienski/CodeNexus": [
         "Other"
     ],
@@ -13620,6 +13659,12 @@
         "Other"
     ],
     "krzemienski/claude-code-builder": [
+        "Other"
+    ],
+    "krzemienski/claude-code-web-server": [
+        "Other"
+    ],
+    "krzemienski/claudecodeui": [
         "Other"
     ],
     "krzemienski/claudia": [
@@ -14429,6 +14474,9 @@
     "longhorn/longhorn": [
         "Other"
     ],
+    "loopwork/iMCP": [
+        "Other"
+    ],
     "lopho/sd-video": [
         "Other"
     ],
@@ -14526,6 +14574,9 @@
         "Other"
     ],
     "lukasbach/yana": [
+        "Other"
+    ],
+    "lukasmasuch/best-of-python": [
         "Other"
     ],
     "lukasz-madon/awesome-remote-job": [
@@ -15617,9 +15668,6 @@
     "ml-lab/DeepVideoAnalytics": [
         "Other"
     ],
-    "ml-tooling/best-of-python": [
-        "Other"
-    ],
     "mlabonne/llm-course": [
         "Other"
     ],
@@ -15695,7 +15743,13 @@
     "modded-ubuntu/modded-ubuntu": [
         "Other"
     ],
+    "modelcontextprotocol/inspector": [
+        "Other"
+    ],
     "modelcontextprotocol/servers": [
+        "Other"
+    ],
+    "modelcontextprotocol/swift-sdk": [
         "Other"
     ],
     "mofo7777/Stackoverflow": [
@@ -16931,6 +16985,9 @@
     "openfun/marsha": [
         "Other"
     ],
+    "openinterpreter/open-interpreter": [
+        "Other"
+    ],
     "openjdk/jdk": [
         "Other"
     ],
@@ -16965,6 +17022,9 @@
         "Other"
     ],
     "openstack/swift": [
+        "Other"
+    ],
+    "openstf/stf": [
         "Other"
     ],
     "openwrt/luci": [
@@ -17237,10 +17297,10 @@
     "patrickclery/firetv": [
         "Other"
     ],
-    "paulDevEth256/Video-streaming-web-app": [
+    "paulpacifico/shutter-encoder": [
         "Other"
     ],
-    "paulpacifico/shutter-encoder": [
+    "paulrobello/par_cc_usage": [
         "Other"
     ],
     "pavlobu/deskreen": [
@@ -17685,6 +17745,9 @@
         "Other"
     ],
     "postmanlabs/swagger2-postman2": [
+        "Other"
+    ],
+    "potproject/code-agent": [
         "Other"
     ],
     "pottava/aws-s3-proxy": [
@@ -19550,6 +19613,9 @@
     "siteboon/claudecodeui": [
         "Other"
     ],
+    "siteboon/promptlens": [
+        "Other"
+    ],
     "sitkevij/awesome-video": [
         "Other"
     ],
@@ -19793,6 +19859,9 @@
     "sonysuqin/WasmVideoPlayer": [
         "Other"
     ],
+    "sooperset/mcp-atlassian": [
+        "Other"
+    ],
     "sopro-dev/sopro-core": [
         "Other"
     ],
@@ -19824,6 +19893,9 @@
         "Other"
     ],
     "soulsam480/noter": [
+        "Other"
+    ],
+    "soumanpaul/Video-streaming-web-app": [
         "Other"
     ],
     "soumyajiitt/Portfolio": [
@@ -22949,10 +23021,13 @@
     "zilexa/Homeserver": [
         "Other"
     ],
-    "zilliztech/CodeIndexer": [
+    "zilliztech/GPTCache": [
         "Other"
     ],
-    "zilliztech/GPTCache": [
+    "zilliztech/code-context": [
+        "Other"
+    ],
+    "zilliztech/deep-searcher": [
         "Other"
     ],
     "zimbatm/ffmpeg-static": [
