@@ -290,7 +290,6 @@
 * [awsdocs/amazon-transcoder-developer-guide](https://github.com/awsdocs/amazon-transcoder-developer-guide): The open source version of the Amazon Elastic Transcoder docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 * [aws-samples/amazon-translate-video-subtitles-captions-translation](https://github.com/aws-samples/amazon-translate-video-subtitles-captions-translation): None
 * [AMD-OSX/AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla): Native AMD macOS via OpenCore
-* [kamkry-zz/AmdGPUH265Handler](https://github.com/kamkry-zz/AmdGPUH265Handler): A simple Python automation for AMD GPU-accelerated video encoding using H265 via ffmpeg
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
 * [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF): The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 * [semperai/amica](https://github.com/semperai/amica): Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
@@ -402,6 +401,7 @@
 * [appium/appium-desktop](https://github.com/appium/appium-desktop): Appium Server in Desktop GUIs for Mac, Windows, and Linux
 * [appium/appium-event-parser](https://github.com/appium/appium-event-parser): Node CLI script to help parse event timing output from Appium scripts
 * [appium/appium-ios-simulator](https://github.com/appium/appium-ios-simulator): Module for interacting with iOS simulators
+* [Rahulec08/appium-mcp](https://github.com/Rahulec08/appium-mcp): AI-powered mobile automation with Model Context Protocol (MCP) integration. Seamlessly control Android & iOS devices through Appium with intelligent visual element detection and recovery. Built for AI agents like Claude to perform complex mobile testing workflows.
 * [dlenroc/appium-roku-driver](https://github.com/dlenroc/appium-roku-driver): WebDriver for testing channels / screensavers on roku devices
 * [headspinio/appium-roku-driver](https://github.com/headspinio/appium-roku-driver): A Roku Driver for Appium. https://headspin.io
 * [appium/appium-xcode](https://github.com/appium/appium-xcode): Xcode related utilities. Get version number and path to executable.
@@ -1370,6 +1370,7 @@
 * [krzemienski/ccb-ui](https://github.com/krzemienski/ccb-ui): None
 * [Li-vien/CcClip](https://github.com/Li-vien/CcClip): vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道
 * [kbwo/ccmanager](https://github.com/kbwo/ccmanager): Claude Code / Gemini CLI / Codex CLI Session Manager
+* [gifflet/ccmd](https://github.com/gifflet/ccmd): The package manager for Claude Code commands
 * [ccxt/ccxt](https://github.com/ccxt/ccxt): A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 * [TysonWorks/cdk-examples](https://github.com/TysonWorks/cdk-examples): AWS CDK Examples Repository
 * [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s): Define Kubernetes native apps and abstractions using object-oriented programming
@@ -1493,9 +1494,11 @@
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action): None
 * [codingworkflow/claude-code-api](https://github.com/codingworkflow/claude-code-api): None
-* [anthropics/claude-code-base-action](https://github.com/anthropics/claude-code-base-action): None
+* [anthropics/claude-code-base-action](https://github.com/anthropics/claude-code-base-action): This repo is a mirror of the contents of base-action in https://github.com/anthropics/claude-code-action.
 * [krzemienski/claude-code-builder](https://github.com/krzemienski/claude-code-builder): AI-powered Python CLI tool that automates the entire software development lifecycle using the Claude Code SDK. From specification to deployment, Claude Code Builder
+* [arsenyinfo/claude-code-logger](https://github.com/arsenyinfo/claude-code-logger): None
 * [grahama1970/claude-code-mcp-enhanced](https://github.com/grahama1970/claude-code-mcp-enhanced): Enhanced Claude Code MCP server with orchestration capabilities, reliability improvements, and self-contained execution patterns
+* [Durafen/Claude-code-memory](https://github.com/Durafen/Claude-code-memory): 🧠 Universal semantic indexer providing persistent memory for Claude Code through knowledge   graphs, Tree-sitter parsing, and Qdrant vector search 
 * [Haidzai/claude-code-proxy](https://github.com/Haidzai/claude-code-proxy): Monitor and visualize your Claude Code API interactions with Claude Code Proxy. Easily set up a transparent proxy and live dashboard. 🛠️🚀
 * [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python): None
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
@@ -1507,10 +1510,12 @@
 * [possibilities/claude-composer](https://github.com/possibilities/claude-composer): None
 * [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
 * [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow): Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.
+* [decider/claude-hooks](https://github.com/decider/claude-hooks): Comprehensive hooks for Claude Code to enforce clean code practices and automate workflows
 * [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub):   A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions,    and help developers understand and improve their codebase through simple @mentions.
 * [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 * [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [grahama1970/claude-task-runner](https://github.com/grahama1970/claude-task-runner): None
+* [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm): None
 * [krzemienski/claudecodeui](https://github.com/krzemienski/claudecodeui): Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui): Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * [getAsterisk/claudia](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -1583,6 +1588,7 @@
 * [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt): A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 * [faisalpinitod/code_converter_AI](https://github.com/faisalpinitod/code_converter_AI): CodeWise is a web-based application designed to provide intelligent code assistance using OpenAI's GPT-3.5 Turbo. This powerful tool aims to simplify coding tasks by offering code conversion, debugging, and quality check features across multiple programming languages. 
 * [Ajitroy01/Code_Genius](https://github.com/Ajitroy01/Code_Genius): Code_Genius empowers developers with code conversion, debugging, and code quality checks, making it easier to work on code in multiple programming languages while ensuring it's error-free and adheres to best practices.
+* [eugenepyvovarov/CodeAgentsMobile](https://github.com/eugenepyvovarov/CodeAgentsMobile): Mobile client for Claude Code. 
 * [krzemienski/CodeAgentsMobile](https://github.com/krzemienski/CodeAgentsMobile): Mobile client for Claude Code. https://testflight.apple.com/join/eUpweBZV
 * [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad
 * [CodingDemon1/CodeConverter-GenAI](https://github.com/CodingDemon1/CodeConverter-GenAI): The Code Converter App is a versatile tool that allows users to convert, debug, and analyze code written in various programming languages. It utilizes the OpenAI GPT-3.5 turbo model to provide dynamic code conversion, debugging assistance, and code analysis.
@@ -2188,6 +2194,7 @@
 * [Eyevinn/docker-wrtc-origin](https://github.com/Eyevinn/docker-wrtc-origin): None
 * [Eyevinn/docker-wrtc-whep](https://github.com/Eyevinn/docker-wrtc-whep): None
 * [mattpaletta/docker-xcbuild](https://github.com/mattpaletta/docker-xcbuild): Using Facebook xcbuild inside docker
+* [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic): Visual Docker Container Management on Mac & Windows
 * [jkingyens/docker4xcode](https://github.com/jkingyens/docker4xcode): Build, ship and run iOS apps like docker containers
 * [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and understand Docker&Container technologies, with real DevOps practice!
 * [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet): 🐋 Docker Cheat Sheet 🐋
@@ -4043,7 +4050,6 @@
 * [JonathanBeck/kio_afc](https://github.com/JonathanBeck/kio_afc): a KIOSlave implementation wrapping the AFC protocol
 * [IGRSoft/KisMac2](https://github.com/IGRSoft/KisMac2): KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
 * [gitpitch/kitchen-sink](https://github.com/gitpitch/kitchen-sink): GitPitch Live Slideshow Presentation Feature Demo 
-* [docker/kitematic](https://github.com/docker/kitematic): Visual Docker Container Management on Mac & Windows
 * [noppefoxwolf/Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi): Overlay alpha channel video animation player view using Metal.
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 * [Kitura/Kitura](https://github.com/Kitura/Kitura): A Swift web framework and HTTP server.
@@ -4422,6 +4428,7 @@
 * [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server): Local RTMP Streaming Server
 * [mrdbourke/mac-ml-speed-test](https://github.com/mrdbourke/mac-ml-speed-test): A few quick scripts focused on testing TensorFlow/PyTorch/Llama 2 on macOS.
 * [exyte/Macaw](https://github.com/exyte/Macaw): Powerful and easy-to-use vector graphics Swift library with SVG support
+* [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [MacDownApp/macdown](https://github.com/MacDownApp/macdown): Open source Markdown editor for macOS.
 * [macfuse/macfuse](https://github.com/macfuse/macfuse): macFUSE umbrella repository
 * [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading): Code for Machine Learning for Algorithmic Trading, 2nd edition.
@@ -4979,6 +4986,7 @@
 * [dlenroc/node-roku](https://github.com/dlenroc/node-roku): Powerful toolbox for controlling Roku devices
 * [bschlenk/node-roku-client](https://github.com/bschlenk/node-roku-client): Discover and control Roku devices with NodeJS.
 * [iizukanao/node-rtsp-rtmp-server](https://github.com/iizukanao/node-rtsp-rtmp-server): RTSP/RTMP/HTTP hybrid server
+* [zackradisic/node-soundcloud-downloader](https://github.com/zackradisic/node-soundcloud-downloader): A SoundCloud API v2 wrapper for Node.js
 * [Eyevinn/node-srt](https://github.com/Eyevinn/node-srt): Nodejs bindings for Secure Reliable Transport SDK
 * [waleedahmad/node-stream](https://github.com/waleedahmad/node-stream): RTMP server in Nodejs for live streaming. 
 * [nikhilm/node-taglib](https://github.com/nikhilm/node-taglib): Simple taglib bindings to Javascript using node.js
@@ -5870,6 +5878,7 @@
 * [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence): Self-Hosted Bookmark And Archive Manager
 * [remix-run/remix](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 * [johnno1962/Remote](https://github.com/johnno1962/Remote): Control your iPhone from inside Xcode for end-to-end testing.
+* [egekocabas/remote-docker](https://github.com/egekocabas/remote-docker): A Docker Desktop extension for managing and monitoring remote Docker environments via SSH tunneling.
 * [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter): Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
 * [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save): Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 * [dineshabe/RemoteMedia](https://github.com/dineshabe/RemoteMedia): tvOS App that allows people to stream videos from phone to tv
@@ -5939,7 +5948,7 @@
 * [rwf2/Rocket](https://github.com/rwf2/Rocket): A web framework for Rust.
 * [app-generator/rocket-django](https://github.com/app-generator/rocket-django): Rocket Django - Free Starter styled with Tailwind/Flowbite | App-Generator.dev
 * [apache/rocketmq](https://github.com/apache/rocketmq): Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
-* [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes): AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
+* [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes): ✨ AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
 * [diego3g/rocketredis](https://github.com/diego3g/rocketredis): A beautiful Redis GUI :fire: (under development)
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [rockstor/rockstor-core](https://github.com/rockstor/rockstor-core): Linux/BTRFS based Network Attached Storage(NAS)
@@ -6188,6 +6197,7 @@
 * [jamesfining/scte](https://github.com/jamesfining/scte): Python library to work with SCTE standards.
 * [futzu/SCTE-35_HLS_x9k3](https://github.com/futzu/SCTE-35_HLS_x9k3): HLS and SCTE-35   x9k3 is a HLS Segmenter with SCTE 35, and  Live Streaming from Non-Live Soures and Looping.
 * [nfl/scte35](https://github.com/nfl/scte35): Java library that handles decoding strings that follow the SCTE 35 Standard
+* [Comcast/scte35-go](https://github.com/Comcast/scte35-go): Golang implementation of ANSI/SCTE-35
 * [Eyevinn/scte35-inserter](https://github.com/Eyevinn/scte35-inserter): Tool to insert SCTE35 messages at a configurable interval
 * [Comcast/scte35-js](https://github.com/Comcast/scte35-js): A SCTE 35 Parser for JavaScript
 * [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt): A daemon for tracking and tweeting trending Github repositories by language.
@@ -6466,6 +6476,7 @@
 * [cedriking/spark](https://github.com/cedriking/spark): Spark is an Auto-GPT alternative that uses LocalAI.
 * [perwendel/spark](https://github.com/perwendel/spark): A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
 * [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi): Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
+* [marcelsud/spec-driven-agentic-development](https://github.com/marcelsud/spec-driven-agentic-development): None
 * [specstoryai/specflow](https://github.com/specstoryai/specflow): Specflow is a structured but flexible process methodology for building with software agents
 * [zhuhaow/Specht](https://github.com/zhuhaow/Specht): A rule-based proxy app built with Network Extension for macOS
 * [mdx-js/specification](https://github.com/mdx-js/specification): Archived info on MDX language and AST definitions
@@ -7227,6 +7238,7 @@
 * [FDH2/UxPlay](https://github.com/FDH2/UxPlay): AirPlay Unix mirroring server
 * [antimof/UxPlay](https://github.com/antimof/UxPlay): AirPlay Unix mirroring server
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
+* [vercel/v0-sdk](https://github.com/vercel/v0-sdk): SDK for the v0 Platform API
 * [pengchujin/v2rayDocker](https://github.com/pengchujin/v2rayDocker): 一键v2ray ws + tls 方便就完事了
 * [korandiz/v4l](https://github.com/korandiz/v4l): Facade to the Video4Linux video capture interface. 
 * [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver): RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
@@ -7578,6 +7590,7 @@
 * [webslides/WebSlides](https://github.com/webslides/WebSlides): Create HTML presentations in seconds —
 * [vapor/websocket-kit](https://github.com/vapor/websocket-kit): WebSocket client library built on SwiftNIO
 * [f4rih/websploit](https://github.com/f4rih/websploit): Websploit is a high level MITM framework
+* [webui-dev/webui](https://github.com/webui-dev/webui): Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 * [glut23/webvtt-py](https://github.com/glut23/webvtt-py): Read, write, convert and segment WebVTT caption files in Python.
 * [opencoconut/webvtt-ruby](https://github.com/opencoconut/webvtt-ruby): WebVTT Ruby parser and segmenter
 * [w3c/webvtt.js](https://github.com/w3c/webvtt.js): WebVTT parser and validator

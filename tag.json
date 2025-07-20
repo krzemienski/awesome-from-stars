@@ -968,6 +968,9 @@
     "Comcast/python-batch-runner": [
         "Other"
     ],
+    "Comcast/scte35-go": [
+        "Other"
+    ],
     "Comcast/scte35-js": [
         "Other"
     ],
@@ -1244,6 +1247,9 @@
     "DhruvParikh1/files-to-llm-prompt": [
         "Other"
     ],
+    "Dicklesworthstone/claude_code_agent_farm": [
+        "Other"
+    ],
     "DicomJ/mpeg-mp4": [
         "Other"
     ],
@@ -1341,6 +1347,9 @@
         "Other"
     ],
     "Dungyichao/http_server": [
+        "Other"
+    ],
+    "Durafen/Claude-code-memory": [
         "Other"
     ],
     "EG-BRS/cookiecutter-java-service": [
@@ -3920,6 +3929,9 @@
     "Rafostar/gnome-shell-extension-cast-to-tv": [
         "Other"
     ],
+    "Rahulec08/appium-mcp": [
+        "Other"
+    ],
     "RakambdaOrg/MediaConverter": [
         "Other"
     ],
@@ -6375,6 +6387,9 @@
         "Other"
     ],
     "armbues/SiLLM": [
+        "Other"
+    ],
+    "arsenyinfo/claude-code-logger": [
         "Other"
     ],
     "arslancb/clipbucket": [
@@ -8858,6 +8873,9 @@
     "dechamps/HDRCompare": [
         "Other"
     ],
+    "decider/claude-hooks": [
+        "Other"
+    ],
     "deepch/vdk": [
         "Other"
     ],
@@ -9251,6 +9269,9 @@
     "dnth/huggingface-timm-mobile-blogpost": [
         "Other"
     ],
+    "docker-archive-public/docker.kitematic": [
+        "Other"
+    ],
     "docker-flow/docker-flow-proxy": [
         "Other"
     ],
@@ -9273,9 +9294,6 @@
         "Other"
     ],
     "docker/genai-stack": [
-        "Other"
-    ],
-    "docker/kitematic": [
         "Other"
     ],
     "docker/labs-ai-tools-for-devs": [
@@ -9671,6 +9689,9 @@
     "ega4432/notion-to-markdown-action": [
         "Other"
     ],
+    "egekocabas/remote-docker": [
+        "Other"
+    ],
     "egg-bread/hls-to-mp4": [
         "Other"
     ],
@@ -10038,6 +10059,9 @@
         "Other"
     ],
     "eugene87222/NCTU-Video-Streaming-and-Tracking": [
+        "Other"
+    ],
+    "eugenepyvovarov/CodeAgentsMobile": [
         "Other"
     ],
     "eugeneware/ffmpeg-static": [
@@ -10893,6 +10917,9 @@
         "Other"
     ],
     "gianpispi/visionos-avplayer-sample": [
+        "Other"
+    ],
+    "gifflet/ccmd": [
         "Other"
     ],
     "gilbertchen/acrosync-library": [
@@ -13154,9 +13181,6 @@
     "kamhix/todoist-linux": [
         "Other"
     ],
-    "kamkry-zz/AmdGPUH265Handler": [
-        "Other"
-    ],
     "kamranahmedse/githunt": [
         "Other"
     ],
@@ -14874,6 +14898,9 @@
         "Other"
     ],
     "marceloboeira/m3u8.cr": [
+        "Other"
+    ],
+    "marcelsud/spec-driven-agentic-development": [
         "Other"
     ],
     "marcgibbons/django-rest-swagger": [
@@ -17188,6 +17215,9 @@
     ],
     "p-e-w/argos": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "p0deje/Maccy": [
+        "Other"
     ],
     "p2/OAuth2": [
         "Other"
@@ -21725,6 +21755,9 @@
     "vercel/hyper": [
         "Other"
     ],
+    "vercel/v0-sdk": [
+        "Other"
+    ],
     "vergoh/vnstat-docker": [
         "Other"
     ],
@@ -22278,6 +22311,9 @@
         "Other"
     ],
     "webtor-io/content-transcoder": [
+        "Other"
+    ],
+    "webui-dev/webui": [
         "Other"
     ],
     "wei/socialify": [
@@ -22887,6 +22923,9 @@
         "Other"
     ],
     "zackees/gptrepo": [
+        "Other"
+    ],
+    "zackradisic/node-soundcloud-downloader": [
         "Other"
     ],
     "zalando-incubator/kopf": [
