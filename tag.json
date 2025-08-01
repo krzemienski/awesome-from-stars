@@ -3077,6 +3077,9 @@
     "M7S/dockbarx": [
         "Other"
     ],
+    "MCPJam/inspector": [
+        "Other"
+    ],
     "MGF15/SoundGrab": [
         "Other"
     ],
@@ -3558,6 +3561,9 @@
         "Other"
     ],
     "Nutlope/roomGPT": [
+        "Other"
+    ],
+    "Nutlope/whisper": [
         "Other"
     ],
     "NvChad/NvChad": [
@@ -7898,6 +7904,9 @@
     "charmbracelet/bubbletea": [
         "Other"
     ],
+    "charmbracelet/crush": [
+        "Other"
+    ],
     "charmbracelet/vhs": [
         "Other"
     ],
@@ -8820,6 +8829,9 @@
         "Other"
     ],
     "davedelong/MVCTodo": [
+        "Other"
+    ],
+    "davepoon/claude-code-subagents-collection": [
         "Other"
     ],
     "davesteele/gnome-gmail": [
@@ -20096,7 +20108,7 @@
     "sourcegraph/awesome-code-ai": [
         "Other"
     ],
-    "sourcegraph/cody": [
+    "sourcegraph/cody-public-snapshot": [
         "Other"
     ],
     "sourcegraph/sourcegraph-public-snapshot": [
@@ -22725,6 +22737,9 @@
         "Other"
     ],
     "wshobson/agents": [
+        "Other"
+    ],
+    "wshobson/commands": [
         "Other"
     ],
     "wsvincent/awesome-django": [

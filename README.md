@@ -1531,6 +1531,7 @@
 * [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec): From prototype to production with Spec-Driven Development for Claude Code. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build with AI
 * [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective):   🚀 Autonomous AI development with 19 specialized sub-agents coordinated through Claude Code.   Production-ready applications from natural language requests with browser validation.
 * [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents): Collection of specialized AI subagents for Claude Code for personal use.
+* [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection): Claude Code Subagents Collection
 * [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 * [evanlong-me/claude-code-usage](https://github.com/evanlong-me/claude-code-usage): 📊 A command-line tool to analyze and summarize your code usage with Claude AI.
 * [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): Real-time Claude Code usage monitor with predictions and warnings
@@ -1650,7 +1651,7 @@
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [krzemienski/codex-universal](https://github.com/krzemienski/codex-universal): Base docker image used in Codex environments
 * [openai/codex-universal](https://github.com/openai/codex-universal): Base docker image used in Codex environments
-* [sourcegraph/cody](https://github.com/sourcegraph/cody): Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
+* [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot): Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 * [CodyFlame/CodyFire](https://github.com/CodyFlame/CodyFire): 🌸 Powerful Codable API requests builder and manager for iOS.
 * [rokibulislaam/colab-ffmpeg-cuda](https://github.com/rokibulislaam/colab-ffmpeg-cuda): FFmpeg build with CUDA support for Linux (especially for  Google Colab)
 * [abiosoft/colima](https://github.com/abiosoft/colima): Container runtimes on macOS (and Linux) with minimal setup
@@ -1666,6 +1667,7 @@
 * [chaojie/ComfyUI-DynamiCrafter](https://github.com/chaojie/ComfyUI-DynamiCrafter): None
 * [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink): Comlink makes WebWorkers enjoyable.
 * [tj/commander.js](https://github.com/tj/commander.js): node.js command-line interfaces made easy
+* [wshobson/commands](https://github.com/wshobson/commands): A collection of production-ready slash commands for Claude Code
 * [streaming-video-technology-alliance/common-media-library](https://github.com/streaming-video-technology-alliance/common-media-library): A common library for media playback in JavaScript
 * [apache/commons-imaging](https://github.com/apache/commons-imaging): Apache Commons Imaging (previously Sanselan) is a pure-Java image library
 * [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community): AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
@@ -1821,6 +1823,7 @@
 * [cruffenach/CRToast](https://github.com/cruffenach/CRToast): A modern iOS toast view that can fit your notification needs
 * [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch): Insane(ly slow but wicked good) PNG image optimization
 * [jaggad/crunker](https://github.com/jaggad/crunker): Simple way to merge or concatenate audio files with the Web Audio API. 
+* [charmbracelet/crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for your favourite terminal 💘
 * [stravu/crystal](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 * [christopher-beckham/cs109-dl-videos](https://github.com/christopher-beckham/cs109-dl-videos): Shell script to scrape Harvard CS109 (Intro to Data Science) lecture videos
@@ -3807,6 +3810,7 @@
 * [michaelversus/insomnia-plugin-codegen](https://github.com/michaelversus/insomnia-plugin-codegen): None
 * [benemohamed/insomnia-plugin-json-schema](https://github.com/benemohamed/insomnia-plugin-json-schema): insomnia plugin generated json schema from response
 * [klickpages/insomnia-plugin-repo-sync](https://github.com/klickpages/insomnia-plugin-repo-sync): None
+* [MCPJam/inspector](https://github.com/MCPJam/inspector): Postman for MCPs - A tool for testing and debugging MCPs 
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: Install.md with dotfiles and etc
 * [lmlsna/install-scripts](https://github.com/lmlsna/install-scripts): Ubuntu install scripts
@@ -6080,7 +6084,7 @@
 * [tanyuan/rokuwiki](https://github.com/tanyuan/rokuwiki): 🤹‍♂️ A DokuWiki template (theme).
 * [wimpysworld/rolling-rhino](https://github.com/wimpysworld/rolling-rhino): Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
 * [tmspzz/Rome](https://github.com/tmspzz/Rome): Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
-* [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code): Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+* [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code): Roo Code gives you a whole dev team of AI agents in your code editor.
 * [rokucommunity/rooibos](https://github.com/rokucommunity/rooibos): simple, flexible, fun brightscript test framework for roku scenegraph apps
 * [rokucommunity/rooibos-roku-sample](https://github.com/rokucommunity/rooibos-roku-sample): sample application demonstrating how to use rooibos-roku
 * [rook/rook](https://github.com/rook/rook): Storage Orchestration for Kubernetes
@@ -7677,6 +7681,7 @@
 * [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt): Decrypt WhatsApp encrypted media files
 * [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit): Showcase your awesome new app features 📱
 * [Eyevinn/whip](https://github.com/Eyevinn/whip): Client and Server modules for WebRTC HTTP Ingestion Protocol (WHIP)
+* [Nutlope/whisper](https://github.com/Nutlope/whisper): Take notes with your voice & transform them with AI
 * [openai/whisper](https://github.com/openai/whisper): Robust Speech Recognition via Large-Scale Weak Supervision
 * [yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune): Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployment, Windows desktop deployment, and Android deployment
 * [lgrammel/whisperwriter](https://github.com/lgrammel/whisperwriter): Local & private voice controlled notepad using whisper.cpp
