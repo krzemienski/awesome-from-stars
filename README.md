@@ -1385,7 +1385,7 @@
 * [gifflet/ccmd](https://github.com/gifflet/ccmd): The package manager for Claude Code commands
 * [miwidot/ccms](https://github.com/miwidot/ccms): Claude Code Machine Sync
 * [sivchari/ccowl](https://github.com/sivchari/ccowl): A cross-platform status bar application that monitors Claude Code usage in real-time.
-* [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins): Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation.
+* [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins): Best curated Claude Code commands and automations that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 * [RonitSachdev/ccundo](https://github.com/RonitSachdev/ccundo): ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code's session files to track file operations and allows you to selectively revert changes with full preview and cascading safety.
 * [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage): A CLI tool for analyzing Claude Code usage from local JSONL files.
 * [ccxt/ccxt](https://github.com/ccxt/ccxt): A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -5009,7 +5009,7 @@
 * [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS): NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 * [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
-* [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb): Natural Language Web
+* [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb): The main repo for NLWeb, implemented in Python.
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
 * [franglais125/no-title-bar](https://github.com/franglais125/no-title-bar): Integrates maximized windows with the top panel
 * [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel.
