@@ -572,9 +572,6 @@
     "BERNARDO31P/FastDownloader": [
         "Other"
     ],
-    "BMPixel/cui": [
-        "Other"
-    ],
     "Bash-it/bash-it": [
         "Other"
     ],
@@ -1224,6 +1221,9 @@
         "Other"
     ],
     "DavidDeBels/NotionClient": [
+        "Other"
+    ],
+    "DavidWells/claude-dev-container": [
         "Other"
     ],
     "Deadshot0x7/007-TheBond": [
@@ -3149,6 +3149,9 @@
     "Mar2ck/DAIN-Vulkan-GUI": [
         "Other"
     ],
+    "MarSeventh/CloudFlare-ImgBed": [
+        "Other"
+    ],
     "MarcAntoine-Arnaud/HEVC": [
         "Other"
     ],
@@ -4157,6 +4160,9 @@
     "RyogaK/Moya-Unbox": [
         "Other"
     ],
+    "S44WN/hailee-portfolio-website": [
+        "Other"
+    ],
     "SDGLBL/mcp-claude-code": [
         "Other"
     ],
@@ -4191,6 +4197,9 @@
         "Other"
     ],
     "Saentist/tvheadend": [
+        "Other"
+    ],
+    "SafeRL-Lab/agentic-web": [
         "Other"
     ],
     "Saif807380/gh-topics-scraper": [
@@ -4509,6 +4518,9 @@
         "Other"
     ],
     "SvenTiigi/WhatsNewKit": [
+        "Other"
+    ],
+    "SvenTiigi/YouTubePlayerKit": [
         "Other"
     ],
     "SwiftDocOrg/swift-doc": [
@@ -7673,6 +7685,9 @@
     "cameroncooke/XcodeBuildMCP": [
         "Other"
     ],
+    "campfirein/cipher": [
+        "Other"
+    ],
     "canalplus/rx-player": [
         "Other"
     ],
@@ -8279,6 +8294,9 @@
     "codiga/code-snippets-manager": [
         "Other"
     ],
+    "codingauto/aicarpool": [
+        "Other"
+    ],
     "codingworkflow/claude-code-api": [
         "Other"
     ],
@@ -8328,6 +8346,9 @@
         "Other"
     ],
     "condemane/cookiecutter-airflow-ha": [
+        "Other"
+    ],
+    "confident-ai/deepeval": [
         "Other"
     ],
     "conjure-up/conjure-up": [
@@ -9794,7 +9815,7 @@
     "ehrishirajsharma/SwiftnessX": [
         "Other"
     ],
-    "eibol/ffmpeg_batch": [
+    "eibols/ffmpeg_batch": [
         "Other"
     ],
     "eingress/docker-compose-traefik-letsencrypt-cloudflare": [
@@ -11411,6 +11432,9 @@
     "gradio-app/gradio": [
         "Other"
     ],
+    "gradio-app/trackio": [
+        "Other"
+    ],
     "grafana/grafana": [
         "Other"
     ],
@@ -12522,6 +12546,9 @@
         "Other"
     ],
     "jacksalici/notion-cli-list-manager": [
+        "Other"
+    ],
+    "jacksteamdev/obsidian-mcp-tools": [
         "Other"
     ],
     "jackzhenguo/python-small-examples": [
@@ -13797,6 +13824,9 @@
         "Other"
     ],
     "krzemienski/claude-code-builder": [
+        "Other"
+    ],
+    "krzemienski/claude-code-ios-ui": [
         "Other"
     ],
     "krzemienski/claude-code-web-server": [
@@ -19433,6 +19463,9 @@
     "semanser/dotfiles": [
         "Other"
     ],
+    "semgrep/mcp": [
+        "Other"
+    ],
     "semperai/amica": [
         "Other"
     ],
@@ -20276,6 +20309,9 @@
     "squidpickles/mpd-to-m3u8": [
         "Other"
     ],
+    "srbhr/Resume-Matcher": [
+        "Other"
+    ],
     "src-d/awesome-machine-learning-on-source-code": [
         "Other"
     ],
@@ -20325,6 +20361,9 @@
         "Other"
     ],
     "stanford-oval/storm": [
+        "Other"
+    ],
+    "stanfordnlp/dspy": [
         "Other"
     ],
     "star7th/showdoc": [
@@ -21338,7 +21377,7 @@
     "tomkowz/NetworkLayerExample": [
         "Other"
     ],
-    "tomwojcik/homeserver-traefik-portainer": [
+    "tomwojcik/homeserver-cloudflared-portainer": [
         "Other"
     ],
     "tone-row/flowchart-fun": [
@@ -22460,6 +22499,9 @@
     "wazcov/AWS-Java-Samples": [
         "Other"
     ],
+    "wbopan/cui": [
+        "Other"
+    ],
     "wcchristian/gh-action-notion-card": [
         "Other"
     ],
@@ -23288,7 +23330,7 @@
     "zilliztech/GPTCache": [
         "Other"
     ],
-    "zilliztech/code-context": [
+    "zilliztech/claude-context": [
         "Other"
     ],
     "zilliztech/deep-searcher": [
