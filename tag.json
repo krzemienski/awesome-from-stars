@@ -2396,7 +2396,7 @@
     "HenryLulu/video-to-text-ocr-demo": [
         "Other"
     ],
-    "HeroTools/open-wispr": [
+    "HeroTools/open-whispr": [
         "Other"
     ],
     "HeroTransitions/Hero": [
@@ -7287,9 +7287,6 @@
         "Other"
     ],
     "bitrise-io/bitrise-workflow-editor": [
-        "Other"
-    ],
-    "bitrise-io/devcenter": [
         "Other"
     ],
     "bitrise-io/sample-apps-ios-with-bitrise-yml": [
@@ -13290,6 +13287,9 @@
         "Other"
     ],
     "kaiseracm/gnome-shell-extension-maximize-to-empty-workspace": [
+        "Other"
+    ],
+    "kaito-project/aikit": [
         "Other"
     ],
     "kala13x/libxmedia": [
@@ -20163,9 +20163,6 @@
         "Other"
     ],
     "soyvillareal/Tubeak": [
-        "Other"
-    ],
-    "sozercan/aikit": [
         "Other"
     ],
     "sp-hy/linux-intel-undervolt-gui": [
