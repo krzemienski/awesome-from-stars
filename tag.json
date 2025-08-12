@@ -1055,6 +1055,9 @@
     "CrackerCat/video_decrypter": [
         "Other"
     ],
+    "CristianCardosoA/installSwiftCentos": [
+        "Other"
+    ],
     "CrypticSignal/av-converter": [
         "Other"
     ],
@@ -3756,9 +3759,6 @@
         "Other"
     ],
     "Paxa/postbird": [
-        "Other"
-    ],
-    "PepeLolaLOL/installSwiftCentos": [
         "Other"
     ],
     "PerfectlySoft/Perfect": [
@@ -11600,9 +11600,6 @@
     "hadolint/hadolint": [
         "Other"
     ],
-    "haikelfazzani/soundme": [
-        "Other"
-    ],
     "haile01/github-starred-list": [
         "Other"
     ],
@@ -12375,6 +12372,9 @@
         "Other"
     ],
     "intellectronica/ruler": [
+        "Other"
+    ],
+    "intelligentcode-ai/intelligent-claude-code": [
         "Other"
     ],
     "intellij-rust/intellij-rust": [
@@ -13238,9 +13238,6 @@
     "jzillmann/pdf-to-markdown": [
         "Other"
     ],
-    "k-vernooy/dotfiles": [
-        "Other"
-    ],
     "k3d-io/k3d": [
         "Other"
     ],
@@ -13929,9 +13926,6 @@
         "Other"
     ],
     "krzyzanowskim/Natalie": [
-        "Other"
-    ],
-    "ksamaschke/intelligent-claude-code": [
         "Other"
     ],
     "ksindi/flask-sqlacodegen": [
@@ -21374,7 +21368,7 @@
     "tomkowz/NetworkLayerExample": [
         "Other"
     ],
-    "tomwojcik/homeserver-cloudflared-portainer": [
+    "tomwojcik/homeserver-traefik-portainer": [
         "Other"
     ],
     "tone-row/flowchart-fun": [

@@ -1535,7 +1535,7 @@
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
 * [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec): From prototype to production with Spec-Driven Development for Claude Code. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build with AI
 * [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective):   🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude   Code.
-* [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents): Collection of specialized AI subagents for Claude Code for personal use.
+* [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents): Collection of specialized AI subagents for Claude Code for personal use (full-stack development).
 * [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection): Claude Code Subagents & Commands Collection + CLI Tool
 * [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 * [evanlong-me/claude-code-usage](https://github.com/evanlong-me/claude-code-usage): 📊 A command-line tool to analyze and summarize your code usage with Claude AI.
@@ -1557,7 +1557,7 @@
 * [gbechtold/Claude-to-React-Next](https://github.com/gbechtold/Claude-to-React-Next): Convert Claude Artefacts to React Next with a single Prompt
 * [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm): None
 * [krzemienski/claudecodeui](https://github.com/krzemienski/claudecodeui): Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-* [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui): Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+* [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui): Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * [getAsterisk/claudia](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 * [krzemienski/claudia](https://github.com/krzemienski/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
@@ -2183,7 +2183,7 @@
 * [restreamio/docker-gstreamer](https://github.com/restreamio/docker-gstreamer): Ubuntu-based container images with upstream GStreamer pre-installed
 * [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake): Docker container for HandBrake
 * [Eyevinn/docker-hevc](https://github.com/Eyevinn/docker-hevc): Docker container to create HEVC streaming packages
-* [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge): Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac. 
+* [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge): Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (ARM64). Includes ffmpeg + libfdk-aac. 
 * [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab): Docker Compose Dateien für Homelabs
 * [Eyevinn/docker-html5player](https://github.com/Eyevinn/docker-html5player): A Docker containerized HTML5 player based on Shaka Player
 * [docker/docker-install](https://github.com/docker/docker-install): Docker installation script
@@ -2304,7 +2304,6 @@
 * [daniruiz/dotfiles](https://github.com/daniruiz/dotfiles): ~/.dotfiles
 * [holman/dotfiles](https://github.com/holman/dotfiles): @holman does dotfiles
 * [jzbor/dotfiles](https://github.com/jzbor/dotfiles): None
-* [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles): An organizational repository for my dotfiles and scripts
 * [lewagon/dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 * [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles): Configuration for NixOS, sway, kitty, helix, zsh and more
@@ -3302,7 +3301,7 @@
 * [rb-de0/go-mp4-stream](https://github.com/rb-de0/go-mp4-stream): MP4 pseudo streaming server with Golang 
 * [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd): Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files
 * [dstotijn/go-notion](https://github.com/dstotijn/go-notion): Go client for the Notion API.
-* [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai): OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+* [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai): OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 * [Eyevinn/go-origin](https://github.com/Eyevinn/go-origin): A simplistic live streaming origin written in Go
 * [kevholditch/go-pagerduty-slack-sync](https://github.com/kevholditch/go-pagerduty-slack-sync): A small app to sync pagerduty on call groups to slack groups
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms
@@ -3668,7 +3667,7 @@
 * [SimonHaas/homeserver](https://github.com/SimonHaas/homeserver): homeserver setup with multiple services via docker
 * [ruma/homeserver](https://github.com/ruma/homeserver): A Matrix homeserver written in Rust.
 * [zilexa/Homeserver](https://github.com/zilexa/Homeserver): Lightweight home server based on microservices, usable as desktop workstation
-* [tomwojcik/homeserver-cloudflared-portainer](https://github.com/tomwojcik/homeserver-cloudflared-portainer): My homeserver setup. Everything managed securely using Portainer.
+* [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer): My homeserver setup. Everything managed securely using Portainer.
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
 * [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh): Honukai theme and colors for Oh My ZSH and iTerm
@@ -3827,7 +3826,7 @@
 * [gamelife2025/install-software](https://github.com/gamelife2025/install-software): One-click installation of common software
 * [aertslab/install_aspera_connect](https://github.com/aertslab/install_aspera_connect): Install latest version of Aspera Connect and show example how to use it for downloading sequening data.
 * [ubports/installer-configs](https://github.com/ubports/installer-configs): Install configurations for the UBports Installer
-* [PepeLolaLOL/installSwiftCentos](https://github.com/PepeLolaLOL/installSwiftCentos): Script to install Swift on Linux
+* [CristianCardosoA/installSwiftCentos](https://github.com/CristianCardosoA/installSwiftCentos): Script to install Swift on Linux
 * [instaloader/instaloader](https://github.com/instaloader/instaloader): Download pictures (or videos) along with their captions and other metadata from Instagram.
 * [rokudev/instant-resume](https://github.com/rokudev/instant-resume): Demonstrates how to implement Instant Resume in a channel
 * [alexmojaki/instant_api](https://github.com/alexmojaki/instant_api): Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!
@@ -3838,7 +3837,7 @@
 * [kitsunyan/intel-undervolt](https://github.com/kitsunyan/intel-undervolt): Intel CPU undervolting and throttling configuration tool
 * [intel/intel-vaapi-driver](https://github.com/intel/intel-vaapi-driver): VA-API user mode driver for Intel GEN Graphics family
 * [MicrosoftDocs/intellicode](https://github.com/MicrosoftDocs/intellicode): Visual Studio IntelliCode - AI-enhanced development tools. 👋Want to submit an issue to MicrosoftDocs/intellicode?  If you have a bug or an idea, read the contributing guidelines before opening an issue.  For FAQ's see
-* [ksamaschke/intelligent-claude-code](https://github.com/ksamaschke/intelligent-claude-code): Make Claude Code truly intelligent and way more autonomous!
+* [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code): Make Claude Code truly intelligent and way more autonomous!
 * [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community): IntelliJ IDEA & IntelliJ Platform
 * [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins): Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 * [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust): Rust plugin for the IntelliJ Platform
@@ -4358,7 +4357,7 @@
 * [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench): LiveBench: A Challenging, Contamination-Free LLM Benchmark
 * [scribd/LiveCollections](https://github.com/scribd/LiveCollections): Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.
 * [gwuhaolin/livego](https://github.com/gwuhaolin/livego): live video streaming server in golang
-* [livekit/livekit](https://github.com/livekit/livekit): End-to-end stack for WebRTC. SFU media server and SDKs.
+* [livekit/livekit](https://github.com/livekit/livekit): End-to-end realtime stack for connecting humans and AI
 * [kubernetes-csi/livenessprobe](https://github.com/kubernetes-csi/livenessprobe): A sidecar container that can be included in a CSI plugin pod to enable integration with Kubernetes Liveness Probe.
 * [rac-sri/Livepeer-Video-Streaming](https://github.com/rac-sri/Livepeer-Video-Streaming): DApp to stream videos on livepeer protocol.
 * [back-to/liveproxy](https://github.com/back-to/liveproxy): LiveProxy can redirect Livestreams to your favorite player
@@ -5278,7 +5277,7 @@
 * [tjf801/oneliners](https://github.com/tjf801/oneliners): one line of python code to impliment algorithms
 * [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 * [khuramhaf/Online-Video-Editor](https://github.com/khuramhaf/Online-Video-Editor): Edit MP4 videos online without uploading files to a server. Our browser-based video editor makes it easy to trim, cut and more. No downloads or installations required.
-* [onlook-dev/onlook](https://github.com/onlook-dev/onlook): The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+* [onlook-dev/onlook](https://github.com/onlook-dev/onlook): The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 * [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 * [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
 * [brightcove-archive/ooyala_iq-sdk-roku-sample](https://github.com/brightcove-archive/ooyala_iq-sdk-roku-sample): None
@@ -6535,7 +6534,6 @@
 * [bspst/soundground](https://github.com/bspst/soundground): Native soundcloud client built on Python and curses
 * [barenddt/soundify](https://github.com/barenddt/soundify): Soundcloud Client built using React & Redux
 * [scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2): A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.
-* [haikelfazzani/soundme](https://github.com/haikelfazzani/soundme): 🔥 Search for lyrics and listen to your favorite music from SoundCloud
 * [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app): Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 * [Miserlou/SoundScrape](https://github.com/Miserlou/SoundScrape): SoundCloud (and Bandcamp and Mixcloud) downloader in Python. 
 * [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch): Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
@@ -7290,7 +7288,7 @@
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer): A DLNA, UPnP and HTTP(S) Media Server.
 * [shuosiw/unraid](https://github.com/shuosiw/unraid): my unraid docker template
 * [Xaero252/unraid-plex-nvdec](https://github.com/Xaero252/unraid-plex-nvdec): User Script to apply nvdec wrapper for Plex dockers on Unraid.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth): Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+* [unslothai/unsloth](https://github.com/unslothai/unsloth): Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 * [soroushchehresa/unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers): 🖼️ A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux
 * [anthwlock/untrunc](https://github.com/anthwlock/untrunc): Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * [ponchio/untrunc](https://github.com/ponchio/untrunc): Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
@@ -7312,7 +7310,7 @@
 * [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts): 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 * [thiagolioy/useful_scripts](https://github.com/thiagolioy/useful_scripts): some useful scripts with different purposes .
 * [Eyevinn/user-segmentation-api](https://github.com/Eyevinn/user-segmentation-api): Example of a simple implementation to build a user segmentation api on top of Redis
-* [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x): Customizable user-theme with user stylesheet and night theme auto-switch based on the Night Light.
+* [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x): GNOME Shell extension to switch day/night user theme&stylesheet when the enabled Night Light gets inactive/active
 * [duliodenis/userdefaults-wrapper](https://github.com/duliodenis/userdefaults-wrapper): This is a Swift / SwiftUI property wrapper that simplifies working with UserDefaults, allowing developers to use properties that automatically sync with UserDefaults.
 * [omaralbeik/UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore): Why not use UserDefaults to store Codable objects 😉
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
