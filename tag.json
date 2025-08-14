@@ -3008,6 +3008,9 @@
     "LiLittleCat/awesome-free-chatgpt": [
         "Other"
     ],
+    "LichAmnesia/GPT-Prompt-Hub": [
+        "Other"
+    ],
     "Light-Transcoder/light-transcoder": [
         "Other"
     ],
@@ -5033,6 +5036,9 @@
     "XuebingZhao/BitratePlotter": [
         "Other"
     ],
+    "XuehaiPan/nvitop": [
+        "Other"
+    ],
     "Xuno/XunoPlayer-MPV": [
         "Other"
     ],
@@ -6545,6 +6551,9 @@
     "ashishb/android-security-awesome": [
         "Other"
     ],
+    "ashishpatel26/500-AI-Agents-Projects": [
+        "Other"
+    ],
     "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code": [
         "Other"
     ],
@@ -7635,6 +7644,12 @@
         "Other"
     ],
     "bytecodealliance/wasmtime": [
+        "Other"
+    ],
+    "bytedance/UI-TARS": [
+        "Other"
+    ],
+    "bytedance/UI-TARS-desktop": [
         "Other"
     ],
     "bytedance/xgplayer": [
@@ -17009,6 +17024,9 @@
     "omaralbeik/UserDefaultsStore": [
         "Other"
     ],
+    "omnara-ai/omnara": [
+        "Other"
+    ],
     "omochi/ForceHTTP": [
         "Other"
     ],
@@ -19694,6 +19712,9 @@
     "sickcodes/Docker-OSX": [
         "Other"
     ],
+    "sickcodes/osx-optimizer": [
+        "Other"
+    ],
     "sigoden/aichat": [
         "Other"
     ],
@@ -21539,6 +21560,9 @@
     "tuberry/user-theme-x": [
         "Other"
     ],
+    "tuist/XcodeProj": [
+        "Other"
+    ],
     "tuist/tuist": [
         "Other"
     ],
@@ -22515,6 +22539,9 @@
         "Other"
     ],
     "weaviate/weaviate": [
+        "Other"
+    ],
+    "web-infra-dev/midscene": [
         "Other"
     ],
     "web-pal/DBGlass": [
