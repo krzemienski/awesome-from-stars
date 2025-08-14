@@ -4695,7 +4695,7 @@
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 * [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
-* [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp): MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
+* [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp): MCP Aggregator, Orchestrator, Middleware, Gateway in one docker/docker in docker
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
 * [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
@@ -6997,6 +6997,7 @@
 * [gpac/test-engine-live-tools](https://github.com/gpac/test-engine-live-tools): Small tools and scripts for the EBU test engine platform.
 * [ebu/test-engine-ondemand](https://github.com/ebu/test-engine-ondemand): EBU on-demand test engine
 * [Dash-Industry-Forum/Test-Vectors](https://github.com/Dash-Industry-Forum/Test-Vectors): DASH-IF Test Vectors
+* [krzemienski/test-video-assets](https://github.com/krzemienski/test-video-assets): None
 * [JohnSundell/TestDrive](https://github.com/JohnSundell/TestDrive): Quickly try out any Swift pod or framework in a playground
 * [gpac/testsuite](https://github.com/gpac/testsuite): GPAC test suite
 * [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference): A blazing fast inference solution for text embeddings models
