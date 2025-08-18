@@ -4922,6 +4922,9 @@
     "Vityacv/window-list-mod": [
         "Other"
     ],
+    "VoltAgent/awesome-claude-code-subagents": [
+        "Other"
+    ],
     "VoodooSMBus/VoodooRMI": [
         "Other"
     ],
@@ -8378,6 +8381,9 @@
     "containers/podman": [
         "Other"
     ],
+    "contains-studio/agents": [
+        "Other"
+    ],
     "contentful/jekyll-contentful-data-import": [
         "Other"
     ],
@@ -10631,9 +10637,6 @@
     "five82/batchtranscode": [
         "Other"
     ],
-    "five82/ffmpeg-git": [
-        "Other"
-    ],
     "flameshot-org/flameshot": [
         "Other"
     ],
@@ -11280,6 +11283,9 @@
         "Other"
     ],
     "goniszewski/grimoire": [
+        "Other"
+    ],
+    "gonzalezreal/swift-markdown-ui": [
         "Other"
     ],
     "google-ai-edge/mediapipe": [
@@ -12593,6 +12599,9 @@
     "jakeheis/Ice": [
         "Other"
     ],
+    "jakeheis/Shout": [
+        "Other"
+    ],
     "jakeswenson/notion": [
         "Other"
     ],
@@ -13835,6 +13844,9 @@
     "krzemienski/ccb-ui": [
         "Other"
     ],
+    "krzemienski/ccflare": [
+        "Other"
+    ],
     "krzemienski/claude-code-builder": [
         "Other"
     ],
@@ -14193,6 +14205,9 @@
         "Other"
     ],
     "lapce/lapce": [
+        "Other"
+    ],
+    "lapfelix/XcodeMCP": [
         "Other"
     ],
     "laratools/ci": [
@@ -17289,6 +17304,9 @@
         "Other"
     ],
     "orkan/ffmpeg": [
+        "Other"
+    ],
+    "orlandos-nl/Citadel": [
         "Other"
     ],
     "orsinium-labs/awesome-generator": [
@@ -23076,6 +23094,9 @@
         "Other"
     ],
     "yassenshopov/notion-gcal-sync": [
+        "Other"
+    ],
+    "yatish27/omakos": [
         "Other"
     ],
     "yavorsky/auto-github-topics": [

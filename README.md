@@ -193,6 +193,7 @@
 * [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
+* [contains-studio/agents](https://github.com/contains-studio/agents): sharing current agents in use
 * [wshobson/agents](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code
 * [agno-agi/agno](https://github.com/agno-agi/agno): Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
@@ -717,6 +718,7 @@
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): An orchestrated sub agent dev team powered by claude code
 * [LangGPT/awesome-claude-code](https://github.com/LangGPT/awesome-claude-code): Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树）
 * [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A curated list of awesome commands, files, and workflows for Claude Code
+* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents): Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [lebensterben/awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux): Let's make Clear Linux distribution great
 * [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
@@ -901,7 +903,7 @@
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
-* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
+* [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
 * [thexclu/awesome-notion-api](https://github.com/thexclu/awesome-notion-api): This is a collection of awesome idea, tools, integrations build by Notion API.
@@ -1383,6 +1385,7 @@
 * [zmwangx/caterpillar](https://github.com/zmwangx/caterpillar): Hardened HLS merger
 * [krzemienski/ccb-ui](https://github.com/krzemienski/ccb-ui): None
 * [Li-vien/CcClip](https://github.com/Li-vien/CcClip): vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道
+* [krzemienski/ccflare](https://github.com/krzemienski/ccflare): The ultimate CC proxy
 * [snipeship/ccflare](https://github.com/snipeship/ccflare): The ultimate CC proxy
 * [kbwo/ccmanager](https://github.com/kbwo/ccmanager): Claude Code / Gemini CLI / Codex CLI Session Manager
 * [gifflet/ccmd](https://github.com/gifflet/ccmd): The package manager for Claude Code commands
@@ -1501,6 +1504,7 @@
 * [circleci/circleci-docs](https://github.com/circleci/circleci-docs): Documentation for CircleCI.
 * [circus-tent/circus](https://github.com/circus-tent/circus): A Process & Socket Manager built with zmq
 * [ecnepsnai/Cirrus](https://github.com/ecnepsnai/Cirrus): Archive of the Cirrus iOS App Source Code.
+* [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel): SSH Client & Server framework in Swift
 * [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next): RGB Driver for Linux
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 * [Rafostar/clapper](https://github.com/Rafostar/clapper): Level up your video experience with a modern and user-friendly media player.
@@ -2268,7 +2272,7 @@
 * [docling-project/docling](https://github.com/docling-project/docling): Get your documents ready for gen AI
 * [docmost/docmost](https://github.com/docmost/docmost): Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 * [jklukas/docs-on-gh-pages](https://github.com/jklukas/docs-on-gh-pages): Sample of deploying docs to gh-pages branch in CI
-* [arc53/DocsGPT](https://github.com/arc53/DocsGPT): DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
+* [arc53/DocsGPT](https://github.com/arc53/DocsGPT): Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 * [google/docsy](https://github.com/google/docsy): Hugo theme for open source documentation
 * [thlorenz/doctoc](https://github.com/thlorenz/doctoc): 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 * [sillsdev/docu-notion](https://github.com/sillsdev/docu-notion): Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus.
@@ -2748,7 +2752,6 @@
 * [tamara-schmitz/ffmpeg-docker-container](https://github.com/tamara-schmitz/ffmpeg-docker-container): A simple container image based on openSUSE Tumbleweed with the Packman repository.
 * [slhck/ffmpeg-encoding-course](https://github.com/slhck/ffmpeg-encoding-course): An introduction to FFmpeg and its tools
 * [svt/ffmpeg-filter-proxy](https://github.com/svt/ffmpeg-filter-proxy): FFmpeg video proxy filter
-* [five82/ffmpeg-git](https://github.com/five82/ffmpeg-git): An FFmpeg container compiled from the git master branch.
 * [transitive-bullshit/ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition): FFmpeg filter for applying GLSL transitions between video streams.
 * [moonfdd/ffmpeg-go](https://github.com/moonfdd/ffmpeg-go): golang binding for ffmpeg
 * [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go): golang binding for ffmpeg
@@ -4101,7 +4104,7 @@
 * [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 * [kickstarter/Kickstarter-Prelude](https://github.com/kickstarter/Kickstarter-Prelude): A collection of useful Swift tools that are used in the Kickstarter apps.
 * [tiaanduplessis/kill-port](https://github.com/tiaanduplessis/kill-port): ❌ Kill the process running on given port
-* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
 * [luigifcruz/kimera](https://github.com/luigifcruz/kimera): Low-latency hardware accelerated codec based video streaming utility.
 * [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc): Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
 * [getkin/kin-openapi](https://github.com/getkin/kin-openapi): OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -4605,7 +4608,7 @@
 * [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer): An MCP server that installs other MCP servers for you
 * [zueai/mcp-manager](https://github.com/zueai/mcp-manager): simple web ui to manage mcp (model context protocol) servers in the claude app
 * [coleam00/mcp-mem0](https://github.com/coleam00/mcp-mem0): MCP server for long term agent memory with Mem0. Also useful as a template to get you started building your own MCP server with Python!
-* [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service): MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers.
+* [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service):  Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI   applications
 * [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright): Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 * [spences10/mcp-sequentialthinking-tools](https://github.com/spences10/mcp-sequentialthinking-tools): 🧠 An adaptation of the MCP Sequential Thinking Server to guide tool usage. This server provides recommendations for which MCP tools would be most effective at each stage.
 * [Aayush9029/mcp-server](https://github.com/Aayush9029/mcp-server): MCP SERVER
@@ -4695,7 +4698,7 @@
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 * [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
-* [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp): MCP Aggregator, Orchestrator, Middleware, Gateway in one docker/docker in docker
+* [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp): MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
 * [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
@@ -5272,6 +5275,7 @@
 * [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI): User Interface made for Ollama.ai using Swift
 * [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac): Mac compatible Ollama Voice
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
+* [yatish27/omakos](https://github.com/yatish27/omakos): Opinionated macOS setup 
 * [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [omnara-ai/omnara](https://github.com/omnara-ai/omnara): Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
 * [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB): Web tool for database management
@@ -6389,6 +6393,7 @@
 * [a2/shortcuts-swift](https://github.com/a2/shortcuts-swift): Write Shortcuts in Playgrounds
 * [ColdGrub1384/ShortWebCore](https://github.com/ColdGrub1384/ShortWebCore): Run automations on Web Views (iOS)
 * [albanie/shot-detection-benchmarks](https://github.com/albanie/shot-detection-benchmarks): A comparison of ffmpeg, Shotdetect and PySceneDetect for shot transition detection
+* [jakeheis/Shout](https://github.com/jakeheis/Shout): SSH made easy in Swift
 * [star7th/showdoc](https://github.com/star7th/showdoc): ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 * [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder): A professional video compression tool accessible to all, mostly based on FFmpeg.
 * [cats-oss/Sica](https://github.com/cats-oss/Sica): :deer: Simple Interface Core Animation. Run type-safe animation sequencially or parallelly
@@ -6819,6 +6824,7 @@
 * [swiftlang/swift-java](https://github.com/swiftlang/swift-java): Java interopability support for Swift
 * [owensd/swift-langsrv](https://github.com/owensd/swift-langsrv): The language service implementation for VS Code.
 * [geberl/swift-localstorage](https://github.com/geberl/swift-localstorage): Local Storage for iOS
+* [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui): Display and customize Markdown text in SwiftUI
 * [apple/swift-nio](https://github.com/apple/swift-nio): Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 * [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2): HTTP/2 support for SwiftNIO
 * [pointfreeco/swift-nonempty](https://github.com/pointfreeco/swift-nonempty): 🎁 A compile-time guarantee that a collection contains a value.
@@ -7811,6 +7817,7 @@
 * [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP): A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 * [waylybaye/XcodeCleaner](https://github.com/waylybaye/XcodeCleaner): Cleaner for Xcode.app built with react-native-macos
 * [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen): A Swift command line tool for generating your Xcode project
+* [lapfelix/XcodeMCP](https://github.com/lapfelix/XcodeMCP): MCP server for Xcode that wraps its AppleScript interface & uses XCLogParser to return clear build results
 * [CocoaPods/Xcodeproj](https://github.com/CocoaPods/Xcodeproj): Create and modify Xcode projects from Ruby.
 * [tuist/XcodeProj](https://github.com/tuist/XcodeProj):  📝 Read, update and write your Xcode projects
 * [JohnSundell/XcodeTheme](https://github.com/JohnSundell/XcodeTheme): My Xcode theme - Sundell's Colors
