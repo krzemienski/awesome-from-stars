@@ -10631,6 +10631,12 @@
     "firecracker-microvm/firecracker": [
         "Other"
     ],
+    "firecrawl/firecrawl": [
+        "Other"
+    ],
+    "firecrawl/firecrawl-mcp-server": [
+        "Other"
+    ],
     "fit-project/fit": [
         "Other"
     ],
@@ -15453,12 +15459,6 @@
         "Other"
     ],
     "mem0ai/mem0-mcp": [
-        "Other"
-    ],
-    "mendableai/firecrawl": [
-        "Other"
-    ],
-    "mendableai/firecrawl-mcp-server": [
         "Other"
     ],
     "menloresearch/jan": [
