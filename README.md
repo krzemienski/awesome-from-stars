@@ -189,7 +189,7 @@
 * [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol): Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-* [SafeRL-Lab/agentic-web](https://github.com/SafeRL-Lab/agentic-web): Agentic Web: Weaving the Next Web with AI Agents
+* [SafeRL-Lab/agentic-web](https://github.com/SafeRL-Lab/agentic-web): Agentic Web: Weaving the Next Web with AI Agents.
 * [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
@@ -976,6 +976,7 @@
 * [cak/awesome-server-side-swift](https://github.com/cak/awesome-server-side-swift): A community curated list of resources about Server Side Swift
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify): 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
+* [krzemienski/awesome-site](https://github.com/krzemienski/awesome-site): None
 * [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv): :zap:A curated list of awesome resources for building Smart TV apps
 * [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity): ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 * [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot): Spring Boot Resources
@@ -1546,6 +1547,7 @@
 * [evanlong-me/claude-code-usage](https://github.com/evanlong-me/claude-code-usage): 📊 A command-line tool to analyze and summarize your code usage with Claude AI.
 * [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): Real-time Claude Code usage monitor with predictions and warnings
 * [krzemienski/claude-code-web-server](https://github.com/krzemienski/claude-code-web-server): None
+* [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows): The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 * [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder): Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents 
 * [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and architectural analysis.
 * [possibilities/claude-composer](https://github.com/possibilities/claude-composer): None
@@ -2903,6 +2905,7 @@
 * [Netflix/flamescope](https://github.com/Netflix/flamescope): FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 * [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 * [pleisto/flappy](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer
+* [agentsea/flashbacker](https://github.com/agentsea/flashbacker): Claude Code state management with session continuity and AI personas, subagents and agent discussion
 * [pallets/flask](https://github.com/pallets/flask): The Python micro framework for building web applications.
 * [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin): Simple and extensible administrative interface framework for Flask
 * [jonalxh/Flask-Admin-Dashboard](https://github.com/jonalxh/Flask-Admin-Dashboard): Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX
@@ -4773,6 +4776,7 @@
 * [lichess-org/mobile](https://github.com/lichess-org/mobile): New Lichess mobile app in Flutter
 * [raindropio/mobile](https://github.com/raindropio/mobile): Official Raindrop.io mobile app for iOS and Android
 * [standardnotes/mobile](https://github.com/standardnotes/mobile): [Moved to https://github.com/standardnotes/app] Standard Notes for iOS and Android - https://standardnotes.com
+* [hak-apped/mobile-claude-development](https://github.com/hak-apped/mobile-claude-development): 📱 Mobile-first development environment for iPhone Claude Code access with SSH tunneling and certificate authentication
 * [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg): FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
 * [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp): Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 * [sahin/mobileplayer-ios](https://github.com/sahin/mobileplayer-ios): :iphone: :movie_camera: A powerful and completely customizable media player for iOS
@@ -6293,7 +6297,7 @@
 * [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion): :iphone: Lightweight Cocoa library for detecting the running device's model and screen size.
 * [mix1009/sdwebuiapi](https://github.com/mix1009/sdwebuiapi): Python API client for AUTOMATIC1111/stable-diffusion-webui
 * [haiwen/seadrive-gui](https://github.com/haiwen/seadrive-gui): GUI part of seadrive.
-* [haiwen/seafile](https://github.com/haiwen/seafile): Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
+* [haiwen/seafile](https://github.com/haiwen/seafile): Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 * [haiwen/seafile-client](https://github.com/haiwen/seafile-client): Seafile desktop client.
 * [haiwen/seafile-docker](https://github.com/haiwen/seafile-docker):  A Docker image for Seafile server
 * [haiwen/seafile-iOS](https://github.com/haiwen/seafile-iOS): iOS client for seafile
@@ -6318,6 +6322,7 @@
 * [rkoshak/sensorReporter](https://github.com/rkoshak/sensorReporter): A python based service that receives sensor inputs and publishes them in various ways.
 * [alibaba/Sentinel](https://github.com/alibaba/Sentinel): A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 * [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa): The official Sentry SDK for iOS, tvOS, macOS, watchOS.
+* [oraios/serena](https://github.com/oraios/serena): A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
 * [serge-chat/serge](https://github.com/serge-chat/serge): A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 * [NightTrek/Serper-search-mcp](https://github.com/NightTrek/Serper-search-mcp): Un-official Serper Google search server for Cline and other MCP clients
 * [beromir/Servas](https://github.com/beromir/Servas): A self-hosted bookmark management tool.
@@ -6357,6 +6362,7 @@
 * [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin): Admin Dashboard UI built with Shadcn and Vite.
 * [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server): A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,and vue
 * [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue): Vue port of shadcn-ui
+* [subhadeeproy3902/shadcnthemes](https://github.com/subhadeeproy3902/shadcnthemes): A unique and intuitive theme generator for ShadCN UI, offering perfectly harmonized color palettes with real-time previews.
 * [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS): Removed according to regulations.
 * [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev): Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 * [shadowsocks/shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager): A shadowsocks manager tool for multi user and traffic control.
@@ -6371,6 +6377,7 @@
 * [matvp91/shaka-player-react](https://github.com/matvp91/shaka-player-react): A simple React component wrapper for shaka-player
 * [shaka-project/shaka-streamer](https://github.com/shaka-project/shaka-streamer): A simple config-file based approach to preparing streaming media, based on FFmpeg and Shaka Packager.
 * [dreymonde/Shallows](https://github.com/dreymonde/Shallows): 🛶 Your lightweight persistence toolbox
+* [krzemienski/shannon-ios](https://github.com/krzemienski/shannon-ios): A Claude code iOS swift app written in swift ui and leveraging a python backend server with sse and json streaming
 * [krzemienski/shannon-mcp](https://github.com/krzemienski/shannon-mcp): Claude Code MCP Server - A comprehensive Model Context Protocol server implementation built using an innovative multi-agent collaborative system
 * [JohnSundell/Shapeshift](https://github.com/JohnSundell/Shapeshift): Quickly convert a folder containing Swift files into an iPad-compatible Playground
 * [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob): Distributed scheduled job
@@ -6410,7 +6417,7 @@
 * [armbues/SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 * [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern): LLM Frontend for Power Users.
 * [a2nt/silverstripe-digitalocean-nginx-backup-scripts](https://github.com/a2nt/silverstripe-digitalocean-nginx-backup-scripts): SilverStripe Digital Ocean + NGINX + Dropbox service sripts
-* [simstudioai/sim](https://github.com/simstudioai/sim): Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+* [simstudioai/sim](https://github.com/simstudioai/sim): Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [Ikuyadeu/similar-code-searcher](https://github.com/Ikuyadeu/similar-code-searcher): a GitHub App built with probot that searches files similar with deleted code in Pull Request.
 * [NationalSecurityAgency/SIMP](https://github.com/NationalSecurityAgency/SIMP): A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
@@ -6757,7 +6764,7 @@
 * [active-video/subtitles](https://github.com/active-video/subtitles): AV Platform MPEG DASH subtitles
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
-* [kortix-ai/suna](https://github.com/kortix-ai/suna): Suna - Open Source Generalist AI Agent
+* [kortix-ai/suna](https://github.com/kortix-ai/suna): Kortix – build, manage and train AI Agents. Fully Open Source.
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
 * [supabase/supabase](https://github.com/supabase/supabase): The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 * [supabase/supabase-swift](https://github.com/supabase/supabase-swift): A Swift client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. 
@@ -7820,6 +7827,7 @@
 * [lapfelix/XcodeMCP](https://github.com/lapfelix/XcodeMCP): MCP server for Xcode that wraps its AppleScript interface & uses XCLogParser to return clear build results
 * [CocoaPods/Xcodeproj](https://github.com/CocoaPods/Xcodeproj): Create and modify Xcode projects from Ruby.
 * [tuist/XcodeProj](https://github.com/tuist/XcodeProj):  📝 Read, update and write your Xcode projects
+* [ainame/xcodeproj-cli](https://github.com/ainame/xcodeproj-cli): A simple coding agent helper CLI to manipulate Xcode project 
 * [JohnSundell/XcodeTheme](https://github.com/JohnSundell/XcodeTheme): My Xcode theme - Sundell's Colors
 * [QuickBirdEng/XCoordinator](https://github.com/QuickBirdEng/XCoordinator): 🎌 Powerful navigation library for iOS based on the coordinator pattern
 * [google/xctestrunner](https://github.com/google/xctestrunner): A executable binary to run prebuilt iOS tests on iOS simulator/real device.
