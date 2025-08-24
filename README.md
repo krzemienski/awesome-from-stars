@@ -1195,7 +1195,7 @@
 * [bitmovin/bitmovin-player-react-native](https://github.com/bitmovin/bitmovin-player-react-native): Official React Native bindings for Bitmovin's Mobile Player SDKs.
 * [bitmovin/bitmovin-player-ui](https://github.com/bitmovin/bitmovin-player-ui): The Bitmovin Adaptive Streaming Player UI
 * [bitmovin/bitmovin-player-web-samples](https://github.com/bitmovin/bitmovin-player-web-samples): Showcases build around the Bitmovin Adaptive Streaming Player, demonstrating usage and capabilities of the HTML5 based HLS and MPEG-DASH player, as well as the Flash based Fallback.
-* [gitbito/bitoai](https://github.com/gitbito/bitoai): Bito’s AI helps developers dramatically accelerate their impact. It’s a Swiss Army knife of capabilities that can 10x your developer productivity and save you an hour a day, using the same models as ChatGPT!
+* [gitbito/bitoai](https://github.com/gitbito/bitoai): Get codebase-aware feedback in your GitHub, GitLab, Bitbucket pull requests or directly in your IDE.
 * [huiping192/BitrateGraphGenerator](https://github.com/huiping192/BitrateGraphGenerator): Bitrate Graph Generator is a web application that generates graphs of video and audio bitrates from a given video URL using the plotbitrate library.
 * [XuebingZhao/BitratePlotter](https://github.com/XuebingZhao/BitratePlotter): A simple Python script to plot video bitrate graph using ffprobe, thus support the newest codec like HEVC, AV1
 * [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine -
@@ -1947,7 +1947,7 @@
 * [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws): AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 * [globocom/database-as-a-service](https://github.com/globocom/database-as-a-service): Database as a service (DBaaS) that allows users to quickly and easily deploy and manage database instances using cloud infrastructure
 * [DataDog/datadogpy](https://github.com/DataDog/datadogpy): The Datadog Python library
-* [passthesh3ll/datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown): None
+* [passthesh3ll/datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown): A bash script to scrape forums using cookies, save backups in markdown, and upload them to a remote repo
 * [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator): Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 * [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 * [unsplash/datasets](https://github.com/unsplash/datasets): 🎁  6,500,000+ Unsplash images made available for research and machine learning
@@ -4776,7 +4776,6 @@
 * [lichess-org/mobile](https://github.com/lichess-org/mobile): New Lichess mobile app in Flutter
 * [raindropio/mobile](https://github.com/raindropio/mobile): Official Raindrop.io mobile app for iOS and Android
 * [standardnotes/mobile](https://github.com/standardnotes/mobile): [Moved to https://github.com/standardnotes/app] Standard Notes for iOS and Android - https://standardnotes.com
-* [hak-apped/mobile-claude-development](https://github.com/hak-apped/mobile-claude-development): 📱 Mobile-first development environment for iPhone Claude Code access with SSH tunneling and certificate authentication
 * [tanersener/mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg): FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.
 * [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp): Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 * [sahin/mobileplayer-ios](https://github.com/sahin/mobileplayer-ios): :iphone: :movie_camera: A powerful and completely customizable media player for iOS
