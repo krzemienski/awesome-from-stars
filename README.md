@@ -1496,7 +1496,7 @@
 * [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which supports multiple platforms Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is to provide a player core which supports multi-platform, hardware accelerator, and customizable and extensible features. Which supports WideVine drm, LL-HLS, MPEG-DASH and HDR playback.
 * [wa2c/cifs-documents-provider](https://github.com/wa2c/cifs-documents-provider): CIFS Documents Provider
 * [cilium/cilium](https://github.com/cilium/cilium): eBPF-based Networking, Security, and Observability
-* [campfirein/cipher](https://github.com/campfirein/cipher): Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Windsurf, Claude Desktop, Claude Code, Gemini CLI, AWS's Kiro, VS Code, and Roo Code through MCP, and coding agents, such as Kimi K2. Built by https://byterover.dev/
+* [campfirein/cipher](https://github.com/campfirein/cipher): Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Windsurf, Claude Desktop, Claude Code, Gemini CLI, AWS's Kiro, VS Code, Roo Code, Trae, and Warp through MCP. Built by https://byterover.dev/
 * [bee-san/Ciphey](https://github.com/bee-san/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
 * [CircleCI-Public/circleci-demo-aws-ecs-ecr](https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr): A demo project for deployment to AWS ECS from ECR on CircleCI 2.0. 
@@ -4328,7 +4328,7 @@
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 * [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash): A beautiful web dashboard for Linux
 * [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester): Linux privilege escalation auditing tool
-* [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit about a linux kernel
+* [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A book-in-progress about the Linux kernel and its insides.
 * [EmperorPenguin18/linux-installer](https://github.com/EmperorPenguin18/linux-installer): Universal GNU+Linux installer script
 * [sp-hy/linux-intel-undervolt-gui](https://github.com/sp-hy/linux-intel-undervolt-gui): GUI frontend for undervolting intel CPUs on Linux. React / Electron powered.
 * [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat): The perfect emulation setup to study and develop the Linux kernel, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. "Tested" in an Ubuntu 24.04 host.
@@ -4622,7 +4622,6 @@
 * [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker): MCP server for Docker
 * [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser): A MCP Server for the RAG Web Browser Actor
 * [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb): A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands.
-* [docker/mcp-servers](https://github.com/docker/mcp-servers): Model Context Protocol Servers
 * [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager): Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
 * [idosal/mcp-ui](https://github.com/idosal/mcp-ui): SDK for UI over MCP. Create next-gen UI experiences!
 * [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use): mcp-use is the easiest way to interact with mcp servers with custom agents
