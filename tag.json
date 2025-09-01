@@ -71,7 +71,7 @@
     "37MobileTeam/iChatGPT": [
         "Other"
     ],
-    "3846masa/docker-ngrokd": [
+    "3846masa-archived/docker-ngrokd": [
         "Other"
     ],
     "3cpt/recorrente": [
@@ -233,7 +233,7 @@
     "Abhishek-2505/Github_topics_scraper": [
         "Other"
     ],
-    "Abiorh001/mcp_omni_connect": [
+    "Abiorh001/omnicoreagent": [
         "Other"
     ],
     "AcademySoftwareFoundation/EncodingGuidelines": [
@@ -1290,6 +1290,9 @@
         "Other"
     ],
     "DigitalMediaServer/DigitalMediaServer": [
+        "Other"
+    ],
+    "DimaRU/Shout": [
         "Other"
     ],
     "Dimillian/SwiftHN": [
@@ -4523,6 +4526,9 @@
     "Super-Chain/N8N2MCP": [
         "Other"
     ],
+    "SuperClaude-Org/SuperClaude_Framework": [
+        "Other"
+    ],
     "SvenTiigi/WhatsNewKit": [
         "Other"
     ],
@@ -6056,7 +6062,7 @@
     "anthropics/claude-code-sdk-python": [
         "Other"
     ],
-    "anthropics/dxt": [
+    "anthropics/mcpb": [
         "Other"
     ],
     "anthropics/prompt-eng-interactive-tutorial": [
@@ -7745,10 +7751,10 @@
     "canonical/snapd": [
         "Other"
     ],
-    "caorushizi/hls-downloader": [
+    "caorushizi/mediago": [
         "Other"
     ],
-    "caorushizi/mediago": [
+    "caorushizi/mediago-core": [
         "Other"
     ],
     "captioning/captioning": [
@@ -9407,6 +9413,9 @@
     "dnth/huggingface-timm-mobile-blogpost": [
         "Other"
     ],
+    "docfork/docfork-mcp": [
+        "Other"
+    ],
     "docker-archive-public/docker.kitematic": [
         "Other"
     ],
@@ -10994,7 +11003,7 @@
     "gesinger/debug-video": [
         "Other"
     ],
-    "getAsterisk/claudia": [
+    "getAsterisk/opcode": [
         "Other"
     ],
     "getappbox/AppBox-iOSAppsWirelessInstallation": [
@@ -13866,6 +13875,9 @@
         "Other"
     ],
     "krzemienski/claude-code-ios-ui": [
+        "Other"
+    ],
+    "krzemienski/claude-code-monorepo": [
         "Other"
     ],
     "krzemienski/claude-code-web-server": [
@@ -17462,6 +17474,9 @@
     "pabloromeo/clusterplex": [
         "Other"
     ],
+    "pacholoamit/chatgpt-prompts": [
+        "Other"
+    ],
     "pacstall/pacstall": [
         "Other"
     ],
@@ -18273,6 +18288,9 @@
         "Other"
     ],
     "qdm12/ddns-updater": [
+        "Other"
+    ],
+    "qdrant/qdrant": [
         "Other"
     ],
     "qeeqbox/social-analyzer": [
@@ -20018,6 +20036,9 @@
     "slint-ui/slint": [
         "Other"
     ],
+    "slopus/happy": [
+        "Other"
+    ],
     "slugh23/hid-rfid-reader": [
         "Other"
     ],
@@ -20367,6 +20388,9 @@
         "Other"
     ],
     "srikanth235/benchllama": [
+        "Other"
+    ],
+    "sshterm/ssh": [
         "Other"
     ],
     "sshuttle/sshuttle": [
@@ -22038,6 +22062,9 @@
         "Other"
     ],
     "vercel/hyper": [
+        "Other"
+    ],
+    "vercel/streamdown": [
         "Other"
     ],
     "vercel/v0-sdk": [
