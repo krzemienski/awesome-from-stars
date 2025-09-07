@@ -2855,6 +2855,12 @@
     "KkEi34/confluence-to-obsidian-plugin": [
         "Other"
     ],
+    "Kludex/starlette": [
+        "Other"
+    ],
+    "Kludex/uvicorn": [
+        "Other"
+    ],
     "KoalaBear84/OpenDirectoryDownloader": [
         "Other"
     ],
@@ -5304,6 +5310,9 @@
         "Other"
     ],
     "active-video/subtitles": [
+        "Other"
+    ],
+    "activepieces/activepieces": [
         "Other"
     ],
     "actorFromCalifornia/AAVPlayer": [
@@ -10034,12 +10043,6 @@
     "encode/requests-async": [
         "Other"
     ],
-    "encode/starlette": [
-        "Other"
-    ],
-    "encode/uvicorn": [
-        "Other"
-    ],
     "encoding-ninja/per-title-analysis": [
         "Other"
     ],
@@ -12137,7 +12140,7 @@
     "ianyh/Amethyst": [
         "Other"
     ],
-    "ianzhao05/textshot": [
+    "ianzhao/textshot": [
         "Other"
     ],
     "iawia002/lux": [
@@ -13110,6 +13113,9 @@
         "Other"
     ],
     "jpetrich/HEVCDemo": [
+        "Other"
+    ],
+    "jpicklyk/task-orchestrator": [
         "Other"
     ],
     "jpillora/chisel": [
@@ -15401,6 +15407,9 @@
     "mckaywrigley/chatbot-ui-lite": [
         "Other"
     ],
+    "mckaywrigley/claude-code-voice": [
+        "Other"
+    ],
     "mckaywrigley/mckays-app-template": [
         "Other"
     ],
@@ -15900,6 +15909,9 @@
         "Other"
     ],
     "ml-explore/mlx-examples": [
+        "Other"
+    ],
+    "ml-explore/mlx-lm": [
         "Other"
     ],
     "ml-explore/mlx-swift-examples": [
@@ -18530,6 +18542,9 @@
     "ray-project/ray": [
         "Other"
     ],
+    "raycast/ray-so": [
+        "Other"
+    ],
     "rb-de0/go-mp4-stream": [
         "Other"
     ],
@@ -20039,6 +20054,12 @@
     "slopus/happy": [
         "Other"
     ],
+    "slopus/happy-cli": [
+        "Other"
+    ],
+    "slopus/happy-server": [
+        "Other"
+    ],
     "slugh23/hid-rfid-reader": [
         "Other"
     ],
@@ -20651,7 +20672,7 @@
     "sudheerj/Linux-cheat-sheet": [
         "Other"
     ],
-    "sueszli/notionSnapshot": [
+    "sueszli/notionsnapshot": [
         "Other"
     ],
     "suifengqjn/TBPlayer": [
@@ -21626,6 +21647,9 @@
     "tuist/XcodeProj": [
         "Other"
     ],
+    "tuist/awesome-tuist": [
+        "Other"
+    ],
     "tuist/tuist": [
         "Other"
     ],
@@ -21849,6 +21873,9 @@
         "Other"
     ],
     "unifiedstreaming/streaming-load-testing": [
+        "Other"
+    ],
+    "universal-tool-calling-protocol/utcp-agent": [
         "Other"
     ],
     "unixorn/awesome-zsh-plugins": [
