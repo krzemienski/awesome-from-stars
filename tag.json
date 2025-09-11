@@ -3932,9 +3932,6 @@
     "QuantiusBenignus/blurt": [
         "Other"
     ],
-    "Quantivio/PyNotion": [
-        "Other"
-    ],
     "Quick/Nimble": [
         "Other"
     ],
@@ -9830,9 +9827,6 @@
     "edoardottt/awesome-hacker-search-engines": [
         "Other"
     ],
-    "eebean2/DTConsole": [
-        "Other"
-    ],
     "eebean2/DevTools": [
         "Other"
     ],
@@ -11432,7 +11426,7 @@
     "gostor/awesome-go-storage": [
         "Other"
     ],
-    "gotalab/claude-code-spec": [
+    "gotalab/cc-sdd": [
         "Other"
     ],
     "gothinkster/realworld": [
@@ -18269,6 +18263,9 @@
     "python/mypy": [
         "Other"
     ],
+    "pythonhubdev/PyNotion": [
+        "Other"
+    ],
     "pythonprofilers/memory_profiler": [
         "Other"
     ],
@@ -20060,6 +20057,9 @@
     "slopus/happy-server": [
         "Other"
     ],
+    "slopus/slopus.github.io": [
+        "Other"
+    ],
     "slugh23/hid-rfid-reader": [
         "Other"
     ],
@@ -21258,6 +21258,9 @@
         "Other"
     ],
     "thetrime/trimeplay": [
+        "Other"
+    ],
+    "thevvh/flutter_chatgpt": [
         "Other"
     ],
     "thexclu/awesome-notion-api": [
@@ -22698,9 +22701,6 @@
         "Other"
     ],
     "westfort4July/TVOS-Infinite-Scroll-View": [
-        "Other"
-    ],
-    "wewehao/flutter_chatgpt": [
         "Other"
     ],
     "wez/atomicparsley": [
