@@ -3839,6 +3839,9 @@
     "PostHog/posthog": [
         "Other"
     ],
+    "PoweredBySAM/sam-root-ble-protocol": [
+        "Other"
+    ],
     "Powerlevel9k/powerlevel9k": [
         "Other"
     ],
@@ -6047,12 +6050,6 @@
     "antares-sql/antares": [
         "Other"
     ],
-    "anthropics/anthropic-cookbook": [
-        "Other"
-    ],
-    "anthropics/anthropic-quickstarts": [
-        "Other"
-    ],
     "anthropics/anthropic-sdk-python": [
         "Other"
     ],
@@ -6066,6 +6063,12 @@
         "Other"
     ],
     "anthropics/claude-code-sdk-python": [
+        "Other"
+    ],
+    "anthropics/claude-cookbooks": [
+        "Other"
+    ],
+    "anthropics/claude-quickstarts": [
         "Other"
     ],
     "anthropics/mcpb": [
@@ -9386,12 +9389,6 @@
     "dl-container-registry/ffmpeg": [
         "Other"
     ],
-    "dlenroc/appium-roku-driver": [
-        "Other"
-    ],
-    "dlenroc/node-roku": [
-        "Other"
-    ],
     "dmaccarthy/sc8pr": [
         "Other"
     ],
@@ -10283,6 +10280,9 @@
     "explosion/spaCy": [
         "Other"
     ],
+    "expo/examples": [
+        "Other"
+    ],
     "expo/expo": [
         "Other"
     ],
@@ -11000,9 +11000,6 @@
     "gesinger/debug-video": [
         "Other"
     ],
-    "getAsterisk/opcode": [
-        "Other"
-    ],
     "getappbox/AppBox-iOSAppsWirelessInstallation": [
         "Other"
     ],
@@ -11304,6 +11301,9 @@
         "Other"
     ],
     "gonzalezreal/swift-markdown-ui": [
+        "Other"
+    ],
+    "google-ai-edge/gallery": [
         "Other"
     ],
     "google-ai-edge/mediapipe": [
@@ -12116,9 +12116,6 @@
     "iRobotEducation/irobot-edu-python-sdk": [
         "Other"
     ],
-    "iRobotEducation/root-robot-ble-protocol": [
-        "Other"
-    ],
     "iZettle/Flow": [
         "Other"
     ],
@@ -12860,7 +12857,7 @@
     "jib1337/ghstars": [
         "Other"
     ],
-    "jibsaramnim/gpd-pocket2-hackintosh": [
+    "jibsaram/gpd-pocket2-hackintosh": [
         "Other"
     ],
     "jimklimov/ngrok2-systemd": [
@@ -16625,10 +16622,10 @@
     "nikhilm/node-taglib": [
         "Other"
     ],
-    "nikitavoloboev/config": [
+    "nikitavoloboev/mbt": [
         "Other"
     ],
-    "nikitavoloboev/ui": [
+    "nikitavoloboev/myworkflow": [
         "Other"
     ],
     "nikolay-mamaev/BrightScript-Json-Beautifier": [
@@ -22827,6 +22824,9 @@
         "Other"
     ],
     "win0err/aphrodite-terminal-theme": [
+        "Other"
+    ],
+    "winfunc/opcode": [
         "Other"
     ],
     "winterbe/java8-tutorial": [
