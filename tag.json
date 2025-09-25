@@ -6116,6 +6116,15 @@
     "antony-jr/ShareMyHost": [
         "Other"
     ],
+    "antvis/AVA": [
+        "Other"
+    ],
+    "antvis/GPT-Vis": [
+        "Other"
+    ],
+    "antvis/mcp-server-chart": [
+        "Other"
+    ],
     "anuraghazra/github-readme-stats": [
         "Other"
     ],
@@ -7700,6 +7709,9 @@
     "caacuk/video-conversion-app": [
         "Other"
     ],
+    "cactus-compute/cactus": [
+        "Other"
+    ],
     "caddyserver/caddy": [
         "Other"
     ],
@@ -7971,6 +7983,9 @@
         "Other"
     ],
     "chathub-dev/chathub": [
+        "Other"
+    ],
+    "chatmcp/mcpso": [
         "Other"
     ],
     "chaton2325/Brute-force-wifi": [
@@ -13949,6 +13964,9 @@
     "krzemienski/react-developer-portfolio": [
         "Other"
     ],
+    "krzemienski/repo-nexus": [
+        "Other"
+    ],
     "krzemienski/rest-template-go": [
         "Other"
     ],
@@ -15474,9 +15492,6 @@
         "Other"
     ],
     "mekhti/awsome-live-streamin": [
-        "Other"
-    ],
-    "melvyndekort/hevc-transcoder": [
         "Other"
     ],
     "mem0ai/mem0": [
@@ -21173,9 +21188,6 @@
     "tgrosinger/advanced-tables-obsidian": [
         "Other"
     ],
-    "th-ch/youtube-music": [
-        "Other"
-    ],
     "thanos-io/thanos": [
         "Other"
     ],
@@ -23174,9 +23186,6 @@
     "yavorsky/auto-github-topics": [
         "Other"
     ],
-    "yazaldefilimone/video-translator": [
-        "Other"
-    ],
     "ybayle/awesome-deep-learning-music": [
         "Other"
     ],
@@ -23253,6 +23262,9 @@
         "Other"
     ],
     "ytdl-org/youtube-dl": [
+        "Other"
+    ],
+    "ytmd-devs/ytmd": [
         "Other"
     ],
     "yuanqing/vdx": [
