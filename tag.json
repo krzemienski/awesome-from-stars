@@ -20825,6 +20825,9 @@
     "swift-server/sswg": [
         "Other"
     ],
+    "swift-server/swift-aws-lambda-runtime": [
+        "Other"
+    ],
     "swiftengine/SwiftEngine": [
         "Other"
     ],
@@ -21561,9 +21564,6 @@
         "Other"
     ],
     "traefik/traefik": [
-        "Other"
-    ],
-    "transfer-aws/swift-aws-lambda-runtime": [
         "Other"
     ],
     "transformerlab/transformerlab-app": [

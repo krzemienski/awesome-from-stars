@@ -6829,7 +6829,7 @@
 * [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser): Straightforward, type-safe argument parsing for Swift
 * [Mybridge/swift-articles](https://github.com/Mybridge/swift-articles): Monthly Series - Top 10 Angular Articles
 * [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms): Async Algorithms for Swift
-* [transfer-aws/swift-aws-lambda-runtime](https://github.com/transfer-aws/swift-aws-lambda-runtime): Swift implementation of AWS Lambda Runtime
+* [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime): Swift implementation of AWS Lambda Runtime
 * [swiftlang/swift-book](https://github.com/swiftlang/swift-book): The Swift Programming Language book
 * [CassiusPacheco/Swift-CleanArchitecture](https://github.com/CassiusPacheco/Swift-CleanArchitecture): Simple Swift project applying concepts inspired on the Clean Architecture
 * [apple/swift-collections](https://github.com/apple/swift-collections): Commonly used data structures for Swift
