@@ -6062,6 +6062,12 @@
     "anthropics/claude-code-base-action": [
         "Other"
     ],
+    "anthropics/claude-code-monitoring-guide": [
+        "Other"
+    ],
+    "anthropics/claude-code-sdk-demos": [
+        "Other"
+    ],
     "anthropics/claude-code-sdk-python": [
         "Other"
     ],
@@ -13898,9 +13904,6 @@
     "krzemienski/claudecodeui": [
         "Other"
     ],
-    "krzemienski/claudia": [
-        "Other"
-    ],
     "krzemienski/codex-universal": [
         "Other"
     ],
@@ -16637,10 +16640,10 @@
     "nikhilm/node-taglib": [
         "Other"
     ],
-    "nikitavoloboev/mbt": [
+    "nikitavoloboev/go": [
         "Other"
     ],
-    "nikitavoloboev/myworkflow": [
+    "nikitavoloboev/myflow": [
         "Other"
     ],
     "nikolay-mamaev/BrightScript-Json-Beautifier": [
@@ -18438,9 +18441,6 @@
         "Other"
     ],
     "raindropio/developer-site": [
-        "Other"
-    ],
-    "raindropio/extensions": [
         "Other"
     ],
     "raindropio/mobile": [
@@ -20825,9 +20825,6 @@
     "swift-server/sswg": [
         "Other"
     ],
-    "swift-server/swift-aws-lambda-runtime": [
-        "Other"
-    ],
     "swiftengine/SwiftEngine": [
         "Other"
     ],
@@ -21564,6 +21561,9 @@
         "Other"
     ],
     "traefik/traefik": [
+        "Other"
+    ],
+    "transfer-aws/swift-aws-lambda-runtime": [
         "Other"
     ],
     "transformerlab/transformerlab-app": [
@@ -22701,6 +22701,9 @@
         "Other"
     ],
     "wellsjo/JSON-Splora": [
+        "Other"
+    ],
+    "welovemedia/ffmate": [
         "Other"
     ],
     "wendux/DSBridge-IOS": [

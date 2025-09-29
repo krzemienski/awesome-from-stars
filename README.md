@@ -380,7 +380,7 @@
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios): 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling): ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
-* [raindropio/app](https://github.com/raindropio/app): None
+* [raindropio/app](https://github.com/raindropio/app): Source code of web app and browser extensions
 * [standardnotes/app](https://github.com/standardnotes/app): Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [objcio/app-architecture](https://github.com/objcio/app-architecture): Sample Code of the App Architecture Book
@@ -1385,7 +1385,7 @@
 * [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome): Reference Chrome Sender w/ Framework API: CastVideos-chrome application shows how to cast videos from Chrome browser that is fully compliant with the Cast Design Checklist.
 * [googlecast/CastVideos-ios](https://github.com/googlecast/CastVideos-ios): Reference iOS Sender w/ Framework API: CastVideos-ios application shows how to cast videos from an iOS device that is fully compliant with the Cast Design Checklist.
 * [zmwangx/caterpillar](https://github.com/zmwangx/caterpillar): Hardened HLS merger
-* [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd): Kiro compatible Spec-Driven Development for Claude Code, Gemini CLI and Cursor. High quality slash commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI
+* [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd): Kiro compatible Spec-Driven Development for Claude Code, Cursor, Gemini CLI and Qwen Code. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI
 * [krzemienski/ccb-ui](https://github.com/krzemienski/ccb-ui): None
 * [Li-vien/CcClip](https://github.com/Li-vien/CcClip): vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道
 * [krzemienski/ccflare](https://github.com/krzemienski/ccflare): The ultimate CC proxy
@@ -1499,7 +1499,7 @@
 * [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer): CicadaPlayer is the player core of AliPlayer, which supports multiple platforms Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is to provide a player core which supports multi-platform, hardware accelerator, and customizable and extensible features. Which supports WideVine drm, LL-HLS, MPEG-DASH and HDR playback.
 * [wa2c/cifs-documents-provider](https://github.com/wa2c/cifs-documents-provider): CIFS Documents Provider
 * [cilium/cilium](https://github.com/cilium/cilium): eBPF-based Networking, Security, and Observability
-* [campfirein/cipher](https://github.com/campfirein/cipher): Byterover Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Windsurf, Claude Code, Cline, Claude Desktop, Gemini CLI, AWS's Kiro, VS Code, Roo Code, Trae, Amp Code and Warp through MCP. Built by https://byterover.dev/
+* [campfirein/cipher](https://github.com/campfirein/cipher): Byterover Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Codex, Claude Code, Windsurf, Cline, Claude Desktop, Gemini CLI, AWS's Kiro, VS Code, Roo Code, Trae, Amp Code and Warp through MCP. Built by https://byterover.dev/
 * [bee-san/Ciphey](https://github.com/bee-san/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * [kgoedecke/circleci-beanstalk-example](https://github.com/kgoedecke/circleci-beanstalk-example): CircleCI 2.0 AWS Beanstalk example to deploy Node app
 * [CircleCI-Public/circleci-demo-aws-ecs-ecr](https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr): A demo project for deployment to AWS ECS from ECR on CircleCI 2.0. 
@@ -1537,9 +1537,11 @@
 * [grahama1970/claude-code-mcp-enhanced](https://github.com/grahama1970/claude-code-mcp-enhanced): Enhanced Claude Code MCP server with orchestration capabilities, reliability improvements, and self-contained execution patterns
 * [Durafen/Claude-code-memory](https://github.com/Durafen/Claude-code-memory): 🧠 Universal semantic indexer providing persistent memory for Claude Code through knowledge   graphs, Tree-sitter parsing, and Qdrant vector search 
 * [vincequant/claude-code-monitor](https://github.com/vincequant/claude-code-monitor): Real-time monitoring tool for Claude Code CLI usage and network status | 實時監控 Claude Code CLI 使用狀態和網絡連接
+* [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide): None
 * [krzemienski/claude-code-monorepo](https://github.com/krzemienski/claude-code-monorepo): None
 * [Haidzai/claude-code-proxy](https://github.com/Haidzai/claude-code-proxy): Monitor and visualize your Claude Code API interactions with Claude Code Proxy. Easily set up a transparent proxy and live dashboard. 🛠️🚀
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+* [anthropics/claude-code-sdk-demos](https://github.com/anthropics/claude-code-sdk-demos): Claude Code SDK Demos
 * [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python): None
 * [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings): Claude Code settings, commands and agents for vibe coding
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
@@ -1571,7 +1573,6 @@
 * [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm): None
 * [krzemienski/claudecodeui](https://github.com/krzemienski/claudecodeui): Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui): Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-* [krzemienski/claudia](https://github.com/krzemienski/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
@@ -2601,7 +2602,6 @@
 * [julio641742/extend-panel-menu](https://github.com/julio641742/extend-panel-menu): None
 * [notion-enhancer/extension](https://github.com/notion-enhancer/extension): An enhancer/customiser for the all-in-one productivity workspace Notion (v0.11.0 browser extension)
 * [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager): A utility for browsing and installing GNOME Shell Extensions.
-* [raindropio/extensions](https://github.com/raindropio/extensions): Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
 * [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns): Configure external DNS servers dynamically from Kubernetes resources
 * [kubernetes-retired/external-storage](https://github.com/kubernetes-retired/external-storage): [EOL] External storage plugins, provisioners, and helper libraries
 * [jbweimar/external-webvtt-example](https://github.com/jbweimar/external-webvtt-example): Supporting HLS with External WebVTT Closed Captions
@@ -2715,6 +2715,7 @@
 * [Clinet/ffgoconv](https://github.com/Clinet/ffgoconv): A real-time concurrent muxing library with full control of individual streamers
 * [targodan/ffgopeg](https://github.com/targodan/ffgopeg): Making ffmpeg feel natural in go.
 * [ericgriffin/fflock](https://github.com/ericgriffin/fflock): Distributed video transcoding.
+* [welovemedia/ffmate](https://github.com/welovemedia/ffmate): FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate
 * [bcoudurier/FFmbc](https://github.com/bcoudurier/FFmbc): FFmpeg customized for broadcast and professional usage
 * [unosquare/ffmediaelement](https://github.com/unosquare/ffmediaelement): FFME: The Advanced WPF MediaElement (based on FFmpeg)
 * [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics): Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
@@ -3280,6 +3281,7 @@
 * [demajor/gnsdk-webapp](https://github.com/demajor/gnsdk-webapp): None
 * [vasconcelosvcd/GNSDKWrapperLib-CPP](https://github.com/vasconcelosvcd/GNSDKWrapperLib-CPP): A Gracenote C++ wrapper lib
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms and Data Structures implemented in Go for beginners, following best practices.
+* [nikitavoloboev/go](https://github.com/nikitavoloboev/go): Go tools, libraries and other code
 * [ugorji/go](https://github.com/ugorji/go): idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 * [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin): A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 * [asticode/go-astiav](https://github.com/asticode/go-astiav): Golang ffmpeg and libav C bindings
@@ -4579,7 +4581,7 @@
 * [zenangst/MarvinXcode](https://github.com/zenangst/MarvinXcode): :hammer:A collection of nifty commands for your everyday workflow in Xcode
 * [steventroughtonsmith/marzipanify](https://github.com/steventroughtonsmith/marzipanify): Convert an iOS Simulator app bundle to an iOSMac (Marzipan) one (Unsupported & undocumented, WIP)
 * [antonreshetov/massCode](https://github.com/antonreshetov/massCode): This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
-* [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
+* [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippet manager for developers
 * [czellerkonti/massento](https://github.com/czellerkonti/massento): ffmpeg wrapper written in python to encode all videos in a folder structure according to user defines encoding templates
 * [pankaj89/MasterExoPlayer](https://github.com/pankaj89/MasterExoPlayer): MasterExoPlayer is lightweight utility for playing video inside RecyclerView.
 * [ustwo/mastermind](https://github.com/ustwo/mastermind): Man in the middle testing
@@ -4604,7 +4606,6 @@
 * [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  MaxKB 是强大易用的开源企业级智能体平台。
 * [openebs-archive/maya](https://github.com/openebs-archive/maya): Manage Container Attached Storage (CAS) - Data Engines in Kubernetes
 * [jserv/mazu-editor](https://github.com/jserv/mazu-editor): a minimalist text editor with syntax highlight, copy/paste, and search
-* [nikitavoloboev/mbt](https://github.com/nikitavoloboev/mbt): MoonBit tools, libraries and other code
 * [minio/mc](https://github.com/minio/mc): Unix like utilities for object store
 * [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template): This is the template I use to start new full-stack projects.
 * [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp): A MCP server implementation for hyperbrowser
@@ -4632,7 +4633,7 @@
 * [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser): A MCP Server for the RAG Web Browser Actor
 * [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb): A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands.
 * [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager): Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
-* [idosal/mcp-ui](https://github.com/idosal/mcp-ui): SDK for UI over MCP. Create next-gen UI experiences!
+* [idosal/mcp-ui](https://github.com/idosal/mcp-ui): UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 * [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use): mcp-use is the easiest way to interact with mcp servers with custom agents
 * [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch): MCP web research server (give Claude real-time info from the web)
 * [anthropics/mcpb](https://github.com/anthropics/mcpb): Desktop Extensions: One-click local MCP server installation in desktop apps
@@ -4912,13 +4913,13 @@
 * [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup): Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
 * [brpaz/my-linux-setup](https://github.com/brpaz/my-linux-setup): My Fedora Linux list of installed applications and Ansible provision scripts
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
+* [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow): Place to share & store what you use
 * [sankaranramantn/myprojects](https://github.com/sankaranramantn/myprojects): Drag and Drop GUI which converts any ffmpeg supported mp4/mkv into AV1 using Nvidia 40 series av1_nvenc encoder, code can be modified to use hevc_nvenc or any AMF/qsv encoders
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
 * [swl-x/MystiQ](https://github.com/swl-x/MystiQ): Qt5/C++ FFmpeg Media Converter 
 * [slc14211421/MyTranscoder](https://github.com/slc14211421/MyTranscoder): myTranscoder 是使用Python Django 封装了ffmpeg的流媒体视频文件的转码能力，以HTTP/JSON API的方式对外提供视频转码和合并能力
 * [Protuhj/myvideobuzz](https://github.com/Protuhj/myvideobuzz): MyVideoBuzz
-* [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow): Place to share what you use. Apps/CLIs/Libraries/Configs/..
 * [innolitics/n2y](https://github.com/innolitics/n2y): Notion to YAML (and Markdown)
 * [n8n-io/n8n](https://github.com/n8n-io/n8n): Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 * [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs): Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
@@ -6427,7 +6428,7 @@
 * [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
 * [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager): "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 * [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course): Source Code for Sigma Web Development Course
-* [klaudiosinani/signale](https://github.com/klaudiosinani/signale): Highly configurable logging utility
+* [klaudiosinani/signale](https://github.com/klaudiosinani/signale): Highly configurable logging library
 * [uber/signals-ios](https://github.com/uber/signals-ios): Typeful eventing
 * [Tourenathan-G5organisation/SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor): A powerful, flexible and easy to use Video and Image compression library for Android.
 * [armbues/SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
@@ -6828,7 +6829,7 @@
 * [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser): Straightforward, type-safe argument parsing for Swift
 * [Mybridge/swift-articles](https://github.com/Mybridge/swift-articles): Monthly Series - Top 10 Angular Articles
 * [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms): Async Algorithms for Swift
-* [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime): Swift implementation of AWS Lambda Runtime
+* [transfer-aws/swift-aws-lambda-runtime](https://github.com/transfer-aws/swift-aws-lambda-runtime): Swift implementation of AWS Lambda Runtime
 * [swiftlang/swift-book](https://github.com/swiftlang/swift-book): The Swift Programming Language book
 * [CassiusPacheco/Swift-CleanArchitecture](https://github.com/CassiusPacheco/Swift-CleanArchitecture): Simple Swift project applying concepts inspired on the Clean Architecture
 * [apple/swift-collections](https://github.com/apple/swift-collections): Commonly used data structures for Swift
@@ -6947,7 +6948,7 @@
 * [design-first/system-designer](https://github.com/design-first/system-designer): A low-code development platform for creating systems 🇺🇦#standwithUkraine
 * [design-first/system-designer-electron](https://github.com/design-first/system-designer-electron): System Designer for macOS, Windows & Linux
 * [aaronpowell/system-init](https://github.com/aaronpowell/system-init): None
-* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [pop-os/system76-driver](https://github.com/pop-os/system76-driver): System76 Driver for Pop!_OS
 * [pop-os/system76-power](https://github.com/pop-os/system76-power): Power profile management for Linux
 * [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler): Auto-configure CFS and process priorities for improved desktop responsiveness
