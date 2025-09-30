@@ -4949,9 +4949,6 @@
     "Vyshnav2255/Notion-Icons-2.0": [
         "Other"
     ],
-    "WHTJEON/widevine-dl": [
-        "Other"
-    ],
     "WINOFFRG/limeplay": [
         "Other"
     ],
@@ -6053,6 +6050,9 @@
     "anthropics/anthropic-sdk-python": [
         "Other"
     ],
+    "anthropics/claude-agent-sdk-python": [
+        "Other"
+    ],
     "anthropics/claude-code": [
         "Other"
     ],
@@ -6066,9 +6066,6 @@
         "Other"
     ],
     "anthropics/claude-code-sdk-demos": [
-        "Other"
-    ],
-    "anthropics/claude-code-sdk-python": [
         "Other"
     ],
     "anthropics/claude-cookbooks": [
@@ -20427,6 +20424,9 @@
         "Other"
     ],
     "sshuttle/sshuttle": [
+        "Other"
+    ],
+    "sst/opencode": [
         "Other"
     ],
     "ssut/ffmpeg-on-apple-silicon": [
