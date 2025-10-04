@@ -196,7 +196,7 @@
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
 * [contains-studio/agents](https://github.com/contains-studio/agents): sharing current agents in use
 * [wshobson/agents](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code
-* [agno-agi/agno](https://github.com/agno-agi/agno): High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+* [agno-agi/agno](https://github.com/agno-agi/agno): High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -2319,7 +2319,7 @@
 * [jzbor/dotfiles](https://github.com/jzbor/dotfiles): None
 * [lewagon/dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-* [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles): Configuration for NixOS, sway, kitty, helix, zsh and more
+* [max-baz/dotfiles](https://github.com/max-baz/dotfiles): Configuration for NixOS, sway, kitty, helix, zsh and more
 * [rjshkhr/dotfiles](https://github.com/rjshkhr/dotfiles): ~/
 * [semanser/dotfiles](https://github.com/semanser/dotfiles): Alacritty + Tmux + Oh My Zsh + Neovim = ❤️
 * [theowenyoung/dotfiles](https://github.com/theowenyoung/dotfiles): dotfiles, init scripts, common scripts
@@ -6395,6 +6395,7 @@
 * [matvp91/shaka-player-react](https://github.com/matvp91/shaka-player-react): A simple React component wrapper for shaka-player
 * [shaka-project/shaka-streamer](https://github.com/shaka-project/shaka-streamer): A simple config-file based approach to preparing streaming media, based on FFmpeg and Shaka Packager.
 * [dreymonde/Shallows](https://github.com/dreymonde/Shallows): 🛶 Your lightweight persistence toolbox
+* [krzemienski/shannon-framework](https://github.com/krzemienski/shannon-framework): None
 * [krzemienski/shannon-ios](https://github.com/krzemienski/shannon-ios): A Claude code iOS swift app written in swift ui and leveraging a python backend server with sse and json streaming
 * [krzemienski/shannon-mcp](https://github.com/krzemienski/shannon-mcp): Claude Code MCP Server - A comprehensive Model Context Protocol server implementation built using an innovative multi-agent collaborative system
 * [JohnSundell/Shapeshift](https://github.com/JohnSundell/Shapeshift): Quickly convert a folder containing Swift files into an iPad-compatible Playground
