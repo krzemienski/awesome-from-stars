@@ -1337,6 +1337,7 @@
 * [bup/bup](https://github.com/bup/bup): Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).
 * [flavioribeiro/butterfly](https://github.com/flavioribeiro/butterfly): transcode videos on the fly
 * [zachary7829/Buttermilk](https://github.com/zachary7829/Buttermilk): Make shortcuts from Text.
+* [Dean151/ButtonKit](https://github.com/Dean151/ButtonKit): Asynchronous and Throwable button implementation for SwiftUI, with animations and progress tracking
 * [TheAlgorithms/C](https://github.com/TheAlgorithms/C): Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus): Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 * [goplus/c2go](https://github.com/goplus/c2go): Convert C to Go
@@ -1742,6 +1743,7 @@
 * [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
 * [bitnami/containers](https://github.com/bitnami/containers): Bitnami container images
 * [aws/containers-roadmap](https://github.com/aws/containers-roadmap): This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
+* [hannesmnagel/ContainEye](https://github.com/hannesmnagel/ContainEye): App using SSH to fetch relevant server stats and execute tests periodically to notify you, e.g. when CPU load is high or the server is running low on storage
 * [nuxt/content](https://github.com/nuxt/content): The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 * [aws-solutions/content-localization-on-aws](https://github.com/aws-solutions/content-localization-on-aws): Automatically generate multi-language subtitles using AWS  AI/ML services. Machine generated subtitles can be edited to improve accuracy and downstream tracks will automatically be regenerated based on the edits. Built on Media Insights Engine (https://github.com/awslabs/aws-media-insights-engine)
 * [ebu/content-manager](https://github.com/ebu/content-manager): The Content Manager is a visual production tool which is able to generate on the fly visualisation for DAB slideshow and RadioVIS. .NET framework based, it is developed in C# and is distributed under LGPL licence.
@@ -2145,7 +2147,7 @@
 * [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
 * [prcongithub/do-assets](https://github.com/prcongithub/do-assets): None
 * [seven1m/do-install-button](https://github.com/seven1m/do-install-button): NO LONGER MAINTAINED
-* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Up-to-date documentation to 9,000+ libraries for devs and AI agents in a single tool call.
+* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Up-to-date documentation to 9,000+ libraries for devs and AI agents.
 * [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash): None
 * [M7S/dockbarx](https://github.com/M7S/dockbarx): None
 * [nextcloud/docker](https://github.com/nextcloud/docker): ⛴ Docker image of Nextcloud
@@ -2356,6 +2358,7 @@
 * [ankur4u007/drift](https://github.com/ankur4u007/drift): Drift: A Websocket-Http Tunnel written in kotlin that lets you access any HTTP Api on servers deployed behind firewall(s)/Nat(s)/Proxy
 * [SquaredTiki/Dringend-Issues](https://github.com/SquaredTiki/Dringend-Issues): Public issue tracker for the Dringend app, an iPad dev environment
 * [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
+* [3052/drm](https://github.com/3052/drm): Digital rights management
 * [Jayapraveen/Drm-Dash-stream-downloader](https://github.com/Jayapraveen/Drm-Dash-stream-downloader): This script helps to download drm protected dash stream [if key is known] and output to a video mp4 file
 * [Axinom/drm-quick-start](https://github.com/Axinom/drm-quick-start): Quick start for Axinom DRM
 * [feedsbrain/drm-tools](https://github.com/feedsbrain/drm-tools): Tools for Widevine and Playready
@@ -2368,7 +2371,7 @@
 * [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—language models
 * [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn): A Dead Simple VPN.
 * [ebu/dtt2ip](https://github.com/ebu/dtt2ip): Broadcast to IP conversion for Wifi indoor coverage
-* [dubinc/dub](https://github.com/dubinc/dub): The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+* [dubinc/dub](https://github.com/dubinc/dub): The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 * [apache/dubbo](https://github.com/apache/dubbo): The java implementation of Apache Dubbo. An RPC and microservice framework.
 * [apache/dubbo-samples](https://github.com/apache/dubbo-samples): samples for Apache Dubbo
 * [RxLaboratory/DuME](https://github.com/RxLaboratory/DuME): A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg
@@ -2530,7 +2533,7 @@
 * [jaredsinclair/etcetera](https://github.com/jaredsinclair/etcetera): Stuff I need often enough to that's too small to exist on its own.
 * [balena-io/etcher](https://github.com/balena-io/etcher): Flash OS images to SD cards & USB drives, safely and easily.
 * [Ether-CLI/Ether](https://github.com/Ether-CLI/Ether): A Command-Line Interface for the Swift Package Manager
-* [dappros/ethora](https://github.com/dappros/ethora): A 'super app' engine for your project. React Native (iOS, Android) and React.js (Web, desktop). Social Sign In 🄵, Messaging 💬 (chat, voice, push notifications), Web3 Wallet 🪪 (profile QR, documents, coins, NFT), DLT 🔐 (provenance, crypto signing), Gamification 🤩, Social Commerce and more.
+* [dappros/ethora](https://github.com/dappros/ethora): Open-source engine for chat 💬, AI assistants 🤖 & wallets 🪪. React, Typescript, Python, XMPP. Build future apps with chat, AI agents and web3.
 * [microsoft/ethr](https://github.com/microsoft/ethr): Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 * [etro-js/etro](https://github.com/etro-js/etro): Typescript video-editing framework for the browser
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
@@ -2964,6 +2967,7 @@
 * [jakeheis/Flock](https://github.com/jakeheis/Flock): Automated deployment of Swift projects to servers
 * [iZettle/Flow](https://github.com/iZettle/Flow): Flow is a Swift library for working with asynchronous flows and life cycles
 * [malcommac/Flow](https://github.com/malcommac/Flow): Declarative approach to populate and manage UITableViews (see https://github.com/malcommac/FlowKit)
+* [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow): Do things fast
 * [jliljebl/flowblade](https://github.com/jliljebl/flowblade): Video Editor for Linux
 * [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun): Easily generate flowcharts and diagrams from text ⿻
 * [adrai/flowchart.js](https://github.com/adrai/flowchart.js): Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -3116,7 +3120,7 @@
 * [krzemienski/get-fit](https://github.com/krzemienski/get-fit): Get Fit cards app
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [schollz/getsong](https://github.com/schollz/getsong): Download any song mp3 with no dependencies except ffmpeg
-* [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory): Install our extensions for GH Copilot, Cursor and Claude Code. Try SpecStory Cloud and BearClaude. File issues and requests.
+* [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory): Install our local first extensions for favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
 * [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys): Official repository for getwvkeys.cc
 * [wcchristian/gh-action-notion-card](https://github.com/wcchristian/gh-action-notion-card): A github action to build a notion card.
 * [github/gh-actions-importer](https://github.com/github/gh-actions-importer): GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
@@ -3281,7 +3285,6 @@
 * [demajor/gnsdk-webapp](https://github.com/demajor/gnsdk-webapp): None
 * [vasconcelosvcd/GNSDKWrapperLib-CPP](https://github.com/vasconcelosvcd/GNSDKWrapperLib-CPP): A Gracenote C++ wrapper lib
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms and Data Structures implemented in Go for beginners, following best practices.
-* [nikitavoloboev/go](https://github.com/nikitavoloboev/go): Go tools, libraries and other code
 * [ugorji/go](https://github.com/ugorji/go): idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 * [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin): A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 * [asticode/go-astiav](https://github.com/asticode/go-astiav): Golang ffmpeg and libav C bindings
@@ -4128,7 +4131,7 @@
 * [IGRSoft/KisMac2](https://github.com/IGRSoft/KisMac2): KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
 * [gitpitch/kitchen-sink](https://github.com/gitpitch/kitchen-sink): GitPitch Live Slideshow Presentation Feature Demo 
 * [noppefoxwolf/Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi): Overlay alpha channel video animation player view using Metal.
-* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
+* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 * [Kitura/Kitura](https://github.com/Kitura/Kitura): A Swift web framework and HTTP server.
 * [Kitura/kitura-cli](https://github.com/Kitura/kitura-cli): ⌨️ Kitura command-line interface
 * [twostraws/kitura-vs-vapor](https://github.com/twostraws/kitura-vs-vapor): A side-by-side comparison of two popular server-side Swift frameworks.
@@ -4146,6 +4149,7 @@
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
 * [stakater/Konfigurator](https://github.com/stakater/Konfigurator): A kubernetes operator that dynamically generates and manages app configuration based on kubernetes resources  – [✩Star] if you're using it!
 * [Kong/kong](https://github.com/Kong/kong): 🦍 The Cloud-Native Gateway for APIs & AI
+* [1buck/kontainer](https://github.com/1buck/kontainer): Kontainer: Mobile application for Portainer
 * [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
 * [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf): A Python framework to write Kubernetes operators in just few lines of code.
 * [kopia/kopia](https://github.com/kopia/kopia): Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -4669,6 +4673,7 @@
 * [jfcarr/media-utilities](https://github.com/jfcarr/media-utilities): Utility scripts for working with various media types.
 * [quarkscript/media_works](https://github.com/quarkscript/media_works): Transcode video by ffmpeg with nvenc; normalize the volume; force dynamic range compression to the volume
 * [zolinux/MediaArchiver](https://github.com/zolinux/MediaArchiver): Transcode video files using FFMPEG and python3
+* [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny): Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 * [w3c/mediacapture-record](https://github.com/w3c/mediacapture-record): MediaStream Recording
 * [alfg/mediacast](https://github.com/alfg/mediacast): :tv: Google Cast - Chrome Sender & CAF Player for testing Media Playback
 * [bluenviron/mediacommon](https://github.com/bluenviron/mediacommon): Entities shared between gohlslib, gortsplib, gortmplib, MediaMTX
@@ -5328,6 +5333,7 @@
 * [HeroTools/open-whispr](https://github.com/HeroTools/open-whispr): Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
 * [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt): Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
 * [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
+* [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples): Example apps for the Apps SDK
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app): Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
 * [openai/openai-fm](https://github.com/openai/openai-fm): Code for openai.fm, a demo for the OpenAI Speech API
@@ -5474,6 +5480,7 @@
 * [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT): PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 * [metachris/pdfx](https://github.com/metachris/pdfx): Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 * [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc): API Documentation for Python Projects
+* [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop): Pear 🍐 is extension for music player
 * [HirokiUmatani/PEAR-ZoomingView-iOS](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS): None
 * [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering tool
 * [microsoft/Peekaboo](https://github.com/microsoft/Peekaboo): Interactive Video Generation via Masked-Diffusion
@@ -6339,7 +6346,7 @@
 * [Shopify/semian](https://github.com/Shopify/semian): :monkey: Resiliency toolkit for Ruby for failing fast
 * [rkoshak/sensorReporter](https://github.com/rkoshak/sensorReporter): A python based service that receives sensor inputs and publishes them in various ways.
 * [alibaba/Sentinel](https://github.com/alibaba/Sentinel): A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
-* [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa): The official Sentry SDK for iOS, tvOS, macOS, watchOS.
+* [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa): The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
 * [oraios/serena](https://github.com/oraios/serena): A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 * [serge-chat/serge](https://github.com/serge-chat/serge): A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 * [NightTrek/Serper-search-mcp](https://github.com/NightTrek/Serper-search-mcp): Un-official Serper Google search server for Cline and other MCP clients
@@ -7341,7 +7348,7 @@
 * [twostraws/Unwrap](https://github.com/twostraws/Unwrap): Learn Swift interactively on your iPhone.
 * [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video):  [CVPR 2024] Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution
 * [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-* [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic): The most reliable AI agent framework that supports MCP.
+* [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic): Agent Framework For Fintech
 * [railsware/upterm](https://github.com/railsware/upterm): A terminal emulator for the 21st century.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 * [upx/upx](https://github.com/upx/upx): UPX - the Ultimate Packer for eXecutables
@@ -7748,7 +7755,6 @@
 * [Eyevinn/whpp-client](https://github.com/Eyevinn/whpp-client): WebRTC HTTP Playback Protocol client library
 * [akr3ch/wicker-gui](https://github.com/akr3ch/wicker-gui): automate wifi hacking with wicker
 * [apache/wicket](https://github.com/apache/wicket): Apache Wicket - Component-based Java web framework
-* [3052/widevine](https://github.com/3052/widevine): Widevine implementation
 * [cryptonek/widevine-l3-decryptor](https://github.com/cryptonek/widevine-l3-decryptor): Mirror of the original repo
 * [tbodt/widevine-l3-decryptor](https://github.com/tbodt/widevine-l3-decryptor): None
 * [tomer8007/widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor): A Chrome extension that demonstrates bypassing Widevine L3 DRM
@@ -7914,7 +7920,6 @@
 * [porjo/ytdl-web](https://github.com/porjo/ytdl-web): yt-dlp web frontend for audio
 * [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM): A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 * [Aveek-Saha/ytdx](https://github.com/Aveek-Saha/ytdx): Download audio from YouTube videos
-* [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd): YouTube Music Desktop App bundled with custom plugins
 * [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 * [YunoHost/yunohost](https://github.com/YunoHost/yunohost): YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 * [ericm/yup](https://github.com/ericm/yup): Arch Linux AUR Helper with ncurses functionality and better searching and sorting 

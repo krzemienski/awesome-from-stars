@@ -41,6 +41,9 @@
     "1Panel-dev/MaxKB": [
         "Other"
     ],
+    "1buck/kontainer": [
+        "Other"
+    ],
     "1ec5/read-only-coding": [
         "Other"
     ],
@@ -62,10 +65,10 @@
     "3052/dash": [
         "Other"
     ],
-    "3052/media": [
+    "3052/drm": [
         "Other"
     ],
-    "3052/widevine": [
+    "3052/media": [
         "Other"
     ],
     "37MobileTeam/iChatGPT": [
@@ -1230,6 +1233,9 @@
         "Other"
     ],
     "Deadshot0x7/007-TheBond": [
+        "Other"
+    ],
+    "Dean151/ButtonKit": [
         "Other"
     ],
     "Debjoy/FireCast": [
@@ -4866,6 +4872,9 @@
         "Other"
     ],
     "ValveSoftware/Proton": [
+        "Other"
+    ],
+    "Vanilagy/mediabunny": [
         "Other"
     ],
     "Vanilagy/webm-muxer": [
@@ -11696,6 +11705,9 @@
     "hamishtaplin/tvos-resources": [
         "Other"
     ],
+    "hannesmnagel/ContainEye": [
+        "Other"
+    ],
     "hanton/Fisheye": [
         "Other"
     ],
@@ -16640,7 +16652,7 @@
     "nikhilm/node-taglib": [
         "Other"
     ],
-    "nikitavoloboev/go": [
+    "nikitavoloboev/flow": [
         "Other"
     ],
     "nikitavoloboev/myflow": [
@@ -17201,6 +17213,9 @@
     "openai/openai-agents-python": [
         "Other"
     ],
+    "openai/openai-apps-sdk-examples": [
+        "Other"
+    ],
     "openai/openai-cookbook": [
         "Other"
     ],
@@ -17640,6 +17655,9 @@
         "Other"
     ],
     "peak/s5cmd": [
+        "Other"
+    ],
+    "pear-devs/pear-desktop": [
         "Other"
     ],
     "peci1/nvidia-htop": [
@@ -23271,9 +23289,6 @@
         "Other"
     ],
     "ytdl-org/youtube-dl": [
-        "Other"
-    ],
-    "ytmd-devs/ytmd": [
         "Other"
     ],
     "yuanqing/vdx": [
