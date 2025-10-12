@@ -5951,6 +5951,9 @@
     "analyserdmz/ffmpeg-multi-threaded-convert": [
         "Other"
     ],
+    "ananddtyagi/claude-code-marketplace": [
+        "Other"
+    ],
     "anantn/glendix": [
         "Other"
     ],
@@ -6720,6 +6723,9 @@
         "Other"
     ],
     "audreyfeldroy/cookiecutter-pypackage": [
+        "Other"
+    ],
+    "augmentcode/auggie": [
         "Other"
     ],
     "aunetx/apps-to-panel": [
@@ -13781,7 +13787,7 @@
     "konsoletyper/teavm": [
         "Other"
     ],
-    "konstantinmuenster/notion-clone": [
+    "konstantinruge/notion-clone": [
         "Other"
     ],
     "kontheocharis/notion_scheduler": [

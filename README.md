@@ -195,8 +195,8 @@
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
 * [contains-studio/agents](https://github.com/contains-studio/agents): sharing current agents in use
-* [wshobson/agents](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code
-* [agno-agi/agno](https://github.com/agno-agi/agno): High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+* [wshobson/agents](https://github.com/wshobson/agents): Intelligent automation and multi-agent orchestration for Claude Code
+* [agno-agi/agno](https://github.com/agno-agi/agno): The fastest python framework and runtime for multi-agent systems. 
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -548,6 +548,7 @@
 * [ymgenesis/AudioTool](https://github.com/ymgenesis/AudioTool): A bash script to automate management of audio streams in MKV files. Ability to create EAC3 7.1 from TrueHD & DTS, EAC3 and AC3 5.1 and below from anything, and strip audio streams from MKV files.
 * [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText): Transcribe and translate audio to text using Whisper and DeepL.
 * [saki4510t/AudioVideoRecordingSample](https://github.com/saki4510t/AudioVideoRecordingSample): Simultaneous audio and video recording sample using MediaCodec/MediaMuxer
+* [augmentcode/auggie](https://github.com/augmentcode/auggie): An AI agent that brings Augment Code's power to the terminal.
 * [facebookarchive/augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control): Augmented Traffic Control: A tool to simulate network conditions
 * [simon04/aur-out-of-date](https://github.com/simon04/aur-out-of-date): Determines out-of-date AUR packages w.r.t. upstream version
 * [erikdubois/Aureola](https://github.com/erikdubois/Aureola): A conky collection of great conky's following the lua syntax
@@ -1179,7 +1180,7 @@
 * [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 * [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython): Code examples for my Write Better Python Code series on YouTube.
 * [anachirino/bifserver](https://github.com/anachirino/bifserver): Server which creates and serves up BIF files for Roku players
-* [enricoros/big-AGI](https://github.com/enricoros/big-AGI): AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
+* [enricoros/big-AGI](https://github.com/enricoros/big-AGI): AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 * [bbc/bigscreen-player](https://github.com/bbc/bigscreen-player): Simplified media playback for bigscreen devices
 * [monyone/biim](https://github.com/monyone/biim): LL-HLS implementation written in Python3
 * [galaxy-s10/billd-live-admin](https://github.com/galaxy-s10/billd-live-admin): 基于Vue3 + Vite6 + NaiveUI搭建的直播间后台
@@ -1386,7 +1387,7 @@
 * [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome): Reference Chrome Sender w/ Framework API: CastVideos-chrome application shows how to cast videos from Chrome browser that is fully compliant with the Cast Design Checklist.
 * [googlecast/CastVideos-ios](https://github.com/googlecast/CastVideos-ios): Reference iOS Sender w/ Framework API: CastVideos-ios application shows how to cast videos from an iOS device that is fully compliant with the Cast Design Checklist.
 * [zmwangx/caterpillar](https://github.com/zmwangx/caterpillar): Hardened HLS merger
-* [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd): High quality Spec-Driven Development for Claude Code, Cursor, Gemini CLI and Qwen Code. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI
+* [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd): High quality Spec-Driven Development for Claude Code, Codex, Cursor, Github Copilot, Gemini CLI and Qwen Code. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI
 * [krzemienski/ccb-ui](https://github.com/krzemienski/ccb-ui): None
 * [Li-vien/CcClip](https://github.com/Li-vien/CcClip): vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道
 * [krzemienski/ccflare](https://github.com/krzemienski/ccflare): The ultimate CC proxy
@@ -1534,6 +1535,7 @@
 * [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook): A collection of settings to make Claude Code more useful.
 * [krzemienski/claude-code-ios-ui](https://github.com/krzemienski/claude-code-ios-ui): Native iOS client for Claude Code with cyberpunk-themed UI, comprehensive testing suite, and Express.js backend
 * [arsenyinfo/claude-code-logger](https://github.com/arsenyinfo/claude-code-logger): None
+* [ananddtyagi/claude-code-marketplace](https://github.com/ananddtyagi/claude-code-marketplace): Marketplace repo for Claude Code Plugins
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
 * [zebbern/claude-code-mcp](https://github.com/zebbern/claude-code-mcp): Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more.
 * [grahama1970/claude-code-mcp-enhanced](https://github.com/grahama1970/claude-code-mcp-enhanced): Enhanced Claude Code MCP server with orchestration capabilities, reliability improvements, and self-contained execution patterns
@@ -2305,7 +2307,7 @@
 * [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io): 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 * [dooit-org/dooit](https://github.com/dooit-org/dooit): An awesome TUI todo manager
 * [alexpinel/Dot](https://github.com/alexpinel/Dot): Text-To-Speech, RAG, and LLMs. All local!
-* [udecode/dotai](https://github.com/udecode/dotai): Ultimate AI development stack: Claude Code + Task Master + Cursor
+* [udecode/dotai](https://github.com/udecode/dotai): Context Manager for Claude Code Plugins + Codex + Cursor.
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
 * [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles): KDE Plasma for twm users.
@@ -5128,7 +5130,7 @@
 * [mathix420/notion-charts](https://github.com/mathix420/notion-charts): Create stunning charts for your notion.so databases
 * [kris-hansen/notion-cli](https://github.com/kris-hansen/notion-cli): A CLI for Notion.so (in the tune of Taskbook)
 * [jacksalici/notion-cli-list-manager](https://github.com/jacksalici/notion-cli-list-manager): A simple command-line tool for managing Notion databases.
-* [konstantinmuenster/notion-clone](https://github.com/konstantinmuenster/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
+* [konstantinruge/notion-clone](https://github.com/konstantinruge/notion-clone): Edit Notes like in Notion.so. Full-Stack App using React/Express.
 * [minwook-shin/notion-database](https://github.com/minwook-shin/notion-database): Python bindings for Notion Database API
 * [75asa/notion-database-crawler](https://github.com/75asa/notion-database-crawler): This is a Notion Integration to crawl databases to find a new page
 * [kaedea/notion-down](https://github.com/kaedea/notion-down): Notion >> Markdown. Python utility that converts Notion pages into MD files, along with intergation to build static webpages such as Hexo | 自动从 Notion 笔记生成 MD 文件，并部署到 Hexo 静态博客 | Notion Pages より Markdown Files をコンバートする、更に Hexo Webpages までの自動化も可能
@@ -6993,7 +6995,7 @@
 * [bbc/tal](https://github.com/bbc/tal): TV Application Layer
 * [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-* [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator): An MCP server that manages features and tasks across multiple projects.  Useful for having the AI take PRD documents, breaking them into features and tasks for use across multiple interactions.
+* [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator): MCP server for AI-driven project management with 40 tools for task orchestration, template workflows, and hierarchical organization. Enables autonomous project planning and execution   through Claude and other MCP-compatible AI agents.
 * [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook): Tasks, boards & notes for the command-line habitat
 * [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe): An open source project management tool with Kanban boards
 * [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development.
