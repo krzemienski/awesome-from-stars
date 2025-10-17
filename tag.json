@@ -4976,6 +4976,9 @@
     "WeTransfer/WeScan": [
         "Other"
     ],
+    "Wei-Shaw/claude-relay-service": [
+        "Other"
+    ],
     "Wekoi/awesome-scripts": [
         "Other"
     ],
@@ -6737,6 +6740,9 @@
     "authelia/authelia": [
         "Other"
     ],
+    "automazeio/ccpm": [
+        "Other"
+    ],
     "automotive-hub/imvision-ads-gen": [
         "Other"
     ],
@@ -6936,6 +6942,9 @@
         "Other"
     ],
     "awslabs/serverless-subtitles": [
+        "Other"
+    ],
+    "awslabs/swift-aws-lambda-runtime": [
         "Other"
     ],
     "axcore/tartube": [
@@ -7197,6 +7206,9 @@
         "Other"
     ],
     "benjaminmayo/merchantkit": [
+        "Other"
+    ],
+    "benjaminr/chrome-devtools-mcp": [
         "Other"
     ],
     "benmoose39/YouTube_to_m3u": [
@@ -8369,6 +8381,9 @@
     "codingauto/aicarpool": [
         "Other"
     ],
+    "codingki/react-native-expo-template": [
+        "Other"
+    ],
     "codingworkflow/claude-code-api": [
         "Other"
     ],
@@ -8714,6 +8729,9 @@
     "d-demirci/django-adminlte3": [
         "Other"
     ],
+    "d-kimuson/claude-code-viewer": [
+        "Other"
+    ],
     "d2-projects/d2-admin": [
         "Other"
     ],
@@ -8772,9 +8790,6 @@
         "Other"
     ],
     "dangdungcntt/youtube-stream-url": [
-        "Other"
-    ],
-    "danielbodnar/awesome-stars": [
         "Other"
     ],
     "danielchatfield/trello-desktop": [
@@ -12059,6 +12074,9 @@
     "huiping192/BitrateGraphGenerator": [
         "Other"
     ],
+    "humanlayer/humanlayer": [
+        "Other"
+    ],
     "humanloop/awesome-chatgpt": [
         "Other"
     ],
@@ -14252,6 +14270,9 @@
     "langchain-ai/local-deep-researcher": [
         "Other"
     ],
+    "langchain-ai/mcpdoc": [
+        "Other"
+    ],
     "langchain-ai/open-canvas": [
         "Other"
     ],
@@ -15671,9 +15692,6 @@
     "mickaelperrin/docker-magic-sync": [
         "Other"
     ],
-    "micro/micro": [
-        "Other"
-    ],
     "micromata/awesome-javascript-learning": [
         "Other"
     ],
@@ -16658,10 +16676,10 @@
     "nikhilm/node-taglib": [
         "Other"
     ],
-    "nikitavoloboev/flow": [
+    "nikivdev/go": [
         "Other"
     ],
-    "nikitavoloboev/myflow": [
+    "nikivdev/myflow": [
         "Other"
     ],
     "nikolay-mamaev/BrightScript-Json-Beautifier": [
@@ -16695,6 +16713,9 @@
         "Other"
     ],
     "nix-community/home-manager": [
+        "Other"
+    ],
+    "nizos/tdd-guard": [
         "Other"
     ],
     "njh/mp3-to-hls": [
@@ -17090,6 +17111,9 @@
     "olexnzarov/pm2-web-ui": [
         "Other"
     ],
+    "olimorris/codecompanion.nvim": [
+        "Other"
+    ],
     "olivierboucher/StreamCenter": [
         "Other"
     ],
@@ -17181,6 +17205,9 @@
         "Other"
     ],
     "opa334/TrollStore": [
+        "Other"
+    ],
+    "opactorai/Claudable": [
         "Other"
     ],
     "open-guides/og-aws": [
@@ -19946,6 +19973,9 @@
     "singhkays/docker-ffmpeg-av1-libaom": [
         "Other"
     ],
+    "sirmalloc/ccstatusline": [
+        "Other"
+    ],
     "sirredbeard/awesome-unix": [
         "Other"
     ],
@@ -20765,6 +20795,9 @@
     "supabase/supabase": [
         "Other"
     ],
+    "supabase/supabase-py": [
+        "Other"
+    ],
     "supabase/supabase-swift": [
         "Other"
     ],
@@ -20853,9 +20886,6 @@
         "Other"
     ],
     "swift-server/sswg": [
-        "Other"
-    ],
-    "swift-server/swift-aws-lambda-runtime": [
         "Other"
     ],
     "swiftengine/SwiftEngine": [
@@ -23460,6 +23490,9 @@
         "Other"
     ],
     "zhihu/griffith": [
+        "Other"
+    ],
+    "zhsama/claude-sub-agent": [
         "Other"
     ],
     "zhuhaow/Specht": [
