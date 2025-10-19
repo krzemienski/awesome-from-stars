@@ -3406,7 +3406,7 @@
 * [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer): None
 * [LichAmnesia/GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub): GPT-Prompt-Hub is an open-source community-driven repository dedicated to the collection, sharing, and refinement of custom GPT prompts
 * [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader): Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
-* [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+* [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 * [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer): Software design & development with AI
 * [MachWheel/GPT-to-FFmpeg](https://github.com/MachWheel/GPT-to-FFmpeg): Converta e manipule qualquer arquivo de áudio ou vídeo suportado pelo ffmpeg através de prompts com o ChatGPT; interface amigável; suporte a digitação por voz
 * [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis): 🤖 GPT Vision, Open Source Vision components for GPTs, generative AI, and LLM projects. Not only UI Components.
@@ -4524,7 +4524,7 @@
 * [macfuse/macfuse](https://github.com/macfuse/macfuse): macFUSE umbrella repository
 * [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading): Code for Machine Learning for Algorithmic Trading, 2nd edition.
 * [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials): machine learning and deep learning tutorials, articles and other resources 
-* [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
+* [lra/mackup](https://github.com/lra/mackup): Backup and keep your application settings in sync.
 * [vladkens/macmon](https://github.com/vladkens/macmon): 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️
 * [dockur/macos](https://github.com/dockur/macos): MacOS inside a Docker container.
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
@@ -5703,7 +5703,7 @@
 * [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit): Promises for Swift & ObjC.
 * [google/promises](https://github.com/google/promises): Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 * [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
-* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [microsoft/promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 * [promptslab/Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 * [siteboon/promptlens](https://github.com/siteboon/promptlens): Promptlens helps you compare LLMs and different prompts as well as their responses side by side
