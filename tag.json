@@ -4973,7 +4973,7 @@
     "We5ter/Scanners-Box": [
         "Other"
     ],
-    "WeTransfer/WeScan": [
+    "WeTransferArchive/WeScan": [
         "Other"
     ],
     "Wei-Shaw/claude-relay-service": [
@@ -9375,6 +9375,9 @@
         "Other"
     ],
     "dirkvdb/ffmpegthumbnailer": [
+        "Other"
+    ],
+    "disler/claude-code-hooks-multi-agent-observability": [
         "Other"
     ],
     "disneystreaming/automated-cloud-advisor": [
