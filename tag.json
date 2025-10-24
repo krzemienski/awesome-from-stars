@@ -359,9 +359,6 @@
     "Alkl58/NotEnoughAV1Encodes": [
         "Other"
     ],
-    "All-Hands-AI/OpenHands": [
-        "Other"
-    ],
     "AllToMP3/alltomp3": [
         "Other"
     ],
@@ -2090,6 +2087,9 @@
     "Flight-School/AnyCodable": [
         "Other"
     ],
+    "FlineDev/ContextKit": [
+        "Other"
+    ],
     "FlowiseAI/Flowise": [
         "Other"
     ],
@@ -2544,6 +2544,9 @@
         "Other"
     ],
     "JREAM/ubuntu-cheatsheet": [
+        "Other"
+    ],
+    "JSONbored/claudepro-directory": [
         "Other"
     ],
     "JStumpp/awesome-android": [
@@ -3659,6 +3662,9 @@
     "OpenHEVC/openHEVC": [
         "Other"
     ],
+    "OpenHands/OpenHands": [
+        "Other"
+    ],
     "OpenRouterTeam/openrouter-runner": [
         "Other"
     ],
@@ -3807,6 +3813,9 @@
         "Other"
     ],
     "PicoMLX/PicoMLXServer": [
+        "Other"
+    ],
+    "Piebald-AI/tweakcc": [
         "Other"
     ],
     "Pierian-Data/Complete-Python-3-Bootcamp": [
@@ -4053,6 +4062,9 @@
         "Other"
     ],
     "ReactiveX/RxSwift": [
+        "Other"
+    ],
+    "Real-AI-Engineering/context-planning-system": [
         "Other"
     ],
     "RealChuan/Qt-Media": [
@@ -5903,6 +5915,9 @@
     "amitshekhariitbhu/Fast-Android-Networking": [
         "Other"
     ],
+    "ammarahm-ed/react-native-mmkv-storage": [
+        "Other"
+    ],
     "amplication/amplication": [
         "Other"
     ],
@@ -6065,6 +6080,9 @@
     "anthropics/anthropic-sdk-python": [
         "Other"
     ],
+    "anthropics/claude-agent-sdk-demos": [
+        "Other"
+    ],
     "anthropics/claude-agent-sdk-python": [
         "Other"
     ],
@@ -6078,9 +6096,6 @@
         "Other"
     ],
     "anthropics/claude-code-monitoring-guide": [
-        "Other"
-    ],
-    "anthropics/claude-code-sdk-demos": [
         "Other"
     ],
     "anthropics/claude-cookbooks": [
@@ -7034,6 +7049,9 @@
     "barkerstuff/treadmill": [
         "Other"
     ],
+    "barnent1/sentra": [
+        "Other"
+    ],
     "baryhuang/claude-code-by-agents": [
         "Other"
     ],
@@ -7826,6 +7844,9 @@
     "carlosalbarranmx/eks-tf-cli": [
         "Other"
     ],
+    "carlrannaberg/claudekit": [
+        "Other"
+    ],
     "carlspring/s3fs-nio": [
         "Other"
     ],
@@ -7887,6 +7908,9 @@
         "Other"
     ],
     "cbrnix/Flatery": [
+        "Other"
+    ],
+    "ccache/ccache": [
         "Other"
     ],
     "ccat3z/stars": [
@@ -8273,6 +8297,9 @@
     "cloudflare/stream-react": [
         "Other"
     ],
+    "cloudflare/vibesdk": [
+        "Other"
+    ],
     "cloudkj/scar": [
         "Other"
     ],
@@ -8295,6 +8322,9 @@
         "Other"
     ],
     "cocktailpeanut/dalai": [
+        "Other"
+    ],
+    "codacy/codacy-cli-v2": [
         "Other"
     ],
     "code-vicar/rpm": [
@@ -8606,6 +8636,9 @@
     "crewAIInc/crewAI": [
         "Other"
     ],
+    "croffasia/cc-blueprint-toolkit": [
+        "Other"
+    ],
     "cropsly/ffmpeg-android-java": [
         "Other"
     ],
@@ -8810,6 +8843,21 @@
     "danielmiessler/SecLists": [
         "Other"
     ],
+    "danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands": [
+        "Other"
+    ],
+    "danielrosehill/Claude-Code-MCP-Command-Generator": [
+        "Other"
+    ],
+    "danielrosehill/Claude-Code-Repos-Index": [
+        "Other"
+    ],
+    "danielrosehill/Claude-OS-Sync-Agent": [
+        "Other"
+    ],
+    "danielrosehill/Cool-Claude-Code-Stuff": [
+        "Other"
+    ],
     "danielsaidi/Sheeeeeeeeet": [
         "Other"
     ],
@@ -8844,6 +8892,9 @@
         "Other"
     ],
     "danny-avila/LibreChat": [
+        "Other"
+    ],
+    "danu38/video-streaming-platform": [
         "Other"
     ],
     "danylovolokh/VideoPlayerManager": [
@@ -9198,6 +9249,9 @@
         "Other"
     ],
     "desktop/desktop": [
+        "Other"
+    ],
+    "deta/surf": [
         "Other"
     ],
     "detailyang/awesome-cheatsheet": [
@@ -9770,6 +9824,9 @@
     "dyne/frei0r": [
         "Other"
     ],
+    "dyoshikawa/rulesync": [
+        "Other"
+    ],
     "dypsilon/frontend-dev-bookmarks": [
         "Other"
     ],
@@ -9855,6 +9912,9 @@
         "Other"
     ],
     "echo724/notion2md": [
+        "Other"
+    ],
+    "eckardt/cchistory": [
         "Other"
     ],
     "eclipse-openj9/openj9": [
@@ -10337,6 +10397,9 @@
     "expo/expo": [
         "Other"
     ],
+    "expo/expo-cli": [
+        "Other"
+    ],
     "expressjs/express": [
         "Other"
     ],
@@ -10353,6 +10416,9 @@
         "Other"
     ],
     "eyevinn-osaas/livesim2": [
+        "Other"
+    ],
+    "eyevinn-osaas/video-streaming-platform": [
         "Other"
     ],
     "ezaquarii/vpn-at-home": [
@@ -10712,6 +10778,9 @@
     "flask-dashboard/Flask-MonitoringDashboard": [
         "Other"
     ],
+    "flatlogic/react-native-starter": [
+        "Other"
+    ],
     "flavioribeiro/butterfly": [
         "Other"
     ],
@@ -10809,6 +10878,9 @@
         "Other"
     ],
     "fosslife/awesome-ricing": [
+        "Other"
+    ],
+    "founded-labs/react-native-reusables": [
         "Other"
     ],
     "foxlet/macOS-Simple-KVM": [
@@ -12077,6 +12149,9 @@
     "huiping192/BitrateGraphGenerator": [
         "Other"
     ],
+    "humanlayer/agentcontrolplane": [
+        "Other"
+    ],
     "humanlayer/humanlayer": [
         "Other"
     ],
@@ -12356,6 +12431,9 @@
     "inconshreveable/ngrok": [
         "Other"
     ],
+    "indiespirit/react-native-chart-kit": [
+        "Other"
+    ],
     "indiscipline/awesome-reaper": [
         "Other"
     ],
@@ -12372,6 +12450,9 @@
         "Other"
     ],
     "infinilabs/coco-app": [
+        "Other"
+    ],
+    "infinitered/ignite": [
         "Other"
     ],
     "influxdata/influxdata-docker": [
@@ -12984,6 +13065,9 @@
         "Other"
     ],
     "jnorton001/pycaption-cli": [
+        "Other"
+    ],
+    "jnsahaj/tweakcn": [
         "Other"
     ],
     "jnv/lists": [
@@ -13889,6 +13973,9 @@
     "krzemienski/alm": [
         "Other"
     ],
+    "krzemienski/automated-notebooklm": [
+        "Other"
+    ],
     "krzemienski/awesome-from-stars": [
         "Other"
     ],
@@ -13932,6 +14019,9 @@
         "Other"
     ],
     "krzemienski/claude-code-monorepo": [
+        "Other"
+    ],
+    "krzemienski/claude-code-templates": [
         "Other"
     ],
     "krzemienski/claude-code-web-server": [
@@ -14208,6 +14298,9 @@
         "Other"
     ],
     "kumpulanremaja/wifi": [
+        "Other"
+    ],
+    "kunwar-shah/mini-coder-brain": [
         "Other"
     ],
     "kupferlauncher/kupfer": [
@@ -15033,6 +15126,9 @@
         "Other"
     ],
     "mahmoud/awesome-python-applications": [
+        "Other"
+    ],
+    "mahseema/awesome-ai-tools": [
         "Other"
     ],
     "mahyarkarimi/ffmpeg-ms": [
@@ -17057,6 +17153,9 @@
     "obuseme/OCMockSample": [
         "Other"
     ],
+    "obytes/react-native-template-obytes": [
+        "Other"
+    ],
     "oceanlvr/ChatGPT-ProBot": [
         "Other"
     ],
@@ -17139,6 +17238,9 @@
         "Other"
     ],
     "omochi/ForceHTTPExample": [
+        "Other"
+    ],
+    "omril321/automated-notebooklm": [
         "Other"
     ],
     "omry/omegaconf": [
@@ -17673,6 +17775,9 @@
         "Other"
     ],
     "pc8544/Website-Crawler": [
+        "Other"
+    ],
+    "pchalasani/claude-code-tools": [
         "Other"
     ],
     "pcroland/deew": [
@@ -18644,7 +18749,16 @@
     "react-bootstrap/react-bootstrap": [
         "Other"
     ],
+    "react-native-community/directory": [
+        "Other"
+    ],
+    "react-ui-kit/dribbble2react": [
+        "Other"
+    ],
     "reactive-python/reactpy": [
+        "Other"
+    ],
+    "reactive/data-client": [
         "Other"
     ],
     "reactos/reactos": [
@@ -19028,6 +19142,9 @@
     "romansavrulin/ffmpeg-cuda-docker": [
         "Other"
     ],
+    "roninoss/create-expo-stack": [
+        "Other"
+    ],
     "rook/rook": [
         "Other"
     ],
@@ -19089,6 +19206,9 @@
         "Other"
     ],
     "rshipp/awesome-malware-analysis": [
+        "Other"
+    ],
+    "rsmdt/the-startup": [
         "Other"
     ],
     "rsnk96/Ubuntu-Setup-Scripts": [
@@ -20966,6 +21086,9 @@
     "synox/youtube-dl-interactive": [
         "Other"
     ],
+    "sysgears/apollo-universal-starter-kit": [
+        "Other"
+    ],
     "system-fonts/modern-font-stacks": [
         "Other"
     ],
@@ -22391,6 +22514,9 @@
     "vitoziv/VIMediaCache": [
         "Other"
     ],
+    "viveknair/ccoutputstyles": [
+        "Other"
+    ],
     "vivictorg/vivict": [
         "Other"
     ],
@@ -23364,6 +23490,9 @@
         "Other"
     ],
     "yzhao062/anomaly-detection-resources": [
+        "Other"
+    ],
+    "yzyydev/agentic-coding-structure": [
         "Other"
     ],
     "zachary7829/Buttermilk": [
