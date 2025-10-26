@@ -2465,9 +2465,6 @@
     "IGRSoft/KisMac2": [
         "Other"
     ],
-    "IORoot/Video_FFMPEG-Scriptflow": [
-        "Other"
-    ],
     "IcaliaLabs/LoginKit": [
         "Other"
     ],
@@ -6110,6 +6107,9 @@
     "anthropics/prompt-eng-interactive-tutorial": [
         "Other"
     ],
+    "anthropics/skills": [
+        "Other"
+    ],
     "anthwlock/untrunc": [
         "Other"
     ],
@@ -8598,6 +8598,9 @@
         "Other"
     ],
     "craigcabrey/luminance": [
+        "Other"
+    ],
+    "crarau/superwhisper-analysis": [
         "Other"
     ],
     "crawlab-team/crawlab": [
@@ -14006,6 +14009,9 @@
     "krzemienski/bakery": [
         "Other"
     ],
+    "krzemienski/better-ccflare": [
+        "Other"
+    ],
     "krzemienski/ccb-ui": [
         "Other"
     ],
@@ -15812,6 +15818,9 @@
     "microsoft/TinyTroupe": [
         "Other"
     ],
+    "microsoft/amplifier": [
+        "Other"
+    ],
     "microsoft/appcenter": [
         "Other"
     ],
@@ -17135,6 +17144,12 @@
     "objective-see/BlockBlock": [
         "Other"
     ],
+    "obra/superpowers": [
+        "Other"
+    ],
+    "obra/superpowers-marketplace": [
+        "Other"
+    ],
     "obsidian-tasks-group/obsidian-tasks": [
         "Other"
     ],
@@ -17232,6 +17247,9 @@
         "Other"
     ],
     "omnara-ai/omnara": [
+        "Other"
+    ],
+    "omnivore-app/omnivore": [
         "Other"
     ],
     "omochi/ForceHTTP": [
@@ -21662,6 +21680,9 @@
     "tokyo-night/tokyo-night-vscode-theme": [
         "Other"
     ],
+    "tombii/better-ccflare": [
+        "Other"
+    ],
     "tomcool420/SMFramework": [
         "Other"
     ],
@@ -23507,10 +23528,16 @@
     "zackradisic/node-soundcloud-downloader": [
         "Other"
     ],
+    "zai-org/ChatGLM-6B": [
+        "Other"
+    ],
     "zai-org/CodeGeeX": [
         "Other"
     ],
     "zai-org/CodeGeeX2": [
+        "Other"
+    ],
+    "zai-org/CogVideo": [
         "Other"
     ],
     "zalando-incubator/kopf": [
