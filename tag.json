@@ -992,6 +992,9 @@
     "Commandcracker/alpine-ffmpeg": [
         "Other"
     ],
+    "ComposioHQ/awesome-claude-skills": [
+        "Other"
+    ],
     "ComposioHQ/composio": [
         "Other"
     ],
@@ -1379,7 +1382,7 @@
     "Durafen/Claude-code-memory": [
         "Other"
     ],
-    "EG-BRS/cookiecutter-java-service": [
+    "EG-A-S/cookiecutter-java-service": [
         "Other"
     ],
     "ENCODE-DCC/pipeline-container": [
@@ -2079,6 +2082,9 @@
         "Other"
     ],
     "FirebaseExtended/flutterfire_desktop": [
+        "Other"
+    ],
+    "Fission-AI/OpenSpec": [
         "Other"
     ],
     "FlexMonkey/Filterpedia": [
@@ -3858,6 +3864,9 @@
         "Other"
     ],
     "PraneetNeuro/Project-Mendacius": [
+        "Other"
+    ],
+    "Prat011/awesome-llm-skills": [
         "Other"
     ],
     "PrefectHQ/marvin": [
@@ -5823,6 +5832,12 @@
         "Other"
     ],
     "alirezamika/autoscraper": [
+        "Other"
+    ],
+    "alirezarezvani/claude-code-skill-factory": [
+        "Other"
+    ],
+    "alirezarezvani/claude-skills": [
         "Other"
     ],
     "alishobeiri/thread": [
@@ -8465,6 +8480,9 @@
     "condemane/cookiecutter-airflow-ha": [
         "Other"
     ],
+    "conduit8/conduit8": [
+        "Other"
+    ],
     "confident-ai/deepeval": [
         "Other"
     ],
@@ -8472,6 +8490,12 @@
         "Other"
     ],
     "connervieira/Predator": [
+        "Other"
+    ],
+    "conorluddy/ios-simulator-skill": [
+        "Other"
+    ],
+    "conorluddy/xc-mcp": [
         "Other"
     ],
     "containerd/containerd": [
@@ -9786,6 +9810,9 @@
         "Other"
     ],
     "dusterio/hlsinjector": [
+        "Other"
+    ],
+    "dustinkirkland/byobu": [
         "Other"
     ],
     "dustinsanders/an-old-hope-theme-vscode": [
@@ -11267,6 +11294,9 @@
     "github/github-mcp-server": [
         "Other"
     ],
+    "github/spec-kit": [
+        "Other"
+    ],
     "githubhaohao/LearnFFmpeg": [
         "Other"
     ],
@@ -12716,6 +12746,9 @@
     "jackie1in/jre-ffmpeg-apline": [
         "Other"
     ],
+    "jackmastermind/claude-skill-editor": [
+        "Other"
+    ],
     "jackrobertscott/forge-181201": [
         "Other"
     ],
@@ -12786,6 +12819,9 @@
         "Other"
     ],
     "jamland/samplescope": [
+        "Other"
+    ],
+    "janhq/jan": [
         "Other"
     ],
     "janisdd/vscode-edit-csv": [
@@ -12951,6 +12987,9 @@
         "Other"
     ],
     "jethrocarr/namedmanager": [
+        "Other"
+    ],
+    "jezweb/claude-skills": [
         "Other"
     ],
     "jfbus/mp4": [
@@ -14351,6 +14390,9 @@
     "lacion/cookiecutter-golang": [
         "Other"
     ],
+    "lackeyjb/playwright-skill": [
+        "Other"
+    ],
     "ladunjexa/reactjs18-3d-portfolio": [
         "Other"
     ],
@@ -15164,6 +15206,9 @@
     "makedeb/makedeb": [
         "Other"
     ],
+    "makenotion/notion-mcp-server": [
+        "Other"
+    ],
     "makenotion/notion-sdk-js": [
         "Other"
     ],
@@ -15647,9 +15692,6 @@
     "mem0ai/mem0-mcp": [
         "Other"
     ],
-    "menloresearch/jan": [
-        "Other"
-    ],
     "mercari/Mew": [
         "Other"
     ],
@@ -15749,6 +15791,9 @@
     "mhashim6/Simple-ADB": [
         "Other"
     ],
+    "mhattingpete/claude-skills-marketplace": [
+        "Other"
+    ],
     "mhausenblas/mkdocs-deploy-gh-pages": [
         "Other"
     ],
@@ -15816,6 +15861,9 @@
         "Other"
     ],
     "microsoft/TinyTroupe": [
+        "Other"
+    ],
+    "microsoft/agent-framework": [
         "Other"
     ],
     "microsoft/amplifier": [
@@ -16128,6 +16176,9 @@
         "Other"
     ],
     "mobile-next/mobile-mcp": [
+        "Other"
+    ],
+    "mobile-next/mobilecli": [
         "Other"
     ],
     "mobile-shell/mosh": [
@@ -16763,6 +16814,9 @@
     "nicklockwood/layout": [
         "Other"
     ],
+    "nicknisi/dotfiles": [
+        "Other"
+    ],
     "nicolaka/netshoot": [
         "Other"
     ],
@@ -17147,7 +17201,13 @@
     "obra/superpowers": [
         "Other"
     ],
+    "obra/superpowers-lab": [
+        "Other"
+    ],
     "obra/superpowers-marketplace": [
+        "Other"
+    ],
+    "obra/superpowers-skills": [
         "Other"
     ],
     "obsidian-tasks-group/obsidian-tasks": [
@@ -21167,6 +21227,9 @@
     "taglia3/ElasticTransition-ObjC": [
         "Other"
     ],
+    "tailkits/tailkits-ui": [
+        "Other"
+    ],
     "tailwindlabs/headlessui": [
         "Other"
     ],
@@ -21653,6 +21716,9 @@
     "tmspzz/Rome": [
         "Other"
     ],
+    "tmux/tmux": [
+        "Other"
+    ],
     "tnantoka/edhita": [
         "Other"
     ],
@@ -21789,6 +21855,9 @@
         "Other"
     ],
     "travis-ci/gimme": [
+        "Other"
+    ],
+    "travisvn/awesome-claude-skills": [
         "Other"
     ],
     "trekhleb/javascript-algorithms": [
@@ -22308,6 +22377,9 @@
         "Other"
     ],
     "vercel/hyper": [
+        "Other"
+    ],
+    "vercel/next-devtools-mcp": [
         "Other"
     ],
     "vercel/streamdown": [
@@ -23496,6 +23568,9 @@
         "Other"
     ],
     "yusufcakmak/ExoPlayerSample": [
+        "Other"
+    ],
+    "yusufkaraaslan/Skill_Seekers": [
         "Other"
     ],
     "yutkat/dotfiles": [
