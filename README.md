@@ -212,6 +212,7 @@
 * [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 * [amusi/AI-Job-Recommend](https://github.com/amusi/AI-Job-Recommend): 国内公司人工智能方向（含机器学习、深度学习、计算机视觉和自然语言处理）岗位的招聘信息（含全职、实习和校招）
 * [eumemic/ai-legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
+* [Blakeem/AI-Prompt-Guide-MCP](https://github.com/Blakeem/AI-Prompt-Guide-MCP): MCP server and Claude Code plugin with task driven agent orchestration workflows, guides, markdown knowledge graphs, with intelligent context injection.
 * [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator): AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved viewing experience. This project combines the capabilities of GPT-4, FFmpeg, and OpenCV to automate the process of identifying highlights in videos
 * [csansoon/ai-web-designer](https://github.com/csansoon/ai-web-designer): An easy way to create and edit static websites powered by OpenAI's API
 * [google/ai_video_dubbing](https://github.com/google/ai_video_dubbing): None
@@ -603,6 +604,7 @@
 * [Sukhdip-Sandhu/Automatic-Watermark-Removal](https://github.com/Sukhdip-Sandhu/Automatic-Watermark-Removal): Python computer vision project that aims to automatically remove the watermarks of stock images. The algorithm is designed off of those of Google researchers
 * [fastovetsilya/Automatic_NN_Swiper](https://github.com/fastovetsilya/Automatic_NN_Swiper): Automatic swiping tool for dating sites. The current version is available for Bumble only
 * [aws-samples/automating-livestream-video-monitoring](https://github.com/aws-samples/automating-livestream-video-monitoring): This repo presents a demo application for realtime livestream video quality monitoring using AWS serverless and AI/ML services.
+* [akaszubski/autonomous-dev](https://github.com/akaszubski/autonomous-dev): Production-ready Claude Code 2.0 setup for autonomous development
 * [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt): A framework for prompt tuning using Intent-based Prompt Calibration 
 * [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling components for Kubernetes
 * [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper): A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -726,9 +728,13 @@
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): An orchestrated sub agent dev team powered by claude code
 * [LangGPT/awesome-claude-code](https://github.com/LangGPT/awesome-claude-code): Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树）
 * [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A curated list of awesome commands, files, and workflows for Claude Code
+* [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins): Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
 * [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents): Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills): The awesome collection of Claude Skills and resources.
+* [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills): 🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained.
+* [kenryu42/awesome-claude-skills](https://github.com/kenryu42/awesome-claude-skills): Awesome list for Claude Skills — a reusable, filesystem-based resources that provide Claude with domain-specific expertise developed by Anthropic
 * [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * [lebensterben/awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux): Let's make Clear Linux distribution great
 * [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli): A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
@@ -1274,7 +1280,7 @@
 * [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket): An operating system designed for hosting containers
 * [roberthein/BouncyLayout](https://github.com/roberthein/BouncyLayout): Make. It. Bounce.
 * [bow-swift/bow](https://github.com/bow-swift/bow): 🏹 Bow is a cross-platform library for Typed Functional Programming in Swift
-* [boxcast/boxcast-sdk-roku](https://github.com/boxcast/boxcast-sdk-roku): The official BoxCast SDK for integrating with the BoxCast API on Roku.
+* [boxcast/boxcast-sdk-roku](https://github.com/boxcast/boxcast-sdk-roku): The official BoxCast SDK for integrating with the BoxCast API on Roku. This repository is no longer being maintained or supported. Please use at your own risk.
 * [aristocratos/bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [bbc/brave](https://github.com/bbc/brave): Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 * [brave/brave-ios](https://github.com/brave/brave-ios): Brave iOS Browser
@@ -1399,6 +1405,7 @@
 * [googlecast/CastReceiver](https://github.com/googlecast/CastReceiver): Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features.
 * [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome): Reference Chrome Sender w/ Framework API: CastVideos-chrome application shows how to cast videos from Chrome browser that is fully compliant with the Cast Design Checklist.
 * [googlecast/CastVideos-ios](https://github.com/googlecast/CastVideos-ios): Reference iOS Sender w/ Framework API: CastVideos-ios application shows how to cast videos from an iOS device that is fully compliant with the Cast Design Checklist.
+* [coalesce-labs/catalyst](https://github.com/coalesce-labs/catalyst): Token-efficient Claude Code workspace with parallel agents and persistent memory. Research → Plan → Implement →   Validate workflow.
 * [zmwangx/caterpillar](https://github.com/zmwangx/caterpillar): Hardened HLS merger
 * [croffasia/cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit): 🏗️  Claude Code Plugin for smart blueprint-driven development
 * [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd): Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude Code, Codex, Cursor, Github Copilot, Gemini CLI and Windsurf. 
@@ -1573,8 +1580,9 @@
 * [danielrosehill/Claude-Code-Repos-Index](https://github.com/danielrosehill/Claude-Code-Repos-Index): Index of repositories related to Claude Code CLI
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings): Claude Code settings, commands and agents for vibe coding
-* [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory): A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.
+* [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory): Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
+* [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin): A Claude Code plugin that provides a conversational, adaptive, and agentic subagent for co-creating rigorous, multi-perspective technical specs—featuring dynamic memory graphs, adaptive workflows, and explicit multi-role analysis. Especially useful for non-technical users and teams adopting the Spec Kit Methodology.
 * [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective):   🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude   Code.
 * [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents): Collection of specialized AI subagents for Claude Code for personal use (full-stack development).
 * [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection): Claude Code Subagents & Commands Collection + CLI Tool
@@ -1598,12 +1606,17 @@
 * [decider/claude-hooks](https://github.com/decider/claude-hooks): Comprehensive hooks for Claude Code to enforce clean code practices and automate workflows
 * [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub):   A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions,    and help developers understand and improve their codebase through simple @mentions.
 * [danielrosehill/Claude-OS-Sync-Agent](https://github.com/danielrosehill/Claude-OS-Sync-Agent): Idea - using Claude Code in place of Ansible for cross-device updating/sync
+* [yadri-lab/claude-plugin-prd-workflow](https://github.com/yadri-lab/claude-plugin-prd-workflow): ?? The complete Claude Code plugin for Product-Driven Development. Ship features 60% faster with AI-powered PRD review, Git worktree support, and automated quality gates.
 * [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 * [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service): CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * [Helmi/claude-simone](https://github.com/Helmi/claude-simone): A project management framework for AI-assisted development with Claude Code
 * [jackmastermind/claude-skill-editor](https://github.com/jackmastermind/claude-skill-editor): create & edit Claude Skills
+* [Emlembow/claude-skills](https://github.com/Emlembow/claude-skills): A collection of custom skills for Claude AI - composable, portable, and powerful task-specific extensions
+* [MIR-pixelsvg/claude-skills](https://github.com/MIR-pixelsvg/claude-skills): 📦 Create and manage a skills archive for Claude with ease, leveraging official resources from Anthropic for seamless integration and updates.
 * [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): A comprehensive sollection of Skills for Claude Code or Claude AI. 
 * [jezweb/claude-skills](https://github.com/jezweb/claude-skills): Production-ready skills for Claude Code CLI - Cloudflare, React, Tailwind v4, and AI integrations
+* [CavinHuang/claude-skills-hub](https://github.com/CavinHuang/claude-skills-hub): 🚀 Claude Skills Hub - 150+ Free Claude Skills for Enhanced AI Coding. A marketplace of expert-crafted workflows to boost your Claude Code experience.
+* [calt13/claude-skills-integration-templates](https://github.com/calt13/claude-skills-integration-templates): Drop-in Markdown snippets that enable any Agent CLI to discover and use Claude Skills — even if you primarily use a different CLI than Claude Code.
 * [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace): Claude Code Skills for software engineering workflows - Git automation, testing, and code review
 * [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 * [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent): AI-driven development workflow system built on Claude Code Sub-Agents.
@@ -1615,6 +1628,8 @@
 * [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui): Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit): A toolkit of custom commands, hooks, and utilities for Claude Code
 * [JSONbored/claudepro-directory](https://github.com/JSONbored/claudepro-directory): Claude Pro Directory is a searchable collection of pre-built configurations, MCP servers, and custom rules designed to enhance Claude AI's performance for specific tasks.
+* [AutumnsGrove/ClaudeSkills](https://github.com/AutumnsGrove/ClaudeSkills): A plethorea of skills for use in Claude.ai, Claude Code, and the Claude Desktop App. These skills were all generated by Claude.
+* [ykayz/ClaudeSkills](https://github.com/ykayz/ClaudeSkills): A Claude Skill collection designed for task automation, document parsing, and intelligent dispatch. such as utilities for webpage-to-Markdown conversion, API doc parsing, and structured JSON extraction—optimized for LLM-driven workflows
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
@@ -2105,6 +2120,7 @@
 * [BrunoMartinsCorrea/dev-utils](https://github.com/BrunoMartinsCorrea/dev-utils): Scripts for distro hopping developers!
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 * [egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop): 🗂 A full-featured desktop app for DevDocs.io.
+* [giuseppe-trisciuoglio/developer-kit](https://github.com/giuseppe-trisciuoglio/developer-kit): This repository is a starter kit for building "skills" and "agents" for Claude Code. The current content focuses on patterns, conventions, and agents for Java projects (Spring Boot, JUnit, LangChain4J), but the kit is designed to be extensible and multi-language (PHP, TypeScript, Python, etc.).
 * [1hanzla100/developer-portfolio](https://github.com/1hanzla100/developer-portfolio): Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.
 * [hhhrrrttt222111/developer-portfolio](https://github.com/hhhrrrttt222111/developer-portfolio): None
 * [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio): Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
@@ -2365,6 +2381,7 @@
 * [ViBiOh/dotfiles](https://github.com/ViBiOh/dotfiles): Dotfiles for configuring my terminal environment
 * [YazdanZ/dotfiles](https://github.com/YazdanZ/dotfiles): Repository to manage and share personal dotfiles 🐧
 * [alrra/dotfiles](https://github.com/alrra/dotfiles): 💻 macOS / Ubuntu dotfiles
+* [atxtechbro/dotfiles](https://github.com/atxtechbro/dotfiles): AI-orchestration dotfiles for developers who want leverage. Parallelize agents, enforce principles, and self-heal your stack for 100x throughput. Built to version the AI era.
 * [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles): My personal linux dotfiles
 * [br3ndonland/dotfiles](https://github.com/br3ndonland/dotfiles): Computer setup and settings. Apple Silicon ready.
 * [daniruiz/dotfiles](https://github.com/daniruiz/dotfiles): ~/.dotfiles
@@ -3850,6 +3867,7 @@
 * [imageio/imageio-ffmpeg](https://github.com/imageio/imageio-ffmpeg): FFMPEG wrapper for Python
 * [dooman87/imagemagick-docker](https://github.com/dooman87/imagemagick-docker): Running the latest version of imagemagick inside container
 * [TIGER-AI-Lab/ImagenHub](https://github.com/TIGER-AI-Lab/ImagenHub): A one-stop library to standardize the inference and evaluation of all the conditional image generation models. [ICLR 2024]
+* [imaginpro/imaginepro-claude-plugin](https://github.com/imaginpro/imaginepro-claude-plugin): Professional AI image and video generation plugin for Claude Code. Create web assets, UI components, marketing materials, and videos with specialized agents.
 * [cshum/imagorvideo](https://github.com/cshum/imagorvideo): imagor video thumbnail server in Go and ffmpeg C bindings
 * [mattt/iMCP](https://github.com/mattt/iMCP): A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
 * [LTRData/ImDisk](https://github.com/LTRData/ImDisk): ImDisk Virtual Disk Driver
@@ -3867,6 +3885,7 @@
 * [apache/incubator-seata](https://github.com/apache/incubator-seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [xuancong84/indicator-cpufreq](https://github.com/xuancong84/indicator-cpufreq): for displaying and setting CPU frequency
 * [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor): Ayatana application indicator to show various system parameters - Debian and Ubuntu
+* [ivan23kor/indie-vibe-dev-skills](https://github.com/ivan23kor/indie-vibe-dev-skills): None
 * [matvp91/indigo-player](https://github.com/matvp91/indigo-player): Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 * [facebook/infer](https://github.com/facebook/infer): A static analyzer for Java, C, C++, and Objective-C
 * [influxdata/influxdata-docker](https://github.com/influxdata/influxdata-docker): Official docker images for the influxdata stack
@@ -4286,7 +4305,7 @@
 * [Eyevinn/lambda-stitch](https://github.com/Eyevinn/lambda-stitch): A Lambda function to insert ads in VOD
 * [Eyevinn/lambda-vast-transformer](https://github.com/Eyevinn/lambda-vast-transformer): Lambda function for modifying a VAST/VMAP XML on-the-fly
 * [Eyevinn/lambda-vodtovod](https://github.com/Eyevinn/lambda-vodtovod): Lambda function to stitch multiple VODs into a single VOD
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 The platform for reliable agents.
 * [tmc/langchaingo](https://github.com/tmc/langchaingo): LangChain for Go, the easiest way to write LLM-based programs in Go
 * [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph): Build resilient language agents as graphs.
 * [RLovelett/langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol.
@@ -4474,7 +4493,7 @@
 * [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 * [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors): lm-sensors repository
 * [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs): Minimal LLM inference in Rust
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 * [lobehub/lobe-midjourney-webui](https://github.com/lobehub/lobe-midjourney-webui): ⛵️ Midjourney WebUI - This plugin can integrate with Midjourney in LobeChat.
 * [Rishi-Bidani/local-cloud](https://github.com/Rishi-Bidani/local-cloud): Turn any computer at home into a cloud for easy sharing of files across your devices.
 * [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
@@ -5714,6 +5733,7 @@
 * [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback): This repository is used to collect user feedback from PPHub (GitHub third-party client) - 此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
 * [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources): Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course 
 * [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python): Practical Python Programming (course by @dabeaz)
+* [anombyte93/prd-taskmaster](https://github.com/anombyte93/prd-taskmaster): AI-powered PRD generation for Claude Code with taskmaster integration
 * [connervieira/Predator](https://github.com/connervieira/Predator): The ultimate customizable dash-cam platform, with ALPR and object recognition capabilities
 * [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 * [kean/Preheat](https://github.com/kean/Preheat): Automates prefetching of content in UITableView and UICollectionView
@@ -6552,7 +6572,9 @@
 * [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk): Skeuos is a GTK application theme inspired by the latest skeumorphic design trends, by embracing the bevels, drop-shadows, and gradients most modern themes actively avoid.
 * [chika-kasymov/SKFormTextField](https://github.com/chika-kasymov/SKFormTextField): Custom UITextField/UITextView container with form validation, description texts and more
 * [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS): Any Linux distribution, anywhere.
+* [fkesheh/skill-mcp](https://github.com/fkesheh/skill-mcp): LLM-managed skills platform using MCP - create, edit, and execute skills programmatically in Claude, Cursor, and any MCP-compatible client without manual file uploads.
 * [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers): Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+* [chrisvoncsefalvay/skillman](https://github.com/chrisvoncsefalvay/skillman): A skills manager for Claude
 * [anthropics/skills](https://github.com/anthropics/skills): Public repository for Skills
 * [scrapinghub/skinfer](https://github.com/scrapinghub/skinfer): Skinfer is a tool for inferring and merging JSON schemas
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
@@ -6679,6 +6701,7 @@
 * [mdx-js/specification](https://github.com/mdx-js/specification): Archived info on MDX language and AST definitions
 * [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 * [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum): A client-side image transcoding library.
+* [RoniLeor/specWeaver](https://github.com/RoniLeor/specWeaver): Professional Claude Code plugin for AI-powered spec-driven development with automated code review and  multi-agent collaboration
 * [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test): SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 * [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test): Test your internet connection speed and ping using speedtest.net from the CLI
 * [acoustid/speexdsp](https://github.com/acoustid/speexdsp): Speex audio processing library
@@ -6868,6 +6891,7 @@
 * [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit): the subtitle editor :)
 * [active-video/subtitles](https://github.com/active-video/subtitles): AV Platform MPEG DASH subtitles
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
+* [cdnsteve/sugar](https://github.com/cdnsteve/sugar): Sugar 🍰 - AI-Powered Autonomous Development System
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
 * [kortix-ai/suna](https://github.com/kortix-ai/suna): Kortix – build, manage and train AI Agents. Fully Open Source.
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
@@ -7236,6 +7260,7 @@
 * [msdeep14/trackGitHubStars](https://github.com/msdeep14/trackGitHubStars): python script to find top 10 starred repos of user
 * [gradio-app/trackio](https://github.com/gradio-app/trackio): A lightweight, local-first, and 🆓 experiment tracking library from Hugging Face 🤗
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
+* [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider): A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
 * [CVJoint/traefik2](https://github.com/CVJoint/traefik2): Traefik v2: docker-compose repo
 * [apache/trafficcontrol](https://github.com/apache/trafficcontrol): Apache Traffic Control is an Open Source implementation of a Content Delivery Network
 * [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer): Managing Pull Requests and Issues For GitHub & GitHub Enterprise
@@ -7797,6 +7822,7 @@
 * [zebpalmer/WeatherAlerts](https://github.com/zebpalmer/WeatherAlerts): Python script to parse the National Weather Service 'Cap' Alerts Feed and do interesting things with it. 
 * [weaviate/weaviate](https://github.com/weaviate/weaviate): Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 * [FFmpeg/web](https://github.com/FFmpeg/web): Mirror of git://ffmpeg.org/ffmpeg-web
+* [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator): Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
 * [Eyevinn/web-player](https://github.com/Eyevinn/web-player): HLS and MPEG-DASH player for web

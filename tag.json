@@ -518,6 +518,9 @@
     "Automattic/pocket-casts-ios": [
         "Other"
     ],
+    "AutumnsGrove/ClaudeSkills": [
+        "Other"
+    ],
     "AvdLee/appstoreconnect-swift-sdk": [
         "Other"
     ],
@@ -603,6 +606,9 @@
         "Other"
     ],
     "Blaizzy/mlx-vlm": [
+        "Other"
+    ],
+    "Blakeem/AI-Prompt-Guide-MCP": [
         "Other"
     ],
     "BlockListed/encodedir": [
@@ -768,6 +774,9 @@
         "Other"
     ],
     "CatchTheTornado/text-extract-api": [
+        "Other"
+    ],
+    "CavinHuang/claude-skills-hub": [
         "Other"
     ],
     "Ch00k/ffmpy": [
@@ -1458,6 +1467,9 @@
         "Other"
     ],
     "EmilHernvall/dnsguide": [
+        "Other"
+    ],
+    "Emlembow/claude-skills": [
         "Other"
     ],
     "EmperorPenguin18/linux-installer": [
@@ -3113,6 +3125,9 @@
     "MGPoirot/web2mp3": [
         "Other"
     ],
+    "MIR-pixelsvg/claude-skills": [
+        "Other"
+    ],
     "MKSG-MugunthKumar/MKNetworkKit-Swift": [
         "Other"
     ],
@@ -3432,6 +3447,9 @@
         "Other"
     ],
     "NVlabs/VILA": [
+        "Other"
+    ],
+    "NX211/traefik-proxmox-provider": [
         "Other"
     ],
     "NachoSoto/Pulse": [
@@ -4152,6 +4170,9 @@
         "Other"
     ],
     "RonRothman/mtwsgi": [
+        "Other"
+    ],
+    "RoniLeor/specWeaver": [
         "Other"
     ],
     "RonitSachdev/ccundo": [
@@ -4967,6 +4988,9 @@
     "VoltAgent/awesome-claude-code-subagents": [
         "Other"
     ],
+    "VoltAgent/awesome-claude-skills": [
+        "Other"
+    ],
     "VoodooSMBus/VoodooRMI": [
         "Other"
     ],
@@ -5618,6 +5642,9 @@
     "akashblackhat/wifi-hacking.py": [
         "Other"
     ],
+    "akaszubski/autonomous-dev": [
+        "Other"
+    ],
     "akitten/linkedin-public-profile-parser": [
         "Other"
     ],
@@ -5852,6 +5879,9 @@
     "allezxandre/go-hls-encoder": [
         "Other"
     ],
+    "alonw0/web-asset-generator": [
+        "Other"
+    ],
     "alphaSeclab/awesome-cyber-security": [
         "Other"
     ],
@@ -6063,6 +6093,9 @@
         "Other"
     ],
     "ankurjha21/eks-AWS": [
+        "Other"
+    ],
+    "anombyte93/prd-taskmaster": [
         "Other"
     ],
     "ansible/ansible": [
@@ -6744,6 +6777,9 @@
         "Other"
     ],
     "atvGroovy/atvGroovy": [
+        "Other"
+    ],
+    "atxtechbro/dotfiles": [
         "Other"
     ],
     "auchenberg/volkswagen": [
@@ -7790,6 +7826,9 @@
     "callumlocke/json-formatter": [
         "Other"
     ],
+    "calt13/claude-skills-integration-templates": [
+        "Other"
+    ],
     "calzoneman/sync": [
         "Other"
     ],
@@ -7931,6 +7970,9 @@
     "ccat3z/stars": [
         "Other"
     ],
+    "ccplugins/awesome-claude-code-plugins": [
+        "Other"
+    ],
     "ccremer/clustercode": [
         "Other"
     ],
@@ -7947,6 +7989,9 @@
         "Other"
     ],
     "cdnbye/hlsjs-p2p-engine": [
+        "Other"
+    ],
+    "cdnsteve/sugar": [
         "Other"
     ],
     "cdwv/awesome-helm": [
@@ -8177,6 +8222,9 @@
     "christophetd/nextcloud-docker-compose": [
         "Other"
     ],
+    "chrisvoncsefalvay/skillman": [
+        "Other"
+    ],
     "chrome/atvproxy": [
         "Other"
     ],
@@ -8331,6 +8379,9 @@
         "Other"
     ],
     "cnajm/flask-ffmpeg-mediaconverter": [
+        "Other"
+    ],
+    "coalesce-labs/catalyst": [
         "Other"
     ],
     "cockpit-project/cockpit": [
@@ -10802,6 +10853,9 @@
     "five82/batchtranscode": [
         "Other"
     ],
+    "fkesheh/skill-mcp": [
+        "Other"
+    ],
     "flameshot-org/flameshot": [
         "Other"
     ],
@@ -11316,6 +11370,9 @@
         "Other"
     ],
     "gitumarkk/kubernetes_django": [
+        "Other"
+    ],
+    "giuseppe-trisciuoglio/developer-kit": [
         "Other"
     ],
     "gkozlenko/node-media-server": [
@@ -12422,6 +12479,9 @@
     "imageio/imageio-ffmpeg": [
         "Other"
     ],
+    "imaginpro/imaginepro-claude-plugin": [
+        "Other"
+    ],
     "imfunniee/gitfolio": [
         "Other"
     ],
@@ -12713,6 +12773,9 @@
     "ivan-sincek/penetration-testing-cheat-sheet": [
         "Other"
     ],
+    "ivan23kor/indie-vibe-dev-skills": [
+        "Other"
+    ],
     "ivanfioravanti/chatbot-ollama": [
         "Other"
     ],
@@ -12906,6 +12969,9 @@
         "Other"
     ],
     "jckleiner/notion-backup": [
+        "Other"
+    ],
+    "jcmrs/claude-code-spec-kit-subagent-plugin": [
         "Other"
     ],
     "jcsalterego/jqq": [
@@ -13577,6 +13643,9 @@
     "karan/slack-overflow": [
         "Other"
     ],
+    "karanb192/awesome-claude-skills": [
+        "Other"
+    ],
     "karec/cookiecutter-flask-restful": [
         "Other"
     ],
@@ -13674,6 +13743,9 @@
         "Other"
     ],
     "kennethreitz/ghsync": [
+        "Other"
+    ],
+    "kenryu42/awesome-claude-skills": [
         "Other"
     ],
     "keon/awesome-nlp": [
@@ -23420,6 +23492,9 @@
     "yadox666/The-Hackers-Hardware-Toolkit": [
         "Other"
     ],
+    "yadri-lab/claude-plugin-prd-workflow": [
+        "Other"
+    ],
     "yagiz/Bagel": [
         "Other"
     ],
@@ -23499,6 +23574,9 @@
         "Other"
     ],
     "yigiterinc/video-streaming-over-http": [
+        "Other"
+    ],
+    "ykayz/ClaudeSkills": [
         "Other"
     ],
     "ymgenesis/AudioTool": [
