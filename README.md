@@ -1583,6 +1583,7 @@
 * [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory): Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
 * [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin): A Claude Code plugin that provides a conversational, adaptive, and agentic subagent for co-creating rigorous, multi-perspective technical specs—featuring dynamic memory graphs, adaptive workflows, and explicit multi-role analysis. Especially useful for non-technical users and teams adopting the Spec Kit Methodology.
+* [arnaldo-delisio/claude-code-studio](https://github.com/arnaldo-delisio/claude-code-studio): Transform Claude Code into a complete development studio with 40+ specialized AI agents, MCP integrations, and enterprise-grade workflows
 * [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective):   🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude   Code.
 * [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents): Collection of specialized AI subagents for Claude Code for personal use (full-stack development).
 * [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection): Claude Code Subagents & Commands Collection + CLI Tool
@@ -1612,7 +1613,6 @@
 * [Helmi/claude-simone](https://github.com/Helmi/claude-simone): A project management framework for AI-assisted development with Claude Code
 * [jackmastermind/claude-skill-editor](https://github.com/jackmastermind/claude-skill-editor): create & edit Claude Skills
 * [Emlembow/claude-skills](https://github.com/Emlembow/claude-skills): A collection of custom skills for Claude AI - composable, portable, and powerful task-specific extensions
-* [MIR-pixelsvg/claude-skills](https://github.com/MIR-pixelsvg/claude-skills): 📦 Create and manage a skills archive for Claude with ease, leveraging official resources from Anthropic for seamless integration and updates.
 * [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): A comprehensive sollection of Skills for Claude Code or Claude AI. 
 * [jezweb/claude-skills](https://github.com/jezweb/claude-skills): Production-ready skills for Claude Code CLI - Cloudflare, React, Tailwind v4, and AI integrations
 * [CavinHuang/claude-skills-hub](https://github.com/CavinHuang/claude-skills-hub): 🚀 Claude Skills Hub - 150+ Free Claude Skills for Enhanced AI Coding. A marketplace of expert-crafted workflows to boost your Claude Code experience.
@@ -3081,7 +3081,7 @@
 * [macabeus/FocusGuideHelper](https://github.com/macabeus/FocusGuideHelper): TV Client | Create focus guides linker more easily and versatile.
 * [dcordero/FocusTvButton](https://github.com/dcordero/FocusTvButton): Light wrapper of UIButton that allows extra customization for tvOS
 * [Ramotion/folding-cell](https://github.com/Ramotion/folding-cell): :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion
-* [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place
+* [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Folo is the AI Reader
 * [halworsen/footgas](https://github.com/halworsen/footgas): Make clips from videos with strict filesize limits
 * [omochi/ForceHTTP](https://github.com/omochi/ForceHTTP): None
 * [omochi/ForceHTTPExample](https://github.com/omochi/ForceHTTPExample): None
@@ -4791,6 +4791,7 @@
 * [zoidsh/meru](https://github.com/zoidsh/meru): :postbox: Gmail desktop app for macOS, Windows & Linux (formerly Gmail Desktop)
 * [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager
 * [novareto/messages_manager](https://github.com/novareto/messages_manager): FastAPI backend with a vuejs frontend for admin messages management
+* [metabase/metabase](https://github.com/metabase/metabase): The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 * [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 * [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT): 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * [MetalPetal/MetalPetal](https://github.com/MetalPetal/MetalPetal): A GPU accelerated image and video processing framework built on Metal.
@@ -4798,8 +4799,10 @@
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
 * [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+* [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server): Metoro MCP Server
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server): Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+* [facebook/metro](https://github.com/facebook/metro): 🚇 The JavaScript bundler for React Native
 * [Yamazaki93/MetroGit](https://github.com/Yamazaki93/MetroGit): A git visualization tool that's more than just git
 * [manuelescrig/MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton): An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 * [manuelescrig/MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts): An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.
@@ -6003,6 +6006,7 @@
 * [facebook/react-native](https://github.com/facebook/react-native): A framework for building native applications using React
 * [Radweb/react-native-audio-transcoder](https://github.com/Radweb/react-native-audio-transcoder): Transcode audio format in react-native. Supports mp3 🎉
 * [indiespirit/react-native-chart-kit](https://github.com/indiespirit/react-native-chart-kit): 📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
+* [twodoorsdev/react-native-debugger-mcp](https://github.com/twodoorsdev/react-native-debugger-mcp): An MCP server that connects to your React Native application debugger
 * [codingki/react-native-expo-template](https://github.com/codingki/react-native-expo-template): My starter templates for building apps with react native and expo
 * [chaimPaneth/react-native-jw-media-player](https://github.com/chaimPaneth/react-native-jw-media-player): React-Native Android/iOS bridge for JWPlayer SDK (https://www.jwplayer.com/)
 * [ammarahm-ed/react-native-mmkv-storage](https://github.com/ammarahm-ed/react-native-mmkv-storage): An ultra fast (0.0002s read/write), small & encrypted mobile key-value storage framework for React Native written in C++ using JSI
@@ -6902,7 +6906,7 @@
 * [dehatanes/super-useful-notion-cli](https://github.com/dehatanes/super-useful-notion-cli): Criando uma comand line interface SÚPER ÚTIL para quem usa Notion :)
 * [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 * [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-* [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign): Cursor for design - Open Source
+* [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign): AI Product Design Agent - Open Source
 * [superduper-io/superduper](https://github.com/superduper-io/superduper): Superduper: End-to-end framework for building custom AI applications and agents.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 * [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp): Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.

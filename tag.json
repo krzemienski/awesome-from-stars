@@ -3125,9 +3125,6 @@
     "MGPoirot/web2mp3": [
         "Other"
     ],
-    "MIR-pixelsvg/claude-skills": [
-        "Other"
-    ],
     "MKSG-MugunthKumar/MKNetworkKit-Swift": [
         "Other"
     ],
@@ -6582,6 +6579,9 @@
         "Other"
     ],
     "armbues/SiLLM": [
+        "Other"
+    ],
+    "arnaldo-delisio/claude-code-studio": [
         "Other"
     ],
     "arsenyinfo/claude-code-logger": [
@@ -10560,6 +10560,9 @@
         "Other"
     ],
     "facebook/infer": [
+        "Other"
+    ],
+    "facebook/metro": [
         "Other"
     ],
     "facebook/proxygen": [
@@ -15803,6 +15806,9 @@
     "meta-llama/llama3": [
         "Other"
     ],
+    "metabase/metabase": [
+        "Other"
+    ],
     "metabrainz/musicbrainz-docker": [
         "Other"
     ],
@@ -15819,6 +15825,9 @@
         "Other"
     ],
     "methylDragon/notion-backups": [
+        "Other"
+    ],
+    "metoro-io/metoro-mcp-server": [
         "Other"
     ],
     "mewkiz/flac": [
@@ -22062,6 +22071,9 @@
         "Other"
     ],
     "twitter/vireo": [
+        "Other"
+    ],
+    "twodoorsdev/react-native-debugger-mcp": [
         "Other"
     ],
     "twof/VaporNation": [
