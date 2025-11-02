@@ -1415,7 +1415,7 @@
 * [krzemienski/ccflare](https://github.com/krzemienski/ccflare): The ultimate CC proxy
 * [snipeship/ccflare](https://github.com/snipeship/ccflare): The ultimate CC proxy
 * [eckardt/cchistory](https://github.com/eckardt/cchistory): Like the shell history command but for your Claude Code sessions.
-* [kbwo/ccmanager](https://github.com/kbwo/ccmanager): Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI
+* [kbwo/ccmanager](https://github.com/kbwo/ccmanager): Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI
 * [gifflet/ccmd](https://github.com/gifflet/ccmd): The package manager for Claude Code commands
 * [miwidot/ccms](https://github.com/miwidot/ccms): Claude Code Machine Sync
 * [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles):  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates
@@ -1589,7 +1589,7 @@
 * [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection): Claude Code Subagents & Commands Collection + CLI Tool
 * [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 * [krzemienski/claude-code-templates](https://github.com/krzemienski/claude-code-templates): CLI tool for configuring and monitoring Claude Code
-* [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools): Collection of practical productivity tools for Claude Code
+* [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools): Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 * [evanlong-me/claude-code-usage](https://github.com/evanlong-me/claude-code-usage): 📊 A command-line tool to analyze and summarize your code usage with Claude AI.
 * [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): Real-time Claude Code usage monitor with predictions and warnings
 * [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer): A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
@@ -1606,6 +1606,7 @@
 * [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow): 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 * [decider/claude-hooks](https://github.com/decider/claude-hooks): Comprehensive hooks for Claude Code to enforce clean code practices and automate workflows
 * [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub):   A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions,    and help developers understand and improve their codebase through simple @mentions.
+* [krzemienski/claude-mobile-expo](https://github.com/krzemienski/claude-mobile-expo): Claude Code Mobile - iOS app with Python FastAPI backend providing OpenAI-compatible API for Claude Code CLI
 * [danielrosehill/Claude-OS-Sync-Agent](https://github.com/danielrosehill/Claude-OS-Sync-Agent): Idea - using Claude Code in place of Ansible for cross-device updating/sync
 * [yadri-lab/claude-plugin-prd-workflow](https://github.com/yadri-lab/claude-plugin-prd-workflow): ?? The complete Claude Code plugin for Product-Driven Development. Ship features 60% faster with AI-powered PRD review, Git worktree support, and automated quality gates.
 * [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -3587,7 +3588,7 @@
 * [HaishinKit/HaishinKit.swift](https://github.com/HaishinKit/HaishinKit.swift): Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 * [linkedin/Hakawai](https://github.com/linkedin/Hakawai): A powerful, extensible UITextView.
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
-* [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
+* [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's development repository 
 * [chrisjohnson00/handbrake-watcher-chart](https://github.com/chrisjohnson00/handbrake-watcher-chart): A helm chart to deploy a file watcher that creates k8s jobs for handbrake conversions
 * [danijar/handout](https://github.com/danijar/handout): Turn Python scripts into handouts with Markdown and figures
 * [nemonik/hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps): A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...
@@ -3805,6 +3806,7 @@
 * [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader): Simple go utility to download HuggingFace Models and Datasets
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): The best way to get AI coding agents to solve hard problems in complex codebases.
+* [hummbl-dev/hummbl-claude-skills](https://github.com/hummbl-dev/hummbl-claude-skills): Production-ready Claude skills for HUMMBL mental models framework development, multi-agent coordination, and repository management
 * [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run and test HTTP requests with plain text.
 * [chinabugotech/hutool](https://github.com/chinabugotech/hutool): 🍬A set of tools that keep Java sweet.
 * [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe): Probe for hardware, check operability and find drivers
