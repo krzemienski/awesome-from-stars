@@ -903,7 +903,6 @@
 * [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis): Defund the Police.
 * [rossant/awesome-math](https://github.com/rossant/awesome-math): A curated list of awesome mathematics resources
 * [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): A collection of MCP clients.
-* [toolsdk-ai/awesome-mcp-registry](https://github.com/toolsdk-ai/awesome-mcp-registry): Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations 
 * [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers): Awesome MCP Servers - A curated list of Model Context Protocol servers
 * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
 * [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard): ⌨️ A curated list of Open Source Mechanical Keyboard resources.
@@ -1564,6 +1563,7 @@
 * [baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents): Desktop app and API created in public for multi-agent Claude Code orchestration - coordinate local and remote agents through @mentions. 
 * [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook): A collection of settings to make Claude Code more useful.
 * [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability): Real-time monitoring for Claude Code agents through simple hook event tracking.
+* [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase): Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 * [krzemienski/claude-code-ios-ui](https://github.com/krzemienski/claude-code-ios-ui): Native iOS client for Claude Code with cyberpunk-themed UI, comprehensive testing suite, and Express.js backend
 * [danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands): Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)
 * [arsenyinfo/claude-code-logger](https://github.com/arsenyinfo/claude-code-logger): None
@@ -1815,7 +1815,7 @@
 * [Real-AI-Engineering/context-planning-system](https://github.com/Real-AI-Engineering/context-planning-system): Personal context planning system with Claude Code skills for Speckit task aggregation and daily/weekly workflows
 * [upstash/context7](https://github.com/upstash/context7): Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * [FlineDev/ContextKit](https://github.com/FlineDev/ContextKit): Claude Code context engineering & planning system for individual AI development workflows
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
 * [contour-terminal/contour](https://github.com/contour-terminal/contour): Modern C++ Terminal Emulator
 * [bryanbrunetti/controku](https://github.com/bryanbrunetti/controku): An app to control Roku devices, written with ElectronJS
@@ -2067,6 +2067,7 @@
 * [martyr-deepin/deepin-terminal-gtk](https://github.com/martyr-deepin/deepin-terminal-gtk): DDE terminal emulator application
 * [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu): Deepin Wine for Ubuntu/Debian
 * [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): DeepSeek Coder: Let the Code Write Itself
+* [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR): Contexts Optical Compression
 * [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3): None
 * [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse): Sparsity-aware deep learning inference runtime for CPUs
 * [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech): DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -4324,6 +4325,7 @@
 * [jy0205/LaVIT](https://github.com/jy0205/LaVIT): LaVIT: Empower the Large Language Model to Understand and Generate Visual Content
 * [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair): No clever tagline needed.
 * [nicklockwood/layout](https://github.com/nicklockwood/layout): A declarative UI framework for iOS
+* [yusufkaraaslan/lazy-bird](https://github.com/yusufkaraaslan/lazy-bird): Universal development automation for ANY project. Claude Code implements features, runs tests, creates PRs autonomously. 15+ framework presets or custom commands.   Issue-driven, secure, scalable. Save 20-100 hrs/month. MIT license.
 * [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack): Automated tool for WiFi hacking.
 * [noob-hackers/lazybee](https://github.com/noob-hackers/lazybee): Create Best Wordlist From Python Tool In Termux
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
@@ -5540,7 +5542,7 @@
 * [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator): Turn PDFs and EPUBs into audiobooks, subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, notably XTTS, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app with a GUI, an installer and all-in-one packages.
 * [louisdh/panelkit](https://github.com/louisdh/panelkit): A UI framework that enables panels on iOS.
 * [antoniocasero/Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
-* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-based, multi-site remote access platform using WireGuard®
 * [stefanogali/panic-panini-next](https://github.com/stefanogali/panic-panini-next): Next.Js + TailwindCSS starter template for music band.
 * [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime): A tiny Clojure library that deals with MIME types (Internet media types)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
@@ -6754,7 +6756,7 @@
 * [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
 * [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset): offset-free paging for sqlalchemy
 * [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc): Generate type-safe code from SQL
-* [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui): A simple and lightweight SQL client desktop with cross database and platform support.
+* [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron): A simple and lightweight SQL client desktop with cross database and platform support.
 * [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 * [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool
 * [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel): SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -7245,6 +7247,7 @@
 * [adamlatchem/toolchest](https://github.com/adamlatchem/toolchest): Useful Tools
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 * [actions/toolkit](https://github.com/actions/toolkit): The GitHub ToolKit for developing GitHub Actions.
+* [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry): ToolSDK.ai's Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations
 * [AnonHackerr/toolss](https://github.com/AnonHackerr/toolss): Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 * [app-developers/top](https://github.com/app-developers/top): Top App Developers - September 2022
 * [fflewddur/tophat](https://github.com/fflewddur/tophat): View CPU, memory, disk, and network activity in the GNOME top bar.
@@ -7395,6 +7398,7 @@
 * [typhoeus/typhoeus](https://github.com/typhoeus/typhoeus):  Typhoeus wraps libcurl in order to make fast and reliable requests.
 * [TypingMind/typingmind](https://github.com/TypingMind/typingmind): The most advanced Web UI for AI chat
 * [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme): A beautiful, Notion-inspired Typora theme
+* [fetchai/uAgents](https://github.com/fetchai/uAgents): A fast and lightweight framework for creating decentralized agents with ease.
 * [ubports/ubports-installer](https://github.com/ubports/ubports-installer): A simple tool to install Ubuntu Touch on UBports devices
 * [JREAM/ubuntu-cheatsheet](https://github.com/JREAM/ubuntu-cheatsheet): Ubuntu Terminal Cheatsheet
 * [gerardpuig/ubuntu-cleaner](https://github.com/gerardpuig/ubuntu-cleaner): Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.

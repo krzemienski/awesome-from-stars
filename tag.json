@@ -9221,6 +9221,9 @@
     "deepseek-ai/DeepSeek-Coder": [
         "Other"
     ],
+    "deepseek-ai/DeepSeek-OCR": [
+        "Other"
+    ],
     "deepseek-ai/DeepSeek-V3": [
         "Other"
     ],
@@ -9453,6 +9456,9 @@
         "Other"
     ],
     "diegohaz/arc": [
+        "Other"
+    ],
+    "diet103/claude-code-infrastructure-showcase": [
         "Other"
     ],
     "digimezzo/knowte": [
@@ -10776,6 +10782,9 @@
         "Other"
     ],
     "ferdikoomen/openapi-typescript-codegen": [
+        "Other"
+    ],
+    "fetchai/uAgents": [
         "Other"
     ],
     "fethica/FRadioPlayer": [
@@ -20726,7 +20735,7 @@
     "sqlc-dev/sqlc": [
         "Other"
     ],
-    "sqlectron/sqlectron-gui": [
+    "sqlectron/sqlectron": [
         "Other"
     ],
     "sqlfluff/sqlfluff": [
@@ -21869,7 +21878,7 @@
     "tonywangcn/docker-cluster-with-celery-and-rabbitmq": [
         "Other"
     ],
-    "toolsdk-ai/awesome-mcp-registry": [
+    "toolsdk-ai/toolsdk-mcp-registry": [
         "Other"
     ],
     "topaz1008/ffmpeg-any": [
@@ -23667,6 +23676,9 @@
         "Other"
     ],
     "yusufkaraaslan/Skill_Seekers": [
+        "Other"
+    ],
+    "yusufkaraaslan/lazy-bird": [
         "Other"
     ],
     "yutkat/dotfiles": [
