@@ -2216,7 +2216,7 @@
 * [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
 * [prcongithub/do-assets](https://github.com/prcongithub/do-assets): None
 * [seven1m/do-install-button](https://github.com/seven1m/do-install-button): NO LONGER MAINTAINED
-* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Up-to-date documentation to 9,000+ libraries for devs and AI agents.
+* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Up-to-date documentation for devs and AI agents.
 * [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash): None
 * [M7S/dockbarx](https://github.com/M7S/dockbarx): None
 * [nextcloud/docker](https://github.com/nextcloud/docker): ⛴ Docker image of Nextcloud
@@ -5524,7 +5524,7 @@
 * [hooram/ownphotos](https://github.com/hooram/ownphotos): Self hosted alternative to Google Photos 
 * [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide): A desktop environment for the reMarkable tablet
 * [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader): An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
-* [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+* [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org
 * [bensuperpc/Package_installer](https://github.com/bensuperpc/Package_installer): Automatic package installer for ArchLinux and Manjaro
 * [muxinc/packaging_examples](https://github.com/muxinc/packaging_examples): Samples files packaged by mux
 * [evertiro/packup](https://github.com/evertiro/packup): A simple backup & restore script for pacman.
@@ -7380,7 +7380,7 @@
 * [hossein-no1/TvPlayer](https://github.com/hossein-no1/TvPlayer): A plyer that optimized for tv and based on Exo player google
 * [kodlian/TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer): TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps.
 * [linagora/Twake](https://github.com/linagora/Twake): Twake is a secure open source collaboration platform to improve organizational productivity. 
-* [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize Claude Code system prompts, add custom themes, thinking verbs & spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT).
+* [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize Claude Code system prompts, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization).
 * [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): A visual no-code theme editor for shadcn/ui components
 * [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks): An easy way to fine-tune, and adjust parameters for iOS apps in development.
 * [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
