@@ -708,7 +708,7 @@
 * [inputsh/awesome-c](https://github.com/inputsh/awesome-c): Continuing the development of awesome-c list on GitHub
 * [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * [terry-r123/Awesome-Captioning](https://github.com/terry-r123/Awesome-Captioning): A curated list of Multimodal Captioning related research(including image captioning, video captioning, and text captioning)
-* [dungahk/awesome-cdk8s](https://github.com/dungahk/awesome-cdk8s): None
+* [emersonreisdev/awesome-cdk8s](https://github.com/emersonreisdev/awesome-cdk8s): None
 * [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro): Curated list of Cerebro plugins and resources
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
 * [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT): ChatGPT资料汇总学习，持续更新......
@@ -1164,7 +1164,7 @@
 * [jmcantrell/bashful](https://github.com/jmcantrell/bashful): A collection of modules to simplify writing bash scripts.
 * [aristocratos/bashtop](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [avleen/bashttpd](https://github.com/avleen/bashttpd): A web server written in bash
-* [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory): AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
+* [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory): AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 * [KhronosGroup/Basis-Universal-Transcoders](https://github.com/KhronosGroup/Basis-Universal-Transcoders): A collection of optimized WebAssembly transcoders for Basis Universal compressed GPU texture formats.
 * [ZaifSenpai/Batch-Py-Remux](https://github.com/ZaifSenpai/Batch-Py-Remux): Convert mkv video to hevc (h.265)
 * [Azure-Samples/batch-python-ffmpeg-tutorial](https://github.com/Azure-Samples/batch-python-ffmpeg-tutorial): A Python application that uses Batch to process media files in parallel with the ffmpeg open-source tool.
@@ -1257,7 +1257,7 @@
 * [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks): :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer: 
 * [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks): 🔖 Bookmark app for Nextcloud
 * [andela-sjames/Bookmeapi](https://github.com/andela-sjames/Bookmeapi): Demonstrate the power of GraphQL with Python/Django
-* [learn-anything/books](https://github.com/learn-anything/books): Awesome Books
+* [linsa-io/books](https://github.com/linsa-io/books): Awesome Books
 * [dushan14/books-store](https://github.com/dushan14/books-store): A Simple Web application to use flask python web framework. 
 * [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack): A platform to create documentation/wiki content built with PHP & Laravel
 * [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm): Social reading and reviewing, decentralized with ActivityPub
@@ -1568,6 +1568,7 @@
 * [danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands): Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)
 * [arsenyinfo/claude-code-logger](https://github.com/arsenyinfo/claude-code-logger): None
 * [ananddtyagi/claude-code-marketplace](https://github.com/ananddtyagi/claude-code-marketplace): Marketplace repo for Claude Code Plugins
+* [KunihiroS/claude-code-mcp](https://github.com/KunihiroS/claude-code-mcp): MCP Server connects with claude code local command.
 * [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as one-shot MCP server to have an agent in your agent.
 * [zebbern/claude-code-mcp](https://github.com/zebbern/claude-code-mcp): Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more.
 * [danielrosehill/Claude-Code-MCP-Command-Generator](https://github.com/danielrosehill/Claude-Code-MCP-Command-Generator): Provides CC MCP installation commands
@@ -1581,6 +1582,7 @@
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings): Claude Code settings, commands and agents for vibe coding
 * [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory): Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.
+* [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills): 17 production-ready Claude Code skills for complete Agile workflow automation with Linear integration. From documentation to execution: Epic/Story/Task management, Risk-Based Testing, ADRs, and quality validation. Install as plugin or git clone.
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
 * [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin): A Claude Code plugin that provides a conversational, adaptive, and agentic subagent for co-creating rigorous, multi-perspective technical specs—featuring dynamic memory graphs, adaptive workflows, and explicit multi-role analysis. Especially useful for non-technical users and teams adopting the Spec Kit Methodology.
 * [arnaldo-delisio/claude-code-studio](https://github.com/arnaldo-delisio/claude-code-studio): Transform Claude Code into a complete development studio with 40+ specialized AI agents, MCP integrations, and enterprise-grade workflows
@@ -1606,6 +1608,7 @@
 * [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow): 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 * [decider/claude-hooks](https://github.com/decider/claude-hooks): Comprehensive hooks for Claude Code to enforce clean code practices and automate workflows
 * [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub):   A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions,    and help developers understand and improve their codebase through simple @mentions.
+* [obra/claude-memory-extractor](https://github.com/obra/claude-memory-extractor): None
 * [krzemienski/claude-mobile-expo](https://github.com/krzemienski/claude-mobile-expo): Claude Code Mobile - iOS app with Python FastAPI backend providing OpenAI-compatible API for Claude Code CLI
 * [danielrosehill/Claude-OS-Sync-Agent](https://github.com/danielrosehill/Claude-OS-Sync-Agent): Idea - using Claude Code in place of Ansible for cross-device updating/sync
 * [yadri-lab/claude-plugin-prd-workflow](https://github.com/yadri-lab/claude-plugin-prd-workflow): ?? The complete Claude Code plugin for Product-Driven Development. Ship features 60% faster with AI-powered PRD review, Git worktree support, and automated quality gates.
@@ -1632,6 +1635,7 @@
 * [JSONbored/claudepro-directory](https://github.com/JSONbored/claudepro-directory): Claude Pro Directory is a searchable collection of pre-built configurations, MCP servers, and custom rules designed to enhance Claude AI's performance for specific tasks.
 * [AutumnsGrove/ClaudeSkills](https://github.com/AutumnsGrove/ClaudeSkills): A plethorea of skills for use in Claude.ai, Claude Code, and the Claude Desktop App. These skills were all generated by Claude.
 * [kay-ou/ClaudeSkills](https://github.com/kay-ou/ClaudeSkills): A Claude Skill collection designed for task automation, document parsing, and intelligent dispatch. such as utilities for webpage-to-Markdown conversion, API doc parsing, and structured JSON extraction—optimized for LLM-driven workflows
+* [jeffersonwarrior/claudisms](https://github.com/jeffersonwarrior/claudisms): A plugin to improve claude
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
@@ -1666,7 +1670,7 @@
 * [scality/cloudserver](https://github.com/scality/cloudserver): Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 * [cloudstateio/cloudstate](https://github.com/cloudstateio/cloudstate): Distributed State Management for Serverless
 * [bfansports/CloudTranscode](https://github.com/bfansports/CloudTranscode): Distributed videos and images encoding/transcoding using Amazon SFN, FFMpeg and ImageMagic
-* [mutablealligator/CloudTranscode](https://github.com/mutablealligator/CloudTranscode): Distributed video encoding/transcoding using Amazon Web Services and FFMpeg
+* [rubyrose-alexis/CloudTranscode](https://github.com/rubyrose-alexis/CloudTranscode): Distributed video encoding/transcoding using Amazon Web Services and FFMpeg
 * [bfansports/CloudTranscode-Lambda](https://github.com/bfansports/CloudTranscode-Lambda): AWS Lambda function for doing FFMpeg transcoding
 * [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter): Metrics exporter for Amazon AWS CloudWatch
 * [Dids/clover-builder](https://github.com/Dids/clover-builder): Automated Clover builds.
@@ -1929,7 +1933,7 @@
 * [wbopan/cui](https://github.com/wbopan/cui): A web UI for Claude Code agents
 * [cats-oss/cujira](https://github.com/cats-oss/cujira): 🐳 cujira is a command line tool that makes easy to show issue list from Jira.
 * [Mebus/cupp](https://github.com/Mebus/cupp): Common User Passwords Profiler (CUPP)
-* [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists): Curated lists on various topics
+* [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists): Curated lists on various topics
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
 * [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Transpile curl commands into Python, JavaScript and 27 other languages
@@ -2590,6 +2594,7 @@
 * [epiclabs-io/epic-video-comparator](https://github.com/epiclabs-io/epic-video-comparator): Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
 * [epiclabs-io/epic-video-player](https://github.com/epiclabs-io/epic-video-player): JS library to wrap different video libraries.
 * [dmarmor/epichrome](https://github.com/dmarmor/epichrome): An application and Chrome extension for creating web-based applications that work like standalone Mac apps.
+* [obra/episodic-memory](https://github.com/obra/episodic-memory): None
 * [yangjie10930/EpMedia](https://github.com/yangjie10930/EpMedia): Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，变速，添加LOGO，添加滤镜，添加背景音乐，加速减速视频，倒放音视频。 The video processing framework based on FFmpeg developed on Android is simple, easy to use, and small in size, helping users quickly realize video processing functions. Contains the following functions: editing, cropping, rotating, mirroring, merging, separating, variable speed, adding LOGO, adding filters, adding background music, accelerating and decelerating video, rewinding audio and video.
 * [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme): A Material Design-like theme for GNOME/GTK+ based desktop environments.
 * [amilajack/erb-express-example](https://github.com/amilajack/erb-express-example): None
@@ -2648,7 +2653,6 @@
 * [google/ExoPlayer](https://github.com/google/ExoPlayer): This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
 * [amzn/exoplayer-amazon-port](https://github.com/amzn/exoplayer-amazon-port): Official port of ExoPlayer for Amazon devices
 * [prateek54/ExoPlayer-Demo](https://github.com/prateek54/ExoPlayer-Demo): This is basic exo player demo
-* [yoobi/exoplayer-kotlin](https://github.com/yoobi/exoplayer-kotlin): Cookbook of multiple feature for Exoplayer
 * [ashwanijanghu/ExoPlayer-Offline](https://github.com/ashwanijanghu/ExoPlayer-Offline): A ExoPlayer demo application changed for Offline Playback of DRM content
 * [Sriharia/ExoPlayer-StatsForNerds](https://github.com/Sriharia/ExoPlayer-StatsForNerds): Demo app to showcase ExoPlayer customisations like Stats-For-Nerds & Improved buffering.
 * [Pulimet/ExoPlayer-Wrapper](https://github.com/Pulimet/ExoPlayer-Wrapper): :tv: Android library, ExoPlayer wrapper (2017)
@@ -2753,6 +2757,7 @@
 * [SandyChapman/fastlane-plugin-jira_versions](https://github.com/SandyChapman/fastlane-plugin-jira_versions): A Fastlane plugin for managing JIRA releases / versions
 * [lyndsey-ferguson/fastlane-plugin-test_center](https://github.com/lyndsey-ferguson/fastlane-plugin-test_center): 🎯 The best fastlane plugin to understand and tame misbehaving iOS tests 🎉
 * [jlowin/fastmcp](https://github.com/jlowin/fastmcp): 🚀 The fast, Pythonic way to build MCP servers and clients
+* [krzemienski/fastmcp-builder](https://github.com/krzemienski/fastmcp-builder): A comprehensive Claude Code skill for building production-ready MCP servers using FastMCP. Includes reference guides, runnable examples, and a complete implementation with OAuth, testing, and best practices.
 * [fastogt/fastocloud_env](https://github.com/fastogt/fastocloud_env): Build scripts for FastoCloud services
 * [fastogt/fastonosql](https://github.com/fastogt/fastonosql): FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 * [fastogt/fastotv](https://github.com/fastogt/fastotv): IPTV/OTT Solution
@@ -3041,6 +3046,7 @@
 * [jakeheis/Flock](https://github.com/jakeheis/Flock): Automated deployment of Swift projects to servers
 * [iZettle/Flow](https://github.com/iZettle/Flow): Flow is a Swift library for working with asynchronous flows and life cycles
 * [malcommac/Flow](https://github.com/malcommac/Flow): Declarative approach to populate and manage UITableViews (see https://github.com/malcommac/FlowKit)
+* [nikivdev/flow](https://github.com/nikivdev/flow): Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 * [jliljebl/flowblade](https://github.com/jliljebl/flowblade): Video Editor for Linux
 * [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun): Easily generate flowcharts and diagrams from text ⿻
 * [adrai/flowchart.js](https://github.com/adrai/flowchart.js): Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -3650,7 +3656,7 @@
 * [epiclabs-io/hls-analyzer](https://github.com/epiclabs-io/hls-analyzer): Analyzer for HTTP Live Streams (HLS) content
 * [777777miSSU7777777/hls-audio-player](https://github.com/777777miSSU7777777/hls-audio-player): Self-written and cross-browser HLS audio player
 * [GitNK/HLS-Audio-Player](https://github.com/GitNK/HLS-Audio-Player): Application that parses audio from HTTP Live Stream, converts to mp4 and plays it.
-* [gowthambalusamy/HLS-Blob-Video-Download](https://github.com/gowthambalusamy/HLS-Blob-Video-Download): HLS Steaming Video Download / Blob Video Download
+* [gb0x11/HLS-Blob-Video-Download](https://github.com/gb0x11/HLS-Blob-Video-Download): HLS Steaming Video Download / Blob Video Download
 * [Eyevinn/hls-cmcd](https://github.com/Eyevinn/hls-cmcd): Library to decorate HLS with CTA-5004 CMCD query params
 * [lebougui/hls-creator](https://github.com/lebougui/hls-creator): Tools to create hls playlists using ffmpeg.  Originally forked from https://github.com/bentasker/HLS-Stream-Creator
 * [Eyevinn/hls-cutsegment](https://github.com/Eyevinn/hls-cutsegment): A web app that lets you insert a cut into a segment, which is then cut into two new segments.
@@ -3688,7 +3694,7 @@
 * [Eyevinn/hls-repeat](https://github.com/Eyevinn/hls-repeat): NPM library to repeat an HLS VOD and create a new HLS VOD
 * [m1k1o/hls-restream](https://github.com/m1k1o/hls-restream): Restream live content as HLS using ffmpeg in docker. Also with NVIDIA GPU hardware acceleration.
 * [kanongil/hls-segment-reader](https://github.com/kanongil/hls-segment-reader): Node.js Readable for retrieving HLS segments.
-* [t-mullen/hls-server](https://github.com/t-mullen/hls-server): Middleware for serving HTTP Live Streaming (HLS) compatible media streams. 
+* [t-mullen/hls-server](https://github.com/t-mullen/hls-server): Middleware for serving HTTP Live Streaming (HLS) compatible media streams in NodeJS.
 * [alkerway/hls-simulator](https://github.com/alkerway/hls-simulator): Serve a vod hls manifest as live and test out how a video player handles manifest server failures by simulating them on API command. Useful for testing.
 * [Eyevinn/hls-splice](https://github.com/Eyevinn/hls-splice): NPM library to splice HLS VOD
 * [bentasker/HLS-Stream-Creator](https://github.com/bentasker/HLS-Stream-Creator): Simple Bash Script to take a media file, segment it and create an M3U8 playlist for serving using HLS
@@ -3956,7 +3962,7 @@
 * [artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples): 👨🏻‍💻 Examples of new iOS 11 APIs
 * [nytimes/ios-360-videos](https://github.com/nytimes/ios-360-videos): NYT360Video plays 360-degree video streamed from an AVPlayer on iOS.
 * [owncloud/ios-app](https://github.com/owncloud/ios-app): 📱The all-new iOS app for ownCloud
-* [learn-anything/ios-apps](https://github.com/learn-anything/ios-apps): Awesome iOS apps
+* [linsa-io/ios-apps](https://github.com/linsa-io/ios-apps): Awesome iOS apps
 * [spotify/ios-ci](https://github.com/spotify/ios-ci): A collection of scripts Spotify runs on its Open Source iOS projects.
 * [XCTEQ/iOS-Dev-Ansible](https://github.com/XCTEQ/iOS-Dev-Ansible): Fully Automated Ansible role for the iOS Developer to provision macOS for iOS Development and iOS Continuous Integration. 
 * [lexrus/ios-dev-playbook](https://github.com/lexrus/ios-dev-playbook): 不会运维的 iOS 开发不是好设计师。这个 Ansible Playbook 能快速配置 iOS 开发需要的服务，安装如 Gogs、GitLab、Jenkins、Ghost、Ajenti 等常用服务。
@@ -4442,7 +4448,7 @@
 * [asciimoo/ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists): List of github lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
@@ -4699,6 +4705,7 @@
 * [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian): MCP server for Atlassian tools (Confluence, Jira)
 * [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use): None
 * [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code): MCP implementation of Claude Code capabilities and more
+* [liuyoshio/mcp-compass](https://github.com/liuyoshio/mcp-compass): MCP Discovery & Recommendation Service - Find the right MCP server for your needs
 * [qpd-v/mcp-DEEPwebresearch](https://github.com/qpd-v/mcp-DEEPwebresearch): Enhanced MCP server for deep web research
 * [dcSpark/mcp-dockmaster](https://github.com/dcSpark/mcp-dockmaster): MCP Dockmaster allows you to easily install and manage MCP servers. Available for Mac, Windows and Linux as a Desktop App, CLI and a library.
 * [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go): A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
@@ -4721,7 +4728,7 @@
 * [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui): UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 * [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use): mcp-use is the easiest way to interact with mcp servers with custom agents
 * [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch): MCP web research server (give Claude real-time info from the web)
-* [anthropics/mcpb](https://github.com/anthropics/mcpb): Desktop Extensions: One-click local MCP server installation in desktop apps
+* [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb): Desktop Extensions: One-click local MCP server installation in desktop apps
 * [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc): Expose llms-txt to IDEs for development
 * [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh): CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 * [chatmcp/mcpso](https://github.com/chatmcp/mcpso): directory for Awesome MCP Servers
@@ -4753,6 +4760,7 @@
 * [perkdrew/media-transcoder](https://github.com/perkdrew/media-transcoder): A versatile Golang service for efficient, scalable media transcoding. Support for HLS and DASH.
 * [video-dev/media-ui-extensions](https://github.com/video-dev/media-ui-extensions): Extending the HTMLVideoElement API to support advanced player user-interface features
 * [jfcarr/media-utilities](https://github.com/jfcarr/media-utilities): Utility scripts for working with various media types.
+* [yoobi/media3-cookbook](https://github.com/yoobi/media3-cookbook): Cookbook of multiple feature for media3
 * [quarkscript/media_works](https://github.com/quarkscript/media_works): Transcode video by ffmpeg with nvenc; normalize the volume; force dynamic range compression to the volume
 * [zolinux/MediaArchiver](https://github.com/zolinux/MediaArchiver): Transcode video files using FFMPEG and python3
 * [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny): Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
@@ -4803,7 +4811,7 @@
 * [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp): MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): Metasploit Framework
 * [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream): Watch streaming media with friends.
-* [metersphere/metersphere](https://github.com/metersphere/metersphere): MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+* [metersphere/metersphere](https://github.com/metersphere/metersphere): 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 * [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server): Metoro MCP Server
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server): Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
@@ -4812,7 +4820,7 @@
 * [manuelescrig/MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton): An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 * [manuelescrig/MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts): An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
-* [filipstrand/mflux](https://github.com/filipstrand/mflux): A MLX port of FLUX based on the Huggingface Diffusers implementation.
+* [filipstrand/mflux](https://github.com/filipstrand/mflux): A MLX port of FLUX and other state of the art diffusion image models based on the Huggingface Diffusers implementation.
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
@@ -5004,7 +5012,6 @@
 * [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup): Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
 * [brpaz/my-linux-setup](https://github.com/brpaz/my-linux-setup): My Fedora Linux list of installed applications and Ansible provision scripts
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
-* [nikivdev/myflow](https://github.com/nikivdev/myflow): Place to share & store what you use
 * [sankaranramantn/myprojects](https://github.com/sankaranramantn/myprojects): Drag and Drop GUI which converts any ffmpeg supported mp4/mkv into AV1 using Nvidia 40 series av1_nvenc encoder, code can be modified to use hevc_nvenc or any AMF/qsv encoders
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [harishkannarao/MySpringBoot](https://github.com/harishkannarao/MySpringBoot): This repository is a playground for learning and trying new ideas with Spring Boot
@@ -5543,7 +5550,7 @@
 * [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator): Turn PDFs and EPUBs into audiobooks, subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, notably XTTS, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app with a GUI, an installer and all-in-one packages.
 * [louisdh/panelkit](https://github.com/louisdh/panelkit): A UI framework that enables panels on iOS.
 * [antoniocasero/Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
-* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-based, multi-site remote access platform using WireGuard®
+* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 * [stefanogali/panic-panini-next](https://github.com/stefanogali/panic-panini-next): Next.Js + TailwindCSS starter template for music band.
 * [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime): A tiny Clojure library that deals with MIME types (Internet media types)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
@@ -5587,7 +5594,7 @@
 * [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit): Universal API for request permission and get its statuses.
 * [Yalantis/Persei](https://github.com/Yalantis/Persei): Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
 * [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-* [AgustinSRG/PersonalMediaVault](https://github.com/AgustinSRG/PersonalMediaVault): Web application to store media files (video, audio and pictures) in an encrypted storage, and visualize them using a web browser.
+* [AgustinSRG/PersonalMediaVault](https://github.com/AgustinSRG/PersonalMediaVault): Self-hosted web application to store media files (video, audio and pictures) in an encrypted storage, and visualize them using a web browser.
 * [imgly/pesdk-ios-build](https://github.com/imgly/pesdk-ios-build): PhotoEditor SDK: A fully customizable photo editor for your app.
 * [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo): 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 * [pfsense/pfsense](https://github.com/pfsense/pfsense): Main repository for pfSense
@@ -5720,6 +5727,7 @@
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [portainer/portainer-compose](https://github.com/portainer/portainer-compose): Compose setup for Portainer 
 * [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 500+ 1-click Portainer app templates
+* [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates): Various Portainer App Templates
 * [TheLustriVA/portainer-templates-Nov-2022-collection](https://github.com/TheLustriVA/portainer-templates-Nov-2022-collection): A collection of 488 templates for Portainer v2.0 sourced from various repositories
 * [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates): Template file for new portainer setup
 * [mycroftwilde/portainer_templates](https://github.com/mycroftwilde/portainer_templates): Portainer Version 2 Template and Self-Hosting Cookbook. A Series of Tools, Tutorials/Instructions, and Links to help you create your very own Self-Hosting System and Lab Sandbox!
@@ -6449,7 +6457,6 @@
 * [Shopify/semian](https://github.com/Shopify/semian): :monkey: Resiliency toolkit for Ruby for failing fast
 * [rkoshak/sensorReporter](https://github.com/rkoshak/sensorReporter): A python based service that receives sensor inputs and publishes them in various ways.
 * [alibaba/Sentinel](https://github.com/alibaba/Sentinel): A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
-* [barnent1/sentra](https://github.com/barnent1/sentra): Autonomous AI development platform with MCP server
 * [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa): The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
 * [oraios/serena](https://github.com/oraios/serena): A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 * [serge-chat/serge](https://github.com/serge-chat/serge): A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -6506,6 +6513,7 @@
 * [matvp91/shaka-player-react](https://github.com/matvp91/shaka-player-react): A simple React component wrapper for shaka-player
 * [shaka-project/shaka-streamer](https://github.com/shaka-project/shaka-streamer): A simple config-file based approach to preparing streaming media, based on FFmpeg and Shaka Packager.
 * [dreymonde/Shallows](https://github.com/dreymonde/Shallows): 🛶 Your lightweight persistence toolbox
+* [krzemienski/shannon-cli](https://github.com/krzemienski/shannon-cli): None
 * [krzemienski/shannon-framework](https://github.com/krzemienski/shannon-framework): None
 * [krzemienski/shannon-ios](https://github.com/krzemienski/shannon-ios): A Claude code iOS swift app written in swift ui and leveraging a python backend server with sse and json streaming
 * [krzemienski/shannon-mcp](https://github.com/krzemienski/shannon-mcp): Claude Code MCP Server - A comprehensive Model Context Protocol server implementation built using an innovative multi-agent collaborative system
@@ -6919,6 +6927,8 @@
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 * [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp): Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 * [obra/superpowers](https://github.com/obra/superpowers): Claude Code superpowers: core skills library
+* [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome): Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
+* [obra/superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code): None
 * [obra/superpowers-lab](https://github.com/obra/superpowers-lab): Experimental skills for Claude Code Superpowers - new techniques and tools
 * [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace): Curated Claude Code plugin marketplace
 * [obra/superpowers-skills](https://github.com/obra/superpowers-skills): Community-editable skills for Claude Code's superpowers plugin
@@ -7095,6 +7105,7 @@
 * [Eugeny/tabby-clickable-links](https://github.com/Eugeny/tabby-clickable-links): Plugin that makes URLs and paths in Terminus clickable
 * [Eugeny/tabby-clippy](https://github.com/Eugeny/tabby-clippy): An example plugin for Tabby
 * [niceit/tabby-cloud-sync-settings](https://github.com/niceit/tabby-cloud-sync-settings): Tabby plugin for syncing settings across device platforms. https://github.com/Eugeny/tabby
+* [Eugeny/tabby-connection-gateway](https://github.com/Eugeny/tabby-connection-gateway): Connection gateway for Tabby Web
 * [Eugeny/tabby-docker](https://github.com/Eugeny/tabby-docker): Docker plugin for Tabby
 * [Eugeny/tabby-save-output](https://github.com/Eugeny/tabby-save-output): Terminus plugin to save console output into a file
 * [Eugeny/tabby-theme-hype](https://github.com/Eugeny/tabby-theme-hype): A Terminus theme that imitates Hyper
@@ -7364,7 +7375,7 @@
 * [Saentist/tvheadend](https://github.com/Saentist/tvheadend): Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
 * [jinSasaki/TVKit](https://github.com/jinSasaki/TVKit): UI components for tvOS
 * [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-* [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack for cpu, gpu and specialized accelerators
+* [apache/tvm](https://github.com/apache/tvm): Open Machine Learning Compiler Framework
 * [bwhiteley/TVMediaPlayer](https://github.com/bwhiteley/TVMediaPlayer): A media player view controller for tvOS similar to AVPlayerViewController, but not limited to AVPlayer.
 * [sanketfirodiya/tvOS](https://github.com/sanketfirodiya/tvOS): Curated list of tutorials and sample apps for tvOS
 * [toshi0383/tvOS-10-Sampler](https://github.com/toshi0383/tvOS-10-Sampler): Some new stuff for tvOS 10...
@@ -7385,7 +7396,7 @@
 * [hossein-no1/TvPlayer](https://github.com/hossein-no1/TvPlayer): A plyer that optimized for tv and based on Exo player google
 * [kodlian/TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer): TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps.
 * [linagora/Twake](https://github.com/linagora/Twake): Twake is a secure open source collaboration platform to improve organizational productivity. 
-* [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc): Customize Claude Code's system prompts, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
+* [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc): Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
 * [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): A visual no-code theme editor for shadcn/ui components
 * [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks): An easy way to fine-tune, and adjust parameters for iOS apps in development.
 * [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
@@ -7476,7 +7487,7 @@
 * [twostraws/Unwrap](https://github.com/twostraws/Unwrap): Learn Swift interactively on your iPhone.
 * [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video):  [CVPR 2024] Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution
 * [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-* [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic): Agent Framework For Fintech
+* [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic): Agent Framework For Fintech and Banks
 * [railsware/upterm](https://github.com/railsware/upterm): A terminal emulator for the 21st century.
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 * [upx/upx](https://github.com/upx/upx): UPX - the Ultimate Packer for eXecutables
@@ -7589,7 +7600,7 @@
 * [vogler/video-server](https://github.com/vogler/video-server): Video server with advanced player features and history/tracking.
 * [mojtaba-arvin/video-service](https://github.com/mojtaba-arvin/video-service): Python Video Streaming microervice | supports HLS, MPEG-DASH and HLS with fmp4 segments (CMAF), this project uses gRPC protocol for communication and S3-compatible object storage. The multi-stage dockerfile of project uses Python3.9.2 and FFmpeg4.1
 * [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter): Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 
-* [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger): Merge multiple video MediaStreams into one composite.
+* [t-mullen/video-stream-merger](https://github.com/t-mullen/video-stream-merger): Merge multiple MediaStreams into one composite (realtime - in the browser!)
 * [daspinola/video-stream-sample](https://github.com/daspinola/video-stream-sample): Node.js HTML5 streaming sample
 * [hiteshchoudhary/video-streaming](https://github.com/hiteshchoudhary/video-streaming): A video tutorial on video streaming platform from scratch
 * [yigiterinc/video-streaming-over-http](https://github.com/yigiterinc/video-streaming-over-http): Video streaming from Webcam with HLS, FFMPEG, NGINX and RTMP
