@@ -1370,6 +1370,9 @@
     "Doriandarko/o1-engineer": [
         "Other"
     ],
+    "Doriandarko/sora-mcp": [
+        "Other"
+    ],
     "Dorota1997/react-frontend-dev-portfolio": [
         "Other"
     ],
@@ -3249,9 +3252,6 @@
         "Other"
     ],
     "MauriceNino/dashdot": [
-        "Other"
-    ],
-    "MavaaQ/aircrack_plus": [
         "Other"
     ],
     "MaxLeiter/Drift": [
@@ -5576,6 +5576,9 @@
     "aigc-studio/awesome-ai": [
         "Other"
     ],
+    "ailabs-393/ai-labs-claude-skills": [
+        "Other"
+    ],
     "aimhubio/aim": [
         "Other"
     ],
@@ -6143,6 +6146,9 @@
     "anthropics/claude-agent-sdk-python": [
         "Other"
     ],
+    "anthropics/claude-agent-sdk-typescript": [
+        "Other"
+    ],
     "anthropics/claude-code": [
         "Other"
     ],
@@ -6306,6 +6312,9 @@
         "Other"
     ],
     "apifox/apifox": [
+        "Other"
+    ],
+    "apify/apify-mcp-server": [
         "Other"
     ],
     "apify/crawlee": [
@@ -14990,6 +14999,9 @@
     "localstack/localstack": [
         "Other"
     ],
+    "localtime/aircrack_plus": [
+        "Other"
+    ],
     "localtunnel/localtunnel": [
         "Other"
     ],
@@ -15531,6 +15543,9 @@
         "Other"
     ],
     "massCodeIO/massCode": [
+        "Other"
+    ],
+    "massgen/MassGen": [
         "Other"
     ],
     "masterking32/python-rtmp-server": [
@@ -17223,6 +17238,9 @@
         "Other"
     ],
     "numixproject/numix-gtk-theme": [
+        "Other"
+    ],
+    "numman-ali/openskills": [
         "Other"
     ],
     "nurrony/hlsdownloader": [
