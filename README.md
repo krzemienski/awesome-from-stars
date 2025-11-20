@@ -904,9 +904,7 @@
 * [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians): 🇧🇷 A collection of amazing open source projects built by brazilian developers
 * [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis): Defund the Police.
 * [rossant/awesome-math](https://github.com/rossant/awesome-math): A curated list of awesome mathematics resources
-* [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): A collection of MCP clients.
 * [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers): Awesome MCP Servers - A curated list of Model Context Protocol servers
-* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
 * [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard): ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices): A curated list of Microservice Architecture related principles and technologies.
 * [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
@@ -1585,7 +1583,7 @@
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings): Claude Code settings, commands and agents for vibe coding
 * [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory): Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.
-* [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills): 17 production-ready Claude Code skills for complete Agile workflow automation with Linear integration. From documentation to execution: Epic/Story/Task management, Risk-Based Testing, ADRs, and quality validation. Install as plugin or git clone.
+* [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills): 29 production-ready Claude Code skills for complete Agile workflow automation with Linear integration. From documentation to execution: Epic/Story/Task management, Risk-Based Testing, ADRs, and quality validation. Install as plugin or git clone.
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
 * [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin): A Claude Code plugin that provides a conversational, adaptive, and agentic subagent for co-creating rigorous, multi-perspective technical specs—featuring dynamic memory graphs, adaptive workflows, and explicit multi-role analysis. Especially useful for non-technical users and teams adopting the Spec Kit Methodology.
 * [arnaldo-delisio/claude-code-studio](https://github.com/arnaldo-delisio/claude-code-studio): Transform Claude Code into a complete development studio with 40+ specialized AI agents, MCP integrations, and enterprise-grade workflows
@@ -4148,7 +4146,7 @@
 * [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop): JupyterLab desktop application, based on Electron.
 * [casey/just](https://github.com/casey/just): 🤖 Just a command runner
 * [SamsungDForum/JuvoPlayer](https://github.com/SamsungDForum/JuvoPlayer): The reference for developers of streaming live TV and VOD Tizen .Net applications.
-* [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer): JW Player is the world's most popular embeddable media player.
+* [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer): No Longer Maintained
 * [jwplayer/jwplayer-react](https://github.com/jwplayer/jwplayer-react): None
 * [jwplayer/jwplayer-react-native](https://github.com/jwplayer/jwplayer-react-native): None
 * [Jzvd/JZVideo](https://github.com/Jzvd/JZVideo): 高度自定义的安卓视频框架 MediaPlayer exoplayer ijkplayer ffmpeg
@@ -4655,6 +4653,7 @@
 * [karpfen/manjaro-setup](https://github.com/karpfen/manjaro-setup): Setup scripts for Manjaro Linux
 * [manzurahmed/manjaro-software-installation-guide](https://github.com/manzurahmed/manjaro-software-installation-guide): My own guide to install softwares on Manjaro Linux
 * [paperTurkey/manjaroSetup](https://github.com/paperTurkey/manjaroSetup): setup manjaro apps post install, modeled after ArchI0
+* [RubixCube-Innovations/mantine-theme-builder](https://github.com/RubixCube-Innovations/mantine-theme-builder): MantineHub (previously Mantine Theme Builder) is an open-source tool to create modern, customizable shadcn inspired themes for Mantine UI components. Easily adjust styles, colors, radius, and light/dark modes, and export the theme object for quick integration into any Mantine project.
 * [Netflix/mantis](https://github.com/Netflix/mantis): A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
 * [DmitryBespalov/ManualDependencyExample](https://github.com/DmitryBespalov/ManualDependencyExample): Example Xcode project with sub-projects and manual dependency management.
 * [joshlk/many_requests](https://github.com/joshlk/many_requests): Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
@@ -5544,8 +5543,10 @@
 * [RubenKelevra/pacman.store](https://github.com/RubenKelevra/pacman.store): Pacman Mirror via IPFS for ArchLinux, Endeavouros, Manjaro plus custom repos ALHP and Chaotic-AUR.
 * [DerekTBrown/pacmanity](https://github.com/DerekTBrown/pacmanity): Package List Gist Backup via ALPM-Hooks
 * [pacstall/pacstall](https://github.com/pacstall/pacstall): An AUR-inspired package manager for Ubuntu
+* [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle): PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 * [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers): PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.
 * [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP): Easy-to-use and powerful LLM and SLM library with awesome model zoo.
+* [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 * [mps-youtube/pafy](https://github.com/mps-youtube/pafy): Python library to download YouTube content and retrieve metadata
 * [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
 * [lalit2005/pagely](https://github.com/lalit2005/pagely): Launch beautiful websites straight from your Notion workspace or from your GitHub repo
@@ -5778,6 +5779,7 @@
 * [probot/probot](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
 * [mikz/probot-changelog](https://github.com/mikz/probot-changelog): A GitHub Integration that checks Pull Requests and verifies CHANGELOG changed when modifying application code.
 * [ProcedureKit/ProcedureKit](https://github.com/ProcedureKit/ProcedureKit): Advanced Operations in Swift
+* [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose): Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 * [processing/processing](https://github.com/processing/processing): ⚠️ Processing moved to processing/processing4 ⚠️
 * [benfry/processing4](https://github.com/benfry/processing4): Processing 4.x releases for Java 17
 * [SpongeBobSun/Prodigal-iOS](https://github.com/SpongeBobSun/Prodigal-iOS): Music Player for iOS which looks & feels like classic player
@@ -5816,7 +5818,7 @@
 * [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool): Python ProxyPool for web spider
 * [NVIDIA/proxyfs](https://github.com/NVIDIA/proxyfs): None
 * [facebook/proxygen](https://github.com/facebook/proxygen): A collection of C++ HTTP libraries including an easy to use HTTP server.
-* [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+* [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 * [unprofession-al/proxyproxy](https://github.com/unprofession-al/proxyproxy): A proxy that handles your corporate proxies for you
 * [HHK1/PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView): A set of tools to trim, crop and select frames inside a video
 * [Jahaja/psdash](https://github.com/Jahaja/psdash): A linux system information web dashboard using psutils and flask
@@ -6261,7 +6263,7 @@
 * [rokucommunity/ropm](https://github.com/rokucommunity/ropm): A package manager for the Roku platform.
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
-* [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered multi-agent builder
+* [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered CLI for background agents
 * [tgogos/rpi_ffmpeg](https://github.com/tgogos/rpi_ffmpeg): FFmpeg on Raspberry Pi 3 Model B with h264 support
 * [code-vicar/rpm](https://github.com/code-vicar/rpm): Roku package manager
 * [rq/rq](https://github.com/rq/rq): Simple job queues for Python
@@ -6922,6 +6924,7 @@
 * [kortix-ai/suna](https://github.com/kortix-ai/suna): Kortix – build, manage and train AI Agents. Fully Open Source.
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
 * [supabase/supabase](https://github.com/supabase/supabase): The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+* [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp): Connect Supabase to your AI assistants
 * [supabase/supabase-py](https://github.com/supabase/supabase-py): Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 * [supabase/supabase-swift](https://github.com/supabase/supabase-swift): A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. 
 * [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity): Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.

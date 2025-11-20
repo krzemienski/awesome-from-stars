@@ -2036,6 +2036,9 @@
     "Eyevinn/wrtc-mpd-simulator": [
         "Other"
     ],
+    "F1bonacc1/process-compose": [
+        "Other"
+    ],
     "FDH2/UxPlay": [
         "Other"
     ],
@@ -3761,10 +3764,16 @@
     "PacktPublishing/End-to-End-GUI-development-with-Qt5": [
         "Other"
     ],
+    "PaddlePaddle/Paddle": [
+        "Other"
+    ],
     "PaddlePaddle/PaddleFormers": [
         "Other"
     ],
     "PaddlePaddle/PaddleNLP": [
+        "Other"
+    ],
+    "PaddlePaddle/PaddleOCR": [
         "Other"
     ],
     "Palethorn/multibitrate-vod": [
@@ -4191,6 +4200,9 @@
         "Other"
     ],
     "RubenKelevra/pacman.store": [
+        "Other"
+    ],
+    "RubixCube-Innovations/mantine-theme-builder": [
         "Other"
     ],
     "Rudloff/alltube": [
@@ -18605,12 +18617,6 @@
     "puneetsl/lotion": [
         "Other"
     ],
-    "punkpeye/awesome-mcp-clients": [
-        "Other"
-    ],
-    "punkpeye/awesome-mcp-servers": [
-        "Other"
-    ],
     "puppeteer/puppeteer": [
         "Other"
     ],
@@ -21159,6 +21165,9 @@
         "Other"
     ],
     "sunwxg/gnome-shell-extension-arrangeWindows": [
+        "Other"
+    ],
+    "supabase-community/supabase-mcp": [
         "Other"
     ],
     "supabase/supabase": [
