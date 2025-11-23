@@ -301,6 +301,7 @@
 * [amazonlinux/amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023): Amazon Linux 2023
 * [awsdocs/amazon-transcoder-developer-guide](https://github.com/awsdocs/amazon-transcoder-developer-guide): The open source version of the Amazon Elastic Transcoder docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 * [aws-samples/amazon-translate-video-subtitles-captions-translation](https://github.com/aws-samples/amazon-translate-video-subtitles-captions-translation): None
+* [nod-ai/AMD-SHARK-Studio](https://github.com/nod-ai/AMD-SHARK-Studio): AMD-SHARK Studio -- Web UI for SHARK+IREE High Performance Machine Learning Distribution
 * [AMD-OSX/AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla): Native AMD macOS via OpenCore
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
 * [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF): The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
@@ -640,7 +641,7 @@
 * [antvis/AVA](https://github.com/antvis/AVA): 🤖 A framework for automated visual analytics.
 * [cztomsik/ava](https://github.com/cztomsik/ava): All-in-one desktop app for running LLMs locally.
 * [media-toolbox/avbroadcast](https://github.com/media-toolbox/avbroadcast): avbroadcast - republish media streams for mass consumption
-* [wang-bin/avbuild](https://github.com/wang-bin/avbuild): ffmpeg花式编译. build tool for all platforms: iOS, android, raspberry pi, win32, uwp, linux, macOS etc.
+* [wang-bin/avbuild](https://github.com/wang-bin/avbuild): ffmpeg花式编译. build tool for all platforms: iOS, android, ohos, raspberry pi, win32, uwp, linux, macOS etc.
 * [h4tr3d/avcpp](https://github.com/h4tr3d/avcpp): C++ wrapper for FFmpeg
 * [mean00/avidemux2](https://github.com/mean00/avidemux2): Avidemux2, simple video editor
 * [WWBN/AVideo](https://github.com/WWBN/AVideo): Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
@@ -904,7 +905,9 @@
 * [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians): 🇧🇷 A collection of amazing open source projects built by brazilian developers
 * [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis): Defund the Police.
 * [rossant/awesome-math](https://github.com/rossant/awesome-math): A curated list of awesome mathematics resources
+* [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): A collection of MCP clients.
 * [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers): Awesome MCP Servers - A curated list of Model Context Protocol servers
+* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
 * [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard): ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices): A curated list of Microservice Architecture related principles and technologies.
 * [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
@@ -1028,7 +1031,7 @@
 * [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation): A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 * [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing): A curated list of testing resources
 * [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf): Curated list of resources on HashiCorp's Terraform and OpenTofu
-* [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science): Math & CS Awesome List, distinguished by proof and logic and technique
+* [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science): Math & CS awesome List, distinguished by proof and logic technique
 * [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence): A curated list of Awesome Threat Intelligence resources
 * [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux): A list of awesome resources for tmux
 * [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt): A list of totally open alternatives to ChatGPT
@@ -1369,7 +1372,7 @@
 * [CacherApp/cacher-cli](https://github.com/CacherApp/cacher-cli): The command line interface to Cacher.
 * [neekeetab/CachingPlayerItem](https://github.com/neekeetab/CachingPlayerItem): Play and cache media content simultaneously on your iOS device
 * [sukov/CachingPlayerItem](https://github.com/sukov/CachingPlayerItem): An AVPlayerItem subclass that lets you stream and cache media content on iOS
-* [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Kernels & AI inference engine for consumer devices.
+* [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Kernels & AI inference engine for mobile devices.
 * [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [ben-manes/caffeine](https://github.com/ben-manes/caffeine): A high performance caching library for Java
 * [WhyNotHugo/caffeine-ng](https://github.com/WhyNotHugo/caffeine-ng):  ⚠ This project has migrated to codeberg.org
@@ -6528,7 +6531,6 @@
 * [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob): Distributed scheduled job
 * [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut): An Apple Shortcut for sharing text to ChatGPT using personalized prompts
 * [antony-jr/ShareMyHost](https://github.com/antony-jr/ShareMyHost): A simple and easy to use program to share files in local network.
-* [nod-ai/SHARK-Studio](https://github.com/nod-ai/SHARK-Studio): SHARK Studio -- Web UI for SHARK+IREE High Performance Machine Learning Distribution
 * [danielsaidi/Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet): Sheeeeeeeeet is a Swift library for creating menus, custom action sheets, context menus etc.
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
 * [STRRL/shell-now](https://github.com/STRRL/shell-now): Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code / Gemini CLI on your iPad!
