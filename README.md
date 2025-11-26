@@ -338,7 +338,7 @@
 * [shu223/AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery): A gallery app of custom animated transitions for iOS.
 * [intuit/AnimationEngine](https://github.com/intuit/AnimationEngine): Easily build advanced custom animations on iOS.
 * [bloc97/Anime4K](https://github.com/bloc97/Anime4K): A High-Quality Real Time Upscaler for Anime Video
-* [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources): Anomaly detection related books, papers, videos, and toolboxes
+* [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources): Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!
 * [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 * [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * [eRadical/ansible-my-fedora-workstation](https://github.com/eRadical/ansible-my-fedora-workstation): Configure my Fedora Workstation
@@ -1471,7 +1471,7 @@
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
 * [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for any model.
 * [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite): None
-* [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+* [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
 * [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles): Document Chatbot — multiple files. Powered by GPT / Embedding.
 * [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 * [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)
@@ -1490,7 +1490,7 @@
 * [Matt-T-Git/ChatGPTCodeGen](https://github.com/Matt-T-Git/ChatGPTCodeGen): iOS App Demo To Generate swift code using OpenAI & ChatGPT
 * [alfianlosari/ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift): Access ChatGPT API using Swift
 * [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI): A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
-* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
+* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): None
 * [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX): 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 * [shobrook/ChatOverflow](https://github.com/shobrook/ChatOverflow): AI-generated answers to every coding question
 * [deiucanta/chatpad](https://github.com/deiucanta/chatpad): Not just another ChatGPT user-interface!
@@ -2383,7 +2383,7 @@
 * [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io): 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 * [dooit-org/dooit](https://github.com/dooit-org/dooit): An awesome TUI todo manager
 * [alexpinel/Dot](https://github.com/alexpinel/Dot): Text-To-Speech, RAG, and LLMs. All local!
-* [udecode/dotai](https://github.com/udecode/dotai): Context Manager for Claude Code Plugins + Codex + Cursor.
+* [udecode/dotai](https://github.com/udecode/dotai): Context manager for all agents
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop): Save your dotfiles once, deploy them everywhere
 * [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles): KDE Plasma for twm users.
@@ -3572,7 +3572,7 @@
 * [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize): A node utility utilizing ffmpeg to encode videos with the hevc codec.
 * [numberwolf/h265web.js](https://github.com/numberwolf/h265web.js): 🔥 作者：常炎隆(Author: ChangYanlong):HEVC/H.265 网页直播/点播播放器 支持硬解！ 支持H.265的HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket播放。 🔥 A HEVC/H.265 Web Player, Support hard-decoding! for LIVE/VOD stream. Support H.265 Codec with HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket.
 * [h2database/h2database](https://github.com/h2database/h2database): H2 is an embeddable RDBMS written in Java.
-* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
+* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org
 * [yagiziskirik/h4ppy-wifi-interface](https://github.com/yagiziskirik/h4ppy-wifi-interface): Another Wi-Fi penetration testing multi-tool for wide variety of applications
 * [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy): Automated WPA/WPA2 PSK attack tool.
 * [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc): :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green_apple: 实时直播：WebRTC
@@ -5144,7 +5144,7 @@
 * [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS): NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 * [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager
 * [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2): Nixnote - A clone of Evernote for Linux
-* [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb): The main repo for NLWeb, implemented in Python.
+* [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb): Main reference implementation for NLWeb, implemented in Python.
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
 * [franglais125/no-title-bar](https://github.com/franglais125/no-title-bar): Integrates maximized windows with the top panel
 * [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel.
@@ -5751,7 +5751,7 @@
 * [apideck-libraries/portman](https://github.com/apideck-libraries/portman): Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
 * [Paxa/postbird](https://github.com/Paxa/postbird): Open source PostgreSQL GUI client for macOS, Linux and Windows
 * [vapor/postgres-kit](https://github.com/vapor/postgres-kit): 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
-* [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+* [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 * [sailist/potion](https://github.com/sailist/potion): A functional, easy to use Python wrapper of Notion Api.
 * [eliapasquali/power-profile-switcher](https://github.com/eliapasquali/power-profile-switcher): Gnome extension to automatically switch between power profiles based on power supply.
 * [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
@@ -6085,7 +6085,6 @@
 * [redisson/redisson](https://github.com/redisson/redisson): Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
 * [Redocly/redoc](https://github.com/Redocly/redoc): 📘  OpenAPI/Swagger-generated API Reference Documentation
 * [briandunnington/Redoku](https://github.com/briandunnington/Redoku): Redux for Roku
-* [J0hnbX/RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources): None
 * [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools): Tools and Techniques for Red Team / Penetration Testing
 * [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp): Helping coding agents never make mistakes working with public or private libraries without wasting the context window.
 * [johnno1962/Refactorator](https://github.com/johnno1962/Refactorator): Xcode Plugin that Refactors Swift & Objective-C
@@ -6266,7 +6265,7 @@
 * [rokucommunity/ropm](https://github.com/rokucommunity/ropm): A package manager for the Roku platform.
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
-* [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered CLI for background agents
+* [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): The local-first agent OS
 * [tgogos/rpi_ffmpeg](https://github.com/tgogos/rpi_ffmpeg): FFmpeg on Raspberry Pi 3 Model B with h264 support
 * [code-vicar/rpm](https://github.com/code-vicar/rpm): Roku package manager
 * [rq/rq](https://github.com/rq/rq): Simple job queues for Python
