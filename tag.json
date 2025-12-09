@@ -578,6 +578,9 @@
     "BeboKhouja/ADB-GUI": [
         "Other"
     ],
+    "BeehiveInnovations/pal-mcp-server": [
+        "Other"
+    ],
     "BellAppLab/Backgroundable": [
         "Other"
     ],
@@ -2135,6 +2138,9 @@
     "FormulaMonks/llm-benchmarker-suite": [
         "Other"
     ],
+    "FortAwesome/Font-Awesome": [
+        "Other"
+    ],
     "Fosowl/agenticSeek": [
         "Other"
     ],
@@ -2786,6 +2792,9 @@
     "Juanpe/SkeletonView": [
         "Other"
     ],
+    "JuliaLang/julia": [
+        "Other"
+    ],
     "JumpFm/jumpfm": [
         "Other"
     ],
@@ -3278,6 +3287,9 @@
     "MediaBrowser/Emby.Roku": [
         "Other"
     ],
+    "MemoriLabs/Memori": [
+        "Other"
+    ],
     "MengTo/DesignerNewsApp": [
         "Other"
     ],
@@ -3755,6 +3767,9 @@
     "PRProd/HA-Firemote": [
         "Other"
     ],
+    "PV-Bhat/vibe-check-mcp-server": [
+        "Other"
+    ],
     "PaNaVTEC/DrawableView": [
         "Other"
     ],
@@ -3771,6 +3786,9 @@
         "Other"
     ],
     "PaddlePaddle/PaddleOCR": [
+        "Other"
+    ],
+    "Paddychief92/claude-code-docs": [
         "Other"
     ],
     "Palethorn/multibitrate-vod": [
@@ -5168,6 +5186,9 @@
     "YomikoR/VapourSynth-Editor": [
         "Other"
     ],
+    "YouMind-OpenLab/awesome-nano-banana-pro-prompts": [
+        "Other"
+    ],
     "Yue-Yang/ChatGPT-Siri": [
         "Other"
     ],
@@ -5250,6 +5271,9 @@
         "Other"
     ],
     "aalhour/awesome-compilers": [
+        "Other"
+    ],
+    "aarich/charts-for-supabase": [
         "Other"
     ],
     "aarnt/octopi": [
@@ -5529,6 +5553,9 @@
         "Other"
     ],
     "agile4you/bottle-smart-filters": [
+        "Other"
+    ],
+    "agiletec-inc/airis-mcp-gateway": [
         "Other"
     ],
     "agiliq/building-api-django": [
@@ -7094,6 +7121,9 @@
     "back-to/liveproxy": [
         "Other"
     ],
+    "backnotprop/prompt-tower": [
+        "Other"
+    ],
     "backstage/backstage": [
         "Other"
     ],
@@ -7707,6 +7737,9 @@
         "Other"
     ],
     "browser-use/browser-use": [
+        "Other"
+    ],
+    "browserbase/agent-browse": [
         "Other"
     ],
     "browserbase/mcp-server-browserbase": [
@@ -8349,6 +8382,9 @@
         "Other"
     ],
     "claude-did-this/claude-hub": [
+        "Other"
+    ],
+    "claudekit/claudekit-docs": [
         "Other"
     ],
     "clayrisser/dotstow": [
@@ -9920,6 +9956,9 @@
     "dwyl/english-words": [
         "Other"
     ],
+    "dyad-sh/dyad": [
+        "Other"
+    ],
     "dyc87112/SpringBoot-Learning": [
         "Other"
     ],
@@ -10101,6 +10140,9 @@
         "Other"
     ],
     "eldarlabs/ghpages-deploy-script": [
+        "Other"
+    ],
+    "elder-plinius/CL4R1T4S": [
         "Other"
     ],
     "elebumm/RedditVideoMakerBot": [
@@ -10344,6 +10386,9 @@
         "Other"
     ],
     "erbanku/awesome": [
+        "Other"
+    ],
+    "ericbuess/claude-code-docs": [
         "Other"
     ],
     "ericfourrier/scrape-linkedin": [
@@ -10976,6 +11021,9 @@
     "foambubble/foam-template": [
         "Other"
     ],
+    "forayconsulting/gemini_cli_skill": [
+        "Other"
+    ],
     "forem/forem": [
         "Other"
     ],
@@ -11567,6 +11615,9 @@
     "google-deepmind/graphcast": [
         "Other"
     ],
+    "google-gemini/gemini-cli": [
+        "Other"
+    ],
     "google-research-datasets/Objectron": [
         "Other"
     ],
@@ -11754,6 +11805,9 @@
         "Other"
     ],
     "grangier/python-goose": [
+        "Other"
+    ],
+    "grapelike-class151/cursor-skills": [
         "Other"
     ],
     "graphql-editor/graphql-editor": [
@@ -12032,9 +12086,6 @@
     "hauxir/rapidbay": [
         "Other"
     ],
-    "haydenbleasel/orate": [
-        "Other"
-    ],
     "haystacknews/create-roku-app": [
         "Other"
     ],
@@ -12276,6 +12327,9 @@
         "Other"
     ],
     "huiping192/BitrateGraphGenerator": [
+        "Other"
+    ],
+    "humanlayer/12-factor-agents": [
         "Other"
     ],
     "humanlayer/agentcontrolplane": [
@@ -12635,6 +12689,9 @@
     "instavm/coderunner": [
         "Other"
     ],
+    "instavm/coderunner-ui": [
+        "Other"
+    ],
     "int128/create-ecr-repository-action": [
         "Other"
     ],
@@ -12777,9 +12834,6 @@
         "Other"
     ],
     "iterate-ch/cyberduck": [
-        "Other"
-    ],
-    "iterative/dvc": [
         "Other"
     ],
     "itforgeuk/Script-Actions": [
@@ -16514,6 +16568,12 @@
     "mrdbourke/mac-ml-speed-test": [
         "Other"
     ],
+    "mrgoonie/claudekit-cli": [
+        "Other"
+    ],
+    "mrgoonie/claudekit-skills": [
+        "Other"
+    ],
     "mriza/winbox-installer": [
         "Other"
     ],
@@ -17427,6 +17487,12 @@
         "Other"
     ],
     "ohoachuck/wwdc-downloader": [
+        "Other"
+    ],
+    "oikon48/cc-frontend-skills": [
+        "Other"
+    ],
+    "okguitar/agentstudio": [
         "Other"
     ],
     "okikio/inthistweet": [
@@ -19697,9 +19763,6 @@
     "sameersbn/docker-gitlab": [
         "Other"
     ],
-    "samirkumardas/jmuxer": [
-        "Other"
-    ],
     "sampotts/plyr": [
         "Other"
     ],
@@ -20406,6 +20469,9 @@
         "Other"
     ],
     "skiffos/SkiffOS": [
+        "Other"
+    ],
+    "skolhustick/plok.sh": [
         "Other"
     ],
     "skooner-k8s/skooner": [
@@ -22043,6 +22109,9 @@
     "travisvn/awesome-claude-skills": [
         "Other"
     ],
+    "treeverse/dvc": [
+        "Other"
+    ],
     "trekhleb/javascript-algorithms": [
         "Other"
     ],
@@ -23060,6 +23129,9 @@
     "wavebox/waveboxapp": [
         "Other"
     ],
+    "wavetermdev/waveterm": [
+        "Other"
+    ],
     "waylybaye/HyperAppScripts": [
         "Other"
     ],
@@ -23151,6 +23223,9 @@
         "Other"
     ],
     "webslides/WebSlides": [
+        "Other"
+    ],
+    "webstream-labs/jmuxer": [
         "Other"
     ],
     "webtor-io/content-transcoder": [
@@ -23841,6 +23916,9 @@
         "Other"
     ],
     "zebpalmer/WeatherAlerts": [
+        "Other"
+    ],
+    "zechenzhangAGI/AI-research-SKILLs": [
         "Other"
     ],
     "zed-industries/zed": [
