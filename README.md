@@ -202,7 +202,7 @@
 * [contains-studio/agents](https://github.com/contains-studio/agents): sharing current agents in use
 * [wshobson/agents](https://github.com/wshobson/agents): Intelligent automation and multi-agent orchestration for Claude Code
 * [okguitar/agentstudio](https://github.com/okguitar/agentstudio): A sophisticated AI-powered workspace built on top of Claude Code SDK
-* [agno-agi/agno](https://github.com/agno-agi/agno): The unified stack for building, running and managing multi-agent systems.
+* [agno-agi/agno](https://github.com/agno-agi/agno): The unified stack for multi-agent systems.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -3093,7 +3093,7 @@
 * [FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop): An early-stage, experimental pure-Dart implementation of Firebase SDKs.
 * [khoren93/FlutterHub](https://github.com/khoren93/FlutterHub): Cross-platform GitHub client in Flutter and BLoC clean architecture.
 * [fluxcd/flux](https://github.com/fluxcd/flux): Successor: https://github.com/fluxcd/flux2
-* [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER): FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform attacks such as WPA/WPA2 cracking and MITM attacks.
+* [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER): FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform WPA/WPA2 auditing and MITM auditing.
 * [bwhli/fly-audio-transcoder](https://github.com/bwhli/fly-audio-transcoder): None
 * [magdalene/fly-background-jobs](https://github.com/magdalene/fly-background-jobs): Demo implementation of running background jobs on Fly.io machines
 * [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -4755,6 +4755,7 @@
 * [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui): UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 * [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use): mcp-use is the easiest way to interact with mcp servers with custom agents
 * [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch): MCP web research server (give Claude real-time info from the web)
+* [istarwyh/mcpadvisor](https://github.com/istarwyh/mcpadvisor): MCP Advisor & Installation - Use the right MCP server for your needs
 * [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb): Desktop Extensions: One-click local MCP server installation in desktop apps
 * [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc): Expose llms-txt to IDEs for development
 * [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh): CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
@@ -4816,9 +4817,10 @@
 * [Intel-Media-SDK/MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK): The Intel® Media SDK
 * [iliya-gr/mediasegmenter](https://github.com/iliya-gr/mediasegmenter): HLS media segmenter.
 * [demuxed/megameetup.video](https://github.com/demuxed/megameetup.video): None
+* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 * [mem0ai/mem0](https://github.com/mem0ai/mem0): Universal memory layer for AI Agents
 * [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp): None
-* [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori): Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori): SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 * [pulsejet/memories](https://github.com/pulsejet/memories): Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 * [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
 * [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -4864,6 +4866,8 @@
 * [karpathy/minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books):  :books: Find your next book to read!
 * [dvorka/mindforger](https://github.com/dvorka/mindforger): Thinking notebook and Markdown editor.
+* [mindsdb/minds-mcp](https://github.com/mindsdb/minds-mcp): An MCP (Model Context Protocol) server for Minds, allowing LLMs to interact with the Minds SDK through a standardized interface.
+* [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): Federated query engine for AI - The only MCP Server you'll ever need
 * [kunwar-shah/mini-coder-brain](https://github.com/kunwar-shah/mini-coder-brain): Transform Claude Code into a persistent, context-aware development partner. Universal memory system with automatic project detection, cross-session continuity, and intelligent cleanup. Zero config, works with any tech stack. 30-second setup.
 * [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 * [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally
@@ -5834,6 +5838,7 @@
 * [cline/prompts](https://github.com/cline/prompts): Library of prompts from the Cline community
 * [hegelai/prompttools](https://github.com/hegelai/prompttools): Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 * [manifoldco/promptui](https://github.com/manifoldco/promptui): Interactive prompt for command-line applications
+* [Deepractice/PromptX](https://github.com/Deepractice/PromptX): PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
 * [krzysztofzablocki/PropertyMapper](https://github.com/krzysztofzablocki/PropertyMapper): Property mapping for Objective-C iOS apps.
 * [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google's data interchange format

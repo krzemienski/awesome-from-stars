@@ -1250,6 +1250,9 @@
     "Debjoy/FireCast": [
         "Other"
     ],
+    "Deepractice/PromptX": [
+        "Other"
+    ],
     "Delgan/loguru": [
         "Other"
     ],
@@ -12824,6 +12827,9 @@
     "ismailgunacar/gitsidian": [
         "Other"
     ],
+    "istarwyh/mcpadvisor": [
+        "Other"
+    ],
     "istepanov/docker-backup-to-s3": [
         "Other"
     ],
@@ -15875,6 +15881,9 @@
     "mehmettaskiner/eksi-sozluk-reloaded": [
         "Other"
     ],
+    "meilisearch/meilisearch": [
+        "Other"
+    ],
     "meirwah/awesome-incident-response": [
         "Other"
     ],
@@ -16209,6 +16218,12 @@
         "Other"
     ],
     "milvus-io/milvus": [
+        "Other"
+    ],
+    "mindsdb/minds-mcp": [
+        "Other"
+    ],
+    "mindsdb/mindsdb": [
         "Other"
     ],
     "mingrammer/diagrams": [
