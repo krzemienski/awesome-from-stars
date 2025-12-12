@@ -2072,9 +2072,6 @@
     "FR13ND8/BRUTEFORCEnew": [
         "Other"
     ],
-    "FR13ND8/BruteFb": [
-        "Other"
-    ],
     "FSecureLABS/Ellume-COVID-Test_Research-Files": [
         "Other"
     ],
@@ -2691,9 +2688,6 @@
         "Other"
     ],
     "Jigsaw-Code/outline-apps": [
-        "Other"
-    ],
-    "Jigsaw-Code/outline-server": [
         "Other"
     ],
     "Jinxiansen/Awesome-Server-Side-Swift": [
@@ -3503,6 +3497,9 @@
     "NatsumeReiko/ExoPlayerInRecyclerView": [
         "Other"
     ],
+    "NeoLabHQ/context-engineering-kit": [
+        "Other"
+    ],
     "Neoteroi/BlackSheep": [
         "Other"
     ],
@@ -3746,6 +3743,9 @@
     "OttoAllmendinger/gnome-shell-screenshot": [
         "Other"
     ],
+    "OutlineFoundation/outline-server": [
+        "Other"
+    ],
     "Ovski4/tutorials": [
         "Other"
     ],
@@ -3912,9 +3912,6 @@
         "Other"
     ],
     "Powerlevel9k/powerlevel9k": [
-        "Other"
-    ],
-    "PraneetNeuro/Project-Mendacius": [
         "Other"
     ],
     "Prat011/awesome-llm-skills": [
@@ -11738,6 +11735,9 @@
     "gotalab/cc-sdd": [
         "Other"
     ],
+    "gotalab/skillport": [
+        "Other"
+    ],
     "gothinkster/realworld": [
         "Other"
     ],
@@ -18560,6 +18560,9 @@
     "pranav-prakash/RokuCast": [
         "Other"
     ],
+    "praneet-suresh/Project-Mendacius": [
+        "Other"
+    ],
     "pranjay-poddar/Dev-Geeks": [
         "Other"
     ],
@@ -21047,6 +21050,9 @@
     "steinfletcher/github-org-clone": [
         "Other"
     ],
+    "steipete/agent-rules": [
+        "Other"
+    ],
     "steipete/claude-code-mcp": [
         "Other"
     ],
@@ -21756,6 +21762,9 @@
         "Other"
     ],
     "thedillonb/RepoStumble": [
+        "Other"
+    ],
+    "thedotmack/claude-mem": [
         "Other"
     ],
     "thehackingsage/hacktronian": [
