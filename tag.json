@@ -389,6 +389,9 @@
     "AmruthPillai/Reactive-Resume": [
         "Other"
     ],
+    "AnandChowdhary/continuous-claude": [
+        "Other"
+    ],
     "Andrews54757/FastStream": [
         "Other"
     ],
@@ -837,9 +840,6 @@
         "Other"
     ],
     "ChrisMash/AVPlayer-SwiftUI": [
-        "Other"
-    ],
-    "ChristianLempa/videos": [
         "Other"
     ],
     "ChristosChristofidis/awesome-deep-learning": [
@@ -2204,6 +2204,9 @@
     "FrozenIronSoftware/Twitched": [
         "Other"
     ],
+    "FullAgent/fulling": [
+        "Other"
+    ],
     "FutureKit/FutureKit": [
         "Other"
     ],
@@ -2709,9 +2712,6 @@
         "Other"
     ],
     "Jigsaw-Code/net-analysis": [
-        "Other"
-    ],
-    "Jigsaw-Code/outline-apps": [
         "Other"
     ],
     "Jinxiansen/Awesome-Server-Side-Swift": [
@@ -3774,6 +3774,9 @@
         "Other"
     ],
     "OutlineDriven/outline-driven-development": [
+        "Other"
+    ],
+    "OutlineFoundation/outline-apps": [
         "Other"
     ],
     "OutlineFoundation/outline-server": [
@@ -4896,6 +4899,9 @@
         "Other"
     ],
     "TonnyL/Awesome_APIs": [
+        "Other"
+    ],
+    "TonyStef/Grov": [
         "Other"
     ],
     "ToolJet/ToolJet": [
@@ -6113,7 +6119,7 @@
     "analyserdmz/ffmpeg-multi-threaded-convert": [
         "Other"
     ],
-    "ananddtyagi/claude-code-marketplace": [
+    "ananddtyagi/cc-marketplace": [
         "Other"
     ],
     "anantn/glendix": [
@@ -7811,6 +7817,9 @@
     "browser-use/browser-use": [
         "Other"
     ],
+    "browser-use/workflow-use": [
+        "Other"
+    ],
     "browserbase/agent-browse": [
         "Other"
     ],
@@ -8124,9 +8133,6 @@
         "Other"
     ],
     "cdnbye/hlsjs-p2p-engine": [
-        "Other"
-    ],
-    "cdnsteve/sugar": [
         "Other"
     ],
     "cdwv/awesome-helm": [
@@ -8543,6 +8549,9 @@
     "code-vicar/vscode-rpm": [
         "Other"
     ],
+    "code-yeongyu/oh-my-opencode": [
+        "Other"
+    ],
     "codeabovelab/haven-platform": [
         "Other"
     ],
@@ -8568,6 +8577,9 @@
         "Other"
     ],
     "codemirror/codemirror5": [
+        "Other"
+    ],
+    "coder/agentapi": [
         "Other"
     ],
     "coder/anyclaude": [
@@ -12533,6 +12545,9 @@
     "iOSTestApps/tvOSSample": [
         "Other"
     ],
+    "iOfficeAI/AionUi": [
+        "Other"
+    ],
     "iRobotEducation/irobot-edu-python-sdk": [
         "Other"
     ],
@@ -13226,7 +13241,7 @@
     "jenkinsci/xcode-plugin": [
         "Other"
     ],
-    "jeremylongshore/claude-code-plugins-plus": [
+    "jeremylongshore/claude-code-plugins-plus-skills": [
         "Other"
     ],
     "jeroenoomsNL/github-project-starter": [
@@ -14420,6 +14435,9 @@
     "krzemienski/nv-codec-headers": [
         "Other"
     ],
+    "krzemienski/ralph-orchestrator": [
+        "Other"
+    ],
     "krzemienski/react-developer-portfolio": [
         "Other"
     ],
@@ -15504,6 +15522,9 @@
         "Other"
     ],
     "majamee/auto-dash-hls": [
+        "Other"
+    ],
+    "majd/ipatool": [
         "Other"
     ],
     "makandra/validate-hls": [
@@ -17106,6 +17127,9 @@
         "Other"
     ],
     "nextcloud/server": [
+        "Other"
+    ],
+    "nextlevelbuilder/ui-ux-pro-max-skill": [
         "Other"
     ],
     "nezort11/chatgpt-mobile": [
@@ -19277,6 +19301,9 @@
     "realpython/flask-by-example": [
         "Other"
     ],
+    "recloudstream/cloudstream": [
+        "Other"
+    ],
     "recommenders-team/recommenders": [
         "Other"
     ],
@@ -19485,6 +19512,9 @@
         "Other"
     ],
     "robotframework/robotframework": [
+        "Other"
+    ],
+    "roboticforce/sugar": [
         "Other"
     ],
     "rockcarry/fanplayer": [
@@ -19983,6 +20013,9 @@
         "Other"
     ],
     "sarugaku/shellingham": [
+        "Other"
+    ],
+    "sarwarbeing-ai/Agentic_Design_Patterns": [
         "Other"
     ],
     "sashabaranov/go-openai": [
@@ -20972,6 +21005,9 @@
     "spencerpauly/awesome-notion": [
         "Other"
     ],
+    "spences10/claude-skills-cli": [
+        "Other"
+    ],
     "spences10/mcp-sequentialthinking-tools": [
         "Other"
     ],
@@ -21228,6 +21264,9 @@
         "Other"
     ],
     "steventroughtonsmith/marzipanify": [
+        "Other"
+    ],
+    "steveyegge/beads": [
         "Other"
     ],
     "stevommmm/homemedia": [
@@ -22406,6 +22445,9 @@
     "tversteeg/emplace": [
         "Other"
     ],
+    "tw93/Mole": [
+        "Other"
+    ],
     "twig2let/rokuNavSpike": [
         "Other"
     ],
@@ -23481,6 +23523,9 @@
         "Other"
     ],
     "wildtruc/nvidia-prime-select": [
+        "Other"
+    ],
+    "willccbb/claude-deep-research": [
         "Other"
     ],
     "willemvermeer/typed-actors": [
