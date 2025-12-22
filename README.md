@@ -2276,7 +2276,7 @@
 * [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
 * [prcongithub/do-assets](https://github.com/prcongithub/do-assets): None
 * [seven1m/do-install-button](https://github.com/seven1m/do-install-button): NO LONGER MAINTAINED
-* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Up-to-date documentation for devs and AI agents.
+* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Up-to-date Documentation for AI Agents.
 * [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash): None
 * [M7S/dockbarx](https://github.com/M7S/dockbarx): None
 * [nextcloud/docker](https://github.com/nextcloud/docker): ⛴ Docker image of Nextcloud
