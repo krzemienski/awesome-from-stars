@@ -5201,9 +5201,6 @@
     "Xuno/XunoPlayer-MPV": [
         "Other"
     ],
-    "YaLTeR/vapoursynth-rs": [
-        "Other"
-    ],
     "Yacht-sh/Yacht": [
         "Other"
     ],
@@ -5975,7 +5972,7 @@
     "alirezarezvani/claude-skills": [
         "Other"
     ],
-    "alishobeiri/thread": [
+    "alishobeiri/thread-notebook": [
         "Other"
     ],
     "alkerway/hls-simulator": [
@@ -19800,6 +19797,9 @@
         "Other"
     ],
     "rust-av/nvidia-video-codec-rs": [
+        "Other"
+    ],
+    "rust-av/vapoursynth-rs": [
         "Other"
     ],
     "rust-embedded/awesome-embedded-rust": [

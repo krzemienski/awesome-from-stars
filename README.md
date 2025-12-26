@@ -208,7 +208,7 @@
 * [contains-studio/agents](https://github.com/contains-studio/agents): sharing current agents in use
 * [wshobson/agents](https://github.com/wshobson/agents): Intelligent automation and multi-agent orchestration for Claude Code
 * [okguitar/agentstudio](https://github.com/okguitar/agentstudio): A sophisticated AI-powered workspace built on top of Claude Code SDK
-* [agno-agi/agno](https://github.com/agno-agi/agno): The multi-agent toolkit: framework, runtime, and control plane.
+* [agno-agi/agno](https://github.com/agno-agi/agno): Build private and secure AI products that run in your cloud.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -7323,7 +7323,7 @@
 * [fmujakitz/thinkpad-thermal](https://github.com/fmujakitz/thinkpad-thermal): gnome-shell extension
 * [devksingh4/thinkpad-tools](https://github.com/devksingh4/thinkpad-tools): Tools to manage Thinkpad properties
 * [PixelCyber/Thor](https://github.com/PixelCyber/Thor): sunset
-* [alishobeiri/thread](https://github.com/alishobeiri/thread): AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
+* [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook): AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
 * [MingyaoLiu/Threadripper-KVM-guide](https://github.com/MingyaoLiu/Threadripper-KVM-guide): Spec:
 * [steckdenis/threadripper-monitor](https://github.com/steckdenis/threadripper-monitor): CPU usage and power consumption monitor for AMD Threadripper processors
 * [futzu/threefive](https://github.com/futzu/threefive): threefive is SCTE-35. threefive Parses SCTE-35 in every available format. MPEGTS, HLS, DASH. Yes. 
@@ -7639,7 +7639,7 @@
 * [twof/VaporNation](https://github.com/twof/VaporNation): Weekly Vapor news
 * [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth): A video processing framework with simplicity in mind
 * [YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor): Branch vse-previewer for standalone previewer. Branch vs-api4 for an IDE with a text editor. Branch master for "stability". Forked from https://bitbucket.org/mystery_keeper/vapoursynth-editor
-* [YaLTeR/vapoursynth-rs](https://github.com/YaLTeR/vapoursynth-rs): A safe Rust wrapper for VapourSynth.
+* [rust-av/vapoursynth-rs](https://github.com/rust-av/vapoursynth-rs): A safe Rust wrapper for VapourSynth.
 * [varietywalls/variety](https://github.com/varietywalls/variety): Wallpaper downloader and manager for Linux systems
 * [dsbmac/variety-goodreads-quotes](https://github.com/dsbmac/variety-goodreads-quotes): Plugin for Variety wallpaper changer
 * [Eyevinn/vast-info](https://github.com/Eyevinn/vast-info): Parse a VAST or VMAP to show valuable information in a readable format
