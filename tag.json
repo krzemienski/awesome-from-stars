@@ -65,10 +65,10 @@
     "2gis/k8s-handle": [
         "Other"
     ],
-    "3052/dash": [
+    "3052/drm": [
         "Other"
     ],
-    "3052/drm": [
+    "3052/luna": [
         "Other"
     ],
     "3052/media": [
@@ -4040,6 +4040,9 @@
     "QianMo/Awesome-Unity-Shader": [
         "Other"
     ],
+    "Qredence/agentic-fleet": [
+        "Other"
+    ],
     "QuantGeekDev/docker-mcp": [
         "Other"
     ],
@@ -5726,6 +5729,12 @@
     "aizvorski/video-quality": [
         "Other"
     ],
+    "aj-geddes/claude-code-bmad-skills": [
+        "Other"
+    ],
+    "aj-geddes/useful-ai-prompts": [
+        "Other"
+    ],
     "ajalck/Go-HLS_VideoStreaming_Webapp": [
         "Other"
     ],
@@ -7040,13 +7049,13 @@
     "aws-samples/serverless-patterns": [
         "Other"
     ],
+    "aws-solutions-library-samples/live-streaming-on-aws": [
+        "Other"
+    ],
+    "aws-solutions-library-samples/live-streaming-on-aws-with-amazon-s3": [
+        "Other"
+    ],
     "aws-solutions/content-localization-on-aws": [
-        "Other"
-    ],
-    "aws-solutions/live-streaming-on-aws": [
-        "Other"
-    ],
-    "aws-solutions/live-streaming-on-aws-with-amazon-s3": [
         "Other"
     ],
     "aws-solutions/media-insights-on-aws": [
@@ -7637,6 +7646,9 @@
     "bluenviron/mediamtx": [
         "Other"
     ],
+    "bmad-code-org/BMAD-METHOD": [
+        "Other"
+    ],
     "bmaltais/kohya_ss": [
         "Other"
     ],
@@ -7668,9 +7680,6 @@
         "Other"
     ],
     "bodaay/HuggingFaceModelDownloader": [
-        "Other"
-    ],
-    "bodo-run/yek": [
         "Other"
     ],
     "bookkojot/mp4fixer": [
@@ -9227,7 +9236,7 @@
     "davedelong/MVCTodo": [
         "Other"
     ],
-    "davepoon/claude-code-subagents-collection": [
+    "davepoon/buildwithclaude": [
         "Other"
     ],
     "davesteele/gnome-gmail": [
@@ -10308,6 +10317,12 @@
         "Other"
     ],
     "elevenlabs/elevenlabs-mcp": [
+        "Other"
+    ],
+    "elevenlabs/elevenlabs-python": [
+        "Other"
+    ],
+    "elevenlabs/ui": [
         "Other"
     ],
     "eli-schwartz/calibre-installer": [
@@ -14237,6 +14252,9 @@
     "kopia/kopia": [
         "Other"
     ],
+    "korallis/Droidz": [
+        "Other"
+    ],
     "korandiz/v4l": [
         "Other"
     ],
@@ -14309,6 +14327,9 @@
     "krzemienski/automated-notebooklm": [
         "Other"
     ],
+    "krzemienski/autonomous-claude-code-builder": [
+        "Other"
+    ],
     "krzemienski/awesome-from-stars": [
         "Other"
     ],
@@ -14367,6 +14388,9 @@
         "Other"
     ],
     "krzemienski/claudecodeui": [
+        "Other"
+    ],
+    "krzemienski/code-story-platform": [
         "Other"
     ],
     "krzemienski/codex-universal": [
@@ -16575,6 +16599,9 @@
         "Other"
     ],
     "mofo7777/Stackoverflow": [
+        "Other"
+    ],
+    "mohsen1/yek": [
         "Other"
     ],
     "mojoaxel/awesome-regression-testing": [
@@ -20292,9 +20319,6 @@
         "Other"
     ],
     "sfermigier/awesome-functional-python": [
-        "Other"
-    ],
-    "sgnl/nodeku": [
         "Other"
     ],
     "shaarli/Shaarli": [
@@ -24207,6 +24231,9 @@
         "Other"
     ],
     "zhaopengme/gitnote": [
+        "Other"
+    ],
+    "zhbhun/rmbg": [
         "Other"
     ],
     "zhen-ke/ffmpegGUI": [
