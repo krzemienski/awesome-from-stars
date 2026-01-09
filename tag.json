@@ -1010,6 +1010,9 @@
     "Comcast/scte35-js": [
         "Other"
     ],
+    "Comfy-Org/ComfyUI": [
+        "Other"
+    ],
     "Commandcracker/alpine-ffmpeg": [
         "Other"
     ],
@@ -3215,6 +3218,9 @@
     "Maciek-roboblog/Claude-Code-Usage-Monitor": [
         "Other"
     ],
+    "MadAppGang/claude-code": [
+        "Other"
+    ],
     "MagicArena/ngrokd": [
         "Other"
     ],
@@ -3309,6 +3315,9 @@
         "Other"
     ],
     "MediaBrowser/Emby.Roku": [
+        "Other"
+    ],
+    "Meirtz/Awesome-Context-Engineering": [
         "Other"
     ],
     "MemoriLabs/Memori": [
@@ -5108,9 +5117,6 @@
     "We5ter/Scanners-Box": [
         "Other"
     ],
-    "WeTransferArchive/WeScan": [
-        "Other"
-    ],
     "Wei-Shaw/claude-relay-service": [
         "Other"
     ],
@@ -5612,7 +5618,13 @@
     "agile4you/bottle-smart-filters": [
         "Other"
     ],
+    "agiletec-inc/airis-agent": [
+        "Other"
+    ],
     "agiletec-inc/airis-mcp-gateway": [
+        "Other"
+    ],
+    "agiletec-inc/mindbase": [
         "Other"
     ],
     "agiliq/building-api-django": [
@@ -6209,6 +6221,9 @@
     "ankurjha21/eks-AWS": [
         "Other"
     ],
+    "anomalyco/opencode": [
+        "Other"
+    ],
     "anombyte93/prd-taskmaster": [
         "Other"
     ],
@@ -6261,6 +6276,9 @@
         "Other"
     ],
     "anthropics/claude-cookbooks": [
+        "Other"
+    ],
+    "anthropics/claude-plugins-official": [
         "Other"
     ],
     "anthropics/claude-quickstarts": [
@@ -7745,6 +7763,9 @@
     "bradtraversy/design-resources-for-developers": [
         "Other"
     ],
+    "braintrustdata/braintrust-claude-plugin": [
+        "Other"
+    ],
     "bramp/ffmpeg-cli-wrapper": [
         "Other"
     ],
@@ -8661,9 +8682,6 @@
         "Other"
     ],
     "collabnix/kubelabs": [
-        "Other"
-    ],
-    "comfyanonymous/ComfyUI": [
         "Other"
     ],
     "comingAlive/ffmpegaudioextract.xyz": [
@@ -10707,6 +10725,9 @@
         "Other"
     ],
     "f/awesome-chatgpt-prompts": [
+        "Other"
+    ],
+    "f/prompts.chat-mcp": [
         "Other"
     ],
     "f11894/video_benchmark": [
@@ -13160,6 +13181,9 @@
     "jasperapp/jasper": [
         "Other"
     ],
+    "jaw9c/awesome-remote-mcp-servers": [
+        "Other"
+    ],
     "jay-johnson/deploy-to-kubernetes": [
         "Other"
     ],
@@ -13454,13 +13478,13 @@
     "johannesjo/linux-window-session-manager": [
         "Other"
     ],
-    "johannesjo/super-productivity": [
-        "Other"
-    ],
     "johnbean393/Sidekick": [
         "Other"
     ],
     "johnjones4/Standard-Notes-Clipper": [
+        "Other"
+    ],
+    "johnlindquist/claude-workshop-skills": [
         "Other"
     ],
     "johnlinp/pdf-to-markdown": [
@@ -13917,6 +13941,9 @@
         "Other"
     ],
     "kay-ou/ClaudeSkills": [
+        "Other"
+    ],
+    "kayba-ai/agentic-context-engine": [
         "Other"
     ],
     "kb-dk/tv-subtitle-extraction": [
@@ -14820,6 +14847,9 @@
         "Other"
     ],
     "lazycatcoder/SoundCloudDownloader": [
+        "Other"
+    ],
+    "lazzzyengineer/transcoderUI": [
         "Other"
     ],
     "lcjnil/github-notion-star": [
@@ -16841,6 +16871,9 @@
     "munagekar/vidsleuth": [
         "Other"
     ],
+    "muratcankoylan/Agent-Skills-for-Context-Engineering": [
+        "Other"
+    ],
     "musistudio/claude-code-router": [
         "Other"
     ],
@@ -18224,6 +18257,9 @@
     "paralax/awesome-honeypots": [
         "Other"
     ],
+    "parcadei/Continuous-Claude-v2": [
+        "Other"
+    ],
     "parski/SnapshotTest": [
         "Other"
     ],
@@ -19350,9 +19386,6 @@
         "Other"
     ],
     "redox-os/termion": [
-        "Other"
-    ],
-    "redspider001432/transcoderUI": [
         "Other"
     ],
     "reegnz/jq-zsh-plugin": [
@@ -21158,9 +21191,6 @@
     "sshuttle/sshuttle": [
         "Other"
     ],
-    "sst/opencode": [
-        "Other"
-    ],
     "ssut/ffmpeg-on-apple-silicon": [
         "Other"
     ],
@@ -21461,6 +21491,9 @@
     "suno-ai/bark": [
         "Other"
     ],
+    "sunriseapps/imagesorcery-mcp": [
+        "Other"
+    ],
     "suntong/ffcvt": [
         "Other"
     ],
@@ -21480,6 +21513,9 @@
         "Other"
     ],
     "supabase/supabase-swift": [
+        "Other"
+    ],
+    "super-productivity/super-productivity": [
         "Other"
     ],
     "superagent-ai/vibekit": [
@@ -22266,6 +22302,9 @@
         "Other"
     ],
     "tonydeng/fmj": [
+        "Other"
+    ],
+    "tonysurfly/awesome-claude": [
         "Other"
     ],
     "tonywangcn/docker-cluster-with-celery-and-rabbitmq": [
