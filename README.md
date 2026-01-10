@@ -1890,7 +1890,7 @@
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
 * [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude): 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
-* [parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2): Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
+* [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3): Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 * [contour-terminal/contour](https://github.com/contour-terminal/contour): Modern C++ Terminal Emulator
 * [bryanbrunetti/controku](https://github.com/bryanbrunetti/controku): An app to control Roku devices, written with ElectronJS
 * [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet): Let us control diffusion models!
@@ -4005,7 +4005,7 @@
 * [michaelversus/insomnia-plugin-codegen](https://github.com/michaelversus/insomnia-plugin-codegen): None
 * [benemohamed/insomnia-plugin-json-schema](https://github.com/benemohamed/insomnia-plugin-json-schema): insomnia plugin generated json schema from response
 * [klickpages/insomnia-plugin-repo-sync](https://github.com/klickpages/insomnia-plugin-repo-sync): None
-* [MCPJam/inspector](https://github.com/MCPJam/inspector): Build ChatGPT Apps and MCP servers locally.
+* [MCPJam/inspector](https://github.com/MCPJam/inspector): Local inspector for ChatGPT apps & MCP servers
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
 * [arturparkhisenko/install-dotfiles-etc](https://github.com/arturparkhisenko/install-dotfiles-etc): :bookmark_tabs: Install.md with dotfiles and etc
 * [lmlsna/install-scripts](https://github.com/lmlsna/install-scripts): Ubuntu install scripts
@@ -4931,7 +4931,7 @@
 * [agiletec-inc/mindbase](https://github.com/agiletec-inc/mindbase): AI Conversation Knowledge Management - PostgreSQL + pgvector + Ollama (Free, Local, Open Source)
 * [dvorka/mindforger](https://github.com/dvorka/mindforger): Thinking notebook and Markdown editor.
 * [mindsdb/minds-mcp](https://github.com/mindsdb/minds-mcp): An MCP (Model Context Protocol) server for Minds, allowing LLMs to interact with the Minds SDK through a standardized interface.
-* [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): Query Engine for AI - The only MCP Server you'll ever need
+* [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): Federated Query Engine for AI - The only MCP Server you'll ever need
 * [kunwar-shah/mini-coder-brain](https://github.com/kunwar-shah/mini-coder-brain): Transform Claude Code into a persistent, context-aware development partner. Universal memory system with automatic project detection, cross-session continuity, and intelligent cleanup. Zero config, works with any tech stack. 30-second setup.
 * [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 * [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally
@@ -7036,7 +7036,7 @@
 * [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit): the subtitle editor :)
 * [active-video/subtitles](https://github.com/active-video/subtitles): AV Platform MPEG DASH subtitles
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
-* [roboticforce/sugar](https://github.com/roboticforce/sugar): Sugar 🍰 The dev team that never stops.
+* [roboticforce/sugar](https://github.com/roboticforce/sugar): 🍰 Sugar - The dev team that never stops.
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
 * [kortix-ai/suna](https://github.com/kortix-ai/suna): Kortix – build, manage and train AI Agents.
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
