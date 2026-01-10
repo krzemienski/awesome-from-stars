@@ -1378,7 +1378,7 @@
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 * [agiliq/building-api-django](https://github.com/agiliq/building-api-django): None
 * [moby/buildkit](https://github.com/moby/buildkit): concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-* [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude): Claude Skills, Agents, Commands, Hooks, Plugins, Marketplaces collections for and extend Claude Code
+* [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude): A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
 * [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka): Buka is a modern software that helps you manage your ebook at ease. 
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [alexaubry/BulletinBoard](https://github.com/alexaubry/BulletinBoard): General-purpose contextual cards for iOS
@@ -1537,6 +1537,7 @@
 * [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah): Mac app for crushing tech interviews with AI
 * [electrikmilk/cherri](https://github.com/electrikmilk/cherri): Siri Shortcuts Programming Language 🍒
 * [electrikmilk/cherri-macos-app](https://github.com/electrikmilk/cherri-macos-app): IDE for the Cherri Shortcuts programming language
+* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 * [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain): Parser Building Toolkit for JavaScript
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 * [heff/chg](https://github.com/heff/chg): simple changelog/release history manager
@@ -1632,7 +1633,7 @@
 * [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings): Claude Code settings, commands and agents for vibe coding
 * [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory): Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.
 * [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills): Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
-* [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills): Official Claude Code skills collection. Production-ready skills that cover the full delivery workflow — from research and discovery to epic planning, task breakdown, implementation, testing, code review, and quality gates.
+* [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills): Greate Claude Code skills collection. Production-ready skills that cover the full delivery workflow — from research and discovery to epic planning, task breakdown, implementation, testing, code review, and quality gates.
 * [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation): This is a cleanroom deobfuscation of the official Claude Code npm package.
 * [jcmrs/claude-code-spec-kit-subagent-plugin](https://github.com/jcmrs/claude-code-spec-kit-subagent-plugin): A Claude Code plugin that provides a conversational, adaptive, and agentic subagent for co-creating rigorous, multi-perspective technical specs—featuring dynamic memory graphs, adaptive workflows, and explicit multi-role analysis. Especially useful for non-technical users and teams adopting the Spec Kit Methodology.
 * [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow): Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
@@ -2291,7 +2292,7 @@
 * [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
 * [prcongithub/do-assets](https://github.com/prcongithub/do-assets): None
 * [seven1m/do-install-button](https://github.com/seven1m/do-install-button): NO LONGER MAINTAINED
-* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Up-to-date Documentation for AI Agents.
+* [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp): Docfork MCP - Up-to-date Docs for AI Agents.
 * [fthx/dock-from-dash](https://github.com/fthx/dock-from-dash): None
 * [M7S/dockbarx](https://github.com/M7S/dockbarx): None
 * [nextcloud/docker](https://github.com/nextcloud/docker): ⛴ Docker image of Nextcloud
@@ -3119,7 +3120,7 @@
 * [jakeheis/Flock](https://github.com/jakeheis/Flock): Automated deployment of Swift projects to servers
 * [iZettle/Flow](https://github.com/iZettle/Flow): Flow is a Swift library for working with asynchronous flows and life cycles
 * [malcommac/Flow](https://github.com/malcommac/Flow): Declarative approach to populate and manage UITableViews (see https://github.com/malcommac/FlowKit)
-* [nikivdev/flow](https://github.com/nikivdev/flow): Project level config for insanely fast feedback loops
+* [nikivdev/flow](https://github.com/nikivdev/flow): Everything you need to move your project faster
 * [jliljebl/flowblade](https://github.com/jliljebl/flowblade): Video Editor for Linux
 * [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun): Easily generate flowcharts and diagrams from text ⿻
 * [adrai/flowchart.js](https://github.com/adrai/flowchart.js): Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -3298,6 +3299,7 @@
 * [krzemienski/gilfoyle](https://github.com/krzemienski/gilfoyle): Distributed video encoding, hosting and streaming
 * [travis-ci/gimme](https://github.com/travis-ci/gimme): Install go, yay!
 * [gin-gonic/gin](https://github.com/gin-gonic/gin): Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+* [giselles-ai/giselle](https://github.com/giselles-ai/giselle): Giselle: AI App Builder. Open Source.
 * [ldakhoa/GistHub](https://github.com/ldakhoa/GistHub): The iOS app for GitHub Gist
 * [waylybaye/git-agent](https://github.com/waylybaye/git-agent): a docker image helps you pull all git volumes automatically
 * [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp): Uses Git to upload only changed files to FTP servers.
@@ -3602,7 +3604,7 @@
 * [Grive/grive](https://github.com/Grive/grive): an open source Linux client for Google Drive
 * [grommet/grommet](https://github.com/grommet/grommet): a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 * [teejee2008/groot](https://github.com/teejee2008/groot): Chroot helper utility for all Linux distributions
-* [TonyStef/Grov](https://github.com/TonyStef/Grov): Track, sync & share AI coding sessions across your team. Context that survives beyond the chat. Stop re-explaining yourself every session. Currently works with   Claude Code.
+* [TonyStef/Grov](https://github.com/TonyStef/Grov): Grov automatically captures the context from your private AI sessions and syncs it to a shared team memory. It auto injects relevant memories across developers and future sessions to save tokens and time spent on tasks.
 * [grpc/grpc](https://github.com/grpc/grpc): C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 * [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway): gRPC to JSON proxy generator following the gRPC HTTP spec
 * [google/grumpy](https://github.com/google/grumpy): Grumpy is a Python to Go source code transcompiler and runtime.
@@ -7036,7 +7038,7 @@
 * [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit): the subtitle editor :)
 * [active-video/subtitles](https://github.com/active-video/subtitles): AV Platform MPEG DASH subtitles
 * [DaMingShen/SUCacheLoader](https://github.com/DaMingShen/SUCacheLoader): AVPlayer缓存实现
-* [roboticforce/sugar](https://github.com/roboticforce/sugar): 🍰 Sugar - The dev team that never stops.
+* [roboticforce/sugar](https://github.com/roboticforce/sugar): 🍰 Sugar - The autonomous layer for AI coding agents
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf): SumatraPDF reader
 * [kortix-ai/suna](https://github.com/kortix-ai/suna): Kortix – build, manage and train AI Agents.
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
