@@ -398,6 +398,9 @@
     "AndreyPavlenko/Fermata": [
         "Other"
     ],
+    "AndyMik90/Auto-Claude": [
+        "Other"
+    ],
     "Aniket965/Dynamic-Github-Profile": [
         "Other"
     ],
@@ -5237,6 +5240,9 @@
     "Yannis4444/Orange-Share": [
         "Other"
     ],
+    "Yassinello/claude-plugin-prd-workflow": [
+        "Other"
+    ],
     "YazdanZ/dotfiles": [
         "Other"
     ],
@@ -9794,7 +9800,7 @@
     "dnth/huggingface-timm-mobile-blogpost": [
         "Other"
     ],
-    "docfork/docfork-mcp": [
+    "docfork/docfork": [
         "Other"
     ],
     "docker-archive-public/docker.kitematic": [
@@ -10068,6 +10074,9 @@
         "Other"
     ],
     "dutchcoders/transfer.sh": [
+        "Other"
+    ],
+    "dvdsgl/claude-canvas": [
         "Other"
     ],
     "dvershinin/apt-to-dnf": [
@@ -14900,6 +14909,15 @@
     "leandromoreira/vmaf": [
         "Other"
     ],
+    "learn-anything/books": [
+        "Other"
+    ],
+    "learn-anything/curated-lists": [
+        "Other"
+    ],
+    "learn-anything/ios-apps": [
+        "Other"
+    ],
     "learn-video/mosaic-video": [
         "Other"
     ],
@@ -15078,15 +15096,6 @@
         "Other"
     ],
     "linlinjava/litemall": [
-        "Other"
-    ],
-    "linsa-io/books": [
-        "Other"
-    ],
-    "linsa-io/curated-lists": [
-        "Other"
-    ],
-    "linsa-io/ios-apps": [
         "Other"
     ],
     "linsomniac/python-bottle-skeleton": [
@@ -18936,6 +18945,9 @@
         "Other"
     ],
     "pvieito/PythonKit": [
+        "Other"
+    ],
+    "pvolok/mprocs": [
         "Other"
     ],
     "pvzig/SlackKit": [
@@ -23165,9 +23177,6 @@
     "vk496/linset": [
         "Other"
     ],
-    "vknabel/All-in-One-Swift-for-vscode": [
-        "Other"
-    ],
     "vladkens/macmon": [
         "Other"
     ],
@@ -23973,9 +23982,6 @@
         "Other"
     ],
     "yadox666/The-Hackers-Hardware-Toolkit": [
-        "Other"
-    ],
-    "yadri-lab/claude-plugin-prd-workflow": [
         "Other"
     ],
     "yagiz/Bagel": [
