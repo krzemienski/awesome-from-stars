@@ -188,6 +188,7 @@
 * [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui): AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
 * [browserbase/agent-browse](https://github.com/browserbase/agent-browse): Claude Agent SDK with a web browsing tool
+* [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser): Browser automation CLI for AI agents
 * [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman): Stop AI agents from half-building features. Ship complete code in one session.
 * [microsoft/agent-framework](https://github.com/microsoft/agent-framework): A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 * [buildermethods/agent-os](https://github.com/buildermethods/agent-os): Agent OS is a system for better planning and executing software development tasks with your AI agents.
@@ -211,7 +212,7 @@
 * [contains-studio/agents](https://github.com/contains-studio/agents): sharing current agents in use
 * [wshobson/agents](https://github.com/wshobson/agents): Intelligent automation and multi-agent orchestration for Claude Code
 * [okguitar/agentstudio](https://github.com/okguitar/agentstudio): A sophisticated AI-powered workspace built on top of Claude Code SDK
-* [agno-agi/agno](https://github.com/agno-agi/agno): The comple stack for Agent Engineering: framework, runtime and control plane.
+* [agno-agi/agno](https://github.com/agno-agi/agno): Build, run, manage multi-agent systems.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
@@ -244,7 +245,7 @@
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
 * [aio-libs/aiodocker](https://github.com/aio-libs/aiodocker): Python Docker API client based on asyncio and aiohttp
 * [bachya/aiolinkding](https://github.com/bachya/aiolinkding): A Python3, async interface to the linkding REST API
-* [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): Free, local, open-source GUI app for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more — Enhanced Chat UI, WebUI, Multi-Agent & Multi-LLM, MCP Integration | 🌟 Star if you like it!
+* [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
 * [aiortc/aioquic](https://github.com/aiortc/aioquic): QUIC and HTTP/3 implementation in Python
 * [IBM/air-traffic-control](https://github.com/IBM/air-traffic-control): # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
 * [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng): WiFi security auditing tools suite
@@ -324,6 +325,8 @@
 * [pegasusict/AMM](https://github.com/pegasusict/AMM): Audiophiles' Music Manager is a Python3/Laravel8 suite which tries to overcome the shortcomings of most music management programs out there. This project is in it's infancy and I use this as a study project.
 * [amplication/amplication](https://github.com/amplication/amplication): Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams.
 * [microsoft/amplifier](https://github.com/microsoft/amplifier): None
+* [microsoft/amplifier-core](https://github.com/microsoft/amplifier-core): None
+* [microsoft/amplifier-foundation](https://github.com/microsoft/amplifier-foundation): Foundation library for the Amplifier project
 * [gabek/Amplitude-Brightscript](https://github.com/gabek/Amplitude-Brightscript): A Brightscript (Roku) library for submitting analytics to Amplitude
 * [Amplitude-Developer-Docs/amplitude-dev-center](https://github.com/Amplitude-Developer-Docs/amplitude-dev-center): Amplitude's Developer Center docs.
 * [andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip): An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
@@ -935,7 +938,7 @@
 * [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 * [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb): :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
-* [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): 🍌 4000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+* [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): 🍌 5000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 * [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs): A curated list of awesome things related to NestJS 😎
 * [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis): A curated list of awesome network analysis resources.
 * [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation): Curated Awesome list about Network Automation
@@ -1699,7 +1702,6 @@
 * [JSONbored/claudepro-directory](https://github.com/JSONbored/claudepro-directory): Claude Pro Directory is a searchable collection of pre-built configurations, MCP servers, and custom rules designed to enhance Claude AI's performance for specific tasks.
 * [AutumnsGrove/ClaudeSkills](https://github.com/AutumnsGrove/ClaudeSkills): Skills for Claude.ai and Claude Code
 * [kay-ou/ClaudeSkills](https://github.com/kay-ou/ClaudeSkills): A Claude Skill collection designed for task automation, document parsing, and intelligent dispatch. such as utilities for webpage-to-Markdown conversion, API doc parsing, and structured JSON extraction—optimized for LLM-driven workflows
-* [jeffersonwarrior/claudisms](https://github.com/jeffersonwarrior/claudisms): A plugin to improve claude
 * [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): My notes of Clean Code book
 * [Clean-Swift/CleanStore](https://github.com/Clean-Swift/CleanStore): A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
 * [loryhuz/CleanyModal](https://github.com/loryhuz/CleanyModal): Swift UI Kit to present clean modal/alert
@@ -1885,7 +1887,7 @@
 * [atinux/content-wind](https://github.com/atinux/content-wind): A lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
 * [trilogy-group/contently-videojs-annotation-comments](https://github.com/trilogy-group/contently-videojs-annotation-comments): A plugin for video.js to add support for timeline moment/range comments and annotations
 * [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering): "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.
-* [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit): Hand crafted Claude code plugin marketplace focused on agent results quality improvement. Designed to be easy to install and use, while maintaining minimal token footprint.
+* [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit): Handcrafted plugin marketplace focused on improving agent result quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline.
 * [Real-AI-Engineering/context-planning-system](https://github.com/Real-AI-Engineering/context-planning-system): Personal context planning system with Claude Code skills for Speckit task aggregation and daily/weekly workflows
 * [upstash/context7](https://github.com/upstash/context7): Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * [FlineDev/ContextKit](https://github.com/FlineDev/ContextKit): Claude Code context engineering & planning system for individual AI development workflows
@@ -1984,7 +1986,7 @@
 * [cruffenach/CRToast](https://github.com/cruffenach/CRToast): A modern iOS toast view that can fit your notification needs
 * [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch): Insane(ly slow but wicked good) PNG image optimization
 * [jaggad/crunker](https://github.com/jaggad/crunker): Simple way to merge or concatenate audio files with the Web Audio API. 
-* [charmbracelet/crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for your favourite terminal 💘
+* [charmbracelet/crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for all 💘
 * [stravu/crystal](https://github.com/stravu/crystal): Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 * [christopher-beckham/cs109-dl-videos](https://github.com/christopher-beckham/cs109-dl-videos): Shell script to scrape Harvard CS109 (Intro to Data Science) lecture videos
@@ -2031,7 +2033,7 @@
 * [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet): An interactive CSS playground
 * [dagostini/DADependencyInjection](https://github.com/dagostini/DADependencyInjection): An example project on how to use dependency injection.
 * [mxhdg/dadjoke-ui](https://github.com/mxhdg/dadjoke-ui): A Python 3 Flask project which provides a simple web ui for an open source dadjokes generator
-* [dagger/dagger](https://github.com/dagger/dagger): The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+* [dagger/dagger](https://github.com/dagger/dagger): Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 * [dailydotdev/daily](https://github.com/dailydotdev/daily): daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 * [rainyear/dailybot](https://github.com/rainyear/dailybot): Daily Bot - Parse RSS and ChatGPT it.
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
@@ -3767,7 +3769,6 @@
 * [kanongil/hls-playlist-reader](https://github.com/kanongil/hls-playlist-reader): Read playlist & updates from an HLS url
 * [Eyevinn/hls-proxy](https://github.com/Eyevinn/hls-proxy): NPM library for proxying HLS requests
 * [Viblast/hls-proxy](https://github.com/Viblast/hls-proxy): Easy downloading and mirroring of HLS streams
-* [warren-bank/HLS-Proxy](https://github.com/warren-bank/HLS-Proxy): Node.js server to proxy HLS video streams
 * [sdesyllas/hls-proxy-aes-service](https://github.com/sdesyllas/hls-proxy-aes-service): How to make Token authorized AES encrypted HLS stream by injecting the token in the manifest
 * [evoactivity/hls-proxy-docker](https://github.com/evoactivity/hls-proxy-docker): Docker to setup HLS Proxy
 * [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push): NPM library to pull HLS Live and Push to a another origin
@@ -5264,6 +5265,7 @@
 * [mrbar42/node-graceful](https://github.com/mrbar42/node-graceful): Graceful process exit manager without dependencies. allows waiting on multiple async services.
 * [ddanninger/node-gracenote](https://github.com/ddanninger/node-gracenote): Nodejs Gracenote.com Wrapper
 * [nodejs/node-gyp](https://github.com/nodejs/node-gyp): Node.js native addon build tool
+* [warren-bank/node-HLS-Proxy](https://github.com/warren-bank/node-HLS-Proxy): Node.js server to proxy HLS video streams
 * [kanongil/node-hls-tools](https://github.com/kanongil/node-hls-tools): Useful tools to consume and produce Apple™ HTTP Live Streaming (HLS) compatible media streams.
 * [michaelkourlas/node-js2xmlparser](https://github.com/michaelkourlas/node-js2xmlparser): Popular Node.js module for parsing JavaScript objects into XML
 * [Eyevinn/node-m3u8](https://github.com/Eyevinn/node-m3u8): Streaming parser for m3u8 files in node
@@ -5770,6 +5772,7 @@
 * [piotrmski/plaid](https://github.com/piotrmski/plaid): Personal Jira worklog editor
 * [plandex-ai/plandex](https://github.com/plandex-ai/plandex): Open source AI coding agent. Designed for large projects and real world tasks.
 * [pinterest/plank](https://github.com/pinterest/plank): A tool for generating immutable model objects
+* [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files): Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 * [orblazer/plasma-applet-resources-monitor](https://github.com/orblazer/plasma-applet-resources-monitor): Plasmoid for monitoring CPU, memory, network traffic, GPUs and disks IO.
 * [syncloud/platform](https://github.com/syncloud/platform): Run popular services on your device with one click
 * [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages): Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers

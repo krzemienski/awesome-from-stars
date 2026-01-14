@@ -3782,6 +3782,9 @@
     "Otbivnoe/CodableAlamofire": [
         "Other"
     ],
+    "OthmanAdi/planning-with-files": [
+        "Other"
+    ],
     "OttoAllmendinger/gnome-shell-screenshot": [
         "Other"
     ],
@@ -13259,9 +13262,6 @@
     "jeessy2/ddns-go": [
         "Other"
     ],
-    "jeffersonwarrior/claudisms": [
-        "Other"
-    ],
     "jeffknupp/sandman2": [
         "Other"
     ],
@@ -16281,6 +16281,12 @@
         "Other"
     ],
     "microsoft/amplifier": [
+        "Other"
+    ],
+    "microsoft/amplifier-core": [
+        "Other"
+    ],
+    "microsoft/amplifier-foundation": [
         "Other"
     ],
     "microsoft/appcenter": [
@@ -22928,6 +22934,9 @@
     "veovera/enhanced-rtmp": [
         "Other"
     ],
+    "vercel-labs/agent-browser": [
+        "Other"
+    ],
     "vercel/ai": [
         "Other"
     ],
@@ -23402,7 +23411,7 @@
     "warren-bank/Android-ExoPlayer-AirPlay-Receiver": [
         "Other"
     ],
-    "warren-bank/HLS-Proxy": [
+    "warren-bank/node-HLS-Proxy": [
         "Other"
     ],
     "wasabeef/awesome-android-ui": [
