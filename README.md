@@ -245,7 +245,7 @@
 * [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore): asyncio support for botocore library using aiohttp
 * [aio-libs/aiodocker](https://github.com/aio-libs/aiodocker): Python Docker API client based on asyncio and aiohttp
 * [bachya/aiolinkding](https://github.com/bachya/aiolinkding): A Python3, async interface to the linkding REST API
-* [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
+* [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
 * [aiortc/aioquic](https://github.com/aiortc/aioquic): QUIC and HTTP/3 implementation in Python
 * [IBM/air-traffic-control](https://github.com/IBM/air-traffic-control): # WARNING: This repository is no longer maintained :warning:  This content is no longer being updated or maintained. The content is provided “as is.” Given the rapid evolution of technology, some content, steps, or illustrations may have changed.
 * [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng): WiFi security auditing tools suite
@@ -754,7 +754,7 @@
 * [tonysurfly/awesome-claude](https://github.com/tonysurfly/awesome-claude): A curated list of awesome things related to Anthropic Claude
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): An orchestrated sub agent dev team powered by claude code
 * [LangGPT/awesome-claude-code](https://github.com/LangGPT/awesome-claude-code): Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树）
-* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A curated list of awesome commands, files, and workflows for Claude Code
+* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 * [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins): Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
 * [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents): A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
@@ -855,7 +855,7 @@
 * [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator): Generate awesome list over Github API
 * [dictcp/awesome-git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 * [opendigg/awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui): 安卓UI相关开源项目库汇总 
-* [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
+* [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
 * [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage): A curated list of awesome Go storage projects and libraries
@@ -1164,7 +1164,7 @@
 * [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
 * [soroushchehresa/axios-react](https://github.com/soroushchehresa/axios-react): 🌐 HTTP client component for React based on Axios
 * [yenbekbay/AYGestureHelpView](https://github.com/yenbekbay/AYGestureHelpView): [DEPRECATED] A view that can show a tutorial for gestures
-* [dempfi/ayu](https://github.com/dempfi/ayu): 🎨🖌 Modern Sublime Text theme
+* [dempfi/ayu](https://github.com/dempfi/ayu): 🎨🖌 Modern, bright color theme for Sublime Text
 * [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates): Azure Quickstart Templates
 * [microsoft/azure-spring-apps-training](https://github.com/microsoft/azure-spring-apps-training): Guides and tutorials to make the most out of Azure Spring Apps 
 * [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio): Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB.
@@ -1947,9 +1947,9 @@
 * [Countly/countly-code-generator](https://github.com/Countly/countly-code-generator): Automatically generate code with an easy to use editor to use with SDKs
 * [monder/countly-docker](https://github.com/monder/countly-docker): Countly docker image with external mongodb support
 * [Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios): Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.
-* [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios): Countly Product Analytics iOS SDK with macOS, watchOS and tvOS support. 
+* [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios): Countly Digital Analytics iOS SDK with macOS, watchOS and tvOS support. 
 * [Countly/countly-sdk-nodejs](https://github.com/Countly/countly-sdk-nodejs): Countly SDK for NodeJS
-* [Countly/countly-server](https://github.com/Countly/countly-server): Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
+* [Countly/countly-server](https://github.com/Countly/countly-server): Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected environments.
 * [nychealth/covid-maps](https://github.com/nychealth/covid-maps): Maps of COVID-19 data, as displayed on DOHMH webpages
 * [joswr1ght/cowpatty](https://github.com/joswr1ght/cowpatty): coWPAtty: WPA2-PSK Cracking
 * [Axinom/cpix](https://github.com/Axinom/cpix): .NET library for reading and writing CPIX documents
@@ -1986,7 +1986,7 @@
 * [cruffenach/CRToast](https://github.com/cruffenach/CRToast): A modern iOS toast view that can fit your notification needs
 * [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch): Insane(ly slow but wicked good) PNG image optimization
 * [jaggad/crunker](https://github.com/jaggad/crunker): Simple way to merge or concatenate audio files with the Web Audio API. 
-* [charmbracelet/crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for all 💘
+* [charmbracelet/crush](https://github.com/charmbracelet/crush): Glamourous agentic coding for all 💘
 * [stravu/crystal](https://github.com/stravu/crystal): Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 * [christopher-beckham/cs109-dl-videos](https://github.com/christopher-beckham/cs109-dl-videos): Shell script to scrape Harvard CS109 (Intro to Data Science) lecture videos
@@ -2905,7 +2905,7 @@
 * [krzemienski/ffmpeg-build-1](https://github.com/krzemienski/ffmpeg-build-1): Build ffmpeg with its dependencies from source.
 * [binoculars/ffmpeg-build-lambda](https://github.com/binoculars/ffmpeg-build-lambda): Static FFmpeg builds for use on AWS Lambda
 * [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script): The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
-* [slyfox1186/ffmpeg-build-script](https://github.com/slyfox1186/ffmpeg-build-script): This script build's the most up to date version of FFmpeg by using API calls to download the latest source code available.
+* [slyfox1186/ffmpeg-build-script](https://github.com/slyfox1186/ffmpeg-build-script): This script build's the most up to date version of FFmpeg by using regex to find the latest version numbers of each repo involved and then download the latest source code available.
 * [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds): None
 * [bramp/ffmpeg-cli-wrapper](https://github.com/bramp/ffmpeg-cli-wrapper): Java wrapper around the FFmpeg command line tool
 * [scrwdrv/ffmpeg-command](https://github.com/scrwdrv/ffmpeg-command): A simple ffmpeg and ffprobe child process handler, easy to add commands and execute
@@ -3038,7 +3038,7 @@
 * [JohnSundell/Files](https://github.com/JohnSundell/Files): A nicer way to handle files & folders in Swift
 * [files-community/Files](https://github.com/files-community/Files): A modern file manager that helps users organize their files and folders.
 * [DhruvParikh1/files-to-llm-prompt](https://github.com/DhruvParikh1/files-to-llm-prompt): VSCode Extension for files-to-prompt
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 * [FlexMonkey/Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter Explorer & Showcase
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
@@ -4812,7 +4812,7 @@
 * [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server): Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
 * [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts): None
 * [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase): Allow LLMs to control a browser with Browserbase and Stagehand
-* [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart): 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
+* [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart): 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 * [reading-plus-ai/mcp-server-deep-research](https://github.com/reading-plus-ai/mcp-server-deep-research): None
 * [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker): MCP server for Docker
 * [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser): A MCP Server for the RAG Web Browser Actor
@@ -5114,7 +5114,7 @@
 * [zoroqi/my-awesome](https://github.com/zoroqi/my-awesome): My Awesome List
 * [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup): Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
 * [brpaz/my-linux-setup](https://github.com/brpaz/my-linux-setup): My Fedora Linux list of installed applications and Ansible provision scripts
-* [cexll/myclaude](https://github.com/cexll/myclaude): Claude Code and Codex orchestration workflow
+* [cexll/myclaude](https://github.com/cexll/myclaude): Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
 * [subnub/myDrive](https://github.com/subnub/myDrive): Node.js and mongoDB Google Drive Clone
 * [sankaranramantn/myprojects](https://github.com/sankaranramantn/myprojects): Drag and Drop GUI which converts any ffmpeg supported mp4/mkv into AV1 using Nvidia 40 series av1_nvenc encoder, code can be modified to use hevc_nvenc or any AMF/qsv encoders
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
@@ -6163,7 +6163,7 @@
 * [raphamorim/react-tv](https://github.com/raphamorim/react-tv): React Renderer for low memory applications
 * [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React video player for TV devices, with customisable buttons and arrow-key navigation. The component can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
 * [PhiloInc/ReactBS](https://github.com/PhiloInc/ReactBS): React-like framework for Roku
-* [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+* [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa): Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 * [ReactiveCocoa/ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): Streams of values over time
 * [ladunjexa/reactjs18-3d-portfolio](https://github.com/ladunjexa/reactjs18-3d-portfolio): incredible 3D developer portfolio website with awesome graphics - built with React & Three.js 🪄
@@ -7023,7 +7023,7 @@
 * [streamlit/streamlit](https://github.com/streamlit/streamlit): Streamlit — A faster way to build and share data apps.
 * [video-dev/streamlyser](https://github.com/video-dev/streamlyser): An exploration into synthetic HLS and DASH monitoring, and conformance testing.
 * [objecthuman/streammmm](https://github.com/objecthuman/streammmm): A twitch like platform.
-* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): Multiprotocol (SRT, RTMP and others) live streaming libraries for Android
+* [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack): Multiprotocol (SRT, RTMP and others) live streaming broadcaster libraries for Android
 * [video-db/StreamRAG](https://github.com/video-db/StreamRAG): Video Search and Streaming Agent 🕵️‍♂️
 * [video-dev/streams](https://github.com/video-dev/streams): A repository of shared streams - no media uploads
 * [VQEG/streamsim](https://github.com/VQEG/streamsim): None
@@ -7060,7 +7060,7 @@
 * [superduper-io/superduper](https://github.com/superduper-io/superduper): Superduper: End-to-end framework for building custom AI applications and agents.
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 * [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp): Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
-* [obra/superpowers](https://github.com/obra/superpowers): Claude Code superpowers: core skills library
+* [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 * [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome): Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
 * [obra/superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code): None
 * [obra/superpowers-lab](https://github.com/obra/superpowers-lab): Experimental skills for Claude Code Superpowers - new techniques and tools
