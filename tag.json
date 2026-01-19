@@ -1580,9 +1580,6 @@
     "Evavic44/portfolio-ideas": [
         "Other"
     ],
-    "EveryInc/compound-engineering-plugin": [
-        "Other"
-    ],
     "EwingYangs/awesome-open-gpt": [
         "Other"
     ],
@@ -14147,6 +14144,9 @@
     "kieranjol/IFIscripts": [
         "Other"
     ],
+    "kieranklaassen/compound-engineering-plugin": [
+        "Other"
+    ],
     "kiliczsh/claude-cmd": [
         "Other"
     ],
@@ -14906,15 +14906,6 @@
     "leandromoreira/vmaf": [
         "Other"
     ],
-    "learn-anything/books": [
-        "Other"
-    ],
-    "learn-anything/curated-lists": [
-        "Other"
-    ],
-    "learn-anything/ios-apps": [
-        "Other"
-    ],
     "learn-video/mosaic-video": [
         "Other"
     ],
@@ -15093,6 +15084,15 @@
         "Other"
     ],
     "linlinjava/litemall": [
+        "Other"
+    ],
+    "linsa-io/books": [
+        "Other"
+    ],
+    "linsa-io/curated-lists": [
+        "Other"
+    ],
+    "linsa-io/ios-apps": [
         "Other"
     ],
     "linsomniac/python-bottle-skeleton": [
@@ -19998,9 +19998,6 @@
         "Other"
     ],
     "sailist/potion": [
-        "Other"
-    ],
-    "sakage24/pyhlsgen": [
         "Other"
     ],
     "saki4510t/AudioVideoRecordingSample": [

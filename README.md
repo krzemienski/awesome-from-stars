@@ -1293,7 +1293,7 @@
 * [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks): :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer: 
 * [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks): 🔖 Bookmark app for Nextcloud
 * [andela-sjames/Bookmeapi](https://github.com/andela-sjames/Bookmeapi): Demonstrate the power of GraphQL with Python/Django
-* [learn-anything/books](https://github.com/learn-anything/books): Awesome Books
+* [linsa-io/books](https://github.com/linsa-io/books): Awesome Books
 * [dushan14/books-store](https://github.com/dushan14/books-store): A Simple Web application to use flask python web framework. 
 * [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack): A platform to create documentation/wiki content built with PHP & Laravel
 * [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm): Social reading and reviewing, decentralized with ActivityPub
@@ -1654,7 +1654,7 @@
 * [krzemienski/claude-code-web-server](https://github.com/krzemienski/claude-code-web-server): None
 * [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows): The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 * [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows): Production-ready development workflows for Claude Code, powered by specialized AI agents.
-* [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro): Professional Development Environment for Claude Code with Endless Mode, Spec-Driven Development, TDD, LSP, Persistent Memory, Semantic Search, Quality Hooks and Modular Rules 🛠️
+* [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro): Production-grade AI development for Claude Code. TDD enforced. Quality automated. Ship with confidence.
 * [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder): Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents 
 * [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and architectural analysis.
 * [possibilities/claude-composer](https://github.com/possibilities/claude-composer): None
@@ -1845,7 +1845,7 @@
 * [owncloud-docker/compose-playground](https://github.com/owncloud-docker/compose-playground): Docker Compose dev environment
 * [composerize/composerize](https://github.com/composerize/composerize): 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 * [ComposioHQ/composio](https://github.com/ComposioHQ/composio): Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
-* [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin): Official Claude Code compound engineering plugin
+* [kieranklaassen/compound-engineering-plugin](https://github.com/kieranklaassen/compound-engineering-plugin): Official Claude Code compound engineering plugin
 * [google/comprehensive-rust](https://github.com/google/comprehensive-rust): This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 * [dim-geo/compressibility](https://github.com/dim-geo/compressibility): vapoursynth compressibility function & vmaf comparison
 * [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent): Desktop app to control your computer with AI using your terminal, browser, mouse & keyboard
@@ -2005,7 +2005,7 @@
 * [wbopan/cui](https://github.com/wbopan/cui): A web UI for Claude Code agents
 * [cats-oss/cujira](https://github.com/cats-oss/cujira): 🐳 cujira is a command line tool that makes easy to show issue list from Jira.
 * [Mebus/cupp](https://github.com/Mebus/cupp): Common User Passwords Profiler (CUPP)
-* [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists): Curated lists on various topics
+* [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists): Curated lists on various topics
 * [curl/curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [adithyaphilip/curl-to-java](https://github.com/adithyaphilip/curl-to-java): Convert curl commands to Java code in your browser
 * [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter): Transpile curl commands into Python, JavaScript and 27 other languages
@@ -4047,7 +4047,7 @@
 * [artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples): 👨🏻‍💻 Examples of new iOS 11 APIs
 * [nytimes/ios-360-videos](https://github.com/nytimes/ios-360-videos): NYT360Video plays 360-degree video streamed from an AVPlayer on iOS.
 * [owncloud/ios-app](https://github.com/owncloud/ios-app): 📱The all-new iOS app for ownCloud
-* [learn-anything/ios-apps](https://github.com/learn-anything/ios-apps): Awesome iOS apps
+* [linsa-io/ios-apps](https://github.com/linsa-io/ios-apps): Awesome iOS apps
 * [spotify/ios-ci](https://github.com/spotify/ios-ci): A collection of scripts Spotify runs on its Open Source iOS projects.
 * [XCTEQ/iOS-Dev-Ansible](https://github.com/XCTEQ/iOS-Dev-Ansible): Fully Automated Ansible role for the iOS Developer to provision macOS for iOS Development and iOS Continuous Integration. 
 * [lexrus/ios-dev-playbook](https://github.com/lexrus/ios-dev-playbook): 不会运维的 iOS 开发不是好设计师。这个 Ansible Playbook 能快速配置 iOS 开发需要的服务，安装如 Gogs、GitLab、Jenkins、Ghost、Ajenti 等常用服务。
@@ -4142,7 +4142,7 @@
 * [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial): Modern Java - A Guide to Java 8
 * [bytedeco/javacv](https://github.com/bytedeco/javacv): Java interface to OpenCV, FFmpeg, and more
 * [tjrantal/JavaFrameByFrameVideo](https://github.com/tjrantal/JavaFrameByFrameVideo): None
-* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
+* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
 * [zmalrobot/JavaLinuxUndervolt](https://github.com/zmalrobot/JavaLinuxUndervolt): Small GUI for undervolt.py script
 * [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 * [slack-samples/javascript-actionable-requests](https://github.com/slack-samples/javascript-actionable-requests): Create internal requests to a virtual help desk
@@ -4321,7 +4321,7 @@
 * [christianloopp/komorebi](https://github.com/christianloopp/komorebi): A beautiful and customizable wallpapers manager for Linux
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
 * [stakater/Konfigurator](https://github.com/stakater/Konfigurator): A kubernetes operator that dynamically generates and manages app configuration based on kubernetes resources  – [✩Star] if you're using it!
-* [Kong/kong](https://github.com/Kong/kong): 🦍 The Cloud-Native Gateway for APIs & AI
+* [Kong/kong](https://github.com/Kong/kong): 🦍 The API and AI Gateway
 * [1buck/kontainer](https://github.com/1buck/kontainer): Kontainer: Mobile application for Portainer
 * [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
 * [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf): A Python framework to write Kubernetes operators in just few lines of code.
@@ -4917,7 +4917,7 @@
 * [manuelescrig/MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton): An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 * [manuelescrig/MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts): An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.
 * [mercari/Mew](https://github.com/mercari/Mew): The framework that support making MicroViewController.
-* [filipstrand/mflux](https://github.com/filipstrand/mflux): A MLX port of FLUX and other state of the art diffusion image models based on the Huggingface Diffusers implementation.
+* [filipstrand/mflux](https://github.com/filipstrand/mflux): MLX native implementations of state-of-the-art generative image models
 * [mediagoom/mg](https://github.com/mediagoom/mg): mg tool let you statically package MP4 files into MPEG-DASH and HLS.
 * [maks/MGit](https://github.com/maks/MGit): A Git client for Android.
 * [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog): The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
@@ -5247,7 +5247,7 @@
 * [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
 * [franglais125/no-title-bar](https://github.com/franglais125/no-title-bar): Integrates maximized windows with the top panel
 * [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel.
-* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
+* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 * [nodejs/node](https://github.com/nodejs/node): Node.js JavaScript runtime ✨🐢🚀✨
 * [Automattic/node-canvas](https://github.com/Automattic/node-canvas): Node canvas is a Cairo backed Canvas implementation for NodeJS.
 * [michaelkourlas/node-cloudflare-dynamic-dns](https://github.com/michaelkourlas/node-cloudflare-dynamic-dns): Node.js module for updating a Cloudflare DNS address record with an IP address
@@ -5797,7 +5797,7 @@
 * [jaskie/PlayoutAutomation](https://github.com/jaskie/PlayoutAutomation): Television broadcast automation system
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 * [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
-* [remorses/playwriter](https://github.com/remorses/playwriter): The better playwright MCP: works as a browser extension. No context bloat. More capable.
+* [remorses/playwriter](https://github.com/remorses/playwriter): MCP to control your Chrome window via extension. Runs Playwright code in a stateful sandbox. 
 * [microsoft/plcrashreporter](https://github.com/microsoft/plcrashreporter): Reliable, open-source crash reporting for iOS, macOS and tvOS
 * [alextall/plexify](https://github.com/alextall/plexify): Transcode video files to lower bitrates based on resolution
 * [tada/pljava](https://github.com/tada/pljava): PL/Java is a free add-on module that brings Java™ Stored Procedures, Triggers, Functions, Aggregates, Operators, Types, etc., to the PostgreSQL™ backend.
@@ -5982,7 +5982,6 @@
 * [mhaller/pyffmpeg](https://github.com/mhaller/pyffmpeg): PyFFmpeg - Python FFmpeg wrapper
 * [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 * [cweichen/pygn](https://github.com/cweichen/pygn): A simple Python client for the Gracenote Music API
-* [sakage24/pyhlsgen](https://github.com/sakage24/pyhlsgen): 複雑なffmpegの設定をしなくても、自動的にHLS形式に変換します
 * [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools): A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc.
 * [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra): 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 * [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller): Freeze (package) Python programs into stand-alone executables
@@ -7533,7 +7532,7 @@
 * [hossein-no1/TvPlayer](https://github.com/hossein-no1/TvPlayer): A plyer that optimized for tv and based on Exo player google
 * [kodlian/TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer): TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps.
 * [linagora/Twake](https://github.com/linagora/Twake): Twake is a secure open source collaboration platform to improve organizational productivity. 
-* [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc): Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
+* [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc): Customize Claude Code's system prompts, create custom toolsets, add custom input pattern highlighters, custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
 * [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): A visual no-code theme editor for shadcn/ui components
 * [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks): An easy way to fine-tune, and adjust parameters for iOS apps in development.
 * [kbravh/tweet-to-markdown](https://github.com/kbravh/tweet-to-markdown): A command line tool to convert Tweets to Markdown.
