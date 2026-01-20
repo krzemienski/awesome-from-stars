@@ -111,6 +111,7 @@
 
 * [Deadshot0x7/007-TheBond](https://github.com/Deadshot0x7/007-TheBond): This Script will help you to gather information about your victim or friend.
 * [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+* [21st-dev/1code](https://github.com/21st-dev/1code): Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 * [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Coding articles to level up your development skills
 * [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio): Showcasing my web dev skills with 3D magic, slick interactions, and cutting-edge design.
@@ -189,12 +190,14 @@
 * [portainer/agent](https://github.com/portainer/agent): The Portainer agent
 * [browserbase/agent-browse](https://github.com/browserbase/agent-browse): Claude Agent SDK with a web browsing tool
 * [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser): Browser automation CLI for AI agents
+* [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder): An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 * [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman): Stop AI agents from half-building features. Ship complete code in one session.
 * [microsoft/agent-framework](https://github.com/microsoft/agent-framework): A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 * [buildermethods/agent-os](https://github.com/buildermethods/agent-os): Agent OS is a system for better planning and executing software development tasks with your AI agents.
 * [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol): Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 * [steipete/agent-rules](https://github.com/steipete/agent-rules): Rules and Knowledge to work better with agents such as Claude Code or Cursor
 * [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+* [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop): Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 * [coder/agentapi](https://github.com/coder/agentapi): HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 * [humanlayer/agentcontrolplane](https://github.com/humanlayer/agentcontrolplane): ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous tool calls like requesting human feedback on key operations. Full MCP support.
@@ -1693,6 +1696,7 @@
 * [gbechtold/Claude-to-React-Next](https://github.com/gbechtold/Claude-to-React-Next): Convert Claude Artefacts to React Next with a single Prompt
 * [johnlindquist/claude-workshop-skills](https://github.com/johnlindquist/claude-workshop-skills): None
 * [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm): None
+* [blader/Claudeception](https://github.com/blader/Claudeception): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 * [krzemienski/claudecodeui](https://github.com/krzemienski/claudecodeui): Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui): Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit): A toolkit of custom commands, hooks, and utilities for Claude Code
@@ -1845,7 +1849,7 @@
 * [owncloud-docker/compose-playground](https://github.com/owncloud-docker/compose-playground): Docker Compose dev environment
 * [composerize/composerize](https://github.com/composerize/composerize): 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 * [ComposioHQ/composio](https://github.com/ComposioHQ/composio): Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
-* [kieranklaassen/compound-engineering-plugin](https://github.com/kieranklaassen/compound-engineering-plugin): Official Claude Code compound engineering plugin
+* [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin): Official Claude Code compound engineering plugin
 * [google/comprehensive-rust](https://github.com/google/comprehensive-rust): This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 * [dim-geo/compressibility](https://github.com/dim-geo/compressibility): vapoursynth compressibility function & vmaf comparison
 * [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent): Desktop app to control your computer with AI using your terminal, browser, mouse & keyboard
@@ -1891,7 +1895,7 @@
 * [Real-AI-Engineering/context-planning-system](https://github.com/Real-AI-Engineering/context-planning-system): Personal context planning system with Claude Code skills for Speckit task aggregation and daily/weekly workflows
 * [upstash/context7](https://github.com/upstash/context7): Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * [FlineDev/ContextKit](https://github.com/FlineDev/ContextKit): Claude Code context engineering & planning system for individual AI development workflows
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 * [Eyevinn/continue-watching-api](https://github.com/Eyevinn/continue-watching-api): Example of a simple implementation to build a continue watching api on top of Redis
 * [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude): 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 * [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3): Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
@@ -3038,7 +3042,7 @@
 * [JohnSundell/Files](https://github.com/JohnSundell/Files): A nicer way to handle files & folders in Swift
 * [files-community/Files](https://github.com/files-community/Files): A modern file manager that helps users organize their files and folders.
 * [DhruvParikh1/files-to-llm-prompt](https://github.com/DhruvParikh1/files-to-llm-prompt): VSCode Extension for files-to-prompt
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 * [FlexMonkey/Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter Explorer & Showcase
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
@@ -4753,6 +4757,7 @@
 * [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp): A Model Context Protocol server for converting almost anything to Markdown
 * [bmoliveira/MarkdownKit](https://github.com/bmoliveira/MarkdownKit): A simple and customizable Markdown Parser for Swift
 * [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed.
+* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 * [dotclaude/marketplace](https://github.com/dotclaude/marketplace): DotClaude Plugin Marketplace - Revolutionary AI interaction platform for Claude Code
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [borjapazr/mars-server](https://github.com/borjapazr/mars-server): 🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash
@@ -4871,7 +4876,7 @@
 * [mediaelement/mediaelement-files](https://github.com/mediaelement/mediaelement-files): Sample media files (MP4, WebM, Ogv, MP3, etc.) for the MediaElement.js library
 * [mediaelement/mediaelement-plugins](https://github.com/mediaelement/mediaelement-plugins): Plugins for the main mediaelement project 
 * [Petersoj/MediaFission](https://github.com/Petersoj/MediaFission): Download Youtube, Soundcloud, and etc. as Audio, Video, or as a Song (album cover and other metadata)!
-* [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy): A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
+* [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy): A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 * [caorushizi/mediago](https://github.com/caorushizi/mediago): 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with desktop clients for Windows and Mac.
 * [caorushizi/mediago-core](https://github.com/caorushizi/mediago-core): M3U8 视频下载，Go 语言开发。
 * [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
@@ -5088,6 +5093,7 @@
 * [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
 * [Palethorn/multibitrate-vod](https://github.com/Palethorn/multibitrate-vod): Python ffmpeg utility
 * [Eyevinn/multichoice](https://github.com/Eyevinn/multichoice): multichoice
+* [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude): None
 * [fengyuli-dev/multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt): Empowering your ChatGPT with vision and audio inputs.
 * [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances
 * [aparc/MultiPlatform](https://github.com/aparc/MultiPlatform): Just simple template app supporting platforms: iOS, macOS, tvOS, watchOS. Designed wtih SwiftUI.
@@ -5632,8 +5638,8 @@
 * [OutlineDriven/outline-driven-development](https://github.com/OutlineDriven/outline-driven-development): Outline Driven Development – Beyond "specs" or "vibes" using AST analysis and Modern CLI Tools w/ context engineering; batteries-included
 * [OutlineFoundation/outline-server](https://github.com/OutlineFoundation/outline-server): Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
-* [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine): OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
-* [AirenSoft/OvenPlayer](https://github.com/AirenSoft/OvenPlayer): OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
+* [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine): OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
+* [OvenMediaLabs/OvenPlayer](https://github.com/OvenMediaLabs/OvenPlayer): OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [owncast/owncast](https://github.com/owncast/owncast): Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 * [iJ0rd8n/ownchannel](https://github.com/iJ0rd8n/ownchannel): Apple TV (TVOS) Template to create your own Live TV channel
@@ -6486,6 +6492,7 @@
 * [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [flutter/samples](https://github.com/flutter/samples): A collection of Flutter examples and demos
 * [rokudev/samples](https://github.com/rokudev/samples): Collection of sample channels for side-loading on your Roku device
+* [strands-agents/samples](https://github.com/strands-agents/samples): Agent samples built using the Strands Agents SDK.
 * [jamland/samplescope](https://github.com/jamland/samplescope): Desktop app with the main goal to simplify audio samples search over the internet sources.
 * [influxdata/sandbox](https://github.com/influxdata/sandbox): A sandbox for the full TICK stack
 * [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2): Automatically generate a RESTful API service for your legacy database. No code required!
@@ -6558,6 +6565,7 @@
 * [elmoiv/sdelmo](https://github.com/elmoiv/sdelmo): Simple Soundcloud music downloader
 * [mautilus/sdk](https://github.com/mautilus/sdk): MAUTILUS SmartTV SDK
 * [rokudev/SDK-Development-Guide](https://github.com/rokudev/SDK-Development-Guide): None
+* [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python): A model-driven approach to building AI agents in just a few lines of code.
 * [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion): :iphone: Lightweight Cocoa library for detecting the running device's model and screen size.
 * [mix1009/sdwebuiapi](https://github.com/mix1009/sdwebuiapi): Python API client for AUTOMATIC1111/stable-diffusion-webui
 * [haiwen/seadrive-gui](https://github.com/haiwen/seadrive-gui): GUI part of seadrive.

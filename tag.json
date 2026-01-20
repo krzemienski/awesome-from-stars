@@ -53,6 +53,9 @@
     "1hanzla100/developer-portfolio": [
         "Other"
     ],
+    "21st-dev/1code": [
+        "Other"
+    ],
     "21st-dev/magic-mcp": [
         "Other"
     ],
@@ -297,12 +300,6 @@
         "Other"
     ],
     "Airblader/dotfiles-manjaro": [
-        "Other"
-    ],
-    "AirenSoft/OvenMediaEngine": [
-        "Other"
-    ],
-    "AirenSoft/OvenPlayer": [
         "Other"
     ],
     "Ajitroy01/Code_Genius": [
@@ -1578,6 +1575,9 @@
         "Other"
     ],
     "Evavic44/portfolio-ideas": [
+        "Other"
+    ],
+    "EveryInc/compound-engineering-plugin": [
         "Other"
     ],
     "EwingYangs/awesome-open-gpt": [
@@ -3792,6 +3792,12 @@
         "Other"
     ],
     "OutlineFoundation/outline-server": [
+        "Other"
+    ],
+    "OvenMediaLabs/OvenMediaEngine": [
+        "Other"
+    ],
+    "OvenMediaLabs/OvenPlayer": [
         "Other"
     ],
     "Ovski4/tutorials": [
@@ -7640,6 +7646,9 @@
     "blackjack4494/yt-dlc": [
         "Other"
     ],
+    "blader/Claudeception": [
+        "Other"
+    ],
     "blakeblackshear/frigate": [
         "Other"
     ],
@@ -8822,6 +8831,9 @@
     "coreybobco/setlistspy-api": [
         "Other"
     ],
+    "coreyhaines31/marketingskills": [
+        "Other"
+    ],
     "corona-warn-app/cwa-app-ios": [
         "Other"
     ],
@@ -9768,6 +9780,9 @@
         "Other"
     ],
     "dl-container-registry/ffmpeg": [
+        "Other"
+    ],
+    "dlorenc/multiclaude": [
         "Other"
     ],
     "dmaccarthy/sc8pr": [
@@ -14142,9 +14157,6 @@
         "Other"
     ],
     "kieranjol/IFIscripts": [
-        "Other"
-    ],
-    "kieranklaassen/compound-engineering-plugin": [
         "Other"
     ],
     "kiliczsh/claude-cmd": [
@@ -21390,6 +21402,18 @@
         "Other"
     ],
     "stran9elet/Watermark-Remover": [
+        "Other"
+    ],
+    "strands-agents/agent-builder": [
+        "Other"
+    ],
+    "strands-agents/agent-sop": [
+        "Other"
+    ],
+    "strands-agents/samples": [
+        "Other"
+    ],
+    "strands-agents/sdk-python": [
         "Other"
     ],
     "stravu/crystal": [
