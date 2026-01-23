@@ -3077,9 +3077,6 @@
     "LetsUpgrade/Python-Essentials": [
         "Other"
     ],
-    "Li-vien/CcClip": [
-        "Other"
-    ],
     "LiLittleCat/awesome-free-chatgpt": [
         "Other"
     ],
@@ -5073,6 +5070,9 @@
         "Other"
     ],
     "VideoFlint/Cabbage": [
+        "Other"
+    ],
+    "VienLi/CcClip": [
         "Other"
     ],
     "Villanuevand/deployment-circleci-gh-pages": [
@@ -7833,6 +7833,9 @@
         "Other"
     ],
     "brightcove/brightcove-player-sdk-ios": [
+        "Other"
+    ],
+    "brightcove/playback_go-dash": [
         "Other"
     ],
     "brightdata/brightdata-mcp": [
@@ -11516,6 +11519,9 @@
     "ghostop14/sparrow-wifi": [
         "Other"
     ],
+    "ghostty-org/ghostty": [
+        "Other"
+    ],
     "ghostwords/localore": [
         "Other"
     ],
@@ -13257,6 +13263,9 @@
         "Other"
     ],
     "jdorfman/awesome-json-datasets": [
+        "Other"
+    ],
+    "jean-technologies/jean-memory": [
         "Other"
     ],
     "jeanslack/Videomass": [
@@ -20915,6 +20924,9 @@
     "snarktank/ai-dev-tasks": [
         "Other"
     ],
+    "snarktank/ralph": [
+        "Other"
+    ],
     "sneljo1/auryo": [
         "Other"
     ],
@@ -24273,9 +24285,6 @@
         "Other"
     ],
     "zenangst/Vaccine": [
-        "Other"
-    ],
-    "zencoder/go-dash": [
         "Other"
     ],
     "zenitysec/awesome-low-code": [

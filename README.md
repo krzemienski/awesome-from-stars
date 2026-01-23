@@ -111,7 +111,7 @@
 
 * [Deadshot0x7/007-TheBond](https://github.com/Deadshot0x7/007-TheBond): This Script will help you to gather information about your victim or friend.
 * [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-* [21st-dev/1code](https://github.com/21st-dev/1code): Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
+* [21st-dev/1code](https://github.com/21st-dev/1code): Best UI for Claude Code
 * [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Coding articles to level up your development skills
 * [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio): Showcasing my web dev skills with 3D magic, slick interactions, and cutting-edge design.
@@ -193,7 +193,7 @@
 * [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder): An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 * [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman): Stop AI agents from half-building features. Ship complete code in one session.
 * [microsoft/agent-framework](https://github.com/microsoft/agent-framework): A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
-* [buildermethods/agent-os](https://github.com/buildermethods/agent-os): Agent OS is a system for better planning and executing software development tasks with your AI agents.
+* [buildermethods/agent-os](https://github.com/buildermethods/agent-os): Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
 * [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol): Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 * [steipete/agent-rules](https://github.com/steipete/agent-rules): Rules and Knowledge to work better with agents such as Claude Code or Cursor
 * [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
@@ -941,7 +941,7 @@
 * [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 * [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb): :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
-* [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): 🍌 5000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+* [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): 🍌 6000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 * [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs): A curated list of awesome things related to NestJS 😎
 * [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis): A curated list of awesome network analysis resources.
 * [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation): Curated Awesome list about Network Automation
@@ -1452,7 +1452,7 @@
 * [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd): Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude Code, Codex, Cursor, Github Copilot, Gemini CLI and Windsurf. 
 * [ccache/ccache](https://github.com/ccache/ccache): ccache – a fast compiler cache
 * [krzemienski/ccb-ui](https://github.com/krzemienski/ccb-ui): None
-* [Li-vien/CcClip](https://github.com/Li-vien/CcClip): vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道
+* [VienLi/CcClip](https://github.com/VienLi/CcClip): vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道
 * [krzemienski/ccflare](https://github.com/krzemienski/ccflare): The ultimate CC proxy
 * [snipeship/ccflare](https://github.com/snipeship/ccflare): The ultimate CC proxy
 * [eckardt/cchistory](https://github.com/eckardt/cchistory): Like the shell history command but for your Claude Code sessions.
@@ -3297,6 +3297,7 @@
 * [ayush--s/gh_stars_export](https://github.com/ayush--s/gh_stars_export): Exports list of all your starred Github repos to a json file
 * [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost): Independent technology for modern publishing, memberships, subscriptions and newsletters.
+* [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty): 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * [eldarlabs/ghpages-deploy-script](https://github.com/eldarlabs/ghpages-deploy-script): Test and demo repo for a script to deploy ghpages on a successful CircleCI build
 * [jib1337/ghstars](https://github.com/jib1337/ghstars): Access starred Github repos quickly and easily
 * [kennethreitz/ghsync](https://github.com/kennethreitz/ghsync): Github Syncer. Clones or Pulls all GitHub repos (owned and watched).
@@ -3460,7 +3461,6 @@
 * [asticode/go-astits](https://github.com/asticode/go-astits): Demux and mux MPEG Transport Streams (.ts) natively in GO
 * [Harry-027/go-audio](https://github.com/Harry-027/go-audio): An offline solution to convert pdfs into audiobooks
 * [tcnksm/go-casper](https://github.com/tcnksm/go-casper): Cache aware server push (CASPer) in Golang
-* [zencoder/go-dash](https://github.com/zencoder/go-dash): A Go library for generating MPEG-DASH manifests.
 * [mcuadros/go-defaults](https://github.com/mcuadros/go-defaults): Go structures with default values using tags
 * [LinuxSuRen/go-ffmpeg](https://github.com/LinuxSuRen/go-ffmpeg): Audio convert by ffmpeg
 * [p4xx07/go-ffmpeg](https://github.com/p4xx07/go-ffmpeg): Docs
@@ -4156,6 +4156,7 @@
 * [realm/jazzy](https://github.com/realm/jazzy): Soulful docs for Swift & Objective-C
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
 * [openjdk/jdk](https://github.com/openjdk/jdk): JDK main-line development https://openjdk.org/projects/jdk
+* [jean-technologies/jean-memory](https://github.com/jean-technologies/jean-memory): next-generation AI memory infrastructure (powered by mem0 and graphiti)
 * [davidhalter/jedi](https://github.com/davidhalter/jedi): Awesome autocompletion, static analysis and refactoring library for python
 * [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server): A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 * [contentful/jekyll-contentful-data-import](https://github.com/contentful/jekyll-contentful-data-import): Contentful Plugin for the Jekyll Static Site Generator
@@ -4444,7 +4445,7 @@
 * [notanewbie/LegalStream](https://github.com/notanewbie/LegalStream): An m3u8 playlist featuring many LEGALLY FREE IPTV streams. For use with VLC.
 * [leixiaohua1020/leixiaohua1020.github.io](https://github.com/leixiaohua1020/leixiaohua1020.github.io): None
 * [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi): LeKiwi - Low-Cost Mobile Manipulator
-* [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy): 🐀 A link aggregator and forum for the fediverse
+* [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy): 🐀 A decentralised discussion platform for communities.
 * [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible): A docker deploy for ansible
 * [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui): The official web app for lemmy.
 * [NationalSecurityAgency/lemongraph](https://github.com/NationalSecurityAgency/lemongraph): Log-based transactional graph engine
@@ -4452,7 +4453,7 @@
 * [leon-ai/leon](https://github.com/leon-ai/leon): 🧠 Leon is your open-source personal assistant.
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
 * [huggingface/lerobot](https://github.com/huggingface/lerobot): 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-* [letta-ai/letta](https://github.com/letta-ai/letta): Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
+* [letta-ai/letta](https://github.com/letta-ai/letta): Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 * [jordicenzano/lhls-simple-live-platform](https://github.com/jordicenzano/lhls-simple-live-platform): Very simple low latency live platform prototype
 * [feder-cr/lib_resume_builder_AIHawk](https://github.com/feder-cr/lib_resume_builder_AIHawk): None
 * [libass/libass](https://github.com/libass/libass): libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
@@ -4602,7 +4603,7 @@
 * [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [mudler/LocalAGI](https://github.com/mudler/LocalAGI): LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
-* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 * [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend): None
 * [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 * [ghostwords/localore](https://github.com/ghostwords/localore): Wagtail-based CMS and Ansible playbooks for Localore: Finding America
@@ -4796,7 +4797,7 @@
 * [jserv/mazu-editor](https://github.com/jserv/mazu-editor): a minimalist text editor with syntax highlight, copy/paste, and search
 * [minio/mc](https://github.com/minio/mc): Unix like utilities for object store
 * [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template): This is the template I use to start new full-stack projects.
-* [awslabs/mcp](https://github.com/awslabs/mcp): AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
+* [awslabs/mcp](https://github.com/awslabs/mcp): Official AWS MCP Servers
 * [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp): A MCP server implementation for hyperbrowser
 * [semgrep/mcp](https://github.com/semgrep/mcp): A MCP server for using Semgrep to scan code for security vulnerabilities.
 * [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent): Build effective agents using Model Context Protocol and simple workflow patterns
@@ -5540,7 +5541,7 @@
 * [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs): A list of open source programs.
 * [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate): Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-* [HeroTools/open-whispr](https://github.com/HeroTools/open-whispr): Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
+* [HeroTools/open-whispr](https://github.com/HeroTools/open-whispr): Voice-to-text dictation app with local and cloud Whisper models. Privacy-first & cross-platform.
 * [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt): Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
 * [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
 * [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples): Example apps for the Apps SDK
@@ -5785,6 +5786,7 @@
 * [meshery/play](https://github.com/meshery/play): Cloud Native Playground for Kubernetes and all CNCF projects
 * [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker): You know it, you use it, now it's time to improve it. PWD!.
 * [mafintosh/playback](https://github.com/mafintosh/playback): Video player built using electron and node.js
+* [brightcove/playback_go-dash](https://github.com/brightcove/playback_go-dash): A Go library for generating MPEG-DASH manifests.
 * [moneytoo/Player](https://github.com/moneytoo/Player): ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 * [piemonte/Player](https://github.com/piemonte/Player): ▶️ Play and stream media in Swift
 * [pockethook/player](https://github.com/pockethook/player): FFmpeg and SDL2 video player
@@ -6098,6 +6100,7 @@
 * [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 * [rakam-io/rakam-api](https://github.com/rakam-io/rakam-api): 📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)
 * [rakam-io/rakam-ios](https://github.com/rakam-io/rakam-ios): None
+* [snarktank/ralph](https://github.com/snarktank/ralph): Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 * [krzemienski/ralph-orchestrator](https://github.com/krzemienski/ralph-orchestrator): An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 * [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator): An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 * [rancher/rancher](https://github.com/rancher/rancher): Complete container management platform
@@ -6388,7 +6391,7 @@
 * [rokucommunity/ropm](https://github.com/rokucommunity/ropm): A package manager for the Roku platform.
 * [dhoard/roStreamer](https://github.com/dhoard/roStreamer): Roku channel to stream media based from a standard HTTP server using a JSON feed
 * [threat9/routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
-* [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): Local-first, open-source tools for automating everyday work.
+* [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): Local-first AI coworker, with memory
 * [tgogos/rpi_ffmpeg](https://github.com/tgogos/rpi_ffmpeg): FFmpeg on Raspberry Pi 3 Model B with h264 support
 * [code-vicar/rpm](https://github.com/code-vicar/rpm): Roku package manager
 * [rq/rq](https://github.com/rq/rq): Simple job queues for Python
@@ -6496,7 +6499,7 @@
 * [jamland/samplescope](https://github.com/jamland/samplescope): Desktop app with the main goal to simplify audio samples search over the internet sources.
 * [influxdata/sandbox](https://github.com/influxdata/sandbox): A sandbox for the full TICK stack
 * [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2): Automatically generate a RESTful API service for your legacy database. No code required!
-* [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
+* [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 * [willowtreeapps/sango](https://github.com/willowtreeapps/sango): Tool for processing common constants and assets between projects. Example use case is between iOS and Android. Takes a source JSON and copies files, and outputs a Swift and Java file for use.
 * [gperdomor/sanitize](https://github.com/gperdomor/sanitize): Powerful model extraction from Vapor JSON requests
 * [louisdh/savanna](https://github.com/louisdh/savanna): A native iOS & macOS IDE for the Cub programming language
