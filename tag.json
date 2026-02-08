@@ -386,6 +386,9 @@
     "AnandChowdhary/continuous-claude": [
         "Other"
     ],
+    "Andrew-Jang/RAGHub": [
+        "Other"
+    ],
     "Andrews54757/FastStream": [
         "Other"
     ],
@@ -2975,6 +2978,9 @@
     "Kristories/awesome-guidelines": [
         "Other"
     ],
+    "KrystianJonca/lnai": [
+        "Other"
+    ],
     "Kthulu120/liquid-dl-chrome": [
         "Other"
     ],
@@ -3138,6 +3144,9 @@
         "Other"
     ],
     "LiveBench/LiveBench": [
+        "Other"
+    ],
+    "LiveContainer/LiveContainer": [
         "Other"
     ],
     "LiveUI/S3": [
@@ -3749,6 +3758,9 @@
     "OpenAdaptAI/OpenAdapt": [
         "Other"
     ],
+    "OpenBMB/ChatDev": [
+        "Other"
+    ],
     "OpenCSGs/csghub": [
         "Other"
     ],
@@ -3809,7 +3821,7 @@
     "Orange-OpenSource/hurl": [
         "Other"
     ],
-    "Orchestra-Research/AI-research-SKILLs": [
+    "Orchestra-Research/AI-Research-SKILLs": [
         "Other"
     ],
     "Otbivnoe/CodableAlamofire": [
@@ -5159,6 +5171,12 @@
     "VoltAgent/awesome-claude-code-subagents": [
         "Other"
     ],
+    "VoltAgent/awesome-openclaw-skills": [
+        "Other"
+    ],
+    "VoltAgent/voltagent": [
+        "Other"
+    ],
     "VoodooSMBus/VoodooRMI": [
         "Other"
     ],
@@ -5663,6 +5681,9 @@
     "ag2816/TorontoWalks": [
         "Other"
     ],
+    "ag2ai/ag2": [
+        "Other"
+    ],
     "agalwood/Motrix": [
         "Other"
     ],
@@ -6008,6 +6029,9 @@
     "alfred-workflows/awesome-alfred-workflows": [
         "Other"
     ],
+    "alfredolopez80/multi-agent-ralph-loop": [
+        "Other"
+    ],
     "algorithm-visualizer/algorithm-visualizer": [
         "Other"
     ],
@@ -6188,6 +6212,9 @@
     "amusi/AI-Job-Recommend": [
         "Other"
     ],
+    "amxv/mcp-manager": [
+        "Other"
+    ],
     "amzn/exoplayer-amazon-port": [
         "Other"
     ],
@@ -6279,6 +6306,9 @@
         "Other"
     ],
     "andsens/homeshick": [
+        "Other"
+    ],
+    "andyrewlee/awesome-agent-orchestrators": [
         "Other"
     ],
     "angelcam/rust-ac-ffmpeg": [
@@ -7226,6 +7256,9 @@
     "awsdocs/elastic-beanstalk-samples": [
         "Other"
     ],
+    "awslabs/agent-squad": [
+        "Other"
+    ],
     "awslabs/amazon-eks-ami": [
         "Other"
     ],
@@ -7568,6 +7601,9 @@
     "beromir/Servas": [
         "Other"
     ],
+    "better-auth/skills": [
+        "Other"
+    ],
     "better/jsonschema2db": [
         "Other"
     ],
@@ -7826,6 +7862,12 @@
     "borjapazr/mars-server": [
         "Other"
     ],
+    "bosun-ai/kwaak": [
+        "Other"
+    ],
+    "bosun-ai/swiftide": [
+        "Other"
+    ],
     "boto/boto3": [
         "Other"
     ],
@@ -7955,10 +7997,10 @@
     "browser-use/workflow-use": [
         "Other"
     ],
-    "browserbase/agent-browse": [
+    "browserbase/mcp-server-browserbase": [
         "Other"
     ],
-    "browserbase/mcp-server-browserbase": [
+    "browserbase/skills": [
         "Other"
     ],
     "browserbase/stagehand": [
@@ -9230,6 +9272,9 @@
     "danielrosehill/Claude-Code-Repos-Index": [
         "Other"
     ],
+    "danielrosehill/Claude-Ivory-PC-Builder": [
+        "Other"
+    ],
     "danielrosehill/Claude-OS-Sync-Agent": [
         "Other"
     ],
@@ -9288,6 +9333,9 @@
         "Other"
     ],
     "dariubs/GoBooks": [
+        "Other"
+    ],
+    "dariubs/awesome-workflow-automation": [
         "Other"
     ],
     "darknebular/Wrapper_VideoStation": [
@@ -9819,6 +9867,9 @@
         "Other"
     ],
     "dirkvdb/ffmpegthumbnailer": [
+        "Other"
+    ],
+    "disler/claude-code-hooks-mastery": [
         "Other"
     ],
     "disler/claude-code-hooks-multi-agent-observability": [
@@ -11507,6 +11558,9 @@
     "gaul/s3proxy": [
         "Other"
     ],
+    "gavrielc/nanoclaw": [
+        "Other"
+    ],
     "gb0x11/HLS-Blob-Video-Download": [
         "Other"
     ],
@@ -11694,6 +11748,9 @@
         "Other"
     ],
     "git-lfs/git-lfs": [
+        "Other"
+    ],
+    "git-men/agentstudio": [
         "Other"
     ],
     "gitanjal/ExoDemo": [
@@ -11913,6 +11970,9 @@
         "Other"
     ],
     "google-gemini/gemini-cli": [
+        "Other"
+    ],
+    "google-labs-code/stitch-skills": [
         "Other"
     ],
     "google-research-datasets/Objectron": [
@@ -13538,6 +13598,9 @@
     "jibsaram/gpd-pocket2-hackintosh": [
         "Other"
     ],
+    "jim-schwoebel/awesome_ai_agents": [
+        "Other"
+    ],
     "jimklimov/ngrok2-systemd": [
         "Other"
     ],
@@ -14558,9 +14621,6 @@
     "krzemienski/awesome-list-weaver": [
         "Other"
     ],
-    "krzemienski/awesome-site": [
-        "Other"
-    ],
     "krzemienski/awesome-starz": [
         "Other"
     ],
@@ -14969,6 +15029,9 @@
     "langchain-ai/open-canvas": [
         "Other"
     ],
+    "langflow-ai/langflow": [
+        "Other"
+    ],
     "langfordw/GPT-ffmpeg": [
         "Other"
     ],
@@ -15236,6 +15299,9 @@
     "lijian736/ffmpegutils": [
         "Other"
     ],
+    "likec4/likec4": [
+        "Other"
+    ],
     "liltom-eth/llama2-webui": [
         "Other"
     ],
@@ -15348,6 +15414,9 @@
         "Other"
     ],
     "liujingxing/rxhttp": [
+        "Other"
+    ],
+    "liuxiaopai-ai/ralph-desktop": [
         "Other"
     ],
     "liuyishengalan/ThinkPad-P52-Hackintosh": [
@@ -15989,6 +16058,9 @@
     "marysaka/ahv": [
         "Other"
     ],
+    "masoncl/review-prompts": [
+        "Other"
+    ],
     "massCodeIO/massCode": [
         "Other"
     ],
@@ -16412,7 +16484,13 @@
     "michaelkourlas/node-js2xmlparser": [
         "Other"
     ],
+    "michaelshimeles/ralphy": [
+        "Other"
+    ],
     "michaelversus/insomnia-plugin-codegen": [
+        "Other"
+    ],
+    "michaelzixizhou/codag": [
         "Other"
     ],
     "michal-michalak/awesome-django-projects": [
@@ -16610,6 +16688,9 @@
     "mikeyobrien/ralph-orchestrator": [
         "Other"
     ],
+    "mikeyobrien/rho": [
+        "Other"
+    ],
     "mikonvergence/DiffusionFastForward": [
         "Other"
     ],
@@ -16701,6 +16782,9 @@
         "Other"
     ],
     "mixxxdj/mixxx": [
+        "Other"
+    ],
+    "mj-meyer/choo-choo-ralph": [
         "Other"
     ],
     "mjakeman/extension-manager": [
@@ -17156,6 +17240,9 @@
     "mvallim/live-custom-ubuntu-from-scratch": [
         "Other"
     ],
+    "mvanhorn/last30days-skill": [
+        "Other"
+    ],
     "mwyborski/Linux-Magic-Trackpad-2-Driver": [
         "Other"
     ],
@@ -17331,6 +17418,9 @@
         "Other"
     ],
     "neonbjb/tortoise-tts": [
+        "Other"
+    ],
+    "neondatabase/agent-skills": [
         "Other"
     ],
     "neosapience/web-skeleton": [
@@ -17945,6 +18035,9 @@
     "oguzhaninan/sshcon": [
         "Other"
     ],
+    "ohare93/juggle": [
+        "Other"
+    ],
     "ohmyzsh/ohmyzsh": [
         "Other"
     ],
@@ -18093,6 +18186,9 @@
         "Other"
     ],
     "open-mmlab/PIA": [
+        "Other"
+    ],
+    "open-telemetry/opentelemetry-collector-contrib": [
         "Other"
     ],
     "open-webui/open-webui": [
@@ -18504,6 +18600,9 @@
         "Other"
     ],
     "parcadei/Continuous-Claude-v3": [
+        "Other"
+    ],
+    "parcadei/llm-tldr": [
         "Other"
     ],
     "parski/SnapshotTest": [
@@ -19005,6 +19104,9 @@
         "Other"
     ],
     "postmanlabs/swagger2-postman2": [
+        "Other"
+    ],
+    "potpie-ai/potpie": [
         "Other"
     ],
     "potproject/code-agent": [
@@ -21173,6 +21275,9 @@
     "snsinfu/reverse-tunnel": [
         "Other"
     ],
+    "snwfdhmp/awesome-ralph": [
+        "Other"
+    ],
     "snwh/fedora-post-install": [
         "Other"
     ],
@@ -22913,6 +23018,9 @@
     "typhoeus/typhoeus": [
         "Other"
     ],
+    "tzachbon/smart-ralph": [
+        "Other"
+    ],
     "u2takey/ffmpeg-go": [
         "Other"
     ],
@@ -22989,6 +23097,9 @@
         "Other"
     ],
     "ultravideo/kvazaar": [
+        "Other"
+    ],
+    "umputun/ralphex": [
         "Other"
     ],
     "umutphp/awesome-cli": [
@@ -23186,6 +23297,9 @@
     "vasusen-code/VIDEOconvertor": [
         "Other"
     ],
+    "vavasilva/ralph-planner": [
+        "Other"
+    ],
     "vbence/stream-m": [
         "Other"
     ],
@@ -23232,6 +23346,9 @@
         "Other"
     ],
     "vercel-labs/agent-skills": [
+        "Other"
+    ],
+    "vercel-labs/ralph-loop-agent": [
         "Other"
     ],
     "vercel/ai": [
@@ -24741,9 +24858,6 @@
         "Other"
     ],
     "zudochkin/awesome-newsletters": [
-        "Other"
-    ],
-    "zueai/mcp-manager": [
         "Other"
     ],
     "zufardhiyaulhaq/ngrok-operator": [
