@@ -854,6 +854,9 @@
     "ChrisMash/AVPlayer-SwiftUI": [
         "Other"
     ],
+    "ChrisWiles/claude-code-showcase": [
+        "Other"
+    ],
     "ChristosChristofidis/awesome-deep-learning": [
         "Other"
     ],
@@ -1320,6 +1323,9 @@
         "Other"
     ],
     "DhruvParikh1/files-to-llm-prompt": [
+        "Other"
+    ],
+    "Dicklesworthstone/beads_rust": [
         "Other"
     ],
     "Dicklesworthstone/claude_code_agent_farm": [
@@ -4343,6 +4349,9 @@
     "Rudrabha/Wav2Lip": [
         "Other"
     ],
+    "RunMaestro/Maestro": [
+        "Other"
+    ],
     "RunaCapital/awesome-oss-alternatives": [
         "Other"
     ],
@@ -4934,7 +4943,7 @@
     "TheCodeTraveler/GitTrends": [
         "Other"
     ],
-    "TheGreatMcPain/python-media-scripts": [
+    "TheGreatMcPain/McPainMKV": [
         "Other"
     ],
     "TheJambo/awesome-testing": [
@@ -5346,6 +5355,9 @@
         "Other"
     ],
     "YunoHost/yunohost": [
+        "Other"
+    ],
+    "Yuyz0112/claude-code-reverse": [
         "Other"
     ],
     "Z4nzu/hackingtool": [
@@ -6845,7 +6857,7 @@
     "arnaldo-delisio/claude-code-studio": [
         "Other"
     ],
-    "arpitnath/super-claude-kit": [
+    "arpitnath/claude-capsule-kit": [
         "Other"
     ],
     "arsenyinfo/claude-code-logger": [
@@ -8151,9 +8163,6 @@
         "Other"
     ],
     "cameroncooke/AXe": [
-        "Other"
-    ],
-    "cameroncooke/XcodeBuildMCP": [
         "Other"
     ],
     "campfirein/cipher": [
@@ -11558,9 +11567,6 @@
     "gaul/s3proxy": [
         "Other"
     ],
-    "gavrielc/nanoclaw": [
-        "Other"
-    ],
     "gb0x11/HLS-Blob-Video-Download": [
         "Other"
     ],
@@ -11643,6 +11649,9 @@
         "Other"
     ],
     "getpelican/pelican": [
+        "Other"
+    ],
+    "getsentry/XcodeBuildMCP": [
         "Other"
     ],
     "getsentry/sentry-cocoa": [
@@ -13652,7 +13661,7 @@
     "jlowin/fastmcp": [
         "Other"
     ],
-    "jmagly/ai-writing-guide": [
+    "jmagly/aiwg": [
         "Other"
     ],
     "jmcantrell/bashful": [
@@ -14588,6 +14597,9 @@
     "krydos/todoist-linux": [
         "Other"
     ],
+    "krzemienski/ClaudeCodeSDK": [
+        "Other"
+    ],
     "krzemienski/CodeAgentsMobile": [
         "Other"
     ],
@@ -14595,6 +14607,9 @@
         "Other"
     ],
     "krzemienski/Download_soundcloud": [
+        "Other"
+    ],
+    "krzemienski/ai-digest": [
         "Other"
     ],
     "krzemienski/alm": [
@@ -14709,6 +14724,9 @@
         "Other"
     ],
     "krzemienski/github-notion-star": [
+        "Other"
+    ],
+    "krzemienski/ils-ios": [
         "Other"
     ],
     "krzemienski/inlets-traefik-docker": [
@@ -15612,9 +15630,6 @@
         "Other"
     ],
     "lucide-icons/lucide": [
-        "Other"
-    ],
-    "lucidrains/soundstorm-pytorch": [
         "Other"
     ],
     "luckymarmot/API-Flow": [
@@ -18698,9 +18713,6 @@
     "peco/peco": [
         "Other"
     ],
-    "pedramamini/Maestro": [
-        "Other"
-    ],
     "pedroSG94/RootEncoder-iOS": [
         "Other"
     ],
@@ -19449,6 +19461,9 @@
         "Other"
     ],
     "quodlibet/mutagen": [
+        "Other"
+    ],
+    "qwibitai/nanoclaw": [
         "Other"
     ],
     "qwinff/qwinff": [
@@ -20211,9 +20226,6 @@
         "Other"
     ],
     "rupakg/ffmpeg-video-thumb": [
-        "Other"
-    ],
-    "rursache/vscode-swift-linuxserver-mod": [
         "Other"
     ],
     "rust-av/Av1an": [
@@ -24260,6 +24272,12 @@
     "xbrowsersync/app": [
         "Other"
     ],
+    "xbstory/XstreamDL-CLI": [
+        "Other"
+    ],
+    "xbstory/dash-subtitle-extractor": [
+        "Other"
+    ],
     "xcodian/youtube-dl-web": [
         "Other"
     ],
@@ -24279,12 +24297,6 @@
         "Other"
     ],
     "xgrommx/awesome-redux": [
-        "Other"
-    ],
-    "xhlove/XstreamDL-CLI": [
-        "Other"
-    ],
-    "xhlove/dash-subtitle-extractor": [
         "Other"
     ],
     "xi-editor/xi-mac": [
