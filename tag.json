@@ -263,6 +263,9 @@
     "Agenric/VSCode-CocoaPods-Snippets": [
         "Other"
     ],
+    "Agent-Field/agentfield": [
+        "Other"
+    ],
     "Agent-RL/ReCall": [
         "Other"
     ],
@@ -282,6 +285,9 @@
         "Other"
     ],
     "AgoraIO/Advanced-Interactive-Broadcasting": [
+        "Other"
+    ],
+    "Agravak/opaal": [
         "Other"
     ],
     "AgustinSRG/PersonalMediaVault": [
@@ -585,6 +591,9 @@
         "Other"
     ],
     "Bash-it/bash-it": [
+        "Other"
+    ],
+    "BayramAnnakov/claude-reflect": [
         "Other"
     ],
     "BeboKhouja/ADB-GUI": [
@@ -2681,6 +2690,9 @@
     "JeffWang987/WorldDreamer": [
         "Other"
     ],
+    "Jeffallan/claude-skills": [
+        "Other"
+    ],
     "JeredBlu/custom-instructions": [
         "Other"
     ],
@@ -2898,6 +2910,9 @@
         "Other"
     ],
     "Keycapsss/awesome-mechanical-keyboard": [
+        "Other"
+    ],
+    "KeygraphHQ/shannon": [
         "Other"
     ],
     "KhaosT/MacVM": [
@@ -3530,6 +3545,9 @@
     "NVIDIA/open-gpu-kernel-modules": [
         "Other"
     ],
+    "NVIDIA/personaplex": [
+        "Other"
+    ],
     "NVIDIA/proxyfs": [
         "Other"
     ],
@@ -4032,6 +4050,9 @@
         "Other"
     ],
     "Prat011/awesome-llm-skills": [
+        "Other"
+    ],
+    "PrefectHQ/fastmcp": [
         "Other"
     ],
     "PrefectHQ/marvin": [
@@ -5192,6 +5213,9 @@
     "VoodooSMBus/VoodooSMBus": [
         "Other"
     ],
+    "Vrun-design/openflowkit": [
+        "Other"
+    ],
     "Vyshnav2255/Notion-Icons-2.0": [
         "Other"
     ],
@@ -5609,7 +5633,7 @@
     "ade21/awsome-dns": [
         "Other"
     ],
-    "adenhq/hive": [
+    "aden-hive/hive": [
         "Other"
     ],
     "adghayes/serverless-ffmpeg": [
@@ -6935,6 +6959,9 @@
     "asciinema/asciinema": [
         "Other"
     ],
+    "asg017/sqlite-vec": [
+        "Other"
+    ],
     "asgeirtj/system_prompts_leaks": [
         "Other"
     ],
@@ -8150,6 +8177,9 @@
     "cak/awesome-server-side-swift": [
         "Other"
     ],
+    "callstackincubator/agent-device": [
+        "Other"
+    ],
     "callumlocke/json-formatter": [
         "Other"
     ],
@@ -8157,6 +8187,9 @@
         "Other"
     ],
     "calzoneman/sync": [
+        "Other"
+    ],
+    "camel-ai/camel": [
         "Other"
     ],
     "cameramanben/LUTCalc": [
@@ -9267,6 +9300,9 @@
         "Other"
     ],
     "danielmiessler/Fabric": [
+        "Other"
+    ],
+    "danielmiessler/Personal_AI_Infrastructure": [
         "Other"
     ],
     "danielmiessler/SecLists": [
@@ -10925,6 +10961,9 @@
     "f/prompts.chat-mcp": [
         "Other"
     ],
+    "f/textream": [
+        "Other"
+    ],
     "f11894/video_benchmark": [
         "Other"
     ],
@@ -11792,6 +11831,9 @@
     "github/gh-actions-importer": [
         "Other"
     ],
+    "github/gh-aw": [
+        "Other"
+    ],
     "github/github-mcp-server": [
         "Other"
     ],
@@ -12173,9 +12215,6 @@
     "grangier/python-goose": [
         "Other"
     ],
-    "grapelike-class151/cursor-skills": [
-        "Other"
-    ],
     "graphql-editor/graphql-editor": [
         "Other"
     ],
@@ -12231,6 +12270,9 @@
         "Other"
     ],
     "gsantiago/subtitle.js": [
+        "Other"
+    ],
+    "gsd-build/get-shit-done": [
         "Other"
     ],
     "gsingers/slack-jira-plugin": [
@@ -12363,6 +12405,9 @@
         "Other"
     ],
     "haotian-liu/LLaVA": [
+        "Other"
+    ],
+    "happycapy-ai/Happycapy-skills": [
         "Other"
     ],
     "happyfish100/fastdfs": [
@@ -13658,9 +13703,6 @@
     "jliljebl/flowblade": [
         "Other"
     ],
-    "jlowin/fastmcp": [
-        "Other"
-    ],
     "jmagly/aiwg": [
         "Other"
     ],
@@ -13755,6 +13797,9 @@
         "Other"
     ],
     "johnno1962/injectionforxcode": [
+        "Other"
+    ],
+    "johnrogers/claude-swift-engineering": [
         "Other"
     ],
     "joho/awesome-code-review": [
@@ -15065,6 +15110,12 @@
     "langhuihui/monibuca": [
         "Other"
     ],
+    "langroid/langroid": [
+        "Other"
+    ],
+    "langroid/langroid-examples": [
+        "Other"
+    ],
     "lapce/lapce": [
         "Other"
     ],
@@ -16146,6 +16197,9 @@
         "Other"
     ],
     "matt-42/vpp": [
+        "Other"
+    ],
+    "matt1398/claude-devtools": [
         "Other"
     ],
     "mattddowney/gogs-bash": [
@@ -17975,6 +18029,9 @@
     "obra/claude-memory-extractor": [
         "Other"
     ],
+    "obra/claude-session-driver": [
+        "Other"
+    ],
     "obra/dotfiles": [
         "Other"
     ],
@@ -18526,6 +18583,9 @@
     ],
     "p-e-w/argos": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "p-e-w/heretic": [
+        "Other"
     ],
     "p0deje/Maccy": [
         "Other"
@@ -19628,6 +19688,9 @@
     "rastasheep/ubuntu-sshd": [
         "Other"
     ],
+    "ratatui/ratatui": [
+        "Other"
+    ],
     "rathole-org/rathole": [
         "Other"
     ],
@@ -19941,6 +20004,9 @@
         "Other"
     ],
     "robinp7720/Oblecto": [
+        "Other"
+    ],
+    "roboflow/trackers": [
         "Other"
     ],
     "robohorse/RoboPOJOGenerator": [
@@ -20270,6 +20336,9 @@
     "ruvnet/claude-flow": [
         "Other"
     ],
+    "ruvnet/wifi-densepose": [
+        "Other"
+    ],
     "ruzickap/k8s-harbor": [
         "Other"
     ],
@@ -20406,6 +20475,9 @@
         "Other"
     ],
     "samwize/wwdc-dl": [
+        "Other"
+    ],
+    "samyakgoyal/claude-code-from-phone": [
         "Other"
     ],
     "sanathb/go-HLS": [
@@ -21755,6 +21827,9 @@
     "stockmind/gpd-pocket-ubuntu-respin": [
         "Other"
     ],
+    "stonerl/Thaw": [
+        "Other"
+    ],
     "stoplightio/api-spec-converter": [
         "Other"
     ],
@@ -22188,6 +22263,9 @@
         "Other"
     ],
     "tamara-schmitz/ffmpeg-docker-container": [
+        "Other"
+    ],
+    "tambo-ai/tambo": [
         "Other"
     ],
     "tanersener/ffmpeg-video-slideshow-scripts": [
@@ -23366,13 +23444,13 @@
     "vercel/ai": [
         "Other"
     ],
-    "vercel/ai-chatbot": [
-        "Other"
-    ],
     "vercel/hyper": [
         "Other"
     ],
     "vercel/next-devtools-mcp": [
+        "Other"
+    ],
+    "vercel/openchat": [
         "Other"
     ],
     "vercel/streamdown": [
