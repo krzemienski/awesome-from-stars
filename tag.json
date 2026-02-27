@@ -74,7 +74,7 @@
     "3052/luna": [
         "Other"
     ],
-    "3052/media": [
+    "3052/rosso": [
         "Other"
     ],
     "37MobileTeam/iChatGPT": [
@@ -888,9 +888,6 @@
         "Other"
     ],
     "CircleCI-Public/circleci-demo-docker": [
-        "Other"
-    ],
-    "ClavixDev/Awesome-Vibecoding-Guide": [
         "Other"
     ],
     "Clean-Swift/CleanStore": [
@@ -3122,9 +3119,6 @@
     "LeoMobileDeveloper/ios-developer-tools": [
         "Other"
     ],
-    "LeonardoCardoso/SwiftLinkPreview": [
-        "Other"
-    ],
     "LetsUpgrade/Python-Essentials": [
         "Other"
     ],
@@ -4260,9 +4254,6 @@
         "Other"
     ],
     "ReactiveX/RxSwift": [
-        "Other"
-    ],
-    "Real-AI-Engineering/context-planning-system": [
         "Other"
     ],
     "RealChuan/Qt-Media": [
@@ -8399,9 +8390,6 @@
     "cevr/hyper-mayukai": [
         "Other"
     ],
-    "cexll/myclaude": [
-        "Other"
-    ],
     "cfour-hi/gitstars": [
         "Other"
     ],
@@ -8862,6 +8850,9 @@
         "Other"
     ],
     "cokaholic/TKParallaxScrollView": [
+        "Other"
+    ],
+    "coleam00/link-in-bio-page-builder": [
         "Other"
     ],
     "coleam00/mcp-mem0": [
@@ -12578,6 +12569,9 @@
     "hesreallyhim/awesome-claude-code": [
         "Other"
     ],
+    "heurema/context-planning-system": [
+        "Other"
+    ],
     "hhhrrrttt222111/developer-portfolio": [
         "Other"
     ],
@@ -15260,6 +15254,9 @@
     "leon-ai/leon": [
         "Other"
     ],
+    "leonardocardoso/SwiftLinkPreview": [
+        "Other"
+    ],
     "leoncvlt/loconotion": [
         "Other"
     ],
@@ -15609,6 +15606,9 @@
         "Other"
     ],
     "lopho/sd-video": [
+        "Other"
+    ],
+    "loppety/Awesome-Vibecoding-Guide": [
         "Other"
     ],
     "lorey/github-stars-by-topic": [
@@ -16265,7 +16265,7 @@
     "maxep/MXParallaxHeader": [
         "Other"
     ],
-    "maxritter/claude-pilot": [
+    "maxritter/pilot-shell": [
         "Other"
     ],
     "maxutility2011/ezLiveStreaming": [
@@ -21767,6 +21767,9 @@
     "steipete/claude-code-mcp": [
         "Other"
     ],
+    "stellarlinkco/myclaude": [
+        "Other"
+    ],
     "stephan-gh/hlsdump": [
         "Other"
     ],
@@ -23444,13 +23447,13 @@
     "vercel/ai": [
         "Other"
     ],
+    "vercel/chatbot": [
+        "Other"
+    ],
     "vercel/hyper": [
         "Other"
     ],
     "vercel/next-devtools-mcp": [
-        "Other"
-    ],
-    "vercel/openchat": [
         "Other"
     ],
     "vercel/streamdown": [
