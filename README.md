@@ -225,7 +225,7 @@
 * [wshobson/agents](https://github.com/wshobson/agents): Intelligent automation and multi-agent orchestration for Claude Code
 * [agentskills/agentskills](https://github.com/agentskills/agentskills): Specification and documentation for Agent Skills
 * [git-men/agentstudio](https://github.com/git-men/agentstudio): A sophisticated AI-powered workspace built on top of Claude Code SDK
-* [agno-agi/agno](https://github.com/agno-agi/agno): The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
+* [agno-agi/agno](https://github.com/agno-agi/agno): Build, run, and manage agentic software at scale.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills): Homebrew for AI Agent Skills.
@@ -7476,7 +7476,7 @@
 * [watson-developer-cloud/text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs): This is a deprecated Watson Text to Speech Service Demo. A link to the newly supported demo is below
 * [cuinjune/text2video](https://github.com/cuinjune/text2video): A software tool that converts text to video for more engaging learning experience
 * [louisdh/textor](https://github.com/louisdh/textor): A plain text editor for iOS
-* [f/textream](https://github.com/f/textream): Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
+* [f/textream](https://github.com/f/textream): Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
 * [ianzhao/textshot](https://github.com/ianzhao/textshot): Python tool for grabbing text via screenshot
 * [TextureGroup/Texture](https://github.com/TextureGroup/Texture): Smooth asynchronous user interfaces for iOS apps.
 * [lmoroney/tfbook](https://github.com/lmoroney/tfbook): None
