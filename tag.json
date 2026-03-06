@@ -98,6 +98,9 @@
     "3xploitGuy/lazyaircrack": [
         "Other"
     ],
+    "4gray/iptvnator": [
+        "Other"
+    ],
     "500px/greedo-layout-for-ios": [
         "Other"
     ],
@@ -383,10 +386,16 @@
     "AlvianPrasetya/transcoding": [
         "Other"
     ],
+    "AmberSahdev/Open-Interface": [
+        "Other"
+    ],
     "Amplitude-Developer-Docs/amplitude-dev-center": [
         "Other"
     ],
     "AmrHendy/programming-language-translator": [
+        "Other"
+    ],
+    "Anagraphy/roampage": [
         "Other"
     ],
     "AnandChowdhary/continuous-claude": [
@@ -675,6 +684,9 @@
         "Other"
     ],
     "Boris-Em/BEMSimpleLineGraph": [
+        "Other"
+    ],
+    "BoundaryML/baml": [
         "Other"
     ],
     "BradHeff/ffmpeg-GUI": [
@@ -1133,6 +1145,9 @@
     "CyberShadow/aconfmgr": [
         "Other"
     ],
+    "D4Vinci/Scrapling": [
+        "Other"
+    ],
     "DDVTECH/mistserver": [
         "Other"
     ],
@@ -1361,6 +1376,9 @@
     "DimaRU/Shout": [
         "Other"
     ],
+    "Dimillian/Skills": [
+        "Other"
+    ],
     "Dimillian/SwiftHN": [
         "Other"
     ],
@@ -1551,6 +1569,9 @@
         "Other"
     ],
     "ErlichLiu/DeepClaude": [
+        "Other"
+    ],
+    "Eronred/aso-skills": [
         "Other"
     ],
     "ErsatzTV/ErsatzTV": [
@@ -3119,6 +3140,9 @@
     "LeoMobileDeveloper/ios-developer-tools": [
         "Other"
     ],
+    "Leonxlnx/taste-skill": [
+        "Other"
+    ],
     "LetsUpgrade/Python-Essentials": [
         "Other"
     ],
@@ -3192,6 +3216,9 @@
         "Other"
     ],
     "LucyBot-Inc/api-spec-converter": [
+        "Other"
+    ],
+    "Lungshot/dashma": [
         "Other"
     ],
     "Ly0n/awesome-robotic-tooling": [
@@ -3372,6 +3399,9 @@
         "Other"
     ],
     "MengTo/Spring": [
+        "Other"
+    ],
+    "Menghuan1918/drawio2go": [
         "Other"
     ],
     "MerkulovDaniil/notion4ever": [
@@ -3645,6 +3675,9 @@
         "Other"
     ],
     "NiciDieNase/chaosflix": [
+        "Other"
+    ],
+    "NickCrew/claude-cortex": [
         "Other"
     ],
     "NielsRogge/Transformers-Tutorials": [
@@ -3990,6 +4023,9 @@
         "Other"
     ],
     "PicoMLX/PicoMLXServer": [
+        "Other"
+    ],
+    "Piebald-AI/claude-code-system-prompts": [
         "Other"
     ],
     "Piebald-AI/tweakcc": [
@@ -6398,6 +6434,9 @@
     "antfu/skills": [
         "Other"
     ],
+    "anthropics/anthropic-cli": [
+        "Other"
+    ],
     "anthropics/anthropic-sdk-python": [
         "Other"
     ],
@@ -6435,6 +6474,9 @@
         "Other"
     ],
     "anthropics/prompt-eng-interactive-tutorial": [
+        "Other"
+    ],
+    "anthropics/riv2025-long-horizon-coding-agent-demo": [
         "Other"
     ],
     "anthropics/skills": [
@@ -7835,6 +7877,9 @@
     "bmad-code-org/BMAD-METHOD": [
         "Other"
     ],
+    "bmad-code-org/bmad-builder": [
+        "Other"
+    ],
     "bmaltais/kohya_ss": [
         "Other"
     ],
@@ -8130,6 +8175,9 @@
         "Other"
     ],
     "bytedance/UI-TARS-desktop": [
+        "Other"
+    ],
+    "bytedance/deer-flow": [
         "Other"
     ],
     "bytedance/xgplayer": [
@@ -8705,6 +8753,9 @@
     "cloudec/udpproxy": [
         "Other"
     ],
+    "cloudflare/agents": [
+        "Other"
+    ],
     "cloudflare/cloudflared": [
         "Other"
     ],
@@ -8892,9 +8943,6 @@
         "Other"
     ],
     "condemane/cookiecutter-airflow-ha": [
-        "Other"
-    ],
-    "conduit8/conduit8": [
         "Other"
     ],
     "confident-ai/deepeval": [
@@ -11258,6 +11306,9 @@
     "fifonik/FFMetrics": [
         "Other"
     ],
+    "figsoda/drowse": [
+        "Other"
+    ],
     "fikovnik/ShiftIt": [
         "Other"
     ],
@@ -12407,6 +12458,9 @@
     "happyleavesaoc/python-firetv": [
         "Other"
     ],
+    "harbor-framework/harbor": [
+        "Other"
+    ],
     "harbur/kubernetic": [
         "Other"
     ],
@@ -13050,6 +13104,9 @@
         "Other"
     ],
     "industriousonesoft/SwiftCodec": [
+        "Other"
+    ],
+    "inference-sh/skills": [
         "Other"
     ],
     "inferred/FreeBuilder": [
@@ -14525,6 +14582,9 @@
     "koalalorenzo/python-digitalocean": [
         "Other"
     ],
+    "kochetkov-ma/claude-brewcode": [
+        "Other"
+    ],
     "kodecocodes/objective-c-style-guide": [
         "Other"
     ],
@@ -15092,6 +15152,9 @@
     "langfordw/GPT-ffmpeg": [
         "Other"
     ],
+    "langfuse/langfuse": [
+        "Other"
+    ],
     "langgenius/dify": [
         "Other"
     ],
@@ -15584,7 +15647,7 @@
     "lockys/AwesomeSearch": [
         "Other"
     ],
-    "lockys/AwesomeSearch2021": [
+    "lockys/AwesomeSearch2": [
         "Other"
     ],
     "locustio/locust": [
@@ -16122,6 +16185,9 @@
         "Other"
     ],
     "marysaka/ahv": [
+        "Other"
+    ],
+    "maslennikov-ig/claude-code-orchestrator-kit": [
         "Other"
     ],
     "masoncl/review-prompts": [
@@ -17595,6 +17661,9 @@
         "Other"
     ],
     "nguyenalison/ConvergeMediaRokuChannel": [
+        "Other"
+    ],
+    "nguyenphutrong/quotio": [
         "Other"
     ],
     "nhivp/Awesome-Embedded": [
@@ -19562,6 +19631,9 @@
     "rac-sri/Livepeer-Video-Streaming": [
         "Other"
     ],
+    "rackandhost/getmando": [
+        "Other"
+    ],
     "radek-senfeld/ffvideo": [
         "Other"
     ],
@@ -19835,6 +19907,9 @@
     "ref-tools/ref-tools-mcp": [
         "Other"
     ],
+    "refact0r/re-start": [
+        "Other"
+    ],
     "regexident/Gestalt": [
         "Other"
     ],
@@ -20012,6 +20087,9 @@
     "robohorse/RoboPOJOGenerator": [
         "Other"
     ],
+    "robotdad/amplifier-app-blog-creator": [
+        "Other"
+    ],
     "robotframework/robotframework": [
         "Other"
     ],
@@ -20183,6 +20261,9 @@
     "rounce/nginx-hls-module": [
         "Other"
     ],
+    "router-for-me/CLIProxyAPIPlus": [
+        "Other"
+    ],
     "rovo89/XposedBridge": [
         "Other"
     ],
@@ -20333,10 +20414,13 @@
     "rustdesk/rustdesk": [
         "Other"
     ],
-    "ruvnet/claude-flow": [
+    "ruvnet/RuView": [
         "Other"
     ],
-    "ruvnet/wifi-densepose": [
+    "ruvnet/ruflo": [
+        "Other"
+    ],
+    "ruvnet/ruvector": [
         "Other"
     ],
     "ruzickap/k8s-harbor": [
@@ -20510,6 +20594,9 @@
     "santiagoprodanoff/K8s-Django-Celery": [
         "Other"
     ],
+    "sanyaade-teachings/drawio2go": [
+        "Other"
+    ],
     "saoudrizwan/Disk": [
         "Other"
     ],
@@ -20520,9 +20607,6 @@
         "Other"
     ],
     "sarugaku/shellingham": [
-        "Other"
-    ],
-    "sarwarbeing-ai/Agentic_Design_Patterns": [
         "Other"
     ],
     "sashabaranov/go-openai": [
@@ -20993,6 +21077,9 @@
     "sickcodes/osx-optimizer": [
         "Other"
     ],
+    "sickn33/antigravity-awesome-skills": [
+        "Other"
+    ],
     "sigoden/aichat": [
         "Other"
     ],
@@ -21234,6 +21321,9 @@
         "Other"
     ],
     "slc14211421/MyTranscoder": [
+        "Other"
+    ],
+    "sleekdotdesign/agent-skills": [
         "Other"
     ],
     "slhck/bufferer": [
@@ -22148,6 +22238,9 @@
     "swiftlens/swiftlens": [
         "Other"
     ],
+    "swindex/Leet-Container-Dashboard": [
+        "Other"
+    ],
     "swisspol/GCDWebServer": [
         "Other"
     ],
@@ -22179,9 +22272,6 @@
         "Other"
     ],
     "synesthesiam/opentts": [
-        "Other"
-    ],
-    "synox/youtube-dl-interactive": [
         "Other"
     ],
     "sysgears/apollo-universal-starter-kit": [
@@ -22322,6 +22412,9 @@
     "tastelessjolt/youtube-dl-android": [
         "Other"
     ],
+    "tattn/LocalLLMClient": [
+        "Other"
+    ],
     "tauri-apps/awesome-tauri": [
         "Other"
     ],
@@ -22401,6 +22494,9 @@
         "Other"
     ],
     "telepresenceio/telepresence": [
+        "Other"
+    ],
+    "temporalio/sdk-core": [
         "Other"
     ],
     "tensorchord/Awesome-LLMOps": [
@@ -22812,9 +22908,6 @@
         "Other"
     ],
     "tonydeng/fmj": [
-        "Other"
-    ],
-    "tonysurfly/awesome-claude": [
         "Other"
     ],
     "tonywangcn/docker-cluster-with-celery-and-rabbitmq": [
@@ -23280,6 +23373,9 @@
         "Other"
     ],
     "usememos/memos": [
+        "Other"
+    ],
+    "usenotra/notra": [
         "Other"
     ],
     "usmannasir/cyberpanel": [
@@ -24018,6 +24114,9 @@
         "Other"
     ],
     "webclipper/web-clipper": [
+        "Other"
+    ],
+    "webfuse-com/awesome-claude": [
         "Other"
     ],
     "webhacking/url-metadata-parser": [
@@ -24792,6 +24891,9 @@
         "Other"
     ],
     "zernonia/vista": [
+        "Other"
+    ],
+    "zeroclaw-labs/zeroclaw": [
         "Other"
     ],
     "zeroepoch/plotbitrate": [
