@@ -215,7 +215,7 @@
 * [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems): 🐔 Agentic systems explained with chickens. Workflows, agents & orchestration made simple. Mermaid diagrams included
 * [shinpr/agentic-code](https://github.com/shinpr/agentic-code): Agentic coding framework powered by AGENTS.md — systematic, test-first workflows with quality gates for Cursor, Codex, Gemini CLI, and AI coding agents.
 * [yzyydev/agentic-coding-structure](https://github.com/yzyydev/agentic-coding-structure): A modern project scaffold for AI-assisted development workflows—providing reusable Claude Code commands (.claude/commands/), structured AI documentation (ai_docs/), and standardized feature specifications (specs/) to streamline collaboration with Claude Code and OpenAI Codex.
-* [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine): 🧠 Make your agents learn from experience.                  
+* [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine): 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai 
 * [Qredence/agentic-fleet](https://github.com/Qredence/agentic-fleet): Adaptive Agentic AI Reasoning using Microsoft Agent Framework -- Join the Discord for suggestion or support !  https://discord.gg/ebgy7gtZHK
 * [SafeRL-Lab/agentic-web](https://github.com/SafeRL-Lab/agentic-web): Agentic Web: Weaving the Next Web with AI Agents.
 * [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
@@ -229,7 +229,7 @@
 * [agno-agi/agno](https://github.com/agno-agi/agno): Build, run, manage agentic software at scale.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
-* [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills): Homebrew for AI Agent Skills.
+* [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills): Homebrew for AI Agent Skills.
 * [BB31420/AI-Auto-Video-Generator](https://github.com/BB31420/AI-Auto-Video-Generator): An AI-powered storytelling video generator that takes user input as a story prompt, generates a story using OpenAI's GPT-3, creates images using OpenAI's DALL-E, adds voiceover using ElevenLabs API, and combines the elements into a video.
 * [gitbito/AI-Automation](https://github.com/gitbito/AI-Automation): Intelligent AI automation examples using Bito CLI and tools
 * [Abhii-07/AI-Code-Converter](https://github.com/Abhii-07/AI-Code-Converter): This web application allows you to convert code from one programming language to another using the ChatGPT API. It also provides code debugging and code quality checking features.
@@ -414,6 +414,7 @@
 * [Alterplay/APAddressBook](https://github.com/Alterplay/APAddressBook): Easy access to iOS address book
 * [JeanLebrument/APContact-EasyMapping](https://github.com/JeanLebrument/APContact-EasyMapping): Category to easily map APContact model with EasyMapping
 * [weavel-ai/Ape](https://github.com/weavel-ai/Ape): Your first AI prompt engineer
+* [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant): Autonomous multi-session AI coding
 * [wulkano/aperture-node](https://github.com/wulkano/aperture-node): Record the screen on macOS from Node.js
 * [win0err/aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme): A minimalistic terminal theme (prompt) for sexy terminals that works in bash, fish and zsh
 * [microsoftarchive/api](https://github.com/microsoftarchive/api): The Wunderlist API Documentation
@@ -618,7 +619,6 @@
 * [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 * [google/auto](https://github.com/google/auto): A collection of source code generators for Java.
 * [bhavita/Auto-Audio-Books](https://github.com/bhavita/Auto-Audio-Books): Convert pdf to audiobooks 📚
-* [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude): Autonomous multi-session AI coding
 * [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq): Automatic CPU speed & power optimizer for Linux
 * [majamee/auto-dash-hls](https://github.com/majamee/auto-dash-hls): Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder
 * [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor): Effort free video editing!
@@ -1739,7 +1739,7 @@
 * [jackmastermind/claude-skill-editor](https://github.com/jackmastermind/claude-skill-editor): create & edit Claude Skills
 * [Emlembow/claude-skills](https://github.com/Emlembow/claude-skills): A collection of custom skills for Claude AI - composable, portable, and powerful task-specific extensions
 * [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills): 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-* [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
+* [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 * [jezweb/claude-skills](https://github.com/jezweb/claude-skills): Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.
 * [spences10/claude-skills-cli](https://github.com/spences10/claude-skills-cli): 🤖 CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
 * [CavinHuang/claude-skills-hub](https://github.com/CavinHuang/claude-skills-hub): 🚀 Claude Skills Hub - 150+ Free Claude Skills for Enhanced AI Coding. A marketplace of expert-crafted workflows to boost your Claude Code experience.
@@ -2204,7 +2204,7 @@
 * [ekreloff/Deep-Link-Tester-tvOS-](https://github.com/ekreloff/Deep-Link-Tester-tvOS-): None
 * [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher): Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 * [epiclabs-io/DeepAudioClassification](https://github.com/epiclabs-io/DeepAudioClassification): None
-* [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera): Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
+* [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera): Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, MiniMax. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.
 * [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 * [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
@@ -4173,7 +4173,7 @@
 * [facebookarchive/ios-snapshot-test-case](https://github.com/facebookarchive/ios-snapshot-test-case): Snapshot view unit tests for iOS
 * [allaboutapps/ios-starter](https://github.com/allaboutapps/ios-starter): Cookiecutter and XcodeGen template for our iOS apps.
 * [kelvinfok/iOS-Swift-HLS-Stream-Video-Player](https://github.com/kelvinfok/iOS-Swift-HLS-Stream-Video-Player): Sample Project featuring AVPlayer that streams HLS videos (m3u8)
-* [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips): iOS知识小集
+* [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips): iOS 知识小集
 * [twitter/ios-twitter-network-layer](https://github.com/twitter/ios-twitter-network-layer): Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms
 * [kstenerud/iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework): An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.
 * [realeyes-media/ios-vast-client](https://github.com/realeyes-media/ios-vast-client): None
@@ -4394,7 +4394,7 @@
 * [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 * [kickstarter/Kickstarter-Prelude](https://github.com/kickstarter/Kickstarter-Prelude): A collection of useful Swift tools that are used in the Kickstarter apps.
 * [tiaanduplessis/kill-port](https://github.com/tiaanduplessis/kill-port): ❌ Kill the process running on given port
-* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 * [luigifcruz/kimera](https://github.com/luigifcruz/kimera): Low-latency hardware accelerated codec based video streaming utility.
 * [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc): Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
 * [getkin/kin-openapi](https://github.com/getkin/kin-openapi): OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -5008,7 +5008,7 @@
 * [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori): SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 * [pulsejet/memories](https://github.com/pulsejet/memories): Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 * [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
-* [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+* [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 * [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU): Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 * [benjaminmayo/merchantkit](https://github.com/benjaminmayo/merchantkit): A modern In-App Purchases management framework for iOS.
 * [shinyfrog/mercury-parser](https://github.com/shinyfrog/mercury-parser): 📜 Extracting content from the chaos of the web.
@@ -5591,7 +5591,7 @@
 * [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe): Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 * [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin): A plugin to edit and view Excalidraw drawings in Obsidian
 * [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer): Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
-* [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban): Create markdown-backed Kanban boards in Obsidian.
+* [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban): Create markdown-backed Kanban boards in Obsidian.
 * [joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr): Effortlessly save and organize your web links in Obsidian
 * [jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools): Add Obsidian integrations like semantic search and custom Templater prompts to Claude or any MCP client.
 * [dartungar/obsidian-mermaid](https://github.com/dartungar/obsidian-mermaid): Tools for improved Mermaid.js experience in Obsidian.md
@@ -5616,7 +5616,7 @@
 * [xiph/ogg](https://github.com/xiph/ogg): Reference implementation of the Ogg media container
 * [bvibber/ogv.js](https://github.com/bvibber/ogv.js): JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
 * [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode): Teams-first Multi-agent orchestration for Claude Code
-* [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode): the best agent harness
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent): omo; the best agent harness - previously oh-my-opencode
 * [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars): An offline CLI tool to search your GitHub Stars.
 * [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs): Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
@@ -5708,7 +5708,7 @@
 * [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
 * [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault): openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
 * [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-* [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
+* [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
 * [openrecall/openrecall](https://github.com/openrecall/openrecall): OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.
 * [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB): Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 * [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner): Deprecated inference engine
@@ -6228,7 +6228,7 @@
 * [modal-labs/quillman](https://github.com/modal-labs/quillman): A voice chat app 
 * [facetdigital/QuiltView](https://github.com/facetdigital/QuiltView): A UICollectionViewLayout subclass, used as the layout object of a UICollectionView for iOS and tvOS, developed in Swift, based on RFQuiltLayout.
 * [HappenApps/Quiver](https://github.com/HappenApps/Quiver): Quiver documentation and issue tracker
-* [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr): Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. 
+* [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr): Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 * [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio): Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 * [WhiskeyCoder/Qwen3-Audiobook-Converter](https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter): Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning.
 * [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder): Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
