@@ -248,6 +248,9 @@
     "AcademySoftwareFoundation/EncodingGuidelines": [
         "Other"
     ],
+    "Adityaraj0421/design-studio": [
+        "Other"
+    ],
     "AdmiralBulldogTv/VodTranscoder": [
         "Other"
     ],
@@ -2397,6 +2400,9 @@
         "Other"
     ],
     "HHK1/PryntTrimmerView": [
+        "Other"
+    ],
+    "HKUDS/CLI-Anything": [
         "Other"
     ],
     "HKUDS/DeepCode": [
@@ -6443,6 +6449,9 @@
     "anthropics/anthropic-sdk-python": [
         "Other"
     ],
+    "anthropics/anthropic-tools": [
+        "Other"
+    ],
     "anthropics/claude-agent-sdk-demos": [
         "Other"
     ],
@@ -8444,6 +8453,9 @@
     "cfour-hi/gitstars": [
         "Other"
     ],
+    "cft0808/edict": [
+        "Other"
+    ],
     "cgoldsby/LoginCritter": [
         "Other"
     ],
@@ -8724,6 +8736,9 @@
         "Other"
     ],
     "claudekit/claudekit-docs": [
+        "Other"
+    ],
+    "claudio-silva/claude-artifact-runner": [
         "Other"
     ],
     "clayrisser/dotstow": [
@@ -9089,6 +9104,9 @@
     "cplee/github-actions-demo": [
         "Other"
     ],
+    "crabwise-ai/crabwalk": [
+        "Other"
+    ],
     "craftzdog/dotfiles-public": [
         "Other"
     ],
@@ -9350,7 +9368,16 @@
     "danielmiessler/SecLists": [
         "Other"
     ],
+    "danielrosehill/Agentic-AI-Architecture-Visualisation": [
+        "Other"
+    ],
     "danielrosehill/Claude-Agent-Blueprints": [
+        "Other"
+    ],
+    "danielrosehill/Claude-Agent-Workspace-Generator": [
+        "Other"
+    ],
+    "danielrosehill/Claude-Agent-Workspace-Model": [
         "Other"
     ],
     "danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands": [
@@ -11687,6 +11714,9 @@
     "geerlingguy/mac-dev-playbook": [
         "Other"
     ],
+    "geezerrrr/motive": [
+        "Other"
+    ],
     "gen2brain/mpeg": [
         "Other"
     ],
@@ -13304,6 +13334,9 @@
     "ish-app/ish": [
         "Other"
     ],
+    "ishaan1013/shadow": [
+        "Other"
+    ],
     "ishantanu/awesome-kubectl-plugins": [
         "Other"
     ],
@@ -13407,6 +13440,9 @@
         "Other"
     ],
     "jacksteamdev/obsidian-mcp-tools": [
+        "Other"
+    ],
+    "jackwener/twitter-cli": [
         "Other"
     ],
     "jackzhenguo/python-small-examples": [
@@ -13692,9 +13728,6 @@
         "Other"
     ],
     "jiang111/awesome-android-tips": [
-        "Other"
-    ],
-    "jiashaokun/ffmpeg": [
         "Other"
     ],
     "jiaweing/Tinder-OkCupid-Bumble-Auto-Swipe": [
@@ -14055,6 +14088,9 @@
         "Other"
     ],
     "jumpserver/jumpserver": [
+        "Other"
+    ],
+    "jundot/omlx": [
         "Other"
     ],
     "junegunn/fzf": [
@@ -14862,6 +14898,9 @@
         "Other"
     ],
     "krzemienski/scdl": [
+        "Other"
+    ],
+    "krzemienski/sessionforge": [
         "Other"
     ],
     "krzemienski/shannon-cli": [
@@ -15743,9 +15782,6 @@
     "lu-zero/cargo-c": [
         "Other"
     ],
-    "luccast/crabwalk": [
-        "Other"
-    ],
     "lucide-icons/lucide": [
         "Other"
     ],
@@ -16019,6 +16055,9 @@
     "malcommac/UIWindowTransitions": [
         "Other"
     ],
+    "manaflow-ai/cmux": [
+        "Other"
+    ],
     "manasesjesus/manasesjesus": [
         "Other"
     ],
@@ -16044,6 +16083,9 @@
         "Other"
     ],
     "manti-by/mtools": [
+        "Other"
+    ],
+    "mantoni/beads-ui": [
         "Other"
     ],
     "manuelescrig/MEVFloatingButton": [
@@ -16874,6 +16916,9 @@
     "minwook-shin/notion-database": [
         "Other"
     ],
+    "miolini/autoresearch-macos": [
+        "Other"
+    ],
     "mipmip/gnome-shell-extensions-useless-gaps": [
         "Other"
     ],
@@ -17262,6 +17307,9 @@
         "Other"
     ],
     "mshumer/gpt-prompt-engineer": [
+        "Other"
+    ],
+    "msitarzewski/agency-agents": [
         "Other"
     ],
     "msub2/awesome-webxr": [
@@ -17694,6 +17742,9 @@
         "Other"
     ],
     "nicknisi/dotfiles": [
+        "Other"
+    ],
+    "nicobailon/visual-explainer": [
         "Other"
     ],
     "nicolaka/netshoot": [
@@ -18330,6 +18381,9 @@
         "Other"
     ],
     "open-mmlab/PIA": [
+        "Other"
+    ],
+    "open-pencil/open-pencil": [
         "Other"
     ],
     "open-telemetry/opentelemetry-collector-contrib": [
@@ -19068,6 +19122,9 @@
         "Other"
     ],
     "pixie-io/pixie": [
+        "Other"
+    ],
+    "pixlcore/xyops": [
         "Other"
     ],
     "pixop/video-compare": [
@@ -20315,6 +20372,9 @@
     "rsyncOSX/RsyncOSX_archived": [
         "Other"
     ],
+    "rtk-ai/rtk": [
+        "Other"
+    ],
     "rtlewis1/GTK": [
         "Other"
     ],
@@ -20417,13 +20477,13 @@
     "rustdesk/rustdesk": [
         "Other"
     ],
+    "ruvnet/RuVector": [
+        "Other"
+    ],
     "ruvnet/RuView": [
         "Other"
     ],
     "ruvnet/ruflo": [
-        "Other"
-    ],
-    "ruvnet/ruvector": [
         "Other"
     ],
     "ruzickap/k8s-harbor": [
@@ -20951,6 +21011,9 @@
     "shamlian/root-robot-sdk": [
         "Other"
     ],
+    "shanraisshan/claude-code-best-practice": [
+        "Other"
+    ],
     "shaunschembri/restreamer": [
         "Other"
     ],
@@ -21266,6 +21329,9 @@
     "skb1129/flask-kubernetes": [
         "Other"
     ],
+    "skeyjia6/ffmpeg": [
+        "Other"
+    ],
     "skiffos/SkiffOS": [
         "Other"
     ],
@@ -21507,6 +21573,9 @@
         "Other"
     ],
     "sonic-pi-net/sonic-pi": [
+        "Other"
+    ],
+    "soniqo/speech-swift": [
         "Other"
     ],
     "sonysuqin/WasmVideoPlayer": [
@@ -23009,6 +23078,9 @@
     "trevatk/Wifi-Cracker": [
         "Other"
     ],
+    "trevin-creator/autoresearch-mlx": [
+        "Other"
+    ],
     "trexminer/T-Rex": [
         "Other"
     ],
@@ -23592,6 +23664,9 @@
         "Other"
     ],
     "video-db/StreamRAG": [
+        "Other"
+    ],
+    "video-db/skills": [
         "Other"
     ],
     "video-dev/community-knowledge-base": [
@@ -24216,6 +24291,9 @@
         "Other"
     ],
     "wiire-a/pixiewps": [
+        "Other"
+    ],
+    "wikimedia/pywikibot": [
         "Other"
     ],
     "wikimedia/wikipedia-ios": [
