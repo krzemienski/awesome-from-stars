@@ -2216,7 +2216,7 @@
 * [ekreloff/Deep-Link-Tester-tvOS-](https://github.com/ekreloff/Deep-Link-Tester-tvOS-): None
 * [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher): Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 * [epiclabs-io/DeepAudioClassification](https://github.com/epiclabs-io/DeepAudioClassification): None
-* [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera): Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, MiniMax. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.
+* [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera): Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.
 * [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 * [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
@@ -2262,7 +2262,7 @@
 * [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift): 📖 Design Patterns implemented in Swift 5.0
 * [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 * [thoughtbot/design-sprint](https://github.com/thoughtbot/design-sprint): Product Design Sprint Material
-* [Adityaraj0421/design-studio](https://github.com/Adityaraj0421/design-studio): A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents
+* [Adityaraj0421/design-studio](https://github.com/Adityaraj0421/design-studio): A virtual design studio for Claude Code — 27 slash commands, 13 specialist roles, full design-to-code pipeline with deep Figma integration
 * [mostafasadeghi97/design2code](https://github.com/mostafasadeghi97/design2code): Convert any web design screenshot to clean HTML/CSS code
 * [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp): Build a Swift App as a designer
 * [Foreverland/DesignerNewsDemo](https://github.com/Foreverland/DesignerNewsDemo): Sync's Objective-C Designer News Demo
@@ -6336,7 +6336,7 @@
 * [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 * [taniyow/react-portfolio](https://github.com/taniyow/react-portfolio): A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!
 * [app-generator/react-soft-dashboard-django](https://github.com/app-generator/react-soft-dashboard-django): React Soft Django - Full-Stack Starter crafted on top of Soft Dashboard, React and Django API | App-Generator.dev
-* [napthedev/react-tuby](https://github.com/napthedev/react-tuby): A React video player library with YouTube-like UI
+* [phongna07/react-tuby](https://github.com/phongna07/react-tuby): A React video player library with YouTube-like UI
 * [raphamorim/react-tv](https://github.com/raphamorim/react-tv): React Renderer for low memory applications
 * [lewhunt/react-tv-player](https://github.com/lewhunt/react-tv-player): A React video player for TV devices, with customisable buttons and arrow-key navigation. The component can play a variety of URLs like file paths, HLS/Dash streams and even YouTube links directly. Try out the demo on a desktop browser to see how it can simplify playback in your big-screen web apps: https://lewhunt.github.io/react-tv-player
 * [PhiloInc/ReactBS](https://github.com/PhiloInc/ReactBS): React-like framework for Roku
