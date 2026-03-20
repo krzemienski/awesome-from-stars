@@ -23,6 +23,9 @@
     "0xFA11/MultiplayerNetworkingResources": [
         "Other"
     ],
+    "0xNyk/lacp": [
+        "Other"
+    ],
     "0xW1sKy/Stitch-For-Roku": [
         "Other"
     ],
@@ -92,7 +95,7 @@
     "3lvis/Networking": [
         "Other"
     ],
-    "3lvis/Sync": [
+    "3lvis/SwiftSync": [
         "Other"
     ],
     "3xploitGuy/lazyaircrack": [
@@ -248,7 +251,7 @@
     "AcademySoftwareFoundation/EncodingGuidelines": [
         "Other"
     ],
-    "Adityaraj0421/design-studio": [
+    "Adityaraj0421/naksha-studio": [
         "Other"
     ],
     "AdmiralBulldogTv/VodTranscoder": [
@@ -489,6 +492,9 @@
         "Other"
     ],
     "ArtSabintsev/Zephyr": [
+        "Other"
+    ],
+    "ArthurSonzogni/Diagon": [
         "Other"
     ],
     "AsahiLinux/asahi-installer": [
@@ -960,6 +966,9 @@
         "Other"
     ],
     "CodeWithHarry/Sigma-Web-Dev-Course": [
+        "Other"
+    ],
+    "CodebuffAI/codebuff": [
         "Other"
     ],
     "Codepth-Technologies/FB-Transcoder": [
@@ -2408,6 +2417,9 @@
     "HKUDS/DeepCode": [
         "Other"
     ],
+    "HKUDS/nanobot": [
+        "Other"
+    ],
     "HQarroum/awesome-iot": [
         "Other"
     ],
@@ -2607,6 +2619,9 @@
         "Other"
     ],
     "IngeoSDK/ingeo-ios-sdk": [
+        "Other"
+    ],
+    "InsForge/InsForge": [
         "Other"
     ],
     "Instagram/IGListKit": [
@@ -3545,6 +3560,12 @@
     "NTCoding/claude-skillz": [
         "Other"
     ],
+    "NVIDIA/NemoClaw": [
+        "Other"
+    ],
+    "NVIDIA/OpenShell": [
+        "Other"
+    ],
     "NVIDIA/VideoProcessingFramework": [
         "Other"
     ],
@@ -3741,6 +3762,9 @@
         "Other"
     ],
     "NotionX/react-notion-x": [
+        "Other"
+    ],
+    "NousResearch/hermes-agent": [
         "Other"
     ],
     "Nova1545/gnome-shell-extension-customreboot": [
@@ -4955,6 +4979,9 @@
     "ThaCheeseBun/hdr-sucks": [
         "Other"
     ],
+    "ThakerKush/hatch": [
+        "Other"
+    ],
     "ThatNerdUKnow/vmaf-gui": [
         "Other"
     ],
@@ -5333,6 +5360,9 @@
     "Xaymar/encoding-samples": [
         "Other"
     ],
+    "XcodesOrg/xcodes": [
+        "Other"
+    ],
     "Xheldon/NotionEditor": [
         "Other"
     ],
@@ -5541,6 +5571,9 @@
         "Other"
     ],
     "abhirooptalasila/AutoSub": [
+        "Other"
+    ],
+    "abhisheknaiidu/awesome-github-profile-readme": [
         "Other"
     ],
     "abi/screenshot-to-code": [
@@ -6128,6 +6161,9 @@
     "alibaba/HandyJSON": [
         "Other"
     ],
+    "alibaba/OpenSandbox": [
+        "Other"
+    ],
     "alibaba/Sentinel": [
         "Other"
     ],
@@ -6152,6 +6188,9 @@
     "alibaba/nacos": [
         "Other"
     ],
+    "alibaba/page-agent": [
+        "Other"
+    ],
     "alibaba/spring-cloud-alibaba": [
         "Other"
     ],
@@ -6162,6 +6201,9 @@
         "Other"
     ],
     "alirezamika/autoscraper": [
+        "Other"
+    ],
+    "alirezarezvani/ClaudeForge": [
         "Other"
     ],
     "alirezarezvani/claude-code-skill-factory": [
@@ -6365,6 +6407,9 @@
     "andrewnguonly/Lumos": [
         "Other"
     ],
+    "andrewyng/context-hub": [
+        "Other"
+    ],
     "andreyrikunov/fairplay-ksm": [
         "Other"
     ],
@@ -6546,6 +6591,9 @@
         "Other"
     ],
     "anyproto/anytype-ts": [
+        "Other"
+    ],
+    "anysphere/priompt": [
         "Other"
     ],
     "aodin/golang-for-pythonistas": [
@@ -6843,6 +6891,9 @@
         "Other"
     ],
     "aptly-dev/aptly": [
+        "Other"
+    ],
+    "aquasecurity/trivy": [
         "Other"
     ],
     "arbal/awesome-stars": [
@@ -7449,6 +7500,9 @@
         "Other"
     ],
     "badoo/Chatto": [
+        "Other"
+    ],
+    "baidu-baige/LoongFlow": [
         "Other"
     ],
     "balena-io/etcher": [
@@ -9371,9 +9425,6 @@
     "danielrosehill/Agentic-AI-Architecture-Visualisation": [
         "Other"
     ],
-    "danielrosehill/Claude-Agent-Blueprints": [
-        "Other"
-    ],
     "danielrosehill/Claude-Agent-Workspace-Generator": [
         "Other"
     ],
@@ -9384,6 +9435,9 @@
         "Other"
     ],
     "danielrosehill/Claude-Code-MCP-Command-Generator": [
+        "Other"
+    ],
+    "danielrosehill/Claude-Code-Projects-Index": [
         "Other"
     ],
     "danielrosehill/Claude-Ivory-PC-Builder": [
@@ -10175,6 +10229,9 @@
     "donnemartin/system-design-primer": [
         "Other"
     ],
+    "doobidoo/mcp-memory-service": [
+        "Other"
+    ],
     "doocs/advanced-java": [
         "Other"
     ],
@@ -10695,6 +10752,9 @@
         "Other"
     ],
     "emillamm/kubernetes-django-boilerplate": [
+        "Other"
+    ],
+    "emin-ozata/lazycut": [
         "Other"
     ],
     "emisjerry/autosub-ahk": [
@@ -11372,6 +11432,9 @@
     "firecrawl/firecrawl-mcp-server": [
         "Other"
     ],
+    "fishaudio/fish-speech": [
+        "Other"
+    ],
     "fit-project/fit": [
         "Other"
     ],
@@ -11667,6 +11730,9 @@
         "Other"
     ],
     "garrylachman/ElectroCRUD": [
+        "Other"
+    ],
+    "garrytan/gstack": [
         "Other"
     ],
     "gatsbyjs/gatsby": [
@@ -12656,6 +12722,9 @@
     "heurema/context-planning-system": [
         "Other"
     ],
+    "heyhuynhgiabuu/proxypal": [
+        "Other"
+    ],
     "hhhrrrttt222111/developer-portfolio": [
         "Other"
     ],
@@ -13538,6 +13607,9 @@
     "jaronoff97/SwiftDog": [
         "Other"
     ],
+    "jarrodwatts/claude-hud": [
+        "Other"
+    ],
     "jarun/buku": [
         "Other"
     ],
@@ -13815,6 +13887,9 @@
         "Other"
     ],
     "joanrod/star-vector": [
+        "Other"
+    ],
+    "joaoh82/rustunnel": [
         "Other"
     ],
     "joaomoreno/thyme": [
@@ -14813,6 +14888,9 @@
     "krzemienski/claudecodeui": [
         "Other"
     ],
+    "krzemienski/code-tales-platform": [
+        "Other"
+    ],
     "krzemienski/codex-universal": [
         "Other"
     ],
@@ -15170,6 +15248,9 @@
     "lalit2005/pagely": [
         "Other"
     ],
+    "langchain-ai/deepagents": [
+        "Other"
+    ],
     "langchain-ai/langchain": [
         "Other"
     ],
@@ -15183,6 +15264,9 @@
         "Other"
     ],
     "langchain-ai/open-canvas": [
+        "Other"
+    ],
+    "langchain-ai/open-swe": [
         "Other"
     ],
     "langflow-ai/langflow": [
@@ -15705,6 +15789,9 @@
         "Other"
     ],
     "longhorn/longhorn": [
+        "Other"
+    ],
+    "loocor/codmate": [
         "Other"
     ],
     "lopho/sd-video": [
@@ -17060,6 +17147,9 @@
     "mobile-dev-inc/Maestro": [
         "Other"
     ],
+    "mobile-dev-inc/maestro-studio": [
+        "Other"
+    ],
     "mobile-next/PriceyApp": [
         "Other"
     ],
@@ -17646,6 +17736,9 @@
         "Other"
     ],
     "neutraltone/awesome-stock-resources": [
+        "Other"
+    ],
+    "newideas99/Anthropic-Computer-Use-MacOS": [
         "Other"
     ],
     "newsnowlabs/runcvm": [
@@ -18435,6 +18528,9 @@
         "Other"
     ],
     "openai/swarm": [
+        "Other"
+    ],
+    "openai/symphony": [
         "Other"
     ],
     "openai/tiktoken": [
@@ -19415,6 +19511,9 @@
     "prometheus/prometheus": [
         "Other"
     ],
+    "promptfoo/promptfoo": [
+        "Other"
+    ],
     "promptslab/Promptify": [
         "Other"
     ],
@@ -20111,6 +20210,9 @@
     "rizinorg/cutter": [
         "Other"
     ],
+    "rjcorwin/cook": [
+        "Other"
+    ],
     "rjshkhr/dotfiles": [
         "Other"
     ],
@@ -20678,9 +20780,6 @@
     "satoshin21/Anima": [
         "Other"
     ],
-    "saturn-abhishek/awesome-github-profile-readme": [
-        "Other"
-    ],
     "satwikkansal/wtfpython": [
         "Other"
     ],
@@ -21009,6 +21108,9 @@
         "Other"
     ],
     "shanraisshan/claude-code-best-practice": [
+        "Other"
+    ],
+    "shareAI-lab/learn-claude-code": [
         "Other"
     ],
     "shaunschembri/restreamer": [
@@ -22829,6 +22931,9 @@
     "tiangolo/uvicorn-gunicorn-fastapi-docker": [
         "Other"
     ],
+    "tigerabrodi/neiro": [
+        "Other"
+    ],
     "tiimgreen/github-cheat-sheet": [
         "Other"
     ],
@@ -23627,6 +23732,9 @@
     "vercel/v0-sdk": [
         "Other"
     ],
+    "vercel/vercel-plugin": [
+        "Other"
+    ],
     "vergoh/vnstat-docker": [
         "Other"
     ],
@@ -23810,6 +23918,9 @@
     "vincequant/claude-code-monitor": [
         "Other"
     ],
+    "vinhnx/VTCode": [
+        "Other"
+    ],
     "vinta/awesome-python": [
         "Other"
     ],
@@ -23931,6 +24042,9 @@
         "Other"
     ],
     "voila-dashboards/voila": [
+        "Other"
+    ],
+    "volcengine/OpenViking": [
         "Other"
     ],
     "voltan/nginx-stream": [
