@@ -991,7 +991,6 @@
 * [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks): [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 * [mayneyao/awesome-notion](https://github.com/mayneyao/awesome-notion): good tools for notion.so
 * [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion): A curated list of awesome Notion related things.
-* [thexclu/awesome-notion-api](https://github.com/thexclu/awesome-notion-api): This is a collection of awesome idea, tools, integrations build by Notion API.
 * [mnismt/awesome-notion-site](https://github.com/mnismt/awesome-notion-site): A curated list of awesome Notion related things
 * [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
 * [ElricLiu/Awesome-One-Click-Deployment](https://github.com/ElricLiu/Awesome-One-Click-Deployment): 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
@@ -1020,7 +1019,7 @@
 * [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts): 🚨 Collection of Prometheus alerting rules
 * [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [JetBrains/awesome-pycharm](https://github.com/JetBrains/awesome-pycharm): A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
-* [vinta/awesome-python](https://github.com/vinta/awesome-python): An opinionated list of awesome Python frameworks, libraries, software and resources.
+* [vinta/awesome-python](https://github.com/vinta/awesome-python): An opinionated list of Python frameworks, libraries, tools, and resources.
 * [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): 💿 Free software that works great, and also happens to be open-source Python. 
 * [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 * [make-github-pseudonymous-again/awesome-qr-code](https://github.com/make-github-pseudonymous-again/awesome-qr-code): A curated list of awesome QR code libraries, software and resources
@@ -1153,7 +1152,7 @@
 * [rubenochiavone/awesomeness](https://github.com/rubenochiavone/awesomeness): :sunglasses: All awesome curated lists from GitHub
 * [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts): A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 * [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch): :mag: Search all awesome lists in seconds.
-* [lockys/AwesomeSearch2](https://github.com/lockys/AwesomeSearch2): 🔍 Awesome Search 2.0 
+* [lockys/AwesomeSearch2](https://github.com/lockys/AwesomeSearch2): 🔍 Awesome Search 2
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo): Cool open source projects. Choose your project and get involved in Open Source development now.
 * [Eyevinn/awmanager](https://github.com/Eyevinn/awmanager): Of course we need an AW manager
 * [ml-archive/aws](https://github.com/ml-archive/aws): Swift wrapper around AWS API
@@ -4416,7 +4415,7 @@
 * [Colin-b/keepachangelog](https://github.com/Colin-b/keepachangelog): Convert keep a changelog markdown file into python dict
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
-* [keploy/keploy](https://github.com/keploy/keploy): API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+* [keploy/keploy](https://github.com/keploy/keploy): Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 * [kestra-io/kestra](https://github.com/kestra-io/kestra): Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 * [kurgol/keychron](https://github.com/kurgol/keychron): Settings for Keychron keyboards
 * [androbility/keydroid](https://github.com/androbility/keydroid): Send keystrokes from the terminal to an Android device.  Requires adb.
@@ -4749,7 +4748,7 @@
 * [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 * [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist): Create named local volumes that persist in the location(s) you want
 * [mudler/LocalAGI](https://github.com/mudler/LocalAGI): LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
-* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+* [mudler/LocalAI](https://github.com/mudler/LocalAI): LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 * [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend): None
 * [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 * [tattn/LocalLLMClient](https://github.com/tattn/LocalLLMClient): Swift package to run local LLMs on iOS, macOS, Linux
