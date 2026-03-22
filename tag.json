@@ -704,6 +704,9 @@
     "BradLarson/GPUImage3": [
         "Other"
     ],
+    "BrainBlend-AI/atomic-agents": [
+        "Other"
+    ],
     "Brainiarc7/ffmpeg_libnvenc": [
         "Other"
     ],
@@ -1128,6 +1131,9 @@
         "Other"
     ],
     "CristianCardosoA/installSwiftCentos": [
+        "Other"
+    ],
+    "Crosstalk-Solutions/project-nomad": [
         "Other"
     ],
     "CrypticSignal/av-converter": [
@@ -1632,6 +1638,9 @@
         "Other"
     ],
     "Eugeny/tabby-web": [
+        "Other"
+    ],
+    "EuniAI/Prometheus": [
         "Other"
     ],
     "EvanLi/Github-Ranking": [
@@ -2271,6 +2280,9 @@
         "Other"
     ],
     "FrozenIronSoftware/Twitched": [
+        "Other"
+    ],
+    "FujiwaraChoki/MoneyPrinterV2": [
         "Other"
     ],
     "FullAgent/fulling": [
@@ -8834,6 +8846,9 @@
     "cloudflare/moltworker": [
         "Other"
     ],
+    "cloudflare/sandbox-sdk": [
+        "Other"
+    ],
     "cloudflare/stream-react": [
         "Other"
     ],
@@ -9653,6 +9668,9 @@
     "daymade/claude-code-skills": [
         "Other"
     ],
+    "daytonaio/daytona": [
+        "Other"
+    ],
     "dbeaver/dbeaver": [
         "Other"
     ],
@@ -10325,6 +10343,9 @@
     "dreamvo/gilfoyle": [
         "Other"
     ],
+    "dredozubov/prd-generator": [
+        "Other"
+    ],
     "dreemurrs-embedded/Jumpdrive": [
         "Other"
     ],
@@ -10365,6 +10386,9 @@
         "Other"
     ],
     "dtan4/k8s-job-cleaner": [
+        "Other"
+    ],
+    "dtormoen/tsk-tsk": [
         "Other"
     ],
     "dtyutyunik/aiWeather": [
@@ -13506,9 +13530,6 @@
         "Other"
     ],
     "jacksteamdev/obsidian-mcp-tools": [
-        "Other"
-    ],
-    "jackwener/twitter-cli": [
         "Other"
     ],
     "jackzhenguo/python-small-examples": [
@@ -17450,6 +17471,9 @@
     "muratcankoylan/Agent-Skills-for-Context-Engineering": [
         "Other"
     ],
+    "muratcankoylan/ralph-wiggum-marketer": [
+        "Other"
+    ],
     "musistudio/claude-code-router": [
         "Other"
     ],
@@ -18150,6 +18174,9 @@
         "Other"
     ],
     "nvie/gitflow": [
+        "Other"
+    ],
+    "nyatinte/ccexp": [
         "Other"
     ],
     "nycdb/nycdb": [
@@ -19082,6 +19109,9 @@
     "phenotypic/WiFiCrackPy": [
         "Other"
     ],
+    "phiat/claude-esp": [
+        "Other"
+    ],
     "phil-opp/blog_os": [
         "Other"
     ],
@@ -19131,9 +19161,6 @@
         "Other"
     ],
     "pi-hole/pi-hole": [
-        "Other"
-    ],
-    "picahq/pica": [
         "Other"
     ],
     "piccolo-orm/piccolo": [
@@ -19548,6 +19575,9 @@
         "Other"
     ],
     "public-apis/public-apis": [
+        "Other"
+    ],
+    "public-clis/twitter-cli": [
         "Other"
     ],
     "pubnub/brightscript": [
@@ -20897,6 +20927,9 @@
     "scrwdrv/ffmpeg-command": [
         "Other"
     ],
+    "sculptdotfun/viberank": [
+        "Other"
+    ],
     "scunning1987/dash_manifest_modifier": [
         "Other"
     ],
@@ -22203,6 +22236,9 @@
         "Other"
     ],
     "sudheerj/Linux-cheat-sheet": [
+        "Other"
+    ],
+    "sudocode-ai/sudocode": [
         "Other"
     ],
     "sueszli/notionsnapshot": [
@@ -24513,6 +24549,9 @@
         "Other"
     ],
     "withfig/autocomplete": [
+        "Other"
+    ],
+    "withoneai/pica": [
         "Other"
     ],
     "wmariuss/awesome-devops": [
