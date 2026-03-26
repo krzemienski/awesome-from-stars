@@ -584,9 +584,6 @@
     "Axinom/drm-quick-start": [
         "Other"
     ],
-    "Axinom/media-tools": [
-        "Other"
-    ],
     "AyatKhraisat/ChatGPT_Code_Converter": [
         "Other"
     ],
@@ -10781,9 +10778,6 @@
     "emillamm/kubernetes-django-boilerplate": [
         "Other"
     ],
-    "emin-ozata/lazycut": [
-        "Other"
-    ],
     "emisjerry/autosub-ahk": [
         "Other"
     ],
@@ -11406,9 +11400,6 @@
         "Other"
     ],
     "ffplayout/ffplayout-frontend": [
-        "Other"
-    ],
-    "ffps/gtts": [
         "Other"
     ],
     "ffvvc/FFmpeg": [
@@ -18827,6 +18818,9 @@
     "oz123/awesome-c": [
         "Other"
     ],
+    "ozemin/lazycut": [
+        "Other"
+    ],
     "ozlerhakan/rapid": [
         "Other"
     ],
@@ -19611,12 +19605,6 @@
         "Other"
     ],
     "puneetsl/lotion": [
-        "Other"
-    ],
-    "punkpeye/awesome-mcp-clients": [
-        "Other"
-    ],
-    "punkpeye/awesome-mcp-servers": [
         "Other"
     ],
     "puppeteer/puppeteer": [
