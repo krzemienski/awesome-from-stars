@@ -71,7 +71,7 @@
     "2gis/k8s-handle": [
         "Other"
     ],
-    "3052/drm": [
+    "3052/diana": [
         "Other"
     ],
     "3052/luna": [
@@ -252,9 +252,6 @@
         "Other"
     ],
     "Adityaraj0421/naksha-studio": [
-        "Other"
-    ],
-    "AdmiralBulldogTv/VodTranscoder": [
         "Other"
     ],
     "AdnanHodzic/auto-cpufreq": [
@@ -1055,6 +1052,9 @@
     "Comcast/scte35-js": [
         "Other"
     ],
+    "ComeOnOliver/claude-code-analysis": [
+        "Other"
+    ],
     "Comfy-Org/ComfyUI": [
         "Other"
     ],
@@ -1146,12 +1146,6 @@
         "Other"
     ],
     "CyanSalt/todu": [
-        "Other"
-    ],
-    "Cyber-Dioxide/CyberPhish": [
-        "Other"
-    ],
-    "Cyber-Dioxide/Wifi-Brute": [
         "Other"
     ],
     "CyberAlbSecOP/Awesome_GPT_Super_Prompting": [
@@ -1554,6 +1548,9 @@
         "Other"
     ],
     "Eltik/M3U8-Proxy": [
+        "Other"
+    ],
+    "Emanuele-web04/remodex": [
         "Other"
     ],
     "EmbraceAGI/Awesome-AI-GPTs": [
@@ -3074,9 +3071,6 @@
     "KunihiroS/claude-code-mcp": [
         "Other"
     ],
-    "KurtBestor/Hitomi-Downloader": [
-        "Other"
-    ],
     "Kussie/awesome-home-media-server": [
         "Other"
     ],
@@ -3740,6 +3734,12 @@
     "NikNakk/ffmpeg-aws-bento4": [
         "Other"
     ],
+    "Nimbalyst/nimbalyst": [
+        "Other"
+    ],
+    "Nimbalyst/skills": [
+        "Other"
+    ],
     "NirDiamant/GenAI_Agents": [
         "Other"
     ],
@@ -3780,6 +3780,9 @@
         "Other"
     ],
     "NotionX/react-notion-x": [
+        "Other"
+    ],
+    "NousResearch/atropos": [
         "Other"
     ],
     "NousResearch/hermes-agent": [
@@ -4026,6 +4029,9 @@
         "Other"
     ],
     "ParisNeo/lollms-webui": [
+        "Other"
+    ],
+    "ParthJadhav/app-store-screenshots": [
         "Other"
     ],
     "ParthKapoor-dev/devex": [
@@ -4559,6 +4565,9 @@
     "SavageCore/node-ffprobe-installer": [
         "Other"
     ],
+    "SawyerHood/dev-browser": [
+        "Other"
+    ],
     "SchmockLord/Hackintosh-Threadripper-1950x-Gigabyte-X399-Aorus-Extreme": [
         "Other"
     ],
@@ -4917,6 +4926,9 @@
         "Other"
     ],
     "TKanX/WPA-Dictionary": [
+        "Other"
+    ],
+    "TaGoat/claude_code_cli": [
         "Other"
     ],
     "TabbyML/tabby": [
@@ -5444,6 +5456,9 @@
     "Yeachan-Heo/oh-my-claudecode": [
         "Other"
     ],
+    "Yeachan-Heo/oh-my-codex": [
+        "Other"
+    ],
     "YiHeCN/notion-java-sdk": [
         "Other"
     ],
@@ -5709,6 +5724,9 @@
         "Other"
     ],
     "adamlatchem/toolchest": [
+        "Other"
+    ],
+    "adamlyttleapps/claude-skill-aso-appstore-screenshots": [
         "Other"
     ],
     "adapta-project/adapta-gtk-theme": [
@@ -6272,7 +6290,7 @@
     "altstoreio/AltStore": [
         "Other"
     ],
-    "alvinunreal/awesome-autoresearch": [
+    "alvinreal/awesome-autoresearch": [
         "Other"
     ],
     "alyssaxuu/slashy": [
@@ -6422,6 +6440,9 @@
     "andressspinetti/video-transcoder": [
         "Other"
     ],
+    "andrew-kramer-inno/claude-code-source-build": [
+        "Other"
+    ],
     "andrewbrg/crouton-auto": [
         "Other"
     ],
@@ -6509,6 +6530,9 @@
     "antfu/skills": [
         "Other"
     ],
+    "anthropics/agent-sdk-workshop": [
+        "Other"
+    ],
     "anthropics/anthropic-cli": [
         "Other"
     ],
@@ -6516,6 +6540,9 @@
         "Other"
     ],
     "anthropics/anthropic-sdk-python": [
+        "Other"
+    ],
+    "anthropics/anthropic-sdk-typescript": [
         "Other"
     ],
     "anthropics/anthropic-tools": [
@@ -6545,13 +6572,25 @@
     "anthropics/claude-cookbooks": [
         "Other"
     ],
+    "anthropics/claude-plugins-community": [
+        "Other"
+    ],
     "anthropics/claude-plugins-official": [
         "Other"
     ],
     "anthropics/claude-quickstarts": [
         "Other"
     ],
+    "anthropics/claudes-c-compiler": [
+        "Other"
+    ],
+    "anthropics/connect-rust": [
+        "Other"
+    ],
     "anthropics/devcontainer-features": [
+        "Other"
+    ],
+    "anthropics/knowledge-work-plugins": [
         "Other"
     ],
     "anthropics/prompt-eng-interactive-tutorial": [
@@ -8327,7 +8366,7 @@
     "cameroncooke/AXe": [
         "Other"
     ],
-    "campfirein/cipher": [
+    "campfirein/byterover-cli": [
         "Other"
     ],
     "canalplus/rx-player": [
@@ -8583,6 +8622,9 @@
         "Other"
     ],
     "chatboxai/chatbox": [
+        "Other"
+    ],
+    "chatgptprojects/clear-code": [
         "Other"
     ],
     "chathub-dev/chathub": [
@@ -8916,6 +8958,9 @@
         "Other"
     ],
     "codeabovelab/haven-platform": [
+        "Other"
+    ],
+    "codeany-ai/open-agent-sdk-typescript": [
         "Other"
     ],
     "codebushi/gatsby-starter-dimension": [
@@ -9315,6 +9360,9 @@
         "Other"
     ],
     "cursor/cursor": [
+        "Other"
+    ],
+    "cursor/plugins": [
         "Other"
     ],
     "cuuupid/awesome-lists": [
@@ -10307,6 +10355,9 @@
     "dougsillars/StreamClarity": [
         "Other"
     ],
+    "doza62/opencode-mobile": [
+        "Other"
+    ],
     "dpedu/git2git": [
         "Other"
     ],
@@ -10635,6 +10686,9 @@
         "Other"
     ],
     "eibols/ffmpeg_batch": [
+        "Other"
+    ],
+    "eigent-ai/eigent": [
         "Other"
     ],
     "eingress/docker-compose-traefik-letsencrypt-cloudflare": [
@@ -11774,6 +11828,12 @@
     "garrytan/gstack": [
         "Other"
     ],
+    "gastownhall/beads": [
+        "Other"
+    ],
+    "gastownhall/gastown": [
+        "Other"
+    ],
     "gatsbyjs/gatsby": [
         "Other"
     ],
@@ -12198,6 +12258,9 @@
         "Other"
     ],
     "google-gemini/gemini-cli": [
+        "Other"
+    ],
+    "google-labs-code/stitch-sdk": [
         "Other"
     ],
     "google-labs-code/stitch-skills": [
@@ -12896,6 +12959,9 @@
     "huangsam/ultimate-python": [
         "Other"
     ],
+    "huggingface/agents-course": [
+        "Other"
+    ],
     "huggingface/autotrain-advanced": [
         "Other"
     ],
@@ -13050,6 +13116,9 @@
         "Other"
     ],
     "iamdaiyuan/ios_top_1000": [
+        "Other"
+    ],
+    "iamfakeguru/claude-md": [
         "Other"
     ],
     "iamgmujtaba/LTC-SUM": [
@@ -13307,6 +13376,9 @@
     "instavm/coderunner-ui": [
         "Other"
     ],
+    "instructkr/claw-code": [
+        "Other"
+    ],
     "int128/create-ecr-repository-action": [
         "Other"
     ],
@@ -13470,6 +13542,9 @@
         "Other"
     ],
     "ithewei/libhv": [
+        "Other"
+    ],
+    "itsmylife44/cliproxyapi-dashboard": [
         "Other"
     ],
     "itsnitinr/vscode-portfolio": [
@@ -13872,6 +13947,9 @@
         "Other"
     ],
     "jklukas/docs-on-gh-pages": [
+        "Other"
+    ],
+    "jktrn/astro-erudite": [
         "Other"
     ],
     "jkuri/opencv-ffmpeg-rtmp-stream": [
@@ -14279,6 +14357,9 @@
     "jzillmann/pdf-to-markdown": [
         "Other"
     ],
+    "k1LoW/mo": [
+        "Other"
+    ],
     "k3d-io/k3d": [
         "Other"
     ],
@@ -14331,6 +14412,9 @@
         "Other"
     ],
     "kaito-project/aikit": [
+        "Other"
+    ],
+    "kaitranntt/ccs": [
         "Other"
     ],
     "kala13x/libxmedia": [
@@ -14921,6 +15005,9 @@
     "krzemienski/claude-mobile-expo": [
         "Other"
     ],
+    "krzemienski/claude-skill-aso-appstore-screenshots": [
+        "Other"
+    ],
     "krzemienski/claudecodeui": [
         "Other"
     ],
@@ -14991,6 +15078,9 @@
         "Other"
     ],
     "krzemienski/nv-codec-headers": [
+        "Other"
+    ],
+    "krzemienski/opencode-mobile": [
         "Other"
     ],
     "krzemienski/ralph-orchestrator": [
@@ -19526,6 +19616,12 @@
     "prisma/prisma1": [
         "Other"
     ],
+    "priyankark/AirCodum": [
+        "Other"
+    ],
+    "priyankark/agentum-cli": [
+        "Other"
+    ],
     "probelabs/goreplay": [
         "Other"
     ],
@@ -19632,6 +19728,12 @@
         "Other"
     ],
     "puneetsl/lotion": [
+        "Other"
+    ],
+    "punkpeye/awesome-mcp-clients": [
+        "Other"
+    ],
+    "punkpeye/awesome-mcp-servers": [
         "Other"
     ],
     "puppeteer/puppeteer": [
@@ -19863,6 +19965,9 @@
         "Other"
     ],
     "rafrasenberg/docker-traefik-portainer": [
+        "Other"
+    ],
+    "raga-ai-hub/RagaAI-Catalyst": [
         "Other"
     ],
     "rahul0x24/SwiftFrameworkTemplate": [
@@ -20475,6 +20580,12 @@
         "Other"
     ],
     "router-for-me/CLIProxyAPIPlus": [
+        "Other"
+    ],
+    "router-for-me/Cli-Proxy-API-Management-Center": [
+        "Other"
+    ],
+    "router-for-me/EasyCLI": [
         "Other"
     ],
     "rovo89/XposedBridge": [
@@ -21362,6 +21473,9 @@
     "simonw/research": [
         "Other"
     ],
+    "simonw/tools": [
+        "Other"
+    ],
     "simplejson/simplejson": [
         "Other"
     ],
@@ -22109,12 +22223,6 @@
     "steventroughtonsmith/marzipanify": [
         "Other"
     ],
-    "steveyegge/beads": [
-        "Other"
-    ],
-    "steveyegge/gastown": [
-        "Other"
-    ],
     "stevommmm/homemedia": [
         "Other"
     ],
@@ -22188,6 +22296,9 @@
         "Other"
     ],
     "streaming-video-technology-alliance/ott_device_matrix": [
+        "Other"
+    ],
+    "streaming-video-technology-alliance/players-and-playback-wg": [
         "Other"
     ],
     "streamingriver/go-hls-proxy": [
@@ -22340,7 +22451,7 @@
     "superduper-io/superduper": [
         "Other"
     ],
-    "superlinked/superlinked": [
+    "superlinked/sie": [
         "Other"
     ],
     "supermemoryai/apple-mcp": [
@@ -23801,6 +23912,12 @@
     "versatica/h264-profile-level-id": [
         "Other"
     ],
+    "verygoodplugins/automem": [
+        "Other"
+    ],
+    "verygoodplugins/superwhisper-trainer": [
+        "Other"
+    ],
     "vfarcic/docker-flow-proxy": [
         "Other"
     ],
@@ -24630,6 +24747,9 @@
         "Other"
     ],
     "wrtnlabs/autobe": [
+        "Other"
+    ],
+    "wrxck/diagram-expert": [
         "Other"
     ],
     "wsargent/docker-cheat-sheet": [
