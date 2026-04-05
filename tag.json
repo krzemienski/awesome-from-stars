@@ -2615,9 +2615,6 @@
     "IceWhaleTech/CasaOS": [
         "Other"
     ],
-    "Ikken9/cheetah": [
-        "Other"
-    ],
     "Ikuyadeu/similar-code-searcher": [
         "Other"
     ],
@@ -4833,6 +4830,9 @@
         "Other"
     ],
     "StreisandEffect/streisand": [
+        "Other"
+    ],
+    "Stremio/stremio-service": [
         "Other"
     ],
     "Studio3/RokuDataDog": [
@@ -9215,6 +9215,9 @@
     "corpnewt/USB-Installer-Creator": [
         "Other"
     ],
+    "corywilkerson/fastpass": [
+        "Other"
+    ],
     "cosmicpython/book": [
         "Other"
     ],
@@ -9303,12 +9306,6 @@
         "Other"
     ],
     "cruffenach/CRToast": [
-        "Other"
-    ],
-    "crunchyroll/evs-s3helper": [
-        "Other"
-    ],
-    "crunchyroll/objective_perceptual_analysis": [
         "Other"
     ],
     "cryptonek/widevine-l3-decryptor": [
@@ -12080,6 +12077,9 @@
     "githubhaohao/LearnFFmpeg": [
         "Other"
     ],
+    "githubnext/monaspace": [
+        "Other"
+    ],
     "gitify-app/gitify": [
         "Other"
     ],
@@ -12696,9 +12696,6 @@
         "Other"
     ],
     "haseeb-heaven/code-interpreter": [
-        "Other"
-    ],
-    "haseeb-heaven/heavens-gpt": [
         "Other"
     ],
     "hashcat/hashcat": [
@@ -13374,9 +13371,6 @@
         "Other"
     ],
     "instavm/coderunner-ui": [
-        "Other"
-    ],
-    "instructkr/claw-code": [
         "Other"
     ],
     "int128/create-ecr-repository-action": [
@@ -18641,7 +18635,13 @@
     "openai/codex": [
         "Other"
     ],
+    "openai/codex-plugin-cc": [
+        "Other"
+    ],
     "openai/codex-universal": [
+        "Other"
+    ],
+    "openai/evals": [
         "Other"
     ],
     "openai/jukebox": [
@@ -18660,6 +18660,9 @@
         "Other"
     ],
     "openai/openai-fm": [
+        "Other"
+    ],
+    "openai/openai-python": [
         "Other"
     ],
     "openai/openai-realtime-agents": [
@@ -18756,6 +18759,9 @@
         "Other"
     ],
     "openshift/origin": [
+        "Other"
+    ],
+    "opensoft/oh-my-opencode": [
         "Other"
     ],
     "opensourceway/rsync-backup-script": [
@@ -21344,6 +21350,9 @@
     "shiyiya/oplayer": [
         "Other"
     ],
+    "shizakken/cheetah": [
+        "Other"
+    ],
     "shkoliar/docker-ngrok": [
         "Other"
     ],
@@ -23628,6 +23637,9 @@
         "Other"
     ],
     "ultravideo/kvazaar": [
+        "Other"
+    ],
+    "ultraworkers/claw-code": [
         "Other"
     ],
     "umputun/ralphex": [
