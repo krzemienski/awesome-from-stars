@@ -2889,7 +2889,7 @@
 * [Groovee60/ExoPlayerServiceExample](https://github.com/Groovee60/ExoPlayerServiceExample): Simple and clean Kotlin implementation of the ExoPlayer library within a persistent foregound service with notification support.
 * [chemicalbird/ExoPlayerTimelineView](https://github.com/chemicalbird/ExoPlayerTimelineView): Extracts video frames using ExoPlayer and show as a video timeline(FixedView, ScrollView)
 * [Ramotion/expanding-collection](https://github.com/Ramotion/expanding-collection): :octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion
-* [millionco/expect](https://github.com/millionco/expect): Expect tests your app in a browser so you don't have to.
+* [millionco/expect](https://github.com/millionco/expect): Expect more from your agents. Test what they build in a real browser.
 * [amplitude/experiment-ios-client](https://github.com/amplitude/experiment-ios-client): None
 * [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 * [blockcypher/explorer](https://github.com/blockcypher/explorer): Block explorer showcasing the BlockCypher APIs.
@@ -3898,7 +3898,7 @@
 * [GitHawkApp/Highlightr](https://github.com/GitHawkApp/Highlightr): iOS & OSX Syntax Highlighter. 
 * [raspu/Highlightr](https://github.com/raspu/Highlightr): iOS & OSX Syntax Highlighter. 
 * [willowtreeapps/hinoki](https://github.com/willowtreeapps/hinoki): A Language Server Protocol implementation for BrightScript
-* [aden-hive/hive](https://github.com/aden-hive/hive): Outcome driven agent development framework and runtime harness
+* [aden-hive/hive](https://github.com/aden-hive/hive): Multi-Agent Harness for Production AI
 * [epiclabs-io/hls-analyzer](https://github.com/epiclabs-io/hls-analyzer): Analyzer for HTTP Live Streams (HLS) content
 * [777777miSSU7777777/hls-audio-player](https://github.com/777777miSSU7777777/hls-audio-player): Self-written and cross-browser HLS audio player
 * [GitNK/HLS-Audio-Player](https://github.com/GitNK/HLS-Audio-Player): Application that parses audio from HTTP Live Stream, converts to mp4 and plays it.
@@ -4237,7 +4237,7 @@
 * [appspector/ios-sdk](https://github.com/appspector/ios-sdk): AppSpector is a debugging service for mobile apps
 * [sebj/iOS-Shortcuts-Reference](https://github.com/sebj/iOS-Shortcuts-Reference): Reference documentation for the iOS Shortcuts app file structure
 * [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp): MCP server for interacting with the iOS simulator
-* [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill): An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, without using up any of the available token/context budget.
+* [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill): An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps. I mainly use it as an xcodebuild wrapper to save context.
 * [facebookarchive/ios-snapshot-test-case](https://github.com/facebookarchive/ios-snapshot-test-case): Snapshot view unit tests for iOS
 * [allaboutapps/ios-starter](https://github.com/allaboutapps/ios-starter): Cookiecutter and XcodeGen template for our iOS apps.
 * [kelvinfok/iOS-Swift-HLS-Stream-Video-Player](https://github.com/kelvinfok/iOS-Swift-HLS-Stream-Video-Player): Sample Project featuring AVPlayer that streams HLS videos (m3u8)
@@ -5079,7 +5079,7 @@
 * [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 * [mem0ai/mem0](https://github.com/mem0ai/mem0): Universal memory layer for AI Agents
 * [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp): None
-* [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori): Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and interactions into structured, persistent state for production systems.
+* [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori): Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.
 * [pulsejet/memories](https://github.com/pulsejet/memories): Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 * [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
 * [usememos/memos](https://github.com/usememos/memos): Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -5287,7 +5287,7 @@
 * [RonRothman/mtwsgi](https://github.com/RonRothman/mtwsgi): A Multithreaded Python WSGI Implementation
 * [mugiseyebrows/mugi-ffmpeg](https://github.com/mugiseyebrows/mugi-ffmpeg): Gui for ffmpeg to simplify transcoding and embeding audio / subtitles in mkv videos
 * [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer): MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
-* [alfredolopez80/multi-agent-ralph-loop](https://github.com/alfredolopez80/multi-agent-ralph-loop): Autonomous orchestration framework for Claude Code v3.0 — parallel-first Agent Teams with 6 ralph-* teammates, Aristotle First Principles, 59 skills, ~85 hooks, 46-entry anti-rationalization table, quality gates, and living knowledge vault
+* [alfredolopez80/multi-agent-ralph-loop](https://github.com/alfredolopez80/multi-agent-ralph-loop): Multi-Agent Ralph Loop v3.1.0 — AI orchestration system with memory-driven planning, parallel Agent Teams, autonomous experimentation (autoresearch), quality gates, and 50+ skills. Featuring 3-phase intelligent onboarding for autonomous code optimization.
 * [rokudev/multi-live-channel](https://github.com/rokudev/multi-live-channel): Channel example of live TV in addition to multiple live streams support
 * [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
 * [Palethorn/multibitrate-vod](https://github.com/Palethorn/multibitrate-vod): Python ffmpeg utility
@@ -5336,7 +5336,7 @@
 * [Adityaraj0421/naksha-studio](https://github.com/Adityaraj0421/naksha-studio): A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 60 commands, 13,800+ lines of expert design knowledge. Your agency's design brain, inside your terminal.
 * [Eyevinn/nalu-chunker](https://github.com/Eyevinn/nalu-chunker): A transform stream which chunks incoming AVC/H264 bitstream into NAL unit chunks.
 * [jethrocarr/namedmanager](https://github.com/jethrocarr/namedmanager): AGPL web-based DNS management interface in PHP
-* [HKUDS/nanobot](https://github.com/HKUDS/nanobot): "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+* [HKUDS/nanobot](https://github.com/HKUDS/nanobot): "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 * [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser): Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 * [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw): A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [narkdown/narkdown-py](https://github.com/narkdown/narkdown-py): A tool to use Notion as a Markdown editor.
@@ -5799,7 +5799,7 @@
 * [openMEDIADESK/openMEDIADESK](https://github.com/openMEDIADESK/openMEDIADESK): Web based image database, filesharing, photo, media hosting and video streaming platform in java
 * [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault): openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
 * [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-* [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
+* [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs): Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP/SIMID/non-linear ads
 * [openrecall/openrecall](https://github.com/openrecall/openrecall): OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.
 * [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB): Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 * [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner): Deprecated inference engine
