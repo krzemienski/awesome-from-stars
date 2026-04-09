@@ -128,6 +128,9 @@
     "5quinque/Soundcloud-Downloader": [
         "Other"
     ],
+    "666ghj/MiroFish": [
+        "Other"
+    ],
     "75asa/notion-database-crawler": [
         "Other"
     ],
@@ -156,6 +159,9 @@
         "Other"
     ],
     "ADaM-BJTU/O1-CODER": [
+        "Other"
+    ],
+    "AFK-surf/open-agent": [
         "Other"
     ],
     "AFNetworking/AFNetworking": [
@@ -932,6 +938,9 @@
     "Cloudstek/alfred-atom": [
         "Other"
     ],
+    "Cluster444/agentic": [
+        "Other"
+    ],
     "Cobertos/md2notion": [
         "Other"
     ],
@@ -1548,6 +1557,9 @@
         "Other"
     ],
     "Eltik/M3U8-Proxy": [
+        "Other"
+    ],
+    "Emanuele-web04/dpcode": [
         "Other"
     ],
     "Emanuele-web04/remodex": [
@@ -3141,9 +3153,6 @@
         "Other"
     ],
     "Lekensteyn/dmg2img": [
-        "Other"
-    ],
-    "Leleat/Tiling-Assistant": [
         "Other"
     ],
     "Leleat/alttab-mod": [
@@ -5024,6 +5033,9 @@
     "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge": [
         "Other"
     ],
+    "The-Vibe-Company/companion": [
+        "Other"
+    ],
     "The-Z-Labs/linux-exploit-suggester": [
         "Other"
     ],
@@ -5387,6 +5399,9 @@
     "Xaymar/encoding-samples": [
         "Other"
     ],
+    "XcodesOrg/XcodesApp": [
+        "Other"
+    ],
     "XcodesOrg/xcodes": [
         "Other"
     ],
@@ -5556,6 +5571,9 @@
         "Other"
     ],
     "aaberg/sql2o": [
+        "Other"
+    ],
+    "aaif-goose/goose": [
         "Other"
     ],
     "aalhour/awesome-compilers": [
@@ -5731,6 +5749,9 @@
     ],
     "adapta-project/adapta-gtk-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
+    ],
+    "addyosmani/agent-skills": [
+        "Other"
     ],
     "ade21/awsome-dns": [
         "Other"
@@ -6245,6 +6266,9 @@
     "alirezarezvani/claude-code-skill-factory": [
         "Other"
     ],
+    "alirezarezvani/claude-code-tresor": [
+        "Other"
+    ],
     "alirezarezvani/claude-skills": [
         "Other"
     ],
@@ -6291,6 +6315,9 @@
         "Other"
     ],
     "alvinreal/awesome-autoresearch": [
+        "Other"
+    ],
+    "alvinunreal/oh-my-opencode-slim": [
         "Other"
     ],
     "alyssaxuu/slashy": [
@@ -6497,7 +6524,13 @@
     "ankurjha21/eks-AWS": [
         "Other"
     ],
+    "anomalyco/openauth": [
+        "Other"
+    ],
     "anomalyco/opencode": [
+        "Other"
+    ],
+    "anomalyco/opentui": [
         "Other"
     ],
     "anombyte93/prd-taskmaster": [
@@ -7202,6 +7235,9 @@
     "atelier-socle/AppRepositoryTemplate": [
         "Other"
     ],
+    "athal7/opencode-pilot": [
+        "Other"
+    ],
     "athensresearch/athens": [
         "Other"
     ],
@@ -7311,6 +7347,9 @@
         "Other"
     ],
     "awesome-lists/awesome-bash": [
+        "Other"
+    ],
+    "awesome-opencode/awesome-opencode": [
         "Other"
     ],
     "awesome-selfhosted/awesome-selfhosted": [
@@ -7986,9 +8025,6 @@
         "Other"
     ],
     "bloc97/Anime4K": [
-        "Other"
-    ],
-    "block/goose": [
         "Other"
     ],
     "blockcypher/explorer": [
@@ -8720,9 +8756,6 @@
     "chrislgarry/Apollo-11": [
         "Other"
     ],
-    "chrislongo/download-hls": [
-        "Other"
-    ],
     "chrismcleod17/newsday-roku": [
         "Other"
     ],
@@ -8853,6 +8886,9 @@
         "Other"
     ],
     "clash-verge-rev/clash-verge-rev": [
+        "Other"
+    ],
+    "claude-code-best/claude-code": [
         "Other"
     ],
     "claude-did-this/claude-hub": [
@@ -9048,6 +9084,9 @@
         "Other"
     ],
     "cokaholic/TKParallaxScrollView": [
+        "Other"
+    ],
+    "coleam00/Archon": [
         "Other"
     ],
     "coleam00/link-in-bio-page-builder": [
@@ -12821,6 +12860,9 @@
     "heurema/context-planning-system": [
         "Other"
     ],
+    "heyhuynhgiabuu/proxypal": [
+        "Other"
+    ],
     "hhhrrrttt222111/developer-portfolio": [
         "Other"
     ],
@@ -14157,6 +14199,12 @@
         "Other"
     ],
     "joshuaavalon/docker-cloudflare": [
+        "Other"
+    ],
+    "joshuadavidthomas/opencode-agent-memory": [
+        "Other"
+    ],
+    "joshuadavidthomas/opencode-agent-skills": [
         "Other"
     ],
     "joshuatz/linkedin-to-jsonresume": [
@@ -19325,6 +19373,9 @@
     "pingcap/awesome-database-learning": [
         "Other"
     ],
+    "pingdotgg/t3code": [
+        "Other"
+    ],
     "pingostack/pingos": [
         "Other"
     ],
@@ -20435,6 +20486,12 @@
     "rodellison/go-ffmpeg": [
         "Other"
     ],
+    "rohitg00/awesome-claude-code-toolkit": [
+        "Other"
+    ],
+    "rohitg00/skillkit": [
+        "Other"
+    ],
     "roidrage/s3itch": [
         "Other"
     ],
@@ -20820,6 +20877,9 @@
         "Other"
     ],
     "safinsingh/dots": [
+        "Other"
+    ],
+    "safishamsi/graphify": [
         "Other"
     ],
     "sageexplorer/ci-cd-codepipeline-eks": [
@@ -21420,6 +21480,9 @@
         "Other"
     ],
     "sickn33/antigravity-awesome-skills": [
+        "Other"
+    ],
+    "siddharthvaddem/openscreen": [
         "Other"
     ],
     "sigoden/aichat": [
@@ -23108,6 +23171,9 @@
     "tiangolo/uvicorn-gunicorn-fastapi-docker": [
         "Other"
     ],
+    "tickernelz/opencode-mem": [
+        "Other"
+    ],
     "tigerabrodi/neiro": [
         "Other"
     ],
@@ -23598,6 +23664,9 @@
         "Other"
     ],
     "ubuntu-flutter-community/settings": [
+        "Other"
+    ],
+    "ubuntu/Tiling-Assistant": [
         "Other"
     ],
     "ubuntu/app-center": [
