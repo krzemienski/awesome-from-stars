@@ -68,6 +68,9 @@
     "2501world/transcoding-performance-trial": [
         "Other"
     ],
+    "2FastLabs/agent-squad": [
+        "Other"
+    ],
     "2gis/k8s-handle": [
         "Other"
     ],
@@ -1136,6 +1139,9 @@
     "CrackerCat/video_decrypter": [
         "Other"
     ],
+    "Cranot/deep-research": [
+        "Other"
+    ],
     "CristianCardosoA/installSwiftCentos": [
         "Other"
     ],
@@ -1601,7 +1607,7 @@
     "Eronred/aso-skills": [
         "Other"
     ],
-    "ErsatzTV/ErsatzTV": [
+    "ErsatzTV/ErsatzTV-legacy": [
         "Other"
     ],
     "Erudika/para": [
@@ -4718,6 +4724,9 @@
     "SimulatedGREG/electron-vue": [
         "Other"
     ],
+    "SirhanMacx/Claw-ED": [
+        "Other"
+    ],
     "SishangLi/Autosub_Multiple_Methods": [
         "Other"
     ],
@@ -7491,9 +7500,6 @@
         "Other"
     ],
     "awsdocs/elastic-beanstalk-samples": [
-        "Other"
-    ],
-    "awslabs/agent-squad": [
         "Other"
     ],
     "awslabs/amazon-eks-ami": [
@@ -11510,9 +11516,6 @@
     "ffplayout/ffplayout": [
         "Other"
     ],
-    "ffplayout/ffplayout-frontend": [
-        "Other"
-    ],
     "ffvvc/FFmpeg": [
         "Other"
     ],
@@ -14123,9 +14126,6 @@
     "jonashackt/spring-boot-vuejs": [
         "Other"
     ],
-    "jonataslaw/VideoCompress": [
-        "Other"
-    ],
     "jonathanpenn/ui-auto-monkey": [
         "Other"
     ],
@@ -14142,6 +14142,9 @@
         "Other"
     ],
     "jonmosco/kube-ps1": [
+        "Other"
+    ],
+    "jordansissel/xdotool": [
         "Other"
     ],
     "jordicenzano/go-ts-segmenter": [
@@ -14517,9 +14520,6 @@
         "Other"
     ],
     "karan/Projects-Solutions": [
-        "Other"
-    ],
-    "karan/slack-overflow": [
         "Other"
     ],
     "karanb192/awesome-claude-skills": [
@@ -15159,6 +15159,9 @@
         "Other"
     ],
     "krzemienski/test-video-assets": [
+        "Other"
+    ],
+    "krzemienski/validationforge": [
         "Other"
     ],
     "krzemienski/video-mosaic-dreamscape": [
@@ -17075,6 +17078,9 @@
     "microsoftarchive/wunderlist.js": [
         "Other"
     ],
+    "midudev/autoskills": [
+        "Other"
+    ],
     "mifi/ezshare": [
         "Other"
     ],
@@ -17619,6 +17625,9 @@
         "Other"
     ],
     "mujibsayyad/code-converter": [
+        "Other"
+    ],
+    "multica-ai/multica": [
         "Other"
     ],
     "mumoshu/terraform-provider-eksctl": [
@@ -18626,7 +18635,7 @@
     "onyx-dot-app/onyx": [
         "Other"
     ],
-    "oobabooga/text-generation-webui": [
+    "oobabooga/textgen": [
         "Other"
     ],
     "oogali/ebs-automatic-nvme-mapping": [
@@ -20033,6 +20042,9 @@
     "railsware/upterm": [
         "Other"
     ],
+    "raindropio/android": [
+        "Other"
+    ],
     "raindropio/app": [
         "Other"
     ],
@@ -20040,9 +20052,6 @@
         "Other"
     ],
     "raindropio/developer-site": [
-        "Other"
-    ],
-    "raindropio/mobile": [
         "Other"
     ],
     "rainyear/dailybot": [
@@ -20432,6 +20441,9 @@
     "rjshkhr/dotfiles": [
         "Other"
     ],
+    "rjyo/moshi-skill": [
+        "Other"
+    ],
     "rkoshak/sensorReporter": [
         "Other"
     ],
@@ -20618,6 +20630,9 @@
     "rootsongjc/awesome-cloud-native": [
         "Other"
     ],
+    "rorkai/app-store-connect-cli-skills": [
+        "Other"
+    ],
     "rorpage/openfaas-text-to-speech": [
         "Other"
     ],
@@ -20720,9 +20735,6 @@
     "rubyrose-alexis/CloudTranscode": [
         "Other"
     ],
-    "rudrankriyam/app-store-connect-cli-skills": [
-        "Other"
-    ],
     "ruffle-rs/ruffle": [
         "Other"
     ],
@@ -20763,6 +20775,9 @@
         "Other"
     ],
     "rupakg/ffmpeg-video-thumb": [
+        "Other"
+    ],
+    "russelleNVy/three-man-team": [
         "Other"
     ],
     "rust-av/Av1an": [
@@ -23945,6 +23960,9 @@
     "vektah/CodeGlance": [
         "Other"
     ],
+    "velero-io/velero": [
+        "Other"
+    ],
     "venshine/decompile-apk": [
         "Other"
     ],
@@ -24270,9 +24288,6 @@
         "Other"
     ],
     "vmware-tanzu/kubeapps": [
-        "Other"
-    ],
-    "vmware-tanzu/velero": [
         "Other"
     ],
     "vn971/rua": [
