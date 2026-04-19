@@ -1607,7 +1607,7 @@
     "Eronred/aso-skills": [
         "Other"
     ],
-    "ErsatzTV/ErsatzTV-legacy": [
+    "ErsatzTV/legacy": [
         "Other"
     ],
     "Erudika/para": [
@@ -6042,6 +6042,9 @@
         "Other"
     ],
     "akaszubski/autonomous-dev": [
+        "Other"
+    ],
+    "akaszynski/keepa": [
         "Other"
     ],
     "akitten/linkedin-public-profile-parser": [
@@ -14126,6 +14129,9 @@
     "jonashackt/spring-boot-vuejs": [
         "Other"
     ],
+    "jonataslaw/VideoCompress": [
+        "Other"
+    ],
     "jonathanpenn/ui-auto-monkey": [
         "Other"
     ],
@@ -14979,6 +14985,9 @@
         "Other"
     ],
     "krzemienski/Download_soundcloud": [
+        "Other"
+    ],
+    "krzemienski/agentic-development-guide": [
         "Other"
     ],
     "krzemienski/ai-digest": [
@@ -23724,6 +23733,9 @@
         "Other"
     ],
     "ultraworkers/claw-code": [
+        "Other"
+    ],
+    "ultraworkers/hermes-agent-helm-chart": [
         "Other"
     ],
     "umputun/ralphex": [

@@ -221,6 +221,7 @@
 * [shinpr/agentic-code](https://github.com/shinpr/agentic-code): Agentic coding framework powered by AGENTS.md — systematic, test-first workflows with quality gates for Cursor, Codex, Gemini CLI, and AI coding agents.
 * [yzyydev/agentic-coding-structure](https://github.com/yzyydev/agentic-coding-structure): A modern project scaffold for AI-assisted development workflows—providing reusable Claude Code commands (.claude/commands/), structured AI documentation (ai_docs/), and standardized feature specifications (specs/) to streamline collaboration with Claude Code and OpenAI Codex.
 * [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine): 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai 
+* [krzemienski/agentic-development-guide](https://github.com/krzemienski/agentic-development-guide): 10 deeply technical blog posts on agentic development patterns — from 8,481 AI coding sessions over 90 days. Real code, real diagrams, real lessons.
 * [Qredence/agentic-fleet](https://github.com/Qredence/agentic-fleet): Adaptive Agentic AI Reasoning using Microsoft Agent Framework -- Join the Discord for suggestion or support !  https://discord.gg/ebgy7gtZHK
 * [SafeRL-Lab/agentic-web](https://github.com/SafeRL-Lab/agentic-web): Agentic Web: Weaving the Next Web with AI Agents.
 * [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
@@ -2833,7 +2834,6 @@
 * [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme): A Material Design-like theme for GNOME/GTK+ based desktop environments.
 * [amilajack/erb-express-example](https://github.com/amilajack/erb-express-example): None
 * [amilajack/erb-video-example](https://github.com/amilajack/erb-video-example): None
-* [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy): Open-source platform that transforms your personal media library into live, custom TV channels.
 * [atlassian/escalator](https://github.com/atlassian/escalator): Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 * [RokuRoad/eslint-plugin-roku](https://github.com/RokuRoad/eslint-plugin-roku): ESLint plugin to parse and lint BrightScript files
 * [adamff-dev/ESP8266-Captive-Portal](https://github.com/adamff-dev/ESP8266-Captive-Portal): :key: WiFi captive portal for ESP8266 for phishing WiFi passwords
@@ -3894,6 +3894,7 @@
 * [nmalisetty/hems](https://github.com/nmalisetty/hems): Utilizes the power of cloud computing and the latest AV1 codec to stream high quality videos using lower bandwidth than the current industry standards like HEVC (H.265) and AVC (H.264).
 * [p-e-w/heretic](https://github.com/p-e-w/heretic): Fully automatic censorship removal for language models
 * [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): The agent that grows with you
+* [ultraworkers/hermes-agent-helm-chart](https://github.com/ultraworkers/hermes-agent-helm-chart): The community-driven unofficial chart packages Hermes Agent for Kubernetes with cloud-native defaults, explicit state-safety guardrails, and flexible composition points for platform teams.
 * [malcommac/HermesNetwork](https://github.com/malcommac/HermesNetwork): None
 * [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero): Elegant transition library for iOS & tvOS
 * [rokudev/hero-grid-channel](https://github.com/rokudev/hero-grid-channel): Sample channel with sliding hero row and a grid of content below.
@@ -4461,6 +4462,7 @@
 * [kedacore/keda](https://github.com/kedacore/keda):  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 * [keel-hq/keel](https://github.com/keel-hq/keel): Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 * [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown): Export and convert Google Keep notes dynamically to markdown for Obsidian, Apple Notes, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
+* [akaszynski/keepa](https://github.com/akaszynski/keepa): Python Keepa.com API  
 * [Colin-b/keepachangelog](https://github.com/Colin-b/keepachangelog): Convert keep a changelog markdown file into python dict
 * [rfmoz/keepconf](https://github.com/rfmoz/keepconf): Keepconf - Tool for backup and track files from remote hosts.
 * [jaymoulin/keeptune](https://github.com/jaymoulin/keeptune): Google Chrome Extension to download on Bandcamp, Soundcloud...
@@ -4631,6 +4633,7 @@
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede): Lean's LEDE source
 * [swindex/Leet-Container-Dashboard](https://github.com/swindex/Leet-Container-Dashboard): Monitor and Control your local and remote Docker containers with style and ZERO Config
 * [doocs/leetcode](https://github.com/doocs/leetcode): 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+* [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy): Open-source platform that transforms your personal media library into live, custom TV channels.
 * [notanewbie/LegalStream](https://github.com/notanewbie/LegalStream): An m3u8 playlist featuring many LEGALLY FREE IPTV streams. For use with VLC.
 * [leixiaohua1020/leixiaohua1020.github.io](https://github.com/leixiaohua1020/leixiaohua1020.github.io): None
 * [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi): LeKiwi - Low-Cost Mobile Manipulator
@@ -5919,7 +5922,7 @@
 * [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator): Turn PDFs and EPUBs into audiobooks, subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, notably XTTS, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app with a GUI, an installer and all-in-one packages.
 * [louisdh/panelkit](https://github.com/louisdh/panelkit): A UI framework that enables panels on iOS.
 * [antoniocasero/Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
-* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-aware VPN and reverse proxy for remote access
+* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-aware VPN and tunneled reverse proxy for remote access.
 * [stefanogali/panic-panini-next](https://github.com/stefanogali/panic-panini-next): Next.Js + TailwindCSS starter template for music band.
 * [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime): A tiny Clojure library that deals with MIME types (Internet media types)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
@@ -8135,6 +8138,7 @@
 * [JNoDuq/videobench](https://github.com/JNoDuq/videobench): VMAF PSNR Bitrate Analyzer
 * [SoalHuang/VideoCache](https://github.com/SoalHuang/VideoCache): VideoCache is an AVPlayerItem Cache library written in Swift.
 * [ali-vilab/videocomposer](https://github.com/ali-vilab/videocomposer): Official repo for VideoComposer: Compositional Video Synthesis with Motion Controllability
+* [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress):  Compress videos, remove audio, manipulate thumbnails, and make your video compatible with all platforms through this lightweight and efficient library.
 * [Anuradha2018/VideoContentPlatformwithAngular](https://github.com/Anuradha2018/VideoContentPlatformwithAngular): Video Content Platform for Web with Angular 6
 * [bbc/VideoContext](https://github.com/bbc/VideoContext): An experimental HTML5 & WebGL video composition and rendering API.
 * [Sciencentistguy/videoconverter](https://github.com/Sciencentistguy/videoconverter): A program to convert video files to a uniform format and codec.
