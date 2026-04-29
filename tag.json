@@ -428,7 +428,7 @@
     "Aniket965/Dynamic-Github-Profile": [
         "Other"
     ],
-    "Anil-matcha/Awesome-GPT-Store": [
+    "Anil-matcha/Awesome-GPT-Image-2-API-Prompts": [
         "Other"
     ],
     "AnimMouse/ffmpeg-autobuild": [
@@ -929,6 +929,9 @@
     "Clinet/ffgoconv": [
         "Other"
     ],
+    "CloudAI-X/claude-workflow-v2": [
+        "Other"
+    ],
     "CloudNcodeInc/EncodeBox": [
         "Other"
     ],
@@ -1074,6 +1077,9 @@
         "Other"
     ],
     "ComposioHQ/awesome-claude-skills": [
+        "Other"
+    ],
+    "ComposioHQ/awesome-codex-skills": [
         "Other"
     ],
     "ComposioHQ/composio": [
@@ -1665,6 +1671,9 @@
         "Other"
     ],
     "EveryInc/compound-engineering-plugin": [
+        "Other"
+    ],
+    "EvoLinkAI/awesome-gpt-image-2-prompts": [
         "Other"
     ],
     "EwingYangs/awesome-open-gpt": [
@@ -2684,6 +2693,9 @@
     "J-F-Liu/lopdf": [
         "Other"
     ],
+    "JCodesMore/ai-website-cloner-template": [
+        "Other"
+    ],
     "JMPerez/linkedin-to-json-resume": [
         "Other"
     ],
@@ -2925,6 +2937,15 @@
         "Other"
     ],
     "JuliaLang/julia": [
+        "Other"
+    ],
+    "JuliusBrussee/cavekit": [
+        "Other"
+    ],
+    "JuliusBrussee/caveman": [
+        "Other"
+    ],
+    "JuliusBrussee/cavemem": [
         "Other"
     ],
     "JumpFm/jumpfm": [
@@ -3798,6 +3819,9 @@
         "Other"
     ],
     "NousResearch/hermes-agent": [
+        "Other"
+    ],
+    "NousResearch/hermes-agent-self-evolution": [
         "Other"
     ],
     "Nova1545/gnome-shell-extension-customreboot": [
@@ -4970,6 +4994,9 @@
     "Tautulli/Tautulli": [
         "Other"
     ],
+    "TechNickAI/openclaw-config": [
+        "Other"
+    ],
     "TechSmith/mp4v2": [
         "Other"
     ],
@@ -5388,6 +5415,9 @@
         "Other"
     ],
     "WyattBlue/auto-editor": [
+        "Other"
+    ],
+    "Wynelson94/shipwright": [
         "Other"
     ],
     "XCTEQ/SwiftPackageManager-Docker": [
@@ -5876,6 +5906,9 @@
     "agent-infra/sandbox": [
         "Other"
     ],
+    "agent0ai/agent-zero": [
+        "Other"
+    ],
     "agentsea/flashbacker": [
         "Other"
     ],
@@ -6117,6 +6150,9 @@
         "Other"
     ],
     "alexellis/k3sup": [
+        "Other"
+    ],
+    "alexgreensh/token-optimizer": [
         "Other"
     ],
     "alexheretic/ab-av1": [
@@ -7643,6 +7679,9 @@
     "baryhuang/claude-code-by-agents": [
         "Other"
     ],
+    "basecamp/omarchy": [
+        "Other"
+    ],
     "basementstudio/xmcp": [
         "Other"
     ],
@@ -8498,9 +8537,6 @@
     "cash2one/VideoTranscoding-Backend": [
         "Other"
     ],
-    "casibase/casibase": [
-        "Other"
-    ],
     "cassava/repoctl": [
         "Other"
     ],
@@ -8661,6 +8697,9 @@
         "Other"
     ],
     "charmbracelet/crush": [
+        "Other"
+    ],
+    "charmbracelet/huh": [
         "Other"
     ],
     "charmbracelet/vhs": [
@@ -9551,9 +9590,6 @@
     "danielrosehill/Claude-Agent-Workspace-Generator": [
         "Other"
     ],
-    "danielrosehill/Claude-Agent-Workspace-Model": [
-        "Other"
-    ],
     "danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands": [
         "Other"
     ],
@@ -10110,6 +10146,9 @@
         "Other"
     ],
     "diet103/claude-code-infrastructure-showcase": [
+        "Other"
+    ],
+    "different-ai-studio/teamclaw": [
         "Other"
     ],
     "digimezzo/knowte": [
@@ -11675,6 +11714,9 @@
     "forge-ext/forge": [
         "Other"
     ],
+    "forrestchang/andrej-karpathy-skills": [
+        "Other"
+    ],
     "fortra/impacket": [
         "Other"
     ],
@@ -11865,6 +11907,9 @@
         "Other"
     ],
     "garrylachman/ElectroCRUD": [
+        "Other"
+    ],
+    "garrytan/gbrain": [
         "Other"
     ],
     "garrytan/gstack": [
@@ -12303,6 +12348,9 @@
         "Other"
     ],
     "google-gemini/gemini-cli": [
+        "Other"
+    ],
+    "google-labs-code/design.md": [
         "Other"
     ],
     "google-labs-code/stitch-sdk": [
@@ -12905,6 +12953,9 @@
     "hobby-kube/guide": [
         "Other"
     ],
+    "holaboss-ai/holaOS": [
+        "Other"
+    ],
     "holazt/RcloneBrowser": [
         "Other"
     ],
@@ -13163,7 +13214,7 @@
     "iamdaiyuan/ios_top_1000": [
         "Other"
     ],
-    "iamfakeguru/claude-md": [
+    "iamfakeguru/agent-md": [
         "Other"
     ],
     "iamgmujtaba/LTC-SUM": [
@@ -13595,6 +13646,9 @@
     "itsrifat/flask-celery-docker-scale": [
         "Other"
     ],
+    "itsual/Agentic---Gen-AI": [
+        "Other"
+    ],
     "itszechs/DriveStream": [
         "Other"
     ],
@@ -13832,6 +13886,9 @@
     "jdorfman/awesome-json-datasets": [
         "Other"
     ],
+    "jdx/usage": [
+        "Other"
+    ],
     "jean-technologies/jean-memory": [
         "Other"
     ],
@@ -13917,6 +13974,9 @@
         "Other"
     ],
     "jfcarr/media-utilities": [
+        "Other"
+    ],
+    "jfrancolopez/Fedora": [
         "Other"
     ],
     "jfreeland/mpdq": [
@@ -14492,9 +14552,6 @@
     "kamhix/todoist-linux": [
         "Other"
     ],
-    "kamranahmedse/githunt": [
-        "Other"
-    ],
     "kangeek/infra-docker-compose": [
         "Other"
     ],
@@ -14774,6 +14831,9 @@
     "kimsungwhee/apple-docs-mcp": [
         "Other"
     ],
+    "kingbootoshi/cartographer": [
+        "Other"
+    ],
     "kinglisky/kakashi": [
         "Other"
     ],
@@ -14996,6 +15056,9 @@
     "krzemienski/alm": [
         "Other"
     ],
+    "krzemienski/anneal": [
+        "Other"
+    ],
     "krzemienski/automated-notebooklm": [
         "Other"
     ],
@@ -15041,6 +15104,9 @@
     "krzemienski/claude-code-builder": [
         "Other"
     ],
+    "krzemienski/claude-code-ios": [
+        "Other"
+    ],
     "krzemienski/claude-code-ios-ui": [
         "Other"
     ],
@@ -15078,6 +15144,9 @@
         "Other"
     ],
     "krzemienski/deep-job-search": [
+        "Other"
+    ],
+    "krzemienski/deepest-plan-plugin": [
         "Other"
     ],
     "krzemienski/developerFolio": [
@@ -15120,6 +15189,9 @@
         "Other"
     ],
     "krzemienski/lashon-next": [
+        "Other"
+    ],
+    "krzemienski/multi-agent-consensus": [
         "Other"
     ],
     "krzemienski/ngrok-setup": [
@@ -15714,6 +15786,9 @@
         "Other"
     ],
     "lieff/minimp4": [
+        "Other"
+    ],
+    "lifangda/claude-plugins": [
         "Other"
     ],
     "lightspark/lightspark": [
@@ -17234,6 +17309,9 @@
     "mix1009/sdwebuiapi": [
         "Other"
     ],
+    "mixedbread-ai/mgrep": [
+        "Other"
+    ],
     "mixmaxhq/eb-fix-npm": [
         "Other"
     ],
@@ -17969,6 +18047,9 @@
     "nextlevelbuilder/ui-ux-pro-max-skill": [
         "Other"
     ],
+    "nexu-io/open-design": [
+        "Other"
+    ],
     "nezort11/chatgpt-mobile": [
         "Other"
     ],
@@ -18069,6 +18150,9 @@
         "Other"
     ],
     "nikp123/soundcloud-syncer": [
+        "Other"
+    ],
+    "nilbuild/githunt": [
         "Other"
     ],
     "ninja-build/ninja": [
@@ -19142,6 +19226,9 @@
     "patrickclery/firetv": [
         "Other"
     ],
+    "paullarionov/claude-certified-architect": [
+        "Other"
+    ],
     "paulpacifico/shutter-encoder": [
         "Other"
     ],
@@ -19254,6 +19341,9 @@
         "Other"
     ],
     "petersem/DockerStack": [
+        "Other"
+    ],
+    "peterskoett/self-improving-agent": [
         "Other"
     ],
     "peterw/Chat-with-Github-Repo": [
@@ -20363,6 +20453,9 @@
     "reportmill/SnapKit": [
         "Other"
     ],
+    "repowise-dev/claude-code-prompts": [
+        "Other"
+    ],
     "requestly/requestly": [
         "Other"
     ],
@@ -20664,9 +20757,6 @@
         "Other"
     ],
     "rounce/nginx-hls-module": [
-        "Other"
-    ],
-    "router-for-me/CLIProxyAPIPlus": [
         "Other"
     ],
     "router-for-me/Cli-Proxy-API-Management-Center": [
@@ -21926,9 +22016,6 @@
     "soldiermoth/hlsq": [
         "Other"
     ],
-    "solosoyfranco/Fedora": [
-        "Other"
-    ],
     "soluble-ai/kubetap": [
         "Other"
     ],
@@ -22931,7 +23018,7 @@
     "telepresenceio/telepresence": [
         "Other"
     ],
-    "temporalio/sdk-core": [
+    "temporalio/sdk-rust": [
         "Other"
     ],
     "tensorchord/Awesome-LLMOps": [
@@ -23022,6 +23109,9 @@
         "Other"
     ],
     "the-guild-org/notion-github-sync": [
+        "Other"
+    ],
+    "the-open-agent/openagent": [
         "Other"
     ],
     "the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate": [
@@ -23993,6 +24083,9 @@
     "vercel-labs/agent-skills": [
         "Other"
     ],
+    "vercel-labs/portless": [
+        "Other"
+    ],
     "vercel-labs/ralph-loop-agent": [
         "Other"
     ],
@@ -24485,10 +24578,10 @@
     "warp-tech/warpgate": [
         "Other"
     ],
-    "warpdotdev/Warp": [
+    "warpdotdev/themes": [
         "Other"
     ],
-    "warpdotdev/themes": [
+    "warpdotdev/warp": [
         "Other"
     ],
     "warpnet/awesome-prometheus": [
