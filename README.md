@@ -1428,6 +1428,7 @@
 * [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast channels for async web apps. 📢
 * [22bulbs/brom](https://github.com/22bulbs/brom): Highly configurable, local auditing of HTTP transactions
 * [txthinking/brook](https://github.com/txthinking/brook): A cross-platform programmable network tool
+* [browser-use/browser-harness](https://github.com/browser-use/browser-harness): Browser Harness | Self-healing harness that enables LLMs to complete any task.
 * [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp): Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 * [browser-use/browser-use](https://github.com/browser-use/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 * [apivideo/browserLiveStream](https://github.com/apivideo/browserLiveStream): Use webcam, browser and Node to stream live video. From api.video (https://api.video)
@@ -2812,7 +2813,6 @@
 * [artsy/Emergence](https://github.com/artsy/Emergence): TV. Shows.
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt): Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
-* [tversteeg/emplace](https://github.com/tversteeg/emplace): 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 * [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten): Emscripten: An LLVM-to-WebAssembly Compiler
 * [gluonfield/enchanted](https://github.com/gluonfield/enchanted): Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 * [BrenekH/encodarr](https://github.com/BrenekH/encodarr): Self-hosted web app for encoding files to a target format using distributed computing.
@@ -5734,7 +5734,7 @@
 * [bellingcat/octosuite](https://github.com/bellingcat/octosuite): Terminal-based toolkit for GitHub data analysis.
 * [ovity/octotree](https://github.com/ovity/octotree): GitHub on steroids
 * [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks): [MIRROR]
-* [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin): ODIN [for Claude Code as a plugin] - Outline Driven development approach for agentic INtelligence
+* [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin): Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic commits.
 * [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business.
 * [liberodark/ODrive](https://github.com/liberodark/ODrive): Google Drive GUI for Windows / Mac / Linux
 * [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker): Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
@@ -5804,7 +5804,7 @@
 * [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe): An Open-Source Asynchronous Coding Agent
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt): Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
-* [the-open-agent/openagent](https://github.com/the-open-agent/openagent): ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+* [the-open-agent/openagent](https://github.com/the-open-agent/openagent): ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent
 * [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
 * [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples): Example apps for the Apps SDK
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
@@ -5883,8 +5883,6 @@
 * [fastred/Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times): Collection of advice on optimizing compile times of Swift projects.
 * [objcio/OptimizingCollections](https://github.com/objcio/OptimizingCollections): Home of my talk about Optimizing Collections in Swift
 * [dglt1/optimus-switch-gdm](https://github.com/dglt1/optimus-switch-gdm): modified version to work with gdm/gnome. includes install script. made for manjaro linux.
-* [tvarchive/optimus_old](https://github.com/tvarchive/optimus_old): Latest repository has been moved to this location
-* [tvarchive/optimusTemplate](https://github.com/tvarchive/optimusTemplate): This is a cucumber jvm implementation template using the optimus mobile automation framework. If you like it, star it, help spread the word.
 * [jaiobs/OptiVideoEditor-for-android](https://github.com/jaiobs/OptiVideoEditor-for-android): Native Video editor : Video trim, Audio, Video merge, Slow and fast motion, Text and image, etc...
 * [hraban/opus](https://github.com/hraban/opus): Go wrapper for libopus (golang)
 * [webmproject/opus-dash](https://github.com/webmproject/opus-dash): Specification for Encapsulating Opus Audio in ISO-BMFF Container
@@ -5916,7 +5914,7 @@
 * [willowtreeapps/ouroboros](https://github.com/willowtreeapps/ouroboros): Infinitely scrolling carousel for tvOS
 * [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 * [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps): Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
-* [OutlineDriven/outline-driven-development](https://github.com/OutlineDriven/outline-driven-development): Outline Driven Development – Beyond "specs" or "vibes" using AST analysis and Modern CLI Tools w/ context engineering; batteries-included
+* [OutlineDriven/outline-driven-development](https://github.com/OutlineDriven/outline-driven-development): Outline-Driven Development - methodology between vibes and specs. AST tooling + context engineering. Plugins for Claude / Codex / Gemini.
 * [OutlineFoundation/outline-server](https://github.com/OutlineFoundation/outline-server): Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 * [vectordotdev/outside-cli](https://github.com/vectordotdev/outside-cli): A CLI app that gives you the weather forecast
 * [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine): OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS

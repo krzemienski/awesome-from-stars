@@ -8279,6 +8279,9 @@
     "brookemckim/hlspider": [
         "Other"
     ],
+    "browser-use/browser-harness": [
+        "Other"
+    ],
     "browser-use/browser-use": [
         "Other"
     ],
@@ -23655,15 +23658,6 @@
         "Other"
     ],
     "tuxedocomputers/tuxedo.sh": [
-        "Other"
-    ],
-    "tvarchive/optimusTemplate": [
-        "Other"
-    ],
-    "tvarchive/optimus_old": [
-        "Other"
-    ],
-    "tversteeg/emplace": [
         "Other"
     ],
     "tw93/Mole": [
