@@ -287,6 +287,9 @@
     "AgentDeskAI/browser-tools-mcp": [
         "Other"
     ],
+    "AgentDock/AgentDock": [
+        "Other"
+    ],
     "AgentOak/docker-livestreaming": [
         "Other"
     ],
@@ -8225,9 +8228,6 @@
     "bregman-arie/devops-resources": [
         "Other"
     ],
-    "brennercruvinel/CCPlugins": [
-        "Other"
-    ],
     "briancollins/XCode-Project-Templates": [
         "Other"
     ],
@@ -15134,6 +15134,9 @@
     "krzemienski/codex-universal": [
         "Other"
     ],
+    "krzemienski/crucible": [
+        "Other"
+    ],
     "krzemienski/custom-instructions": [
         "Other"
     ],
@@ -15189,6 +15192,9 @@
         "Other"
     ],
     "krzemienski/lashon-next": [
+        "Other"
+    ],
+    "krzemienski/lynx": [
         "Other"
     ],
     "krzemienski/multi-agent-consensus": [
@@ -18341,6 +18347,9 @@
     "notionsdk/notion-sdk-kotlin-old": [
         "Other"
     ],
+    "notlikeDev/CCPlugins": [
+        "Other"
+    ],
     "nova-video-player/aos-AVP": [
         "Other"
     ],
@@ -19574,6 +19583,9 @@
     "pluja/awesome-privacy": [
         "Other"
     ],
+    "plurai-ai/intellagent": [
+        "Other"
+    ],
     "pluralsh/plural": [
         "Other"
     ],
@@ -20757,6 +20769,9 @@
         "Other"
     ],
     "rounce/nginx-hls-module": [
+        "Other"
+    ],
+    "router-for-me/CLIProxyAPI": [
         "Other"
     ],
     "router-for-me/Cli-Proxy-API-Management-Center": [
@@ -22296,6 +22311,9 @@
         "Other"
     ],
     "stakater/Konfigurator": [
+        "Other"
+    ],
+    "standardagents/dmux": [
         "Other"
     ],
     "standardnotes/app": [

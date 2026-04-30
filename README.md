@@ -215,6 +215,7 @@
 * [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta): The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 * [coder/agentapi](https://github.com/coder/agentapi): HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 * [humanlayer/agentcontrolplane](https://github.com/humanlayer/agentcontrolplane): ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous tool calls like requesting human feedback on key operations. Full MCP support.
+* [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock): Build Anything with AI Agents
 * [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield): Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [Cluster444/agentic](https://github.com/Cluster444/agentic): An agentic workflow tool that provides context engineering support for opencode
@@ -1547,7 +1548,7 @@
 * [miwidot/ccms](https://github.com/miwidot/ccms): Claude Code Machine Sync
 * [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles):  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates
 * [sivchari/ccowl](https://github.com/sivchari/ccowl): A cross-platform status bar application that monitors Claude Code usage in real-time.
-* [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins): Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
+* [notlikeDev/CCPlugins](https://github.com/notlikeDev/CCPlugins): Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 * [automazeio/ccpm](https://github.com/automazeio/ccpm): Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 * [kaitranntt/ccs](https://github.com/kaitranntt/ccs): Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 * [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline): 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
@@ -1855,6 +1856,7 @@
 * [openai/CLIP](https://github.com/openai/CLIP): CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 * [clipable/clipable](https://github.com/clipable/clipable): A simple, self-hosted, alternative to Streamable
 * [arslancb/clipbucket](https://github.com/arslancb/clipbucket): Open source video sharing website script, Tune.pk clone, Youtube clone, dailymotion clone. PHP.
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
 * [itsmylife44/cliproxyapi-dashboard](https://github.com/itsmylife44/cliproxyapi-dashboard): Web management dashboard for CLIProxyAPI — config sync, OAuth providers, monitoring, and more
 * [tfoldi/clj-slack-sql](https://github.com/tfoldi/clj-slack-sql): Post SQL Statements results to Slack channels (JDBC)
 * [Dids/clobber](https://github.com/Dids/clobber): A command line application for building Clover.
@@ -2136,6 +2138,7 @@
 * [andrewbrg/crouton-auto](https://github.com/andrewbrg/crouton-auto): Bash script to auto-create (via crouton) a Debian / Cinnamon installation within ChromeOS and install multiple development tools
 * [dehvCurtis/Crowd-JIRA-Confluence-Gitbucket-Jenkins-Nexus-SonarQube-Mattermost-ownCloud-OpenLDAP-Docker](https://github.com/dehvCurtis/Crowd-JIRA-Confluence-Gitbucket-Jenkins-Nexus-SonarQube-Mattermost-ownCloud-OpenLDAP-Docker): A compose of following Docker containers: Crowd, JIRA, Confluence, GitBucket, Jenkins, Nexus, SonarQube, Mattermost, ownCloud, OpenLDAP containers
 * [cruffenach/CRToast](https://github.com/cruffenach/CRToast): A modern iOS toast view that can fit your notification needs
+* [krzemienski/crucible](https://github.com/krzemienski/crucible): Evidence-gated task planning, execution, and validation for Claude Code. Refuses completion without quorum-approved proof.
 * [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch): Insane(ly slow but wicked good) PNG image optimization
 * [jaggad/crunker](https://github.com/jaggad/crunker): Simple way to merge or concatenate audio files with the Web Audio API. 
 * [charmbracelet/crush](https://github.com/charmbracelet/crush): Glamourous agentic coding for all 💘
@@ -2457,6 +2460,7 @@
 * [DeviLeo/DLGPlayer](https://github.com/DeviLeo/DLGPlayer): A media player for iOS based on FFmpeg 4.0
 * [Lekensteyn/dmg2img](https://github.com/Lekensteyn/dmg2img): DMG2IMG allows you to convert a (compressed) Apple Disk Images (imported from http://vu1tur.eu.org/dmg2img). Note: the master branch contains imported code, but lacks bugfixes/features from the develop branch. "develop" branch is recommended!
 * [anacrolix/dms](https://github.com/anacrolix/dms): A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.
+* [standardagents/dmux](https://github.com/standardagents/dmux): A dev agent multiplexer for git worktrees and coding agents.
 * [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
 * [prcongithub/do-assets](https://github.com/prcongithub/do-assets): None
 * [seven1m/do-install-button](https://github.com/seven1m/do-install-button): NO LONGER MAINTAINED
@@ -4222,6 +4226,7 @@
 * [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru): The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 * [kitsunyan/intel-undervolt](https://github.com/kitsunyan/intel-undervolt): Intel CPU undervolting and throttling configuration tool
 * [intel/intel-vaapi-driver](https://github.com/intel/intel-vaapi-driver): VA-API user mode driver for Intel GEN Graphics family
+* [plurai-ai/intellagent](https://github.com/plurai-ai/intellagent): A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions
 * [MicrosoftDocs/intellicode](https://github.com/MicrosoftDocs/intellicode): Visual Studio IntelliCode - AI-enhanced development tools. 👋Want to submit an issue to MicrosoftDocs/intellicode?  If you have a bug or an idea, read the contributing guidelines before opening an issue.  For FAQ's see
 * [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code): Make Claude Code truly intelligent and way more autonomous!
 * [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community): IntelliJ IDEA & IntelliJ Platform
@@ -4877,6 +4882,7 @@
 * [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM): Large World Model -- Modeling Text and Video with Millions Context
 * [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop): 一个基于 Electron 的音乐软件
 * [canonical/lxd-ui](https://github.com/canonical/lxd-ui): Easy and accessible container and virtual machine management. A browser interface for LXD
+* [krzemienski/lynx](https://github.com/krzemienski/lynx): Sharp-eyed visual-audit suite for Claude Code. Two coupled skills find UI/UX defects through real-system probes. No mocks. 9/9 detection accuracy on a known-mole synthetic.
 * [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1): A bootloader and experimentation playground for Apple Silicon
 * [bman46/M3U-List-Checker](https://github.com/bman46/M3U-List-Checker): Checks M3U lists for bad sources. 
 * [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists): m3u playlists for radio music, sorted by popularity
@@ -5483,7 +5489,7 @@
 * [twilio-labs/NgrokExtensions](https://github.com/twilio-labs/NgrokExtensions): Visual Studio integration with ngrok
 * [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based user interfaces with Python. The nice way.
 * [ibelick/nim](https://github.com/ibelick/nim): Nim is a free and open-source personal website template built with Next.js 15, React 19, Tailwind CSS v4, and Motion-Primitives.
-* [Nimbalyst/nimbalyst](https://github.com/Nimbalyst/nimbalyst): Nimbalyst - Public releases, issue tracking, and documentation
+* [Nimbalyst/nimbalyst](https://github.com/Nimbalyst/nimbalyst): Nimbalyst - visual workspace for building with Codex, Claude Code, and more
 * [Quick/Nimble](https://github.com/Quick/Nimble): A Matcher Framework for Swift and Objective-C
 * [ashfurrow/Nimble-Snapshots](https://github.com/ashfurrow/Nimble-Snapshots): Nimble matchers for FBSnapshotTestCase.
 * [Spiderpig86/Nimbus](https://github.com/Spiderpig86/Nimbus): :notes: A new way to discover songs and artists on SoundCloud.
@@ -5782,7 +5788,7 @@
 * [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas): 📃 A better UX for chat, writing content, and coding with LLMs.
 * [ymichael/open-codex](https://github.com/ymichael/open-codex): Lightweight coding agent that runs in your terminal
 * [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use): AI computer use powered by open source LLMs and E2B Desktop Sandbox
-* [nexu-io/open-design](https://github.com/nexu-io/open-design): 🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.
+* [nexu-io/open-design](https://github.com/nexu-io/open-design): 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 * [fossasia/open-event-server](https://github.com/fossasia/open-event-server): The Open Event Organizer Server to Manage Events https://test-api.eventyay.com
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
 * [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface): Control Any Computer Using LLMs.
@@ -5947,7 +5953,7 @@
 * [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator): Turn PDFs and EPUBs into audiobooks, subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, notably XTTS, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app with a GUI, an installer and all-in-one packages.
 * [louisdh/panelkit](https://github.com/louisdh/panelkit): A UI framework that enables panels on iOS.
 * [antoniocasero/Panels](https://github.com/antoniocasero/Panels): Panels is a framework to easily add sliding panels to your application
-* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-aware VPN and tunneled reverse proxy for remote access.
+* [fosrl/pangolin](https://github.com/fosrl/pangolin): Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 * [stefanogali/panic-panini-next](https://github.com/stefanogali/panic-panini-next): Next.Js + TailwindCSS starter template for music band.
 * [michaelklishin/pantomime](https://github.com/michaelklishin/pantomime): A tiny Clojure library that deals with MIME types (Internet media types)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
