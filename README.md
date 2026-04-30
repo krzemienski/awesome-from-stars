@@ -238,7 +238,7 @@
 * [agentskills/agentskills](https://github.com/agentskills/agentskills): Specification and documentation for Agent Skills
 * [git-men/agentstudio](https://github.com/git-men/agentstudio): A sophisticated AI-powered workspace built on top of Claude Code SDK
 * [priyankark/agentum-cli](https://github.com/priyankark/agentum-cli): Vibe-code on the go with AirCodum Agentum! Control Claude Code, OpenAI Codex and GitHub Copilot sessions right from your phone. Supports a VNC mode for more user control. Self-host your own servers for better privacy
-* [agno-agi/agno](https://github.com/agno-agi/agno): Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+* [agno-agi/agno](https://github.com/agno-agi/agno): Run agents as production software.
 * [marysaka/ahv](https://github.com/marysaka/ahv): Bindings for Apple Silicon Hypervisor
 * [vercel/ai](https://github.com/vercel/ai): The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 * [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills): my curated agent skills library 
@@ -1675,7 +1675,7 @@
 * [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel): SSH Client & Server framework in Swift
 * [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next): RGB Driver for Linux
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5): Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
-* [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S): LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+* [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S): LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 * [Rafostar/clapper](https://github.com/Rafostar/clapper): Level up your video experience with a modern and user-friendly media player.
 * [clappr/clappr](https://github.com/clappr/clappr): An extensible, plugin-oriented, HTML5-first media player for the web
 * [clappr/clappr-core](https://github.com/clappr/clappr-core): Core components of the Clappr player architecture
@@ -1781,7 +1781,6 @@
 * [decider/claude-hooks](https://github.com/decider/claude-hooks): Comprehensive hooks for Claude Code to enforce clean code practices and automate workflows
 * [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub):   A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions,    and help developers understand and improve their codebase through simple @mentions.
 * [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-* [danielrosehill/Claude-Ivory-PC-Builder](https://github.com/danielrosehill/Claude-Ivory-PC-Builder): None
 * [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 * [obra/claude-memory-extractor](https://github.com/obra/claude-memory-extractor): None
 * [krzemienski/claude-mobile-expo](https://github.com/krzemienski/claude-mobile-expo): Claude Code Mobile - iOS app with Python FastAPI backend providing OpenAI-compatible API for Claude Code CLI
@@ -3422,7 +3421,7 @@
 * [gardener/gardener](https://github.com/gardener/gardener): Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 * [sdslabs/gasper](https://github.com/sdslabs/gasper): Your Cloud in a Binary
 * [gastownhall/gastown](https://github.com/gastownhall/gastown): Gas Town - multi-agent workspace manager
-* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 * [missingstudio/gateway](https://github.com/missingstudio/gateway): [deprecated] AI Gateway - core infrastructure stack for building production-ready AI Applications
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): React-based framework with performance, scalability, and security built in.
 * [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter): Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
@@ -7635,7 +7634,7 @@
 * [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe): An open source project management tool with Kanban boards
 * [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development.
 * [GothenburgBitFactory/taskserver](https://github.com/GothenburgBitFactory/taskserver): Taskserver - Taskwarrior Synchronisation Server
-* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill): Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
+* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill): Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 * [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon): The music player of today! :city_sunrise:
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 * [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli): A Python based monitoring and tracking tool for Plex Media Server.
