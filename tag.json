@@ -308,6 +308,9 @@
     "Agravak/opaal": [
         "Other"
     ],
+    "AgriciDaniel/claude-blog": [
+        "Other"
+    ],
     "AgustinSRG/PersonalMediaVault": [
         "Other"
     ],
@@ -857,6 +860,9 @@
     "CharlesWiltgen/Axiom": [
         "Other"
     ],
+    "CharlieGreenman/ghostty-dynamic-themes": [
+        "Other"
+    ],
     "CharlieQLe/gnome-extension-gtk3-theme-switcher": [
         "Other"
     ],
@@ -1074,6 +1080,9 @@
         "Other"
     ],
     "Comfy-Org/ComfyUI": [
+        "Other"
+    ],
+    "CommandCodeAI/command-code": [
         "Other"
     ],
     "Commandcracker/alpine-ffmpeg": [
@@ -7223,6 +7232,9 @@
     "arut/nginx-ts-module": [
         "Other"
     ],
+    "asaferdman23/career-brand-plugin": [
+        "Other"
+    ],
     "aschuch/AwesomeCache": [
         "Other"
     ],
@@ -8390,6 +8402,9 @@
     "burak-kara/real-time-video-server": [
         "Other"
     ],
+    "buraksu42/skill-gateway": [
+        "Other"
+    ],
     "bustoutsolutions/siesta": [
         "Other"
     ],
@@ -8792,6 +8807,9 @@
     "chiraggude/awesome-laravel": [
         "Other"
     ],
+    "chirpz-ai/pandaprobe": [
+        "Other"
+    ],
     "chn-lee-yumi/distributed_ffmpeg_transcoding_cluster": [
         "Other"
     ],
@@ -9126,6 +9144,9 @@
         "Other"
     ],
     "coder/deploy-code-server": [
+        "Other"
+    ],
+    "coder/mux": [
         "Other"
     ],
     "coder/sshcode": [
@@ -17513,7 +17534,7 @@
     "moby/swarmkit": [
         "Other"
     ],
-    "mock-server/mockserver": [
+    "mock-server/mockserver-monorepo": [
         "Other"
     ],
     "modal-labs/quillman": [
@@ -18293,6 +18314,9 @@
     "no-src/gofs": [
         "Other"
     ],
+    "noah-sheldon/ai-dev-kit": [
+        "Other"
+    ],
     "noah0316/notion-github-issue-sync": [
         "Other"
     ],
@@ -18635,6 +18659,9 @@
     "obra/superpowers-skills": [
         "Other"
     ],
+    "obsessiondb/rudel": [
+        "Other"
+    ],
     "obsidian-community/obsidian-kanban": [
         "Other"
     ],
@@ -18933,6 +18960,9 @@
         "Other"
     ],
     "opencast/opencast-docker": [
+        "Other"
+    ],
+    "openclaw/Peekaboo": [
         "Other"
     ],
     "openclaw/openclaw": [
@@ -22472,9 +22502,6 @@
     "steinfletcher/github-org-clone": [
         "Other"
     ],
-    "steipete/Peekaboo": [
-        "Other"
-    ],
     "steipete/agent-rules": [
         "Other"
     ],
@@ -24786,6 +24813,9 @@
         "Other"
     ],
     "web2py/pydal": [
+        "Other"
+    ],
+    "webadderallorg/Recordly": [
         "Other"
     ],
     "webclipper/web-clipper": [
