@@ -2549,9 +2549,6 @@
     "HansHammel/clone-all-github-repos": [
         "Other"
     ],
-    "HappenApps/Quiver": [
-        "Other"
-    ],
     "Haptic-Apps/Slide-iOS": [
         "Other"
     ],
@@ -7691,9 +7688,6 @@
     "badabing2005/PixelFlasher": [
         "Other"
     ],
-    "badlogic/pi-mono": [
-        "Other"
-    ],
     "badoo/Chatto": [
         "Other"
     ],
@@ -9086,6 +9080,9 @@
     "codacy/codacy-cli-v2": [
         "Other"
     ],
+    "codag-megalith/codag-visualizer": [
+        "Other"
+    ],
     "code-vicar/rpm": [
         "Other"
     ],
@@ -9384,6 +9381,9 @@
         "Other"
     ],
     "crabwise-ai/crabwalk": [
+        "Other"
+    ],
+    "craft-ai-agents/craft-agents-oss": [
         "Other"
     ],
     "craftzdog/dotfiles-public": [
@@ -9837,6 +9837,9 @@
         "Other"
     ],
     "davidde/mpv-autosub": [
+        "Other"
+    ],
+    "davideast/stitch-mcp": [
         "Other"
     ],
     "davidfischer-ch/pytoolbox": [
@@ -10637,6 +10640,9 @@
     "dullage/flatnotes": [
         "Other"
     ],
+    "duongductrong/Snapzy": [
+        "Other"
+    ],
     "duplicati/duplicati": [
         "Other"
     ],
@@ -10667,7 +10673,7 @@
     "dvonlehman/s3-proxy": [
         "Other"
     ],
-    "dvorka/mindforger": [
+    "dvorka-oss/mindforger": [
         "Other"
     ],
     "dwall-rs/dwall": [
@@ -10743,6 +10749,9 @@
         "Other"
     ],
     "eRadical/ansible-my-fedora-workstation": [
+        "Other"
+    ],
+    "earendil-works/pi": [
         "Other"
     ],
     "eashish93/imgsquash": [
@@ -16256,9 +16265,6 @@
     "lukilabs/beautiful-mermaid": [
         "Other"
     ],
-    "lukilabs/craft-agents-oss": [
-        "Other"
-    ],
     "luong-komorebi/Awesome-Linux-Software": [
         "Other"
     ],
@@ -17103,9 +17109,6 @@
         "Other"
     ],
     "michaelversus/insomnia-plugin-codegen": [
-        "Other"
-    ],
-    "michaelzixizhou/codag": [
         "Other"
     ],
     "michal-michalak/awesome-django-projects": [
@@ -17976,6 +17979,9 @@
         "Other"
     ],
     "nanobrowser/nanobrowser": [
+        "Other"
+    ],
+    "nanocoai/nanoclaw": [
         "Other"
     ],
     "naomiaro/waveform-playlist": [
@@ -20184,9 +20190,6 @@
         "Other"
     ],
     "quodlibet/mutagen": [
-        "Other"
-    ],
-    "qwibitai/nanoclaw": [
         "Other"
     ],
     "qwinff/qwinff": [
@@ -22638,6 +22641,9 @@
         "Other"
     ],
     "structurely/ecs-autoscale": [
+        "Other"
+    ],
+    "strukto-ai/mirage": [
         "Other"
     ],
     "strukturag/libde265": [
