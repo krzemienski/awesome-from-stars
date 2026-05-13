@@ -376,7 +376,7 @@
 * [segmentio/analytics-ios](https://github.com/segmentio/analytics-ios): The hassle-free way to integrate analytics into any iOS application. 
 * [segment-integrations/analytics-ios-integration-amplitude](https://github.com/segment-integrations/analytics-ios-integration-amplitude): The Amplitude analytics-ios integration.
 * [segment-boneyard/analytics-swift](https://github.com/segment-boneyard/analytics-swift): The hassle-free way to add analytics to your Swift app.
-* [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills): A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+* [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills): A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 * [raindropio/android](https://github.com/raindropio/android): Official Raindrop.io mobile app for Android
 * [warren-bank/Android-ExoPlayer-AirPlay-Receiver](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver): Android app to run on a set-top box and play video URLs "cast" to it with a stateless HTTP API (based on AirPlay v1).
 * [googlesamples/android-media-controller](https://github.com/googlesamples/android-media-controller): None
@@ -829,6 +829,7 @@
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): The list of continuous integration services and tools
 * [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd): continuous integration and continuous delivery
 * [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl): A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+* [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude): Awesome Claude directory: agents, MCP servers, skills, hooks, commands, tools, guides, and AI workflow resources.
 * [webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude): A curated list of awesome things related to Anthropic Claude
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): An orchestrated sub agent dev team powered by claude code
 * [LangGPT/awesome-claude-code](https://github.com/LangGPT/awesome-claude-code): Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树）
@@ -1813,7 +1814,7 @@
 * [jackmastermind/claude-skill-editor](https://github.com/jackmastermind/claude-skill-editor): create & edit Claude Skills
 * [Emlembow/claude-skills](https://github.com/Emlembow/claude-skills): A collection of custom skills for Claude AI - composable, portable, and powerful task-specific extensions
 * [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills): 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-* [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+* [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): 263+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 * [jezweb/claude-skills](https://github.com/jezweb/claude-skills): Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.
 * [spences10/claude-skills-cli](https://github.com/spences10/claude-skills-cli): 🤖 CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
 * [CavinHuang/claude-skills-hub](https://github.com/CavinHuang/claude-skills-hub): 🚀 Claude Skills Hub - 150+ Free Claude Skills for Enhanced AI Coding. A marketplace of expert-crafted workflows to boost your Claude Code experience.
@@ -1842,7 +1843,6 @@
 * [mrgoonie/claudekit-cli](https://github.com/mrgoonie/claudekit-cli): A CLI command to get started with ClaudeKit
 * [claudekit/claudekit-docs](https://github.com/claudekit/claudekit-docs): An official documentation of ClaudeKit.cc
 * [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills): All powerful skills of ClaudeKit.cc!
-* [JSONbored/claudepro-directory](https://github.com/JSONbored/claudepro-directory): HeyClaude (formerly Claude Pro Directory) is a searchable collection of pre-built AI skills, agents, MCP servers, guides, hooks, statuslines, and other custom configs, designed to enhance Claude, Codex, Cursor, OpenClaw, and various other agentic workflows/platforms.
 * [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler): Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 * [AutumnsGrove/ClaudeSkills](https://github.com/AutumnsGrove/ClaudeSkills): Skills for Claude.ai and Claude Code
 * [kay-ou/ClaudeSkills](https://github.com/kay-ou/ClaudeSkills): A Claude Skills collection providing ptrade‑dev strategy guardrails with lifecycle checks, API‑aware validation, and error‑pattern detection, plus structured parsing and webpage‑to‑Markdown tools—enabling LLMs to reliably analyze, generate, and debug PTrade/SimTradeLab strategies
@@ -1864,7 +1864,7 @@
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a real-time analytics database management system
 * [soundcloud-py/client-api](https://github.com/soundcloud-py/client-api): Official web api for the SoundCloud Python service.
 * [kaltura/clients-generator](https://github.com/kaltura/clients-generator): Kaltura API Client Libraries Generator - PHP source code introspection based automation for API native SDKs generation for various programming languages and API platforms
-* [cline/cline](https://github.com/cline/cline): Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+* [cline/cline](https://github.com/cline/cline): Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 * [openai/CLIP](https://github.com/openai/CLIP): CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 * [clipable/clipable](https://github.com/clipable/clipable): A simple, self-hosted, alternative to Streamable
 * [arslancb/clipbucket](https://github.com/arslancb/clipbucket): Open source video sharing website script, Tune.pk clone, Youtube clone, dailymotion clone. PHP.
@@ -2305,7 +2305,7 @@
 * [ekreloff/Deep-Link-Tester-tvOS-](https://github.com/ekreloff/Deep-Link-Tester-tvOS-): None
 * [Cranot/deep-research](https://github.com/Cranot/deep-research): Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
 * [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher): Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
-* [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents): Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+* [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents): Agent harness built with LangChain and LangGraph.
 * [epiclabs-io/DeepAudioClassification](https://github.com/epiclabs-io/DeepAudioClassification): None
 * [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera): Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.
 * [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude): Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
@@ -3074,7 +3074,7 @@
 * [welovemedia/ffmate](https://github.com/welovemedia/ffmate): FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate
 * [bcoudurier/FFmbc](https://github.com/bcoudurier/FFmbc): FFmpeg customized for broadcast and professional usage
 * [unosquare/ffmediaelement](https://github.com/unosquare/ffmediaelement): FFME: The Advanced WPF MediaElement (based on FFmpeg)
-* [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics): Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
+* [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics): Visualizes Video Quality Metrics (PSNR, SSIM, XPSNR & VMAF) calculated by ffmpeg.exe
 * [Fmstrat/ffmkv](https://github.com/Fmstrat/ffmkv): A bash wrapper for FFMPEG with an Inquirer menu interface and progress monitoring.
 * [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg): Mirror of https://git.ffmpeg.org/ffmpeg.git
 * [datarhei/ffmpeg](https://github.com/datarhei/ffmpeg): FFmpeg base image for datarhei/core.
@@ -4045,7 +4045,7 @@
 * [muxinc/hlstools](https://github.com/muxinc/hlstools): Tools for analyzing and processing hls streams
 * [faryon93/hlswatch](https://github.com/faryon93/hlswatch): keep track of hls viewer stats
 * [bcl/HMS](https://github.com/bcl/HMS): Roku application for streaming home media from a basic http server.
-* [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS): An Open Agent Computer for ANY digital work.
+* [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS): Turn repeat work into running AI work-streams.
 * [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso): SteamOS 3 (Holo) archiso configuration
 * [ajnart/homarr](https://github.com/ajnart/homarr): Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
@@ -4634,11 +4634,11 @@
 * [Eyevinn/lambda-stitch](https://github.com/Eyevinn/lambda-stitch): A Lambda function to insert ads in VOD
 * [Eyevinn/lambda-vast-transformer](https://github.com/Eyevinn/lambda-vast-transformer): Lambda function for modifying a VAST/VMAP XML on-the-fly
 * [Eyevinn/lambda-vodtovod](https://github.com/Eyevinn/lambda-vodtovod): Lambda function to stitch multiple VODs into a single VOD
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform. Available in TypeScript!
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform.
 * [tmc/langchaingo](https://github.com/tmc/langchaingo): LangChain for Go, the easiest way to write LLM-based programs in Go
 * [langflow-ai/langflow](https://github.com/langflow-ai/langflow): Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 * [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
-* [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph): Build resilient language agents as graphs. Available in TypeScript!
+* [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph): Build resilient agents.
 * [Darwin-lfl/langmanus](https://github.com/Darwin-lfl/langmanus): A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, crawling, and Python code execution, while giving back to the community that made this possible.
 * [langroid/langroid](https://github.com/langroid/langroid): Harness LLMs with Multi-Agent Programming
 * [langroid/langroid-examples](https://github.com/langroid/langroid-examples): Using Langroid's Multi-Agent Framework to Build LLM Apps
@@ -5789,7 +5789,7 @@
 * [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [jundot/omlx](https://github.com/jundot/omlx): LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 * [omnara-ai/omnara](https://github.com/omnara-ai/omnara): Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
-* [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent): OmniCoreAgent is a powerful Python framework for building autonomous AI agents that think, reason, and execute complex tasks. Production-ready agents that use tools, manage memory, coordinate workflows, and handle real-world business logic.
+* [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent): Open Python agent harness for production AI agents: parallel tool execution, structured observations, loop detection, memory, workspace files, MCP tools, subagents, background tasks, and OmniServe APIs.
 * [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB): Web tool for database management
 * [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute): Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+Caveman stacked compression up to ~95% eligible context savings, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 * [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -6651,7 +6651,7 @@
 * [radiantmediaplayer/rmp-vast](https://github.com/radiantmediaplayer/rmp-vast): A client-side JavaScript solution to load, parse and display VAST 2, 3 & 4 resources with HTML5 video
 * [lobre/rmuploader](https://github.com/lobre/rmuploader): Web app to upload files to the Remarkable Tablet
 * [briandunnington/Roact](https://github.com/briandunnington/Roact): React for Roku
-* [msdrigg/Roam](https://github.com/msdrigg/Roam): Roku Remote for all your apple devices
+* [msdrigg/roam](https://github.com/msdrigg/roam): Roku Remote for all your apple devices
 * [Anagraphy/roampage](https://github.com/Anagraphy/roampage): Roampage dashboard
 * [robohorse/RoboPOJOGenerator](https://github.com/robohorse/RoboPOJOGenerator): IntelliJ IDEA and Android Studio plugin
 * [palantir/roboslack](https://github.com/palantir/roboslack): A pluggable, fluent, straightforward Java library for interacting with Slack.
@@ -8368,7 +8368,7 @@
 * [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform): HashiCorp Terraform VSCode extension
 * [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks): Collection of helpful tips and tricks for VS Code. 
 * [sterin/vscode-xcodebuild-tools](https://github.com/sterin/vscode-xcodebuild-tools): Work with Xcode projects from inside Visual Studio Code
-* [clitic/vsd](https://github.com/clitic/vsd): Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists.
+* [clitic/vsd](https://github.com/clitic/vsd): Download streams from DASH and HLS playlists.
 * [vmware-archive/vsphere-storage-for-kubernetes](https://github.com/vmware-archive/vsphere-storage-for-kubernetes): vSphere Storage for Kubernetes
 * [vapoursynth/vsrepo](https://github.com/vapoursynth/vsrepo): A simple package repository for VapourSynth
 * [vinhnx/VTCode](https://github.com/vinhnx/VTCode): Open-source coding agent with code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
