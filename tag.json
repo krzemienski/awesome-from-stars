@@ -404,7 +404,7 @@
     "Alterplay/APAddressBook": [
         "Other"
     ],
-    "AlvianPrasetya/transcoding": [
+    "AlvianPrasetya/TranscodeBench": [
         "Other"
     ],
     "AmberSahdev/Open-Interface": [
@@ -714,9 +714,6 @@
         "Other"
     ],
     "BradLarson/GPUImage3": [
-        "Other"
-    ],
-    "BrainBlend-AI/atomic-agents": [
         "Other"
     ],
     "Brainiarc7/ffmpeg_libnvenc": [
@@ -1556,6 +1553,12 @@
     "Eeems-Org/oxide": [
         "Other"
     ],
+    "Egonex-AI/Understand-Anything": [
+        "Other"
+    ],
+    "Eigenwise/atomic-agents": [
+        "Other"
+    ],
     "Eitol/ngrok-linux-service": [
         "Other"
     ],
@@ -1613,7 +1616,7 @@
     "EmilHernvall/dnsguide": [
         "Other"
     ],
-    "Emlembow/claude-skills": [
+    "Emlembow/skills": [
         "Other"
     ],
     "EmperorPenguin18/linux-installer": [
@@ -3314,9 +3317,6 @@
     "LucyBot-Inc/api-spec-converter": [
         "Other"
     ],
-    "Lum1104/Understand-Anything": [
-        "Other"
-    ],
     "Lungshot/dashma": [
         "Other"
     ],
@@ -3390,6 +3390,9 @@
         "Other"
     ],
     "MadAppGang/claude-code": [
+        "Other"
+    ],
+    "MadsLorentzen/ai-job-search": [
         "Other"
     ],
     "MagicArena/ngrokd": [
@@ -3587,9 +3590,6 @@
     "MostafaAnter/VideoPlayerInsideRecyclerView": [
         "Other"
     ],
-    "MotionSpell/jitsu-oss": [
-        "Other"
-    ],
     "Moya/Moya": [
         "Other"
     ],
@@ -3669,6 +3669,9 @@
         "Other"
     ],
     "NVIDIA/nccl": [
+        "Other"
+    ],
+    "NVIDIA/nemoclaw-community": [
         "Other"
     ],
     "NVIDIA/nvidia-container-runtime": [
@@ -6728,6 +6731,9 @@
     "anthropics/connect-rust": [
         "Other"
     ],
+    "anthropics/courses": [
+        "Other"
+    ],
     "anthropics/devcontainer-features": [
         "Other"
     ],
@@ -8627,6 +8633,9 @@
     "ccremer/clustercode": [
         "Other"
     ],
+    "ccusage/ccusage": [
+        "Other"
+    ],
     "ccxt/ccxt": [
         "Other"
     ],
@@ -8757,9 +8766,6 @@
         "Other"
     ],
     "chaton2325/Brute-force-wifi": [
-        "Other"
-    ],
-    "cheezos/video-compressor": [
         "Other"
     ],
     "chemag/h264nal": [
@@ -8919,9 +8925,6 @@
         "Other"
     ],
     "cirosantilli/linux-kernel-module-cheat": [
-        "Other"
-    ],
-    "cirruslabs/tart": [
         "Other"
     ],
     "ciscoriordan/storescreens-cli": [
@@ -10769,9 +10772,6 @@
     "ebaauw/homebridge-ws": [
         "Other"
     ],
-    "ebamboo/BBPlayerView": [
-        "Other"
-    ],
     "ebitengine/oto": [
         "Other"
     ],
@@ -11267,6 +11267,9 @@
     "evoactivity/hls-proxy-docker": [
         "Other"
     ],
+    "evrendom/rudel": [
+        "Other"
+    ],
     "ewolff/microservice": [
         "Other"
     ],
@@ -11390,16 +11393,7 @@
     "facebook/infer": [
         "Other"
     ],
-    "facebook/metro": [
-        "Other"
-    ],
     "facebook/proxygen": [
-        "Other"
-    ],
-    "facebook/react": [
-        "Other"
-    ],
-    "facebook/react-native": [
         "Other"
     ],
     "facebook/rocksdb": [
@@ -11559,6 +11553,15 @@
         "Other"
     ],
     "fedecalendino/pysub-parser": [
+        "Other"
+    ],
+    "feder-cr/Jobs_Applier_AI_Agent_AIHawk": [
+        "Other"
+    ],
+    "feder-cr/lib_resume_builder_AIHawk": [
+        "Other"
+    ],
+    "feder-cr/resume_render_from_job_description": [
         "Other"
     ],
     "federicocarboni/setup-ffmpeg": [
@@ -11732,10 +11735,10 @@
     "fluteds/starred": [
         "Other"
     ],
-    "flutter/flutter": [
+    "flutter-team-archive/plugins": [
         "Other"
     ],
-    "flutter/plugins": [
+    "flutter/flutter": [
         "Other"
     ],
     "flutter/samples": [
@@ -12558,6 +12561,9 @@
         "Other"
     ],
     "gpac/gpac-testing-linux": [
+        "Other"
+    ],
+    "gpac/jitsu-oss": [
         "Other"
     ],
     "gpac/mp4box.js": [
@@ -17348,10 +17354,10 @@
     "milvus-io/milvus": [
         "Other"
     ],
-    "mindsdb/minds-mcp": [
+    "mindsdb/minds": [
         "Other"
     ],
-    "mindsdb/minds-platform": [
+    "mindsdb/minds-mcp": [
         "Other"
     ],
     "mingrammer/diagrams": [
@@ -18164,6 +18170,9 @@
     "nexu-io/html-anything": [
         "Other"
     ],
+    "nexu-io/html-video": [
+        "Other"
+    ],
     "nexu-io/open-design": [
         "Other"
     ],
@@ -18683,9 +18692,6 @@
     "obra/superpowers-skills": [
         "Other"
     ],
-    "obsessiondb/rudel": [
-        "Other"
-    ],
     "obsidian-community/obsidian-kanban": [
         "Other"
     ],
@@ -18962,6 +18968,9 @@
     "openai/symphony": [
         "Other"
     ],
+    "openai/tart": [
+        "Other"
+    ],
     "openai/tiktoken": [
         "Other"
     ],
@@ -19022,7 +19031,7 @@
     "openfun/marsha": [
         "Other"
     ],
-    "openinterpreter/open-interpreter": [
+    "openinterpreter/openinterpreter": [
         "Other"
     ],
     "openjdk/jdk": [
@@ -19427,6 +19436,9 @@
     "peak/s5cmd": [
         "Other"
     ],
+    "peanemis/video-compressor": [
+        "Other"
+    ],
     "pear-devs/pear-desktop": [
         "Other"
     ],
@@ -19491,6 +19503,9 @@
         "Other"
     ],
     "petrpavlik/GeoSwift": [
+        "Other"
+    ],
+    "pewdiepie-archdaemon/odysseus": [
         "Other"
     ],
     "pezzolabs/pezzo": [
@@ -20465,6 +20480,15 @@
     "react/create-react-app": [
         "Other"
     ],
+    "react/metro": [
+        "Other"
+    ],
+    "react/react": [
+        "Other"
+    ],
+    "react/react-native": [
+        "Other"
+    ],
     "reactive-python/reactpy": [
         "Other"
     ],
@@ -21135,9 +21159,6 @@
         "Other"
     ],
     "rymcol/Server-Side-Swift-Benchmarking": [
-        "Other"
-    ],
-    "ryoppippi/ccusage": [
         "Other"
     ],
     "s-matyukevich/raspberry-pi-os": [
@@ -22466,6 +22487,9 @@
     "ssut/ffmpeg-on-apple-silicon": [
         "Other"
     ],
+    "stablyai/orca": [
+        "Other"
+    ],
     "stackblitz-labs/bolt.diy": [
         "Other"
     ],
@@ -23102,7 +23126,7 @@
     "taniyow/react-portfolio": [
         "Other"
     ],
-    "tannercollin/standardnotes-fs": [
+    "tanner37/standardnotes-fs": [
         "Other"
     ],
     "tanyuan/rokuwiki": [
@@ -23627,6 +23651,9 @@
     "tomwojcik/homeserver-traefik-portainer": [
         "Other"
     ],
+    "tonbistudio/hermes-multi-agent-workflow": [
+        "Other"
+    ],
     "tone-row/flowchart-fun": [
         "Other"
     ],
@@ -24141,6 +24168,9 @@
         "Other"
     ],
     "ustwo/vip-templates-swift": [
+        "Other"
+    ],
+    "utibeabasi6/mercek": [
         "Other"
     ],
     "utmapp/UTM": [
@@ -25044,9 +25074,6 @@
         "Other"
     ],
     "willowtreeapps/jsonapi-parser": [
-        "Other"
-    ],
-    "willowtreeapps/sango": [
         "Other"
     ],
     "willowtreeapps/spruce-ios": [
