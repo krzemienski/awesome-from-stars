@@ -848,6 +848,9 @@
     "ChWick/gnomesome": [
         "Other"
     ],
+    "Chachamaru127/claude-code-harness": [
+        "Other"
+    ],
     "Chalarangelo/30-seconds-of-code": [
         "Other"
     ],
@@ -1424,6 +1427,9 @@
     "Dids/clover-builder": [
         "Other"
     ],
+    "DietrichGebert/ponytail": [
+        "Other"
+    ],
     "Digipolitan/app-swift-template-cli": [
         "Other"
     ],
@@ -1707,9 +1713,6 @@
         "Other"
     ],
     "EveryInc/compound-engineering-plugin": [
-        "Other"
-    ],
-    "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts": [
         "Other"
     ],
     "EvoMap/awesome-agent-evolution": [
@@ -6029,6 +6032,9 @@
     "ahwayakchih/roku-dev-container": [
         "Other"
     ],
+    "ai-analyst-lab/ai-analyst": [
+        "Other"
+    ],
     "ai-boost/Awesome-GPTs": [
         "Other"
     ],
@@ -6950,9 +6956,6 @@
     "app-generator/django-dashboards": [
         "Other"
     ],
-    "app-generator/django-soft-ui-dashboard": [
-        "Other"
-    ],
     "app-generator/flask-material-kit": [
         "Other"
     ],
@@ -7686,6 +7689,9 @@
         "Other"
     ],
     "baidu-baige/LoongFlow": [
+        "Other"
+    ],
+    "baidu/Unlimited-OCR": [
         "Other"
     ],
     "balena-io/etcher": [
@@ -8475,6 +8481,9 @@
         "Other"
     ],
     "cak/awesome-server-side-swift": [
+        "Other"
+    ],
+    "calesthio/OpenMontage": [
         "Other"
     ],
     "callstack/agent-device": [
@@ -10272,6 +10281,9 @@
         "Other"
     ],
     "disler/fork-repository-skill": [
+        "Other"
+    ],
+    "disler/live-bench": [
         "Other"
     ],
     "disler/pi-vs-claude-code": [
@@ -12227,6 +12239,9 @@
     "github-changelog-generator/github-changelog-generator": [
         "Other"
     ],
+    "github/TUIKit": [
+        "Other"
+    ],
     "github/archive-program": [
         "Other"
     ],
@@ -13005,6 +13020,9 @@
         "Other"
     ],
     "heurema/context-planning-system": [
+        "Other"
+    ],
+    "heygen-com/hyperframes": [
         "Other"
     ],
     "heyhuynhgiabuu/proxypal": [
@@ -13989,6 +14007,9 @@
         "Other"
     ],
     "jeanslack/Videomass": [
+        "Other"
+    ],
+    "jebi-sh/jebi": [
         "Other"
     ],
     "jech/polipo": [
@@ -15374,6 +15395,9 @@
     "krzyzanowskim/Natalie": [
         "Other"
     ],
+    "ksimback/looper": [
+        "Other"
+    ],
     "ksindi/flask-sqlacodegen": [
         "Other"
     ],
@@ -15459,6 +15483,9 @@
         "Other"
     ],
     "kubernetes-sigs/kubespray": [
+        "Other"
+    ],
+    "kubernetes-sigs/kueue": [
         "Other"
     ],
     "kubernetes-sigs/kustomize": [
@@ -18275,7 +18302,7 @@
     "nikhilm/node-taglib": [
         "Other"
     ],
-    "nikivdev/flow": [
+    "nikivdev/code": [
         "Other"
     ],
     "nikivdev/rust": [
@@ -20006,6 +20033,9 @@
     "prometheus-operator/prometheus-operator": [
         "Other"
     ],
+    "prometheus/client_js": [
+        "Other"
+    ],
     "prometheus/cloudwatch_exporter": [
         "Other"
     ],
@@ -20093,7 +20123,7 @@
     "pvieito/PythonKit": [
         "Other"
     ],
-    "pvolok/mprocs": [
+    "pvolok/dekit": [
         "Other"
     ],
     "pvzig/SlackKit": [
@@ -21830,9 +21860,6 @@
     "sigoden/aichat": [
         "Other"
     ],
-    "siimon/prom-client": [
-        "Other"
-    ],
     "sile/hls_wasm": [
         "Other"
     ],
@@ -21864,9 +21891,6 @@
         "Other"
     ],
     "simonecorsi/awesome": [
-        "Other"
-    ],
-    "simonecorsi/mawesome": [
         "Other"
     ],
     "simongoricar/euphony": [
@@ -24344,6 +24368,9 @@
     "vercel-labs/ralph-loop-agent": [
         "Other"
     ],
+    "vercel-labs/skills": [
+        "Other"
+    ],
     "vercel/ai": [
         "Other"
     ],
@@ -25487,9 +25514,6 @@
     "yarrick/iodine": [
         "Other"
     ],
-    "yashodhank/inlets-traefik-docker": [
-        "Other"
-    ],
     "yassenshopov/notion-gcal-sync": [
         "Other"
     ],
@@ -25590,6 +25614,9 @@
         "Other"
     ],
     "yundiantech/VideoPlayer": [
+        "Other"
+    ],
+    "yungbose/upskill": [
         "Other"
     ],
     "yunuscadirci/CallStranger": [
