@@ -4338,7 +4338,7 @@
 * [ipython/ipython](https://github.com/ipython/ipython): Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 * [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 * [iRobotEducation/irobot-edu-python-sdk](https://github.com/iRobotEducation/irobot-edu-python-sdk): Python SDK for iRobot Edu robots (Root or Create 3)
-* [n0-computer/iroh](https://github.com/n0-computer/iroh): IP addresses break, dial keys instead. Modular networking stack in Rust.
+* [n0-computer/iroh](https://github.com/n0-computer/iroh): IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 * [Eyevinn/is-drm-supported](https://github.com/Eyevinn/is-drm-supported): HTML5 MSE DRM support detection library
 * [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
 * [pop-os/iso](https://github.com/pop-os/iso): Pop!_OS ISO production
@@ -7395,7 +7395,7 @@
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [daltoniam/Starscream](https://github.com/daltoniam/Starscream): Websockets in swift for iOS and OSX
 * [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [Start9Labs/start-os](https://github.com/Start9Labs/start-os): A graphical server OS optimized for self-hosting
+* [Start9Labs/start-technologies](https://github.com/Start9Labs/start-technologies): A graphical server OS optimized for self-hosting
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
 * [stackblitz/starters](https://github.com/stackblitz/starters): StackBlitz Starter Project
 * [keryc/starters-swarm](https://github.com/keryc/starters-swarm): Project generator Django + Celery, Angular or Stenciljs for Docker Compose (Dev), Docker Swarm, Kubernetes, Rancher Etc
