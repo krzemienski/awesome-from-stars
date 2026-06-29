@@ -1186,7 +1186,6 @@
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security): 🐶 A curated list of Web Security materials and resources.
 * [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl): A curated list of awesome WebGL libraries, resources and much more
 * [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack): A curated list of awesome Webpack resources, libraries and tools
-* [thinkvivek/awesome-websites](https://github.com/thinkvivek/awesome-websites): List of some really cool websites
 * [msub2/awesome-webxr](https://github.com/msub2/awesome-webxr): All things WebXR.
 * [WhatTheFar/awesome-whatthefar](https://github.com/WhatTheFar/awesome-whatthefar): 😎 Curated list of awesome WhatTheFar
 * [PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket): A curated list of awesome projects powered by Apache Wicket 
@@ -1949,7 +1948,7 @@
 * [krzemienski/CodeAgentsMobile](https://github.com/krzemienski/CodeAgentsMobile): Mobile client for Claude Code. https://testflight.apple.com/join/eUpweBZV
 * [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad
 * [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff): Generate code from the terminal!
-* [getagentseal/codeburn](https://github.com/getagentseal/codeburn): See where your AI spend goes. Interactive TUI dashboard for token usage and cost across Claude Code, Codex, Cursor, and 25+ more AI tools. npx codeburn
+* [getagentseal/codeburn](https://github.com/getagentseal/codeburn): Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 * [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): ✨ AI Coding, Vim Style
 * [CodingDemon1/CodeConverter-GenAI](https://github.com/CodingDemon1/CodeConverter-GenAI): The Code Converter App is a versatile tool that allows users to convert, debug, and analyze code written in various programming languages. It utilizes the OpenAI GPT-3.5 turbo model to provide dynamic code conversion, debugging assistance, and code analysis.
 * [justrach/codedb](https://github.com/justrach/codedb): Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
@@ -2045,7 +2044,7 @@
 * [oberon-manjaro/conkies](https://github.com/oberon-manjaro/conkies): Conky files for manjaro
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
 * [teejee2008/conky-manager](https://github.com/teejee2008/conky-manager): GUI for managing Conky widgets
-* [anthropics/connect-rust](https://github.com/anthropics/connect-rust): An implementation of the ConnectRPC protocol for Rust
+* [connectrpc/connect-rust](https://github.com/connectrpc/connect-rust): An implementation of the ConnectRPC protocol for Rust
 * [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip): Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
 * [rwbutler/Connectivity](https://github.com/rwbutler/Connectivity): 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 * [joshdholtz/connectkit-examples](https://github.com/joshdholtz/connectkit-examples): None
@@ -4582,7 +4581,7 @@
 * [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from textual descriptions!
 * [kstenerud/KSCrash](https://github.com/kstenerud/KSCrash): The Ultimate iOS Crash Reporter
 * [easonlin404/ksm](https://github.com/easonlin404/ksm): FairPlay Key Security Module written in Go (Golang).
-* [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer): A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
+* [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer): A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 * [ksvc/KSYLive_iOS](https://github.com/ksvc/KSYLive_iOS): 金山云直播SDK [ iOS推流+播放 ]融合版 支持美颜滤镜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Audio Mixer)、混响(Reverb)、画中画(PIP)
 * [ksvc/KSYMediaPlayer_iOS](https://github.com/ksvc/KSYMediaPlayer_iOS): 金山云iOS播放SDK（KSYUN Live Streaming player SDK），支持RTMP HTTP-FLV HLS 协议（supporting RTMP HTTP-FLV HLS protocol），直播延时2-3秒（Living delay 2 or 3 seconds）
 * [google/ktsan](https://github.com/google/ktsan): Kernel Thread Sanitizer, a fast data race detector for the Linux kernel
@@ -5171,7 +5170,7 @@
 * [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
 * [usememos/memos](https://github.com/usememos/memos): Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 * [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill): MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
-* [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU): Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
+* [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU): Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.
 * [utibeabasi6/mercek](https://github.com/utibeabasi6/mercek): A local-first desktop IDE for Amazon ECS
 * [benjaminmayo/merchantkit](https://github.com/benjaminmayo/merchantkit): A modern In-App Purchases management framework for iOS.
 * [shinyfrog/mercury-parser](https://github.com/shinyfrog/mercury-parser): 📜 Extracting content from the chaos of the web.
@@ -5218,7 +5217,7 @@
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books):  :books: Find your next book to read!
 * [agiletec-inc/mindbase](https://github.com/agiletec-inc/mindbase): AI Conversation Knowledge Management - PostgreSQL + pgvector + Ollama (Free, Local, Open Source)
 * [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger): Thinking notebook and Markdown editor.
-* [mindsdb/minds](https://github.com/mindsdb/minds): General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
+* [mindsdb/minds](https://github.com/mindsdb/minds): Delegate anything. It comes back done.
 * [mindsdb/minds-mcp](https://github.com/mindsdb/minds-mcp): An MCP (Model Context Protocol) server for Minds, allowing LLMs to interact with the Minds SDK through a standardized interface.
 * [kunwar-shah/mini-coder-brain](https://github.com/kunwar-shah/mini-coder-brain): Transform Claude Code into a persistent, context-aware development partner. Universal memory system with automatic project detection, cross-session continuity, and intelligent cleanup. Zero config, works with any tech stack. 30-second setup.
 * [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
@@ -5846,7 +5845,9 @@
 * [fossasia/open-event-server](https://github.com/fossasia/open-event-server): The Open Event Organizer Server to Manage Events https://test-api.eventyay.com
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
 * [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface): Control Any Computer Using LLMs.
+* [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge): Beautiful, AI-native markdown editor and LLM Wiki
 * [iheartradio/open-m3u8](https://github.com/iheartradio/open-m3u8): Open Source m3u8 Parser
+* [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent): TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models. 
 * [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil): AI-native design editor. Open-source Figma alternative.
 * [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora): Open-Sora: Democratizing Efficient Video Production for All
 * [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps): :iphone: Collaborative List of Open-Source iOS Apps
@@ -5956,6 +5957,7 @@
 * [orval-labs/orval](https://github.com/orval-labs/orval): orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 * [rancher/os](https://github.com/rancher/os): Tiny Linux distro that runs the entire OS as Docker containers
 * [RehabMan/OS-X-Voodoo-PS2-Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller): Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad
+* [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus): Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 * [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep): Open Source Semantic Search for your AI Agent
 * [dkhamsing/osia](https://github.com/dkhamsing/osia): :octocat: iOS app to browse open-source-ios-apps
 * [compuccino/osk-encoder-validator](https://github.com/compuccino/osk-encoder-validator): A web based tool to check live encoders output on rtmp/srt streams.
@@ -6530,7 +6532,7 @@
 * [souporserious/react-media-player](https://github.com/souporserious/react-media-player): React audio and video player.
 * [react/react-native](https://github.com/react/react-native): A framework for building native applications using React
 * [Radweb/react-native-audio-transcoder](https://github.com/Radweb/react-native-audio-transcoder): Transcode audio format in react-native. Supports mp3 🎉
-* [chart-kit/react-native-chart-kit](https://github.com/chart-kit/react-native-chart-kit): 📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
+* [chart-kit/react-native-chart-kit](https://github.com/chart-kit/react-native-chart-kit): Beautiful charts for React Native. Line, area, bar, pie, donut, progress, and contribution heatmaps for dashboards, reports, and data-rich mobile apps.
 * [twodoorsdev/react-native-debugger-mcp](https://github.com/twodoorsdev/react-native-debugger-mcp): An MCP server that connects to your React Native application debugger
 * [codingki/react-native-expo-template](https://github.com/codingki/react-native-expo-template): My starter templates for building apps with react native and expo
 * [chaimPaneth/react-native-jw-media-player](https://github.com/chaimPaneth/react-native-jw-media-player): React-Native Android/iOS bridge for JWPlayer SDK (https://www.jwplayer.com/)
@@ -6803,7 +6805,7 @@
 * [appium/ruby_lib](https://github.com/appium/ruby_lib): :gem: Ruby library for Appium
 * [evrendom/rudel](https://github.com/evrendom/rudel): Claude Code & Codex Session Analytics
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
-* [ruvnet/ruflo](https://github.com/ruvnet/ruflo): 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+* [ruvnet/ruflo](https://github.com/ruvnet/ruflo): 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 * [intellectronica/ruler](https://github.com/intellectronica/ruler): Ruler — apply the same rules to all coding agents
 * [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync): A Utility CLI for AI Coding Agents
 * [penDerGraft/run-k8s-job](https://github.com/penDerGraft/run-k8s-job): GitHub Action to run a Kubernetes job in a cluster
@@ -6893,7 +6895,7 @@
 * [influxdata/sandbox](https://github.com/influxdata/sandbox): A sandbox for the full TICK stack
 * [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk): Run sandboxed code environments on Cloudflare's edge network
 * [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2): Automatically generate a RESTful API service for your legacy database. No code required!
-* [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
+* [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 * [gperdomor/sanitize](https://github.com/gperdomor/sanitize): Powerful model extraction from Vapor JSON requests
 * [sanity-io/sanity](https://github.com/sanity-io/sanity): Sanity Studio – Rapidly configure content workspaces powered by structured content
 * [louisdh/savanna](https://github.com/louisdh/savanna): A native iOS & macOS IDE for the Cub programming language
@@ -7878,7 +7880,7 @@
 * [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source): Track Awesome List Source Code, build with Deno.
 * [roboflow/trackers](https://github.com/roboflow/trackers): Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
 * [msdeep14/trackGitHubStars](https://github.com/msdeep14/trackGitHubStars): python script to find top 10 starred repos of user
-* [gradio-app/trackio](https://github.com/gradio-app/trackio): A lightweight, local-first, and 🆓 experiment tracking library from Hugging Face 🤗
+* [gradio-app/trackio](https://github.com/gradio-app/trackio): A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider): A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
 * [CVJoint/traefik2](https://github.com/CVJoint/traefik2): Traefik v2: docker-compose repo
@@ -8061,7 +8063,7 @@
 * [TechSquidTV/UltimateHomeServer](https://github.com/TechSquidTV/UltimateHomeServer): Configure the ultimate home server with k3s and helm
 * [CESNET/UltraGrid](https://github.com/CESNET/UltraGrid): UltraGrid low-latency audio and video network transmission system
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
-* [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics): Ultralytics YOLO 🚀
+* [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics): Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 * [getumbrel/umbrel](https://github.com/getumbrel/umbrel): An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 * [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps): The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
 * [Radiokot/umbrel-cloudflared](https://github.com/Radiokot/umbrel-cloudflared): ☂ Umbrel app for Cloudflare Tunnel (cloudflared)
@@ -8571,6 +8573,7 @@
 * [aress31/wirespy](https://github.com/aress31/wirespy): Framework designed to automate various wireless networks attacks (the project was presented on Pentester Academy TV's toolbox in 2017).
 * [willowtreeapps/wist](https://github.com/willowtreeapps/wist): A linter for BrightScript
 * [MarcAntoine-Arnaud/wisual](https://github.com/MarcAntoine-Arnaud/wisual): Web for Visual Quality Assessment
+* [krzemienski/withagents](https://github.com/krzemienski/withagents): withagents.dev — home for applied agent design. Astro + Keystatic + Tailwind v4. Umbrella brand site.
 * [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM): LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 * [microsoftarchive/wlist](https://github.com/microsoftarchive/wlist): A command line client for Wunderlist
 * [zhengwenming/WMPlayer](https://github.com/zhengwenming/WMPlayer): WMPlayer-AVPlayer的封装，继承UIView，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放

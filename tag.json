@@ -6731,9 +6731,6 @@
     "anthropics/claudes-c-compiler": [
         "Other"
     ],
-    "anthropics/connect-rust": [
-        "Other"
-    ],
     "anthropics/courses": [
         "Other"
     ],
@@ -9252,6 +9249,9 @@
         "Other"
     ],
     "conjure-up/conjure-up": [
+        "Other"
+    ],
+    "connectrpc/connect-rust": [
         "Other"
     ],
     "connervieira/Predator": [
@@ -13544,6 +13544,9 @@
     "ingest/manifest": [
         "Other"
     ],
+    "inkeep/open-knowledge": [
+        "Other"
+    ],
     "inlets/inletsctl": [
         "Other"
     ],
@@ -15375,6 +15378,9 @@
         "Other"
     ],
     "krzemienski/video-mosaic-dreamscape": [
+        "Other"
+    ],
+    "krzemienski/withagents": [
         "Other"
     ],
     "krzysztofzablocki/LifetimeTracker": [
@@ -18935,6 +18941,9 @@
     "open-mmlab/PIA": [
         "Other"
     ],
+    "open-multi-agent/open-multi-agent": [
+        "Other"
+    ],
     "open-pencil/open-pencil": [
         "Other"
     ],
@@ -19188,6 +19197,9 @@
         "Other"
     ],
     "orvice/ss-panel": [
+        "Other"
+    ],
+    "osaurus-ai/osaurus": [
         "Other"
     ],
     "oscartbeaumont/ElectronPlayer": [
@@ -23490,9 +23502,6 @@
         "Other"
     ],
     "thingsboard/thingsboard": [
-        "Other"
-    ],
-    "thinkvivek/awesome-websites": [
         "Other"
     ],
     "thlorenz/doctoc": [
