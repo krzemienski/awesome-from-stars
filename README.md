@@ -239,7 +239,7 @@
 * [krzemienski/agentic-development-guide](https://github.com/krzemienski/agentic-development-guide): 10 deeply technical blog posts on agentic development patterns — from 8,481 AI coding sessions over 90 days. Real code, real diagrams, real lessons.
 * [Qredence/agentic-fleet](https://github.com/Qredence/agentic-fleet): Adaptive Agentic AI Reasoning using Microsoft Agent Framework -- Join the Discord for suggestion or support !  https://discord.gg/ebgy7gtZHK
 * [SafeRL-Lab/agentic-web](https://github.com/SafeRL-Lab/agentic-web): Agentic Web: Weaving the Next Web with AI Agents.
-* [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
+* [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! https://github.com/Fosowl/3toks
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM): AgentLLM is a PoC for browser-native autonomous agents
 * [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory): #1 Persistent memory for AI coding agents based on real-world benchmarks
 * [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
@@ -2777,13 +2777,13 @@
 * [otoyo/easy-notion-blog](https://github.com/otoyo/easy-notion-blog): ✍️ Let's start your own Notion Blog easily. / Notion Blogを始めましょう！
 * [nirb999/easy-ott-subtitles](https://github.com/nirb999/easy-ott-subtitles): OTT (DASH/HLS) manifest manipulator server for subtitle generation (translate/transcribe)
 * [evertramos/easy-server](https://github.com/evertramos/easy-server): Linux Scripts to Automate Tasks
+* [router-for-me/Easy_CLIProxyAPI](https://github.com/router-for-me/Easy_CLIProxyAPI): A desktop GUI from CLIProxyAPI
 * [RedSoftwareSystems/easy_docker_containers](https://github.com/RedSoftwareSystems/easy_docker_containers): An extension for managing docker containers
 * [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust): Rust explained using easy English
 * [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation): A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
 * [madingess/EasyApplyBot](https://github.com/madingess/EasyApplyBot): Automate LinkedIn Easy Apply job applications and answer application-specific questions.
 * [voidbydefault/EasyApplyBot](https://github.com/voidbydefault/EasyApplyBot): Bot for applying jobs using LinkedIn Easy Apply feature on LinkedIn
 * [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot): A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
-* [router-for-me/EasyCLI](https://github.com/router-for-me/EasyCLI): A desktop GUI from CLIProxyAPI
 * [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin): open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
 * [mailru/easyjson](https://github.com/mailru/easyjson): Fast JSON serializer for golang.
 * [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -2832,7 +2832,7 @@
 * [elastic/elasticsearch](https://github.com/elastic/elasticsearch): Free and Open Source, Distributed, RESTful Search Engine
 * [lkzhao/ElasticTransition](https://github.com/lkzhao/ElasticTransition): A UIKit custom transition that simulates an elastic drag. Written in Swift.
 * [taglia3/ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC): A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao 
-* [electerm/electerm](https://github.com/electerm/electerm): 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
+* [electerm/electerm](https://github.com/electerm/electerm): 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android)
 * [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD): Database CRUD Application Built on Electron | MySQL, Postgres, SQLite
 * [electron/electron](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store): A Cross-Platform App Store for Electron.js Apps
@@ -4842,7 +4842,7 @@
 * [asciimoo/ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists): List of github lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
 * [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 * [linlinjava/litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 * [linkedin/LiTr](https://github.com/linkedin/LiTr): Lightweight hardware accelerated video/audio transcoder for Android.
@@ -5536,7 +5536,7 @@
 * [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io): A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 * [vercel/next-devtools-mcp](https://github.com/vercel/next-devtools-mcp): Next.js Development for Coding Agent
 * [BrianRuizy/next-notion-portfolio](https://github.com/BrianRuizy/next-notion-portfolio): 📙 NEXT.js + Notion driven portfolio template. Seamlessly add content with the awesome UX of Notion. Showcase your work through blog format.
-* [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
+* [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Free, open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [christophetd/nextcloud-docker-compose](https://github.com/christophetd/nextcloud-docker-compose): :cloud: Spin up a Nextcloud instance with automatied backups and SSL certificate issuance.
 * [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi): 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
@@ -5868,7 +5868,7 @@
 * [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading.
 * [Telefonica/on-the-fly](https://github.com/Telefonica/on-the-fly): on-the-fly
 * [balopez83/One-Mix-3-Hackintosh](https://github.com/balopez83/One-Mix-3-Hackintosh): This project attempts to bring MacOS to the One-Mix 3 & 2s with Full Support
-* [theonedev/onedev](https://github.com/theonedev/onedev): Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+* [theonedev/onedev](https://github.com/theonedev/onedev): The Unified and Autonomous Development Platform
 * [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub): Thousands of code solutions with clear explanation @ onelinerhub.com
 * [tjf801/oneliners](https://github.com/tjf801/oneliners): one line of python code to impliment algorithms
 * [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -5883,7 +5883,7 @@
 * [winfunc/opcode](https://github.com/winfunc/opcode): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 * [commandeer/open](https://github.com/commandeer/open): Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
 * [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent): Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
-* [haseeb-heaven/open-agent](https://github.com/haseeb-heaven/open-agent): The only agent that doesn’t lock you in. You have 10+ models, free tiers, local LLMs, Docker sandbox — your agent, your rules.
+* [haseeb-heaven/open-agent](https://github.com/haseeb-heaven/open-agent): The only agent that doesn’t lock you in. You have 100+ models, free tiers, local LLMs, Docker sandbox — your agent, your rules.
 * [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript): Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 * [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant): OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 * [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM): An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
