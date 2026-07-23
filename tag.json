@@ -944,6 +944,9 @@
     "ClearSlide/Fantastic-Transcoder": [
         "Other"
     ],
+    "ClementTsang/bottom": [
+        "Other"
+    ],
     "ClickHouse/ClickHouse": [
         "Other"
     ],
@@ -2645,6 +2648,9 @@
     "HirokiUmatani/PEAR-ZoomingView-iOS": [
         "Other"
     ],
+    "Hmbown/CodeWhale": [
+        "Other"
+    ],
     "HsunGong/github-notion": [
         "Other"
     ],
@@ -3608,6 +3614,12 @@
     "MoizIbnYousaf/Ai-Agent-Skills": [
         "Other"
     ],
+    "MoonshotAI/kimi-cli": [
+        "Other"
+    ],
+    "MoonshotAI/kimi-code": [
+        "Other"
+    ],
     "Morganamilo/paru": [
         "Other"
     ],
@@ -4562,6 +4574,9 @@
     "Roverr/rtsp-stream": [
         "Other"
     ],
+    "Roy3838/Observer": [
+        "Other"
+    ],
     "RubenKelevra/pacman.store": [
         "Other"
     ],
@@ -5304,6 +5319,9 @@
         "Other"
     ],
     "UCI-Networking-Group/firetastic": [
+        "Other"
+    ],
+    "UditAkhourii/adhd": [
         "Other"
     ],
     "Uncommon/Xit": [
@@ -6188,6 +6206,9 @@
     "akaszynski/keepa": [
         "Other"
     ],
+    "akiomik/tears": [
+        "Other"
+    ],
     "akitten/linkedin-public-profile-parser": [
         "Other"
     ],
@@ -6213,9 +6234,6 @@
         "Other"
     ],
     "albanie/shot-detection-benchmarks": [
-        "Other"
-    ],
-    "albanmartel/ts2srt": [
         "Other"
     ],
     "albertlauncher/albert": [
@@ -8153,6 +8171,9 @@
     "bloc97/Anime4K": [
         "Other"
     ],
+    "block/buzz": [
+        "Other"
+    ],
     "blockcypher/explorer": [
         "Other"
     ],
@@ -9041,6 +9062,12 @@
     "claudio-silva/claude-artifact-runner": [
         "Other"
     ],
+    "clawic/Clawix": [
+        "Other"
+    ],
+    "clawic/skills": [
+        "Other"
+    ],
     "clayrisser/dotstow": [
         "Other"
     ],
@@ -9675,6 +9702,9 @@
         "Other"
     ],
     "dangdungcntt/youtube-stream-url": [
+        "Other"
+    ],
+    "daniel-schier/fedora-homeserver": [
         "Other"
     ],
     "danielbodnar/keyless": [
@@ -10508,6 +10538,9 @@
     "dollarshaveclub/ImageButter": [
         "Other"
     ],
+    "dondai1234/master-fetch": [
+        "Other"
+    ],
     "dongaba/TVerRec": [
         "Other"
     ],
@@ -10662,9 +10695,6 @@
         "Java/Web/RESTful"
     ],
     "dsbmac/variety-goodreads-quotes": [
-        "Other"
-    ],
-    "dschier-wtd/fedora-homeserver": [
         "Other"
     ],
     "dstotijn/go-notion": [
@@ -11153,6 +11183,9 @@
     "entropic-dev/entropic": [
         "Other"
     ],
+    "entropy-om/entheai": [
+        "Other"
+    ],
     "entropy-research/Devon": [
         "Other"
     ],
@@ -11624,6 +11657,9 @@
     "fcanas/LiveStreamParser": [
         "Other"
     ],
+    "fcoury/termwright": [
+        "Other"
+    ],
     "fdehau/tui-rs": [
         "Other"
     ],
@@ -11948,9 +11984,6 @@
     "fsaragoca/fastlane-plugin-changelog_generator": [
         "Other"
     ],
-    "fsouza/gcs-helper-vod-module-example": [
-        "Other"
-    ],
     "fsouza/s3-upload-proxy": [
         "Other"
     ],
@@ -12210,6 +12243,9 @@
         "Other"
     ],
     "getzola/zola": [
+        "Other"
+    ],
+    "gglucass/headroom-desktop": [
         "Other"
     ],
     "ggml-org/llama.cpp": [
@@ -12630,9 +12666,6 @@
         "Other"
     ],
     "gopavasanth/video-cut-tool": [
-        "Other"
-    ],
-    "goplus/c2go": [
         "Other"
     ],
     "gordonmurray/data-engineering-skills": [
@@ -15131,6 +15164,9 @@
     "koala-interactive/wowza-webrtc-player": [
         "Other"
     ],
+    "koala73/worldmonitor": [
+        "Other"
+    ],
     "koalalorenzo/python-digitalocean": [
         "Other"
     ],
@@ -15276,6 +15312,9 @@
         "Other"
     ],
     "krzemienski/autonomous-claude-code-builder": [
+        "Other"
+    ],
+    "krzemienski/autonomous-coder": [
         "Other"
     ],
     "krzemienski/awesome-from-stars": [
@@ -16302,6 +16341,9 @@
         "Other"
     ],
     "lopho/sd-video": [
+        "Other"
+    ],
+    "lopopolo/harness-engineering": [
         "Other"
     ],
     "lorey/github-stars-by-topic": [
@@ -18563,6 +18605,9 @@
     "nogoodusername/fastapi-userless-service": [
         "Other"
     ],
+    "nohajc/anylinuxfs": [
+        "Other"
+    ],
     "noirbizarre/flask-restplus": [
         "Other"
     ],
@@ -20126,6 +20171,9 @@
     "prasmussen/gdrive": [
         "Other"
     ],
+    "prassanna-ravishankar/repowire": [
+        "Other"
+    ],
     "prateek54/ExoPlayer-Demo": [
         "Other"
     ],
@@ -20250,6 +20298,9 @@
         "Other"
     ],
     "psf/black": [
+        "Other"
+    ],
+    "pskoett/pskoett-ai-skills": [
         "Other"
     ],
     "pskoett/self-improving-agent": [
@@ -20690,6 +20741,9 @@
     "rdesktop/rdesktop": [
         "Other"
     ],
+    "rdi-berkeley/agents-last-exam": [
+        "Other"
+    ],
     "rdiff-backup/rdiff-backup": [
         "Other"
     ],
@@ -20951,6 +21005,9 @@
     "riltech/streamer": [
         "Other"
     ],
+    "rimio-ai/rimz": [
+        "Other"
+    ],
     "rinov/YoutubeKit": [
         "Other"
     ],
@@ -21203,7 +21260,7 @@
     "router-for-me/Cli-Proxy-API-Management-Center": [
         "Other"
     ],
-    "router-for-me/Easy_CLIProxyAPI": [
+    "router-for-me/EasyCLIProxyAPI": [
         "Other"
     ],
     "rovo89/XposedBridge": [
@@ -21852,6 +21909,9 @@
         "Other"
     ],
     "severity1/claude-code-auto-memory": [
+        "Other"
+    ],
+    "severity1/claude-code-prompt-improver": [
         "Other"
     ],
     "sfermigier/awesome-functional-python": [
@@ -23244,6 +23304,9 @@
         "Other"
     ],
     "swl-x/MystiQ": [
+        "Other"
+    ],
+    "sxyazi/yazi": [
         "Other"
     ],
     "syedhali/AudioStreamer": [
@@ -25556,6 +25619,9 @@
     "xfrr/goffmpeg": [
         "Other"
     ],
+    "xgo-dev/c2go": [
+        "Other"
+    ],
     "xgrommx/awesome-redux": [
         "Other"
     ],
@@ -25992,6 +26058,9 @@
         "Other"
     ],
     "zerozhoujie/watermark-remove": [
+        "Other"
+    ],
+    "zerx-lab/zap": [
         "Other"
     ],
     "zeshuaro/LinkedRW": [
