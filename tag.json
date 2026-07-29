@@ -56,6 +56,9 @@
     "1hanzla100/developer-portfolio": [
         "Other"
     ],
+    "1jehuang/jcode": [
+        "Other"
+    ],
     "21st-dev/1code": [
         "Other"
     ],
@@ -261,6 +264,9 @@
         "Other"
     ],
     "AcademySoftwareFoundation/EncodingGuidelines": [
+        "Other"
+    ],
+    "Adembc/lazyssh": [
         "Other"
     ],
     "Adityaraj0421/naksha-studio": [
@@ -1419,9 +1425,6 @@
         "Other"
     ],
     "Dhghomon/easy_rust": [
-        "Other"
-    ],
-    "DhruvParikh1/files-to-llm-prompt": [
         "Other"
     ],
     "Dicklesworthstone/beads_rust": [
@@ -2657,6 +2660,9 @@
     "Huachao/vscode-restclient": [
         "Other"
     ],
+    "Humalike/hermes-humalike-plugin": [
+        "Other"
+    ],
     "HumanAIGC/AnimateAnyone": [
         "Other"
     ],
@@ -3174,6 +3180,9 @@
         "Other"
     ],
     "KubeOperator/kubeapps-plus": [
+        "Other"
+    ],
+    "Kuberwastaken/claurst": [
         "Other"
     ],
     "KunihiroS/claude-code-mcp": [
@@ -5735,6 +5744,9 @@
     "aalhour/awesome-compilers": [
         "Other"
     ],
+    "aarich/charts-for-supabase": [
+        "Other"
+    ],
     "aarnt/octopi": [
         "Other"
     ],
@@ -7811,6 +7823,9 @@
     "batnoter/batnoter": [
         "Other"
     ],
+    "batrachianai/toad": [
+        "Other"
+    ],
     "baumgarr/nixnote2": [
         "Other"
     ],
@@ -8802,6 +8817,9 @@
         "Other"
     ],
     "charleyup/banzou": [
+        "Other"
+    ],
+    "charmbracelet/bubbles": [
         "Other"
     ],
     "charmbracelet/bubbletea": [
@@ -9855,6 +9873,9 @@
         "Other"
     ],
     "data-science-on-aws/data-science-on-aws": [
+        "Other"
+    ],
+    "datacurve-ai/deep-swe": [
         "Other"
     ],
     "datarhei/core": [
@@ -17195,6 +17216,9 @@
     "mem0ai/mem0-mcp": [
         "Other"
     ],
+    "memi-design/memi": [
+        "Other"
+    ],
     "mercari/Mew": [
         "Other"
     ],
@@ -21629,9 +21653,6 @@
     "sarugaku/shellingham": [
         "Other"
     ],
-    "sarveshsea/memi": [
-        "Other"
-    ],
     "sashabaranov/go-openai": [
         "Other"
     ],
@@ -22967,9 +22988,6 @@
     "stockmind/gpd-pocket-ubuntu-respin": [
         "Other"
     ],
-    "stonerl/Thaw": [
-        "Other"
-    ],
     "stoplightio/api-spec-converter": [
         "Other"
     ],
@@ -23646,6 +23664,9 @@
         "Other"
     ],
     "thanos-io/thanos": [
+        "Other"
+    ],
+    "thaw-app/Thaw": [
         "Other"
     ],
     "the-batfish/spotify-downloader": [
@@ -24609,6 +24630,9 @@
         "Other"
     ],
     "veerendra2/raspberrypi-homeserver": [
+        "Other"
+    ],
+    "veeso/termscp": [
         "Other"
     ],
     "veeta-tv/jasmine-roku": [
