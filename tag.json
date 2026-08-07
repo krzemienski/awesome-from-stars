@@ -677,6 +677,9 @@
     "Blaizzy/mlx-vlm": [
         "Other"
     ],
+    "Blaizzy/nativ": [
+        "Other"
+    ],
     "Blakeem/AI-Prompt-Guide-MCP": [
         "Other"
     ],
@@ -1019,7 +1022,7 @@
     "CodeWithHarry/Sigma-Web-Dev-Course": [
         "Other"
     ],
-    "CodebuffAI/codebuff": [
+    "CodebuffAI/freebuff": [
         "Other"
     ],
     "Codepth-Technologies/FB-Transcoder": [
@@ -3596,6 +3599,9 @@
     "Miserlou/SoundScrape": [
         "Other"
     ],
+    "MisterTea/EternalTerminal": [
+        "Other"
+    ],
     "Mobile-Artificial-Intelligence/llama_sdk": [
         "Other"
     ],
@@ -4257,6 +4263,9 @@
         "Other"
     ],
     "Portkey-AI/gateway": [
+        "Other"
+    ],
+    "PostHog/code": [
         "Other"
     ],
     "PostHog/posthog": [
@@ -5240,6 +5249,9 @@
     "TheTumultuousUnicornOfDarkness/CPU-X": [
         "Other"
     ],
+    "TheWinci/mimirs": [
+        "Other"
+    ],
     "ThibaultBee/StreamPack": [
         "Other"
     ],
@@ -5753,7 +5765,7 @@
     "aaronpowell/system-init": [
         "Other"
     ],
-    "ab-dx/blood_i3": [
+    "ab-dx/i3_dotfiles": [
         "Other"
     ],
     "abdes-zakari/SoundCloudDownloader": [
@@ -6803,13 +6815,31 @@
     "anthropics/claudes-c-compiler": [
         "Other"
     ],
+    "anthropics/code-migration-kit-with-claude-code": [
+        "Other"
+    ],
     "anthropics/courses": [
+        "Other"
+    ],
+    "anthropics/cwc-long-running-agents": [
         "Other"
     ],
     "anthropics/cwc-workshops": [
         "Other"
     ],
+    "anthropics/defending-code-reference-harness": [
+        "Other"
+    ],
     "anthropics/devcontainer-features": [
+        "Other"
+    ],
+    "anthropics/html-effectiveness": [
+        "Other"
+    ],
+    "anthropics/jacobian-lens": [
+        "Other"
+    ],
+    "anthropics/k12-teacher-skills": [
         "Other"
     ],
     "anthropics/knowledge-work-plugins": [
@@ -7772,6 +7802,9 @@
     "baidu/Unlimited-OCR": [
         "Other"
     ],
+    "balamuthu1/claude-crew": [
+        "Other"
+    ],
     "balena-io/etcher": [
         "Other"
     ],
@@ -7819,6 +7852,9 @@
     ],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
+    ],
+    "batalabs/muxd": [
+        "Other"
     ],
     "batnoter/batnoter": [
         "Other"
@@ -7995,6 +8031,9 @@
         "Other"
     ],
     "beromir/Servas": [
+        "Other"
+    ],
+    "bestagentkits/ak-cli": [
         "Other"
     ],
     "better-auth/skills": [
@@ -8537,6 +8576,9 @@
     "caacuk/video-conversion-app": [
         "Other"
     ],
+    "cabinetai/cabinet": [
+        "Other"
+    ],
     "cactus-compute/cactus": [
         "Other"
     ],
@@ -8673,6 +8715,9 @@
         "Other"
     ],
     "catdad/video-tools-app": [
+        "Other"
+    ],
+    "cathrynlavery/diagram-design": [
         "Other"
     ],
     "cats-oss/Degu": [
@@ -9122,6 +9167,9 @@
     "cloudflare/cloudflared": [
         "Other"
     ],
+    "cloudflare/computer": [
+        "Other"
+    ],
     "cloudflare/moltworker": [
         "Other"
     ],
@@ -9318,6 +9366,9 @@
         "Other"
     ],
     "commandeer/open": [
+        "Other"
+    ],
+    "community-archive/obsidian-kanban": [
         "Other"
     ],
     "composer404/tabby-workspace-manager": [
@@ -11603,6 +11654,9 @@
     "farion1231/cc-switch": [
         "Other"
     ],
+    "farukkamcici/mectrics": [
+        "Other"
+    ],
     "faryon93/hlswatch": [
         "Other"
     ],
@@ -12638,6 +12692,9 @@
     "google/promises": [
         "Other"
     ],
+    "google/skills": [
+        "Other"
+    ],
     "google/swift-integration-tests": [
         "Other"
     ],
@@ -13139,6 +13196,9 @@
     "heppu/gkill": [
         "Other"
     ],
+    "herdrdev/herdr": [
+        "Other"
+    ],
     "heroui-inc/heroui": [
         "Other"
     ],
@@ -13623,6 +13683,9 @@
         "Other"
     ],
     "imthaghost/scdl": [
+        "Other"
+    ],
+    "imyousuf/agentic-test-runner": [
         "Other"
     ],
     "inaka/EventSource": [
@@ -14816,6 +14879,9 @@
     "kamhix/todoist-linux": [
         "Other"
     ],
+    "kando-menu/kando": [
+        "Other"
+    ],
     "kangeek/infra-docker-compose": [
         "Other"
     ],
@@ -15431,6 +15497,9 @@
     "krzemienski/djs-agents": [
         "Other"
     ],
+    "krzemienski/dreamy": [
+        "Other"
+    ],
     "krzemienski/encodarr": [
         "Other"
     ],
@@ -15819,6 +15888,12 @@
         "Other"
     ],
     "langchain-ai/open-swe": [
+        "Other"
+    ],
+    "langchain-ai/open_deep_research": [
+        "Other"
+    ],
+    "langchain-ai/openwiki": [
         "Other"
     ],
     "langflow-ai/langflow": [
@@ -17633,9 +17708,6 @@
     "mislav/hub": [
         "Other"
     ],
-    "missingstudio/gateway": [
-        "Other"
-    ],
     "mistralai/mistral-inference": [
         "Other"
     ],
@@ -17760,6 +17832,9 @@
         "Other"
     ],
     "mmuyskens/autoswipe": [
+        "Other"
+    ],
+    "mnfst/manifest": [
         "Other"
     ],
     "mnismt/awesome-notion-site": [
@@ -18941,9 +19016,6 @@
     "obra/superpowers-skills": [
         "Other"
     ],
-    "obsidian-community/obsidian-kanban": [
-        "Other"
-    ],
     "obsidian-tasks-group/obsidian-tasks": [
         "Other"
     ],
@@ -18984,9 +19056,6 @@
         "Other"
     ],
     "odysseus-dev/odysseus": [
-        "Other"
-    ],
-    "ogulcancelik/herdr": [
         "Other"
     ],
     "oguzhaninan/Buka": [
@@ -19166,6 +19235,12 @@
     "open-pencil/open-pencil": [
         "Other"
     ],
+    "open-policy-agent/awesome-opa": [
+        "Other"
+    ],
+    "open-rmf/awesome_adapters": [
+        "Other"
+    ],
     "open-telemetry/opentelemetry-collector-contrib": [
         "Other"
     ],
@@ -19245,6 +19320,9 @@
         "Other"
     ],
     "openapi-ts/openapi-typescript": [
+        "Other"
+    ],
+    "openbase-community/openbase-coder": [
         "Other"
     ],
     "openbridge/ob_bulkstash": [
@@ -20402,6 +20480,9 @@
     "pwr-Solaar/Solaar": [
         "Other"
     ],
+    "pyadav/gateway": [
+        "Other"
+    ],
     "pydantic/pydantic": [
         "Other"
     ],
@@ -20552,6 +20633,9 @@
     "quodlibet/mutagen": [
         "Other"
     ],
+    "qwen-code-dev-bot/oh-my-cli": [
+        "Other"
+    ],
     "qwinff/qwinff": [
         "Other"
     ],
@@ -20613,6 +20697,9 @@
         "Other"
     ],
     "raga-ai-hub/RagaAI-Catalyst": [
+        "Other"
+    ],
+    "rahilp/second-brain-cloudflare": [
         "Other"
     ],
     "rahul0x24/SwiftFrameworkTemplate": [
@@ -24551,6 +24638,9 @@
     "valbok/QtAVPlayer": [
         "Other"
     ],
+    "valenfys/notion-linux": [
+        "Other"
+    ],
     "valeriangalliat/gogs-migrate": [
         "Other"
     ],
@@ -25023,9 +25113,6 @@
         "Other"
     ],
     "vt-vl-lab/FGVC": [
-        "Other"
-    ],
-    "vtenfys/notion-linux": [
         "Other"
     ],
     "vuejs/awesome-vue": [
@@ -25835,7 +25922,13 @@
     "yavorsky/auto-github-topics": [
         "Other"
     ],
+    "yazinsai/OpenOats": [
+        "Other"
+    ],
     "ybayle/awesome-deep-learning-music": [
+        "Other"
+    ],
+    "yc-software/qm": [
         "Other"
     ],
     "yeasy/docker_practice": [
@@ -26036,7 +26129,7 @@
     "zdharma-continuum/zinit": [
         "Other"
     ],
-    "zebbern/claude-code-mcp": [
+    "zebbern/agent-collab": [
         "Other"
     ],
     "zebpalmer/WeatherAlerts": [
@@ -26253,6 +26346,9 @@
         "Other"
     ],
     "zype/zype-roku-scenegraph": [
+        "Other"
+    ],
+    "zzet/gortex": [
         "Other"
     ],
     "zziz/pwc": [
