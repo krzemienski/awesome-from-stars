@@ -1259,9 +1259,6 @@
     "DarraghConnaughton/DASH": [
         "Other"
     ],
-    "Darwin-lfl/langmanus": [
-        "Other"
-    ],
     "Dash-Industry-Forum/CMAF-Conformance": [
         "Other"
     ],
@@ -3591,6 +3588,9 @@
         "Other"
     ],
     "MiniMax-AI/cli": [
+        "Other"
+    ],
+    "Minima-AI-Inc/minima": [
         "Other"
     ],
     "Mintplex-Labs/anything-llm": [
@@ -9542,7 +9542,7 @@
     "craft-ai-agents/craft-agents-oss": [
         "Other"
     ],
-    "craftzdog/dotfiles-public": [
+    "craftzdog/dotfiles": [
         "Other"
     ],
     "craigary/nobelium": [
@@ -9891,6 +9891,9 @@
         "Other"
     ],
     "darwiin/yaac-another-awesome-cv": [
+        "Other"
+    ],
+    "darwin-lau/langmanus": [
         "Other"
     ],
     "das-kaesebrot/transcodeservice": [
@@ -10514,9 +10517,6 @@
     "dmarmor/epichrome": [
         "Other"
     ],
-    "dmayboroda/minima": [
-        "Other"
-    ],
     "dmdhrumilmistry/pyhtools": [
         "Other"
     ],
@@ -10833,6 +10833,9 @@
         "Other"
     ],
     "dvdsgl/claude-canvas": [
+        "Other"
+    ],
+    "dvecy/WifiAttack": [
         "Other"
     ],
     "dvershinin/apt-to-dnf": [
@@ -15557,6 +15560,9 @@
     "krzemienski/opencode-mobile": [
         "Other"
     ],
+    "krzemienski/proofpunk": [
+        "Other"
+    ],
     "krzemienski/ralph-orchestrator": [
         "Other"
     ],
@@ -15594,9 +15600,6 @@
         "Other"
     ],
     "krzemienski/test-video-assets": [
-        "Other"
-    ],
-    "krzemienski/truth-forge": [
         "Other"
     ],
     "krzemienski/validationforge": [
@@ -19328,7 +19331,7 @@
     "openapi-ts/openapi-typescript": [
         "Other"
     ],
-    "openbase-community/openbase-coder": [
+    "openbase-community/openbase": [
         "Other"
     ],
     "openbridge/ob_bulkstash": [
@@ -21606,9 +21609,6 @@
         "Other"
     ],
     "saasforge/open-source-saas-boilerpate": [
-        "Other"
-    ],
-    "sadatnazarli/WifiAttack": [
         "Other"
     ],
     "safinsingh/dots": [
@@ -24693,9 +24693,6 @@
         "Other"
     ],
     "varietywalls/variety": [
-        "Other"
-    ],
-    "vasanthv/jsonbox": [
         "Other"
     ],
     "vasconcelosvcd/GNSDKWrapperLib-CPP": [
