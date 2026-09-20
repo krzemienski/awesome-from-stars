@@ -203,6 +203,9 @@
     "AMD-OSX/Resources": [
         "Other"
     ],
+    "ANative-Lab/Awesome-Self-Evolving-Agents": [
+        "Other"
+    ],
     "AOMediaCodec/SVT-AV1": [
         "Other"
     ],
@@ -213,6 +216,9 @@
         "Other"
     ],
     "AOMediaCodec/av1-spec": [
+        "Other"
+    ],
+    "APIJSON/APIJSON": [
         "Other"
     ],
     "APIs-guru/awesome-openapi3": [
@@ -321,6 +327,9 @@
         "Other"
     ],
     "AgriciDaniel/claude-blog": [
+        "Other"
+    ],
+    "AgriciDaniel/claude-seo": [
         "Other"
     ],
     "AgustinSRG/PersonalMediaVault": [
@@ -828,6 +837,9 @@
         "Other"
     ],
     "CanvasPod/Canvas": [
+        "Other"
+    ],
+    "Captainkoopa42/ChannelOS": [
         "Other"
     ],
     "CarGuo/GSYVideoPlayer": [
@@ -1670,9 +1682,6 @@
     "ErlichLiu/DeepClaude": [
         "Other"
     ],
-    "Eronred/aso-skills": [
-        "Other"
-    ],
     "ErsatzTV/legacy": [
         "Other"
     ],
@@ -1728,6 +1737,9 @@
         "Other"
     ],
     "Evavic44/portfolio-ideas": [
+        "Other"
+    ],
+    "EverMind-AI/EverOS": [
         "Other"
     ],
     "EveryInc/compound-engineering-plugin": [
@@ -2303,6 +2315,9 @@
     "FlineDev/ContextKit": [
         "Other"
     ],
+    "FloWritesCode/fwc-swiftui-skills": [
+        "Other"
+    ],
     "FlowiseAI/Flowise": [
         "Other"
     ],
@@ -2396,7 +2411,7 @@
     "G-dH/workspace-switcher-manager": [
         "Other"
     ],
-    "GCWing/BitFun": [
+    "GCWing/OpenBitFun": [
         "Other"
     ],
     "GNOME/gnome-applets": [
@@ -2721,6 +2736,9 @@
         "Other"
     ],
     "Ikuyadeu/similar-code-searcher": [
+        "Other"
+    ],
+    "Imbad0202/academic-research-skills": [
         "Other"
     ],
     "InderKumarRathore/DeviceGuru": [
@@ -3230,6 +3248,9 @@
     "Lakr233/Rayon": [
         "Other"
     ],
+    "Lakr233/vphone-cli": [
+        "Other"
+    ],
     "LanceGin/Mockman": [
         "Other"
     ],
@@ -3342,9 +3363,6 @@
         "Other"
     ],
     "LongSoft/UEFITool": [
-        "Other"
-    ],
-    "LordCrainer/transcoding_ffmpeg": [
         "Other"
     ],
     "LorneFlindall/Roku_Command_Grabber": [
@@ -3711,6 +3729,9 @@
         "Other"
     ],
     "NVIDIA/OpenShell": [
+        "Other"
+    ],
+    "NVIDIA/SkillSpector": [
         "Other"
     ],
     "NVIDIA/VideoProcessingFramework": [
@@ -4173,6 +4194,9 @@
         "Other"
     ],
     "Parallels/rq-dashboard": [
+        "Other"
+    ],
+    "Paramchoudhary/ResumeSkills": [
         "Other"
     ],
     "ParisNeo/lollms-webui": [
@@ -4793,6 +4817,9 @@
     "ShawhinT/aba-plugins": [
         "Other"
     ],
+    "ShawnPana/phone-harness": [
+        "Other"
+    ],
     "Shopify/semian": [
         "Other"
     ],
@@ -4875,6 +4902,9 @@
         "Other"
     ],
     "SishangLi/Autosub_Multiple_Methods": [
+        "Other"
+    ],
+    "Skitre/PiCove": [
         "Other"
     ],
     "Skyr/gitea-add-github-mirrors": [
@@ -5150,7 +5180,7 @@
     "Tencent-Hunyuan/Hy4-preview": [
         "Other"
     ],
-    "Tencent/APIJSON": [
+    "Tencent/BrowserSkill": [
         "Other"
     ],
     "Tencent/GT": [
@@ -5385,6 +5415,9 @@
         "Other"
     ],
     "Valian/docker-python-opencv-ffmpeg": [
+        "Other"
+    ],
+    "ValueCell-ai/ClawX": [
         "Other"
     ],
     "ValveSoftware/Proton": [
@@ -5651,6 +5684,9 @@
     "YazdanZ/dotfiles": [
         "Other"
     ],
+    "Yeachan-Heo/gajae-code": [
+        "Other"
+    ],
     "Yeachan-Heo/oh-my-claudecode": [
         "Other"
     ],
@@ -5829,6 +5865,9 @@
         "Other"
     ],
     "abra5umente/api-proxy": [
+        "Other"
+    ],
+    "abue-ammar/tinycast": [
         "Other"
     ],
     "academic/awesome-datascience": [
@@ -6191,6 +6230,9 @@
     "aishwaryanr/awesome-generative-ai-guide": [
         "Other"
     ],
+    "aitytech/agentkits-marketing": [
+        "Other"
+    ],
     "aixcoder-plugin/aiXcoder-7B": [
         "Other"
     ],
@@ -6237,6 +6279,9 @@
         "Other"
     ],
     "akiomik/tears": [
+        "Other"
+    ],
+    "akitaonrails/ai-memory": [
         "Other"
     ],
     "akitten/linkedin-public-profile-parser": [
@@ -6401,9 +6446,6 @@
     "alfred-workflows/awesome-alfred-workflows": [
         "Other"
     ],
-    "alfredolopez80/multi-agent-ralph-loop": [
-        "Other"
-    ],
     "algorithm-visualizer/algorithm-visualizer": [
         "Other"
     ],
@@ -6452,6 +6494,9 @@
     "alibaba/nacos": [
         "Other"
     ],
+    "alibaba/open-code-review": [
+        "Other"
+    ],
     "alibaba/page-agent": [
         "Other"
     ],
@@ -6485,13 +6530,13 @@
     "alkerway/hls-simulator": [
         "Other"
     ],
-    "allaboutapps/ios-starter": [
-        "Other"
-    ],
     "allezxandre/go-hls-encoder": [
         "Other"
     ],
     "alonw0/web-asset-generator": [
+        "Other"
+    ],
+    "alpbahadur/49-IDE": [
         "Other"
     ],
     "alphaSeclab/awesome-cyber-security": [
@@ -6588,9 +6633,6 @@
         "Other"
     ],
     "amriteya/tts": [
-        "Other"
-    ],
-    "amruthpillai/reactive-resume": [
         "Other"
     ],
     "amureki/things-cli": [
@@ -6779,6 +6821,9 @@
     "anthropics/anthropic-cli": [
         "Other"
     ],
+    "anthropics/anthropic-retrieval-demo": [
+        "Other"
+    ],
     "anthropics/anthropic-sdk-go": [
         "Other"
     ],
@@ -6828,6 +6873,9 @@
         "Other"
     ],
     "anthropics/code-migration-kit-with-claude-code": [
+        "Other"
+    ],
+    "anthropics/commerce-agents": [
         "Other"
     ],
     "anthropics/courses": [
@@ -7070,9 +7118,6 @@
     "app-generator/admin-dashboards": [
         "Other"
     ],
-    "app-generator/django-admin-coreui": [
-        "Other"
-    ],
     "app-generator/django-dashboards": [
         "Other"
     ],
@@ -7083,6 +7128,9 @@
         "Other"
     ],
     "appcypher/awesome-mcp-servers": [
+        "Other"
+    ],
+    "appeeky/aso-skills": [
         "Other"
     ],
     "appium-boneyard/appium-ci": [
@@ -7118,6 +7166,12 @@
     "appium/skills": [
         "Other"
     ],
+    "apple-aiml-research/ml-mgie": [
+        "Other"
+    ],
+    "apple-aiml-research/ml-stable-diffusion": [
+        "Other"
+    ],
     "apple/HomeKitADK": [
         "Other"
     ],
@@ -7131,12 +7185,6 @@
         "Other"
     ],
     "apple/foundationdb": [
-        "Other"
-    ],
-    "apple/ml-mgie": [
-        "Other"
-    ],
-    "apple/ml-stable-diffusion": [
         "Other"
     ],
     "apple/python-apple-fm-sdk": [
@@ -7532,6 +7580,9 @@
     "avelino/cookiecutter-bottle": [
         "Other"
     ],
+    "averygan/reclip": [
+        "Other"
+    ],
     "avivl/claude-007-agents": [
         "Other"
     ],
@@ -7758,6 +7809,9 @@
         "Other"
     ],
     "axxapy/gnome-ui-tune": [
+        "Other"
+    ],
+    "ayghri/i-have-adhd": [
         "Other"
     ],
     "aymaneMx/nuxt-portfolio-dev": [
@@ -8039,6 +8093,9 @@
     "beromir/Servas": [
         "Other"
     ],
+    "best-of-ai/best-of-ai": [
+        "Other"
+    ],
     "bestagentkits/ak-cli": [
         "Other"
     ],
@@ -8094,6 +8151,9 @@
         "Other"
     ],
     "bilashcse/video-editor": [
+        "Other"
+    ],
+    "bilawalsidhu/gods-eye-view": [
         "Other"
     ],
     "bilelmoussaoui/Hardcode-Tray": [
@@ -8214,6 +8274,9 @@
         "Other"
     ],
     "blader/Claudeception": [
+        "Other"
+    ],
+    "blader/humanizer": [
         "Other"
     ],
     "blakeblackshear/frigate": [
@@ -8687,6 +8750,9 @@
     "carlosalbarranmx/eks-tf-cli": [
         "Other"
     ],
+    "carlosgarcia-cagm/transcoding_ffmpeg": [
+        "Other"
+    ],
     "carlrannaberg/claudekit": [
         "Other"
     ],
@@ -8844,6 +8910,9 @@
         "Other"
     ],
     "chaimPaneth/react-native-jw-media-player": [
+        "Other"
+    ],
+    "chaitanyagiri/munder-difflin": [
         "Other"
     ],
     "chakra-ui/chakra-ui": [
@@ -9347,6 +9416,9 @@
     "colbymchenry/codegraph": [
         "Other"
     ],
+    "coldteadotai/pr-lens": [
+        "Other"
+    ],
     "coleam00/Archon": [
         "Other"
     ],
@@ -9794,6 +9866,9 @@
     "danielbodnar/keyless": [
         "Other"
     ],
+    "danielbodnar/skill-view": [
+        "Other"
+    ],
     "danielchatfield/trello-desktop": [
         "Other"
     ],
@@ -9948,6 +10023,9 @@
         "Other"
     ],
     "datacurve-ai/deep-swe": [
+        "Other"
+    ],
+    "datamodel-code-generator/datamodel-code-generator": [
         "Other"
     ],
     "datarhei/core": [
@@ -10110,6 +10188,9 @@
         "Other"
     ],
     "deathau/cm-editor-syntax-highlight-obsidian": [
+        "Other"
+    ],
+    "debpalash/VoiceStudio": [
         "Other"
     ],
     "debugly/FFmpegTutorial": [
@@ -10611,6 +10692,9 @@
         "Other"
     ],
     "docsifyjs/awesome-docsify": [
+        "Other"
+    ],
+    "docsy/docsy": [
         "Other"
     ],
     "docuowl/docuowl": [
@@ -12467,6 +12551,15 @@
     "gitify-app/gitify": [
         "Other"
     ],
+    "gitkb/gitkb-releases": [
+        "Other"
+    ],
+    "gitkb/meta": [
+        "Other"
+    ],
+    "gitkb/meta-plugins": [
+        "Other"
+    ],
     "gitpitch/gitpitch": [
         "Other"
     ],
@@ -12665,7 +12758,7 @@
     "google/adk-python": [
         "Other"
     ],
-    "google/adk-samples": [
+    "google/adk-recipes": [
         "Other"
     ],
     "google/ai_video_dubbing": [
@@ -12684,9 +12777,6 @@
         "Other"
     ],
     "google/diff-match-patch": [
-        "Other"
-    ],
-    "google/docsy": [
         "Other"
     ],
     "google/emoji-scavenger-hunt": [
@@ -12789,9 +12879,6 @@
         "Other"
     ],
     "gpac/node-gpac-dash": [
-        "Other"
-    ],
-    "gpac/test-engine-live-tools": [
         "Other"
     ],
     "gpac/testsuite": [
@@ -12969,6 +13056,9 @@
         "Other"
     ],
     "h2oai/wave": [
+        "Other"
+    ],
+    "h4ckf0r0day/obscura": [
         "Other"
     ],
     "h4tr3d/avcpp": [
@@ -13388,6 +13478,9 @@
     "huggingface/diffusers": [
         "Other"
     ],
+    "huggingface/funes": [
+        "Other"
+    ],
     "huggingface/lerobot": [
         "Other"
     ],
@@ -13419,6 +13512,9 @@
         "Other"
     ],
     "humanlayer/humanlayer": [
+        "Other"
+    ],
+    "humanlayer/skills": [
         "Other"
     ],
     "humanloop/awesome-chatgpt": [
@@ -14546,6 +14642,9 @@
     "jonmosco/kube-ps1": [
         "Other"
     ],
+    "jonnyoo/glance": [
+        "Other"
+    ],
     "jordansissel/xdotool": [
         "Other"
     ],
@@ -14835,6 +14934,12 @@
         "Other"
     ],
     "kadirnar/Video-Diffusion-WebUI": [
+        "Other"
+    ],
+    "kadirnar/awesome-omni-architectures": [
+        "Other"
+    ],
+    "kadirnar/awesome-tts-architectures": [
         "Other"
     ],
     "kaedea/notion-down": [
@@ -15341,9 +15446,6 @@
     "kovidgoyal/kitty": [
         "Other"
     ],
-    "koxudaxi/datamodel-code-generator": [
-        "Other"
-    ],
     "koxudaxi/fastapi-code-generator": [
         "Other"
     ],
@@ -15545,6 +15647,9 @@
     "krzemienski/headspin-control": [
         "Other"
     ],
+    "krzemienski/hunter": [
+        "Other"
+    ],
     "krzemienski/ils-ios": [
         "Other"
     ],
@@ -15618,6 +15723,9 @@
         "Other"
     ],
     "krzemienski/video-mosaic-dreamscape": [
+        "Other"
+    ],
+    "krzemienski/vigil": [
         "Other"
     ],
     "krzemienski/withagents": [
@@ -15812,6 +15920,9 @@
     "kumpulanremaja/wifi": [
         "Other"
     ],
+    "kunchenguid/firstmate": [
+        "Other"
+    ],
     "kunwar-shah/mini-coder-brain": [
         "Other"
     ],
@@ -15879,6 +15990,9 @@
         "Other"
     ],
     "lahfir/agent-desktop": [
+        "Other"
+    ],
+    "laithalsaadoon/awsbatch-ffmpeg": [
         "Other"
     ],
     "lakinduakash/linux-wifi-hotspot": [
@@ -16211,10 +16325,7 @@
     "lima-vm/lima": [
         "Other"
     ],
-    "limebar/roku": [
-        "Other"
-    ],
-    "linagora/Twake": [
+    "linagora/twake-legacy": [
         "Other"
     ],
     "linkedin/Hakawai": [
@@ -16665,6 +16776,9 @@
         "Other"
     ],
     "mRemoteNG/mRemoteNG": [
+        "Other"
+    ],
+    "ma-nucho-pro/wife": [
         "Other"
     ],
     "maaslalani/notion-todo": [
@@ -17342,9 +17456,6 @@
     "meta-llama/codellama": [
         "Other"
     ],
-    "meta-llama/llama-cookbook": [
-        "Other"
-    ],
     "meta-llama/llama-models": [
         "Other"
     ],
@@ -17361,6 +17472,9 @@
         "Other"
     ],
     "metachris/pdfx": [
+        "Other"
+    ],
+    "metainternal/llama-cookbook": [
         "Other"
     ],
     "metaskills/skill-builder": [
@@ -17834,6 +17948,9 @@
     "mltframework/mlt": [
         "Other"
     ],
+    "mltframework/shotcut": [
+        "Other"
+    ],
     "mmatczuk/go-http-tunnel": [
         "Other"
     ],
@@ -17855,7 +17972,7 @@
     "mmuyskens/autoswipe": [
         "Other"
     ],
-    "mnfst/manifest": [
+    "mnfst/llm-gateway": [
         "Other"
     ],
     "mnismt/awesome-notion-site": [
@@ -18303,6 +18420,9 @@
         "Other"
     ],
     "n8n-io/n8n-docs": [
+        "Other"
+    ],
+    "nab138/iloader": [
         "Other"
     ],
     "nachifur/MulimgViewer": [
@@ -18824,6 +18944,9 @@
     "novaspirit/pi-hosted": [
         "Other"
     ],
+    "nowledge-co/con-terminal": [
+        "Other"
+    ],
     "npm/cli": [
         "Other"
     ],
@@ -19319,6 +19442,9 @@
     "openai/openai-responses-starter-app": [
         "Other"
     ],
+    "openai/plugins": [
+        "Other"
+    ],
     "openai/skills": [
         "Other"
     ],
@@ -19793,6 +19919,9 @@
     "pbs/pycaption": [
         "Other"
     ],
+    "pc-style/skill-view": [
+        "Other"
+    ],
     "pc8544/Website-Crawler": [
         "Other"
     ],
@@ -19869,6 +19998,9 @@
         "Other"
     ],
     "perwendel/spark": [
+        "Other"
+    ],
+    "petergyang/no-ai-slop": [
         "Other"
     ],
     "peterkrueck/Claude-Code-Development-Kit": [
@@ -20109,6 +20241,9 @@
         "Other"
     ],
     "plotly/dash-player": [
+        "Other"
+    ],
+    "plugin87/ux-ui-agent-skills": [
         "Other"
     ],
     "pluja/awesome-privacy": [
@@ -20915,6 +21050,9 @@
     "reactive-python/reactpy": [
         "Other"
     ],
+    "reactive-resume/reactive-resume": [
+        "Other"
+    ],
     "reactive/data-client": [
         "Other"
     ],
@@ -21165,6 +21303,9 @@
         "Other"
     ],
     "rkoshak/sensorReporter": [
+        "Other"
+    ],
+    "rlaope/oh-my-hermes": [
         "Other"
     ],
     "rmjordas/awesome-vue": [
@@ -22055,10 +22196,10 @@
     "shadowsocks/libQtShadowsocks": [
         "Other"
     ],
-    "shadowsocks/shadowsocks-iOS": [
+    "shadowsocks/shadowsocks-c": [
         "Other"
     ],
-    "shadowsocks/shadowsocks-libev": [
+    "shadowsocks/shadowsocks-iOS": [
         "Other"
     ],
     "shadowsocks/shadowsocks-manager": [
@@ -23627,6 +23768,9 @@
     "teambit/bit": [
         "Other"
     ],
+    "tech-leads-club/agent-skills": [
+        "Other"
+    ],
     "techleadhd/chatgpt-retrieval": [
         "Other"
     ],
@@ -23796,9 +23940,6 @@
         "Other"
     ],
     "theREDspace/Roku-JWTLib": [
-        "Other"
-    ],
-    "theagenticguy/awsbatch-ffmpeg": [
         "Other"
     ],
     "theahmadov/NIVOS": [
@@ -23985,6 +24126,15 @@
         "Other"
     ],
     "tinacms/tinacms": [
+        "Other"
+    ],
+    "tinyhumansai/medulla": [
+        "Other"
+    ],
+    "tinyhumansai/openhuman": [
+        "Other"
+    ],
+    "tinyhumansai/tinyagents": [
         "Other"
     ],
     "tinyproxy/tinyproxy": [
@@ -24737,6 +24887,9 @@
     "vectordotdev/vector": [
         "Other"
     ],
+    "vectorize-io/hindsight": [
+        "Other"
+    ],
     "veerendra2/raspberrypi-homeserver": [
         "Other"
     ],
@@ -24953,6 +25106,9 @@
     "vidstack/captions": [
         "Other"
     ],
+    "viettranx/3dviz-pro-max": [
+        "Other"
+    ],
     "viewflow/django-material": [
         "Other"
     ],
@@ -25130,6 +25286,9 @@
     "voltrue2/in-app-purchase": [
         "Other"
     ],
+    "vorssaint/vorssaint-utils": [
+        "Other"
+    ],
     "vsouza/awesome-ios": [
         "Other"
     ],
@@ -25233,6 +25392,9 @@
         "Other"
     ],
     "waleedahmad/node-stream": [
+        "Other"
+    ],
+    "walkinglabs/awesome-harness-engineering": [
         "Other"
     ],
     "wallabag/wallabag": [
@@ -25464,6 +25626,9 @@
         "Other"
     ],
     "whittinghamj/restreamer-production": [
+        "Other"
+    ],
+    "whoisdsmith/project-awesome": [
         "Other"
     ],
     "wibosco/NetworkingWingman-Example": [
@@ -26106,6 +26271,9 @@
         "Other"
     ],
     "zai-org/CogVideo": [
+        "Other"
+    ],
+    "zai-org/GLM-5": [
         "Other"
     ],
     "zai-org/GLM-OCR": [
