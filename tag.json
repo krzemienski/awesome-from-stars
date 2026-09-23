@@ -4805,9 +4805,6 @@
     "Shampra/EvernoteToAnytype": [
         "Other"
     ],
-    "ShaneIsrael/fireshare": [
-        "Other"
-    ],
     "SharpAI/DeepCamera": [
         "Other"
     ],
@@ -11438,7 +11435,7 @@
     "ericm/yup": [
         "Other"
     ],
-    "ericmjl/opencode-autolearn": [
+    "ericmjl/agent-autolearn": [
         "Other"
     ],
     "erikdubois/Aureola": [
@@ -11852,7 +11849,7 @@
     "fedecalendino/pysub-parser": [
         "Other"
     ],
-    "feder-cr/AIHawk": [
+    "feder-cr/invisible_playwright_mcp": [
         "Other"
     ],
     "feder-cr/lib_resume_builder_AIHawk": [
@@ -11967,6 +11964,9 @@
         "Other"
     ],
     "firecrawl/firecrawl-mcp-server": [
+        "Other"
+    ],
+    "fireshare-app/fireshare": [
         "Other"
     ],
     "fishaudio/fish-speech": [
@@ -12386,7 +12386,7 @@
     "getpelican/pelican": [
         "Other"
     ],
-    "getsentry/XcodeBuildMCP": [
+    "getsentry/MobileBuildMCP": [
         "Other"
     ],
     "getsentry/sentry-cocoa": [
@@ -13563,6 +13563,9 @@
         "Other"
     ],
     "hybrik/hybrik-samples": [
+        "Other"
+    ],
+    "hydra-ecosystem/omegaconf": [
         "Other"
     ],
     "hynek/structlog": [
@@ -17456,6 +17459,9 @@
     "meta-llama/codellama": [
         "Other"
     ],
+    "meta-llama/llama-cookbook": [
+        "Other"
+    ],
     "meta-llama/llama-models": [
         "Other"
     ],
@@ -17472,9 +17478,6 @@
         "Other"
     ],
     "metachris/pdfx": [
-        "Other"
-    ],
-    "metainternal/llama-cookbook": [
         "Other"
     ],
     "metaskills/skill-builder": [
@@ -19284,9 +19287,6 @@
         "Other"
     ],
     "omril321/automated-notebooklm": [
-        "Other"
-    ],
-    "omry/omegaconf": [
         "Other"
     ],
     "omz/AppSales-Mobile": [
