@@ -500,6 +500,9 @@
     "Anxcye/anx-reader": [
         "Other"
     ],
+    "ApodexAI/FrontierAgent": [
+        "Other"
+    ],
     "AppFlowy-IO/AppFlowy": [
         "Other"
     ],
@@ -543,6 +546,9 @@
         "Other"
     ],
     "ArthurSonzogni/Diagon": [
+        "Other"
+    ],
+    "ArthurSonzogni/FTXUI": [
         "Other"
     ],
     "AsahiLinux/asahi-installer": [
@@ -3383,6 +3389,9 @@
     "LiveBench/LiveBench": [
         "Other"
     ],
+    "LiveContainer/LiveContainer": [
+        "Other"
+    ],
     "LiveUI/S3": [
         "Other"
     ],
@@ -3954,6 +3963,9 @@
         "Other"
     ],
     "Noelware/s3-action": [
+        "Other"
+    ],
+    "NoodleRon/gitsidian": [
         "Other"
     ],
     "NorakGithub/cookiecutter-django-angular": [
@@ -4751,6 +4763,9 @@
     "Saik0s/mcp-browser-use": [
         "Other"
     ],
+    "SakanaAI/mass": [
+        "Other"
+    ],
     "Samsung/HbbPlayer": [
         "Other"
     ],
@@ -5222,6 +5237,9 @@
     "Tencent/OOMDetector": [
         "Other"
     ],
+    "TencentCloud/Octop": [
+        "Other"
+    ],
     "TencentQQGYLab/AppAgent": [
         "Other"
     ],
@@ -5229,6 +5247,9 @@
         "Other"
     ],
     "Textualize/rich": [
+        "Other"
+    ],
+    "Textualize/textual": [
         "Other"
     ],
     "TextureGroup/Texture": [
@@ -6122,6 +6143,9 @@
     "agent-of-empires/agent-of-empires": [
         "Other"
     ],
+    "agent-substrate/substrate": [
+        "Other"
+    ],
     "agent0ai/agent-zero": [
         "Other"
     ],
@@ -6810,6 +6834,9 @@
         "Other"
     ],
     "anomalyco/opentui": [
+        "Other"
+    ],
+    "anomalyco/terminal-control": [
         "Other"
     ],
     "anombyte93/prd-taskmaster": [
@@ -8096,6 +8123,9 @@
     "benbjohnson/scuttlebutt": [
         "Other"
     ],
+    "benchflow-ai/skillsbench": [
+        "Other"
+    ],
     "benemohamed/insomnia-plugin-json-schema": [
         "Other"
     ],
@@ -8144,7 +8174,16 @@
     "best-of-ai/best-of-ai": [
         "Other"
     ],
+    "bestagentkits/agency-skills": [
+        "Other"
+    ],
     "bestagentkits/ak-cli": [
+        "Other"
+    ],
+    "bestagentkits/ak-render": [
+        "Other"
+    ],
+    "bestagentkits/orchestrate": [
         "Other"
     ],
     "better-auth/skills": [
@@ -9261,6 +9300,12 @@
         "Other"
     ],
     "clearlinux/clr-installer": [
+        "Other"
+    ],
+    "clerk/cli": [
+        "Other"
+    ],
+    "clerk/migration-tool": [
         "Other"
     ],
     "cli/cli": [
@@ -11043,6 +11088,12 @@
         "Other"
     ],
     "dzharii/awesome-elasticsearch": [
+        "Other"
+    ],
+    "dzhng/skills": [
+        "Other"
+    ],
+    "dzhng/yap": [
         "Other"
     ],
     "e-dard/flask-s3": [
@@ -13016,6 +13067,9 @@
     "gravitl/netmaker": [
         "Other"
     ],
+    "graykode/abtop": [
+        "Other"
+    ],
     "gree-gorey/bash-exporter": [
         "Other"
     ],
@@ -14091,9 +14145,6 @@
         "Other"
     ],
     "ishkawa/DataSourceKit": [
-        "Other"
-    ],
-    "ismailgunacar/gitsidian": [
         "Other"
     ],
     "isontheline/pro.webssh.net": [
@@ -16647,6 +16698,9 @@
         "Other"
     ],
     "lonelyclaud/slack-api-postman": [
+        "Other"
+    ],
+    "longbridge/gpui-kit": [
         "Other"
     ],
     "longhorn/longhorn": [
@@ -19949,6 +20003,9 @@
     "paperTurkey/manjaroSetup": [
         "Other"
     ],
+    "paperclipai/paperclip": [
+        "Other"
+    ],
     "papers-we-love/papers-we-love": [
         "Other"
     ],
@@ -19991,7 +20048,7 @@
     "pathintegral-institute/mcpm.sh": [
         "Other"
     ],
-    "pathwaycom/llm-app": [
+    "pathwaycom/serviette": [
         "Other"
     ],
     "patrickclery/firetv": [
@@ -20592,6 +20649,9 @@
         "Other"
     ],
     "prime-radiant-inc/iterative-development": [
+        "Other"
+    ],
+    "prime-radiant-inc/maintaining-documentation": [
         "Other"
     ],
     "primefaces/primereact": [
@@ -22212,9 +22272,6 @@
         "Other"
     ],
     "seemoo-lab/owl": [
-        "Other"
-    ],
-    "segment-boneyard/analytics-swift": [
         "Other"
     ],
     "segment-integrations/analytics-ios-integration-amplitude": [
@@ -25965,6 +26022,9 @@
         "Other"
     ],
     "wszqkzqk/deepin-wine-ubuntu": [
+        "Other"
+    ],
+    "wtfutil/wtf": [
         "Other"
     ],
     "wting/autojump": [
