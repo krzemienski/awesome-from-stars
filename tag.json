@@ -329,6 +329,9 @@
     "Agents365-ai/video-podcast-maker": [
         "Other"
     ],
+    "Agnidia/KisMac2": [
+        "Other"
+    ],
     "AgoraIO-Extensions/Electron-SDK": [
         "Other"
     ],
@@ -1778,10 +1781,10 @@
     "EveryInc/compound-engineering-plugin": [
         "Other"
     ],
-    "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts": [
+    "EvoMap/awesome-agent-evolution": [
         "Other"
     ],
-    "EvoMap/awesome-agent-evolution": [
+    "Evolink-AI/awesome-gpt-image-2-API-Prompts": [
         "Other"
     ],
     "EwingYangs/awesome-open-gpt": [
@@ -2471,6 +2474,9 @@
     "GalvinGao/gptkeyboard": [
         "Other"
     ],
+    "Gathin23/cleanyourtv": [
+        "Other"
+    ],
     "Genymobile/scrcpy": [
         "Other"
     ],
@@ -2754,9 +2760,6 @@
         "Other"
     ],
     "IENT/YUView": [
-        "Other"
-    ],
-    "IGRSoft/KisMac2": [
         "Other"
     ],
     "IcaliaLabs/LoginKit": [
@@ -3626,6 +3629,9 @@
     "MichaIng/DietPi": [
         "Other"
     ],
+    "MichaelKinsy/PiG": [
+        "Other"
+    ],
     "MichielJ1998/Gnome-tweak-screensaver": [
         "Other"
     ],
@@ -4095,6 +4101,9 @@
         "Other"
     ],
     "OpenHands/OpenHands": [
+        "Other"
+    ],
+    "OpenHands/software-agent-sdk": [
         "Other"
     ],
     "OpenRouterArchived/openrouter-runner": [
@@ -7922,6 +7931,9 @@
     "backnotprop/prompt-tower": [
         "Other"
     ],
+    "backnotprop/pstack": [
+        "Other"
+    ],
     "backstage/backstage": [
         "Other"
     ],
@@ -8516,7 +8528,7 @@
     "bramp/ffmpeg-cli-wrapper": [
         "Other"
     ],
-    "brandonsaldan/codex": [
+    "brandonsaldan/twofold": [
         "Other"
     ],
     "brannondorsey/wifi-cracking": [
@@ -9404,6 +9416,9 @@
     "code-yeongyu/lazyclaudecode": [
         "Other"
     ],
+    "code-yeongyu/lazycodex": [
+        "Other"
+    ],
     "code-yeongyu/oh-my-openagent": [
         "Other"
     ],
@@ -10074,9 +10089,6 @@
         "Other"
     ],
     "darwiin/yaac-another-awesome-cv": [
-        "Other"
-    ],
-    "darwin-lau/langmanus": [
         "Other"
     ],
     "das-kaesebrot/transcodeservice": [
@@ -14060,6 +14072,9 @@
     "intellij-rust/intellij-rust": [
         "Other"
     ],
+    "internetarchive/openlibrary": [
+        "Other"
+    ],
     "intitni/CopilotForXcode": [
         "Other"
     ],
@@ -14409,6 +14424,9 @@
         "Other"
     ],
     "jbweimar/external-webvtt-example": [
+        "Other"
+    ],
+    "jc01rho/omo-herdr-dag": [
         "Other"
     ],
     "jcarbaugh/python-roku": [
@@ -15747,6 +15765,9 @@
         "Other"
     ],
     "krzemienski/djs-agents": [
+        "Other"
+    ],
+    "krzemienski/dots-dash": [
         "Other"
     ],
     "krzemienski/dreamy": [
@@ -18995,6 +19016,9 @@
     "nodejs/node-gyp": [
         "Other"
     ],
+    "nodes-app/swift-markdown-engine": [
+        "Other"
+    ],
     "nodiscc/awesome-linuxaudio": [
         "Other"
     ],
@@ -19872,6 +19896,9 @@
         "Other"
     ],
     "outlyer-net/docker-ffmpeg-nonfree": [
+        "Other"
+    ],
+    "oven-sh/awesome-bun": [
         "Other"
     ],
     "ovity/octotree": [
@@ -21174,6 +21201,9 @@
         "Other"
     ],
     "raycast/ray-so": [
+        "Other"
+    ],
+    "raymyers/coding-agents-2.0": [
         "Other"
     ],
     "razzant/ouroboros": [
@@ -24542,6 +24572,9 @@
     "transitive-bullshit/nextjs-notion-starter-kit": [
         "Other"
     ],
+    "transitive-bullshit/smart-tv-for-real-tho": [
+        "Other"
+    ],
     "travis-ci/gimme": [
         "Other"
     ],
@@ -24945,9 +24978,6 @@
         "Other"
     ],
     "usememos/memos": [
-        "Other"
-    ],
-    "usenotra/notra": [
         "Other"
     ],
     "usmannasir/cyberpanel": [
