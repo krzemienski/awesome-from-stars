@@ -881,7 +881,7 @@
 * [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): An orchestrated sub agent dev team powered by claude code
 * [LangGPT/awesome-claude-code](https://github.com/LangGPT/awesome-claude-code): Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树）
 * [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
-* [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods): Community catalogue of public Claude Code mods (function hooks), scanned from GitHub with what each mod can read, write, run or send over the network. Browse https://mods.aidojo.si/
+* [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods): 5,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.
 * [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins): Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
 * [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents): A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 * [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit): The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
@@ -2027,7 +2027,7 @@
 * [eugenepyvovarov/CodeAgentsMobile](https://github.com/eugenepyvovarov/CodeAgentsMobile): Mobile agents backed by opencode 
 * [krzemienski/CodeAgentsMobile](https://github.com/krzemienski/CodeAgentsMobile): Mobile client for Claude Code. https://testflight.apple.com/join/eUpweBZV
 * [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad
-* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp): High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp): Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 * [getagentseal/codeburn](https://github.com/getagentseal/codeburn): Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 * [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): ✨ AI Coding, Vim Style
 * [CodingDemon1/CodeConverter-GenAI](https://github.com/CodingDemon1/CodeConverter-GenAI): The Code Converter App is a versatile tool that allows users to convert, debug, and analyze code written in various programming languages. It utilizes the OpenAI GPT-3.5 turbo model to provide dynamic code conversion, debugging assistance, and code analysis.
@@ -2241,7 +2241,7 @@
 * [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss): None
 * [nystudio107/craft-transcoder](https://github.com/nystudio107/craft-transcoder): Transcode video & audio files to various formats, and provide video thumbnails
 * [learnroku/crash-course](https://github.com/learnroku/crash-course): This course is intended to quickly get you up to speed on Roku SceneGraph. It's aimed at an audience of developers who are familiar with streaming video applications but are unfamiliar with Roku.
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
 * [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 * [apify/crawlee](https://github.com/apify/crawlee): Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * [openshift-evangelists/crd-code-generation](https://github.com/openshift-evangelists/crd-code-generation): None
@@ -4201,6 +4201,7 @@
 * [frankyw/home-server](https://github.com/frankyw/home-server): Docker stuff for home server
 * [homebrew-ffmpeg/homebrew-ffmpeg](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg): A homebrew tap for an ffmpeg formula with lots of options
 * [go-gitea/homebrew-gitea](https://github.com/go-gitea/homebrew-gitea): Gitea: Homebrew, moved to https://gitea.com/gitea/homebrew-gitea
+* [rjyo/homebrew-moshi](https://github.com/rjyo/homebrew-moshi): Homebrew tap for Moshi (moshi-hook)
 * [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk): AdoptOpenJDK HomeBrew Tap
 * [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient.
 * [ebaauw/homebridge-lib](https://github.com/ebaauw/homebridge-lib): Utility Library for Homebridge Plugins
@@ -5335,6 +5336,7 @@
 * [memi-design/memi](https://github.com/memi-design/memi): The design layer for agentic AI — design context, interface checks, and verification for coding agents.
 * [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori): Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
 * [pulsejet/memories](https://github.com/pulsejet/memories): Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
+* [rjyo/memory-search](https://github.com/rjyo/memory-search): Standalone memory search with hybrid search (vector + BM25) for Claude Code
 * [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
 * [usememos/memos](https://github.com/usememos/memos): Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 * [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill): [NeurIPS'26] MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
@@ -6533,7 +6535,7 @@
 * [HHK1/PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView): A set of tools to trim, crop and select frames inside a video
 * [Jahaja/psdash](https://github.com/Jahaja/psdash): A linux system information web dashboard using psutils and flask
 * [Eyevinn/pseudo-live-playout](https://github.com/Eyevinn/pseudo-live-playout): None
-* [pskoett/pskoett-ai-skills](https://github.com/pskoett/pskoett-ai-skills): Skills for AI agents
+* [pskoett/pskoett-ai-skills](https://github.com/pskoett/pskoett-ai-skills): Skills for AI agents, self-improving agent skills
 * [emarsden/pssh-box-wasm](https://github.com/emarsden/pssh-box-wasm): Parsing and printing PSSH boxes for DRM systems, in WebAssembly.
 * [feedsbrain/pssh-tools](https://github.com/feedsbrain/pssh-tools): Tools to generate PSSH Data and PSSH Box
 * [backnotprop/pstack](https://github.com/backnotprop/pstack): Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
@@ -7665,7 +7667,7 @@
 * [google-labs-code/stitch-sdk](https://github.com/google-labs-code/stitch-sdk): Generate UI screens from text prompts and extract their HTML and screenshots programmatically.
 * [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills): A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 * [ml-archive/storage](https://github.com/ml-archive/storage): Eases the use of multiple storage and CDN services 🗄
-* [ciscoriordan/storescreens-cli](https://github.com/ciscoriordan/storescreens-cli): Capture App Store screenshots for iOS and macOS apps across every required device size in one command. Supports iPhone, iPad, Apple Watch, and Mac.
+* [ciscoriordan/storescreens-cli](https://github.com/ciscoriordan/storescreens-cli): XCUITest screenshot orchestration for iOS and macOS. Simulator setup and raw screenshot collection; Koubou renders and ASC CLI uploads.
 * [libopenstorage/stork](https://github.com/libopenstorage/stork): Stork - Storage Orchestration Runtime for Kubernetes
 * [stanford-oval/storm](https://github.com/stanford-oval/storm): An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 * [storybookjs/storybook](https://github.com/storybookjs/storybook): Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -8819,7 +8821,6 @@
 * [P0cL4bs/WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated): DEPRECATED, wifipumpkin3 -> https://github.com/P0cL4bs/wifipumpkin3
 * [usamahacker0/WIFI-Uchiha](https://github.com/usamahacker0/WIFI-Uchiha): A WIFI Pentesting Tool ( WIFI Hacking ) with Powerfull tools.
 * [madeindjs/Wifi_BruteForce](https://github.com/madeindjs/Wifi_BruteForce): A script to find all Wifi Networks in the area and try the 100K most used passwords
-* [dvecy/WifiAttack](https://github.com/dvecy/WifiAttack): Educational WiFi Monitoring and Manipulation Commands using airmon-ng in Kali Linux
 * [Squuv/WifiBF](https://github.com/Squuv/WifiBF): This is a wifi Brute Force. script undetectable and secure!
 * [cinquemb/WifiBruteCrack](https://github.com/cinquemb/WifiBruteCrack): Program to attempt to brute force all wifi networks in range of a device, and return a possible set of networks to connect to and the password,
 * [phenotypic/WiFiCrack](https://github.com/phenotypic/WiFiCrack): Automated Wi-Fi cracker for macOS
@@ -8894,7 +8895,7 @@
 * [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild): Xcode-compatible build tool.
 * [XCTEQ/XCFit](https://github.com/XCTEQ/XCFit): Full Stack Protocol Oriented BDD in Xcode for iOS app with Swift using XCUITest, Cucumberish and FitNesse
 * [DaveWoodCom/XCGLogger](https://github.com/DaveWoodCom/XCGLogger): A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.
-* [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin): iOS development ClaudeCode plugin for mindful token and context usage. Contains modular MCPs that group various Xcode/IDB tools based on your current workflow.
+* [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin): iOS development ClaudeCode plugin for mindful token and context usage. Contains modular MCPs that group various Xcode/IDB tools based on your current workflow. [deprecated]
 * [MobileNativeFoundation/XCLogParser](https://github.com/MobileNativeFoundation/XCLogParser): Tool to parse Xcode and xcodebuild logs stored in the xcactivitylog format
 * [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server): a build server protocol implementation for integrate xcode with sourcekit-lsp
 * [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner): If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!

@@ -11051,9 +11051,6 @@
     "dvdsgl/claude-canvas": [
         "Other"
     ],
-    "dvecy/WifiAttack": [
-        "Other"
-    ],
     "dvershinin/apt-to-dnf": [
         "Other"
     ],
@@ -21513,6 +21510,12 @@
         "Other"
     ],
     "rjshkhr/dotfiles": [
+        "Other"
+    ],
+    "rjyo/homebrew-moshi": [
+        "Other"
+    ],
+    "rjyo/memory-search": [
         "Other"
     ],
     "rjyo/moshi-skill": [
