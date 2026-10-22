@@ -569,6 +569,9 @@
     "AstraExt/astra-monitor": [
         "Other"
     ],
+    "Asymptote-Labs/agent-beacon": [
+        "Other"
+    ],
     "Atcold/NYU-DLSP21": [
         "Other"
     ],
@@ -3500,9 +3503,6 @@
     "MadAppGang/claude-code": [
         "Other"
     ],
-    "MadsLorentzen/ai-job-search": [
-        "Other"
-    ],
     "MagicArena/ngrokd": [
         "Other"
     ],
@@ -3735,6 +3735,9 @@
         "Other"
     ],
     "MuShare/Httper-iOS": [
+        "Other"
+    ],
+    "Mubelotix/SimRepo": [
         "Other"
     ],
     "MunGell/awesome-for-beginners": [
@@ -6239,6 +6242,9 @@
     "ai-for-developers/awesome-ai-coding-tools": [
         "Other"
     ],
+    "ai-job-search-dev/ai-job-search": [
+        "Other"
+    ],
     "ai-shifu/ChatALL": [
         "Other"
     ],
@@ -6983,6 +6989,9 @@
     "anthropics/riv2025-long-horizon-coding-agent-demo": [
         "Other"
     ],
+    "anthropics/sandbox-runtime": [
+        "Other"
+    ],
     "anthropics/skills": [
         "Other"
     ],
@@ -7646,6 +7655,9 @@
     "automotive-hub/imvision-ads-gen": [
         "Other"
     ],
+    "autonomous-ai/openharness": [
+        "Other"
+    ],
     "autoswiperight/autoswiperight.github.io": [
         "Other"
     ],
@@ -8019,6 +8031,9 @@
         "Other"
     ],
     "bayasdev/envycontrol": [
+        "Other"
+    ],
+    "baz-scm/awesome-reviewers": [
         "Other"
     ],
     "bazelbuild/bazel": [
@@ -9069,6 +9084,9 @@
         "Other"
     ],
     "chaton2325/Brute-force-wifi": [
+        "Other"
+    ],
+    "cheaper-inference/OmniRoute": [
         "Other"
     ],
     "chemag/h264nal": [
@@ -10575,9 +10593,6 @@
         "Other"
     ],
     "diegohaz/arc": [
-        "Other"
-    ],
-    "diegosouzapw/OmniRoute": [
         "Other"
     ],
     "diet103/claude-code-infrastructure-showcase": [
@@ -12873,6 +12888,9 @@
         "Other"
     ],
     "google-research-datasets/Objectron": [
+        "Other"
+    ],
+    "google-research/harness2": [
         "Other"
     ],
     "google/EarlGrey": [
@@ -16709,10 +16727,10 @@
     "lollipopkit/fl_pi_llm": [
         "Other"
     ],
-    "lollipopkit/flutter_gpt_box": [
+    "lollipopkit/flutter_server_box": [
         "Other"
     ],
-    "lollipopkit/flutter_server_box": [
+    "lollipopkit/llmbox": [
         "Other"
     ],
     "lonelyclaud/slack-api-postman": [
@@ -17423,7 +17441,7 @@
     "maxep/MXParallaxHeader": [
         "Other"
     ],
-    "maxritter/pilot-shell": [
+    "maxritter/qualitylayer": [
         "Other"
     ],
     "maxutility2011/ezLiveStreaming": [
@@ -17904,6 +17922,9 @@
         "Other"
     ],
     "miguelgrinberg/microblog": [
+        "Other"
+    ],
+    "mihirgupta0900/tv-home": [
         "Other"
     ],
     "mikalv/awesome-qt-qml": [
