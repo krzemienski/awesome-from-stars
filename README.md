@@ -4063,6 +4063,7 @@
 * [gglucass/headroom-desktop](https://github.com/gglucass/headroom-desktop): Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%
 * [juanfont/headscale](https://github.com/juanfont/headscale): An open source, self-hosted implementation of the Tailscale control server
 * [krzemienski/headspin-control](https://github.com/krzemienski/headspin-control): Claude Code plugin for controlling real HeadSpin devices — HAR-verified auth, device inventory, Appium/socket.io/Janus control, exploration, bug reporting. Live-validated, no mocks.
+* [Hebrish-ASR/Hebrish-Claude-Plugins](https://github.com/Hebrish-ASR/Hebrish-Claude-Plugins): Claude Code marketplace for Hebrish (hebrish.app): skills for working on the apps, training data, website, outreach and Hugging Face
 * [juzzlin/Heimer](https://github.com/juzzlin/Heimer): Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 * [ElisaMin/Heizi-Flashing-Tools](https://github.com/ElisaMin/Heizi-Flashing-Tools): GUI Tools developed for adb and fastboot operate eg fastboot boot image. fastboot reboot, adb reboot recovery .........
 * [helloSystem/hello](https://github.com/helloSystem/hello): Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
@@ -5558,6 +5559,7 @@
 * [AtomMaterialUI/mtslack](https://github.com/AtomMaterialUI/mtslack): Customize your Slack experience with tweaks and themes. Includes the famous Material Themes as well as other popular themes such as Monokai Pro, Dracula, Atom One, GitHub, Solarized, Night Owl...
 * [RonRothman/mtwsgi](https://github.com/RonRothman/mtwsgi): A Multithreaded Python WSGI Implementation
 * [mugiseyebrows/mugi-ffmpeg](https://github.com/mugiseyebrows/mugi-ffmpeg): Gui for ffmpeg to simplify transcoding and embeding audio / subtitles in mkv videos
+* [Program-Warehouse/Mukkamala-Venkata-Sai-Prakash-portfolio](https://github.com/Program-Warehouse/Mukkamala-Venkata-Sai-Prakash-portfolio): Portfolio Website of Mukkamala Venkata Sai Prakash Created by Program Warehouse 
 * [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer): MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 * [krzemienski/multi-agent-consensus](https://github.com/krzemienski/multi-agent-consensus): Framework for 3-agent consensus validation with hard gates for Claude Code
 * [KalyanM45/Multi-Agentic-Blog-Generation](https://github.com/KalyanM45/Multi-Agentic-Blog-Generation): This project is a fully automated AI blogging platform built with LangGraph and Groq’s LLM. It generates and publishes technical blog posts automatically to a modern, responsive website. The system dynamically renders Markdown content without requiring complex build setups.
@@ -5944,7 +5946,7 @@
 * [obsproject/obs-amd-encoder](https://github.com/obsproject/obs-amd-encoder): AMD Advanced Media Framework Encoder Plugin for Open Broadcaster Studio
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio): OBS Studio - Free and open source software for live streaming and screen recording
 * [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura): The headless browser for AI agents and web scraping
-* [Roy3838/Observer](https://github.com/Roy3838/Observer): Why observe computer if computer can observe for you
+* [Roy3838/Observer](https://github.com/Roy3838/Observer): Local Micro-Agents that monitor your screen, so you don't have to.
 * [openbroadcaster/observer](https://github.com/openbroadcaster/observer):  :radio: OBServer Automation, Scheduler, Media Library and Player Manager
 * [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides): Create markdown-based reveal.js presentations in Obsidian
 * [caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin): Allow you to access your calibre libraries and read books directly in Obsidian.
@@ -7274,7 +7276,7 @@
 * [shadowsocks/shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager): A shadowsocks manager tool for multi user and traffic control.
 * [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5): A cross-platform shadowsocks GUI client
 * [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install): Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
-* [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG): Next Generation of ShadowsocksX
+* [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG): Shadowsocks GUI client for mac OS
 * [juhovh/shairplay](https://github.com/juhovh/shairplay): Apple airplay and raop protocol server
 * [shaka-project/shaka-lab](https://github.com/shaka-project/shaka-lab): Packages for the Shaka Lab environment
 * [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager): A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
