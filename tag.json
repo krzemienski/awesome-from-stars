@@ -2453,9 +2453,6 @@
     "G-dH/workspace-switcher-manager": [
         "Other"
     ],
-    "GCWing/OpenBitFun": [
-        "Other"
-    ],
     "GNOME/gnome-applets": [
         "Other"
     ],
@@ -5666,6 +5663,9 @@
     "WikidPad/WikidPad": [
         "Other"
     ],
+    "WineOfTruth/dotfiles": [
+        "Other"
+    ],
     "WisdomSky/Cloudflared-web": [
         "Other"
     ],
@@ -5772,9 +5772,6 @@
         "Other"
     ],
     "Yassinello/claude-plugin-prd-workflow": [
-        "Other"
-    ],
-    "YazdanZ/dotfiles": [
         "Other"
     ],
     "Yeachan-Heo/gajae-code": [
@@ -19653,6 +19650,9 @@
         "Other"
     ],
     "open-webui/open-webui": [
+        "Other"
+    ],
+    "openBitFun/OpenBitFun": [
         "Other"
     ],
     "openHPI/nginx-hls-analyzer": [
